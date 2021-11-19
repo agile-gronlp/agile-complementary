@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_142" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 142</idno>: <rs type="textType" key="priestly contract">Contract</rs> of sale for the priesthood of Adrasteia and Nemesis on Kos</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Stéphanie Paul</author>
+				<author>Saskia Peels</author>
+		
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<p> Opistographic <rs type="objectType">plaque</rs> of white marble, broken at the top. The tablet was broken into two fragments when it was found, but later it was broken further into five fragments, four of which are now preserved. The text is badly worn.</p>
+
+									<p>
+										<dimensions>
+											<height unit="cm">38</height>
+											<width unit="cm">42-43</width>
+											<depth unit="cm">8</depth>
+										</dimensions>
+									</p>
+
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+									<p> Cursive letters, carelessly inscribed.</p>
+									<p> Letters: <height unit="cm">1</height>; space between lines: A: <height unit="cm">0.3</height>; B: <height unit="cm">1-1.2</height>.</p>
+								</layout>
+							</layoutDesc>
+
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p>
+								<origDate notBefore="-0100" notAfter="-0050">ca. 100-50 BC</origDate>
+							</p>
+							<p>
+								<desc>Justification: lettering (Hallof - Bosnakis).</desc>
+							</p>
+						</origin>
+						<provenance>
+							<p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found in secondary use in the town of Kos. Now in the Castle (inv. no. E 384). </p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2016 by Z. Pitz. </p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+
+				<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 325.</p>
+				<p> Other edition: Segre <bibl type="abbr" n="I.Cos">I.Cos</bibl> ED 62 with ph. pl. 20. </p>
+
+				<p> Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 140-141; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 161; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20325" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+
+				
+<p> Further bibliography: <bibl type="author_date" n="Stafford 2000">Stafford 2000</bibl>: 75-110; <bibl type="author_date" n="Wiemer 2003">Wiemer 2003</bibl>; <bibl type="author_date" n="Bosnakis - Hallof 2005">Bosnakis - Hallof 2005</bibl>: 233-240; <bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 153-156. </p>
+			</div>
+
+			<div type="edition">
+				<head>Text</head>
+		
+			<ab subtype="face" n="A"> Face A 
+							
+<lb/><gap reason="lost" extent="unknown" unit="line"/>					
+				
+<lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/>μένωι <orig>α</orig><gap reason="lost" extent="unknown" unit="character"/><orig>πα</orig><gap reason="lost" extent="unknown" unit="character"/> 
+				
+<lb xml:id="line_2" n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>λ</orig><gap reason="lost" quantity="1" unit="character"/><orig>σιαμ</orig> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> τὰ <name type="authority"><w lemma="νομίζω">νομιζόμεν<supplied reason="lost">α</supplied></w></name>
+				
+				
+				<lb xml:id="line_3" n="3"/><gap reason="lost" quantity="1" unit="character"/><orig>α</orig><gap reason="lost" quantity="1" unit="character"/><orig>κλε</orig><gap reason="lost" quantity="1" unit="character"/><orig>ε</orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>ο</unclear>ν</orig> τοὶ μὲν τὰν <w lemma="χειμερινός">χειμεριν<supplied reason="lost">ὰν</supplied></w>
+				
+						
+<lb xml:id="line_4" n="4"/><name type="title"><w lemma="ἄρχων">ἄρχοντες</w></name> <name type="month"><w lemma="Γεράστιος">Γεραστίου</w></name> <pc>·</pc><num value="24">κζʹ</num><pc>·</pc> τοὶ δὲ τὰν <w lemma="θέρειος">θε<supplied reason="lost">ρι</supplied>
+				
+							
+<lb xml:id="line_5" n="5" break="no"/>νὰν</w> <name type="title"><w lemma="ἄρχων">ἄρχον<supplied reason="lost">τ</supplied>ες</w></name> <supplied reason="lost">τ</supplied>ᾶ<supplied reason="lost">ι</supplied> <num value="27">κδʹ</num>, τῶν δὲ <w lemma="ἄλλος">ἄλλων</w> ὁ <w lemma="χρῄζω">χρῄ
+												
+<lb xml:id="line_6" n="6" break="no"/>ζων</w>, <w lemma="ἐπεί">ἐπεί</w> <w lemma="ἄν">κα</w> <w lemma="βούλομαι">δήληται</w>, <w lemma="ὅς">ὧν</w> <name type="authority"><w lemma="ὅσιος">ὅσιόν</w></name> <w lemma="εἰμί">ἐστιν</w> <name type="sacrifice"><w lemma="θύω">θύεν</w></name>
+				
+						
+<lb xml:id="line_7" n="7"/> ταῖς <name type="deity" key="Adrasteia"> <name type="deity" key="Nemesis"><w lemma="θεά">θεαῖς</w></name></name>· <name type="sacrifice"><w lemma="θύω">θυόντωι</w></name> δὲ καὶ τοὶ <name type="person"><w lemma="ἐργολαβέω">ἐργολαβεῦν
+											
+<lb xml:id="line_8" n="8" break="no"/>τες</w></name> τὸ <w lemma="ἱερός">ἱερὸν</w> <w lemma="ἤ">ἢ</w> <name type="group"><w lemma="δημόσιος">δαμόσιον</w></name> <w lemma="ἔργον">ἔργον</w> <w lemma="κατά">καθ᾿</w> <w lemma="ἕκαστος">ἕκασ
+				
+													<lb xml:id="line_9" n="9" break="no"/>τον</w> <w lemma="ἐνιαυτός">ἐνια<supplied reason="lost">υτὸν</supplied></w> <w lemma="ἅπαξ">ἅ<supplied reason="lost">π</supplied>α<supplied reason="lost">ξ</supplied></w>, <w lemma="ὅσος">ὅσσοι</w> μέν <w lemma="ἄν">κα</w> <name type="person"><w lemma="ἐργολαβέω">ἐργολα
+				
+				
+<lb xml:id="line_10" n="10" break="no"/>βήσωντ<supplied reason="lost">ι</supplied></w> </name> <w lemma="ἔργον"><supplied reason="lost">ἔργον</supplied></w> <w lemma="ἔστε"><supplied reason="lost">ἔ</supplied>στε</w> <num value="1000">U+10175 ͵α</num>
+ <w lemma="ἀπό">ἀπὸ</w> 
+<num value="10">U+10175 ιʹ</num>, τοὶ δὲ
+				
+<lb xml:id="line_11" n="11"/> <w lemma="ἀπό">ἀπὸ</w> <supplied reason="lost"><num value="1000">U+10175 ͵α</num></supplied> <w lemma="ἔστε"><unclear>ἔ</unclear><supplied reason="lost">στε</supplied></w> <supplied reason="lost"><num value="5000">U+10175 ͵ε</num></supplied> <supplied reason="lost"><w lemma="ἀπό">ἀπὸ</w></supplied> <num value="20"><supplied reason="lost">U+10175</supplied> <unclear>κ</unclear>ʹ</num>, τοὶ δὲ <w lemma="ὑπέρ">ὑπὲρ</w> <num value="5000">͵ε</num>  <w lemma="ἀπό">ἀπὸ</w> <num value="50">U+10175 νʹ</num>,
+				
+						
+<lb xml:id="line_12" n="12"/> καὶ τοὶ <name type="title"><w lemma="ἀρχιτέκτων"><supplied reason="lost">ἀρχιτέκτ</supplied><unclear>ο</unclear>νες</w></name> <w lemma="μή">μὴ</w> <w lemma="πρότερος">πρότερον</w> <w lemma="αὐτός">αὐ
+				
+				
+<lb xml:id="line_13" n="13" break="no"/>τοῖς</w> τὰς̣ <name type="object"><w lemma="δέλτος"><supplied reason="lost">δέλτους</supplied></w></name> <w lemma="δίδωμι"><supplied reason="lost">δ</supplied>ιδόντωι</w>, <w lemma="εἰ">αἴ</w> <w lemma="ἄν">κα</w> <w lemma="μή">μὴ</w> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱρεὺς</w></name>
+				
+				
+<lb xml:id="line_14" n="14"/><w lemma="αὐτός">αὐτο<supplied reason="lost">ῖ</supplied>ς</w> <w lemma="ἐμφανίζω"><supplied reason="lost">ἐμφαν</supplied>ίσῃ</w> τὰν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> <w lemma="ἐπιτελέω">ἐπιτε
+				
+				
+<lb xml:id="line_15" n="15" break="no"/><supplied reason="lost">τ</supplied>ελέσθα<supplied reason="lost">ι</supplied></w><supplied reason="lost">,</supplied> <w lemma="ἤ"><supplied reason="lost">ἢ</supplied></w> <w lemma="ὀφείλω"><supplied reason="lost">ὀφε</supplied>ιλόντωι</w> <name type="punishment"><w lemma="ἐπιτίμιον">ἐπιτίμιον</w></name> <name type="genericOffering"><w lemma="ἱερός">ἱ<unclear>ε</unclear>
+				
+												<lb xml:id="line_16" n="16" break="no"/>ρὰς</w></name> <name type="deity" key="Adrasteia"><w lemma="Ἀδράστεια">Ἀδραστείας</w></name> καὶ <name type="deity" key="Nemesis"><w lemma="νέμεσις">Νεμέσεως</w></name> 
+				<num value="9000">U+10175 ͵θ</num>·
+				
+<lb xml:id="line_17" n="17"/> <name type="sacrifice"><w lemma="θύω">θυόντ<supplied reason="lost">ωι</supplied></w></name> δὲ <supplied reason="lost">κα</supplied>ὶ <unclear>τ</unclear>οὶ <w lemma="ἀποδείκνυμι">ἀπο<supplied reason="lost">δε</supplied>ικνύμενοι</w> <w lemma="πᾶς">πάν
+				
+									
+<lb xml:id="line_18" n="18" break="no"/>τες</w> <w lemma="ὑπό">ὑπὸ</w> τ<supplied reason="lost">ῶ</supplied><unclear>ν</unclear> <w lemma="τραπεζίτης"><unclear>τρ</unclear><supplied reason="lost">α</supplied>πεζειτᾶν</w> <w lemma="ἤ">ἢ</w> <w lemma="ἄλλως">ἄλλως</w> <w lemma="πως">πως</w>
+				
+				
+<lb xml:id="line_19" n="19"/> <w lemma="καθίζω">καθίζοντες</w> <w lemma="ἐπί">ἐπὶ</w> τᾶν <w lemma="τράπεζα">τραπεζᾶν</w>
+								
+<lb xml:id="line_20" n="20"/> <w lemma="ἕκαστος">ἕκαστος</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερ<unclear>ε</unclear>ῖον</w></name> <space extent="unknown" unit="character"/> <supplied reason="lost">U+10175</supplied> <num value="50">νʹ</num>, τά τε <name type="portion"><w lemma="γέρας">γέρη</w></name> <w lemma="δίδωμι">διδότ<supplied reason="lost">ω</supplied></w>
+				
+				
+<lb xml:id="line_21" n="21"/> <w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="γράφω">γεγραμμένα</w></name> <w lemma="ἤ">ἢ</w> <name type="punishment"><w lemma="ἀποτίνω">ἀποτινόντωι</w></name>
+								
+				
+<lb xml:id="line_22" n="22"/> τῶ<supplied reason="lost">ι</supplied> <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> <num value="50">U+10175 νʹ</num>
+ καὶ ἁ <w lemma="πρᾶξις">πρᾶξις</w> <w lemma="εἰμί">ἔστω</w> <w lemma="αὐτός">αὐτῶι</w>
+				
+<lb xml:id="line_23" n="23"/> <w lemma="καθά">καθάπερ</w> <w lemma="ἐκ">ἐκ</w> <name type="authority"><w lemma="δίκη">δίκ<unclear>α</unclear>ς</w></name>. 
+			</ab>
+					
+			<ab subtype="face" n="B"> Face B
+				
+				
+<lb xml:id="line_24" n="24"/> <supplied reason="lost">ἁ</supplied> <supplied reason="lost">δὲ</supplied> <name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱερωσύ</supplied>να</w></name> <w lemma="πωλέω">πωληθήτω</w> <orig>τ<unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> 
+								
+<lb xml:id="line_25" n="25"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τᾶς</supplied> <name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱερ</supplied>ωσύνας</w></name>· <w lemma="διαγράφω">διαγρα<supplied reason="lost">ψάντω</supplied></w> <supplied reason="lost">τοὶ</supplied>
+				
+				
+<lb xml:id="line_26" n="26"/> <supplied reason="lost">μὲν</supplied> <name type="title"><w lemma="ταμίας"><supplied reason="lost">ταμίαι</supplied></w></name> <supplied reason="lost">τοῖ</supplied>ς <name type="title"><w lemma="προστάτης">προστάταις</w></name> <w lemma="εἰς">ε<unclear>ἰς</unclear></w> <supplied reason="lost">τὰν</supplied> <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυσίαν</supplied></w></name>
+				
+				
+<lb xml:id="line_27" n="27"/> <supplied reason="lost">U+10175</supplied>
+<gap reason="lost" extent="unknown" unit="character"/> τὸ <w lemma="προσκατάβλημα">ποτικατά<unclear>β</unclear>λ<unclear>η</unclear><supplied reason="lost">μα</supplied></w> <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀποδώσει</supplied></w>
+				
+				
+<lb xml:id="line_28" n="28"/> <supplied reason="lost">ὁ</supplied> <w lemma="πρίαμαι"><supplied reason="lost">πριάμενος</supplied></w> <supplied reason="lost">τὰ</supplied>ν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύναν</w></name> <w lemma="ἅμα">ἅμα</w> τᾶ<unclear>ς</unclear> <w lemma="ἄλλος">ἄλλα<supplied reason="lost">ς</supplied></w>
+				
+				
+<lb xml:id="line_29" n="29"/> <w lemma="τιμή"><supplied reason="lost">τειμᾶς</supplied></w><supplied reason="lost">·</supplied> <w lemma="πρίαμαι"><supplied reason="lost">ἐπρία</supplied><unclear>τ</unclear>ο</w> Κλεόνεικος 
+				
+<lb xml:id="line_30" n="30"/> <supplied reason="lost">Εὐκ</supplied>άρπου <num value="19800">U+10175 ΜΑ ͵θ<unclear>ω</unclear>ʹ</num>.	
+			</ab>
+				
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				<p>Face A</p>
+<p>[...] the customary sacrificial animals [...] the archons of the winter semester, on the 24th of Gerastios, those of the summer (5) semester, on the 27th, and anyone else who wants, when he wants, of the things (or: on the days) that are religiously sanctioned for sacrifice to the goddesses. Those who have taken a contract for a sacred or public work should also sacrifice, one time per year, those who have taken a contract for works (10) of up to 1000 drachmae (are to make a sacrifice) of 10 dr., those who (have taken a contract) of 1000 to 5000 dr., (are to make a sacrifice) of 20 dr., (for a contract) of more than 5000 dr., (a sacrifice) of 50 dr., and the architects should not give them the [tablets], before the priest has declared to them that the sacrifice has been (15) accomplished, or they will owe 9000 dr. as a fine, consecrated to Adrasteia and Nemesis. All those who have been appointed by the bankers or who in another way have a bank should sacrifice (20) an animal of 50 [dr.] each, and he (sic) should give the perquisites according to what has been written or they should pay the priest 50 dr., and the priest may exact payment, as if in fulfilment of a legal verdict.</p>
+				
+				<p> Face B</p>
+<p> [The priesthood] is to be sold [...] (25) of the priesthood. The treasurers should pay to the <foreign>prostatai</foreign> for [the sacrifice... The buyer of the] priesthood is to pay the additional sum at the same time as the other [payments]. Kleonikos (30) son of Eukarpos bought it for 19 800 dr. </p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				<p>Face A</p>
+				
+<p> [...] les animaux sacrificiels habituels [...] les archontes du semestre d’hiver le 24 Gerastios, ceux du semestre (5) d’été le 27, et quiconque d'autre le souhaite, quand il le veut aux jours où il est religieusement permis de sacrifier aux déesses. Que sacrifient aussi ceux qui ont pris en contrat un chantier sacré ou public, une fois chaque année; ceux qui auraient pris en contrat [des travaux] (10) jusque 1000 drachmes (feront un sacrifice) à hauteur de 10 dr., de 1000 à 5000 dr., (un sacrifice) de 20 dr., et de plus de 5000 dr., (un sacrifice) de 50 dr., et que les architectes ne leur donnent pas les [tablettes] avant que le prêtre ne leur ait clairement montré que le sacrifice avait été (15) accompli, ou bien qu’ils soient redevables d’une amende de 9000 dr. consacrées à Adrasteia et Némésis. Que sacrifient [également] ceux qui sont désignés par les banquiers ou ceux qui tiennent une banque d’une autre manière, (20) chacun un animal de 50 [dr.] et qu’il donne (sic) les parts d’honneur conformément à ce qui est écrit ou qu’ils paient au prêtre 50 dr. et que celui-ci procède au recouvrement comme en vertu d’une décision judiciaire.</p>
+
+				<p>Face B</p>
+				
+<p>Que [la prêtrise] soit vendue [... de la prêtrise. Que les trésoriers] versent aux prostates pour [le sacrifice ... que l’acquéreur de la] prêtrise [rembourse] la dépense additionnelle en même temps que les autres [paiements.] Kleonikos fils d’Eukarpos l’a achetée pour 19 800 dr.</p>
+				
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+				
+<p> The inscription records parts of a contract for the sale of the priesthood of Adrasteia and Nemesis, as is particularly evident from face B, which preserves part of the regulations concerning the sale, including the conclusion of the document, recording the name of the purchaser and the price he paid. Face A, more fragmentary and whose beginning is probably missing, now begins with rules on the dates of sacrifices (lines 3-7); further specifications concern various categories of contractors and professionals, such as we frequently find in Koan sales of priesthoods (cf. Commentary below), who are required to make sacrifices of a certain value depending on their occupation or the contract they have undertaken. Another sale of priesthood for this cult, from the second half of the second century BC, is also partly preserved (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 318); after perhaps the mention of the tariffs to be paid to bankers, as in our text, it contains rules for the mandatory sacrifices to be made by freedmen upon the payment for their manumission (lines 4-9), as well as fragmentary specifications concerning the τελετή of the priest and the modalities of payment (in instalments) for the purchase of the office (lines 9-19).</p>
+
+<p> The cult of Adrasteia and Nemesis on Kos is not attested outside these two sales of priesthood, but the goddesses were also worshipped in a joint cult in Rhodes, Andros, Termessos, Macedonia, and many other places. The character of the sacrificial regulations on Kos may indicate that the cult of Nemesis here did not necessarily concern "distribution of what is due" or "divine retribution" in general, as elsewhere (see Stafford). Many of the sacrifices mentioned in the document have a financial connotation. This is evident for the bankers; the contractors also had to make sacrifices proportional to the value of their contracted work; see also above for the freedmen in the earlier document of sale. These elements may imply that the sphere of action of the goddess on Kos was specifically connected with the just allocation of money and with the propriety of financial transactions more generally (see Paul).</p>
+				
+<p> Lines 1-5: As we have it, the inscription starts <foreign>in medias res</foreign>, with the conclusion of a section concerning the specific occasions on which sacrifices must be performed. Two of these concerned the archons of each semester; they had to make a sacrifice of τὰ νομιζόμεν[α], offering animals of a type stated in other (no longer preserved) documents or by tradition in this cult. Both sacrifices are apparently to take place within a short interval near the end of the month Gerastios, the fifth month in the calendar of Kos. But since Hallof and Bosnakis presume that the elections for the archons of the summer semester would only have taken place in this month, they thus believe that it is probable that the month Alseios (the 11th month in the calendar) has dropped out from the second sacrifice: in other words, the archons for the summer semester should appropriately have sacrificed near the end of their respective semester, in Alseios (when the new archons for the winter semester are also presumed to have been elected). In each semester, the elections of new magistrates would have taken place in those two months (Gerastios and Alseios respectively) and would thus have constituted an appropriate occasion for the sacrifices.</p>
+				
+<p> Line 5-7: The sacrificial prescription for "other persons" (apparently not belonging to the aforementioned groups, such as the boards of archons) is somewhat surprising, since the list then continues with a discussion of professional groups. The rule presumably intends for any other individuals to have the possibility of making sacrificed when permitted. On the usage of τὸ ὅσιον in connection to sacrificial norms, cf. also <ref target="CGRN_188">CGRN 188</ref> (Kos), lines 8-10, with further references. Note that the antecedent of the relative pronoun ὧν is not completely clear, since it is not expressed. It is most likely that the prescription referred to the days on which sacrifice was religiously sanctioned and when the temple was open (as in <ref target="CGRN_163">CGRN 163</ref>, lines 3-4, also from Kos); a less plausible alternative is that the reference was to the types of sacrificial animals allowed in the cult.</p>
+
+<p> Lines 7-16: The contractors of public and sacred works are each required to perform a sacrifice whose value is proportionate to that of the contract (Segre; Wiemer, p. 297). Architects are not to give the contractors the tablets describing these contracts before they have fulfilled this obligation. The fine of 9000 drachmae, sacred to Adrasteia and Nemesis, which is mentioned in line 16 is astronomical: it seems to be intended as a strong deterrent, rather than as a realistically envisaged fine (cp. the 50 drachmae in line 22).</p>
+			
+<p> Lines 17-23: In the case of the sacrifices to be made by bankers, the fine is more commensuration: in fact, it is equal to the value of the animal and is to be paid to the priest in case of non-compliance concerning the giving of perquisites. This served to compensate the priest, but did not reflect a payment of the perquisites in cash, as we find for instance in <ref target="CGRN_220">CGRN 220</ref> (Kos), lines 2-5, where the γέρη in cash are equal to half of the price of the animal. </p>
+
+<p> Lines 25-29: The sale of the priesthood was apparently accompanied by a sacrifice, to be performed by the <foreign>prostatai</foreign>; it is unclear if this may have had a connection with the τελετή of the priest. The money was to be advanced by the city, but the new priest had to reimburse the "additional sum" (line 27). Among the Koan <foreign>diagraphai</foreign>, cp. <ref target="CGRN_208">CGRN 208</ref>, lines 58-59, and <ref target="CGRN_220">CGRN 220</ref>, lines 49-50, for a similar procedure; but contrast <ref target="CGRN_221">CGRN 221</ref>, lines 31-34, and <bibl type="abbr" n="LSCG">LSCG</bibl> 162, where the sacrifice connected to the sale was paid with the money belonging to the god.</p>
+				
+<p> Lines 29-30: The presence of the name of the buyer is unique in sales of priesthoods from Kos, though it is found in conclusion in contracts from other cities (cf. e.g. <ref target="CGRN_176">CGRN 176</ref>, Priene, line 35). Habicht has identified this Kleonikos, son of Eukarpos, with a trierarch in the fleet of Varro in 82 BC, which would be a further indication for the date of the inscription. The price of the priesthood, 19 800 drachmae, is the highest price ever attested for a sale of priesthood. A tax of 10% (ἐπιδέκατον) was normally added to the sale price, and already Herzog had interpreted this price as being 18 000 + 1 800 (= 10%) = 19 800.</p>
+			
+
+
+			</div>
+		</body>
+	</text>
+</TEI>

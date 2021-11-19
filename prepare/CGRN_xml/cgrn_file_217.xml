@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_217" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 217</idno>: Small <rs type="textType" key="purity regulation">purity regulation</rs> from Delos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Small <rs type="objectType">stele</rs> on a pediment which is broken.</p>
+
+	<p><dimensions>
+	<height unit="cm">27</height>
+	<width unit="cm">24-25.5</width>
+	<depth unit="cm">6.5</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p> The letters are thick but the text is quite faded.</p>
+			<p>Letters: <height unit="cm">1.1</height>. Interlinear space: <height unit="cm">1.4</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0125" notAfter="-0100">end of 2nd century BC</origDate></p>
+
+		<p><desc>Justification: lettering and context (Roussel).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Delos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599588" type="external">Delos</ref></placeName>. Found in the sanctuary of Syrian deities. </p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Roussel - Launey <bibl type="abbr" n="ID">ID</bibl> 2530.
+	    			</p>
+	    			<p> Other edition:
+	    				<bibl type="author_date" n="Roussel 1913">Roussel 1913</bibl>: 265-271.
+	    			</p>
+
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 54.
+
+	    			</p>
+
+	    			<p> Further bibliography:
+
+	    				<bibl type="author_date" n="Roussel 1987">Roussel 1987</bibl>: 246-247;
+	    				<bibl type="author_date" n="Cole 2004">Cole 2004</bibl>;
+	    				Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 7.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    			<ab>
+<lb xml:id="line_1" n="1"/> <w lemma="ἀγαθός">ἀγαθῇ</w> <w lemma="τύχη">τύχῃ</w>· <name type="purification"><w lemma="ἁγνεύω">ἁγνεύοντας</w></name>
+
+<lb xml:id="line_2" n="2"/> <w lemma="εἴσειμι">εἰσιέναι</w> <w lemma="ἀπό">ἀπὸ</w> <name type="meal"><name type="animal" key="fish"><w lemma="ὀψάριον">ὀψαρίου</w></name></name> <w lemma="τριταῖος">τρι
+
+<lb xml:id="line_3" n="3" break="no"/>ταίους</w>· <w lemma="ἀπό">ἀπὸ</w> <name type="meal"><name type="animal" key="swine"><w lemma="ὕειος">ὑείου</w></name></name> <name type="purification"><name type="liquid"><w lemma="λούω">λουσάμε
+
+<lb xml:id="line_4" n="4" break="no"/>νον</w></name></name>· <w lemma="ἀπό">ἀπὸ</w> <name type="sex"><w lemma="γυνή">γυναικὸς</w></name> <w lemma="τριταῖος">τριταίο<unclear>υ</unclear><supplied reason="omitted">ς</supplied></w>·
+
+<lb xml:id="line_5" n="5"/> <w lemma="ἀπό">ἀπὸ</w> <name type="childbirth"><w lemma="τίκτω">τετοκείας</w></name> <w lemma="ἑβδομαῖος">ἑβδομαίους</w>·
+
+<lb xml:id="line_6" n="6"/> <w lemma="ἀπό">ἀπὸ</w> <name type="childbirth"><name type="death"><w lemma="διαφθορά">διαφθορᾶς</w></name></name> <w lemma="τεσσαρακοσταῖος">τετταρα
+
+<lb xml:id="line_7" n="7" break="no"/>κοσταίους</w>· <w lemma="ἀπό">ἀπὸ</w> <name type="menstruation"><w lemma="γυναικεῖος">γυναικεί
+
+<lb xml:id="line_8" n="8" break="no"/>ων</w></name> <w lemma="ἐναταῖος">ἐναταίους</w>.
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>With good fortune. Enter (into the sanctuary), being pure from fish, on the third day; from swine, having washed (on the same day); from a woman, on the third day; from a woman who has given birth, on the seventh day; from miscarriage (or: abortion), on the fortieth day; from female matters (i.e. menstruation), on the ninth day.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p> À la bonne fortune. Entrer (dans le sanctuaire), en état de pureté, (après avoir mangé) du poisson, le troisième jour; (après avoir mangé) du porc, après s'être lavé (le jour même); (après des relations sexuelles) avec une femme, le troisième jour; après (un contact) avec une femme qui a accouché, le septième jour; après une fausse couche (ou un avortement), le quarantième jour; après les menstrues, le neuvième jour.</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p>The stele on which this regulation was inscribed was found in the large sanctuary of Syrian deities on Delos, on a terrace at the foot of Mount Cynthus. The deities honoured at this site were Atargatis, and her <foreign>paredros</foreign>, Hadad, both of Syrian origin. These gods started to be worshipped on Delos perhaps during the course of the second century BC. They were first honoured in a private sanctuary, before the authorities of the island decided, between 128/7 and 112/1, to install a public sanctuary. It is supposed that these deities were Hellenized during this period: a Zeus Hadad is known on Delos, and Atargatis was also called Hagne Aphrodite, Hagne Theos or Thea Syria (cf. Roussel 1913).</p>
+
+<p>Lines 2-3: Eating fish resulted in an impurity of three days. This waiting period for entering the sanctuary is noteworthy on an island, where fish would have constituted an important part of the normal diet. Note that this type of impurity is quite rare, but see here <ref target="http://cgrn.ulg.ac.be/CGRN_203/">CGRN 203</ref>, line 6, also from Delos.</p>
+
+<p>Line 3: The prohibition relating to swine may be interpreted more properly as an interdiction against pork products, particularly meat: this is the strict meaning of the adjective ὕειος; this conclusion also follows on the analogy of the mention of fish in the previous line. Cp. <ref target="http://cgrn.ulg.ac.be/CGRN_90/">CGRN 90</ref>, lines 25-27 a law from Ialysos, in which "shoes and anything made of pig" were not allowed. Cf. Sokolowski's commentary for an inventory of regulations in which swine or pork was forbidden.</p>
+
+<p>Line 4: For a discussion of ritual impurity after sex, cf. our commentary on <ref target="http://cgrn.ulg.ac.be/CGRN_71/">CGRN 71</ref>, lines 3-6.</p>
+
+<p>Lines 5-7: Childbirth and abortion are sources of impurity in <ref target="http://cgrn.ulg.ac.be/CGRN_189/">CGRN 189</ref> (Lykosoura), and <ref target="http://cgrn.ulg.ac.be/CGRN_144/">CGRN 144</ref> (Ptolemais), lines 10-13, for example, as is menstruation. The concern with menstruation occurs irregularly, late, and mostly in foreign cults (Cole, p. 108). It is referred to as τὰ γυναικεῖα, τὰ καταμήνια or τὰ φύσικα. Cf. Lupu for a comparison of the numbers of days of impurity resulting from these causes.</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

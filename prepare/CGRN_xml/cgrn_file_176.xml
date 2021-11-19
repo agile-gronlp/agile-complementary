@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_176" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 176</idno>: <rs type="textType" key="priestly contract">Contract of sale for the priesthood</rs> of Dionysus Phleos at Priene</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Sylvain Lebreton</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p>Marble (?) <rs type="objectType">stele</rs> with tenon for insertion into a base and a ledge on top. Originally intact, but now broken in four pieces. Left upper corner missing; a small part of the stone is missing between the two upper pieces (beginning of lines 2-7).</p>
+
+	<p><dimensions>
+	<height unit="cm">177</height>
+	<width unit="cm">47.5-53</width>
+	<depth unit="cm">13</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p>The text is very regular, except for some spaces between words, especially in lines 26 and 27. Line 1 is centered on the stone and there is a larger space between this line and the rest of the text. The beginning of lines 8-22 have become effaced.</p>
+			<p>Letters: line 1: <height unit="cm">1.5</height>, lines 2-38: <height unit="cm">1</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0200" notAfter="-0100">2nd century BC, or perhaps ca. 130 BC</origDate></p>
+		<p><desc>Justification: lettering (Hiller von Gaertringen); the more precise date is based on prosopographical arguments (Blümel - Merkelbach). </desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Priene" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599905" type="external">Priene</ref></placeName>. Found reused in the vicinity of the Marketplace. Now in the Staatlichen Museen of Berlin (Antikensammlung, inv. no. 334). </p></provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by JM Carbon in 30.01.2019.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Blümel and Merkelbach <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 144, with German transl. and ph. vol. II, p. 118-119.</p>
+
+	    			<p> Other edition: Hiller von Gaertringen <bibl type="abbr" n="I.Priene">I.Priene</bibl> 174.</p>
+
+	    			<p> Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 37;
+	    			<bibl type="author_date" n="Arnaoutoglou 1998">Arnaoutoglou 1998</bibl>: 138-140 no. 107.
+	    			</p>
+
+	    			<p> Further bibliography:
+
+	    				<bibl type="author_date" n="Graf 1985">Graf 1985</bibl>: 283-284;
+	    				<bibl type="author_date" n="Merkelbach 1988">Merkelbach 1988</bibl>: 75;
+	    				<bibl type="author_date" n="Robert - Robert 1989">Robert - Robert 1989</bibl>: 96-98;
+	    				<bibl type="author_date" n="Gauthier 1991">Gauthier 1991</bibl>: 57-58 and 170;
+	    				<bibl type="author_date" n="Rumscheid 1998">Rumscheid 1998</bibl>: 47-51 and 170-172;
+	    				<bibl type="author_date" n="Tassignon 2003">Tassignon 2003</bibl>;
+	    				<bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>: 290-326;
+	    				<bibl type="author_date" n="Graf 2010b">Graf 2010b</bibl>: 65-68;
+	    				<bibl type="author_date" n="Wiemer - Kah 2011">Wiemer - Kah 2011</bibl>: 35-38.
+
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+
+	    <ab>
+<lb xml:id="line_1" n="1"/> <name type="authority"><w lemma="διαγραφή">διαγραφὴ</w></name> <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύσου</w></name> <name type="epithet" key="Phleos"><w lemma="φλέος">Φλέου</w></name>.
+
+<lb xml:id="line_2" n="2"/> <w lemma="ἀγαθός">ἀγ<supplied reason="lost">α</supplied>θῆι</w> <w lemma="τύχη">τύχηι</w>· <w lemma="ἐπί">ἐπὶ</w> <w lemma="ὅδε">τοῖσδε</w> <w lemma="πωλέω">πωλοῦμεν</w> τὴν <name type="personnel"><w lemma="ἱερωσύνη">ἱ<unclear>ε</unclear>
+
+<lb xml:id="line_3" n="3" break="no"/><unclear>ρω</unclear>σύνην</w></name> τοῦ <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύσου</w></name> τοῦ <name type="epithet" key="Phleos"><w lemma="φλέος">Φλέου</w></name>· ὁ <w lemma="πρίαμαι">πρι<unclear>άμε</unclear>
+
+<lb xml:id="line_4" n="4" break="no"/><unclear>νο</unclear>ς̣</w> <w lemma="ἱερόω">ἱερήσεται</w> <w lemma="χρόνος">χρόνον</w> <w lemma="ὅσος">ὅσον</w> <w lemma="ἄν">ἂμ</w> <w lemma="βιόω">βιοῖ</w>, <w lemma="ἱερόω">ἱερήσε
+
+<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">τ</supplied><unclear>α</unclear>ι</w> δὲ καὶ τοῦ <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύσου</w></name> τοῦ <name type="epithet" key="Katagogios"><w lemma="Καταγώγιος">Καταγωγίου</w></name>·
+
+<lb xml:id="line_6" n="6"/> <w lemma="ἀτελής">ἀ<supplied reason="lost">τ</supplied>ελὴς</w> δὲ <w lemma="εἰμί">ἔσται</w> καὶ τοῦ <w lemma="σῶμα">σώματος</w>· <w lemma="εἰμί">εἶνα<unclear>ι</unclear></w>
+
+<lb xml:id="line_7" n="7"/> δὲ <w lemma="αὐτός">αὐτῶι</w> καὶ <w lemma="ἐν">ἐμ</w> <name type="structure"><w lemma="πρυτανεῖον">πρυτανείωι</w></name> καὶ <w lemma="ἐν">ἐμ</w> <name type="structure"><w lemma="Πανίωνες">Πανιωνί
+
+<lb xml:id="line_8" n="8" break="no"/>ωι</w></name> <name type="meal"><w lemma="σίτησις">σίτησιν</w></name> <w lemma="πᾶς">πάσας</w> τὰς <w lemma="ἡμέρα">ἡμέρας</w>· <w lemma="λαμβάνω">λήψεται</w> δὲ <w lemma="ὅς">ὧ<unclear>ν</unclear></w>
+
+<lb xml:id="line_9" n="9"/> <name type="group"><w lemma="πόλις">πόλις</w></name> <name type="sacrifice"><w lemma="θύω">θύει</w></name> <name type="portion"><w lemma="σκέλος">σκέλος</w></name> <name type="portion"><w lemma="γλῶσσα">γλῶσσαν</w></name> <name type="portion"><w lemma="δέρμα">δέρμα</w></name> <w lemma="παρά">παρὰ</w> <name type="structure"><w lemma="βωμός">βω
+
+<lb xml:id="line_10" n="10" break="no"/><unclear>μ</unclear>οῦ</w></name> <name type="portion"><w lemma="μοῖρα">μοίρας</w></name>· <space quantity="1" unit="character"/> <w lemma="παρέχω">παρέξεται</w> δὲ <name type="genericOffering"><w lemma="θύος">θύα</w></name>, <name type="vegetal"><w lemma="οὐλαί">οὐλάς</w></name>, <name type="vegetal"><w lemma="λιβανωτός">λιβανω
+
+<lb xml:id="line_11" n="11" break="no"/>τόν</w></name>, <name type="bakery"><w lemma="ἐλατήρ">ἔλατρα</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῒ</w></name> μὲν <w lemma="ἐκ">ἐκ</w> <w lemma="τεταρτεύς">τεταρτέως</w>, <name type="animal" key="sheep"><name type="animal" key="goat"><w lemma="πρόβατον">προβάτωι</w></name></name> δὲ
+
+<lb xml:id="line_12" n="12"/> <w lemma="ἐκ">ἐξ</w> <w lemma="ἡμίεκτον">ἡμιέκτου</w>, <name type="age"><name type="animal" key="generic"><w lemma="γαλαθηνός">γαλαθηνῶι</w></name></name> δὲ <w lemma="ἐκ">ἐγ</w> <w lemma="δύο">δύο</w> <w lemma="χοῖνιξ">χοινίκων</w>·
+
+<lb xml:id="line_13" n="13"/> <w lemma="εἰμί">εἶναι</w> δὲ <w lemma="αὐτός">αὐτῶι</w> καὶ <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="θέατρον">θεάτρῳ</w></name> <w lemma="ἐν">ἐμ</w> <w lemma="προεδρία">προεδρίαι</w>
+
+<lb xml:id="line_14" n="14"/> <w lemma="καθίζω">κα<unclear>θ</unclear>ῆσθαι</w> καὶ <name type="clothing"><w lemma="στολή">στολὴν</w></name> <w lemma="ἔχω">ἔχειν</w> <w lemma="ὅς">ἣν</w> <w lemma="ἄν">ἂμ</w> <w lemma="βούλομαι">βούληται</w> καὶ
+
+<lb xml:id="line_15" n="15"/> <name type="adornment"><w lemma="στέφανος">στέφανον</w></name> <w lemma="κισσός">κισσοῦ</w> <w lemma="χρύσεος">χρυσοῦν</w>· <space quantity="1" unit="character"/> <name type="sacrifice"><w lemma="θύω">θύσει</w></name> δὲ καὶ τὰς <name type="sacrifice"><w lemma="θυσία">θυ
+
+<lb xml:id="line_16" n="16" break="no"/>σίας</w></name> τὰς <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="θέατρον">θεάτρωι</w></name> τῶι <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύσωι</w></name> τῶι <name type="epithet" key="Melpomenos"><w lemma="Μελπομένη">Μελ
+
+<lb xml:id="line_17" n="17" break="no"/>πο<unclear>μ</unclear>ένωι</w></name> καὶ <name type="vegetal"><w lemma="λιβανωτός">λιβανωτὸν</w></name> <name type="genericOffering"><w lemma="ἐπιτίθημι">ἐπιθήσει</w></name> καὶ <name type="sacrifice"><name type="liquid"><w lemma="σπονδαρχέω">σπονδαρ
+
+<lb xml:id="line_18" n="18" break="no"/>χήσει</w></name></name> καὶ τὰς <name type="invocation"><w lemma="εὐχή">εὐχὰς</w></name> <w lemma="εὔχομαι">εὔξεται</w> <w lemma="ὑπέρ">ὑπὲρ</w> τῆς <name type="group"><w lemma="πόλις">πόλεως</w></name>
+
+<lb xml:id="line_19" n="19"/> τῆς <name type="ethnic" key="Priene">Πριηνέων</name>· <w lemma="ἔχω">ἐχέτω</w> δὲ καὶ <name type="clothing"><w lemma="στολή">στολὴν</w></name> <w lemma="ὅς">ἣν</w> <w lemma="ἄν">ἂμ</w> <w lemma="βούλομαι">βού
+
+<lb xml:id="line_20" n="20" break="no"/>ληται</w> καὶ <name type="adornment"><w lemma="στέφανος">στέφανον</w></name> <w lemma="χρύσεος">χρυσοῦν</w> <w lemma="μείς">μῆνα</w> <name type="month"><w lemma="Ληναιών">Ληναιῶνα</w></name>
+
+<lb xml:id="line_21" n="21"/> καὶ <name type="month"><w lemma="Ἀνθεστηριών">Ἀνθεστηριῶνα</w></name>, καὶ τοῖς <name type="festival"><w lemma="Καταγώγια">Καταγωγίοις</w></name> <w lemma="καθηγέομαι">καθ<unclear>η</unclear>
+
+<lb xml:id="line_22" n="22" break="no"/>γήσεται</w> τῶν <w lemma="συγκατάγω">συγκαταγόντων</w> τὸν <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διόνυσον</w></name>,
+
+<lb xml:id="line_23" n="23"/> <name type="clothing"><w lemma="στολή">στολὴν</w></name> <w lemma="ἔχω">ἔχων</w> <w lemma="ὅς">ἣν</w> <w lemma="ἄν">ἂν</w> <w lemma="ἐθέλω">θέληι</w> καὶ <name type="adornment"><w lemma="στέφανος">στέφανον</w></name> <w lemma="χρύσεος">χρυ
+
+<lb xml:id="line_24" n="24" break="no"/>σοῦν</w>· <space quantity="1" unit="character"/> <w lemma="ἐάν">ἐὰν</w> δὲ <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="ἑξακισχίλιοι">ἐξακισχιλίας</w> <w lemma="δραχμή">δραχμὰς</w>
+
+<lb xml:id="line_25" n="25"/> <w lemma="εὑρίσκω">εὕρηι</w> ἡ <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύνη</w></name> καὶ <w lemma="ἀτελής">ἀτελὴς</w> <w lemma="εἰμί">ἔσται</w> ὁ <w lemma="πρίαμαι">πριάμενος</w>
+
+<lb xml:id="line_26" n="26"/> <w lemma="λαμπαδαρχία">λαμπαδαρχίας</w> <space quantity="1" unit="character"/> <w lemma="ἀγωνοθεσία">ἀγωνοθεσίας</w> <space quantity="1" unit="character"/> <w lemma="ἱπποτροφία">ἱπποτροφίας</w>
+
+<lb xml:id="line_27" n="27"/> <w lemma="ἀρχιθεωρία">ἀρχιθεωρίας</w> <space quantity="1" unit="character"/> <w lemma="γυμνασιαρχία">γυμνασιαρχίας</w>· <space quantity="1" unit="character"/> <w lemma="ἐάν">ἐὰν</w> δὲ <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="μυριάς">μυ
+
+<lb xml:id="line_28" n="28" break="no"/>ρίας</w> καὶ <w lemma="δισχιλιάς">δισχιλίας</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="ἀγοράζω">ἀγοράσηι</w>, <w lemma="ἀτελής">ἀτελὴς</w> <w lemma="εἰμί">ἔσ
+
+<lb xml:id="line_29" n="29" break="no"/>ται</w> καὶ <w lemma="τριηραρχία">τριηραρχίας</w> καὶ <w lemma="οἰκονομία">οἰκονομίας</w> καὶ <w lemma="νεωποιία">νεωποΐας</w>
+
+<lb xml:id="line_30" n="30"/> καὶ <w lemma="προεισφορά">προεισφορᾶς</w> <w lemma="χρῆμα">χρημάτων</w>· <space quantity="1" unit="character"/> <w lemma="καταβάλλω">καταβαλεῖ</w> δὲ ὁ <w lemma="πρίαμαι">πριά
+
+<lb xml:id="line_31" n="31" break="no"/>μενος</w> τῶι <name type="personnel"><w lemma="νεωποίης">νεωπόηι</w></name> τὸ μὲν <w lemma="ἐπιδέκατον">ἐπιδέκατον</w> <w lemma="παραχρῆμα">παραχρῆ
+
+<lb xml:id="line_32" n="32" break="no"/>μα</w>, τῆς δὲ <w lemma="λοιπός">λοιπῆς</w> <w lemma="τιμή">τιμῆς</w> τὸ μὲν <w lemma="ἥμισυς">ἥμυσυ</w> <w lemma="μείς">μηνὸ<unclear>ς</unclear></w> <name type="month"><w lemma="Μεταγείτνιος">Με
+
+<lb xml:id="line_33" n="33" break="no"/>ταγειτνιῶνος</w></name> <w lemma="ἔτος">ἔτους</w> τοῦ <w lemma="αὐτός">αὐτοῦ</w>, τὸ δὲ <w lemma="ἥμισυς">ἥμυσυ</w> <w lemma="μείς">μ<unclear>η</unclear>
+
+<lb xml:id="line_34" n="34" break="no"/>νὸς</w> <name type="month"><w lemma="Ἀνθεστηριών">Ἀνθεστηριῶνος</w></name> <w lemma="ἐπί">ἐπὶ</w> <name type="title"><w lemma="στεφανηφόρος">στεφανηφόρου</w></name> Κλεο
+
+<lb xml:id="line_35" n="35" break="no"/>μένου· <w lemma="πρίαμαι">ἐπρίατο</w> Ἀθηνόπολις Κυδίμου <w lemma="δραχμή">δραχμῶν</w>
+
+<lb xml:id="line_36" n="36"/> <w lemma="μυριάς">μυρίων</w> <w lemma="δισχιλιάς">δισχιλίων</w> <w lemma="δύο">δύο</w> καὶ τοῦ <w lemma="ἐπιδέκατον">ἐπιδεκάτου</w> <w lemma="δραχμή">δρα
+
+<lb xml:id="line_37" n="37" break="no"/>χμῶν</w> <space quantity="1" unit="character"/> <w lemma="χιλιάς">χιλίων</w> <w lemma="διακόσιοι">διακοσίων</w> <space quantity="1" unit="character"/> <w lemma="ὀβολός">ὀβολοῦ</w> <w lemma="χαλκός">χαλκῶν</w>
+
+-<lb xml:id="line_38" n="38"/> <w lemma="τρεῖς">τριῶν</w>.
+
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>Contract of sale (of the priesthood of) Dionysus Phleos. With good fortune. We sell the priesthood of Dionysus Phleos under these (conditions). The purchaser shall hold the priesthood for life; he shall also hold the priesthood (5) of Dionysus Katagogios; he shall also be exempt from personal taxation; he shall have the right to meals everyday in the prytaneion and in the Panionion; he shall take, from what the city sacrifices, a leg, the tongue, a skin, and portions (reserved) beside the altar; (10) he shall provide the burnt-offerings, barley-corns, incense, cakes, a quarter (of a <foreign>medimnos</foreign>) for an ox, a <foreign>hemiekteus</foreign> for small cattle, two <foreign>choinikes</foreign> for a suckling animal; he shall also be granted front-row seating in the theatre and to wear whatever costume he wants and (15) a golden ivy wreath; he shall also perform the sacrifices in the theatre to Dionysus Melpomenos, place (and burn) incense, perform the opening libation and pray for the city of the Prienians; he shall wear whatever costume he wants (20) and a golden wreath during the months of Lenaion and Anthesterion; during the Katagogia, he shall lead those who bring Dionysus in, wearing whatever costume he wants and a golden wreath; if the priesthood is purchased for more than six thousand drachmae (25), the purchaser shall be exempt from the leading of torch-races, the holding of contests, the rearing of horses, the leading of <foreign>theoriai</foreign>, the gymnasiarchy; if he buys it for more than twelve thousand drachmae, he shall be exempt from the trierarchy, the office of <foreign>oikonomos</foreign>, the office of <foreign>naopos</foreign> (30), and the advancing tax. The purchaser shall pay to the <foreign>naopos</foreign> ten per cent of the price immediately, half of the remaining amount in the month of Metageitnion in the same year and the other half in the month of Anthesterion, (the year) when Kleomenes is <foreign>stephanephoros</foreign> (35); Athenopolis, son of Kydimos, bought (the priesthood) for 12 002 drachmae and the ten percent, (that is to say) 1200 drachmae, 1 obol and 3 <foreign>chalkoi</foreign>.</p>
+					<p>(translation slightly adapted from I. <bibl type="author_date" n="Arnaoutoglou 1998">Arnaoutoglou 1998</bibl>).</p>
+					</div>
+
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Contrat de vente (de la prêtrise) de Dionysos Phleos. À la bonne fortune. Nous vendons la prêtrise de Dionysos Phleos à ces (conditions). L’acheteur exercera la prêtrise à vie; il exercera (5) aussi la prêtrise de Dionysos Katagogios; il sera également exempt d'imposition personnelle; qu’il ait droit tous les jours au repas au prytanée et au Panionion; des (offrandes) que sacrifie la cité, il recevra la cuisse, la langue, la peau, des parts à côté de l’autel (10); il fournira les offrandes à brûler, les grains d’orge, l’encens, les gâteaux, pour un bovin, un quart (de médimne), pour du petit bétail, un demi-setier, pour un animal de lait, deux chénices; que lui revienne également (le droit) d’être assis à la proédrie au théâtre et de porter la tenue qu’il veut et (15) une couronne de lierre en or; il exécutera également les sacrifices dans le théâtre pour Dionysos Melpomenos, déposera (et brûlera) l’encens, fera la libation d'ouverture et prononcera les prières pour la cité des Priéniens; qu’il porte la tenue qu’il veut (20) et une couronne en or aux mois de Lenaion et d’Anthesterion; lors des Katagogia, il conduira ceux qui introduisent Dionysos, portant la tenue qu’il veut et une couronne en or. Si la prêtrise est acquise à plus de 6000 drachmes (25), l’acheteur sera exempt de la tenue de la course aux flambeaux, de la tenue des concours, de l'élevage de chevaux, de la conduite des théores, de la gymnasiarchie; s’il l’achète plus de 12 000 drachmes, il sera exempt de la triérarchie, de la charge d'économe, de la charge de naope (30) et de l'avance des contributions. L’acheteur paiera au naope un dixième du prix immédiatement, une moitié de la somme restante au mois de Metageitnion de la même année, l’autre moitié au mois d’Anthesterion (de l'année) du stéphanéphore Cléomène (35); Athenopolis fils de Kydimos a acheté (la prêtrise) pour 12 002 drachmes et le dixième, (soit) 1200 drachmes, 1 obole et 3 chalques.
+					</p>
+
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p> As in similar (and contemporary) inscriptions from Priene (cf. <ref target="CGRN_175">CGRN 175</ref> and <ref target="CGRN_177">CGRN 177</ref>), this contract of the priesthood of Dionysus Phleos (including also the cult of Dionysus Katagogios and Melpomenos) extensively details the privileges and prerogatives of the priest (notably fiscal exemption, meals, proedry, the wearing of a wreath, exemption from various liturgies). As usual, specifications are given concerning the priestly portions derived from (public) sacrifices, and his contribution to such sacrifices (lines 8-12). A significant part of the text concerns exemptions from liturgies, different levels of which are obtained according to the buying price obtained by the city (lines 24-30), as well as the modalities of payment for the office (lines 30-35); as often, the inscription ends by mentioning the name of the purchaser and the price he paid. The priesthood of Dionysus seems to be one of the most important in Priene; at least, this is what can be inferred from its selling-price (more than 12000 drachmae; on this amount, cf. Wiemer - Kah) and the significant privileges attached to it (e.g. exemption from many liturgies and free meal every day). </p>
+
+<p>This text constitutes a good example of the interactions between one divine power and its diverse manifestations, when the god is designated by different cult-epithets. The epithet Phleos is exclusive to Dionysus. It derives from φλέω, "to be bloated with sap, flourish" and thus "to abound, be full", which connects the god with growth of plants, and vegetation and (especially agricultural) abundance (cf. Chantraine, <bibl type="abbr" n="DELG">DELG</bibl>, s.v. Φλεύς and φλέω). The cult of this god is only attested in Ionia (cf. Graf 1985) but the epithet was known by (at least lettered) Greeks from other regions (cf. <title>EM</title> s.v.). Katagogios as a divine epithet is only known by this inscription (though a feminine epithet Kagagogis is attested once for Artemis, at <bibl type="abbr" n="SEG">SEG</bibl> 9, 13, its sense there seems unconnected to the case of Dionysus Katagogios). The appellation refers to Dionysus when he is celebrated during the Katagogia, the festival of the return of the god (on which see below). Dionysus Katagogios seemed to have his own priesthood, at one time probably distinct from that of Dionysus Phleos, but these were merged through this contract of sale (lines 4-5). Dionysus Melpomenos (the epithet is again exclusive to this god) is only otherwise known in Attica. The meaning of the epithet "the Singer/Dancer" clearly associates this Dionysus with the theatre, and indeed, his cult took place there. According to Graf 2010b, in the case of Priene, the most important of the three manifestations of Dionysus seems to be Phleos, and this seems confirmed by the presentation of the priesthood as being mainly that of Dionysus Phleos. In any case, in Priene there were (at least) three different divine  configurations of Dionysus and these were honoured during at least four festivals: Dionysus Phleos, possibly worshipped as Dionysus without epithet during the Lenaia in Lenaion, during the Anthesteria in Anthesterion, and finally during the Dionysia (a possibly biennial festival in an unknown month—Artemision?); Dionysus Katagogios, worshipped during the Katagogia (time and location unknown); and Dionysus Melpomenos, worshipped in the theatre, during the Dionysiac festivals taking place there (the Dionysia, but possibly other occasion). Three distinct sides of the god thus appear here—the god of vegetation, growth and adundance (and of wine); the god of the theatre; and the god who is always coming/brought back, especially through epiphanies. Each of these aspects was quite familiar for Dionysus, but is remarkably encaspulated in a single snapshot at Priene.</p>
+
+<p> Line 6: Concerning the exemption known as ἀτέλεια τοῦ σώματος in inscriptions from Priene, cf. Gauthier, who adduces nine other inscriptions (all honorary decrees) from Priene, dating from ca. 330 to the end of the second century BC. To this list, add now <ref target="CGRN_175">CGRN 175</ref>; since that text applies to a priestess, this reinforce Gauthier's position that this form of ἀτέλεια is an exemption from personal taxation, and not from military service.</p>
+
+<p> Line 6-8: Since having meals every day both in the prytaneion in the city (on which see Rumscheid, p. 47-51), and in the Panionion (on which see <ref target="CGRN_177">CGRN 177</ref>), seems practically infeasible, one may reasonably wonder if there was not also an urban sanctuary of Poseidon Helikonios or an annex of the Panionion in the city of Priene (see Merkelbach; and cf. again <ref target="CGRN_177">CGRN 177</ref>). In any case, the grant of the meal was part of a honorific gesture, a possibility that was not necessarily realised every day: the priest may therefore have had the right to take meals either in the prytaneion (if he was in the city) or in the Panionion (if he happened to be visiting that sanctuary).</p>
+
+<p> Lines 8-10: The priest's perquisites in the case of public sacrifices are specified; no guidelines for the case of private sacrifices are given. The leg, tongue and skin were very common priestly portions. For the tongue and the portion "set by the altar" (i.e. on the cult table next to it), cp. here e.g. <ref target="CGRN_36">CGRN 36</ref> (Chios, where the table is replaced by the statue of the deity).</p>
+
+						<p> Lines 10-12: Cp. a similar clause in the sale of the priesthood of Meter at Priene, <ref target="CGRN_175">CGRN 175</ref>, lines 11-13. The ἔλατρα are broad breads or cakes which were destined for sacrifice (cf. Hsch. s.v., πέμματα πρὸς θυσίαν [καὶ] πλασσόμενα) and could perhaps be made in the shape of animals, to be burnt on the altar while the corresponding animal (of the same shape) was sacrificed (so Blümel - Merkelbach). The measures of flour listed here correspond to the size of the cakes which the priest was to provide in each circumstance; cf. here <ref target="CGRN_201">CGRN 201</ref> (Miletos), line 36. Compare also the synonymous ἐλατήρ (Hsch. s.v. τὸ πλατὺ πόπανον, ἀπὸ τοῦ ἐληλάσθαι εἰς μέγεθος, ἢ πέμμα. καὶ *ἡνίοχος), attested here at <ref target="CGRN_74">CGRN 74</ref> (Athens) and <ref target="CGRN_86">CGRN 86</ref> (Kos). θύα are offerings to be burnt (on the altar), probably not cakes (so Blümel - Merkelbach), but rather incense: cf. here e.g. <ref target="CGRN_36">CGRN 36</ref>, line 3, <ref target="CGRN_49">CGRN 49</ref>, line 9, <ref target="CGRN_66">CGRN 66</ref>, line 3, <ref target="CGRN_88">CGRN 88</ref>, line 3 (all from Chios), and <ref target="CGRN_201">CGRN 201</ref> (Miletos), line 31. </p>
+
+<p>Lines 13-19: On the theatre of Priene, cf. Rumscheid, p. 161-177. The priest had the right to sit in the front row, to wear whatever clothes he wanted and a golden ivy wreath when he was performing rituals, i.e. here, in the theatre, and also in the months of Lenaion and Anthesterion, and during the Katagogia (see below). The privilege to sit in the front row and the wearing of a (golden) wreath are fairly common priestly privileges; cp. here <ref target="CGRN_123">CGRN 123</ref> (Tomis), lines 7-9, <ref target="CGRN_124">CGRN 124</ref> (Pergamon) with commentary on lines 16-18, and <ref target="CGRN_167">CGRN 167</ref> (Kos), lines 12-15. For a similar clause at Priene, cf. <ref target="CGRN_177">CGRN 177</ref>, lines A13, B13-14, C8-9 (a golden for the priest of Poseidon Helikonios). For the connexion of Dionysus Melpomenos with the theatre, see above. Incense is to be burnt on the altar of the god in the theatre (for which, see <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 181). For the notion of σπονδαρχέω ("performing the opening libation", i.e. the first libation poured during a ceremony), see here <ref target="CGRN_119">CGRN 119</ref> (Theangela), line 17. Here, we have a good illustration of the political connotations of this cult, since these offerings of incense accompanied by libation precede prayers which are made on behalf of the <foreign>polis</foreign> of Priene; these happened not only during the contests of the Dionysia, but also whenever the assembly gathered in the theatre (so Graf 2010b: 66).</p>
+
+<p> Lines 20-21: The wearing of the wreath by the priest is to take place "during the months of Lenaion and Anthesterion", i.e. probably more specifically when the Dionysiac festivals of Lenaia and Anthesteria were held. In Priene, these occasions are only known indirectly, through the months deriving from them, as in most Ionian <foreign>poleis</foreign> (cp. e.g. Graf 1985: 295 for Erythrai), but they are slightly better known in Attica (cf. Parker 2005a: 290-326) or in the Milesian colony of Kyzikos (in both cities, the Anthesteria took place on the 11-13 of the month). Both months occurred in the spring, as the 5th and 6th month respectively (see <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> Index s.v.).</p>
+
+<p>Lines 21-22: The Katagogia was a festival celebrating the return of Dionysus (see above): the god (i.e. his image, in the form of a mask or a statue) was brought (back), possibly on a ship set up on a chariot, during a procession through the city. The ceremony is to be led by the priest of Dionysus Phleos, at the head of "those bringing him back" (it is unclear whether these were members of a specific association or, more simply, the participants in the processional ceremony). The date of the festival cannot be determined with certainty: the Katagogia of Ephesos may have taken place around the 19th of January, thus in Posideon or Lenaion at Priene (Tassignon 2003); but Robert and Robert more plausibly place the Ionian Katagogia in the spring, perhaps later in Anthesterion or in the following month of Artemision (this would accord well with the chronology presented in lines 20-21, see above).</p>
+
+<p> Lines 24-30: The higher the price paid for the priesthood, additional exemptions from liturgies are granted to the priest. If the priest pays more than 6000 dr., he was to be be exempt from 5 different liturgies. The <foreign>lampadarches</foreign> was in charge of supervising the torch-races in the city (more probably than the torchlight procession, known in Priene from the Isiac cult, cf. <ref target="CGRN_157">CGRN 57</ref>, lines 13-15). The <foreign>agonothetes</foreign> was in charge of organizing and financing contests (cf. e.g. <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 19, 20, 22-25). The liturgy of <foreign>hippotrophia</foreign> involved horse-breeding, probably for the purposes of supplying mounts to the cavalry for war (cp. <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 28, lines 18-19). The <foreign>architheoroi</foreign> led (sacred) embassies, while the gymnasiarch was of course in charge of supervising and financing the expenses of the gymnasium, especially oil (cf. e.g. <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 42, 57, 64). For more than 12 000 dr., the priest was additionally to be exempt from four other liturgies. The trierarchy (fitting-out a trireme) was possibly a fictive or probably a modified liturgy in this period, since Priene had not had a fleet for centuries (cf. Blümel - Merkelbach). The <foreign>oikonomos</foreign> was in charge of the financial administration of the <foreign>polis</foreign> and its marketplaces (cp. <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 17, 29, 48, 57, 63-65, 71, 73, 84). The <foreign>neopoios</foreign> was in charge of the administration of sanctuaries (cf. <ref target="CGRN_157">CGRN 157</ref>, line 4). Apart from providing us with some indication of the hierarchy of Prienian liturgies in the later Hellenistic period, these exemptions show that to the members of the elite, the benefit of avoiding such very costly (and time-consuming?) liturgies apparently seemed to justify the investment of more than 12 000 dr. (Gauthier, p. 54). For other exemptions from liturgies at Priene, cf. <ref target="CGRN_177">CGRN 177</ref>, line B31. For similar exemptions in other cities, cp. e.g. <ref target="CGRN_147">CGRN 147</ref> (Kos), lines 5-8.</p>
+
+<p>Lines 30-35: A ten percent supplement (τὸ ἐπιδέκατον, "the tenth") is added to the price agreed during the sale, to be paid immediately. The rest is to be paid later, here in two instalments in this case; for similar practices at Priene, cp. here <ref target="CGRN_175">CGRN 175</ref>, lines 37-38, and <ref target="CGRN_177">CGRN 177</ref>, lines A4-5, C3-4.</p>
+
+<p> Lines 35-38 : Athenopolis, son of Kydimos, paid 12 002 drachmae, (plus about 1200 drachmae for the 10% tax) to buy the priesthood, which is by far one of the highest amounts recorded for a sale of priesthood. It is therefore no surprise that this individual is known as a member of the social and politic elite of Priene (Graf 2010b; Wiemer - Kah; cp. <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 40, 63 and 183).</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

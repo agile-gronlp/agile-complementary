@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_108" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 108</idno>: <rs type="textType" key="funerary regulation">Funerary law</rs> from Gambreion</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support><p>Marble <rs type="objectType">stele</rs> virtually intact, except worn and partly broken at the top. Measurements are not given in the available editions, but have been derived from a squeeze at the Université de Liège.</p>
+									<p><dimensions>
+										<height unit="cm">at least 66</height>
+										<width unit="cm">(top) 32 - (bottom) 33.5</width>
+										<depth unit="cm">?</depth>
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout><p>Letters: <height unit="mm">10-10.2</height>; round letters: <height unit="mm">6-7</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0300" notAfter="-0200">ca. 300-200 BC</origDate></p>
+							<p><desc>Justification: lettering. The letters appear "early Hellenistic" (open <foreign>sigma</foreign> with oblique bars, smaller round letters, etc.) so there is no need to presume a stricter date of the "end of the third century BC", as one finds in several editions and commentaries.</desc></p>
+						</origin>
+		<provenance><p>Found at the site presumed to be <placeName type="ancientFindspot" key="Gambreion" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/550542" type="external">Gambreion</ref></placeName>, several kilometers away from Pergamon. As reported in Boeckh <bibl type="abbr" n="CIG">CIG</bibl>, Fellows found the inscription in the same area as <bibl type="abbr" n="CIG">CIG</bibl> 3561, a document concerning lands, reused in small fountain at the site. Now presumably in the Musée du Cinquantenaire, Brussels (inv. no. unknown).</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc>A squeeze in the collection of the Université de Liège</desc>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				<p>Edition here based on Boeckh <bibl type="abbr" n="CIG">CIG</bibl> 3562. The readings are uncontroversial. </p>
+				
+				<p>Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 16; Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 85; <bibl type="author_date" n="Frisone 2000">Frisone 2000</bibl>: 139-154, with an extensive commentary.</p>
+				
+				<p>Further bibliography: <bibl type="author_date" n="Parker 2004">Parker 2004</bibl>; 
+					<bibl type="author_date" n="Delli Pizzi 2011">Delli Pizzi 2011</bibl>;  
+					<bibl type="author_date" n="Peels 2016">Peels 2016</bibl>.</p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab>
+					
+					
+<lb xml:id="line_1" n="1"/><name type="epithet" key="Agathe"><w lemma="ἀγαθός">ἀγαθῆι</w></name> <name type="deity" key="Tyche"><w lemma="τύχη">τύχηι</w></name>, <name type="personnel"><w lemma="ἱερονομέω"><unclear>ἱερ</unclear>ονομοῦντος</w></name> 
+					
+<lb xml:id="line_2" n="2"/><w lemma="Δημήτριος">Δημητρίου</w>, <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Θαργήλια">Θαργηλιῶνος</w></name> 
+					
+<lb xml:id="line_3" n="3"/><w lemma="δεύτερος">δευτέραι</w>, <w lemma="Ἀλέξων">Ἀλέξων</w> <w lemma="Δάμων">Δάμωνος</w> <w lemma="εἶπον">εἶ 
+						
+<lb xml:id="line_4" n="4" break="no"/>πεν</w>· <name type="authority"><w lemma="νόμος">νόμον</w></name> <w lemma="εἰμί">εἶναι</w> <name type="ethnic" key="Gambreion"><w lemma="Γαμβρειώτης">Γαμβρειώταις</w></name> 
+					
+<lb xml:id="line_5" n="5"/>τὰς <name type="death"><w lemma="πενθέω">πενθούσας</w></name> <w lemma="ἔχω">ἔχειν</w> <name type="colour2"><w lemma="φαιός">φαιὰν</w></name> <name type="clothing"><w lemma="ἐσθής">ἐσθῆ 
+						
+<lb xml:id="line_6" n="6" break="no"/>τα</w></name> <w lemma="μή">μὴ</w> <name type="quality"><w lemma="καταρρυπόω">κατερρυπωμένην</w></name>· <w lemma="χράω">χρῆσθαι</w> 
+					
+<lb xml:id="line_7" n="7"/>δὲ καὶ τοὺς <name type="person"><w lemma="ἀνήρ">ἄνδρας</w></name> καὶ τοὺς <name type="person"><w lemma="παῖς">παῖδας</w></name> 
+					
+<lb xml:id="line_8" n="8"/>τοὺς <name type="death"><w lemma="πενθέω">πενθοῦντας</w></name> <name type="clothing"><w lemma="ἐσθής">ἐσθῆτι</w></name> <name type="colour2"><w lemma="φαιός">φαιᾶι</w></name>, 
+					
+<lb xml:id="line_9" n="9"/><w lemma="ἐάν">ἐὰμ</w> <w lemma="μή">μὴ</w> <w lemma="βούλομαι">βούλωνται</w> <name type="colour2"><w lemma="λευκός">λευκῆι</w></name>· <name type="genericOffering"><w lemma="ἐπιτελέω">ἐπιτε 
+						
+<lb xml:id="line_10" n="10" break="no"/>λεῖν</w></name> δὲ τὰ <name type="authority"><w lemma="νόμιμος">νόμιμα</w></name> τοῖς <w lemma="ἀποίχομαι">ἀποιχομέ 
+							
+<lb xml:id="line_11" n="11" break="no"/>νοις</w> <name type="death"><w lemma="ἔσχατος">ἔσχατον</w></name> <w lemma="ἐν">ἐν</w> <w lemma="τρεῖς">τρισὶ</w> <w lemma="μείς">μησίν</w>, τῶι δὲ 
+					
+<lb xml:id="line_12" n="12"/><w lemma="τέταρτος">τετάρτωι</w> <w lemma="λύω">λύειν</w> τὰ <name type="death"><w lemma="πένθος">πένθη</w></name> τοὺς <name type="person"><w lemma="ἀνήρ">ἄν 
+						
+<lb xml:id="line_13" n="13" break="no"/>δρας</w></name>, τὰς δὲ <name type="person"><w lemma="γυνή">γυναῖκας</w></name> τῶι <w lemma="πέμπτος">πέμπτωι</w>, 
+					
+<lb xml:id="line_14" n="14"/>καὶ <w lemma="ἐξανίστημι">ἐξανίστασθαι</w> <w lemma="ἐκ">ἐκ</w> τῆς <name type="death"><w lemma="κηδεία">κηδείας</w></name> 
+					
+<lb xml:id="line_15" n="15"/>καὶ <w lemma="ἐκπορεύω">ἐκπορεύεσθαι</w> τὰς <name type="person"><w lemma="γυνή">γυναῖκας</w></name> 
+					
+<lb xml:id="line_16" n="16"/>τὰς <w lemma="ἔξοδος">ἐξόδους</w> τὰς <w lemma="ἐν">ἐν</w> τῶι <name type="authority"><w lemma="νόμος">νόμωι</w></name> <w lemma="γράφω">γε 
+						
+<lb xml:id="line_17" n="17" break="no"/>γραμμένας</w> <w lemma="ἐπάναγκος">ἐπάναγκον</w>· τὸν δὲ <name type="personnel"><w lemma="γυναικονόμος">γυ 
+							
+<lb xml:id="line_18" n="18" break="no"/>ναικονόμον</w></name> τὸν <w lemma="ὑπό">ὑπὸ</w> τοῦ <name type="group"><w lemma="δῆμος">δήμου</w></name> <w lemma="αἱρέω">αἱ 
+								
+<lb xml:id="line_19" n="19" break="no"/>ρούμενον</w> τοῖς <name type="purification"><w lemma="ἁγνισμός">ἁγνισμοῖς</w></name> τοῖς <w lemma="πρό">πρὸ</w> 
+					
+<lb xml:id="line_20" n="20"/>τῶν <name type="festival"><w lemma="θεσμοφόρια">Θεσμοφορίων</w></name> <name type="invocation"><w lemma="ἐπεύχομαι">ἐπεύχεσθαι</w></name> τοῖς <w lemma="ἐμμένω">ἐμ 
+						
+<lb xml:id="line_21" n="21" break="no"/>μένουσιν</w> καὶ ταῖς <w lemma="πείθω">πειθομέναις</w> <w lemma="ὅδε">τῶι 
+							
+<lb xml:id="line_22" n="22" break="no"/>δε</w> τῶι <name type="authority"><w lemma="νόμος">νόμωι</w></name> <w lemma="εὖ">εὖ</w> <w lemma="εἰμί">εἶναι</w> καὶ τῶν <w lemma="ὑπάρχω">ὑπαρχόν 
+								
+<lb xml:id="line_23" n="23" break="no"/>των</w> <w lemma="ἀγαθός">ἀγαθῶν</w> <w lemma="ὄνησις">ὄνησιν</w>, τοῖς δὲ <w lemma="μή">μὴ</w> <w lemma="πείθω">πειθο 
+									
+<lb xml:id="line_24" n="24" break="no"/>μένοις</w> μηδὲ ταῖς <w lemma="ἐμμένω">ἐμμενούσαις</w> <w lemma="ἐναντίος">τἀ 
+										
+<lb xml:id="line_25" n="25" break="no"/>ναντία</w>· καὶ <w lemma="μή">μὴ</w> <name type="authority"><w lemma="ὅσιος">ὅσιον</w></name> <w lemma="αὐτός">αὐταῖς</w> <w lemma="εἰμί">εἶναι</w>, <w lemma="ὡς">ὡς</w> 
+					
+<lb xml:id="line_26" n="26"/><name type="punishment"><name type="authority"><w lemma="ἀσεβέω">ἀσεβούσαις</w></name></name>, <name type="sacrifice"><w lemma="θύω">θύειν</w></name> <w lemma="μηθείς">μηθενὶ</w> <name type="deity" key="unclear"><w lemma="θεός">θεῶν</w></name> <w lemma="ἐπί">ἐπὶ</w> <w lemma="δέκα">δέ 
+						
+<lb xml:id="line_27" n="27" break="no"/>κα</w> <w lemma="ἔτος">ἔτη</w>· τὸν δὲ <w lemma="μετά">μετὰ</w> <w lemma="Δημήτριος">Δημήτριον</w> 
+					
+<lb xml:id="line_28" n="28"/><name type="title"><w lemma="στεφανηφόρος">στεφανηφόρον</w></name> <name type="title"><w lemma="ταμίας">ταμίαν</w></name> <w lemma="αἱρέω">αἱρεθέντα</w> 
+					
+<lb xml:id="line_29" n="29"/><w lemma="ἀναγράφω">ἀναγράψαι</w> <w lemma="ὅδε">τόνδε</w> τὸν <name type="authority"><w lemma="νόμος">νόμον</w></name> <w lemma="εἰς">εἰς</w> <w lemma="δύο">δύο</w> 
+					
+<lb xml:id="line_30" n="30"/><objectType key="stele"><w lemma="στήλη">στήλας</w></objectType> καὶ <w lemma="ἀνατίθημι">ἀναθεῖναι</w> τὴμ μὲν 
+					
+<lb xml:id="line_31" n="31"/><w lemma="εἷς">μίαν</w> <w lemma="πρό">πρὸ</w> τῶν <name type="structure"><w lemma="θύρα">θυρῶν</w></name> τοῦ <name type="structure"><name type="epithet" key="Thesmophoros"><w lemma="Θεσμοφόριον">Θεσμοφο 
+						
+<lb xml:id="line_32" n="32" break="no"/>ρίου</w></name></name>, τὴν δὲ <w lemma="πρό">πρὸ</w> τοῦ <name type="structure"><w lemma="ναός">νεὼ</w></name> τῆς <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέ 
+							
+<lb xml:id="line_33" n="33" break="no"/>μιδος</w></name> τῆς <name type="epithet" key="Lochia"><w lemma="Λοχία">Λοχίας</w></name>· <w lemma="ἀναφέρω">ἀνενεγκάτω</w> 
+					
+<lb xml:id="line_34" n="34"/>δὲ ὁ <name type="title"><w lemma="ταμίας">ταμίας</w></name> τὸ <w lemma="ἀνάλωμα">ἀνάλωμα</w> τὸ <w lemma="γίγνομαι">γε 
+						
+<lb xml:id="line_35" n="35" break="no"/>νόμενον</w> <w lemma="εἰς">εἰς</w> <objectType key="stele"><w lemma="στήλη">τὰστήλας</w></objectType> τῶι 
+					
+<lb xml:id="line_36" n="36"/><w lemma="πρότερος">πρώτωι</w> <w lemma="λογιστήριον">λογιστηρίωι</w>. <space extent="unknown" unit="line"/> </ab> </div> 
+
+<div type="translation" xml:lang="eng"> 
+						
+<head>Translation</head> 
+						
+<p>With good fortune. When Demetrios was <foreign>hieronomos</foreign>, on the 2nd of the month Thargelion, Alexon son of Damon proposed: there is to be a law for the people of Gambreion, (5) that the women who are in mourning are to wear grey clothes, not dirty ones; and that men and children in mourning are also to wear grey clothes, unless they prefer to wear white. (10) The customary rites are to be fulfilled within three months for those who have gone to their end (i.e. died). On the fourth month men are freed from mourning, women on the fifth. And it is obligatory that they free themselves from their funerary duty (15) and participate in the processions (and outdoor activities) which are written in the (other?) law. The <foreign>gynaikonomos</foreign> appointed by the people for the purifications (20) prior to the Thesmophoria is to pray that "it will go well for those men who abide by and for women who obey his law, and they will have the enjoyment of their present blessings, but for those who do not obey it or abide by it, the opposite (will happen). (25) And it will not be pleasing to the gods for women (who disobey the law) to sacrifice, since they are impious, to any god for ten years". Let the treasurer chosen for the next year after (the year of) the <foreign>stephanephoros</foreign> Demetrios inscribe this law on two (30) stelae and erect one these stelae in front of the doors of the Thesmophorion, the other in front of the temple of Artemis Lochia. The treasurer is to report the expenditure (35) for the stelae in the first meeting of the <foreign>logistai</foreign>. </p> 
+					</div> 
+			
+<div type="translation" xml:lang="fre"> 
+
+<head>Traduction</head> 
+
+<p>À la bonne fortune. Alors que Démétrios était hiéronome, le 2 du mois de Thargelion, Alexôn fils de Damôn a fait la proposition : qu'une loi entre en vigueur pour les Gambreiotes, (5) que celles qui sont en deuil portent un vêtement gris, qui ne doit pas être sale; que les hommes et les enfants qui sont en deuil mettent aussi un vêtement gris, ou s’ils ne le souhaitent pas, un blanc. (10) Que l’on accomplisse les rites coutumiers durant trois mois pour ceux qui s'en sont allés, qu’au quatrième les hommes soient libérés du deuil, les femmes au cinquième, et il est impératif que les femmes abandonnent les soins funéraires (15) et sortent (pour rejoindre) les processions qui sont mentionnées par la loi. Que le gynéconome choisi par le peuple prie, lors des purifications (20) avant les Thesmophories, que ceux qui observent cette loi et celles qui lui obéissent jouissent bien des bonnes choses dont ils disposent, et, qu'à ceux qui ne lui obéiraient pas ou celles qui ne l'observeraient pas, (il advienne) le contraire. (25) Qu’il ne plaise pas aux dieux qu'en tant qu’impies, elles sacrifient à tout dieu pendant dix ans; que celui qui sera choisi trésorier (l'année) après (celle du) stéphanéphore Démétrios inscrive cette loi sur deux (30) stèles et en érige une devant les portes du Thesmophorion, et l’autre devant le temple d’Artémis Lochia. Le trésorier doit rendre compte de la dépense générée (35) pour les stèles à la première réunion des <foreign>logistai</foreign>. </p>
+				
+				<p>(traduction S. Lebreton)</p> 
+			</div> 
+			
+			<div type="commentary"> 
+				<head>Commentary</head> 
+				<p>This document is an official law of the city of Gambreion, a small community in the periphery of Pergamon. The law's concern is with funerary practices, something which is also in evidence in other cities, cp. esp. here <ref target="CGRN_35">CGRN 35</ref> (Iulis on Keos). Funerary legislation also sometimes features as part of other documents or dossiers included in the present Collection, e.g. <ref target="CGRN_82">CGRN 82</ref>, side C (Delphi). After a short preamble with enactment clauses (lines 1-5), the substance of the regulation properly begins with a consideration of the colour and appearance of the clothing required to be worn by those who are mourning (lines 5-9); it then moves on to the question of the duration of funerary rites and other commemorations (9-17), before finally turning to a prayer that must be made by the <foreign>gynaikonomos</foreign> (17-27).</p>
+							
+				<p>Particularly noteworthy is the special treatment reserved for women in this legislation (cf. notably Le Guen-Pollet's commentary). Women are singled out by most of the prescriptions involved here, as they are also in the law from Iulis. Contrary to men and children, women do not have a small degree of flexibility in the colour of their clothing (lines 5-9). They are allowed more time for performing funerary rites and mourning, but are then compelled to return to civic rituals that require a mandatory procession (9-17 again). Finally, the sanction imposed on women who contravene the oath or imprecation is explicitly spelled out, again contrary to the case for men. This is a severe exclusion from sacrifice for 10 years. Other elements of the law make it clear that its intended audience was women first and foremost: the oath is to be sworn before the Thesmophoria (19-20), which also involved men, but also contained female-only events; and the law is to be inscribed in front of two primarily female sanctuaries, namely the Thesmophorion itself and the sanctuary of Artemis Lochia (whose epithet indicates that she was concerned with childbirth; cp. Ilithyia).</p>			
+				
+				<p>Lines 5-9: The first considerations of the law concern the colour of clothes worn by those grieving, which were typically sombre but not completely dark. Men and children also have the choice to wear white clothes, which were common in funerary rites: <ref target="CGRN_35">CGRN 35</ref>; cp. also the references collected in Sokolowski and Frisone.</p>				
+				
+				<p>Lines 10-13: For the νόμιμα performed for the deceased (cf. also κηδεία in line 14), cp. again the rituals described in much greater detail in the law from Iulis, <ref target="CGRN_35">CGRN 35</ref>. The duration of funerary rites and posthumous commemorations varied considerably in different communities, sometimes being as brief as month, though here they can be more expansive, within certain limits which are imposed.</p>				
+				
+				<p>Lines 15-17: This phrase points to an existing law at Gambreion that required the mandatory participation of married women in certain processions and celebrations of the city. These may well have included the Thesmophoria itself, at which the imprecation or oath will be administered (see below), and perhaps other prominent rituals.</p>				
+				
+				<p>Lines 19-20: For the purifications before prior to the Thesmophoria, involving fasting, ablutions and other preparations by the women involved, see schol. Luc. <title>Dial. meret.</title> 2.1, which describes the festival and its purification in some detail. See also here <ref target="CGRN_78">CGRN 78</ref> (Piraeus).</p>
+								
+				<p>Lines 20-25: Though ἐπεύχομαι properly refers to a prayer made by <foreign>gynaikonomos</foreign>, this prayer employs the typical formulary of oaths: cp. e.g. <bibl type="abbr" n="IG XI">IG XI</bibl>.4 1296 (Delos, mid-3rd century BC) and see esp. the oaths administered prior to the mysteries at Andania, <ref target="CGRN_222">CGRN 222</ref>, lines 1-11, 26-28.</p>				
+				
+				<p>Lines 25-27: As noted above, the barring of women from sacrifice to any god for ten years is a severe sanction. Such an exclusion from sacrifice is seldom found in the epigraphical evidence: cf. <bibl type="abbr" n="SEG">SEG</bibl> 6, 786 (Mopsuestia, Imperial), lines 16-17: καὶ τὰ ἱερὰ μὴ | ἐξὸν αὐτῷ ποιῆσαι κατὰ μηδένα | τρόπον, and cp. also Aischin. 3.110 (cited by Sokolowski). For discussions of religious terminology (‘not ὅσιον’, ἀσεβέω), cf. Parker, Delli Pizzi and Peels.</p> 
+			</div> 
+		</body>
+	</text>
+</TEI>

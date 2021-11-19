@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_11" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 11</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> for Zeus Kataibates at Thalamai</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Substantial portion of a rectangular <rs type="objectType" key="block">block</rs> of stone, perhaps originally part of a larger monument (see below, Commentary). The inscribed face is relatively intact, though the left and right margins are abraded. For a fuller description, see now Diakoumakou.</p>
+			<p><dimensions>
+					<height unit="cm">76.5</height>
+					<width unit="cm">49</width>
+					<depth unit="cm">19</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Thick and rupestral lettering, often slanting to the right or with uneven registers. Letters highly uneven, <height unit="cm">4-7</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0500" notAfter="-0475">ca. 500-475 BC</origDate></p>
+			<p><desc>Justification: lettering (Kolbe, Diakoumakou).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thalamai" n="Peloponnese"><ref target="http:/pleiades.stoa.org/places/570715" type="external">Thalamai</ref> in Messenia</placeName>. Found at the village of Koutiphari, in the collapsed building of a school where it had been reused. Now in the Archaeological Museum of Messene (inv. no. 6327).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Diakoumakou 2010-2013">Diakoumakou 2010-2013</bibl>, with ph. figs. 1-2. The interpretation of lines 5-6 remains controversial (see below), but the improved readings of Diakoumakou are adopted here.</p>
+					<p>Other edition: Kolbe <bibl type="abbr" n="IG V.1">IG V.1</bibl> 1316</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 30.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Nilsson 1908">Nilsson 1908</bibl>: 314-315.</p>
+
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb xml:id="line_1" n="1"/><name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name> <name type="epithet" key="Kataibates"><w lemma="καταιβάτης">Καβάτα</w></name>·				
+<lb xml:id="line_2" n="2"/><w lemma="πέμπτος">πέμποι</w>
+<lb xml:id="line_3" n="3"/><w lemma="ἔτος">ϝέτει</w>
+<lb xml:id="line_4" n="4"/><name type="sacrifice"><w lemma="θύω">θύεν</w></name>·
+<lb xml:id="line_5" n="5"/><supplied reason="lost"><space quantity="1" unit="character"/></supplied> Λέhιον
+<lb xml:id="line_6" n="6"/><supplied reason="lost"><space quantity="1" unit="character"/></supplied> Γαιhύλο.
+<lb/><space extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+				(Altar?) of Zeus Kataibates: sacrifice on the fifth year (i.e. every four years). Lesion son of Gaisulos.
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+				(Autel ?) de Zeus Kataibates : sacrifier la cinquième année (c'est-à-dire tous les quatre ans). Lesion fils de Gaisulos.
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p> At first glance, this would seem to be a further example of a small altar or boundary stone with a sacrificial prescription, such as we find for instance on Paros at a similar date, <ref target="http://cgrn.ulg.ac.be/CGRN_9">CGRN 9</ref>, as well as in Piraeus and Athens , e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_53/">CGRN 53</ref>, regulations which start with a deity’s name in the genitive, most probably indicating that this is the altar of the deity in question.</p>
+						
+<p> The recent revision and republication of the inscription by Diakoumakou, however, cautions this judgement. Following the earlier description of Petridis, Diakoumakou reiterates the proposal that the stone formed part of a large monumental altar at Thalamai (fig. 1, drawing of Petridis), though apparently one set up by a private individual according to the new, attractive interpretation of lines 5-6 (see below). Together with other inscribed stones found reused in the same area, it is presumed to have formed the right half of one of the faces of a roughly square structure (1m long × 1m wide, and 76 cm high). Archaeologists will be more apt to judge the validity of this reconstruction, but we note only some potential issues arising from it. Why was such a monumental altar erected to Zeus Kataibates, and inscribed in such a bizarre way, i.e., in a rather unsophisticated fashion and only on one block of one face? The resulting layout of the monument is puzzling. It is also noteworthy that the other blocks suggested to form a part of this structure are all inscribed with much later inscriptions: <bibl type="abbr" n="IG V.1">IG V.1</bibl> 1317a, apparently to be situated to the left of the present stone is a catalogue of names dating to the Roman period; <bibl type="abbr" n="IG V.1">IG V.1</bibl> 1312 and 1315, on the same stone as 1317a, are two decrees of the city of Thalamai from the 3rd century BC, and a catalogue of <foreign>thiasotai</foreign> dating to the 2nd century AD. We would have to assume reuse of the stones in this structure, which does not in and of itself preclude the reconstruction, but adds further questions about the use and survival of this structure.</p>
+						
+<p>The altar, boundary or structure belongs to Zeus Kataibates. When lightning struck somewhere, the environment was marked off as a sacred space and Zeus Kataibates was honoured with a precinct on that spot: cf. the sources collected in Diakoumakou (p. 244-245) and <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. καταιβάτης, and cp. also the mentions of this god in the sacrificial calendar of Thorikos, <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref>, lines 10-11, 25-26  (once in the precinct of the Delphinion of the deme; the other, in the area "of Philomelidai"). Particularly intriguing is the idea that we might have one or two personal names in lines 5-6, which may then link the erection of the stone and the inscription (if not the whole cult site) to a private initiative, by an individual who somehow had had something to do with this event of lightning striking. For cult sites founded by individuals, cp. the altar for Zeus Elasteros on Paros cited above, the sacrifice of Archinos on Thera, <ref target="http://cgrn.ulg.ac.be/CGRN_60/">CGRN 60</ref>, and the dedication of Antiochos on Thasos,  <ref target="http://cgrn.ulg.ac.be/CGRN_28/">CGRN 28</ref>.</p> 						
+
+<p>Line 2-3: For penteteric (quadrennial) sacrifices, see here esp. <ref target="http://cgrn.ulg.ac.be/CGRN_13/">CGRN 13</ref>, where rites for Zeus and the Tritopatres occur in this sequence. In Selinous, penteteric sacrifice takes place ‘on the first year, when also the Olympiad takes place’. The Selinous text and this penteteric sacrifice show us that quadrennial sacrifices were not particular to the great Panhellenic festivals such as Olympia, but also took place in smaller and more local rites.</p>
+							
+<p>Lines 5-6: Kolbe read <unclear>ἀ</unclear>λήσιον and commented that space for a broken letter was available, albeit small. The interpretation for this reading was supplied by Nilsson, on the basis of Hsch. s.v. ἀλήσιον· πᾶν τὸ ἀλελησμένον (from ἀλέω ‘to grind’), which was accepted by Kolbe. The word would therefore have denoted the sacrifice of a sort of ground meal or grain. The revision by Diakoumakou (with the assistance of A.P. Matthaiou) has now denied the presence of a trace of <foreign>alpha</foreign> at the beginning of the line (also confirmed on the published ph.). The stone is broken off where there would be space for perhaps one small letter, or which was more likely left empty. Since line 6 had for some time been correctly interpreted as a personal name in the genitive (Γαιhύλο is the gen. of Gaisylos, an attested Spartan name, as Nilsson noted, citing cp. Plut. <title>Dio</title> 49), Diakoumakou attractively suggests reading Λέhιον as a personal name in the
+nominative (i.e. Λήσιων). Lesion son of Gaisylos would thus be the one responsible for the erection of this inscription or altar. While this interpretation removes the potential (but minor) problem of the genitive Γαιhύλο appearing by itself at the end of the text, it raises some problems of its own: Lesion is unattested as a personal name (Diakoumakou cites two mentions of Λησίας in <bibl type="abbr" n="LGPN">LGPN</bibl> IIIA).</p>
+						
+					</div>
+			</body>
+    	</text>
+	</TEI>

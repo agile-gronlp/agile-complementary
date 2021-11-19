@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_3" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 3</idno>: Fragmentary <rs type="textType" key="purity regulation">purity regulation</rs> from Kleonai</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+					<physDesc>
+						<objectDesc>
+	<supportDesc><support><p>Black poros stone inscribed on three sides, perhaps the lower portion (?) of a quadrangular stele. The block is now heavily broken and it is unclear what original dimensions it may have had. One of the rectangular sides (D) is completely broken off.</p>
+	<p><dimensions>
+	<height unit="cm">38.1-38.5</height>
+	<width unit="cm">18.8-26.6</width>
+		<depth unit="cm">12.4</depth>
+	</dimensions></p>
+		</support>
+		</supportDesc>
+				<layoutDesc><layout><p>The text is inscribed in vertical boustrophedon and runs continuously on 3 sides of the stone block, A-C. Lines 1-5 are on side A, 6-9 on side B (more narrow), and 10-16 on side C. The fourth side, D, is completely broken or worn away; inscribed text may have been found there as well. Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 148 no. 6, writes: "The wide face A, which has a modern socket for a door-post, and was evidently used as a threshold, is badly worn, but may have lost only one line (the topmost, adjoining the lost side D)." Jeffery thinks that the text "probably started in the lost top line(s) of A", but it is also possible that the contiguous side D would have contained the start of the inscription, or that this would have begun on a higher part of the stone 'stele'. Jeffery additionally notes that the inscribing has been carefully executed: "Guide-lines and a cutting-compass have been used; the circular letters are small in proportion to the rest, the legs of mu are parallel (as also in comtemporary inscriptions from Argos [...]). The triple-dot punctuation is used throughout, as at Mycenae and Argos." </p>
+					<p>Letters inscribed within register lines <height unit="cm">3.2-3.5</height> apart; round letters smaller, <height unit="cm">2</height>.</p>
+		</layout></layoutDesc>
+		</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0575" notAfter="-0550">ca. 575-550 BC</origDate></p>
+		<p><desc>Justification: lettering, cf. Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 148 and 150 no. 6.</desc></p>
+						</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Kleonai" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570361" type="external">Kleonai</ref></placeName>. The precise findspot is unknown, but the general area is the Hagios Basilios village, south of the ancient city. The stone is now in the Epigraphical Museum in Athens (inv. no. 585).</p>
+						</provenance>
+					</history>
+					</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+<p>Edition here adapted from Dickerman and Jeffery's drawing, with a less restored version of the text.</p>
+
+<p>Editions:
+	<bibl type="author_date" n="Dickerman 1903">Dickerman 1903</bibl>: 147, figs. 1-3;
+	Fraenkel <bibl type="abbr" n="IG IV">IG IV</bibl> 1607.</p>
+
+<p>Cf. also:
+	Roehl <bibl type="abbr" n="IIGA">IIGA</bibl> 70;
+	Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 50;
+	Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 56;
+	Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 148 and 150 no. 6, 405 and pl. 25.</p>
+
+<p>Further bibliography:
+	<bibl type="author_date" n="Kyparissis - Peek 1941">Kyparissis - Peek 1941</bibl>: 200, with ph. pl. 71.</p>
+
+<p>Online record: <ref target="http://poinikastas.csad.ox.ac.uk/" type="external">Poinikastas</ref> website, with ref. no. 150.06.</p>
+				</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				<ab>
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+<lb xml:id="line_1" n="1" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>τ</unclear>α</orig> <name type="purification"><w lemma="ἐλατήριος"><unclear>τ</unclear>ὀλατέριο
+
+<lb xml:id="line_2" n="2" rend="right-to-left" break="no"/>ν</w></name> <pc>⋮</pc> <name type="liquid"><w lemma="ἀπόβαμμα">ἀπόβαμα</w></name> <orig>ξ<unclear>ε</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_3" n="3" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig>ος</orig> <w lemma="εἰμί">εἶμεν</w> <pc>⋮</pc> <name type="animal" key="generic"><name type="quality"><w lemma="αἰνετός">αἴνε<unclear>τ</unclear>
+
+<lb xml:id="line_4" n="4" rend="right-to-left" break="no"/>ον</w></name></name> <name type="sacrifice"><w lemma="ῥέζω">ϝρέξαντα</w></name> <pc>⋮</pc> <orig>α</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_5" n="5" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="μή">μὲ</w> <name type="purification"><w lemma="μιαρός">μια<unclear>ρ</unclear><supplied reason="lost">ὸν</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">ε</supplied>ἶμ<unclear>ε</unclear>
+
+<lb xml:id="line_6" n="6" rend="right-to-left" break="no"/><supplied reason="lost">ν</supplied></w> <supplied reason="lost"> <pc>⋮</pc></supplied> <w lemma="εἰ">αἰ</w> <name type="person"><w lemma="ἄνθρωπος">ἄ<unclear>ν</unclear>θ<unclear>ρ</unclear>οπον</w></name> h<orig>α</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_7" n="7" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig>αντα</orig> <w lemma="χρῆμα">χρε̑μα</w> <w lemma="μηδείς">μεθ
+
+<lb xml:id="line_8" n="8" rend="right-to-left" break="no"/>έν</w> <pc>⋮</pc> <name type="purification"><w lemma="μιαρός">μιαρὸν</w></name> <w lemma="εἰμί">εἶμεν</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_9" n="9" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig>ατον</orig> <w lemma="μηδείς">μεθὲν</w> <orig><unclear>π</unclear></orig><gap reason="illegible" quantity="2" unit="character"/>
+
+<lb xml:id="line_10" n="10" rend="right-to-left"/><gap reason="lost" quantity="2" unit="character"/><orig>ον</orig> <w lemma="εἰμί">εἶμεν</w> <pc>⋮</pc> <w lemma="εἰ">α<unclear>ἰ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_11" n="11" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="person"><w lemma="ἄνθρωπος"><supplied reason="lost">ἀνθ</supplied>ρόποι</w></name> <name type="purification"><w lemma="μιαρός">μιαρο̑ι</w></name> <pc>⋮</pc> <name type="purification"><w lemma="κάθαρσις">κά
+
+	<lb xml:id="line_12" n="12" rend="right-to-left" break="no"/>θαρσιν</w></name> δὲ <w lemma="εἰμί">εἶμεν</w> h<gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_13" n="13" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="death"><w lemma="ἀποθνήσκω"><supplied reason="lost">ἀ</supplied>ποθάνοι</w></name>, <name type="purification"><w lemma="καθαίρω">καθαρά
+
+<lb xml:id="line_14" n="14" rend="right-to-left" break="no"/>μενον</w></name> <pc>⋮</pc> <w lemma="κατά">κατὰ</w> <name type="authority"><w lemma="νόμος">νόμ<supplied reason="lost">ον</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_15" n="15" rend="left-to-right"/><gap reason="lost" quantity="2" unit="character"/> <w lemma="ἀπό">ἀ<unclear>π</unclear>’</w> <name type="genericOffering"><w lemma="ἱερός">ἰαρο̑</w></name> <name type="group"><w lemma="δημοτελής"><unclear>δ</unclear>αμο
+
+<lb xml:id="line_16" n="16" rend="right-to-left" break="no"/>τ<unclear>ε</unclear><supplied reason="lost">λέος</supplied></w></name> <gap reason="lost" unit="character" extent="unknown"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...] the purificatory water [...] he/there is to be [...]; having sacrificed something praiseworthy (?), [... (5) ...] let him not be polluted; if with respect to a man (?) [...]  no thing: let him be polluted [...] no [... (10) ...] he/there is to be [...] if [...] impure human beings; and let there be a purification [...] in the case of a death (?), he is to be purified according to the norm [... (15) ...] from a publicly funded offering [...]</p>
+
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[...] l'eau lustrale [...] il/cela sera [...]; ayant sacrifié quelque chose de louable (?), [... (5) ...] qu'il ne soit pas impur; si, quant à un homme (?) [...] aucune chose : qu'il soit impur; [...] aucun [... (10) ...] il/cela sera [...] si [...] des êtres humains impurs; et qu'une purification ait lieu [...] dans le cas d'un décès (?), qu'il soit purifié selon la norme [... (15) ...] d'une offrande financée par le peuple [...]</p>
+
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p>This is the oldest 'cathartic' or purificatory regulation currently extant in the collection of Greek epigraphic evidence. The context and the precise character of the text remain highly unclear, as do many of the cases of the words cited. But the text does appear to follow a fairly standard formulation, which is found in Archaic laws but also more clearly observable in later documents concerned with purity. This is a conditional or 'casuistic' style, where a protasis introduces a hypothetical cause for purification (cf. here esp. lines 6 and 10: αἰ...; αἴ [κα] might also be expected), and then the apodosis resolves this case with a prescription, and a final result, i.e. "purity" (cf. here the repeated infinitives of the verb "to be", εἶμεν). More elaborate instances of this type of text are found at Selinous, <ref target="http://cgrn.ulg.ac.be/CGRN_13/">CGRN 13</ref> face B; Kos: <ref target="http://cgrn.ulg.ac.be/CGRN_148/">CGRN 148</ref>; Lato: <ref target="http://cgrn.ulg.ac.be/CGRN_166/">CGRN 166</ref>; and especially at Cyrene: <ref target="http://cgrn.ulg.ac.be/CGRN_99/">CGRN 99</ref>. Sokolowski copiously (and rather rashly) restores the text along these lines, but the <foreign>lacunae</foreign> on the lefthand side of the text are difficult to estimate and sometimes nearly impossible to restore.</p>
+
+<p>Lines 1-2: The phrase τ̣ο̄̓λατε̄́ριο|ν ⋮ ἀπόβαμα appears to refer to "lustral water" for purging or driving away pollution (so <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. IIb). It is likely that it prescribed a purificatory solution to a preceding case of impurity which is now lost in the lacuna above.</p>
+
+<p>Line 3-4: At the beginning of line 3, we might have expected (με̄̀) μιαρὸν εἶμεν, "let him not (i.e. no longer) be impure", as we find elsewhere in the text; but perhaps the resulting state concluding one of the cases of impurity can be envisaged e.g. [καθαρ]ός εἶμεν. After the concluding εἶμεν, there is punctuation indicating the apparent beginning of a new clause. These traces might be taken as another instance the conditonal αἰ + a word like νητός ("heaped"), but that yields little sense. Alternatively, the only solution seems to be to read the word as αἰνετός with the following participle ϝρέξαντα, "having sacrificed something praiseworthy"; perhaps this is a qualifier for an animal, but it is unattested. </p>
+
+<p>Lines 6 and 10-11: The fragment here seems to introduce further cases of potential impurity, "if...", but the sense of the accusative is not clear. The phrase seems to parallel that of lines 10-11, "if... polluted human beings" (in the nominative), which is then followed by prescription of the required purification, κά|θαρσιν δὲ εἶμεν (lines 11-12).</p>
+
+<p>Lines 7-8: As in line 4, it would be nice to think that the restoration of the participle [ϝρέξ]αντα is to be envisaged here, but no certainty is possible. Perhaps the sense is that if the individual did not sacrifice anything (χρε̑̄μα με̄θ|έν), then he is to remain impure.</p>
+
+<p>Lines 13-14: One envisages a death ("if he/she dies"), to be followed by a purification according to a norm. The phrase κατὰ νόμ[ον] probably refers to unrecorded custom rather than to the present document or to a specific law (in the latter cases, one might have expected κατὰ τὸν... or τόνδε νόμον).</p>
+
+<p>Lines 15-16: The means for a purification here, perhaps the one in lines 13-14 performed "according to the norm", seems to be to an offering or rite (ἰαρόν) funded by the city (δαμοτελής). But we may wonder what exactly the reference point of this practice was. As with much in this lacunary document, the precise signification of these prescriptions escapes us.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

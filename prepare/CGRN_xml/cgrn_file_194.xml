@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_194" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 194</idno>: <rs type="textType" key="decree">Decree</rs> concerning the festival of Zeus Sosipolis at Magnesia-on-the-Maiander</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<p> Rectangular <rs type="objectType">block</rs> of stone.</p>
+									<p>
+										<dimensions>
+											<height unit="cm">129</height>
+											<width unit="cm">57-60</width>
+										</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+									<p> Letters: <height unit="cm">unknown</height>.</p>
+								</layout>
+							</layoutDesc>
+
+
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0197" notAfter="-0196">ca. 197/6 or 180s BC</origDate></p>
+							<p><desc>Justification: eponymous <foreign>stephanephoros</foreign> Aristeas son of Demetrios (line 1); for further discussion, see Commentary.</desc></p>
+						</origin>
+						<provenance><p><ref target="http://pleiades.stoa.org/places/599778" type="external"><placeName type="ancientFindspot" key="Magnesia-on-the-Maeander" n="Asia_Minor_and_Anatolia">Magnesia-on-the-Maeander</placeName></ref>. Block belonging to the north-west anta of the temple of Zeus.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+
+				<p> Edition here based on Kern <bibl type="abbr" n="I.Magnesia">I.Magnesia</bibl> 98.</p>
+
+				<p> Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 32.</p>
+
+				<p> Further bibliography: <bibl type="author_date" n="Robert 1940">Robert 1940</bibl>;
+					<bibl type="author_date" n="Schädler 1991">Schädler 1991</bibl>: 301-312;
+					<bibl type="author_date" n="Jameson 1994">Jameson 1994</bibl>: 41-42;
+					<bibl type="author_date" n="Georgoudi 1998">Georgoudi 1998</bibl>;
+					Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 97-99;
+					<bibl type="author_date" n="Ekroth 2008a">Ekroth 2008a</bibl>;
+					<bibl type="author_date" n="Chaniotis 2009">Chaniotis 2009</bibl>: 103-105;
+					<bibl type="author_date" n="Wiemer 2009">Wiemer 2009</bibl>: 123-127. </p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+
+				<ab>
+
+
+<lb xml:id="line_1" n="1"/> <name type="title"><name type="personnel"><w lemma="στεφανηφορέω"><supplied reason="lost">στε</supplied>φανηφοροῦντ<supplied reason="lost">ος</supplied></w></name></name> <supplied reason="lost">Ἀ</supplied><unclear>ρ</unclear>ιστέως τοῦ <supplied reason="lost">Δη</supplied>μητρ<supplied reason="lost">ί</supplied>ου τοῦ
+
+<lb xml:id="line_2" n="2"/> <gap reason="lost" quantity="3" unit="character"/><unclear>ω</unclear>νος, <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Σμισιών">Σμισιῶνος</w></name>, <name type="group"><w lemma="φυλή">φυλῆς</w></name> <name type="title"><w lemma="προεδρεύω">προεδρε<unclear>υ</unclear>ούσης</w></name>
+
+<lb xml:id="line_3" n="3"/> <supplied reason="lost">Ἀττα</supplied><unclear>λ</unclear>ίδος, <name type="title"><w lemma="γραμματεύω">γραμματεύοντος</w></name> τῆι <name type="group"><w lemma="βουλή">βουλῆι</w></name> Πυθο<supplied reason="lost">κλ</supplied>εί
+
+<lb xml:id="line_4" n="4" break="no"/><supplied reason="lost">δου</supplied> <supplied reason="lost">τ</supplied>οῦ Ἡγησίππου, <w lemma="τετράς">τετράδι</w> <w lemma="ἄπειμι">ἀπιόντος</w>, <w lemma="ἐν">ἐν</w> <name type="authority"><w lemma="νόμαιος">νομαίαι</w></name> <name type="group"><w lemma="ἐκκλησία">ἐκ
+
+	<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">κ</supplied><unclear>λ</unclear>ησίαι</w></name>, <name type="title"><w lemma="πρόεδρος">προέδρων</w></name> <name type="title"><w lemma="ἐπιστατέω">ἐπιστατοῦντος</w></name> Μενεστράτου
+
+<lb xml:id="line_6" n="6"/> τοῦ Ἀρτεμιδώρου, <w lemma="ὑπέρ">ὑπὲρ</w> τοῦ <name type="genericOffering"><w lemma="ἀναδείκνυμι">ἀναδείκνυσθαι</w></name> <w lemma="ἕκαστος">ἑκάστου</w>
+
+<lb xml:id="line_7" n="7"/> <w lemma="ἐνιαυτός">ἐνιαυτοῦ</w> τῶι <name type="deity" key="Zeus"><w lemma="Ζεύς">Διῒ</w></name> <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταῦρον</w></name></name> <w lemma="ἄρχω">ἀρχομένου</w> <w lemma="σπόρος">σπόρου</w> καὶ <w lemma="ὑπέρ">ὑπὲρ</w> <name type="invocation"><w lemma="κατευχή">κατευ
+
+	<lb xml:id="line_8" n="8" break="no"/>χῆς</w></name> καὶ <w lemma="πομπή">πομπῆς</w> καὶ <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> καὶ <w lemma="ὑπέρ">ὑπὲρ</w> τοῦ <w lemma="πήγνυμι">πήγνυσθαι</w> <name type="structure"><w lemma="θόλος">θόλον</w></name>
+
+<lb xml:id="line_9" n="9"/> <w lemma="ἐν">ἐν</w> τῆι <name type="locality"><w lemma="ἀγορά">ἀγορᾶι</w></name> καὶ <w lemma="στόρνυμι">στρώννυσθαι</w> <name type="object"><w lemma="στρωμνή">στρωμνάς</w></name>.
+
+<lb xml:id="line_10" n="10"/> <w lemma="δοκέω">ἔδοξε</w> τῆι <name type="group"><w lemma="βουλή">βουλῆι</w></name> καὶ τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>· <name type="authority"><w lemma="γνώμη">γνώμη</w></name> <name type="group"><w lemma="δῆμος">δήμου</w></name>· <w lemma="ὅπως">ὅπως</w> οἱ <name type="title"><w lemma="οἰκονόμος">οἰκο
+
+	<lb xml:id="line_11" n="11" break="no"/>νόμοι</w></name> οἱ <w lemma="ἐνίστημι">ἐνεστηκότες</w> <w lemma="ἀγοράζω">ἀγοράσωσιν</w> <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταῦρον</w></name></name> καὶ οἱ <w lemma="ἀεί">ἀεὶ</w> <w lemma="καθίστημι">καθισ
+
+		<lb xml:id="line_12" n="12" break="no"/>τάμενοι</w> <w lemma="ἀγοράζω">ἀγοράζωσιν</w> <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταῦρον</w></name></name> <w lemma="ὡς">ὡς</w> <name type="quality"><w lemma="καλός">κάλλιστον</w></name> τοῦ <w lemma="μείς">μη
+
+			<lb xml:id="line_13" n="13" break="no"/>νὸς</w> τοῦ <name type="month"><w lemma="Ἡραῖος">Ἡραιῶνος</w></name> <w lemma="ἐν">ἐν</w> τῆι <name type="festival"><w lemma="πανήγυρις">πανηγύρει</w></name> <w lemma="ἕκαστος">ἑκάστου</w> <w lemma="ἔτος">ἔτους</w>
+
+<lb xml:id="line_14" n="14"/> καὶ <name type="genericOffering"><w lemma="ἀναδείκνυμι">ἀναδεικνύωσι</w></name> τῶι <name type="deity" key="Zeus"><w lemma="Ζεύς">Διῒ</w></name> <w lemma="ἄρχω">ἀρχομένου</w> <w lemma="σπόρος">σπόρου</w> <w lemma="μείς">μηνὸς</w>
+
+<lb xml:id="line_15" n="15"/> <name type="month"><w lemma="Κρονίων">Κρονιῶνος</w></name> <w lemma="ἐν">ἐν</w> τῆι <w lemma="νουμηνία">νουμηνίαι</w> <w lemma="μετά">μετὰ</w> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱέρεω</w></name> καὶ τῆς
+
+<lb xml:id="line_16" n="16"/> <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> τῆς <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδος</w></name> τῆς <name type="epithet" key="Leukophryene"><w lemma="Λευκοφρυηνή">Λευκοφρυηνῆς</w></name> καὶ τοῦ
+
+<lb xml:id="line_17" n="17"/> <name type="title"><w lemma="στεφανηφόρος">στεφανηφόρου</w></name> καὶ τοῦ <name type="personnel"><w lemma="ἱεροκῆρυξ">ἱεροκήρυκος</w></name> καὶ τοῦ <name type="group"><w lemma="λειτουργέω">λητουρ
+
+	<lb xml:id="line_18" n="18" break="no"/>γοῦντος</w></name> <name type="personnel"><name type="sacrifice"><w lemma="θύτης">θύτου</w></name></name> τῆι <name type="group"><w lemma="πόλις">πόλει</w></name>, <w lemma="ἀποστέλλω">ἀποστέλλειν</w> δὲ τοὺς <name type="title"><w lemma="παιδονόμος">παιδο
+
+		<lb xml:id="line_19" n="19" break="no"/>νόμους</w></name> <name type="group"><name type="person"><w lemma="παῖς">παῖδας</w></name></name> <w lemma="ἐννέα">ἐννέα</w> <w lemma="ἀμφιθαλής">ἀμφιθαλεῖς</w>, <w lemma="ἀποστέλλω">ἀποστέλλειν</w>
+
+<lb xml:id="line_20" n="20"/> δὲ καὶ τοὺς <name type="title"><w lemma="γυναικονόμος">γυναικονόμους</w></name> <name type="group"><name type="person"><w lemma="παρθένος">παρθένους</w></name></name> <w lemma="ἐννέα">ἐννέα</w> <w lemma="ἀμφιθαλής">ἀμ
+
+	<lb xml:id="line_21" n="21" break="no"/>φιθαλεῖς</w>· καὶ <w lemma="ἐν">ἐν</w> τῶι <name type="genericOffering"><w lemma="ἀναδείκνυμι">ἀναδείκνυσθαι</w></name> τὸν <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταῦρον</w></name></name> <name type="invocation"><w lemma="κατεύχομαι">κατευ
+
+		<lb xml:id="line_22" n="22" break="no"/>χέσθω</w></name> ὁ <name type="personnel"><w lemma="ἱεροκῆρυξ">ἱεροκῆρυξ</w></name> <w lemma="μετά">μετὰ</w> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱέρεω</w></name> καὶ τῆς <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> καὶ
+
+<lb xml:id="line_23" n="23"/> τοῦ <name type="title"><w lemma="στεφανηφόρος">στεφανηφόρου</w></name> καὶ τῶμ <name type="group"><name type="person"><w lemma="παῖς">παίδων</w></name></name> καὶ τῶν <name type="group"><name type="person"><w lemma="παρθένος">παρθένων</w></name></name>
+
+<lb xml:id="line_24" n="24"/> καὶ τῶμ <name type="title"><w lemma="πολέμαρχος">πολεμάρχων</w></name> καὶ τῶν <name type="title"><w lemma="ἵππαρχος">ἱππάρχων</w></name> καὶ τῶν <name type="title"><w lemma="οἰκονόμος">οἰ
+
+	<lb xml:id="line_25" n="25" break="no"/>κονόμων</w></name> καὶ τοῦ <name type="title"><w lemma="γραμματεύς">γραμματέως</w></name> τῆς <name type="group"><w lemma="βουλή">βουλῆς</w></name> καὶ τοῦ
+
+<lb xml:id="line_26" n="26"/> <name type="title"><w lemma="ἀντιγραφεύς">ἀντιγραφέως</w></name> καὶ τοῦ <name type="title"><w lemma="στρατηγός">στρατηγοῦ</w></name> <w lemma="ὑπέρ">ὑπέρ</w> τε <w lemma="σωτηρία">σωτηρί
+
+	<lb xml:id="line_27" n="27" break="no"/>ας</w> τῆς τε <name type="group"><w lemma="πόλις">πόλεως</w></name> καὶ τῆς <w lemma="χώρα">χώρας</w> καὶ τῶμ <name type="group"><w lemma="πολίτης">πολιτῶν</w></name>
+
+<lb xml:id="line_28" n="28"/> καὶ <name type="group"><w lemma="γυνή">γυναικῶν</w></name> καὶ <name type="group"><w lemma="τέκνον">τέκνων</w></name> καὶ τῶν <w lemma="ἄλλος">ἄλλων</w> τῶν <name type="group"><w lemma="κατοικέω">κατοικούν
+
+	<lb xml:id="line_29" n="29" break="no"/>των</w></name> <w lemma="ἐν">ἔν</w> τε τῆι <name type="locality"><w lemma="πόλις">πόλει</w></name> καὶ τῆι <name type="locality"><w lemma="χώρα">χώραι</w></name> <w lemma="ὑπέρ">ὑπέρ</w> τε <w lemma="εἰρήνη">εἰρήνης</w> καὶ
+
+<lb xml:id="line_30" n="30"/> <w lemma="πλοῦτος">πλούτου</w> καὶ <name type="vegetal"><w lemma="σῖτος">σίτου</w></name> <w lemma="φορά">φορᾶς</w> καὶ τῶν <w lemma="ἄλλος">ἄλλων</w> <name type="vegetal"><w lemma="καρπός">καρπῶν</w></name> <w lemma="πᾶς">πάν
+
+	<lb xml:id="line_31" n="31" break="no"/><unclear>τ</unclear>ων</w> καὶ τῶν <name type="animal" key="generic"><w lemma="κτῆνος">κτηνῶν</w></name>· <w lemma="δοκέω">δεδόχθαι</w> τῆι <name type="group"><w lemma="βουλή">βουλῆι</w></name> καὶ τῶι
+
+<lb xml:id="line_32" n="32"/> <name type="group"><w lemma="δῆμος">δήμωι</w></name>· τὸν <name type="title"><w lemma="στεφανηφόρος">στεφανηφόρον</w></name> τὸν <w lemma="ἀεί">ἀεὶ</w> <w lemma="γίγνομαι">γινόμενον</w> <w lemma="μετά">μετὰ</w> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱέ
+
+	<lb xml:id="line_33" n="33" break="no"/>ρεω</w></name> καὶ τῆς <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> τῆς <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδος</w></name> τῆς <name type="epithet" key="Leukophryene"><w lemma="Λευκοφρυηνή">Λευκοφρυην<supplied reason="omitted">ῆ</supplied>ς</w></name> <w lemma="ἐξάγω">ἐξά
+
+		<lb xml:id="line_34" n="34" break="no"/><supplied reason="lost">γ</supplied>ειν</w> τὴμ <w lemma="πομπή">πομπὴν</w> τοῦ <w lemma="μείς">μηνὸς</w> τοῦ <name type="month"><w lemma="Ἀρτεμισιών">Ἀρτεμισιῶνος</w></name> τῆι <w lemma="δωδέκατος">δω
+
+			<lb xml:id="line_35" n="35" break="no"/>δεκάτηι</w> καὶ <name type="sacrifice"><w lemma="θύω">θύειν</w></name> τὸν <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταῦρον</w></name></name> τὸν <name type="genericOffering"><w lemma="ἀναδείκνυμι">ἀναδεικνύμενον</w></name>,
+
+<lb xml:id="line_36" n="36"/> <w lemma="συμπομπεύω">συμπομπεύειν</w> δὲ τήν τε <name type="title"><w lemma="γερουσία">γερουσίαν</w></name> καὶ τοὺς
+
+<lb xml:id="line_37" n="37"/> <name type="personnel"><w lemma="ἱερεύς">ἱερεῖς</w></name> καὶ τοὺς <name type="title"><w lemma="ἄρχων">ἄρχοντας</w></name> τούς τε <name type="authority"><w lemma="χειροτονητός">χειροτονητοὺς</w></name> καὶ
+
+<lb xml:id="line_38" n="38"/> <supplied reason="lost">τ</supplied>οὺς <name type="authority"><w lemma="κληρωτός">κληρωτοὺς</w></name> καὶ τοὺς <name type="group"><w lemma="ἔφηβος">ἐφήβους</w></name> καὶ τοὺς <name type="group"><w lemma="νέος">νέους</w></name> καὶ
+
+<lb xml:id="line_39" n="39"/> τοὺς <name type="group"><w lemma="παῖς">παῖδας</w></name> καὶ τοὺς τὰ <name type="festival"><w lemma="Λευκοφρυηνά">Λευκοφρυηνὰ</w></name> <name type="group"><w lemma="νικάω">νικῶντας</w></name> καὶ
+
+<lb xml:id="line_40" n="40"/> τοὺς <w lemma="ἄλλος">ἄλλους</w> τοὺς <name type="group"><w lemma="νικάω">νικῶντας</w></name> τοὺς <name type="adornment"><w lemma="στεφανίτης">στεφανίτας</w></name> <name type="festival"><w lemma="ἀγών">ἀγῶνας</w></name>,
+
+<lb xml:id="line_41" n="41"/> ὁ δὲ <name type="title"><w lemma="στεφανηφόρος">στεφανηφόρος</w></name> <w lemma="ἄγω">ἄγων</w> τὴν <w lemma="πομπή">πομπὴν</w> <w lemma="φέρω">φερέτω</w> <name type="object"><w lemma="ξόανον">ξόα
+
+	<lb xml:id="line_42" n="42" break="no"/>να</w></name> <w lemma="πᾶς">πάντων</w> τῶν <name type="epithet" key="Dodeka"><w lemma="δυώδεκα">Δώδεκα</w></name> <name type="deity" key="generic"><w lemma="θεός">θεῶν</w></name> <w lemma="ἐν">ἐν</w> <name type="clothing"><w lemma="ἐσθής">ἐσθῆσιν</w></name> <w lemma="ὡς">ὡς</w> <w lemma="καλός">καλλίσ
+
+		<lb xml:id="line_43" n="43" break="no"/>ταις</w> καὶ <w lemma="πήγνυμι">πηγνύτω</w> <name type="structure"><w lemma="θόλος">θόλον</w></name> <w lemma="ἐν">ἐν</w> τῆι <name type="locality"><w lemma="ἀγορά">ἀγορᾶι</w></name> <w lemma="πρός">πρὸς</w> τῶι <name type="structure"><w lemma="βωμός">βωμῶι</w></name>
+
+<lb xml:id="line_44" n="44"/> τῶν <name type="epithet" key="Dodeka"><w lemma="δυώδεκα">Δώδεκα</w></name> <name type="deity" key="generic"><w lemma="θεός">θεῶν</w></name>, <w lemma="στόρνυμι">στρωνύτω</w> δὲ καὶ <name type="object"><w lemma="στρωμνή">στρωμνὰς</w></name> <w lemma="τρεῖς">τρεῖς</w> <w lemma="ὡς">ὡς</w>
+
+<lb xml:id="line_45" n="45"/> <name type="quality"><w lemma="καλός">καλλίστας</w></name>, <w lemma="παρέχω">παρεχέτω</w> δὲ καὶ <name type="invocation"><w lemma="ἀκρόαμα">ἀκρόαματα</w></name> <name type="personnel"><w lemma="αὐλητής">αὐλητὴν</w></name>, <name type="personnel"><w lemma="συριστής">συρι
+
+	<lb xml:id="line_46" n="46" break="no"/>στὴν</w></name>, <name type="personnel"><w lemma="κιθαριστής">κιθαριστὴν</w></name>, <w lemma="παρίστημι">παριστανέτωσαν</w> δὲ καὶ οἱ <name type="title"><w lemma="οἰκονόμος">οἰκονόμοι</w></name> οἱ <w lemma="ἐν">ἐν</w>
+
+<lb xml:id="line_47" n="47"/> τῶι <w lemma="μείς">μηνὶ</w> τῶι <name type="month"><w lemma="Ἀρτεμίσιος">Ἀρτεμισιῶνι</w></name> τῆι <w lemma="δωδέκατος">δωδεκάτηι</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> <w lemma="τρεῖς">τρία</w>,
+
+<lb xml:id="line_48" n="48"/> <w lemma="ὅς"><supplied reason="lost">ἃ</supplied></w> <name type="sacrifice"><w lemma="θύω">θύσουσιν</w></name> τῶι τε <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> τῶι <name type="epithet" key="Sosipolis"><w lemma="Σωσίπολις">Σωσιπόλει</w></name> καὶ τῆι <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδι</w></name>
+
+<lb xml:id="line_49" n="49"/> <supplied reason="lost">τ</supplied>ῆι <name type="epithet" key="Leukophryene"><w lemma="Λευκοφρυηνή">Λευκοφρυηνῆι</w></name> καὶ τῶι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> τῶι <name type="epithet" key="Pythios"><w lemma="Πύθιος">Πυθίωι</w></name>, τῶι μὲν
+
+<lb xml:id="line_50" n="50"/> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Διὶ</supplied></w></name> <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριὸν</w></name></name> <w lemma="ὡς">ὡς</w> <name type="quality"><w lemma="καλός">κάλλιστον</w></name>, τῆι δὲ <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδι</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name>, τῷ δὲ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλ<supplied reason="lost">ω</supplied>
+
+	<lb xml:id="line_51" n="51" break="no"/>νι</w></name> <name type="animal" key="goat"><name type="gender"><w lemma="ἀττηγός">ἀττηγόν</w></name></name>, <name type="sacrifice"><w lemma="θύω">θύοντες</w></name> τῶι μὲν <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <w lemma="ἐπί">ἐπὶ</w> τοῦ <name type="structure"><w lemma="βωμός">βωμοῦ</w></name> τοῦ <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸ<supplied reason="lost">ς</supplied></w></name>
+
+<lb xml:id="line_52" n="52"/> τοῦ <name type="epithet" key="Sosipolis"><w lemma="Σωσίπολις">Σωσιπόλιος</w></name>, τῆι δὲ <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδι</w></name> καὶ τῶι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> <w lemma="ἐπί">ἐπὶ</w> τ<supplied reason="lost">οῦ</supplied>
+
+<lb xml:id="line_53" n="53"/> <name type="structure"><w lemma="βωμός">βωμοῦ</w></name> τῆς <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδος</w></name>, <w lemma="λαμβάνω">λαμβάνειν</w> δὲ τὰ <name type="portion"><w lemma="γέρας">γέρα</w></name> τὰ <name type="authority"><w lemma="ἐθίζω">ἰθισμέν<supplied reason="lost">α</supplied></w></name>
+
+<lb xml:id="line_54" n="54"/> τοὺς <name type="personnel"><w lemma="ἱερεύς">ἱερεῖς</w></name> τῶν <name type="deity" key="generic"><w lemma="θεός">θεῶν</w></name> <w lemma="οὗτος">τούτων</w>· τὸν δὲ <name type="animal" key="ox"><name type="gender"><w lemma="βοῦς">βοῦν</w></name></name> <w lemma="ὅταν">ὅταν</w> <name type="sacrifice"><w lemma="θύω">θύσωσιν</w></name>,
+
+<lb xml:id="line_55" n="55"/><name type="portion"><w lemma="διανέμω"><supplied reason="lost">δ</supplied>ιανεμέτωσαν</w></name> τοῖς <name type="group"><w lemma="συμπομπεύω">συμπομπεύσασιν</w></name>, τὸν δὲ <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριὸν</w></name></name> καὶ τὴν
+
+<lb xml:id="line_56" n="56"/> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> καὶ τὸν <name type="animal" key="goat"><name type="gender"><w lemma="ἀττηγός">ἀττηγὸν</w></name></name> <name type="portion"><w lemma="διανέμω">διανεμέτωσαν</w></name> τῶι τε <name type="personnel"><w lemma="στεφανηφόρος">στεφανηφό
+
+	<lb xml:id="line_57" n="57" break="no"/><supplied reason="lost">ρ</supplied>ωι</w></name> καὶ τῆι <name type="personnel"><w lemma="ἱέρεια">ἱερείαι</w></name> καὶ τοῖς <name type="title"><w lemma="πολέμαρχος">πολεμάρχαις</w></name> καὶ τοῖς <name type="title"><w lemma="πρόεδρος">προέδροις</w></name>
+
+<lb xml:id="line_58" n="58"/> <supplied reason="lost">κα</supplied>ὶ <name type="personnel"><w lemma="νεωποίης">νεωποίαις</w></name> καὶ <name type="title"><w lemma="εὔθυνος">εὐθύνοις</w></name> καὶ τοῖς <name type="title"><w lemma="λῃτουργέω">λητουργήσασιν</w></name>, <name type="portion"><w lemma="διανέμω">διανε
+
+	<lb xml:id="line_59" n="59" break="no"/><supplied reason="lost">μέ</supplied>τωσαν</w></name> δὲ <w lemma="οὗτος">ταῦτα</w> οἱ <name type="title"><w lemma="οἰκονόμος">οἰκονόμοι</w></name>. <w lemma="ὅταν">ὅταν</w> δὲ <name type="genericOffering"><w lemma="ἀναδείκνυμι">ἀναδειχθῇ</w></name> ὁ <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταῦ
+
+		<lb xml:id="line_60" n="60" break="no"/><supplied reason="lost">ρ</supplied>ος</w></name></name>, <w lemma="ἔκδοσις">ἔγδοσιν</w> <w lemma="ποιέω">ποιείσθωσαν</w> οἱ <name type="title"><w lemma="οἰκονόμος">οἰκονόμοι</w></name> <w lemma="ὅπως">ὅπως</w> <w lemma="τρέφω">τρέφηται</w> <w lemma="ὑπό">ὑπὸ</w>
+
+<lb xml:id="line_61" n="61"/> τοῦ <w lemma="ἐργολαβέω">ἐργολαβήσαντος</w>, <w lemma="ἄγω">ἀγέτω</w> δὲ ὁ <w lemma="ἐργολαβέω">ἐργολαβήσας</w> τὸν <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταῦρον</w></name></name>
+
+<lb xml:id="line_62" n="62"/> <w lemma="εἰς">εἰς</w> τὴν <name type="locality"><w lemma="ἀγορά">ἀγορὰν</w></name> καὶ <w lemma="ἀγείρω">ἀγειρέτω</w> <w lemma="παρά">παρά</w> τε τῶν <name type="group"><w lemma="σιτοπώλης">σιτοπωλῶν</w></name>
+
+<lb xml:id="line_63" n="63"/> καὶ <w lemma="παρά">παρὰ</w> τῶν <w lemma="ἄλλος">ἄλλων</w> <name type="group"><w lemma="ἀγοραῖος">ἀγοραίων</w></name> <w lemma="ὅς">ἃ</w> <w lemma="ἀνήκω">ἀνήκει</w> <w lemma="εἰς">εἰς</w> τὴν <w lemma="τροφή">τροφὴν</w>, καὶ <name type="authority"><w lemma="ἀμείνων">ἄ
+
+	<lb xml:id="line_64" n="64" break="no"/>μεινον</w></name> <w lemma="εἰμί">εἶναι</w> τοῖς <w lemma="δίδωμι">διδοῦσιν</w>, τὸ δὲ <name type="authority"><w lemma="ψήφισμα">ψήφισμα</w></name> <w lemma="ὅδε">τόδε</w> <w lemma="ἀναγράφω">ἀναγρά
+
+		<lb xml:id="line_65" n="65" break="no"/>ψαι</w> τοὺς <name type="title"><w lemma="οἰκονόμος">οἰκονόμους</w></name> εἰς τὸ <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> τοῦ <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name> εἰς τὴν <name type="structure"><w lemma="παραστάς">παραστά
+
+			<lb xml:id="line_66" n="66" break="no"/>δα</w></name>, <w lemma="ἀναλίσκω">ἀναλισκέτωσαν</w> δὲ <w lemma="εἰς">εἰς</w> <w lemma="οὗτος">ταῦτα</w> <w lemma="πᾶς">πάντα</w> τὰ <w lemma="γράφω">γεγραμμένα</w> οἱ <name type="title"><w lemma="οἰκονόμος"><supplied reason="lost">οἰ</supplied>
+
+				<lb xml:id="line_67" n="67" break="no"/>κονόμοι</w></name> <w lemma="ἐκ">ἐκ</w> τῶν <w lemma="πόρος">πόρων</w> <w lemma="ὅς">ὧν</w> <w lemma="ἔχω">ἔχουσιν</w> <w lemma="εἰς">εἰς</w> <name type="group"><w lemma="πόλις">πόλεως</w></name> <w lemma="διοικέω">διο<supplied reason="lost">ίκησιν</supplied></w><supplied reason="lost">, τὸ δὲ</supplied>
+
+<lb xml:id="line_68" n="68"/> <name type="authority"><w lemma="ψήφισμα"><supplied reason="lost">ψ</supplied>ήφισ<supplied reason="lost">μα</supplied></w></name> <w lemma="ὅδε"><supplied reason="lost">τόδε</supplied></w> <w lemma="εἰμί">εἶναι</w> <w lemma="εἰς">εἰς</w> <w lemma="φυλακή">φυλακὴν</w> <supplied reason="lost">τῆς</supplied> <name type="locality"><w lemma="χώρα"><supplied reason="lost">χώρας</supplied></w></name>. </ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+
+<p> When Aristeas son of Demetrios son of [...]on was <foreign>stephanophoros</foreign>, in the month Smision, when the tribe Attalis was presiding, and Pythokleidos son of Hegesippos was secretary of the council, on the 27th of the month, in a lawful assembly, (5) when Menestratos son of Artemidoros presided over the <foreign>proedroi</foreign>, concerning the designation of a bull for Zeus each year, when the sowing starts, and concerning a prayer and a procession and a sacrifice, and concerning the construction of a round tent in the agora and the preparation of couches. (10) It was decided by the council and the people, on the motion of the people: that the <foreign>oikonomoi</foreign> who are in function now shall buy a bull, and those appointed in the future shall buy a bull that is as beautiful as possible in the month of Heraion during the annual festival, and they shall dedicate it to Zeus, when the sowing starts in the month of (15) Kronion on the first of the month, together with the priest and the priestess of Artemis Leukophryene and the <foreign>stephanophoros</foreign> and the sacred herald and the one holding the liturgy of sacrificer for the city. The <foreign>paidonomoi</foreign> should send off nine boys who have both parents alive, and the (20) <foreign>gunaikonomoi</foreign> should send off nine girls with both parents alive. At the dedication of the bull, the sacred herald should pray, together with the priest and the priestess and the <foreign>stephanophoros</foreign> and the boys and the girls and the army commanders and the cavalry commanders and the <foreign>oikonomoi</foreign> and the (25) secretary of the council and the verification-clerk and the general, for the safety of the city and the country and the citizens and women and children and the other inhabitants of the city and the country, for peace and (30) prosperity and that the bearing of grain and all the other fruits and lifestock. May it be decided by the council and the people: that the <foreign>stephanophoros</foreign> in function together with the priest and the priestess of Artemis Leukophryene is to lead out the procession on the 12th of the month Artemision (35) and sacrifice the designated bull, and the <foreign>gerousia</foreign> and the priests and the <foreign>archontes</foreign>—those who have been elected and those who have been appointed by lot—and the ephebes and the youths and the boys and the victors in the games of the Leukophryena festival and the (40) other victors in the crown-bearing games should also walk in the procession. The <foreign>stephanephoros</foreign> leading the procession should carryZ statues of all the Twelve Gods, dressed in as beautiful attires as possible, and he should pitch a round tent in the agora by the altar of the Twelve Gods, and prepare (45) three most beautiful couches and he will also provide music, an <foreign>aulos</foreign>-player, a player of the pan-pipe, and a kithara-player. Also, the <foreign>oikonomoi</foreign> should supply three sacrificial animals in the month Artemision, on the 12th, which they will sacrifice to Zeus Sosipolis and to Artemis Leukophryene and to Apollo Pythios: (50) to [Zeus] a most beautiful ram, to Artemis a goat, to Apollo a he-goat, sacrificing to Zeus on the altar of Zeus Sosipolis, to Artemis and to Apollo on the altar of Artemis, and the priests of these gods shall take the usual perquisites. When they sacrifice the bull, (55) they should distribute (the portions) to the participants in the procession, and they should distribute (the portions of) the ram and the goat and the he-goat to the <foreign>stephanophoros</foreign> and the priestess and to the army commanders and to the <foreign>proedroi</foreign> and the <foreign>neopoioi</foreign> and the public examiners and those who have undertaken public liturgies. The <foreign>oikonomoi</foreign> should make the distribution. When the bull has been selected, (60) the <foreign>oikonomoi</foreign> should make a contract so that the bull is reared by the contractor, and the contractor should lead the bull to the agora and he should collect from the grain-sellers and from the other traders an amount up to what he spent on the bull's fodder: it is better for those who give. The <foreign>oikonomoi</foreign> should inscribe this decree (65) in the sanctuary of Zeus on the entrance-pillar, and the <foreign>oikonomoi</foreign> should spend the money for all of the things described (here) from the funds which they possess for the [administration] of the city. This decree is to be for the protection [of the country].</p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+
+<p>Sous la stéphanèphorie d'Aristeus, fils de Demetrios, fils de [...], au mois de Smision, sous la présidence de la tribu [Atta]lis, Pytho[kl]eidos, fils d'Hegesippos, étant secrétaire du conseil, le 27 du mois, en assemblée légale, (5) Menestratos, fils d'Artémidoros, étant chef des proèdres, au sujet de la consécration, chaque année, à Zeus d'un taureau, au commencement des semailles, et au sujet de la prière et de la procession et du sacrifice, et au sujet de l'érection d'une tente ronde sur l'agora et de la préparation des lits. (10) Il a plu au conseil et au peuple, décision du peuple : afin que les économes en exercice achètent un taureau et que les (économes) à chaque fois en charge achètent le taureau le plus beau possible, au mois d'Heraion, pour la panégyrie de chaque année, et consacrent (le taureau) à Zeus, au commencement des semailles, au 1er jour du mois (15) de Kronion, avec le prêtre et la prêtresse d'Artémis Leukophryenè, le stéphanéphore, le héraut sacré et le sacrificateur en fonction pour la cité. Les pédonomes doivent envoyer neuf enfants, dont le père et la mère sont vivants, et les (20) gynéconomes doivent envoyer neuf jeunes filles, dont le père et la mère sont vivants. Pendant la consécration du taureau, que le héraut sacré prononce des prières avec le prêtre et la prêtresse, le stéphanéphore, les enfants et les jeunes filles, les polémarques, les hipparques, les économes, le (25) secrétaire du Conseil, le contrôleur et le stratège, pour le salut de la cité et du pays, et des citoyens, des femmes, des enfants, et des autres habitants de la cité et du pays, et pour la paix, (30) la richesse et la (re)production du blé et de tous les autres fruits et des troupeaux. Qu'il plaise au conseil et au peuple que le stéphanéphore à chaque fois en charge, avec le prêtre et la prêtresse d'Artémis Leukophryenè mène la procession le 12 du mois d'Artemision, (35) et sacrifie le taureau qui a été consacré. Qu'ils fassent procession ensemble, la gérousie, les prêtres et les archontes, qu'ils soient élus ou tirés au sort, et les éphèbes, les jeunes, les enfants et les vainqueurs aux Leukophryena, et les autres (40) vainqueurs des concours stéphanites. Que le stéphanéphore qui mène la procession porte les statues des Douze dieux au complet, dans leurs plus beaux atours, et qu'il dresse une tente ronde sur l'agora, près de l'autel des Douze dieux, et qu'il dispose (45) trois lits les plus beaux possible, et qu'il procure ce qui est agréable à entendre, un aulète, un joueur de syrinx et un cithariste. Que les économes présentent le 12 du mois d'Artemision trois animaux sacrificiels, qu'ils sacrifieront à Zeus Sosipolis, à Artémis Leukophryenè et à Apollon Pythios, (50) à [Zeus] un bélier, le plus beau possible, à Artémis une chèvre, et à Apollon un bouc, en sacrifiant à Zeus sur l'autel de Zeus Sosipolis, et à Artémis et à Apollon, sur l'autel d'Artémis. Les prêtres de ces dieux doivent prendre les parts d'honneur habituelles. Quand ils auront sacrifié le boeuf, qu'ils distribuent (les viandes) à ceux qui ont fait la procession ensemble, (55) qu'ils distribuent (les parts prélevées sur) le bélier, la chèvre et le bouc au stéphanéphore, à la prêtresse, aux polémarques, aux présidents, aux néopes, aux examinateurs publics et à ceux qui ont assumé des charges, et que les économes procèdent à cette distribution. Dès que le taureau aura été présenté, (60) que les économes procèdent à l'adjudication pour qu'il soit nourri par l'adjudicataire. Que l'adjudicataire conduise le taureau à l'agora et collecte, auprès des marchands de blé et des autres marchands, ce qu'il faut pour la nourriture, et ce sera avantageux pour ceux qui donnent. Les économes doivent inscrire ce décret (65) dans le sanctuaire de Zeus, sur la parastade, et qu'ils prélèvent la dépense, pour tout ce qui a été écrit, sur les ressources dont ils ont, dans la cité, l'admi[nistration. Ce d]écret est là pour la sauvegarde [du territoire].</p>
+				<p> (traduit d'après S. Georgoudi)</p>
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+
+				<p> This decree of the city of Magnesia-on-the-Maiander is one of our most instructive regulations concerning the creation or the elaboration of a civic festival. The inscription is contemporary with the conclusion of a peace treaty with Miletos, traditionally dated to 197/6 (<bibl type="abbr" n="Milet I.3">Milet I.3</bibl> 148): the present inscription has been dated to the same year on the basis of the mention of the <foreign>stephanophoros</foreign> Aristeas in both texts. On an alternative recent view (see Wiemer, with further discussion), both the treaty with Miletos and the present inscription should date to the period after the peace of Apamea (in 189/8 BC), thus in the 180s BC. The sacrifice in honour of Zeus Sosipolis ("Saviour of the City") may have been newly instituted at this critical time and it is explicitly intended to assure the peace and prosperity of the country and its inhabitants (lines 26-31). Another possibility is that we have here the reorganisation of an already existing festival (cf. Chaniotis, p. 103), but in the absence of any phrases explicitly designating the rituals as "traditional" (as we would have expected), that is essentially an argument from silence. What is more, it would seem that the sanctuary of Zeus Sosipolis was constructed during the early second century BC in the agora at Magnesia (cf. Schädler; the sanctuary of Artemis Leukophryene was also rebuilt and repaired around this time). At any rate, what is clear is that the cult of Zeus Sosipolis, as "Saviour of the City", is particularly suited to this historical context in the early second century BC: Magnesia-on-the-Maiander had apparently been a victim to the destruction wrought by the wars waged by Antiochos III and the Romans in Asia Minor. An effort at rebuilding and revitalising the city, as well as ensuring its protection in the future by propitiating this god (see notably line 68: "the decree should be for the protection of the country") was therefore undertaken (under Antiochos himself in the traditional dating or, more probably, under the Attalids—see lines 2-3). The goddess Artemis Leukophryene ("of the white brow"?) was the principal or tutelary deity of Magnesia-on-the-Maeander; this begins to explain the central roles played by the priest and priestess of this goddess in the cult of Zeus Sosipolis. For further discussion and for the somewhat later decree concerning the augmentation of the festival of this goddess at Magnesia, see here <ref target="CGRN_200">CGRN 200</ref>. Many different magistrates, cultic agents and groups of inhabitants of Magnesia play a role in the organisation and execution of all these rituals, underscoring the highly political and central role of the new sacrifice for the community. By focussing its efforts on this celebration, from the purchase and designation of the bull in the late summer or early autumn and its rearing over the winter (lines 13-15 and 59-64), to its sacrifice in the spring after the Isiteria and Leukophryena (lines 47ff.), the community of Magnesia-on-the-Maiander organised a cult that united its major deities (the Twelve Gods, Artemis Leukophryene and Apollo in particular) with the figure of Zeus Sosipolis, invoked as a saviour and protector—from its physical protection to its agricultural prosperity of the community at large—from its highest officials to its wider consistuency.</p>
+
+				<p> The decree is divided into the following parts: a preamble (lines 1-5) and a summary of the instituted measures (lines 6-9); sections on: the purchase and dedication of a most beautiful bull to Zeus (lines 10-21); the performance of a prayer during the dedication ritual (lines 21-31); the organisation of a procession (lines 31-40); the handling of images of the Twelve Gods and preparations for a <foreign>theoxenia</foreign> ritual (lines 41-46); the sacrifice of three other animals to Zeus Sosipolis, Artemis Leukophryene and Apollo Pythios (lines 46-54) and the division of meat from the sacrifices (lines 54-59); the contracting out of the rearing of the bull after it has been selected (lines 59-64); and finally the inscribing of the stele and its financing (lines 64-67). </p>
+
+				<p> Line 6-7: Note the special use of the verb ἀναδείκνυμι here (and in lines 14, 21, 35, 59). This refers literally to "the designation" of the animal or to the "proclamation" that it is intended for sacrifice to Zeus Sosipolis, but it also has the wider sense of a dedication or consecration of the animal to the god. Zeus in his capacity as "Saviour" is more widely known as Zeus Soter; for cults of this deity, cf. for example <ref target="CGRN_106">CGRN 106</ref> (Kalaureia), line 6, <ref target="CGRN_198">CGRN 198</ref> (Megalopolis), line 11, and <ref target="CGRN_206">CGRN 206</ref> (Pergamon), line 30.</p>
+
+				<p> Lines 10-11: The οἰκονόμοι play an distinctive role in the rituals for Zeus Sosipolis. They are not only charged with the purchase of the sacrificial bull, but they also participate in the ritual of dedicating the animal to Zeus and praying over it (line 25), and contract out the raising of the bull until the sacrifice (line 60); they also need to provide the three additional animals sacrificed on the 12th of Artemision (line 46), and they distribute the meat of the four sacrificial animals (lines 59-90); finally, they are charged with the inscribing of the inscription and arranging for its payment from the public funds (lines 65-66). The importance of the οἰκονόμοι in the public life of Magnesia is also witnessed by their presence beside the other Magnesian magistrates during the (E)isiteria (cf. <ref target="CGRN_200">CGRN 200</ref>, line 25), and by their duties in other cults of this city (cf. <ref target="CGRN_187">CGRN 187</ref>, lines 4, 7, 16, cult of Sarapis, 2nd century BC).</p>
+
+				<p> Line 12: "Beauty" was often an essential element in the choice of the sacrifial animal. The bull bought by the οἰκονόμοι to be offered to Zeus should be "as beautiful as possible" (line 12, ὡς κάλλιστον) and furthermore the supplementary sacrifice of the ram to this god (line 50) should be chosen according to the same principle. Compare, for example, the selection of one βοῦς from the "most beautiful" ones for a special sacrifice on the altar of Nike (<ref target="CGRN_92">CGRN 92</ref>, Athens, lines 21-22) or to Zeus Polieus (<ref target="CGRN_86">CGRN 86</ref> A, Kos, lines 5-19); or the sacrifices at Mykonos (<ref target="CGRN_156">CGRN 156</ref>, lines 5-6, 11-12, and 27). The most beautiful animal would sometimes lead the pack of animals in the procession (cf. e.g. <ref target="CGRN_91">CGRN 91</ref>, Eretria, lines 35-38).</p>
+
+				<p> Lines 15-16: The priest and the priestess of Artemis Leukophryene (mentioned here and in lines 32-33), the tutelary goddess of Magnesia, held a double priesthood in service of a single deity. This confirms that the customary division of labour, in which priests served gods, and priestesses goddesses, was not an absolute rule. We find similar cases especially in Asia Minor from the Hellenistic period onwards, and such joint priesthoods, often held by a married couple, became more frequent during the Imperial period. Compare already, for example, the repartition of tasks between the priest and the priestess in the cult of the Korybantes at Erythrai (<ref target="CGRN_98">CGRN 98</ref>, end of the 4th century), where the two priests appear to be exclusively responsible for the rituals involving their gender groups (cf. esp. lines A9-10).</p>
+
+				<p> Lines 17-18: The στεφανηφόρος (literally "bearer of a crown"; cf. also line 1) appears as eponymous magistrate in the Hellenistic and Roman periods in many cities of Asia Minor as well as in the Aegean islands. The term θύτης appears rarely in ritual norms, which makes a definition of his duties difficult to achieve. Here, the "sacrificer" fulfills a public office, as a liturgy at his own expense (τοῦ λητουργοῦντος θύτου τῆι πόλει), that may well exceed the function of a simple "assistant" to the priest responsible for the killing of the animal. Cp., though differently, the more punctually appointed σφαγεύς (chosen among the <foreign>hieropoioi</foreign>) at <ref target="CGRN_86">CGRN 86</ref> A (Kos), lines 41-42. On the functions of the ἱεροκήρυξ at Magnesia, cf. the commentary at <ref target="CGRN_200">CGRN 200</ref>, lines 36-49.</p>
+
+				<p> Lines 18-21: On the role of ἀμφιθαλεῖς in rituals, i.e. children with both parents alive, cf. the epigraphical examples collected by Robert.</p>
+
+				<p> Lines 21-31: The prayer is made by an impressive number and range of officials and inhabitants of the city, testifying to its centrality and importance in the context of these rituals for the safety and protection of the city. The detail with which the desired content of the prayer is recorded is also rather exceptional. Cf. also the prayer on behalf of the city (i.e. for its safety and prosperity) during the (E)isiteria at Magnesia, <ref target="CGRN_200">CGRN 200</ref>, lines 43-49; cp. elsewhere <ref target="CGRN_85">CGRN 85</ref> (Kos), lines 63-65 (an analogous prayer that the city not be subject to enemy attacks), <ref target="CGRN_176">CGRN 176</ref> (Priene), lines 18-19, and <ref target="CGRN_205">CGRN 205</ref> (Antiocheia-ad-Pyramum), lines 27-31.</p>
+
+				<p> Lines 28-29: Various inscriptions in mention groups of (non-citizen) inhabitants of the community; rituals norms occasionally federate not only κάτοικοι "those who are settled in the city" as here (<ref target="CGRN_221">CGRN 221</ref>, Kos, line 12), but also μέτοικοι (resident aliens or metics; cf. e.g. <ref target="CGRN_19">CGRN 19</ref>, line C8, and <ref target="CGRN_43">CGRN 43</ref>, line 23, both from Athens), as well as περίοικοι ("neighbouring peoples"; <ref target="CGRN_14">CGRN 14</ref>, Gortyn, line 10, and <ref target="CGRN_93">CGRN 93</ref>, Xanthos, line 6), and perhaps πάροικοι (<ref target="CGRN_161">CGRN 161</ref>, Kos, if the restoration τῶν πα[ροικ]εύντω[ν] in line 6 is correct).</p>
+
+				<p> Lines 32-40: The participants of the procession are enumerated according to a strict hierarchy, especially in view of their age. A similar order is mentioned for the procession in honour of Athena and Homonoia at Antiocheia-ad-Pyramum (<ref target="CGRN_205">CGRN 205</ref>, lines 11-13). The winners of various races and contests participate in the procession in both cases. Cf. also the procession for the festival of Artemis Leukophryene at Magnesia, <ref target="CGRN_200">CGRN 200</ref>, lines 31-34.</p>
+
+				<p> Lines 41-46: These lines elaborately describe and prescribe a ritual of <foreign>theoxenia</foreign> involving the "Twelve Gods", who apparently possessed an altar in the agora of Magnesia. The images of these gods are to be carried in a procession, dressed in the most beautiful garments, after which they were installed on couches in a <foreign>tholos</foreign>, a temporary, circular construction that was installed for this occasion (probably a sort of tent "fixed" to the ground, or a hut). As a <foreign>theoxenia</foreign>, this may also have involved dressing a table with food and drinks offerings for the gods, though this is not explicitly described; the offerings may also have been provided to the statues themselves, whether on their couches or directly in their hands. In Jameson's words (and cf. this author for a general discussion of <foreign>theoxenia</foreign> rituals), "it is the preparation of the couch that most clearly signals the acting out of hospitality to supernatural guests". This ritual accompanies the main sacrifice of the bull to Zeus, and supplementary animals for Zeus, Artemis and Apollo. This trio certainly figured among the "Twelve gods" honoured and they seem to have been the particular recipients of the <foreign>theoxenia</foreign> ritual, since only three couches were laid in the <foreign>tholos</foreign> and only three animals sacrificed (see below on lines 46-54). For the cult of the Twelves Gods, cp. <ref target="CGRN_85">CGRN 85</ref> (Kos), line 22, and the wider discussion of Georgoudi. Cases in which some major gods receive an animal sacrifice, while other deities are honoured with a table, occur for example in <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 17, 19, etc., and <ref target="CGRN_56">CGRN 56</ref> (Marathonian Tetrapolis), col. II, lines 4, 24, 25, etc. For further examples of <foreign>theoxenia</foreign> rituals, cp. especially <ref target="CGRN_13">CGRN 13</ref> (Selinous), side A.</p>
+
+				<p> Lines 46-54: Three supplementary sacrifices are prescribed on the same day as the major sacrifice of the bull to Zeus: to Zeus Sosipolis again, Apollo Pythios and to the city's tutelary deity, Artemis Leukophryene. Taking place on the 12th of Artemision, this celebration appropriately invokes the Twelve Gods (see above) and closely follows the Isiteria and Leukophryena on the 6th of Artemision. The animal that is destined for Apollo Pythios is called ἀττηγός, a term that is used, according to Eustathius, principally by Ionian people to designate male goats of a certain age (schol. ad <title>Od.</title> 9.222, p. 1625); Magnesia-on-the-Maiander, an Ionian city, therefore seems to have retained the use of this specific regional terminology in the Hellenistic period (cf. also <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. citing Arn. 5.6 for a possible Phrygian origin for this word). The altar of Zeus Sosipolis has been located to the west of the temple in the agora, cf. Kern: "est ist ein mit sehr geringer Sorgfalt errichtetes Bauwerk ... ohne Inschrift und ohne jeden Schmuck." It is also significant that the animal for Apollo Pythios is sacrificed on the same altar as the animal for Artemis: the intention may have been to closely associate Apollo and Artemis on this occasion, by presenting them as σύμβομοι θεοί in the sanctuary of the goddess.</p>
+
+				<p> Lines 54-59: In this distribution of meat, the bull was divided among all the participants in the procession (cp. here <ref target="CGRN_96">CGRN 96</ref>, Kos, lines 157-159 for a similar procedure), while the three supplementary animals were distributed among persons with a special political role. On divisions of meat at Greek sacrifices, cf. Ekroth. Given that the participants in the procession were seemingly only men, it follows that women did not participate in this post-sacrificial meal. On female consumption of sacrificial meat more generally, cf. the Commentary at <ref target="CGRN_33">CGRN 33</ref> (Elateia), with further references.</p>
+
+				<p> Line 58: The νεωποίοι were magistrates in Boeotia, Asia Minor, and on certain islands, and especially at Delphi. They were charged with the construction and reparation of temples, but often with the more general task of administrating sacred finances. On the εὔθυνοι in Magnesia, see <ref target="CGRN_187">CGRN 187</ref>, line 14 (and cf. also our general Glossary).</p>
+
+				<p> Lines 59-64: The bull to be offered to Zeus is bought by the οἰκονόμοι in the late summer (lines 13-14, month Heraion), then consecrated before the start of the sowing season (line 7, month Kronion) in the autumn; it needed to be taken care of and nourished until its sacrifice on 12 Artemision (lines 34-35), in the spring. In various cities, it was customary to purchase the sacrificial animal in advance, and to rear them for a certain period of time with a view of providing the most beautiful (see above at line 12) and the most meaty or fatty animals for sacrifice. A series of new inscriptions from Bargylia, in Karia (<bibl type="abbr" n="SEG">SEG</bibl> 45, 1508A-B; 50, 1100-1101), are particularly explicit about this custom, testifying to the appointment of certain individuals as <foreign>boutrophoi</foreign>, who were to nourrish the oxen destined to be sacrificed during the festival of Artemis Kindyas. Here, funds for the rearing are to be provided by grain-sellers and other merchants; the phrase ἄμεινον εἶναι τοῖς διδοῦσιν, "and it is better for those who give (money)", provides a blessing for the generosity of the merchants, and an implicit curse on those who fail in this respect.</p>
+
+				<p> Lines 68-69: Here we have a rare concluding statement following the practicalities and financement of the inscribing of the stele. The communication of the main goal of the instituted rituals—to protect the city (i.e. against war and failure of agricultural produce)—is in essence a repetition of information already emerging from the prayer (cf. lines 21-31 above). This unusual summary at the end of the text may be interpreted as indicative of the high importance the Magnesians attached to the success of the new sacrifices.</p>
+
+			</div>
+		</body>
+	</text>
+</TEI>

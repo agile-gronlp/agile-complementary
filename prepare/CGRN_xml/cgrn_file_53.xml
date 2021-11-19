@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_53" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 53</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for the Moirai at Piraeus</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>Upper part of a small 
+                            <rs type="objectType" key="block">block</rs> of Pentelic marble. The inscription is complete.</p>
+                            <p><dimensions> 
+                                <height unit="cm">unknown</height>
+                                <width>unknown</width>
+                                <depth>unknown</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Stoichedon. The letters have been engraved with care. </p>
+                            <p>Letters:
+                            <height unit="cm">1.2</height>.</p>
+                      </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0400" notAfter="-0300">4th century BC</origDate></p>
+                        <p><desc>Justification: by analogy to <ref target="http://cgrn.ulg.ac.be/CGRN_54">CGRN 54</ref></desc>.</p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Piraeus" n="Attica"><ref target="http://pleiades.stoa.org/places/580062" type="external">Piraeus</ref></placeName>. Now in the Museum of Piraeus.</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 30-06-2014 by S Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                
+                <p> Edition here based on Kirchner <bibl type="abbr" n="IG II²">IG II²</bibl> 4971.</p>
+                <p> Other editions:
+                    <bibl type="author_date" n="Foucart 1883">Foucart 1883</bibl>: 68;
+                    <bibl type="abbr" n="IG II">IG II</bibl> 1662; Curbera <bibl type="abbr" n="IG II³">IG II³</bibl> 4, 1776.</p>
+                <p> Cf. also:
+                    Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 19; 
+                    Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 22. 
+                </p>
+                <p> Further bibliography:
+                    <bibl type="author_date" n="Bruit Zaidman 2005">Bruit Zaidman 2005</bibl>: 38; <bibl type="author_date" n="Pirenne-Delforge - Pironti 2011">Pirenne-Delforge - Pironti 2011</bibl>.
+                </p>
+ 
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    
+                    <lb xml:id="line_1" n="1"/> <name type="deity" key="Moirai"><w lemma="μοῖρα">Μοίραις</w></name>
+                    <lb xml:id="line_2" n="2"/> <space quantity="1" unit="line"/>
+                    <lb xml:id="line_3" n="3"/> <name type="bakery"><w lemma="ἀρεστήρ">ἀρεστῆρας</w></name>
+                    <lb xml:id="line_4" n="4"/> <num value="3"><unclear>Ι</unclear>ΙΙ</num> <pc>﹕</pc> <name type="liquid"><name type="vegetal"><w lemma="κηρίον">κηρία</w></name></name> <pc>﹕</pc> <num value="3">ΙΙΙ</num>
+                    <lb xml:id="line_5" n="5"/> <space quantity="1" unit="line"/>
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <ab n="translation1">
+                   To the Moirai. Propitiatory cakes: three. Honeycombs: three.
+                </ab>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <ab n="translation2">
+                    Aux Moires. Gâteaux propitiatoires : trois. Rayons de miel : trois.
+                </ab>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p> This  text, found at Piraeus, is part of a group of mostly short inscriptions (cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_54">CGRN 54</ref>) found in Piraeus and in or near the city Asklepieion of Athens, prescribing the (preliminary) offering of cakes to various divinities. Two previously unpublished inscriptions, now <bibl type="abbr" n="IG II³">IG II³</bibl> 4, 1774 and 1777, are virtually identical to this inscription, coming from the same place and concerning the same divinities.</p>
+                <p> The offerings of the cake called ἀρεστήρ and honeycomb often go together. <ref target="http://cgrn.ulg.ac.be/CGRN_95">CGRN 95</ref>, found at Athens, prescibes an ἀρεσ[τῆ]ρα and a κηρίον for Mnemosyne, <ref target="http://cgrn.ulg.ac.be/CGRN_54">CGRN 54</ref>, lines B1-8 found at Piraeus, prescribes an ἀρεστῆρ[α] and a κηρίον for Helios and Mnemosyne. <ref target="http://cgrn.ulg.ac.be/CGRN_87">CGRN 87</ref>, found on Samos, prescribes ἀρεστῆρας and κηρία for Kourotrophos and Hermes. The name of the cake called ἀρεστήρ is derived from the verb ἀρέσκω "to appease, conciliate" and should be seen as a propitiatory gesture. Bruit Zaidman explains that honey has an 'appeasing' function too. Cf. the commentary at <ref target="http://cgrn.ulg.ac.be/CGRN_87">CGRN 87</ref> for a divergent interpretations of ἀρεστήρ and κηρίον in this type of cultic context.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

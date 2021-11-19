@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_106" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 106</idno>: <rs type="textType" key="sacrificial regulation">Regulation concerning the donation</rs> of Agasikratis for sacrifices to Poseidon at Kalaureia</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Marble <rs type="objectType">base</rs>. There are holes at the top of the base for the fixing of a statue. </p>
+		
+	<p><dimensions>
+		<height unit="cm">89</height>
+		<width unit="cm">53</width>
+		<depth unit="cm">57</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p> The inscription is nearly intact. Above and below the inscription there is a large non-engraved space (above: 28 cm, below: 37 cm); traces of mouldings are also visible here.</p>
+			<p>Letters: the writing is very uneven; measurements unknown.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0300" notAfter="-0200">3rd century BC</origDate></p>
+							<p><desc>Justification: letterforms (Fraenkel).</desc></p>
+						</origin>
+			<provenance><p><placeName type="ancientFindspot" key="Kalaureia" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570325" type="external">Kalaureia</ref></placeName>. Found on Poros. Since a statue was originally fixed on top of the stele (cf. Support), it is quite likely that the inscription was originally situated inside the family funerary monument (see below, Commentary). Current location unknown.
+						 </p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Fraenkel <bibl type="abbr" n="IG IV">IG IV</bibl> 840.</p>
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 52; 
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 58; 
+	    				Brodersen <bibl type="abbr" n="HGIU">HGIU</bibl> 347;
+	    				<bibl type="author_date" n="Guarducci 1974">Guarducci 1974</bibl>: 249-250;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 40, 1730. </p>
+	    			
+	    			<p>Further bibliography: 
+	    	<bibl type="author_date" n="Wide and Kjellberg 1895">Wide - Kjellberg 1895</bibl>: 287-293 no. 2;
+	    	<bibl type="author_date" n="Bielman 2002">Bielman 2002</bibl>: 26-31.		
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	    	
+	    	
+	    				<lb xml:id="line_1" n="1"/> <name type="deity" key="generic"><w lemma="θεός">θεοί</w></name>· <name type="deity" key="Tyche"><w lemma="τύχη">τύχαι</w></name> <name type="epithet" key="Agathe"><w lemma="ἀγαθός">ἀγαθᾶι</w></name>· <w lemma="ἐπί">ἐπὶ</w> <w lemma="ὅδε">τοῖσδε</w> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνέθηκε</w></name> Ἀ<unclear>γ</unclear>ασίγρατις
+	    				
+	    		<lb xml:id="line_2" n="2"/> <supplied reason="lost">Τε</supplied><unclear>ι</unclear>σία <surplus>ι</surplus> τῶι <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν">Ποσειδᾶνι</w></name> <w lemma="ἀργύριον">ἀργυρίου</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="τριακόσιοι">τριακοσίας</w> <w lemma="ὑπέρ">ὑ
+	    						
+	    <lb xml:id="line_3" n="3" break="no"/>πέρ</w> τε <w lemma="ἑαυτοῦ"><unclear>α</unclear>ὐσαυτᾶς</w> καὶ τοῦ <w lemma="ἀνήρ">ἀνδρὸς</w> Σωφάνεος καὶ τοῦ <w lemma="υἱός">υἱ
+	    								
+	   <lb xml:id="line_4" n="4" break="no"/>οῦ</w> Σωσιφάνεος <supplied reason="lost">κ</supplied>αὶ τᾶν <w lemma="θυγάτηρ">θυγατέρων</w> Νικαγόρας καὶ Ἀρισ
+	    				
+	    <lb xml:id="line_5" n="5" break="no"/>το<supplied reason="lost">κ</supplied>λείας· <w lemma="ὥστε">ὥστε</w> <name type="sacrifice"><w lemma="θύω">θύειν</w></name> τῶι <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν">Πο<unclear>σ</unclear>ειδᾶνι</w></name> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="διάφορος">διαφόρου</w><surplus>ς</surplus>
+	    				
+	   <lb xml:id="line_6" n="6"/> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλειον</w></name> καὶ τῶι <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> τῶι <name type="epithet" key="Soter"><w lemma="σωτήρ">Σωτῆρι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλειον</w></name>,
+	    				
+	   <lb xml:id="line_7" n="7"/> <name type="structure"><w lemma="βωμός">βω<supplied reason="lost">μ</supplied>ὸν</w></name> <w lemma="ἵζω">ἑσσαμένους</w> <w lemma="παρά">παρὰ</w> τὰν <name type="object"><w lemma="εἰκών">εἰκόνα</w></name> τοῦ <w lemma="ἀνήρ">ἀνδρὸς</w> <w lemma="αὐτός">αὐ
+	    					
+	    <lb xml:id="line_8" n="8" break="no"/>τᾶς</w> Σωφάνεος, καὶ τὸ <w lemma="λοιπός">λοιπὸν</w> τοῦ <w lemma="διάφορος">διαφόρου</w> <w lemma="καταχράομαι">καταχρῆσ
+	    						
+	    	<lb xml:id="line_9" n="9" break="no"/>θαι</w>· <name type="sacrifice"><w lemma="θύω">θύειν</w></name> δὲ <w lemma="διά">διὰ</w> <w lemma="τρεῖς">τριῶν</w> <w lemma="ἔτος">ἐτέων</w> <w lemma="ἐν">ἐν</w> τῶι <name type="month"><w lemma="Ἀρτεμίσιος">Ἀρτεμιτίωι</w></name>
+	    				
+<lb xml:id="line_10" n="10"/> <w lemma="μείς">μη̣νὶ</w> <w lemma="ἕβδομος">ἑβδόμαι</w> <w lemma="ἵστημι">ἱσταμένου</w>· τοῦς δὲ <name type="personnel"><w lemma="ἐπιμελητής">ἐπιμελητὰς</w></name> τ<supplied reason="lost">οὺ</supplied>
+	    				
+	    <lb xml:id="line_11" n="11" break="no"/>ς <w lemma="αἱρέω">αἱρεθέντας</w> τά τε <w lemma="λοιπός">λοιπὰ</w> <w lemma="ἐπιμελέομαι">ἐπιμελεῖσθαι</w> <w lemma="ὡς">ὡς</w> <w lemma="ὅτι">ὅτι</w> <w lemma="χαρίεις">χα
+	    					
+	    	<lb xml:id="line_12" n="12" break="no"/>ριέστατα</w> καὶ <w lemma="ὅτε">ὅκα</w> <w lemma="κα">κα</w> ἁ <name type="sacrifice"><w lemma="θυσία">θυσία</w></name> <w lemma="εἰμί">ἦι</w>, τάς τε <name type="object"><w lemma="εἰκών">εἰκόνας</w></name> <name type="purification"><w lemma="καθαρός">καθαρὰς</w></name>
+	    				
+	    <lb xml:id="line_13" n="13"/> <w lemma="ποιέω">ποιεῖν</w> τὰς <w lemma="ἐπί"><unclear>ἐ</unclear>πὶ</w> τᾶς <w lemma="ἐξέδρα">ἐξέδρας</w> καὶ τὰν <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ναός">ναῶι</w></name> τὰν Ἀ
+	    				
+	    <lb xml:id="line_14" n="14" break="no"/>γα<unclear>σ</unclear>ιγράτιος καὶ <name type="adornment"><w lemma="στεφανόω">στεφανοῦν</w></name> <w lemma="ὡς">ὡς</w> <w lemma="ὅτι">ὅτι</w> <w lemma="χαρίεις">χαριέστατα</w>, καὶ <w lemma="ἐπεί">ἐπεὶ</w>
+	    				
+	    				<lb xml:id="line_15" n="15"/> <w lemma="κα">κ̣α</w> τὸν <w lemma="λόγος">λόγον</w> <w lemma="ἀποδίδωμι">ἀποδῶντι</w> τοῦ <w lemma="ἀνάλωμα">ἀναλώματος</w>, <w lemma="προσόμνυμι">ποτομόσαι</w> <w lemma="ἦ">εἶ</w>
+	    				
+	    <lb xml:id="line_16" n="16"/> <w lemma="μήν">μὰν</w> <w lemma="ὀρθός">ὀρθῶς</w> καὶ <w lemma="δίκαιος">δικαίως</w> <w lemma="ἐπιμελέομαι">ἐπιμεμελῆσθαι</w>.
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Gods. To good fortune. Agasikratis daughter of Teisias has made a consecration of 300 drachmae to Poseidon on these conditions, on behalf of herself and her husband Sophanes and their son Sosiphanes, and their daughters Nikagora and Aristokleia. (5) So as to sacrifice to Poseidon from the interest (accrued) an adult animal and to Zeus Soter  an adult animal, having set up an altar near the image of her husband Sophanes, and to use up the rest of the interest. To sacrifice every other year (10) on the seventh of the month Artemisios. The <foreign>epimeletai</foreign> must take care of the other things as elegantly as possible, and whenever the sacrifice takes place, clean the images, those on the exedra and the one of Agasikratis in the temple, and wreathe them as elegantly as possible. And when they give (15) account of the expenses, to swear that they have truly managed things correctly and as is just.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+						Dieux. À la bonne fortune. Conditions auxquelles Agasikratis, fille de Teisias, a fait à Poséidon une consécration de 300 drachmes d’argent en son propre nom et au nom de son mari Sophanès et de leur fils Sosiphanès, et de leurs filles Nikagora et Aristokleia : (5) on prendra sur le revenu de quoi offrir en sacrifice à Poséidon un animal adulte et à Zeus Soter un animal adulte, après avoir dressé un autel près du portrait de son mari Sophanès et on dépensera le reste de l’argent jusqu’à épuisement; qu’on fasse en outre un sacrifice tous les deux ans (10) le 7 du mois d'Artemisios ; les épimélètes qui ont été choisis s’occuperont du reste le mieux possible et procèderont en particulier, à chaque célébration du sacrifice, au nettoyage des images qui se trouvent sur l’exèdre et de celle d’Agasikratis dans le temple, et les couronneront de la façon la plus élégante qui soit; et quand ils procèderont (15) à la reddition de comptes pour la dépense, ils jureront en outre par serment d'avoir pris soin de leur tâche dans un esprit de droiture et de justice. </p>
+					<p>(traduction d'après Y. Lafond)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>   
+						
+<p>The document is the record of a donation of money by Agasikratis and of the inauguration of biennial sacrifices to Poseidon and Zeus Soter (lines 1-6). These sacrifices are to be performed at an altar to be set up near the statue of her probably deceased husband Sophanes (line 7), which may have been part of the group of statues in the ἐξέδρα that probably formed the family's funerary monument (cf. lines 12-13). The statues of Sophanes and of Agasikratis herself (the latter being apparently located inside the temple of Poseidon, a considerable honour: lines 13-14), as well as all of the statues in the ἐξέδρα are to be purified and wreathed before these sacrifices take place (lines 12-14). These rituals were thus a way of honouring Sophanes and his family, in conjunction with the local deities involved and more directly honoured by the sacrifices. A number of <foreign>epimeletai</foreign> (probably two) are appointed to perform the biennial tasks of purifying the statues, wreathing them and performing the sacrifices, and to swear to the correct and just execution of these tasks as well as the management of the funds (cf. lines 14-16).</p>
+	
+<p> The inscription is closely connected to another text from Kalaureia, <ref target="http://cgrn.ulg.ac.be/CGRN_107/">CGRN 107</ref>, recording the dedication by two individuals of a sum of money and a piece of land to Poseidon, and the decision by public vote to make annual sacrifices to Poseidon and Zeus Soter from the interest of this endowment. The dedicators there are a couple: Agasikles and his wife Nikagora, who may well be the same woman as the daughter of the Agasikratis of the present inscription (Nikagora is mentioned in line 4). If this identification is correct, this family would therefore have been linked to this central sanctuary of Poseidon over multiple generations.</p>
+		
+<p> Lines 6-9: Poseidon was the most important god of the island Kalaureia (Str. 8.6.14); there is archaeological evidence for a cult of Poseidon already in Mycenaean times. Bielman supposes an annual percentage of 10% interest from the capital of 300 drachmae, which would yield approximately enough income to sacrifice two adult sheep biennially and pay for small additional expenses, since a sheep in this period would cost around 30 dr. It is also possible that smaller (and thus less expensive) animals are envisaged, since in the first year, the altar may need to be built (unless it was already constructed, cf. line 7: ἑσσαμένους), and in every other year the <foreign>epimeletai</foreign> are encouraged to "spend the rest of the interest" (lines 8-9; perhaps on the cleaning of the statues and the purchase of garlands, as well as other sacrificial expenses, cf. lines 11-14).</p>
+		
+<p> Lines 9-10: The date of the sacrifice, the 7th of Artemisios, may have been the birthday or the day of death of Sophanes. However, it is not absolutely clear whether or not Sophanes and Agasikratis were still alive when these sacrifices were instituted. If the document is a postmortem foundation, one might compare it to the testament of Epikteta, also concerned with the cult of her deceased husband (as well as of herself and her sons), but a heroic cult taking place in a familial Mouseion: <ref target="http://cgrn.ulg.ac.be/CGRN_152/">CGRN 152</ref> (Thera).</p>
+						
+<p> Lines 12-14: The statues were probably those of ancestors, and the ἐξέδρα may have been a collective funerary monument of this family (so Guarducci, p. 250; Bielman, p. 27). It is not certain where this ἐξέδρα was located. Since the statue of Agasikratis was "in the temple", perhaps the monument was located inside the precinct of Poseidon as well. But note that the later document from Kalaureia (<ref target="http://cgrn.ulg.ac.be/CGRN_107/">CGRN 107</ref>), concerning perhaps the daughter of Agasikratis and Sophanes, mentions statues that were located at the <foreign>bouleuterion</foreign>. Concerning the placement of the statue of Agasikratis, one may remark that statues of priestesses were often erected at the entrance of temples (Paus. 2.17.3, 2.35.8, and 7.25.7); perhaps the statue of Agasikratis was also located there (so Bielman). Cf. also Bielman for references to inscriptions that make mention of familial statuary groups. For the cleaning and wreathing of statues in a familial cult, cf. esp. here <ref target="http://cgrn.ulg.ac.be/CGRN_96/">CGRN 96</ref>, lines 20-22 (foundation of Diomedon on Kos).</p>
+	
+					</div>
+			</body>
+    	</text>
+	</TEI>

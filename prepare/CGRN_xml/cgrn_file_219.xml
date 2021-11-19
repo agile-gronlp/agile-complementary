@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_219" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 219</idno>: Funerary inscription with a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> from Arsada in Lycia</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Loose <rs type="objectType">block</rs> of stone, broken on all sides. The text is however complete at the bottom.</p>
+			<p><dimensions>
+					<height unit="cm">33</height>
+					<width unit="cm">35</width>
+					<depth unit="cm">unknown</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Elegant cutting of the text, with modest apices. </p>
+				<p>Letters: <height unit="mm">17-18</height>, round letters smaller.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0125" notAfter="-0050">ca. 100 BC (or somewhat later?)</origDate></p>
+			<p><desc>Justification: late Hellenistic lettering and the form μηθέν in line 7 (Bean; the latter is late Classical-Hellenistic, see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. μηθείς). Bean's early dating may be somewhat optimistic, however, especially given the form Ἀρτεμεισίῳ in lines 2-3: ει for ι and implied <foreign>iota subscriptum</foreign> are both features of Roman-era inscriptions (Carbon).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Arsada" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/638764" type="external">Arsada</ref></placeName> in Lycia, once located in the house of Süleyman Karaman. See Bean for a brief survey of the site and his finds there (p. 40-41).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Bean 1948">Bean 1948</bibl>: 43-44 no. 3, with ph. of a squeeze fig. 8.</p>
+					<p>Cf. also: <bibl type="author_date" n="Strubbe 1997">Strubbe 1997</bibl>: esp. 547 no. Ars 3.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Robert 1937">Robert 1937</bibl>: 391 with n. 5.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>	    							
+	    					
+<lb xml:id="line_1" n="1"/><supplied reason="lost">ὁ</supplied> <name type="person"><w lemma="κτήτωρ">κτήτωρ</w></name> <name type="sacrifice"><w lemma="θύω">θύσει</w></name> <w lemma="κατά">κ<supplied reason="lost">ατ’</supplied></w> <w lemma="ἐνιαυτός"><supplied reason="lost">ἐ</supplied>
+	    						    					
+<lb xml:id="line_2" n="2" break="no"/><unclear>ν</unclear><supplied reason="omitted">ι</supplied>αυτὸν</w>  <w lemma="ἐν">ἐν</w> <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Ἀρτεμίσιος">Ἀ<supplied reason="lost">ρτε</supplied>
+	    					
+<lb xml:id="line_3" n="3" break="no"/>μεισίῳ</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <w lemma="ἐπί">ἐπ<supplied reason="lost">ὶ</supplied></w> <supplied reason="lost">τοῦ</supplied>
+	    					
+<lb xml:id="line_4" n="4"/><name type="structure"><w lemma="βωμός">βωμοῦ</w></name>· <w lemma="ἐάν">ἐὰν</w> δὲ <w lemma="μή">μὴ</w> <name type="sacrifice"><w lemma="θύω">θύ<unclear>σ</unclear><supplied reason="lost">ῃ</supplied></w></name><supplied reason="lost">,</supplied> <name type="punishment"><w lemma="ἁμαρτωλός"><supplied reason="lost">ἁ</supplied>
+	    					
+<lb xml:id="line_5" n="5" break="no"/>μαρτωλὸς</w></name> <w lemma="εἰμί">ἔστω</w> <name type="deity" key="generic"><w lemma="θεός">θε<supplied reason="lost">ῶν</supplied></w></name>
+	    					
+<lb xml:id="line_6" n="6"/><w lemma="πᾶς">πάντων</w> καὶ <name type="deity" key="generic"><w lemma="ἥρως">ἡρώων</w></name>, κα<unclear>ὶ</unclear>
+	    					
+<lb xml:id="line_7" n="7"/><w lemma="μή">μὴ</w> <gap reason="lost" quantity="6" unit="character"/> <w lemma="μηθείς"><unclear>μ</unclear>ηθὲν</w> <w lemma="αὐτός">αὐ<supplied reason="lost">τῷ</supplied></w>.
+
+<lb/><space extent="unknown" unit="line"/>
+	  
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>[The] owner will sacrifice [each] year in the month of Artemeisios a sacrificial animal on the altar. If he does not sacrifice (it), may he be an offender of all the gods and heroes, and may there not (be) [...] anything for him.  
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[Le] propriétaire sacrifiera [chaque] année durant le mois d'Artemeisios un animal sacrificiel sur l'autel. S'il ne le sacrifie pas, qu'il soit coupable envers tous les dieux et héros, et qu'il ne [...] aucun pour lui. 
+					 
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>This document is included in the present Collection as a well-preserved, relatively early example of a particular type of inscription: brief and funerary texts prescribing periodic offerings. Rather than being set up at a sanctuary, where they informed worshippers about sacrifices for specific deities, these inscriptions were typically set up at a private site—usually a tomb or a familial cult-site—and they instructed, or recorded prescriptions for, the owner of the site or the descendants and inheritors. The recipient of the sacrifice is in the present case perhaps left implicit, but was typically defined as the deceased in the inscription itself; alternatively, the name of the honorand may now be missing in lines above the first extant line. One may compare and contrast some other examples of private instructions for sacrificial performance in the present Collection, which usually related to divine cult: e.g. <ref target="CGRN_60">CGRN 60</ref> (Thera) and <ref target="CGRN_215">CGRN 215</ref> (Attica). </p> 
+		
+<p> Robert already collected six similar inscriptions from western Lycia; as Bean notes, one of the closest parallels to the present text is <bibl type="abbr" n="TAM II"/> 636 (from first-century-AD Tlos), lines 8-14: θύσει δὲ̣ | [ὁ κ]τήτωρ τῆς οἰ̣κίας | [κα]τ’ ἐνιαυτὸν ἐν τῇ ιβ | [το]ῦ Ξανδικοῦ ἔριφον | [δ]ι<supplied reason="omitted">ε</supplied>τῖ· ἐὰν δὲ μὴ θύσει, | [ἁ]μαρτωλὸς ἔστω | θεοῖς καὶ ἥρωσι. As can be seen from this other example, the sacrificial offering prescribed, as well as the date of the offering, may occasionally be more specific. In this case from Arsada, they are left rather generic: an offering—presumably any type of sheep—is to be sacrificed "on the altar" (i.e. at the tomb or a structure in front of it) during the month of Artemisios (using the Macedonian calendar, used in Lycia from the Hellenistic period onwards). Since the dates and months vary considerably in these inscriptions, it is reasonably presumed that they had a particular significance for the deceased, either denoting their time of birth (more likely), or of death. The phenomenon of recording such periodic sacrifices for the deceased seems to have been particularly prevalent in Roman-era Asia Minor, and especially in Lycia.</p>
+
+<p>Lines 4-7: Though fines are sometimes prescribed for the failure to perform the due sacrifice (cf. <bibl type="abbr" n="TAM II">TAM II</bibl> 458, Patara; in this case, payable to the city), Bean rightly notes that curses are more common as a form of threatened punishment in this type of inscription; they were comparatively easier to invoke and did not require an appeal to a political authority to enforce. The infraction will here be treated as an offense to all the gods and heroes, again a notion commonly expressed in inscriptions from Anatolia: for similar curses against infractors, cp. here <ref target="CGRN_71">CGRN 71</ref> (Metropolis), lines 11-13, <ref target="CGRN_93">CGRN 93</ref> (Xanthos), lines 32-34 (employing also the term ἁμαρτωλὸς ἔστω), and <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 51-52 (an implicit curse). Though the final phrase is fragmentary, Bean rightly surmises that the sense is that the transgressor will no longer have anything beneficial
+or advantageous come to him ([ἄγαθον] or [ὄφελος] may be suggested as a restoration). Prayers for "good things" to happen to pious worshippers, and curses of the opposite intent occur with regularity in the ritual norms, cp. here e.g. <ref target="CGRN_205">CGRN 205</ref> (Antiocheia-ad-Pyramum), lines 29-30. For the wider phenomenon of funerary imprecations, and especially those invoked against desecrators of graves, see Strubbe.</p>
+						
+					</div>
+			</body>
+    	</text>
+	</TEI>

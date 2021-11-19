@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_75" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 75</idno>: <rs type="textType" key="dossier of regulations">Dossier of regulations</rs> from the Amphiareion at Oropos</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>White marble <rs type="objectType">stele</rs>, broken into three pieces.</p>
+                            <p><dimensions>   
+                            <height unit="cm">49</height>
+                                <width unit="cm">43-46</width>
+                                <depth unit="cm">9.5</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>The dialect is West-Ionic (Euboean), and the text is written in stoichedon 35. Extra spaces are used as punctuation, especially to demarcate the conclusion of clauses at the end of lines. Three vectically aligned dots (a tricolon) also serve this same purpose within inscribed lines.</p>
+                            <p>Letters: <height unit="cm">0.8</height>.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0386" notAfter="-0374">ca. 386-374 BC</origDate></p>
+                        <p><desc>Justification: lettering, dialect, context (Rhodes - Osborne, p. 131). The self-references of the Oropians as <foreign>demotai</foreign> (lines 9-10, 15, etc), to sacrificial animals as "public" ones, and the reference to Oropos as a πόλις (line 41), all indicate that the decree was drawn up in this short period of independence.</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Oropos" n="Central_and_Northern_Greece"><ref target="http://pleiades.stoa.org/places/540628" type="external">Amphiareion</ref> at Oropos</placeName>. Now in the Museum at Oropos (inv. no. A 236).</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-07-2014 by S Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by JM Carbon on 28.01.2019.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>       
+                
+                <p> Edition here based on Dittenberger, <bibl type="abbr" n="IG VII">IG VII</bibl> 235, with the addition of the erasures noted in <bibl type="author_date" n="Petropoulou 1981">Petropoulou 1981</bibl>: 42-57.
+                </p>
+                <p>Other editions:                   
+                    Petrakos, <bibl type="abbr" n="I.Oropos">I.Oropos</bibl> 277, with ph. pl. 60;
+                    <bibl type="author_date" n="Petropoulou 1981">Petropoulou 1981</bibl>: 42-57, with ph. pls. 2-4.
+                </p>
+                <p> Cf. also:
+                    Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 65; 
+                    Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 69; 
+                    Brodersen <bibl type="abbr" n="HGIU">HGIU</bibl> 292;
+                    Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 40;
+                    Rhodes - Osborne <bibl type="abbr" n="GHI">GHI</bibl> 27;
+                    <bibl type="abbr" n="SEG">SEG</bibl> 50, 4.
+                </p>
+                
+                <p> Further bibliography: <bibl type="author_date" n="Van Straten 1995">Van Straten 1995</bibl>; <bibl type="author_date" n="Sineux 2007">Sineux 2007</bibl>; <bibl type="author_date" n="von Ehrenheim 2015">von Ehrenheim 2015</bibl>: 207-210.
+                </p>
+               
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                   
+                    
+<lb xml:id="line_1" n="1"/> <name type="deity" key="generic"><w lemma="θεός">θεοί</w></name>.
+
+                    <lb xml:id="line_2" n="2"/> τὸν <name type="personnel"><w lemma="ἱερεύς">ἱερέα</w></name> τοῦ <name type="deity" key="Amphiaraos"><w lemma="Ἀμφιάραος">Ἀμφιαράου</w></name> <w lemma="φοιτάω">φοιτᾶν</w> <w lemma="εἰς">εἰς</w> τὸ <name type="structure"><w lemma="ἱερόν">ἱερό
+                    
+<lb xml:id="line_3" n="3" break="no"/>ν</w></name>, <w lemma="ἐπειδάν">ἐπειδὰν</w> <w lemma="χειμών">χειμὼν</w> <w lemma="πάρειμι">παρέλθει</w> <w lemma="μέχρι">μέχρι</w> <w lemma="ἄροτος">ἀρότου</w> <w lemma="ὥρα">ὥρ
+                            
+<lb xml:id="line_4" n="4" break="no"/>ης</w>, <w lemma="μή">μὴ</w> <w lemma="πλείων">πλέον</w> <w lemma="διαλείπω">διαλείποντα</w> <w lemma="ἤ">ἢ</w> <w lemma="τρεῖς">τρεῖς</w> <w lemma="ἡμέρα">ἡμέρας</w> καὶ
+                    
+<lb xml:id="line_5" n="5"/> <w lemma="μένω">μένειν</w> <w lemma="ἐν">ἐν</w> τοῖ <name type="structure"><w lemma="ἱερόν">ἱεροῖ</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἔλαττον</w> <w lemma="ἤ">ἢ</w> <w lemma="δέκα">δέκα</w> <w lemma="ἡμέρα">ἡμέρα
+                    
+    <lb xml:id="line_6" n="6" break="no"/>ς</w> τοῦ <name type="month"><w lemma="μείς">μηνὸς</w></name> <w lemma="ἕκαστος">ἑκ<supplied reason="omitted">ά</supplied><del rend="erasure">σ</del>στου</w> <pc>⁝</pc> καὶ <w lemma="ἐπαναγκάζω">ἐπαναγκάζειν</w> τὸν <name type="personnel"><w lemma="νεωκόρος">ν
+                            
+<lb xml:id="line_7" n="7" break="no"/>εωκόρον</w></name> τοῦ τε <name type="structure"><w lemma="ἱερόν">ἱεροῦ</w></name> <w lemma="ἐπιμελέομαι">ἐπιμελεῖσθαι</w> <w lemma="κατά">κατὰ</w> τὸ
+                    
+ <lb xml:id="line_8" n="8" break="no"/>ν <name type="authority"><w lemma="νόμος">νόμον</w></name> καὶ τῶν <w lemma="ἀφικνέομαι">ἀφικνεμένων</w> <w lemma="εἰς">εἰς</w> τὸ <name type="structure"><w lemma="ἱερόν">ἱερόν</w></name>· <space quantity="2" unit="character"/>
+                    
+<lb xml:id="line_9" n="9"/> <w lemma="ἄν">ἂν</w> δέ <w lemma="τις">τις</w> <w lemma="ἀδικέω">ἀδικεῖ</w> <w lemma="ἐν">ἐν</w> τοῖ <name type="structure"><w lemma="ἱερόν">ἱεροῖ</w></name> <w lemma="ἤ">ἢ</w> <name type="person"><w lemma="ξένος">ξένος</w></name> <w lemma="ἤ">ἢ</w> <name type="person"><w lemma="δημότης">δημότ
+                    
+<lb xml:id="line_10" n="10" break="no"/>ης</w></name>, <name type="punishment"><w lemma="ζημιόω">ζημιούτω</w></name> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> <w lemma="μέχρι">μέχρι</w> <w lemma="πέντε">πέντε</w> <w lemma="δραχμή">δραχμέων</w>
+                    
+<lb xml:id="line_11" n="11"/> <name type="authority"><w lemma="κύριος">κυρίως</w></name> καὶ <w lemma="ἐνέχυρον">ἐνέχυρα</w> <w lemma="λαμβάνω">λαμβανέτω</w> τοῦ <w lemma="ζημιόω">ἐζημιωμ
+                        
+<lb xml:id="line_12" n="12" break="no"/>ένου</w>, <w lemma="ἄν">ἂν</w> δ’ <w lemma="ἐκτίνω">ἐκτίνει</w> τὸ <w lemma="ἀργύριον">ἀργύριον</w>, <w lemma="πάρειμι">παρεόντος</w> το̑
+                    
+ <lb xml:id="line_13" n="13"/> <name type="personnel"><w lemma="ἱερεύς">ἱερέος</w></name> <w lemma="ἐμβάλλω">ἐμβαλέτω</w> <w lemma="εἰς">εἰς</w> τὸν <name type="structure"><w lemma="θησαυρός">θησαυρόν</w></name> <pc>⋮</pc> <w lemma="δικάζω">δικάζει
+                    
+<lb xml:id="line_14" n="14" break="no"/>ν</w> δὲ τὸν <name type="personnel"><w lemma="ἱερεύς">ἱερέα</w></name>, <w lemma="ἄν">ἄν</w> <w lemma="τις">τις</w> <w lemma="ἴδιος">ἰδίει</w> <w lemma="ἀδικέω">ἀδικηθεῖ</w> <w lemma="ἤ">ἢ</w> τῶν <name type="person"><w lemma="ξένος">ξέ                      
+                    
+<lb xml:id="line_15" n="15" break="no"/>νων</w></name> <w lemma="ἤ">ἢ</w> τῶν <name type="person"><w lemma="δημότης">δημοτέων</w></name> <w lemma="ἐν">ἐν</w> τοῖ <name type="structure"><w lemma="ἱερόν">ἱεροῖ</w></name> <w lemma="μέχρι">μέχρι</w> <w lemma="τρεῖς">τριῶν</w>
+                    
+<lb xml:id="line_16" n="16"/> <w lemma="δραχμή">δραχμέων</w>, τὰ δὲ <w lemma="μέγας">μέζονα</w>, <w lemma="ἧχι">ἡχοῖ</w> <w lemma="ἕκαστος">ἑκάστοις</w> αἱ <w lemma="δίκη">δίκ
+                    
+<lb xml:id="line_17" n="17" break="no"/>αι</w> <w lemma="ἐν">ἐν</w> τοῖς <name type="authority"><w lemma="νόμος">νόμοις</w></name> <w lemma="λέγω">εἰρῆται</w> <w lemma="ἐνταῦθα">ἐ<add place="above">ν</add>το̑θα</w> <w lemma="γίγνομαι">γινέσθων</w>· <space quantity="1" unit="character"/>
+                    
+<lb xml:id="line_18" n="18"/> <w lemma="προσκαλέω">προσκαλεῖσθαι</w> δὲ καὶ <w lemma="αὐθήμερος">αὐθημερὸν</w> <w lemma="περί">περὶ</w> τῶν <w lemma="ἐν">ἐ
+                    
+<lb xml:id="line_19" n="19" break="no"/>ν</w> τοῖ <name type="structure"><w lemma="ἱερόν">ἱεροῖ</w></name> <w lemma="ἀδικία">ἀδικιῶν</w>, <w lemma="ἄν">ἂν</w> δὲ ὁ <w lemma="ἀντίδικος">ἀντίδικος</w> <w lemma="μή">μὴ</w> <w lemma="συγχωρέω">συνχ
+                    
+<lb xml:id="line_20" n="20" break="no"/>ωρεῖ</w> <w lemma="εἰς">εἰς</w> τὴν <w lemma="ὕστερος">ὑστέρην</w> ἡ <w lemma="δίκη">δίκη</w> <w lemma="τελέω">τελείσθω</w> <pc>⋮</pc> <w lemma="ἀπαρχή">ἐπαρ                   
+                    
+<lb xml:id="line_21" n="21" break="no"/>χὴν</w> δὲ <w lemma="δίδωμι">διδοῦν</w> τὸμ <w lemma="μέλλω">μέλλοντα</w> <w lemma="θεραπεύω">θεραπεύεσθαι</w> <w lemma="ὑπό">ὑ  
+                    
+<lb xml:id="line_22" n="22" break="no"/>πὸ</w> τοῦ <name type="deity" key="Amphiaraos"><w lemma="θεός">θεοῦ</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἔλ<choice><corr>α</corr><sic>λ</sic></choice>ττον</w> <w lemma="ἐννέα"><del rend="erasure">ἐννέ’</del></w> <w lemma="ὀβολός"><del rend="erasure">ὀβολοὺς</del></w> <w lemma="δόκιμος"><del rend="erasure">δοκί</del>μου</w> <w lemma="ἀργύριον">ἀργ
+                    
+<lb xml:id="line_23" n="23" break="no"/>υρίου</w> καὶ <w lemma="ἐμβάλλω">ἐμβάλλειν</w> <w lemma="εἰς">εἰς</w> τὸν <name type="object"><w lemma="θησαυρός">θησαυρὸν</w></name> <w lemma="πάρειμι">παρε
+                        
+<lb xml:id="line_24" n="24" break="no"/>όντος</w> τοῦ <name type="personnel"><w lemma="νεωκόρος">νεωκόρου</w></name> <del rend="erasure"><gap reason="lost" quantity="19" unit="character"/></del>
+
+<lb xml:id="line_25" n="25"/> <del rend="erasure"><gap reason="lost" quantity="9" unit="character"/></del> <name type="invocation"><w lemma="κατεύχομαι">κατεύχεσθαι</w></name> δὲ τῶν <name type="sacrifice"><name type="portion"><w lemma="ἱερός">ἱερῶν</w></name></name> καὶ <w lemma="ἐπί">ἐπ
+                            
+<lb xml:id="line_26" n="26" break="no"/>ὶ</w> τὸν <name type="structure"><w lemma="βωμός">βωμὸν</w></name> <w lemma="ἐπιτίθημι">ἐπιτιθεῖν</w>, <w lemma="ὅταν">ὅταν</w> <w lemma="πάρειμι">παρεῖ</w>, τὸν <name type="personnel"><w lemma="ἱερεύς">ἱερέα</w></name>,
+                    
+<lb xml:id="line_27" n="27"/> <w lemma="ὅταν">ὅταν</w> δὲ <w lemma="μή">μὴ</w> <w lemma="πάρειμι">παρεῖ</w>, τὸν <name type="person"><w lemma="θύω">θύοντα</w></name> καὶ τεῖ <name type="sacrifice"><w lemma="θυσία">θυσίει</w></name> <w lemma="αὐτός">α
+                        
+<lb xml:id="line_28" n="28" break="no"/>ὐτὸν</w> <w lemma="ἑαυτοῦ">ἑαυτοῖ</w> <name type="invocation"><w lemma="κατεύχομαι">κατεύχεσθαι</w></name> <w lemma="ἕκαστος">ἕκαστον</w>, τῶν δὲ <name type="sacrifice"><name type="group"><w lemma="δημόσιος">δη
+                            
+<lb xml:id="line_29" n="29" break="no"/>μορίων</w></name></name> τὸν <name type="personnel"><w lemma="ἱερεύς">ἱερέα</w></name>· <space quantity="1" unit="character"/> τῶν δὲ <name type="sacrifice"><w lemma="θύω">θυομένων</w></name> <w lemma="ἐν">ἐν</w> τοῖ <name type="structure"><w lemma="ἱερόν">ἱε
+                    
+<lb xml:id="line_30" n="30" break="no"/>ροῖ</w></name> <w lemma="πᾶς">πάντων</w> τὸ <name type="portion"><w lemma="δέρμα">δέρμα</w></name> <name type="genericOffering"><w lemma="ἱερόν"><del rend="erasure"><unclear>ἱερ</unclear><supplied reason="lost">ὸν</supplied></del></w></name> <w lemma="εἰμί"><del rend="erasure"><supplied reason="lost">εἶναι</supplied></del></w>, <name type="sacrifice"><w lemma="θύω">θύειν</w></name> δὲ <w lemma="ἔξειμι">ἐξ
+                    
+<lb xml:id="line_31" n="31" break="no"/>εῖν</w> <w lemma="ἅπας">ἅπαν</w> <w lemma="ὅς">ὅ</w> <w lemma="τις">τι</w> <w lemma="ἄν">ἂν</w> <w lemma="βούλομαι">βόληται</w> <w lemma="ἕκαστος">ἕκαστος</w>, τῶν δὲ <name type="portion"><w lemma="κρέας">κρεῶ
+                    
+<lb xml:id="line_32" n="32" break="no"/>ν</w></name> <w lemma="μή">μὴ</w> <w lemma="εἰμί">εἶναι</w> <name type="meal"><w lemma="ἐκφορά">ἐκφορὴν</w></name> <w lemma="ἔξω">ἔξω</w> τοῦ <name type="structure"><w lemma="τέμενος">τεμένεος</w></name>· <space quantity="1" unit="character"/> τοῖ δὲ
+                        
+<lb xml:id="line_33" n="33"/> <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> <w lemma="δίδωμι">διδοῦν</w> τὸς <name type="person"><name type="sacrifice"><w lemma="θύω">θύοντας</w></name></name> <w lemma="ἀπό">ἀπὸ</w> τοῦ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερήου</w></name> <w lemma="ἕκαστος">ἑκ
+                    
+<lb xml:id="line_34" n="34" break="no"/>άστο</w> τὸν <name type="portion"><w lemma="ὦμος">ὦμον</w></name> <w lemma="πλήν">πλὴν</w> <w lemma="ὅταν">ὅταν</w> ἡ <name type="festival"><w lemma="ἑορτή">ἑορτὴ</w></name> <w lemma="εἰμί">εἶ</w>, <w lemma="τότε">τότε</w> δὲ <w lemma="ἀπό">ἀπ
+                    
+<lb xml:id="line_35" n="35" break="no"/>ὸ</w> τῶν <name type="sacrifice"><name type="group"><w lemma="δημόσιος">δημορίων</w></name></name> <w lemma="λαμβάνω">λαμβανέτω</w> <name type="portion"><w lemma="ὦμος">ὦμον</w></name> <w lemma="ἀπό">ἀφ’</w> <w lemma="ἕκαστος">ἑκάστου</w> <space quantity="1" unit="character"/>
+                    
+<lb xml:id="line_36" n="36"/> <space quantity="1" unit="character"/> τοῦ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερήου</w></name>· <space quantity="1" unit="character"/> <w lemma="ἐγκαθεύδω">ἐγκαθεύδειν</w> δὲ τὸν <w lemma="δέω">δειόμενο
+                    
+<lb xml:id="line_37" n="37" break="no"/><del rend="erasure">ν</del></w> <w lemma="μέχρι"><del rend="erasure">μ<supplied reason="lost">έ</supplied><unclear>χρι</unclear></del></w> <del rend="erasure"><gap reason="lost" quantity="23" unit="character"/></del><orig><unclear>ς</unclear></orig> <w lemma="ἐπί"><del rend="erasure"><unclear>ἐ</unclear>π<unclear>ὶ</unclear></del></w> <del rend="erasure"><unclear>τ</unclear>ο</del>
+                    
+<lb xml:id="line_38" n="38" break="no"/>ῦ <w lemma="αὐτός">αὐ<supplied reason="lost">το</supplied>ῦ</w> <del rend="erasure"><gap reason="lost" quantity="23" unit="character"/></del> <w lemma="πείθω">πειθόμ
+                    
+<lb xml:id="line_39" n="39" break="no"/>ενον</w> τοῖς <name type="authority"><w lemma="νόμος">νόμοις</w></name>· <space quantity="1" unit="character"/> τὸ <w lemma="ὄνομα">ὄνομα</w> τοῦ <w lemma="ἐγκαθεύδω">ἐγκαθεύδον
+                         
+<lb xml:id="line_40" n="40" break="no"/>τος</w>, <w lemma="ὅταν">ὅταν</w> <w lemma="ἐμβάλλω">ἐμβάλλει</w> τὸ <w lemma="ἀργύριον">ἀργύριον</w>, <w lemma="γράφω">γράφεσθαι</w> τ
+                   
+<lb xml:id="line_41" n="41" break="no"/>ὸν <name type="personnel"><w lemma="νεωκόρος">νεωκόρον</w></name> καὶ <w lemma="αὐτός">αὐτοῦ</w> καὶ τῆς <name type="group"><w lemma="πόλις">πόλεος</w></name> καὶ <w lemma="ἐκτίθημι">ἐκ
+                    
+ <lb xml:id="line_42" n="42" break="no"/>τιθεῖν</w> <w lemma="ἐν">ἐν</w> τοῖ <name type="structure"><w lemma="ἱερόν">ἱεροῖ</w></name> <w lemma="γράφω">γράφοντα</w> <w lemma="ἐν">ἐν</w> <name type="object"><w lemma="πέτευρον">πετεύροι</w></name> <w lemma="σκοπέω">σ
+                            
+<lb xml:id="line_43" n="43" break="no"/>κοπεῖν</w> <supplied reason="omitted">τ</supplied>οῖ <w lemma="βούλομαι">βολομένοι</w>· <w lemma="ἐν">ἐν</w> δὲ τοῖ <name type="structure"><w lemma="κοιμητήριον">κοιμητηρίο
+                                
+<lb xml:id="line_44" n="44" break="no"/>ι</w></name> <w lemma="καθεύδω">καθεύδειν</w> <w lemma="χωρίς">χωρὶς</w> μὲν τὸς <name type="person"><w lemma="ἀνήρ">ἄνδρας</w></name>, <w lemma="χωρίς">χωρὶς</w> <space quantity="3" unit="character"/>
+                    
+<lb xml:id="line_45" n="45"/> δὲ τὰς <name type="person"><w lemma="γυνή">γυναῖκας</w></name>, τοὺς μὲν <name type="person"><w lemma="ἀνήρ">ἄνδρας</w></name> <w lemma="ἐν">ἐν</w> τοῖ <w lemma="πρό">πρὸ</w> <w lemma="ἠώς">ἠ
+                      
+<lb xml:id="line_46" n="46" break="no"/> <supplied reason="lost">ο̑</supplied>ς</w> τοῦ <name type="structure"><w lemma="βωμός">βωμοῦ</w></name>, τὰς δὲ <name type="person"><w lemma="γυνή">γυναῖκας</w></name> <w lemma="ἐν">ἐν</w> τοῖ <w lemma="πρό">πρὸ</w> <w lemma="ἑσπέρα">hεσπέ
+                    
+    <lb xml:id="line_47" n="47" break="no"/>ρης</w> <orig><unclear>ο</unclear></orig><gap reason="lost" quantity="12" unit="character"/> <supplied reason="lost">τὸ</supplied> <name type="structure"><w lemma="κοιμητήριον"><supplied reason="lost">κοι</supplied>μητήριον</w></name> τοὺς <w lemma="ἐγκαθεύδω">ἐν
+                    
+<lb xml:id="line_48" n="48" break="no"/>κα<supplied reason="lost">θεύδοντας</supplied></w> <gap reason="lost" quantity="15" unit="character"/> <supplied reason="lost">τὸν</supplied> <supplied reason="lost">δ</supplied>ὲ <name type="deity" key="Amphiaraos"><w lemma="θεός"><unclear>θεὸν</unclear></w></name>
+
+<lb xml:id="line_49" n="49"/>ἐγκ<gap reason="lost" quantity="32" unit="character"/>
+                    
+<lb xml:id="line_50" n="50"/> <orig>ο</orig> ἐξ<gap reason="lost" quantity="29" unit="character"/><orig>θω</orig><gap reason="lost" quantity="1" unit="character"/>
+                                    
+                                  
+                    <lb xml:id="line_51" n="51"/> <orig>ορο</orig><gap reason="lost" quantity="24" unit="character"/> <w lemma="ἐγκοιμάομαι"><supplied reason="lost">ἐγκεκ</supplied><unclear>οι</unclear>μ
+                    
+<lb xml:id="line_52" n="52" break="no"/>ημέ<supplied reason="lost">ν</supplied></w><gap reason="lost" quantity="29" unit="character"/><orig>λε</orig>
+                   
+                    <lb xml:id="line_53" n="53" break="no"/><orig>ροω</orig><gap reason="lost" quantity="28" unit="character"/> <w lemma="ἐν">ἐ<unclear>ν</unclear></w> <supplied reason="lost">τ</supplied>ο
+                              
+                    <lb xml:id="line_54" n="54" break="no"/>ῖ <name type="structure"><name type="deity" key="Amphiaraos"><w lemma="Ἀμφιαράϊον">Ἀμ<unclear>φ</unclear><supplied reason="lost">ιαράοι</supplied></w></name></name> <gap reason="lost" quantity="21" unit="character"/><orig>ι</orig> <name type="punishment"><w lemma="ζημιόω">ζημ
+                    
+ <lb xml:id="line_55" n="55" break="no"/>ιου</w></name><gap reason="lost" quantity="27" unit="character"/> δὲ τὸ
+                              
+<lb xml:id="line_56" n="56" break="no"/>ν <w lemma="βούλομαι">βολ<supplied reason="lost">όμενον</supplied></w> <gap reason="lost" quantity="29" unit="character"/> τὸν <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱε</supplied>ρέ<supplied reason="omitted">α</supplied></w></name> <space quantity="1" unit="character"/>
+
+<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    Gods. The priest of Amphiaraos should frequent the sanctuary from when winter has passed until the season of ploughing, not leaving an interval between visits of more than three days and (5) staying in the sanctuary not less than ten days each month. And he should compel the <foreign>neokoros</foreign> to take care, according to the law, of the sanctuary and of visitors to the sanctuary. If anyone commits an injustice in the sanctuary, whether he's a stranger or a fellow-citizen, (10) the priest should have the authority to punish him with a fine of up to five drachmae, and he must take a pledge from the one being punished, and if he pays the money he should deposit it into the money-box in the presence of the priest. The priest should pass judgment, if one of the foreigners or the fellow-citizens undergoes an injustice privately in the sanctuary, (15) of up to three drachmae, but with respect to larger cases, they should take place where it is written in the laws for each. Summons are to be issued on the same day, with respect to the injustices in the sanctuary, but if the defendant does not assent, the case should be finished on the following day. The one who is going to be treated by the god must pay a fee, of not less than nine obols of acceptable silver and deposit them into the money-box in the presence of the <foreign>neokoros</foreign> [...] (25) The priest should pray over the sacred portions and place them on the altar, whenever he is present, and when he is not present, the one making the sacrifice (must do so) and each must pray himself for himself at the sacrifice, but the priest must pray in the case of public sacrifices. (30) The hide of all the animals sacrificed in the sanctuary is to be [sacred] (deleted). And let it be allowed that each sacrifices whatever he wants, but the meat is not to be carried out of the precinct. Those making sacrifices should give to the priest a shoulder from each sacrificial animal, except when it is the festival; then (i.e. in that case), (35) he should take a shoulder from each publicly sacrificed animal. Whoever needs to incubate [...] at the same [...] obeying the laws. The <foreign>neokoros</foreign> should record the name of the one incubating, (40) when he deposits the money, his name and the name of his city, and set up the engraving in the sanctuary on a public notice-board on display for all who wish to see. In the dormitory, men and women should sleep separately from one another, the men in the part to the east of the altar and the women in the part to the west [...] those incubating in the dormitory [...] the god [...] sleeping in [...] in the Amphiareion [...] punish [...] the one who wants [...] the priest [...]    
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>Dieux. Que le prêtre d'Amphiaraos se rende régulièrement au sanctuaire, entre la fin de l'hiver et la saison des labours, sans laisser plus de trois jours entre deux passages ; (5) qu'il ne demeure dans le sanctuaire pas moins de dix jours chaque mois. Qu'il oblige le néocore à s'occuper du sanctuaire en conformité avec la loi, ainsi que des visiteurs du sanctuaire. Si quelqu'un commet une faute dans le sanctuaire, qu'il soit étranger ou citoyen, (10) que le prêtre ait le pouvoir de lui infliger jusqu'à cinq drachmes d'amende, et qu'il reçoive un gage du contrevenant. Si ce dernier s'acquitte entièrement de la somme, qu'il la dépose dans le tronc à offrandes en présence du prêtre. Si quelqu'un, étranger ou citoyen, subit une injustice, à titre privé, dans le sanctuaire, que le prêtre prononce le jugement et inflige (15) jusqu'à trois drachmes d'amende. Quant aux affaires plus graves, que les procès se tiennent là où les lois le prescrivent selon les cas. Que le prêtre cite à comparaître le jour même pour les injustices commises dans le sanctuaire. Au cas où la partie adverse n'accepte pas le terme proposé, (20) que le jugement soit remis au jour suivant. Que celui qui vient se faire soigner par le dieu verse comme prémices pas moins de neuf oboles d'argent de bon aloi qu'il dépose dans le tronc à offrandes en présence du néocore [...]. (25) Que le prêtre prononce une prière sur les parts sacrées et les dépose sur l'autel quand il est présent et, s'il n'est pas présent, que le sacrifiant (le fasse) au cours du sacrifice et que chacun pour lui-même prononce la prière, mais pour les sacrifices publics, que ce soit le prêtre. (30) Que la peau de tous les animaux sacrifiés dans le sanctuaire soit [consacrée] (effacé). Qu'il soit permis à chacun de sacrifier ce qu'il veut, mais que la viande ne soit pas emportée hors de l'enceinte. Que les sacrifiants donnent au prêtre une épaule de chaque animal sacrifié, sauf lors de la fête : alors, (35) qu'il prenne une épaule sur chacun des animaux sacrifiés à titre officiel. Que celui qui en a besoin procède à l'incubation [...] sur le même [...] fidèle aux lois. Que le néocore consigne le nom de celui qui procède à l'incubation, (40) lorsque celui-ci verse l'argent, son nom ainsi que celui de sa cité, sur une tablette qu'il exposera dans le sanctuaire afin que quiconque le souhaite puisse la consulter. Dans le dortoir, (45) que les hommes et les femmes dorment séparément, chacun de son côté : les hommes à l'est de l'autel, les femmes à l'ouest [...] ceux qui sont couchés dans le dortoir [...] le dieu [...] (50) couchés dans [...] dans l'Amphiareion [...] frappe (55) d'amende [...] celui qui veut [...] le prêtre [...]
+                    </p>
+                                </div> 
+            <div type="commentary">    
+                <head>Commentary</head>  
+                
+                <p>This inscription contains a relatively comprehensive set of regulations concerning cult practice in the Amphiareion at Oropos. Perhaps excerpted from a decree or another document—though no definite indications of this are available—the regulations cover a sizeable variety of topics, most of which are conveniently distinguished and separated through the use of punctuation or empty spaces (see above on the Layout). First and foremost come the duties and prerogatives of the priest of Amphiaraos (lines 2-20): this section appears to be comprised of two or three subsections, one dealing with the parameters of the presence of the priest in the sanctuary (lines 2-6); another, perhaps, with the supervision of the priest over the subsidiary <foreign>neokoros</foreign> who must take care of the sanctuary (6-8); a final, lengthy portion (9-20) concerns the legal capacities of the priest in exacting fines against wrongdoers. The regulations also cover fees for therapy and consultation in the sanctuary (lines 20-25), rules for sacrifices (25-36, also divided into subsections), and detailed norms concerning incubation (36-48, perhaps more in 49-51), before trailing off. The fragmentary continuation of the regulation may have covered other topics or specified something of the context in which these norms were inscribed.</p>  
+                
+                <p>The issuing authority is unclear, since the text begins immediately after a brief invocation in line 1. That being said, a new and revised publication of practical norms by the people of Oropos seems likely (see also below on lines 21-25 and 37-48 for antecedents). The inscription is to be dated to  the period between 386 and ca. 374 BC, during which Oropos was independent from the control of either Athens or Thebes (Rhodes and Osborne; see above on Origin and Provenance). Other aspects of the context of the inscription are perhaps less easy to discern. The numerous rasurae (lines 6, 22, 24-25, 30, and 37-38) in the text, by contrast with other inscriptions from Oropos, for instance the partially analogous regulation <ref target="http://cgrn.ulg.ac.be/CGRN_70/">CGRN 70</ref> (also concerned with sacrificial tariffs, though very fragmentary), demonstrate how the rules adopted by a sanctuary were susceptible to evolution over time (cf. Petropoulou; see also below for further discussion). It is noteworthy that much of the regulation is highly practical and especially concerned with financial matters; some of the notable erasures in the document relate to sums of money (line 23) or to the prerogatives of the sanctuary (line 30). Financial questions were especially sensitive and liable to change at the only briefly autonomous Amphiareion.</p>
+                
+                <p>According to Pausanias (1.34.2), the people of Oropos were the first to worship Amphiaraos (a mythical king of Argos, a seer and a hero, see Sineux) as a god. Cult activity at this site is attested from the last quarter of the fifth century onwards (Petrakos). The rules for nightime incubation and therapy found in this set of regulations, though they do not specify many ritual details, are extensive, and parallel those containing sacrificial tariffs and other prescriptions in analogous sanctuaries, for instance that of Asclepius at Epidauros <ref target="http://cgrn.ulg.ac.be/CGRN_64/">CGRN 64</ref>, or e.g. at <bibl type="abbr" n="IvP III">IvP III</bibl> 161A. On incubation and Oropos, see now von Ehrenheim.</p>
+                
+<p>Lines 2-6: The regulation begins by describing the priest's mandatory minimum presence in the sanctuary, and briefly in lines 6-8 the duties of the <foreign>neokoros</foreign> (temple-warden) to be himself supervised by the priest (the latter appears to be responsible for the sanctuary as a structure and for the visiting worshippers). The priest should be present on a regular basis, at least during ten days each month, except in winter when he is dispensed from this requirement. In this part of the priestly contract, it is perhaps remarkable that no precise months are mentioned: the reason might be that the Oropians no longer wanted to use the Attic or Theban calendar during their period of independance. However, this part of the regulation is also framed very loosely, given the priest a wide latitude concerning his minimal presence in the sanctuary: about half of the time each month during the three warmer seasons of the year. In cases when the priest is absent, worshippers can perform sacrifices themselves, but the priest remains responsible for important public sacrifices (as prescribed in lines 25-29). It is not clear from the document whether the priest is appointed annually or holds the function for life.</p>
+                
+<p>Lines 6-20: The priest and the temple warden deal with small offenses of fellow-citizens and foreigners, passing sanctions and fines, while more serious offences were to be treated in the relevant courts. The fines for small transgresssions (of an unspecified character) committed inside the sanctuary area are to be deposited into the money-box, hence contributing to the sanctuary's wealth. It is unclear whether monetary penalties for larger offences will be donated to the sanctuary as well. Le Guen-Pollet points out that in Athens the time between summons and process was a minimum of four days: thus, the Oropian procedure of resolving cases on the same or the next day was quite fast, perhaps because those on trial would often be visitors, travellers and merchants.</p>
+                    
+                <p>Lines 21-25: A modest fee for a consultation was often the norm in oracular or healing cults. Here, the <foreign>eparche</foreign> of nine obols is written over an erasure. In an earlier fourth-century inscription from Oropos describing consultation fees (Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 35), the worshipper must pay one Boeotian drachma (six obols). Perhaps this was the sum that originally figured on this stone as well, and the fee eventually increased. For tariffs and other fees commonly deposited (ἐμβάλλειν) in a money-box (εἰς τὸν θησαυρόν), cp. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_182/">CGRN 182</ref> (Mytilene), line 5; <bibl type="abbr" n="LSS">LSS</bibl> 35, line 4; <bibl type="abbr" n="LSS">LSS</bibl> 108, lines 8-12. The <foreign>neokoros</foreign>, presumed to be always resident in the sanctuary by contrast with the priest, is to supervise when the fee is being deposited; apparently, one did not trust the worshippers to always obey the rules. The erasure in lines 24 and 25 demarcates this section from the next one below, concerning sacrifice, but its original content has now vanished.</p>
+    
+                <p>Lines 25-29: This portion of the regulation specifies that the priest, if present, is to officiate during sacrifices, and obligatorily during public sacrifices. The ritual gestures performed include praying over the <foreign>hiera</foreign>, the sacred portions, which are to be placed on the altar (cp. <ref target="http://cgrn.ulg.ac.be/CGRN_147/">CGRN 147</ref>, Kos, lines 10-11, where the placement is done by the priest). For comparable cases in which worshippers may sacrifice on their own or select a deputy-priest if the priest is not present, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_36/">CGRN 36</ref> (Chios), lines 7-11, and <ref target="http://cgrn.ulg.ac.be/CGRN_76/">CGRN 76</ref> (Erythrai), lines 27-30.</p>
+                    
+                <p>Lines 29-36: This section describes other sacred portions from the sacrificial animal and the perquisite for the priest. The prescription that the skin is to be "sacred" (ἱερός) may be presumed to mean that the hide would be consecrated in the sanctuary itself and remain its property (lines 29-30). Though it remains partly legible, this original specification has been erased, leaving no other rule to substitute it. It is possible that the regulation evolved to allow skins to be taken away by worshippers offering sacrifices, or to be sold (so Rhodes and Osborne, attractively citing later Athenian practice for selling skins: the Lykurgan dermatikon fund, cf. <bibl type="abbr" n="IG II²">IG II²</bibl> 1496, 331/0 BC, col. IV, and <bibl type="abbr" n="IG II³">IG II³</bibl> 445, ca. 335 BC, lines 19-23--the latter specifying that proceeds were to be spent on the Amphiareion, among other shrines). The precise historical situation, however, is far from clear given the remaining rasura. Further compounding the problem is the tradition concerning the use of skins at the Amphiareion, especially from a sacrificed ram. Pausanias (1.34.5) details how those undergoing
+incubation would first sacrifice to Amphiaraos as a form of preliminary purification, then to the other gods in the sanctuary, and finally a ram, on whose skin they would then sleep in order to obtain a dream from the god. Cf. Lupu for further discussion of votive reliefs from Oropos and the difficulties of linking this passage from the regulation with the tradition attested in Pausanias and elsewhere; cf. also Van Straten. It was the normal state of affairs at the Amphiareion that each person could sacrifice what he wanted (lines 30-31), cf. Petrakos and cp. the commentary on <ref target="http://cgrn.ulg.ac.be/CGRN_70/">CGRN 70</ref> (Oropos). The prohibition against carrying away sacrificial meat from a sanctuary (lines 31-32) occurs with regularity in the present Collection, cp. e.g. the phrases οὐκ ἀποφορά and οὐ φορά, <ref target="http://cgrn.ulg.ac.be/CGRN_52/">CGRN 52</ref> (Erchia), <foreign>passim</foreign>, and the commentary on lines 10-12 in <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref> (Thorikos). Similarly, shoulders of sacrificial animals (or perhaps by extension the whole of a forelimb) are found as priestly perquisites, cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_120/">CGRN 120</ref> (Sinope), line 8, and <ref target="http://cgrn.ulg.ac.be/CGRN_129/">CGRN 129</ref> (Patara), line 5. The festival referred to in line 34 (πλὴν ὅταν ἡ ἑορτὴ εἶ) is probably the Amphiaraia; this is the first known reference to it (cf. Rhodes - Osborne, p. 133). A subtle contrast seems to be drawn between the festival and non-festal contexts, since the perquisite is in both cases the shoulder from each of the sacrificial animals. The meaning is probably that private individuals could also make sacrifices during the festival, in which case the priest would not receive a perquisite from those animals, but only from the public (δημόσια) animals.</p>
+                
+                <p>Lines 37-48: The final extant section of the document prescribes further and more detailed rules concerning incubation in the Amphiareion, to some degree reprising the subject of lines 20-24. This section includes two large rasurae in lines 37 and 38: no text has been inscribed to replace the erasures. The <foreign>neokoros</foreign> is to record the name and city of patients when they deposit the required money in the money-box, and this prescription appears to match the earlier set of rules known from Oropos (<bibl type="abbr" n="LSS">LSS</bibl> 35, lines 7-8). The list is to be put on display and the πέτευρον (notice-board, probably wooden) on which these names were to be published implies a temporary record, in sharp contrast to permanent nature of the stone containing the more durative regulation (cf. Rhodes and Osborne). Though of course necessary for reasons of purity and other practical factors, the segregation of men and women in the single dormitory of a sanctuary is not directly paralleled to our knowledge (at Pergamon, <bibl type="abbr" n="IvP III">IvP III</bibl> 161A, we also hear only of a single building: ἐγκοιμητήριον, but perhaps male and female were also kept apart in some fashion there).</p>
+    
+<p>Lines 49-56: The content of these fragmentary lines is elusive. They appear to outline other rules regarding incubation, and also seemingly mention a penalty for breaking them. </p>
+                                               
+                                </div>
+        </body>
+    </text>
+</TEI>

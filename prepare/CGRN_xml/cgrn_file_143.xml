@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_143" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 143</idno>: <rs type="textType" key="decree">Decree</rs> proposing cultic honours for three dynasts (area of Laodikeia-on-the-Lykos)</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Large tapering <rs type="objectType">stele</rs> of marble, rectangular but with a triangular summit; virtually intact but broken at the bottom on the lefthand side.</p>
+			<p><dimensions>
+					<height unit="cm">132</height>
+				<width unit="cm">(top) 45 - (bottom) 51 </width>
+					<depth unit="cm">16</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The text is fairly carefully inscribed on the prepared surface, several lines below the triangular top, and leaving much empty space at the bottom also. There are some relatively consistent variations in spelling, perhaps reflective of local dialect or of the cutter's habits. Duplicated consonants are sometimes presented as single ones: lines 2, 6, 20. We also find forms such as πέμτος, ἐγλογιστής, etc. As in Corsten's edition, we here aim to preserve this aspect of the presentation of the text rather than to restore it more abundantly (see also Corsten for further comments on the style of the inscription). But there are also more significant omissions in lines 4, 16, and the end of 20 or beginning of 21.</p>
+			<p>Letters quite variable: <height unit="mm">15-25</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin><p><origDate notBefore="-0267" notAfter="-0267">January 267 BC</origDate></p>
+			<p><desc>Justification: dating formulae in lines 1-3 (Corsten).</desc></p>
+		</origin>
+		<provenance><placeName type="ancientFindspot" key="Laodikeia-on-the-Lykos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/638955/" type="external">Area of Laodikeia-on-the-Lykos</ref></placeName>. Found in 1970-1971 about 4-5 km from Denizli on the road to Izmir, northwest of the village called Gümüşçay. Now in the Museum of Pamukkale (garden, no inv. number).        
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Corsten <bibl type="abbr" n="I.Laodikeia">I.Laodikeia</bibl> 1, with ph. and detailed commentary.</p>
+				    <p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 47, 1739.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Strubbe 2004">Strubbe 2004</bibl>.</p>
+					
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    				
+<lb xml:id="line_1" n="1"/><name type="title"><w lemma="βασιλεύω">βασιλευόντων</w></name> <w lemma="Ἀντίοχος">Ἀντιόχου</w> καὶ <w lemma="Σελεύκος"><supplied reason="lost">Σ</supplied>
+	    				
+<lb xml:id="line_2" n="2" break="no"/>ελεύκου</w> <w lemma="πέμπτος">πέμτου</w> καὶ <w lemma="τεσσαρακοστός">τεσαρακο
+	    				
+<lb xml:id="line_3" n="3" break="no"/>στοῦ</w> <w lemma="ἔτος">ἔτους</w>, <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Περίτιος">Π<unclear>ε</unclear>ριτίου</w></name>, <w lemma="ἐπί">ἐ
+	    					
+<lb xml:id="line_4" n="4" break="no"/>π’</w> <w lemma="Ἐλένος">Ἐλένου</w> <name type="title"><w lemma="ἐπιμελητής">ἐπιμελητοῦ</w></name> <supplied reason="omitted">τοῦ</supplied> <w lemma="τόπος">τό<supplied reason="lost">πο</supplied>υ</w>· <w lemma="ἐκκλησία">ἐκκλησί
+	    						
+<lb xml:id="line_5" n="5" break="no"/>ας</w> <w lemma="γίγνομαι">γενομένης</w> <w lemma="δοκέω">ἔδοξε</w> <name type="ethnic" key="Neoteichos"><w lemma="Νεοτειχίτης">Νεοτειχείταις</w></name>
+	    						
+<lb xml:id="line_6" n="6"/>καὶ <name type="ethnic" key="Kiddioukome"><w lemma="Κιδδιοκωμίτης">Κιδιοκωμίταις</w></name>· <w lemma="ἐπειδή">ἐπειδὴ</w> <name type="deity" key="Banabelos"><w lemma="Βανάβηλος">Βανά
+	    						
+<lb xml:id="line_7" n="7" break="no"/>βηλος</w></name> ὁ τὰ <name type="deity" key="Achaios"><w lemma="Ἀχαιός">Ἀχαιοῦ</w></name> <name type="title"><w lemma="οἰκονομέω">οἰκονομῶν</w></name> καὶ <name type="deity" key="Lachares"><w lemma="Λαχάρης">Λα
+	    					
+<lb xml:id="line_8" n="8" break="no"/>χάρης</w></name> Πάπου <name type="title"><w lemma="ἐκλογιστής">ἐγλογιστὴς</w></name> τῶν
+	    						
+<lb xml:id="line_9" n="9"/><name type="deity" key="Achaios"><w lemma="Ἀχαιός">Ἀχαιοῦ</w></name> <w lemma="εὐεργέτης">εὐεργέται</w> <w lemma="αὐτός">αὐτῶν</w> <w lemma="γίγνομαι">γεγένηντ
+	    					
+<lb xml:id="line_10" n="10" break="no"/>αι</w> <w lemma="κατά">κατὰ</w> <w lemma="πᾶς">πάντα</w> <unclear>κ</unclear>αὶ <w lemma="κοινός">κοινῆι</w> καὶ <w lemma="ἴδιος">ἰδίαι</w> <w lemma="ἕκαστος">ἑκάσ
+	    						
+<lb xml:id="line_11" n="11" break="no"/>του</w> <w lemma="ἀντιλαμβάνω">ἀντειλημμένοι</w> <w lemma="εἰμί">εἰσὶν</w> <w lemma="κατά">κατὰ</w> τ<supplied reason="lost">ὸ</supplied>
+	    						
+<lb xml:id="line_12" n="12" break="no"/>μ <w lemma="πόλεμος">πόλεμον</w> τὸν <name type="ethnic" key="Galatia"><w lemma="Γαλατικός">Γαλατικὸν</w></name> καὶ <w lemma="πολύς">πολ
+	    					
+<lb xml:id="line_13" n="13" break="no"/>λῶν</w> <w lemma="αὐτός">αὐτῶν</w> <w lemma="γίγνομαι">γενομένων</w> <w lemma="αἰχμάλωτος">α<unclear>ἰ</unclear>χ<supplied reason="lost">μ</supplied>α
+	    					
+<lb xml:id="line_14" n="14" break="no"/>λώτων</w> <w lemma="ὑπό">ὑπὸ</w> τῶν <name type="ethnic"><w lemma="Γαλάται">Γαλατῶν</w></name> <w lemma="ἐμφανίζω">ἐμφα
+	    						
+<lb xml:id="line_15" n="15" break="no"/>νίσαντες</w> <name type="deity" key="Achaios"><w lemma="Ἀχαιός">Ἀχαι<unclear>ῶ</unclear><supplied reason="lost">ι</supplied></w></name> <w lemma="λυτρόω"><unclear>ἐ</unclear><supplied reason="lost">λυτ</supplied><unclear>ρώ</unclear><supplied reason="lost">σα</supplied><unclear>ν</unclear>το</w>,
+	    						
+<lb xml:id="line_16" n="16"/><w lemma="ἐπαινέω">ἐπαινέσαι</w> τε <w lemma="αὐτός">αὐτοὺς</w> καὶ <w lemma="ἀναγράφω"><supplied reason="omitted">ἀν</supplied>αγράψαι</w>
+	    						
+<lb xml:id="line_17" n="17"/>τὴν <w lemma="εὐεργεσία">εὐεργεσίαν</w> <w lemma="αὐτός">αὐτῶν</w> <w lemma="εἰς">εἰς</w> <objectType key="stele"><w lemma="στήλη">στή
+	    					
+<lb xml:id="line_18" n="18" break="no"/>λην</w></objectType> <w lemma="λίθινος">λιθίνην</w> καὶ <w lemma="ἵστημι">στῆσαι</w> <w lemma="ἐν">ἐν</w> τῶι
+	    							
+<lb xml:id="line_19" n="19"/>τοῦ <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name> <name type="structure"><w lemma="ἱερός">ἱ<supplied reason="omitted">ε</supplied>ρῶι</w></name> <w lemma="ἐν">ἐμ</w> <placeName key="Babakome"><w lemma="Βάβα">Βάβα</w></placeName> <w lemma="κώμη">κώμηι</w> καὶ
+	    							
+<lb xml:id="line_20" n="20"/><w lemma="ἐν">ἐν</w> τῶι τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλωνος</w></name> <w lemma="ἐν">ἐν</w> <placeName key="Kiddioukome"><w lemma="Κιδδίος">Κιδδίου</w></placeName>
+	    								
+<lb xml:id="line_21" n="21"/><w lemma="κώμη"><supplied reason="omitted">κώμηι</supplied></w>, <w lemma="δίδωμι">δεδόσθαι</w> δὲ <w lemma="αὐτός">αὐτοῖς</w> καὶ <name type="person"><w lemma="ἔγγονος">ἐγγόνοις</w></name>
+	    					
+<lb xml:id="line_22" n="22"/><w lemma="εἰς">εἰς</w> <w lemma="πᾶς">πάντα</w> τὸν <w lemma="χρόνος">χρόνον</w> <w lemma="προεδρία">προεδρίαν</w>
+	    								
+<lb xml:id="line_23" n="23"/><w lemma="ἐν">ἐν</w> ταῖς <name type="group"><w lemma="δημοτελής">δημοτελέσιν</w></name> <name type="festival"><w lemma="ἑορτή">ἑορταῖς</w></name>,
+	    								
+<lb xml:id="line_24" n="24"/><name type="sacrifice"><w lemma="θύω">θύειν</w></name> δὲ καὶ <name type="deity" key="Achaios"><w lemma="Ἀχαιός">Ἀχαιῶι</w></name> <name type="epithet" key="Kyrios"><w lemma="κύριος">κ<unclear>υρ</unclear>ίωι</w></name> τοῦ <w lemma="τόπος">τό
+	    								
+<lb xml:id="line_25" n="25" break="no"/>που</w> καὶ <name type="epithet" key="Soter"><w lemma="σωτήρ">σωτῆρι</w></name> <w lemma="κατά">κατ’</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν
+</w>
+	    					
+<lb xml:id="line_26" n="26"/><w lemma="ἐν">ἐμ</w> μὲν τῶι τοῦ <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name> <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦν</w></name>,
+	    								
+<lb xml:id="line_27" n="27"/><name type="deity" key="Lachares"><w lemma="Λαχάρης">Λαχάρηι</w></name> καὶ <name type="deity" key="Banabelos"><w lemma="Βανάβηλος">Βα<unclear>ν</unclear>αβήλωι</w></name> <name type="epithet" key="Euergetes"><w lemma="εὐεργέτης">εὐεργέται<supplied reason="lost">ς</supplied></w></name>
+	    								
+	 <lb xml:id="line_28" n="28"/><name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριοὺς</w></name></name> <w lemma="δύο">δύο</w> <w lemma="ἐν">ἐν</w> τῶι τ<supplied reason="lost">οῦ</supplied> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">Ἀ</supplied>πόλλωνος</w></name>
+	    								
+<lb xml:id="line_29" n="29"/><name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> τῶι <w lemma="ἐν">ἐγ</w> <placeName key="Kiddioukome"><w lemma="Κιδδίος">Κιδδίου</w></placeName> <w lemma="κώμη">κώμηι</w>, <add place="overstrike"><name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> <w lemma="τρεῖς">τρία</w>·
+	    									
+<lb xml:id="line_30" n="30"/><w lemma="ὅπως">ὅπως</w> <w lemma="εἴδω"><unclear>ε</unclear>ἰδ<supplied reason="lost">ῶ</supplied>σι</w> καὶ οἱ <w lemma="ἄλλος">ἄλλοι</w></add>, <w lemma="ὅτι">ὅτι</w> <name type="ethnic" key="Neoteichos"><w lemma="Νεοτειχίτης">Νεοτ<supplied reason="lost">ει</supplied>
+	    									
+<lb xml:id="line_31" n="31" break="no"/>χεῖται</w></name> καὶ <name type="ethnic" key="Kiddioukome"><w lemma="Κιδδιοκωμίτης">Κι<supplied reason="lost">δ</supplied>διοκωμῖται</w></name>, <w lemma="ὑπό">ὑφ’</w> ὧ<supplied reason="lost">ν</supplied>
+	    								
+<lb xml:id="line_32" n="32"/>ἄν <w lemma="τις">τι</w> <w lemma="πάσχω">πάθωσι</w> <w lemma="ἀγαθός">ἀγαθ<supplied reason="lost">ό</supplied>ν</w>, <w lemma="ἐφίστημι">ἐπίστα<unclear>ν</unclear>
+	    								
+<lb xml:id="line_33" n="33" break="no"/>ται</w> <name type="genericOffering"><w lemma="τιμή">τιμὰς</w></name> <w lemma="ἀντιδίδωμι">ἀντιδιδόναι</w>. <space extent="unknown" unit="line"/>
+	    					</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					In the 45th year of kings Antiochos (I) and Seleukos, in the month Peritios, when Elenos was commander of the place; in the assembly, (5) it was decided by the Neoteichitai and the Kiddiokomitai: since Banabelos the administrator of the properties of Achaios and Lachares son of Papos the accountant of the affairs of Achaios have become benefactors (10) in all matters and (since) they each both publicly and privately took part in the Galatian war, and when many of their own had been captured by the Galatians, after informing (15) Achaios (of this) they managed to free (them), (it is necessary) to praise them and to write up their beneficence on a stone stele and to set (one of these) up in the sanctuary of Zeus in Babakome, and the other (20) in the sanctuary of Apollo in Kiddioukome; and to give them and their descendants in perpetuity the right to a front seat in all public festivals; and to sacrifice each year to Achaios Master (25) of this place and Saviour an ox in the sanctuary of Zeus, to Lachares and Banabelos (the) benefactors two rams in the sanctuary of Apollo in Kiddioukome, three sacrificial animals (in total); (30) so that others may also witness (this), that the Neoteichitai and the Kiddiokomitai, when they experience something good, instituted that honours would be reciprocated.	
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>La 45e année des rois Antiochos (Ier) et Séleukos, au mois de Peritios, alors qu'Elenos était commandant du lieu. À l'assemblée, (5) les Neoteichitai et les Kiddiokomitai ont décidé : puisque  Banabelos, l'administrateur des affaires d'Achaios, et Lachares fils de Papos, le comptable des finances d'Achaios, sont devenus des évergètes (10) en toute chose, et (puisqu')ils ont tous deux pris part à la guerre contre les Galates de manière publique et privée, et alors que beaucoup d'entre eux avaient été capturés par les Galates, ayant informé (15) Achaios, ils parvinrent à les libérer, (il convient) de les célébrer et d'inscrire leur évergétisme sur une stèle de pierre, d'ériger (l'une d'elles) dans le sanctuaire de Zeus à Babakome, et l'autre (20) dans le sanctuaire d'Apollon à Kiddioukome; et de leur accorder ainsi qu'à leurs descendants le droit perpétuel à une place de choix lors des fêtes publiques; et d'offrir en sacrifice chaque année à Achaios Maître (25) de ce lieu et
+Sauveur, un bovin dans le sanctuaire de Zeus, à Lachares et à Banabelos évergètes, deux béliers dans le sanctuaire d'Apollon à Kiddioukome, trois animaux sacrificiels (en tout); (30) afin que les autres puissent également constater que les Neoteichitai et les Kiddiokomitai, sous l'effet d'un certain bienfait, ont établi des honneurs en retour.    </p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>The commentary here will focus on the cultic honours awarded to the dynast Achaios, and his deputies Banabelos (an eastern, Semitic name; no father's name is given) and Lachares; for a more detailed historical commentary, see Corsten, with further refs. A brief summary of the historical issues can nonetheless be provided. The Galatian war mentioned in the text (line 12) is usually dated to 278-276 BC, when an invasion and plundering of Western Asia Minor took place at the behest of king Nikomedes I of Bithynia. Since the present inscription must date to about a decade later, near the end of the reign of Antiochos I, it is not exactly clear if the reference is to those events or, perhaps, to their more recent sequels (on the hypothesis of M. Wörrle, reported in Corsten, another such war perhaps took place in 269/8 BC, the so-called "Elephantine War"). It is clear that Achaios was an important figure in the Seleucid regime at the time, cf. the sources gathered in Corsten. Evidently the commander of this wider area, he was perceived to provide benefactions for the communities involved, and two of his deputies (otherwise unknown) are particularly singled out for their role. Their benefactions notably included securing the release of soldiers, perhaps some of whom originated from the area of the Neoteichitai and the Kiddioukomitai. Comparisons for cults of dynasts under the Seleucids are well attested. For the dynast Olympichos honoured at Labraunda and Mylasa, see here: <ref target="CGRN_150">CGRN 150</ref>. Seleukos was the eldest son of Antiochos I, and joint ruler (in the East), from 275 (?) to 268, when he was put to death (the news had apparently not year reached the local administration and communities in January of 267). For the cult of the kings Seleukos I and Antiochos I at Aigai, see: <ref target="CGRN_137">CGRN 137</ref>.</p>
+						
+<p>About the local context of the inscription we are, regrettably, poorly informed in terms of archaeological and other finds. It is possible that the inscription antedates the foundation of Laodikeia on the river Lykos. As Corsten discusses more fully, of the three toponyms mentioned in the text—none of which is securely located—, two have names which are typical of Asia Minor, where a village is often called after a personal name: here, Kiddios or Kiddias and Baba (i.e. father or grand-father) respectively. By contrast, the third place, Neoteichos or Neon Teichos, has a Greek name which may suggest a military installation of some sort, where Elenos (line 4) was perhaps in command. Two prominent sanctuaries are also mentioned in the inscription: the sanctuary of Zeus in Babakome and that of Apollo in Kiddioukome. As Corsten well remarks, it seems clear that there are several hierarchies manifest in the text, or at least an order of importance relating to these communities and sanctuaries. Neon Teichos is the principal site, always appearing before Kiddioukome, and Babakome and its sanctuary probably fell under its purview. It is also here that Achaios the dynast is honoured. Kiddioukome, by contrast, is perhaps a degree smaller, and it is in its sanctuary of Apollo that Banabelos and Lachares are honoured. In neither case is it clear whether one would be justified in presuming that the recipients of sacrifices were divinised or heroised. However, as recipients of sacrifice, these individuals were implicitly the objects of cult and set to some extent on the same level as gods and heroes. For more overt divinisation, see again the text from Aigai: <ref target="CGRN_137">CGRN 137</ref>. For a wider discussion of on cultic honours for benefactors in Asia Minor, see Strubbe.</p>
+
+<p>Line 24-26: The annual sacrifice to Achaios consists of an ox, a significant offering (both in terms of value and cost). Since neither this sacrifice nor the one to Banabelos and Lacheros is set for a specific date, it might be suggested that each is presumed to occur during the civic sacrifices (δημοτελέσιν ἑορταῖς, line 23), where Banabelos and Lacheros were granted <foreign>proedria</foreign> if they attended. Perhaps there was only one significant annual festival for Zeus at Babakome and the same, separately, for Apollo at Kiddioukome. For the association of dynastic or ruler cult with existing festivals and celebrations, see again the text from Aigai <ref target="CGRN_137">CGRN 137</ref>. It is unclear, though possible, that some of the designations attributed to Achaios are to be seen as epithets of a sort: Soter may be especially suggestive in that regard.</p> 
+						
+<p>Lines 27-28: Rams are often given to benefactors and other individuals, who are the recipients of cult (while not being explicitly divinised), cf. here <ref target="CGRN_168">CGRN 168</ref> (Keramos), line 16. It may be presumed that one ram was sacrificed to each, i.e. to Banabelos and Lachares individually.</p>
+						
+<p>Line 29: As Corsten well observes, part of lines 29-30 was inscribed in a rasura; accordingly, ἱερεῖα τρία is likely to be seen as a sort of summary of the preceding offerings: 'filler' rather than as a supplementary sacrifice. It is unclear what was previously written in this space prior to the rasura (also in line 30).
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

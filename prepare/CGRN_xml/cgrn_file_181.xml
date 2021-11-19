@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_181" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 181</idno>: <rs type="textType" key="purity regulation">Purity regulation</rs> from an unknown sanctuary at Eresos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Sylvain Lebreton</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Marble <objectType>stele</objectType>, broken on top and on the left.</p>
+
+	<p><dimensions>
+	<height unit="cm">99</height>
+	<width unit="cm">44</width>
+	<depth unit="cm">unknown</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+		<p>Small empty spaces separate clauses and/or correspond to punctuation. Lines 21-22 seem to have been added later (Chandezon).</p>
+		<p><height unit="cm">1</height></p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0200" notAfter="-0075">2nd - beginning of 1st century BC</origDate></p>
+
+		<p><desc>Justification: lettering (Kretschmer, Chandezon).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Eresos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550533" type="external">Eresos</ref></placeName>. Current location unknown.</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Hiller von Gaertringen, <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> 126. Note additionally that: -in line 4, we adopt Sokolowski's excellent restoration; - in line 6, we do not accept the repetition of τετό]κοισαν (cf. line 8) adopted by Hiller and instead propose a new restoration (see below commentary).
+	    			</p>
+	    			<p> Other editions:
+	    				<bibl type="author_date" n="Kretschmer 1902">Kretschmer 1902</bibl>: no. 1;
+	    				<bibl type="author_date" n="Paton 1902">Paton 1902</bibl>.
+
+	    			</p>
+
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 117;
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 124.
+
+
+	    			</p>
+
+	    			<p> Further bibliography:
+	    	<bibl type="author_date" n="Lazaridis 1969">Lazaridis 1969</bibl>: 137;
+	    	<bibl type="author_date" n="Parker 1983">Parker 1983</bibl>: 354-355;
+	    	<bibl type="author_date" n="Borgeaud 1996">Borgeaud 1996</bibl>: 119-120;
+	    	<bibl type="author_date" n="Chandezon 2003">Chandezon 2003</bibl>: no. 36.
+	    	<bibl type="author_date" n="Graf 2007">Graf 2007</bibl>: 108-109;
+	    	<bibl type="author_date" n="Brulé 2012">Brulé 2012</bibl>: 138-147.
+
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    	<ab>
+	    	<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+
+	    		<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ς</unclear></orig> <w lemma="εἰσέρχομαι">εἰστείχ<unclear>ην</unclear></w> <w lemma="εὐσεβής">εὐσέβεας</w>
+
+	    		<lb xml:id="line_2" n="2"/> <space extent="unknown" unit="character"/> <w lemma="ἀπό">ἀπὸ</w> μὲν <name type="death"><w lemma="κῆδος">κάδεος</w></name> <w lemma="ἴδιος">ἰδίω</w>
+
+	    		<lb xml:id="line_3" n="3"/> <w lemma="περιμένω"><supplied reason="lost">περιμένν</supplied>αντας</w> <w lemma="ἡμέρα">ἀμέραις</w> <w lemma="εἴκοσι">εἴκοσι</w>· <w lemma="ἀπό">ἀπὸ</w> δὲ
+
+	    		<lb xml:id="line_4" n="4"/> <name type="person"><w lemma="ἀλλότριος"><supplied reason="lost">ἀλλοτρί</supplied>ω</w></name> <w lemma="ἡμέρα">ἀμέραις</w> <w lemma="τρεῖς">τρεῖς</w> <name type="purification"><w lemma="λούω">λοεσσάμενον</w></name>·
+
+	    		<lb xml:id="line_5" n="5"/> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w> <supplied reason="lost">δὲ</supplied> <gap reason="lost" quantity="3" unit="character"/><orig>ατω</orig> <space quantity="1" unit="character"/> <w lemma="ἡμέρα">ἀμέραις</w> <w lemma="δέκα">δέκα</w>· <space quantity="1" unit="character"/> <w lemma="αὐτός">αὔταν</w> δὲ
+
+	    		<lb xml:id="line_6" n="6"/><supplied reason="lost"><space quantity="3" unit="character"/></supplied> <supplied reason="lost">τὰν</supplied> <name type="death"><name type="childbirth"><w lemma="ἐκτιτρώσκω"><supplied reason="lost">ἐκτέτρω</supplied>κοισαν</w></name></name> <w lemma="ἡμέρα">ἀμέραις</w> <w lemma="τεσσαράκοντα">τεσσαράκοντα</w>·
+
+	    		<lb xml:id="line_7" n="7"/> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w> <supplied reason="lost">δὲ</supplied> <gap reason="lost" quantity="3" unit="character"/><orig>τω</orig> <w lemma="ἡμέρα">ἀμέραις</w> <w lemma="τρεῖς">τρεῖς</w>· <space quantity="1" unit="character"/> <w lemma="αὐτός">αὔταν</w> δὲ τ<supplied reason="lost">ὰν</supplied>
+
+	    		<lb xml:id="line_8" n="8"/><supplied reason="lost"><space quantity="3" unit="character"/></supplied> <name type="childbirth"><name type="person"><w lemma="τίκτω"><supplied reason="lost">τε</supplied>τόκοισαν</w></name></name> <space quantity="1" unit="character"/> <w lemma="ἡμέρα">ἀμέραις</w> <w lemma="">δέκα</w>·
+
+	    		<lb xml:id="line_9" n="9"/> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w> <supplied reason="lost">δὲ</supplied> <name type="sex"><w lemma="γυνή"><supplied reason="lost">γ</supplied>ύναικος</w></name> <w lemma="αὐθήμερος">αὐτάμερον</w> <name type="purification"><w lemma="λούω">λοεσσάμενον</w></name>·
+
+	    		<lb xml:id="line_10" n="10"/> <gap reason="lost" quantity="6" unit="character"/> δὲ <w lemma="μή">μὴ</w> <w lemma="εἰσέρχομαι">εἰστείχην</w> <space quantity="2" unit="character"/> <w lemma="μηδέ">μηδὲ</w> <name type="person"><w lemma="προδότης">προδόταις</w></name>.
+
+	    		<lb xml:id="line_11" n="11"/> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <w lemma="εἰσέρχομαι"><supplied reason="lost">εἰσ</supplied>τείχην</w> δὲ <w lemma="μηδέ">μηδὲ</w> <name type="personnel"><w lemma="γάλλος">γάλλοις</w></name> <space quantity="1" unit="character"/> <w lemma="μηδέ">μηδὲ</w>
+
+	    		<lb xml:id="line_12" n="12"/> <supplied reason="lost"><space quantity="3" unit="character"/></supplied> <name type="person"><w lemma="γυνή"><supplied reason="lost">γύ</supplied>ναικες</w></name> <name type="genericOffering"><w lemma="γαλλάζω">γαλλάζην</w></name> <w lemma="ἐν">ἐν</w> τῶ <name type="structure"><w lemma="τέμενος">τεμένει</w></name>·
+
+	    		<lb xml:id="line_13" n="13"/> <supplied reason="lost"><space quantity="3" unit="character"/></supplied> <w lemma="μή"><supplied reason="lost">μ</supplied>ὴ</w> <w lemma="εἰσφέρω">εἰσφέρην</w> δὲ <w lemma="μηδέ">μηδὲ</w> <name type="object"><w lemma="ὅπλον">ὄπλα</w></name> <w lemma="πολεμιστήριος">πολεμιστήρι<supplied reason="lost">α</supplied></w>
+
+	    		<lb xml:id="line_14" n="14"/> <supplied reason="lost"><space quantity="3" unit="character"/></supplied> <w lemma="μηδέ"><unclear>μ</unclear>ηδὲ</w> <name type="animal" key="generic"><name type="death"><w lemma="θνησείδιον">θνασίδιον</w></name></name>· <space extent="unknown" unit="character"/>
+
+	    		<lb xml:id="line_15" n="15"/> <w lemma="μηδέ"><supplied reason="lost">μη</supplied>δὲ</w> <w lemma="εἰς">εἰς</w> τὸν <name type="structure"><w lemma="ναός">ναῦον</w></name> <w lemma="εἰσφέρω">εἰσφέρην</w> <space quantity="1" unit="character"/> <name type="object"><w lemma="σίδηρον">σίδαρον</w></name>
+
+	    		<lb xml:id="line_16" n="16"/> <space quantity="3" unit="character"/> <w lemma="μηδέ">μηδὲ</w> <name type="object"><w lemma="χαλκός">χάλκον</w></name> <w lemma="πλήν">πλὰν</w> <name type="object"><w lemma="νόμισμα">νομίσματος</w></name>
+
+	    		<lb xml:id="line_17" n="17"/> <space quantity="3" unit="character"/> <w lemma="μηδέ">μηδὲ</w> <name type="object"><w lemma="ὑπόδεσις">ὐπόδεσιν</w></name> <w lemma="μηδέ">μηδὲ</w> <w lemma="ἄλλος">ἄλλο</w> <name type="object"><w lemma="δέρμα">δέρμα</w></name>
+
+	    		<lb xml:id="line_18" n="18"/> <space quantity="3" unit="character"/> <w lemma="μηδείς">μῆδεν</w>. <space quantity="2" unit="character"/> <w lemma="μή">μὴ</w> <w lemma="εἰσέρχομαι">εἰστείχην</w> δὲ <w lemma="μηδέ">μηδὲ</w> <name type="person"><w lemma="γυνή"><unclear>γ</unclear>ύ<supplied reason="lost">ναικ</supplied>α</w></name>
+
+	    		<lb xml:id="line_19" n="19"/> <space quantity="3" unit="character"/> <w lemma="εἰς">εἰς</w> τὸν <name type="structure"><w lemma="ναός">ναῦον</w></name> <space quantity="1" unit="character"/> <w lemma="πλήν">πλὰν</w> τᾶς <name type="personnel"><w lemma="ἱερεύς">ἰρέας</w></name>
+
+	    		<lb xml:id="line_20" n="20"/> καὶ τᾶς <name type="personnel"><w lemma="προφῆτις">προφήτιδος</w></name>. <space extent="unknown" unit="character"/>
+
+	    		<lb xml:id="line_21" n="21"/><space quantity="1" unit="line"/>
+
+	    		<lb xml:id="line_22" n="22"/><w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <w lemma="ποτίζω"><supplied reason="lost">πο</supplied>τίζην</w> δὲ <w lemma="μηδέ">μηδὲ</w> <name type="animal" key="generic"><w lemma="κτῆνος">κτήνεα</w></name> <w lemma="μηδέ">μηδὲ</w> <name type="animal" key="generic"><w lemma="βόσκημα">βοσκήματα</w></name>
+
+	    		<lb xml:id="line_23" n="23"/> <w lemma="ἐν">ἐν</w> τῶ <name type="structure"><w lemma="τέμενος">τεμένει</w></name>. <space extent="unknown" unit="character"/>
+
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p> [...] enter being pious: from the funeral of a family member, [having purified themselves], after twenty days; from [(the funeral) of a non-relative], after three days, having washed himself; (5) [from a ...], after ten days; the woman [who has had an abortion], after forty days; [from a ...], after three days; the woman who has given birth, after ten days; [from] a woman, on the same day, having washed himself.</p>
+
+<p>(10) [ ...] nor traitors shall (be allowed) to enter; <foreign>galloi</foreign> shall not enter either; women shall not perform rituals of <foreign>galloi</foreign> in the precinct; bring in no weapons of war nor animal carcass; (15) bring into the temple neither iron nor bronze, except coins, not footwear, and not any other leather; no women shall enter the temple, except the priestess (20) and the prophetess. Do not give water to drink to flocks or pasture animals in the precinct.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p> [...] entrer en état de pureté : des funérailles d'un parent, après s'être [purifiés], après vingt jours; des (funérailles) [d'un non-familier], après trois jours, après s'être lavé; (5) [de ...], après dix jours; celle [qui a avorté], après quarante jours; [de ...], après trois jours; celle qui a accouché, après dix jours; [d'une] femme, le jour même, après s'être lavé; </p>
+
+<p>(10)  [...] les traitres ne doivent pas entrer; les galles ne doivent pas entrer non plus; les femmes ne doivent pas accomplir les rites des galles dans l'enceinte; n'introduire ni armes de guerre ni carcasse animale; (15) n'introduire dans le temple ni fer ni bronze, sauf de la monnaie, ni sandale, ni aucune autre peau; aucune femme ne doit entrer dans le temple, sauf la prêtresse (20) et la prophétesse. N’abreuver ni petit ni gros bétail dans l'enceinte.
+					</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p>This is one of many texts in the present Collection regarding the conditions of purity for people entering a sanctuary. As in <ref target="http://cgrn.ulg.ac.be/CGRN_212/">CGRN 212</ref> (Pergamon) and in <ref target="http://cgrn.ulg.ac.be/CGRN_144/">CGRN 144</ref> (Ptolemais), the three sources of pollution first mentioned are contact with the dead during funerals (lines 2-4), childbirth (5-8), and sexual intercourse (9). The second part of the regulation (lines 10-22) concerns the absolute exclusion of some categories of people (cult personnel or worshippers of Kybele, lines 11-12; women from the temple with the exception of the female cult personnel, lines 18-20), objects (especially those made of metal or leather, lines 13-17), and also specific practices (e.g. watering cattle, lines 22-23).</p>
+
+<p>The context of the sanctuary mentioned and concerned by this regulation remains unclear: it is not known which deity or which cult was involved. The presence of a priestess would suggest a goddess (so Sokolowski); cf. also Ziehen for speculations about the identification of the deity in question: Apollon Eresios (first suggested by Kretschmer) or indeed a goddess. Additionally, the reference to a prophetess (line 20) would suggest some form of oracular cult (cf. Graf, p. 111 who further draws a parallel with the Asklepieion of Pergamon).</p>
+
+<p> Lines 2-4: The phrase ἀπὸ ἰδίω κάδεος clearly refers to attendance and probably direct participation in the funeral of a close relative (Kretschmer, followed by Graf). Accordingly, the restoration of the beginning of line 4 should in all likelihood be the further case of a funeral of a non-relative: ἀλλότριω (as Sokolowski already suggested). For a direct parallel, a purity regulation that distinguishes between these two kinds of funeral care, see here <ref target="http://cgrn.ulg.ac.be/CGRN_189/">CGRN 189</ref> (Lykosoura).</p>
+
+<p> Lines 5-8: These lines seem to distinguish between abortion (if our restoration at the beginning of line 6 is correct) and childbirth, and they specify the amount of days of waiting for the mother herself as well as for those who have been in contact with the mother or the newborn (it remains unclear which is meant). At Ptolemais (<ref target="http://cgrn.ulg.ac.be/CGRN_144/">CGRN 144</ref>, lines 7 and 13), we find precisely the same delay in effect: forty days for an abortion (and perhaps ten days for a woman who has given birth and is breastfeeding).</p>
+
+<p> Line 10: Despite the conjunction μὴ ... μηδὲ, this part of the regulation does not seem to introduce two categories of exclusion, but only one (cp. line 18, where γύναικα is the only subject accusative of same conjunction; differently, Sokolowski thinks of restoring [φονέας], murderers, at the beginning of the line). One might then think the restoration should be ἱερὸν, since other sections of the text also specify an area within the sanctuary, whether the precinct as a whole or the shrine itself (ἐν τῶ τεμένει, lines 12 and 22 and εἰς τὸν ναῦον in line 19). The datives προδόταις and γάλλοις in lines 10-11 are somewhat enigmatic, but one might presume an implied ἔξεστω. About traitors in this type of purity regulations, cf. Graf, who adduces <bibl type="abbr" n="LSS">LSS</bibl> 91, line 19.</p>
+
+<p> Lines 11-12: On the γάλλοι, worshippers and/or priests of the goddess, cf. Borgeaud, who makes the assumption that the Greek word γάλλος was borrowed from the Latin <foreign>gallus</foreign> after the introduction of the cult of Kybele in Rome at the end of the third century BC. Indeed, the first occurrences of the word in Greek do not antedate this period (cf. also the γάλλος βασιλικός in Lazaridis, p. 137, a text from Amphipolis, of the end of 3rd or beginning of 2nd century BC). The verb γαλλάζην is a <foreign>hapax legomenon</foreign> in epigraphy (only one occurrence in late literature, by Ephrem the Syrian, <title>De panoplia, ad monachos</title>, p. 12 ed. Phrantzoles) and might be also ave been borrowed from the Latin <foreign>gallare</foreign>. It is unclear whether the verb refers precisely to the cult of Kybele or if it is used to designate other potentially "non-mainstream" or pejoratively valued religious practices (see Graf).</p>
+
+<p> Lines 13-18: On the ban of metal objects from sanctuaries, cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_126/">CGRN 126</ref> (Lykosoura), lines 4 and 7, and <ref target="http://cgrn.ulg.ac.be/CGRN_148/">CGRN 148</ref> (Kos), lines 50-57. On the polluting role of a carcass (θνασίδιον), presumably here from an animal that has not been sacrificed in the cult, cf. again <ref target="http://cgrn.ulg.ac.be/CGRN_148/">CGRN 148</ref> (Kos), line 26. For the forbidding of footwear, cf. again <ref target="http://cgrn.ulg.ac.be/CGRN_126/">CGRN 126</ref> (Lykosoura), lines 4-5. In addition to shoes and sandals, the phrase ἄλλο δέρμα appears to refer to any other object made of leather.</p>
+
+<p> Lines 18-19: On exclusions of women, cf. the Commentary on <ref target="http://cgrn.ulg.ac.be/CGRN_33/">CGRN 33</ref> (Elateia).</p>
+
+<p> Lines 22-23: Sokolowski's proposed restoration [μὴ λω]τίζην does not make clear sense. For [μὴ πο]τίζην, which suggests that there was a source or a fountain inside the precinct from which one might be tempted to water animals, cf. Chandezon. On the prohibition against the presence of animals within the temenos, cf. here e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_154/">CGRN 154</ref> (Ialysos) (and also other inscriptions beyond the scope of the present Collection: <bibl type="abbr" n="LSCG">LSCG</bibl> 91 and 116, <bibl type="abbr" n="LSS">LSS</bibl> 51, and <bibl type="abbr" n="SEG">SEG</bibl> 48, 1037). For further discussion, cf. Brulé.</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

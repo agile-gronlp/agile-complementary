@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_27" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title>	<idno type="filename">CGRN 27</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> for Heracles on Thasos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p><rs type="objectType">Block</rs> of marble (stele?), broken at the back.</p>
+				<p><dimensions>
+					<height unit="cm">41.6</height>
+					<width unit="cm">34.7</width>
+					<depth unit="cm">15</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The text is inscribed in a stoichedon grid of 13 letters.</p> 
+				<p>Letters: <height unit="cm">1.6</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0450" notAfter="-0425">ca. 450-425 BC</origDate></p>
+			<p><desc>Justification: lettering (Jeffery).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thasos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/501634" type="external">Thasos</ref></placeName>. Found in the agora (not the Herakleion in the city).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+		<p>Edition here based on the <foreign>editio princeps</foreign>, <bibl type="author_date" n="Picard 1923">Picard 1923</bibl>, with the correction of Roussel in line 7. </p>
+					
+		<p>Other editions: 
+			Hiller von Gaetringen <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> 414 (p. 163).</p>
+					
+		<p>Cf. also: 
+			Roussel <title>REG</title> 1924 <bibl type="abbr" n="BE">BE</bibl> no. 349; 
+			Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 63; 
+			Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 303 and 308 no. 72.</p>
+					
+		<p>Further bibliography: 
+			<bibl type="author_date" n="Seyrig 1927">Seyrig 1927</bibl>: 185-198; 
+			<bibl type="author_date" n="Pouilloux 1954">Pouilloux 1954</bibl>: 89-92, with pl. 11.3; 
+			<bibl type="author_date" n="Cole 1992">Cole 1992</bibl>; 
+			<bibl type="author_date" n="Pitz 2016">Pitz 2016</bibl>.</p>
+					
+		<p>Online record: <ref target="http://poinikastas.csad.ox.ac.uk/" type="external">Poinikastas</ref> website, with ref. no. 308.72 (drawings).</p>	
+				</div>
+	    		
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb xml:id="line_1" n="1"/><name type="deity" key="Heracles"><w lemma="Ἡρακλέης"><supplied reason="lost">Ἡρα</supplied>κλεῖ</w></name> <name type="epithet" key="Thasios"><name type="ethnic" key="Thasos"><w lemma="Θάσιος">Θασίωι</w></name></name>
+	    					
+<lb xml:id="line_2" n="2"/><name type="animal" key="goat"><w lemma="αἴξ"><supplied reason="lost">αἶγ</supplied>α</w></name> <w lemma="οὐ">οὐ</w> <name type="authority"><w lemma="θέμις">θέμις</w></name> <w lemma="οὐδέ">οὐ
+	
+<lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">δὲ</supplied></w> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοῖρον</w></name></name>· <w lemma="οὐδέ">οὐδὲ</w> <name type="person"><w lemma="γυνή">γ
+	
+<lb xml:id="line_4" n="4" break="no"/><supplied reason="lost">υ</supplied>ναικὶ</w></name> <name type="authority"><w lemma="θέμις">θέμις</w></name>· <w lemma="οὐδέ">οὐ
+	
+<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">δ’</supplied></w> <name type="sacrifice"><name type="portion"><w lemma="ἐνατεύω">ἐνατεύεται</w></name></name>· <w lemma="οὐδέ">οὐ
+	
+<lb xml:id="line_6" n="6" break="no"/>δὲ</w> <name type="portion"><w lemma="γέρας">γέρα</w></name> <name type="portion"><w lemma="τέμνω">τέμνετα
+	
+<lb xml:id="line_7" n="7" break="no"/>ι</w></name>· <w lemma="οὐδέ">οὐδ’</w> <name type="festival"><w lemma="ἀθλέω">ἀθλε̑ται</w></name> <space quantity="1" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+
+<p>To Heracles Thasios, it is not religiously permitted (to sacrifice) a goat nor swine (literally: a piglet). Nor it is permitted for women (to participate). (5) No ninth-portioning is to be made. No priestly perquisites are to be cut. No contests are held.</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					
+<p>À Héraclès Thasios, il n'est pas religieusement permis (de sacrifier) ni un caprin ni un porcin (littéralement: porcelet). Il n'est pas permis aux femmes (de participer). (5) Il n'est pas permis de faire une division en neuf parts. Aucune part d'honneur ne doit être découpée. Aucun concours n'a lieu.</p>
+					<p>(traduction Z. Pitz)</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This short text, a sacrificial interdiction of a type regularly found on Thasos (cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_17/">CGRN 17</ref>), has stimulated a wide range of commentary despite its size. This is due to one or two more noteworthy proscriptions which are included in the inscribed list, particularly in the final lines. Scholars have vigorously debated whether the interdictions to make an ἐνατευεῖν-type of ritual and to cut out priestly portions relate to a heroic or divine cult of Heracles. This is a charged and problematic debate, since the figure of Heracles cannot be so easily categorised.</p>
+						
+<p>Recently, scholarship has shifted back to the study of the actual rituals involved in the cult and their normative aspects. Seyrig's pioneering work on this subject has proposed that interdictions of the οὐ θέμις type indicate and reveal deviations from standard practice, in which case one would expect Heracles to have habitually received an ἐνατευεῖν type of ritual. That is quite probable, though the motivations for inscribing the text, apart from providing some useful ritual information to worshippers and preventing them from committing a <foreign>faux pas</foreign>, remain murky.</p>
+
+<p>Line 1: Heracles, here qualified with the epithet Thasios, was an important god in the island and a case might be made for his tutelary status; for instance, he appears regularly on the coins of the island and from the second century BC these coins have the legend ΗΡΑΚΛΕΩΣ ΣΩΤΕΡΟΣ ΘΑΣΙΩΝ. It may also be underlined that the cult in question in this text apparently took place in the agora of the city, not the Herakleion which was also an important cult-site of the god.</p>				
+
+<p>Lines 2-3: The interdiction against sacrificing a goat or piglet to Heracles might correspond to standard practice elsewhere on Thasos (cf. <ref target="http://cgrn.ulg.ac.be/CGRN_17/">CGRN 17</ref>). As explained in the commentary there, it is possible that the interdiction does not only concern piglets, but rather, more widely, swine in general.</p>
+
+<p>Lines 3-4: On the exclusion of women, rightly interpreted as exceptional and indicative of more 'gendered' male cults, cf. esp. Cole, and see also <ref target="http://cgrn.ulg.ac.be/CGRN_33/">CGRN 33</ref> (Elateia) and the discussion there.</p>	
+
+<p>Line 5: The ritual act described as ἐνατευεῖν is seldom found in the present Collection, but it clearly indicates a division of the carcass of the sacrificed animal into nine significant portions. One of these would then be burned as a substantial offering to the god in question (i.e. a portion larger than the usual thighbones wrapped in the omentum or fat as in a 'standard' <foreign>thysia</foreign>). See here esp. Selinous, <ref target="http://cgrn.ulg.ac.be/CGRN_13/">CGRN 13</ref>, lines A11-12, and also <ref target="http://cgrn.ulg.ac.be/CGRN_156/">CGRN 156</ref> (Mykonos), lines 23-24; the former text elucidates the ritual practice behind the verb, the latter is a clear case of heroic cult. For a very fragmentary instance from Thasos, also apparently involving Heracles, see <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> 353 (300-250 BC). Since the ritual of ἐνατευεῖν is here explicitly prohibited (as are the cutting of honorary portions, see below on line 6), one might implicitly interpret the rituals involved as presuming a holocaust. But the oblique formulation of the interdictions in the text is not at all clear, and one may rightly instead have expected the inscription to frame such a requirement positively (viz. using a form of ὁλοκαυτέω).</p>
+						
+<p>Line 6: The interdiction to cut and portion out honorary perquisites (γέρα) is unique and surprising. This prohibition might strengthen the idea that a holocaust is presumed by the regulation, but if so, it is very oddly formulated. A relatively 'normal' sacrifice for Heracles, but with no attribution of priestly portions, remains a distinct and likely possibility. See the discussion in Pitz.</p>
+
+<p>Line 7: Picard read οὐδ’ ἀθρε̑ται, which was corrected by Roussel and is confirmed on the stone. This final negative clause is usually interpreted as prohibiting the granting of prizes consisting of meat from the animals sacrificed. An objection should be raised that ἀθλέω in the passive voice does not designate the granting of such prizes, but rather contending in games and holding contests. This is perhaps a subtle distinction, since if no contests could be held, no meaty prizes could of course be given. But the interdiction then more properly belongs to the general rules on participation and behaviour in the sanctuary—as e.g. the clause in lines 3-4 concerning women—, in this case seeking to prohibit the holding of athletic contests. Practical reasons may have motivated this and other requirements in the regulation, since the cult took place in the agora itself.
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

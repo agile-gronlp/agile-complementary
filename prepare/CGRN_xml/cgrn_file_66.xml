@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_66" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+<title><idno type="filename">CGRN 66</idno>: Fragment (perhaps) from a <rs type="textType" key="priestly contract">contract</rs> of sale for a priesthood on Chios</title>
+<author>Jan-Mathieu Carbon</author>
+<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+<availability>
+	<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+	<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+</availability>
+			</publicationStmt>
+			<sourceDesc>
+<msDesc>
+	<msIdentifier>
+		<repository>n/a</repository>
+	</msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc>
+<support><p>Fragment of marble, perhaps from a <rs type="objectType">stele</rs>. Intact on top (?), left, but broken to the right and below. </p>
+	<p><dimensions>
+		<height unit="cm">35</height>
+		<width unit="cm">14</width>
+		<depth unit="cm">unknown</depth>
+	</dimensions></p>
+</support>
+			</supportDesc>
+			<layoutDesc>
+<layout><p>Stoichedon of uncertain length. </p>
+	<p>Letters: height unknown.</p>
+</layout>
+			</layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0350">ca. 400-350 BC</origDate></p>
+			<p><desc>Justification: lettering and type of document (Studniczka).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Chios" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550497" type="external">Chios</ref></placeName>. Found reused in the church of Hypapantis (Chios town). It was plastered over when Plassart and Picard visited. Current location unknown.</p>
+		</provenance>
+	</history>
+</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.-M. Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+<language ident="eng">English</language>
+<language ident="grc">Ancient Greek</language>
+<language ident="lat">Latin</language>
+<language ident="fre">French</language>
+<language ident="ger">German</language>
+<language ident="gre">Modern Greek</language>
+<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+<head>Bibliography</head>
+
+<p>Edition here based on: <bibl type="abbr" n="SEG">SEG</bibl> 22, 501, with restorations suggested by Forrest there. We adopt the text in <title>SEG</title> with modified restorations.</p>
+
+<p>Other edition: <bibl type="author_date" n="Studniczka 1888">Studniczka 1888</bibl>: 165-166 no. 3 (majuscule text only).</p>
+
+<p>Cf. also: <bibl type="author_date" n="Plassart - Picard 1913">Plassart - Picard 1913</bibl>: 227 n. 1;
+	Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 76; 
+	<bibl type="author_date" n="Koumanoudis - Matthaiou 1985">Koumanoudis - Matthaiou 1985</bibl>: 108.</p>
+			</div>
+			<div type="edition">
+<head>Text</head>
+<ab> 
+	
+<lb/><gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_1" n="1"/><gap reason="lost" quantity="4" unit="character"/><orig>ΑΡΤΕ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_2" n="2"/><gap reason="lost" quantity="4" unit="character"/><orig>ΕΩΝΟΣ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_3" n="3"/><gap reason="lost" quantity="4" unit="character"/> <name type="vegetal"><w lemma="θύος">θύα</w></name> <w lemma="ἀπό">ἀπ’</w> <supplied reason="lost">ὧν ἂν</supplied> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύηι</supplied></w></name><supplied reason="lost">,</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="σπλάγχνον"><supplied reason="lost">σπλάγ</supplied> 
+
+<lb xml:id="line_4" n="4" break="no"/><supplied reason="lost">χν</supplied>α</w></name> τὰ <w lemma="εἰς">ἐς</w> <name type="object"><w lemma="γόνυ">γ<supplied reason="lost">όνατα</supplied></w></name> <supplied reason="lost">(καὶ χεῖρας?)</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_5" n="5"/><gap reason="lost" quantity="2" unit="character"/><orig>ΚΑΝΤΩΑΛ</orig><gap reason="lost" extent="unknown" unit="character"/> <w lemma="κατά"><supplied reason="lost">κατὰ</supplied></w> 
+
+<lb xml:id="line_6" n="6"/><w lemma="αὐτός"><supplied reason="lost">τα</supplied>ὐτά</w>· <w lemma="ὅταν">ὅταν</w> <supplied reason="lost">δὲ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="sacrifice"><w lemma="ποιέω"><supplied reason="lost">ποιῇ</supplied></w></name> <name type="genericOffering"><w lemma="ἱερός"><supplied reason="lost">ἱρ</supplied> 
+
+<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">ά</supplied></w></name><supplied reason="lost">,</supplied> <name type="portion"><w lemma="μοῖρα"><supplied reason="lost">μ</supplied>οίρας</w></name> <w lemma="δύο">δύ<supplied reason="lost">ο</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <name type="object"><w lemma="ἡμίεκτον"><supplied reason="lost">ἡμ</supplied> 
+
+<lb xml:id="line_8" n="8" break="no"/><supplied reason="lost">υσ</supplied>υκτέως</w></name> <name type="vegetal"><w lemma="ἄλφιτον">ἀ<supplied reason="lost">λφίτων</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_9" n="9"/><gap reason="lost" quantity="1" unit="character"/> <name type="object"><w lemma="ἡμίεκτον"><supplied reason="lost">ἡ</supplied>μίεκτον</w></name>, <orig>Ω</orig><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὅταν"><supplied reason="lost">ὅταν</supplied></w> <supplied reason="lost">δὲ</supplied> 
+
+<lb xml:id="line_10" n="10"/><gap reason="lost" quantity="3" unit="character"/> <name type="sacrifice"><w lemma="ποιέω">ποιῇ</w></name> <name type="sacrifice"><w lemma="ἱερός">ἱρὰ</w></name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_11" n="11"/><gap reason="lost" quantity="1" unit="character"/> <name type="sacrifice"><name type="animal" key="generic"><w lemma="δαρτός"><supplied reason="lost">δ</supplied>αρτο̑ν</w></name></name> καὶ <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_12" n="12"/><gap reason="lost" quantity="2" unit="character"/> <w lemma="τρεῖς"><supplied reason="lost">τ</supplied>ρία</w> καὶ <orig>Ο</orig><gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_13" n="13"/><gap reason="lost" quantity="2" unit="character"/>Ο <name type="animal" key="bird"><w lemma="χήν">χηνὸς</w></name> <orig>Η</orig><gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_14" n="14"/><gap reason="lost" quantity="2" unit="character"/><orig>η</orig>· <w lemma="παρά">παρὰ</w> δὲ <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_15" n="15"/><gap reason="lost" quantity="1" unit="character"/>αντων, <w lemma="μή">μὴ</w> <name type="ethnic" key="Chios"><w lemma="Χῖος">Χ<supplied reason="lost">ι</supplied></w></name><gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/> </ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+<head>Translation</head>
+<p> (Given the extremely fragmentary character of the text, no translation is attempted; see Commentary.) </p>
+			</div>
+			<div type="translation" xml:lang="fre">
+<head>Traduction </head>
+<p> (En raison du caractère très fragmentaire du texte, aucune tentative de traduction n'est proposée; voir
+	Commentary.) </p>
+			</div>
+			<div type="commentary">
+<head>Commentary</head>
+<p>The inscription is fragmentary and several passages are so obscure that they are difficult to interpret with any conviction. But the inscription does appear to belong to the wider group of regulations concerning priesthoods on Chios; cf. <ref target="http://cgrn.ulg.ac.be/CGRN_50/">CGRN 50</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_88/">CGRN 88</ref> for contracts for the sale of priesthoods. The fragment seems to be structured as a list of perquisites which are to be attributed in different circumstances: different agents (probably the polis, private individuals, foreigners, cf. lines 6-7 and 9-10) and different types of sacrifices (see below on line 11). If Plassart and Picard are right, the beginning of the text might be essentially preserved and a reference to Artemis could be detected in the traces in line 1, but this could also be part of the name of an eponymous official. The traces in line 2, which also recall the end of a month name in the genitive, might then support this hypothesis (though the calendar of Chios is imperfectly known, and there would be several possibilities for a restoration, e.g. Leukatheon or Posideon). But the character of the rituals involved in the cult raises some questions, especially if the mention of a goose in line 13 is correct (see below). </p>
+
+<p>Lines 3-4: The restorations are due to Plassart - Picard and Sokolowski respectively. On the recurrent phrases, "incense from which smoke is made" and "entrails (placed) on the knees" (and/or the hands of the divine statue), both frequently found as priestly perquisites on Chios, see <ref target="http://cgrn.ulg.ac.be/CGRN_50/">CGRN 50</ref>, lines 3-4, and <ref target="http://cgrn.ulg.ac.be/CGRN_88/">CGRN 88</ref>, lines 2-4.</p>
+
+<p>Lines 6-7: Restorations from Plassart and Picard. This passage of the fragment appears to introduce a new clause to be considered in the regulation, "when such-and-such sacrifices ...", then the priest or priestess receives a double portion of meat, as well as various measures in lines 8-9 apparently. Cp. lines 9-10 which seem to introduce a further similar clause. </p>
+
+<p>Lines 8-9: As the editors of the contract for the priesthood of Ilithyia on Chios, Matthaiou (cf. <ref target="http://cgrn.ulg.ac.be/CGRN_38/">CGRN 38</ref>) pointed out, a ἡμυσυκτέυς, or half-hekteus in the local Ionic dialect, is also to be restored here; it occurs side-by-side with the more usual form ἡμίεκτον. In fact, if the measures are identical to those of grain that the priestess of Ilithyia received, we might also think of restoring the same series here, that is to say: [ἡμ|υσ]υκτέως ἀ[λφίτων σίτ|ο ἡ]μίεκτον. This would then imply that the stoichedon length of our text was 18. But there is no way to be absolutely certain of this, and such a length is almost certainly too short for the restorations suggested in line 3. It is also odd that the grain in question should occur once after its measure and once before it.</p>
+
+<p>Line 11: Flayed animals constitute apparently another possibility envisaged in this regulation, as the genitive plural seems to indicate (e.g. ἀπὸ ... το̑ν δαρτο̑ν). For this type of sacrifice, see here <ref target="http://cgrn.ulg.ac.be/CGRN_156/">CGRN 156</ref> (Mykonos), line 25.</p>
+
+<p>Line 13: The mention of meat or other portions from a goose is surprising in the usual context of Greek sacrifice and it may have some bearing on the (foreign?) character of the cult involved in this regulation. Meat from geese is more frequently found in Hellenistic Egypt, where it regularly occurs alongside other more usual sacrificial portions from livestock, cf. e.g. <title>P.Cair. Zen.</title> 3 59381. It may be that the liver of the goose, ἧ[παρ], is to be restored here, but no certainty is possible.</p>
+
+<p>Lines 14-15: In line 14, there is apparently the introduction of another case where the priest or priestess receives perquisites: "from the..."; a group of people might be expected. At the end of the line and the beginning of line 15, accordingly, one might think of [τῶν τὰ ἱρὰ ποιη|σ]άντων as Forrest proposed, but something like [π]άντων is also possible. Here and in the phrase which follows, μὴ Χ[ι-], the sense is elusive. </p> </div>
+		</body>
+	</text>
+</TEI>

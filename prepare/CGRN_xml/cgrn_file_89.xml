@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_89" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 89</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> for Asclepius at Amphipolis</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of a white marble <rs type="objectType">stele</rs>. The stone is broken above, below, and on the right. The left side is virtually intact. The back is smoothly polished (no anathyrosis).</p>
+			<p><dimensions>
+					<height unit="cm">27</height>
+					<width unit="cm">17</width>
+					<depth unit="cm">10</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The text is inscribed non-stoichedon, with letters of the early Hellenistic period. Word division is strictly respected in the preserved lines.</p>
+				<p>The letters are <height unit="cm">1</height>, with <foreign>omicron</foreign> and <foreign>omega</foreign> <height unit="mm">6-7</height>. The interlinear space is <height unit="mm">2-5</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0350" notAfter="-0300">ca. 350-300 BC</origDate></p>
+			<p><desc>Justification: lettering (<bibl type="author_date" n="Veligianni 1994">Veligianni 1994</bibl>: 392-394). The text does not employ a Macedonian dialect, but rather koine, which supports a date after the middle of the 4th century BC.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Amphipolis" n="Central_and_Northern_Greece"><ref target="http://pleiades.stoa.org/places/501347/" type="external">Amphipolis</ref></placeName>. The stone was discovered in 1965 near an excavated colonnade. The stone had been reused in a Byzantine building; perhaps a sanctuary of Asclepius lay somewhere in this area (Bezesteni). Currently stored in the Amphipolis Museum (inv. no. Λ  694).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon and S. Peels.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 13.</p>
+					<p>Other editions: <bibl type="author_date" n="Kaftantzis 1967">Kaftantzis 1967</bibl>: 370 no. 606; <bibl type="author_date" n="Veligianni 1994">Veligianni 1994</bibl>, with ph. pl. XXIIa, and an abundantly restored version of the text.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Voutiras 1993">Voutiras 1993</bibl>: 253 with n. 12.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb/><gap extent="unknown" unit="line" reason="lost"/>
+<lb xml:id="line_1" n="1"/><gap quantity="6" unit="character" reason="lost" precision="low"/><orig><unclear>ς</unclear>θ<unclear>ε</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_2" n="2"/><gap quantity="3" unit="character" reason="lost" precision="low"/><orig>γηι</orig> <w lemma="οὗτος">ταυ<supplied reason="lost">τ</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3"/><w lemma="μηδέ"><unclear>μ</unclear><supplied reason="lost">η</supplied><unclear>δ</unclear>’</w> <w lemma="ἐγκαθεύδω">ἐγκαθε<unclear>ύ</unclear><supplied reason="lost">δειν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_4" n="4"/><w lemma="δραχμή">δραχμὴν</w> <w lemma="τελέω">τ<unclear>ε</unclear><supplied reason="lost">λεῖν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_5" n="5"/><name type="genericOffering"><name type="structure"><w lemma="ἱερός"><supplied reason="lost">ἱ</supplied>ερὸν</w></name></name> τὸμ <w lemma="βούλομαι">βο<unclear>υ</unclear><supplied reason="lost">λόμενον</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_6" n="6"/><name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θ</supplied>ύειν</w></name> τοῖς <name type="deity" key="unclear"><w lemma="θεός">θε<supplied reason="lost">οῖς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	   
+<lb xml:id="line_7" n="7"/><w lemma="ἄλλος"><unclear>ἄ</unclear>λλο</w> τι <w lemma="ἄν">ἂν</w> <orig>αυ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_8" n="8"/><w lemma="ἐγκαθεύδω"><supplied reason="lost">ἐ</supplied>γκαθεύδει<unclear>ν</unclear> </w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_9" n="9"/><name type="sacrifice"><w lemma="θύω"><unclear>θ</unclear>ύειγ</w></name> καὶ <name type="genericOffering"><w lemma="τίθημι">τιθέ<unclear>ν</unclear><supplied reason="lost">αι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	<lb xml:id="line_10" n="10"/><name type="portion"><w lemma="κωλῆ">κωλέαις</w></name> <w lemma="ἅμα">ἅμα</w> <orig>τ<unclear>ε</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_11" n="11"/>τὸ <w lemma="ἀργύριον">ἀργύριον</w> ἐπι<unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_12" n="12"/>ὃς δ’ <w lemma="ἄν">ἂμ</w> <w lemma="μή">μὴ</w> παρ<supplied reason="lost">α</supplied><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_13" n="13"/>τῶι <name type="deity" key="Asclepius"><w lemma="θεός">θεῶι</w></name>, <w lemma="διπλόος">διπλὰς</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_14" n="14"/><name type="sacrifice"><w lemma="θύω">θύηι</w></name> <name type="deity" key="unclear"><w lemma="θεός">θεῶι</w></name> <name type="epithet" key="Entemenios"><w lemma="ἐντεμένιος"/>ἐντεμ<supplied reason="lost">ενίωι</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_15" n="15"/><w lemma="τελέω">τελείτω</w> τὰ <name type="authority"><w lemma="νομίζω">νομ<supplied reason="lost">ιζόμενα</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_16" n="16"/><name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκληπιῶι</w></name> <name type="sacrifice"><w lemma="θύω"><w lemma="θυσία">θυ</w></w></name><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_17" n="17"/><unclear>τῶ</unclear>ι <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκληπιῶι</w></name> <gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_18" n="18"/><gap quantity="3" reason="lost" unit="character" precision="low"/><unclear>α</unclear>· <w lemma="ἄν"><unclear>ἂ</unclear>ν</w> δὲ <orig>Μ</orig><gap reason="lost" extent="unknown" unit="character"/> 	
+	    					
+<lb/><gap extent="unknown" unit="line" reason="lost"/>	    					
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						(Given the fragmentary character of the text, no translation is attempted; see Commentary.)	
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+						(En raison du caractère fragmentaire du texte, aucune tentative de traduction n'est proposée; voir Commentary.)
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						<p>This stele describes rules for behaviour and sacrifice in a sanctuary of Asclepius (lines 16 and 17) and another god or gods in the <foreign>temenos</foreign> (see lines 6 and 14). For conjectures about the nature of other gods associated with Asclepius here, see Veligianni, p. 399-405, who thinks that Apollo is a likely candidate; Hygieia is another possibility; cf. also Lupu, with some discussion of the possible priesthood. It may be remarked that the text, as we have it, leaves these associated god or gods unspecified (cp. <ref target="http://cgrn.ulg.ac.be/CGRN_206/">CGRN 206</ref>, Pergamon, lines 7-10). The fragmentary character of the inscription precludes any conclusion as to the exact type of regulation that we might have here, though rules relating incubation are likely (see lines 3 and 8 which mention "sleeping in", viz. the sanctuary); cp. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_75/">CGRN 75</ref> (Oropos), lines 36-48.</p>
+
+<p>Line 2: -γηι is probably the ending of subjunctive verb (so Veligianni), but an exact restoration is elusive. </p>
+
+<p>Lines 3-4: The first fragmentary line seems to deny incubation unless or until some requirement fulfilled. This may be the fee of 1 drachma that is to be paid in the next line as well as perhaps the sacrificial obligations listed in this text. Lupu draws attention to some evidence for cult fees in sanctuaries of Asclepius; a roughly contemporaneous one can be found at <ref target="http://cgrn.ulg.ac.be/CGRN_64/">CGRN 64</ref> (Epidaurus) where the priest of Asclepius receives 3 obols and other amounts from those making preliminary sacrifices (προθυόμενοι); see also here line 11.</p>
+
+<p>Line 5: The interpretation is problematic, since it is not clear whether ἱερὸν refers to the sanctuary or it qualifies an offering. The phrase τὸμ <w lemma="βούλομαι">βο<unclear>υ</unclear><supplied reason="lost">λόμενον</supplied></w>, "he who wishes", may refer to any voluntary participant in the cult but it is difficult to know what the context was. The syntax is also unclear and it may be that  τὸμ <w lemma="βούλομαι">βο<unclear>υ</unclear><supplied reason="lost">λόμενον</supplied></w> introduces (with asyndeton) a new clause in the regulation.</p>
+
+<p>Lines 9-10: The requirement in line 9 is to perform a sacrifice and probably to place or consecrate certain portions of the sacrificial animal. Regrettably, however, the lacuna prevents us from knowing whether this referred to the altar, where portions would be be burned, or to the cult table or some other place where portions of meat might be set aside. If this was connected with the description of portions in the next line, then we might be dealing with meaty (priestly?) portions rather than divine ones for the altar. The hams (<name type="portion"><w lemma="κωλῆ">κωλέαις</w></name>) of the animal are a usual γέρας, but here in the plural and dative they are somewhat surprising. Veligianni rather attractively restores from the preceding line <supplied reason="lost">σκέλη σὺν</supplied> | κωλέαις.  This would then entail substantial portions of meat, namely both hind legs of the animal with the hams attached.</p>
+
+<p>Lines 12-13: These lines appear to propose a situation where a requirement is not fulfilled, and as a result a double payment (i.e. two drachmae?) must be made to the god (Asclepius).</p>
+
+<p>Line 14: The subjunctive θύηι appears to propose the case of a sacrifice to a god other than Asclepius. The restoration of the qualifier or epithet ἐντεμένιος is made likely by the absence of an article, since one might have otherwise expected e.g. τῶι θεῶι ἐν τῶι τεμ<supplied reason="lost">ένει</supplied>. For gods associated with Asclepius, see e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_54/">CGRN 54</ref> (Piraeus). For the expression ἐντεμένιος θεός, see <ref target="http://cgrn.ulg.ac.be/CGRN_100/">CGRN 100</ref> (Miletos), lines 4-5.</p>
+
+<p>Line 15: The phrase <w lemma="τελέω">τελείτω</w> τὰ <name type="authority"><w lemma="νομίζω">νομ<supplied reason="lost">ιζόμενα</supplied></w></name> is perhaps best translated as "let him perform the customary things" or "let him fulfill the traditional rites", perhaps encompassing forms of payment and sacrifice as above.</p>		
+					</div>
+			</body>
+    	</text>
+	</TEI>

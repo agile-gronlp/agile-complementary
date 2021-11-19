@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_154" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 154</idno>: Excerpt from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> at Ialysos (concerning sacrifices of the deme of Pontoreia to Artemis)</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support><p>Small marble <rs type="objectType">stele</rs>, without any moulding, and very roughly cut on all sides; only the front face has been well prepared.</p>
+									<p><dimensions>
+										<height unit="cm">26.5</height>
+										<width unit="cm">19.5</width>
+										<depth unit="cm">7</depth>
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout><p>Letters: <height unit="cm">1-1.3</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0225" notAfter="-0175">ca. 200 BC</origDate></p>
+							<p><desc>Justification: lettering (Blinkenberg).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Ialysos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589815" type="external">Ialysos</ref></placeName>, at the site of Stazousa, northeast of the village of Archangelos. Now in the National Museum of Denmark in Copenhagen.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-06-2014 by JM Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				
+				<p>Edition here based on Blinkenberg <bibl type="abbr" n="Lindos II">Lindos II</bibl> 680, with ph. For a discussion of the problematic readings in line 5, see below, Commentary.</p>
+				
+				<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 92.</p>
+				
+				<p>Further bibliography: <bibl type="author_date" n="Segre 1951">Segre 1951</bibl>; 
+					<bibl type="author_date" n="Badoud 2015">Badoud 2015</bibl>: 11-35; 
+					<bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>: 192-197; 
+					<bibl type="author_date" n="Carbon forthc.">Carbon forthc.</bibl></p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab>
+					
+<lb xml:id="line_1" n="1"/><name type="group"><name type="ethnic" key="Pontoreis"><w lemma="Ποντωρεύς">Ποντωρέων</w></name></name>
+					
+<lb xml:id="line_2" n="2"/><name type="month"><w lemma="Ἀρτεμίσιος">Ἀρταμιτίου</w></name>
+					
+<lb xml:id="line_3" n="3"/><w lemma="εἰκάς"><del rend="erasure">ε</del>ἰκάδι</w>, <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμει</w></name>
+					
+<lb xml:id="line_4" n="4"/><w lemma="εἰς">ἐς</w> <placeName key="Phagai"><w lemma="Φαγαί">Φαγὰς</w></placeName> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name>
+					
+<lb xml:id="line_5" n="5"/>καὶ τὰ <name type="genericOffering"><w lemma="ἐφίερον">ἐφίερος</w></name> (sic) 
+					
+<lb xml:id="line_6" n="6"/><name type="sacrifice"><w lemma="θύω">θύει</w></name> <name type="personnel"><w lemma="ἱέρεια">ἰέρεια</w></name>. </ab>
+			</div>
+
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+<p>Of the Pontoreis: On the twentieth of Artamitios, for Artemis at Phagai, a goat and the sacrificial complements (or: cakes?). The priestess sacrifices them.</p>
+							</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+<p>Des Pontoreis : le 20 Artamitios, pour Artémis à Phagai, un caprin et les compléments pour le sacrifice (ou des gâteaux ?). La prêtresse les sacrifie. </p>
+			</div>
+
+			<div type="commentary">
+				<head>Commentary</head>
+				
+<p>The inscription is one of a large number of extracts from a sacrificial calendar inscribed or recodified in the late Classical or early Hellenistic period and disseminated at various local sanctuaries, presumably as punctual reminders and short regulations in and of themselves (for the early beginning of such excerpts, cf. here <ref target="CGRN_62">CGRN 62</ref> and <ref target="CGRN_63">CGRN 63</ref>, both from Lindos). The excerpts perhaps come from the general sacrificial calendar of the unified city of Rhodes, though they may also have come from the individual calendars of the consistuent parts of the Rhodian state. Most of the known examples come from Kamiros and Lindos, cf. here e.g. <ref target="CGRN_110">CGRN 110</ref> and <ref target="CGRN_115">CGRN 115</ref>, respectively. The present inscription is the only excerpt known to have come from the territory of Ialysos. For a general discussion of these excerpts, see Segre and Carbon forthc.</p>
+				
+<p> The specific attribution of the regulation further raises the question of which authority or central document it may or may not have derived from. In this case, the excerpt is explicitly attributed, by a heading in line 1, to the deme of the Pontoreis, and it concerns the cult of Artemis at a place called Phagai. The Pontoreis are known from a multitude of Rhodian inscriptions, and the deme itself, called Pontoreia, has been convincingly tied to the site of Archangelos (see Blinkenberg, citing notably Maiuri <bibl type="abbr" n="NSER">NSER</bibl> 429 ), about 10 km north of Lindos near the eastern coast of the island. Given the findspot of the inscription, northeast of the village of Archangelos, the site of Phagai seems to have been located there, which is the area north of mount Tsampika (see Blinkenberg for further discussion). An ethnic Phagaios is known from several Rhodian inscriptions, and Phagai may thus itself have formed a subdivision of community of Ialysos, perhaps a <foreign>ktoina</foreign>). It would seem that a local cult-site of Artemis was situated in this area, with a specific priestess, and under the control of the Ialysian deme of the Pontoreis. </p>
+				
+<p> Other excerpts from sacrificial calendars on the island are similarly tied to specific groups, cf. here <ref target="CGRN_117">CGRN 117</ref> (the Lakoi at Lindos); <ref target="CGRN_141">CGRN 141</ref> (an unknown tribe at Lindos); <ref target="CGRN_63">CGRN 63</ref> (ethnic name perhaps referring to an unknown subdivision at Lindos).</p>
+				
+<p>Lines 2-4: Artemis is appropriately worshipped in her eponymous springtime month of Artamitios, and the occasion in question may have been the local festival of the Artamitia. In the reconstruction of the Rhodian calendar refined by Badoud and generally adopted here (for a different view, see Iversen), Artamitios was the 9th month (ca. April/May). For the relatively frequent sacrifice of a goat to Artemis, see here <ref target="CGRN_8">CGRN 8</ref> (Eleusis), line 4; <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 42-43; and <ref target="CGRN_194">CGRN 194</ref> (Magnesia-on-the-Maiander), line 50. Note that the cult of Artemis is otherwise little known on Rhodes, except at Lindos (see e.g. <bibl type="abbr" n="Lindos II">Lindos II</bibl> 486; or <bibl type="abbr" n="IG XII.1">IG XII.1</bibl> 915).</p>
+				
+<p>Lines 3-6: The cutter has made several unusual mistakes in the inscription, apparently betraying some uncertainty about the orthography of the Rhodian Doric dialect (cf. Blinkenberg for further discussion). In line 3, the <foreign>epsilon</foreign> of εἰκάδι has been erased to obtain the Dorian form ἰκάδι. In line 5, we also find the surprising nominative form ἐφίερος. Since this must be part of the grammatical object of θύει (with the goat), the best assumption is that the cutter has made a mistake for τὰ ἐφίερα. An alternative is to read the preceding words as the contraction καἶτα, "and then", like Blinkenberg, and thus to suppose that the mistake was for the singular ἐφίερον; but contrast Sokolowski, who reads καὶ τὰ, which seems more suitable. In any case, the expected Doric form with <foreign>psilosis</foreign> would have been ἐπίαρος/ἐπίαρον (cp. Minon <bibl type="abbr" n="IED">IED</bibl> 10, line 9, for an example at Olympia, though there used of a sacred fine). Despite all of this uncertainty about the correct reading and form of the word, the sense is comparatively more certain: ἐφίερος/ἐφίερον is a word designating something that was added on top of the sacrificial animals or the ἱερά derived from them, i.e. the portions of meat and bone burnt on the altar for the deity (cp. esp. Hsch. s.v. ἐφιέρεια· τὰ ἐπὶ τοῖς ἱερείοις ἀποθυόμενα). For this general sense of "sacrificial complement", cf. <ref target="CGRN_86">CGRN 86</ref> B (Kos), lines 10-15, where various items are listed ranging from grains to cheese and wood. In some cases, the word more technically designated a form of cake burnt for this purpose: see Poll. 6.76 and cf. esp. <bibl type="abbr" n="IG II²">IG II²</bibl> 1366 (Athens), line 24: ἐφίερα τρία.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

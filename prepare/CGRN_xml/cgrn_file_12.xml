@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_12" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 12</idno>: <rs type="textType" key="purity regulation">Purity regulation</rs> (?) concerning the carrying of wine from the stadium of Delphi</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<p> Stone <rs type="objectType" key="block">wall block.</rs>
+									</p>
+									<p><dimensions>
+											<height unit="cm">35</height>
+											<width unit="cm">148</width>
+										</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+									<p>Stoichedon 24 (but 23 in line 1, see below). Inscribed surface: <width unit="cm">1.20</width>. </p>
+									<p>Letters: <height unit="cm">4</height> on average.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0530" notAfter="-0500">ca. 530-500 BC</origDate></p>
+							<p><desc>Justification: The wall to which the stone block belongs dates to the second half of the fourth century at the earliest, but the letterforms (and the potential presence of <foreign>digamma</foreign>, ϝ) suggest a much earlier date (Rougemont, CID). Miller dates the text to the late fifth century on the basis of the letterforms. Perhaps the text was created in the fourth century, but is deliberately archaising, or it may be a copy from an earlier period. Rougemont leans towards the possibility that this is a fourth-century reproduction of a fifth-century text, or that an older stone was reused in this wall (followed by Jacquemin, p. 78). On the potential presence of <foreign>digamma</foreign>: cf. the commentary at line 1. </desc></p>
+						</origin>
+						<provenance><p>
+								<placeName type="ancientFindspot" key="Delphi" n="Central_and_Northern_Greece"/><ref target="http://pleiades.stoa.org/places/540726" type="external">Delphi</ref>. Still <foreign>in situ</foreign> in the southern supporting wall of the stadium.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				<p>Edition here based on Rougemont <bibl type="abbr" n="CID I">CID I</bibl> 3. </p>
+
+				<p> Other editions: 
+					<bibl type="author_date" n="Homolle 1899">Homolle 1899</bibl>: 611-612; 
+					<bibl type="author_date" n="Keramopoullos 1906">Keramopoullos 1906</bibl>; 
+					Jacquemin - Mulliez - Rougemont <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl> 23.</p>
+
+				<p> Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 73; 
+					Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 76; 
+					van Effenterre - Ruzé <bibl type="abbr" n="Nomima II">Nomima II</bibl> 97; 
+					<bibl type="abbr" n="Körner - Hallof">Körner - Hallof</bibl> 45.</p>
+
+	<p>Further bibliography: Herzog apud <bibl type="author_date" n="Wächter 1910">Wächter 1910</bibl>: 112-113 n. 1;
+		<bibl type="author_date" n="Buck 1912">Buck 1912</bibl>; 
+		<bibl type="author_date" n="Fournier 1922">Fournier 1922</bibl>; 
+		<bibl type="author_date" n="Daux 1935">Daux 1935</bibl>: 218; 
+		<bibl type="author_date" n="Casabona 1966">Casabona 1966</bibl>: 101-102; 
+		<bibl type="author_date" n="Jacquemin 1999">Jacquemin 1999</bibl>; 
+		<bibl type="author_date" n="Decourt - Tziaphalias">Decourt - Tziaphalias 2015</bibl>; 
+		<bibl type="author_date" n="Parker - Scullion 2016">Parker - Scullion 2016</bibl>: 239-241; 
+		<bibl type="author_date" n="Georgoudi 2017">Georgoudi 2017</bibl>
+				</p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+
+				<ab>
+<lb xml:id="line_1" n="1"/> τὸν <name type="liquid"><w lemma="οἶνος"><choice><corr>ϝ</corr> <sic>ε</sic></choice>οἶνον</w></name> <w lemma="μή">με̄̀</w> <w lemma="φέρω">φάρεν</w> <w lemma="ἐκ">ἐς</w> τοῦ <name type="structure"><w lemma="δρόμος">δρ 
+
+<lb xml:id="line_2" n="2" break="no"/>όμου</w></name>· αἰ δέ <w lemma="κα">κα</w> <w lemma="φέρω">φάρει</w>, <name type="genericOffering"><w lemma="ἱλάσκομαι">hιλαξάστο</w></name>
+
+<lb xml:id="line_3" n="3"/> τὸν <name type="deity" key="generic"><w lemma="θεός">θεὸν</w></name> <w lemma="ὅς">hο̑ι</w> <w lemma="κα">κα</w> <w lemma="κεραίω">κεραίεται</w> καὶ 
+
+<lb xml:id="line_4" n="4"/><name type="sacrifice"><w lemma="μεταθύω">μεταθυσάτο</w></name> <name type="punishment"><w lemma="ἀποτίνω">κἀποτεισάτο</w></name> <w lemma="πέντε">πέν 
+
+<lb xml:id="line_5" n="5" break="no"/>τε</w> <w lemma="δραχμή">δραχμάς</w>, <w lemma="οὗτος">τούτου</w> δὲ το̑ι <w lemma="καταγορεύω">κατα 
+
+<lb xml:id="line_6" n="6" break="no"/>γορέσαντι</w> τὸ <w lemma="ἥμισυς">hέμισσον</w>. </ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				<p>No carrying wine from the racecourse. If someone carries it out, he must appease the god for whom the wine is mixed and sacrifice afterward, and pay five drachmae, of which half is for the one who reports (him/the offense).</p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				<p>Défense d'emporter le vin hors du stade. Si on en emporte, que l'on apaise le dieu en l'honneur de qui est fait le mélange et que l'on accomplisse ensuite un sacrifice et qu'on paie cinq drachmes d'amende, dont la moitié reviendra au dénonciateur.</p>
+				<p> (traduction d'après A. Jacquemin, D. Mulliez, G. Rougemont <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl>)</p>
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+<p>The inscription is a regulation against the removal of wine, prepared for making libations, from the stadium. Jacquemin et al. (in <title>Choix Delphes</title>) compare this with the prohibitions against carrying away meat from the site of sacrifice, which are frequent in the present Collection (cp. e.g. the phrase οὐκ ἀποφορά in <ref target="http://cgrn.ulg.ac.be/CGRN_59/">CGRN 59</ref>, Thera; <ref target="http://cgrn.ulg.ac.be/CGRN_85/">CGRN 85</ref>, Kos, lines 5, 7; <ref target="http://cgrn.ulg.ac.be/CGRN_128/">CGRN 128</ref>, Lissa, line 4). This seems plausible, but the text nonetheless remains distinctive and unusual in several regards. The question of the context of the inscription is problematic (see also above on Layout and Provenance). The letterforms of the inscription suggest a mid-fifth-century-BC date as would perhaps some of the linguistic particularities (see below), but the stadium at Delphi was not yet built at this date. Accordingly, Jacquemin et al. now suggest that the two best possibilities are: 1) that the stone was reused; 2) that the text was reinscribed in the new stadium using its original lettering. Of these two possibilities, the second strikes us as more likely, also since it might explain the problem with the reading in line 1 (see below). Another source of uncertainty is the rather vague phrasing in line 3, "the god for whom wine is mixed". Does this phrase suggest that a variety of gods could be honoured with libations in the stadium, or does it represent an archaic periphrasis pointing to Apollo? Again, the second option seems perhaps more plausible.</p>
+
+<p> Line 1: The stone clearly reads ΤΟΝΕΟΙΝΟΝ. Homolle interpreted this as a mistake for ΤΟΝϜΟΙΝΟΝ (τὸν ϝοῖνον) and this is now again considered a possibility by Jacquemin et al. in <title>Choix Delphes</title> who print τὸν (ϝ?)οῖνον (citing the good parallel of <bibl type="abbr" n="CID I">CID I</bibl> 10, line 22, ΕΙΔΙΑ transcribed for ϜΙΔΙΑ). Perhaps the scribe did not know the grapheme F (the stone being reinscribed when <foreign>digamma</foreign> was no longer in use) and substituted it for what was in his eyes the closest resemblance (E). Jacquemin had earlier (p. 78) argued that a simple spelling mistake was not very likely, given the care with which the stone is engraved. Instead of assuming a mistake, Fournier also suggested: τὸ(ν) νέοινον ‘the new wine’ (*νεϝοϝοινον → νεοινον, analogous to νεϝοϝοικος → νέοικος). Though there are examples of the use of new wine in cultic contexts (cf. Fournier), νέοινος remains a <foreign>hapax legomenon</foreign> and less plausible than an error due to copying. Concerning the length of the stoichedon in this line (23 letters instead of the expected 24), Keramopoullos correctly showed that the empty space between Ο and Υ is an old hollow in the stone, thus obliging the cutter to leave an empty space between o and υ. Cf. Keramopoullos for the interpretation of δρόμος as the ancient name of the stadium. Buck demonstrated that ἐς τοῦ δρόμου should be understood as ἐκ τοῦ δρόμου, since ἐς + gen. is found for ἐκ + gen. in Delphic inscriptions (e.g. <bibl type="abbr" n="CID I">CID I</bibl> 9, line 45; note that this possibility was already suggested to Wächter by Herzog).</p>
+
+<p>Line 4: Against the notion that the verb μεταθύω is a <foreign>hapax legomenon</foreign>—so recently Jacquemin et al.—a variant of the verb was already known and is now highlighted in the present Collection, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_10/">CGRN 10</ref> (Gortyn), lines 3 and 5. The verb has usually been interpreted to mean "perform the sacrifice anew" (so Homolle, Ziehen). Jacquemin et al. follow this interpretation, translating "qu'on recommence le sacrifice" ("déjà offert, mais qu'une transgression ... a rendu inefficace, impur ou inutile"). The prefix μετα- indeed might suggest the notion of "change", namely that the worshipper should modify his mode of sacrifice (Keramopoullos followed by Sokolowski), or that the new sacrifice is intended to change the attitude of the god and appease him (Fournier; Casabona, suggesting that we should take τὸν θεόν as the implicit object of μεταθυσάτο as well as that of hιλαξάστο). None of these interpretations are particularly objectionable and all appear to capture some potential nuances of the verb, though they may also overinterpret it. We note that in all attested cases of the verb (including the ones in the new regulation from Larissa/Marmarini, cf. now <ref target="http://cgrn.ulg.ac.be/CGRN_225/">CGRN 225</ref>), it typically follows a form of purification (καθαίρω); in our case from Delphi, this is an "appeasement" which may assume a similar ritual. Georgoudi has acutely noted how sacrifice usually takes place as a concluding coda—distinct from but necessary to—the accomplishment and completion of a rite of purification. Accordingly, μεταθύω appears to be an occasional <foreign>terminus technicus</foreign> for designating this form of post-purificatory sacrifice. The simplest translation and interpretation would therefore be: "sacrifice afterward" (i.e. after the purification or appeasement); van Effenterre and Ruzé had somewhat similarly suggested reading μετὰ θύσατο, reflecting this temporal sense of the preposition μετά.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

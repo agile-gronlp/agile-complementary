@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_36" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 36</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> or abbreviated <rs type="textType" key="priestly contract">contract</rs> concerning the perquisites of the priest of Zeus Pelinaios on Chios</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support>
+                            <p><rs type="objectType" key="stele">Stele</rs> of grey limestone.</p>
+                            <p><dimensions>
+                                <height unit="cm">37</height>
+                                <width unit="cm">30</width>
+                                <depth unit="cm">23</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Stoichedon 14.</p>
+                            <p>Letters: <height unit="cm">1.2</height>.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0425" notAfter="-0400">end of 5th century BC</origDate></p>
+                        <p><desc> Justification: lettering and style (Graf).</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Chios" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550497" type="external">Chios</ref></placeName>. Now in Chios Museum (inv. no. MX 81).</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-07-2014 by S Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                <p> Edition here based on <bibl type="author_date" n="Graf 1985">Graf 1985</bibl>: 429-430, I.Chios 4.</p>
+                <p> Cf.
+                    Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 129;
+                    <bibl type="abbr" n="Körner - Hallof">Körner - Hallof</bibl> no. 64;
+                    <bibl type="abbr" n="SEG">SEG</bibl> 50, 808.
+                </p>
+             
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    <lb xml:id="line_1" n="1"/><supplied reason="lost">τῷ</supplied> <name type="personnel"><w lemma="ἱερεύς">ἱέρεῳ</w></name> <name type="epithet" key="Pelinaios"><w lemma="Πελιναίος">Πελιναί
+                        
+                    <lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">ο</supplied></w></name> <w lemma="δίδωμι"><supplied reason="lost">δ</supplied>ίδοσθαι</w> <name type="portion"><w lemma="γλῶσσα">γλάσ- <space quantity="1" unit="character"/>
+                        
+                        <lb xml:id="line_3" n="3"/><supplied reason="lost">σα</supplied>ς</w></name>, <name type="portion"><w lemma="γέρας">γέρα</w></name>, <name type="portion"><name type="vegetal"><w lemma="θύος">θύα</w></name></name> <w lemma="ἀπό">ἀφ’</w> <w lemma="ὅς">ὧν</w>
+                    
+                    <lb xml:id="line_4" n="4"/><w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w> <name type="sacrifice"><w lemma="θύω">θύῃ</w></name>, <name type="portion"><w lemma="σπλάγχνον">σπλάγχνα</w></name> <space quantity="1" unit="character"/>
+                    
+                    <lb xml:id="line_5" n="5"/><w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w> <name type="object"><w lemma="γόνυ">γόνατα</w></name> καὶ <w lemma="εἰς">ἐς</w> <space quantity="1" unit="character"/>
+                    
+                    <lb xml:id="line_6" n="6"/><name type="object"><w lemma="χείρ"><supplied reason="lost">χ</supplied>έρας</w></name>, <name type="portion"><w lemma="μοῖρα">μοίρας</w></name> <w lemma="δύο">δύ<unclear>ω</unclear></w>,
+                    
+                    <lb xml:id="line_7" n="7"/><name type="portion"><w lemma="δέρος">δέρος</w></name>· <w lemma="ἐάν">ἢν</w> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱέρεως</w></name>
+                    
+                    <lb xml:id="line_8" n="8"/><w lemma="μή">μὴ</w> <w lemma="πάρειμι">πάρῃ</w>, <w lemma="βοάω">βωσάτω</w> <w lemma="εἰς"><supplied reason="lost">ἐ</supplied>ς</w>
+                    
+                    <lb xml:id="line_9" n="9"/><w lemma="τρίς">τρὶς</w> ὁ <w lemma="ἐθέλω">θέλων</w> <w lemma="γέγωνα">γεγω
+                        
+                        <lb xml:id="line_10" n="10" break="no"/>νεῖν</w> καὶ <name type="person"><w lemma="αὐτός">αὐτὸς</w></name> <w lemma="ποιέω">π<supplied reason="lost">ο</supplied>
+                    
+                        <lb xml:id="line_11" n="11" break="no"/>είτω</w> τὰ <name type="sacrifice"><w lemma="ἱερός">ἱερὰ</w></name>, <w lemma="ἄλλος">ἄλω<supplied reason="lost">ι</supplied></w>
+                    
+                    <lb xml:id="line_12" n="12"/>δὲ <w lemma="παρέχω">παρεχέτω</w> <w lemma="μηδείς">μηδ<supplied reason="lost">ε</supplied>
+                        
+                    <lb xml:id="line_13" n="13" break="no"/>νί</w>· <w lemma="ὅς">ὃς</w> <w lemma="ἄν">ἄν</w> <w lemma="τις">τι</w> <w lemma="οὗτος">τούτ<supplied reason="lost">ων</supplied></w>
+                    
+                    <lb xml:id="line_14" n="14"/><w lemma="παραβαίνω">παραβαίνῃ</w> <name type="punishment"><w lemma="εὔθυνα">εἰ<unclear>θύ-</unclear> <space quantity="1" unit="character"/>
+                        
+                        <lb xml:id="line_15" n="15"/><supplied reason="lost">νη</supplied>ν</w></name> <w lemma="πέντε">πέντε</w> <w lemma="στατήρ">στατῆ- <space quantity="1" unit="character"/>
+                            
+                    <lb xml:id="line_16" n="16"/><supplied reason="lost">ρ</supplied>ας</w> <w lemma="ἀποδίδωμι">ἀποδότω</w>. <space extent="unknown" unit="character"/>
+                 
+                </ab>
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    Give to the priest of Pelinaios tongues, honorific portions, burnt-offerings from which (5) one makes smoke, the entrails on the knees and the hands (of the statue), two portions, the skin. If the priest is absent, the one who wishes to make himself heard should call out three times, (10) and (then) make the sacrifice himself, but not to give (the sacrifices) to anyone else. The one who transgresses against any of these rules must (15) pay five staters as a punishment.
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>
+                    Que l’on donne au prêtre de Pelinaios les langues, les parts d’honneur, les offrandes à brûler (5) dont on fait des fumigations, les viscères (placés) sur les genoux et les mains (de la statue), deux portions, la peau; en cas d’absence du prêtre, que celui qui souhaite s’annoncer l’appelle trois fois à grands cris (10) et qu’il accomplisse lui-même le sacrifice; qu’on ne le permette à personne d’autre; que celui qui transgresse l’un de ces règlements verse une (15) amende de cinq statères. </p>
+                <p>(traduction J. Wilgaux)</p>
+                
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p>This regulation mostly probably belongs to a mountain cult of Zeus. The Pelinnaion is the highest mountain (1300 m) in the north of the island of Chios. Hesychius (s.v. Πελινναῖος) explains this as an epithet of Zeus. The use of epithets of Zeus without the mention of the god's name itself occur especially with chthonic and heavenly functions of Zeus (e.g. Μειλίχιος, Κεραύνιος) and this example could be seen as comparable (Graf, p. 37-39). It is not clear if the regulation emanates from the city (cf. the heavy fine as a deterrent, lines 15-16), or perhaps equally probably a subcivic group who controlled the cult of Zeus Pelinaios (cp. <ref target="http://cgrn.ulg.ac.be/CGRN_50/">CGRN 50</ref>).</p>
+                
+                <p> The inscription concerns the perquisites of the priest and discusses what the worshipper should do if the priest appears to be absent. The priests' perquisite include specific parts of the animal, incense (cf. the commentary on  <ref target="CGRN_37">CGRN 37</ref> and <ref target="CGRN_41">CGRN 41</ref>, both from Chios), the entrails which were originally offered to the god (by placing them on the hands and knees of the god's statue). As often, the priest receives parts of the animal that are specifically designated as the perquisite (the tongues, the skin) but he also receives portions (μοίραι) of the rest of the meat otherwise distributed among the participants (here, two portions).</p>
+                
+                <p>Line 3: It is not clear what the γέρα ("honorific portions") mean, since they constitute an item in a list of perquisites (rather than introducing such a list, e.g. <ref target="CGRN_86">CGRN 86</ref> D (Kos), lines 20-21, γέρη λαμβάνει ὁ ἱα-|ρεὺς· σκέλη καὶ τὰ δέρματα). On Chios we find γέρας (in singular) as part of lists of priestly perquisites (<ref target="CGRN_38">CGRN 38</ref>, line A7, and <ref target="CGRN_88">CGRN 88</ref>, line 4), and so presumably these were traditional and well-known portions.</p> 
+                
+                <p>Lines 7-11: Procedures to be undertaken if the priest is absent are prescribed in another text from Chios (<ref target="CGRN_50">CGRN 50</ref>, lines 9-14). In <ref target="CGRN_75">CGRN 75</ref> (Oropos), lines 25-28, the priest needs to be present only part-time, and the regulation prescribes sacrificial procedures in case of both his presence and absence. At <ref target="CGRN_128">CGRN 128</ref> (Lissos), line 3, whoever wishes may sacrifice. Such optionality shows us that the sacrificial rules and practices were very well known to the worshippers, who did not necessarily need a priest to help them with the ritual. 
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_24" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 24</idno>: <rs type="textType" key="dossier of regulations">Dossier of regulations</rs> of the <foreign>genos</foreign> of the Praxiergidai at Athens</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+										<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Three fragments, A-C, of a not completely orthogonal <rs type="objectType" key="stele">stele</rs> of white marble. Fragment A is intact at the top and back.  </p>
+			<p>Fragment A <dimensions>
+					<height unit="cm">20.5</height>
+					<width unit="cm">24</width>
+			</dimensions></p>
+			<p>Fragment B <dimensions>
+						<height unit="cm">10</height>
+						<width unit="cm">18.5</width>
+			</dimensions></p>
+			<p>Fragment C <dimensions>
+							<height unit="cm">19</height>
+							<width unit="cm">19.5</width>
+			</dimensions></p>
+			<p>For all fragments, the depth is variable, thickest at the center and thinnest at the margins
+					<dimensions>
+					<depth unit="cm" atLeast="3.2" atMost="6.5">3.2-6.5</depth>
+					</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Fragment A of the stele, with the top preserved, appears rightly to be the first and to mark the beginning of the text. We choose to view the disposition of fragments B and C as more uncertain than the layout that was proposed by Wilhelm and adopted in IG I³ 7.</p>
+			<p>In fragment A we have stoichedon 40 for the main text. This is followed, after an empty space of two lines, by the beginning of another text which apparently continues on fragments B and C. The gap between the last two lines of A (lines 13-14) and the fragments B and C is a lacuna of uncertain length.</p>  
+			<p>In C, the stoichedon appears to be around 32-33 as probably in line A13, though this remains uncertain. Fragment C preserves the right-hand margin of the text for several lines. The cutter has moreover made an effort to preserve syllabic or word division. C concludes with an empty space, but it is unclear whether this signifies the end of the text or a lengthy gap after a short line, as e.g. in line C9.</p>
+			<p>B is a smaller fragment, with a part of the left side of the stele preserved. Generally speaking, only a few letters (or a small vacat) have become effaced before the margin. The fragment should take its place somewhere at the left of C, but at which level is rather unclear. Its last line may preserve the empty space at the end of the text, as in C, but this does not necessarily entail that they precisely match in this regard.</p>
+				<p>Attic letters, except for omega and 4-bar sigma: <height unit="mm">9</height> in lines A1-12; in lines A13-14 and B and C, <height unit="mm">11</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0460" notAfter="-0450">ca. 460-450 BC</origDate></p>
+			<p><desc>Justification: lettering; Immerwahr, p. 108, provides a detailed description. Lewis identifies the cutter as the same that inscribed IG I³ 838 (a dedication), and perhaps 384 (a fragment of an inventory); see ad loc. for more details.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885/" type="external">Athens</ref></placeName>. Found on the acropolis. The decree in part A of the inscription states that the stele was to be set up "in the city", either in front of or behind the "ancient temple" (lines A5-6). This probably refers to the ancient poros temple of Athena Polias, which was destroyed in 480 BC during the Persian Wars, and whose foundations were left standing as a monument in front of the caryatid porch of the Erechtheion: cf. the extensive discussion of Ferrari. The stone fragments are now in the Epigraphical Museum in Athens (inv. no. 6629). </p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+		<p>Edition here based on that of Lewis <bibl type="abbr" n="IG I³">IG I³</bibl> 7, but modified to eliminate perhaps hazardous supplements and to reveal the uncertainty of the reconstruction of the overall stele. Cf. also the preliminary publication of <bibl type="author_date" n="Lewis 1954">Lewis 1954</bibl>: 17-21, with ph. pl. 3c.</p>
+					
+		<p>Other editions: 
+			<bibl type="author_date" n="Pittakis 1856">Pittakis 1856</bibl>: 1404 no. 2830 (part A only); 
+			Hiller von Gaertringen <bibl type="abbr" n="IG I²">IG I²</bibl> 80.</p>
+					
+		<p>Cf. also: 
+			Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 14; 
+			Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 15; 
+			Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 5; 
+			<bibl type="author_date" n="Robertson 2004">Robertson 2004</bibl>; <ref target="https://www.atticinscriptions.com/inscription/IGI3/7" type="external">AIO</ref>, with another translation and commentary.
+		</p>
+		
+		<p>Further bibliography: 
+			<bibl type="author_date" n="Deubner 1932">Deubner 1932</bibl>: 17-22; 
+			<bibl type="author_date" n="Woodward 1955">Woodward 1955</bibl>: 271; 
+			<bibl type="author_date" n="Wilhelm 1974">Wilhelm 1974</bibl>: 176; 
+			<bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>: 160-165; 
+			<bibl type="author_date" n="Ostwald 1986">Ostwald 1986</bibl>: 145-148; 
+			<bibl type="author_date" n="Brulé 1987">Brulé 1987</bibl>: 109-110; 
+			<bibl type="author_date" n="Henry 1989">Henry 1989</bibl>: 248-250; 
+			<bibl type="author_date" n="Immerwahr 1990">Immerwahr 1990</bibl>: 95, 108, 166-167; 
+			<bibl type="author_date" n="Parker 1996">Parker 1996</bibl>: 307-308; 
+			<bibl type="author_date" n="Lambert 1999">Lambert 1999</bibl>; 
+			<bibl type="author_date" n="Jameson 2000">Jameson 2000</bibl>: 217-227; 
+			<bibl type="author_date" n="Samons 2000">Samons 2000</bibl>; 
+			<bibl type="author_date" n="Ferrari 2002">Ferrari 2002</bibl>; 
+			<bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>: 478.</p>
+				</div>
+	    		
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				
+	    				<ab subtype="fragment" n="A">Fragment A				
+<lb xml:id="line_A1" n="A1"/><supplied reason="lost"><w lemma="δοκέω">ἔδοχσεν</w> τε̑</supplied>ι <name type="group"><w lemma="βουλή">βο<supplied reason="lost">λ</supplied>ε̑<supplied reason="lost">ι</supplied></w></name> <supplied reason="lost">καὶ το̑ι <name type="group"><w lemma="δῆμος">δέμοι</w></name>·</supplied> <gap quantity="6" unit="character" reason="lost"/> <w lemma="πρυτανεύω"><supplied reason="lost">ἐπρυτάνε</supplied>
+	
+<lb xml:id="line_A2" n="A2" break="no"/><supplied reason="lost">υε</supplied></w><supplied reason="lost">,</supplied> <gap quantity="6" unit="character" reason="lost"/><orig>ς</orig> <w lemma="γραμματεύω">ἐγραμμ<supplied reason="lost">άτευε</supplied></w><supplied reason="lost">,</supplied> <gap extent="unknown" unit="character" reason="lost" precision="low"/> <w lemma="ἐφίστημι"><supplied reason="lost">ἐπεστάτε</supplied></w><supplied reason="lost">,</supplied> <gap extent="unknown" unit="character" reason="lost"/>
+	    					
+<lb xml:id="line_A3" n="A3" break="no"/><gap quantity="1" unit="character" reason="lost"/> <w lemma="λέγω"><supplied reason="lost">εἶπε</supplied></w><supplied reason="lost">·</supplied> <w lemma="περί"><supplied reason="lost">πε</supplied><unclear>ρ</unclear>ὶ</w> ὁ̑ν <w lemma="δέω">δέο<supplied reason="lost">νται</supplied></w> <name type="group"><w lemma="Πραξιεργίδαι"><supplied reason="lost">Πραχσιεργίδαι</supplied></w></name><supplied reason="lost">,</supplied> <supplied reason="lost">τὲν</supplied> <name type="oracle"><name type="authority"><w lemma="μαντεία"><supplied reason="lost">μαντεί</supplied>
+	
+<lb xml:id="line_A4" n="A4" break="no"/><supplied reason="lost">αν</supplied></w></name></name> <supplied reason="lost">το̑</supplied> <name type="deity" key="Apollo"><w lemma="θεός"><supplied reason="lost">θ</supplied>εο̑</w></name> καὶ τὰ <name type="authority">π<unclear>ρό</unclear><supplied reason="lost">τερον</supplied></name> <gap quantity="6" unit="character" reason="lost"/> <w lemma="ἀναγράφω"><supplied reason="lost">ἀνα</supplied>
+	
+<lb xml:id="line_A5" n="A5" break="no"/><supplied reason="lost">γράφσ</supplied>αντας</w> ἐν <name type="authority"><objectType key="stele"><w lemma="στήλη">στέ<supplied reason="lost">λει</supplied></w></objectType></name> <supplied reason="lost"><w lemma="λίθινος">λιθίνει</w></supplied> <w lemma="κατατίθημι"><supplied reason="lost">καταθε̑ναι</supplied></w> <supplied reason="lost">ἐμ</supplied> <name type="locality"><w lemma="πόλις"><supplied reason="lost">πόλει</supplied></w></name>
+	    					
+<lb xml:id="line_A6" n="A6"/><gap quantity="4" unit="character" reason="lost"/>θεν το̑ <name type="structure"><w lemma="ναός">νεὸ</w> το̑ <w lemma="ἀρχαῖος">ἀρχ<supplied reason="lost">αίο</supplied></w></name><supplied reason="lost">·</supplied> <supplied reason="lost">hοι δὲ</supplied> <name type="title"><w lemma="πωλητής"><supplied reason="lost">πολεταὶ</supplied></w></name> <w lemma="ἀπομισθόω"><supplied reason="lost">ἀπομισθο</supplied>
+	
+<lb xml:id="line_A7" n="A7" break="no"/><supplied reason="lost">σάν</supplied>τον</w>· <space quantity="1" unit="character"/> τὸ δὲ <w lemma="ἀργύριον">ἀργύριο<supplied reason="lost">ν</supplied></w> <supplied reason="lost"><w lemma="δίδωμι">δόντον</w></supplied> <supplied reason="lost">hοὶ <name type="title"><w lemma="κωλακρέτης">κολακρέται</w></name></supplied> <supplied reason="lost"><w lemma="ἀπό">ἀπὸ</w></supplied>
+	    					
+<lb xml:id="line_A8" n="A8"/><supplied reason="lost">το̑ν</supplied> τε̑ς <name type="deity" key="Athena"><w lemma="θεός">θεῶ</w></name> <w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name> <gap quantity="18" unit="character" reason="lost"/> <supplied reason="lost">hο</supplied>
+	
+<lb xml:id="line_A9" n="A9" break="no"/><supplied reason="lost">ι δὲ</supplied> <name type="title"><w lemma="κωλακρέτης">κολακρέται</w></name> <w lemma="δίδωμι">διδόντον</w> <supplied reason="lost">τὸ <w lemma="ἀργύριον">ἀργύριον</w></supplied> <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A10" n="A10"/><w lemma="ὅδε"><supplied reason="lost">τά</supplied>δε</w> hο <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλων</w></name> <name type="oracle"><name type="authority"><w lemma="χράω">ἔχρεσεν</w></name></name> <supplied reason="lost"><w lemma="λωΐων">λο̑ιον</w> καὶ <w lemma="ἀμείνων">ἄμεινον</w> <w lemma="εἰμί">ἐ̑ναι</w></supplied> 
+	    					
+<lb xml:id="line_A11" n="A11"/><name type="genericOffering"><w lemma="ἀμφιέννυμι"><supplied reason="lost">ἀμ</supplied>φιεννύοσιν</w></name> τὸν <name type="clothing"><w lemma="πέπλος">πέπλον</w></name> <unclear>τ</unclear><gap quantity="12" unit="character" reason="lost"/> <supplied reason="lost">καὶ</supplied> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύοσιν</supplied></w></name>
+	    					
+<lb xml:id="line_A12" n="A12"/><name type="deity" key="Moirai"><w lemma="μοῖρα"><supplied reason="lost">Μοί</supplied>ραις</w></name>, <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <name type="epithet" key="Moiragetes"><w lemma="μοιραγέτης">Μοιρ<choice><corr>α</corr><sic>γ</sic></choice>γέτει</w></name>, <name type="deity" key="Ge"><w lemma="γῆ">Γ<supplied reason="lost">ε̑ι</supplied></w></name> <gap quantity="17" unit="character" reason="lost"/> <space unit="character" quantity="2"/>
+	    					
+<lb xml:id="line_A13" n="A13"/><w lemma="ὅδε"><supplied reason="lost">τάδε</supplied></w> <name type="authority"><w lemma="πάτριος">πάτρια</w></name> <name type="group"><w lemma="Πραξιεργίδαι">Πραχσ<supplied reason="lost">ιεργίδ</supplied></w></name><gap quantity="12" unit="character" reason="lost"/>
+	    					
+<lb xml:id="line_A14" n="A14"/><gap quantity="9" unit="character" reason="lost" precision="low"/><orig><unclear>ι</unclear>το</orig><gap quantity="21" unit="character" reason="lost" precision="low"/>
+	    					
+	    				</ab>
+	    				<ab subtype="fragment" n="B">Fragment B	
+<lb xml:id="line_B1" n="B1"/><gap quantity="5" unit="character" reason="lost" precision="low"/><orig><unclear>ε</unclear></orig><gap extent="unknown" unit="character" reason="lost"/>
+	    					
+<lb xml:id="line_B2" n="B2"/><gap quantity="2" unit="character" reason="lost"/><orig>ασεμε</orig><gap extent="unknown" unit="character" reason="lost"/>
+	    					
+<lb xml:id="line_B3" n="B3"/><gap quantity="1" unit="character" reason="lost"/> <w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="πάτριος">πάτ<unclear>ρ</unclear><supplied reason="lost">ια</supplied></w></name> <gap extent="unknown" unit="character" reason="lost"/>	    
+	    					
+<lb xml:id="line_B4" n="B4"/><gap quantity="1" unit="character" reason="lost"/> <name type="group"><w lemma="Πραξιεργίδαι"><unclear>Π</unclear><supplied reason="lost">ρ</supplied><unclear>α</unclear>χσιερ<unclear>γί</unclear><supplied reason="lost">δ</supplied></w></name><gap extent="unknown" unit="character" reason="lost"/>
+	    					
+<lb xml:id="line_B5" n="B5"/><gap quantity="4" unit="character" reason="lost"/> <name type="group"><w lemma="Πραξιεργίδαι">Πραχσι<unclear>ερ</unclear><supplied reason="lost">γίδ</supplied></w></name><gap extent="unknown" unit="character" reason="lost"/>
+	    					
+<lb xml:id="line_B6" n="B6"/><gap quantity="4" unit="character" reason="lost"/> <w lemma="διμναῖος">δίμνον</w> <orig>χ<unclear>ι</unclear></orig><gap extent="unknown" unit="character" reason="lost"/>
+	    					
+<lb/><space quantity="1" unit="line"/>
+	    				</ab>
+	    				
+	    		<ab subtype="fragment" n="C">Fragment C
+<lb xml:id="line_C1" n="C1"/><gap quantity="28" unit="character" reason="lost" precision="low"/> <w lemma="παρέχω"><supplied reason="lost">π</supplied>αρέ
+	
+<lb xml:id="line_C2" n="C2" break="no"/><supplied reason="lost">χεν</supplied></w> <gap quantity="11" unit="character" reason="lost" precision="low"/> <name type="group"><w lemma="Πραξιεργίδαι"><supplied reason="lost">Πραχσιεργί</supplied><unclear>δα</unclear>ις</w></name> <space quantity="4" unit="character"/>
+	    			
+<lb xml:id="line_C3" n="C3"/><gap quantity="21" unit="character" reason="lost" precision="low"/> <supplied reason="lost">τὸ</supplied> δὲ <name type="portion"><w lemma="κῴδιον">κοίδιον</w></name>
+	    			
+<lb xml:id="line_C4" n="C4"/><gap quantity="22" unit="character" reason="lost" precision="low"/><unclear>ν</unclear>αι <w lemma="κατά">κατὰ</w> τὰ <space quantity="1" unit="character"/>
+	
+<lb xml:id="line_C5" n="C5"/><name type="authority"><w lemma="πάτριος"><supplied reason="lost">πάτρια</supplied></w></name> <gap quantity="16" unit="character" reason="lost"/> <w lemma="παρέχω"><supplied reason="lost">π</supplied>αρέχεν</w> <space quantity="4" unit="character"/> 
+	    			
+<lb xml:id="line_C6" n="C6"/><gap quantity="23" unit="character" reason="lost"/><orig>ω</orig> δὲ <name type="month"><w lemma="Θαργήλια">Θαργελι
+	
+<lb xml:id="line_C7" n="C7" break="no"/><supplied reason="lost">ο̑νος</supplied></w></name> <gap quantity="18" unit="character" reason="lost"/> <w lemma="τρίτος"><supplied reason="lost">τ</supplied><unclear>ρ</unclear>ίτες</w> <w lemma="δίδωμι">διδόνα<unclear>ι</unclear></w>
+	    			
+<lb xml:id="line_C8" n="C8"/><gap quantity="19" unit="character" reason="lost"/> <supplied reason="lost">τὸ</supplied>ν <name type="title"><w lemma="ἄρχων">ἄρχοντα</w></name> <space quantity="3" unit="character"/> 
+<lb xml:id="line_C9" n="C9"/><gap quantity="19" unit="character" reason="lost"/> <space quantity="1" unit="line"/>
+	    			
+<lb xml:id="line_C10" n="C10"/><gap quantity="19" unit="character" reason="lost"/> <name type="genericOffering"><w lemma="ἀμφιέννυμι">ἀμφιεννύ
+	
+<lb xml:id="line_C11" n="C11" break="no"/><supplied reason="lost">ναι</supplied></w></name> <gap quantity="18" unit="character" reason="lost"/> <name type="punishment"><w lemma="ἀποτίνω"><supplied reason="lost">ἀπο</supplied><unclear>τ</unclear>ίνεν</w></name>
+	    			
+<lb/><space quantity="1" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						Fragment A </p>
+<p>It was decided by the council and the people, [...  was president, ... was secretary, ... was supervisor, ... proposed]: regarding the requests made by the Praxiergidai, having inscribed the oracle of the god and the previous (documents) [...] (5) on a stone stele, [that this be set up on the Acropolis] in front/behind (?) the ancient temple. And the <foreign>poletai</foreign> are to contract it out, and [the money] is to be paid by the <foreign>kolakretai</foreign> from the funds of the goddess according to the ancestral customs [...] And the <foreign>kolakretai</foreign> are to regularly give [the money ...]</p>
+	    				
+<p>(10) Apollo prophesied the following things: [that it is better and more good] for them to clothe the [...] with the peplos [... and for them to sacrifice] to the Moirai, to Zeus Moiragetes, to Ge [...]</p>
+	    				<p>(For B and C, see Commentary)</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					
+					<p>Fragment A </p>
+<p>Il a plu au conseil et au peuple, [... étant président, ... secrétaire, ... superviseur, ... a fait la proposition] : concernant les requêtes des Praxiergides, qu'ayant inscrit l'oracle du dieu et les [...] antérieurs (5) sur une stèle de marbre, que celle-ci soit érigée [sur l'Acropole], devant/derrière (?) l'ancien temple. Et les polètes en dresseront le contrat, et l'argent [doit être versé par les kolakrètes] à partir de la caisse de la déesse selon les coutumes ancestrales [...] Et les kolakrètes doivent périodiquement donner [de l'argent?...]</p>
+					
+<p>(10) Apollon a rendu l'oracle suivant : [qu'il soit meilleur et plus avantageux] qu'ils habillent [...] avec le péplos [... et qu'ils sacrifient] aux Moires, à Zeus Moiragète, à Gè [...]</p>
+					
+					<p>(Pour les fragments B et C, voir Commentary)</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>The fragmentary inscription has stimulated a number of conjectures and speculations. We know little about the <foreign>genos</foreign> of the Praxiergidai, save that their cultic responsabilities and privileges appear to have been quite important to the <foreign>polis</foreign> of Athens. The city has granted the <foreign>genos</foreign> the right to set up an oracle confirming its prerogatives as well as a more lengthy but fragmentary text defining its ancestral customs (<foreign>patria</foreign>). The context or motivation for this request and grant by the city are unclear. As we gather from this inscription, the primary cultic function of the <foreign>genos</foreign>, invoked both by the oracle (line A11) and by the <foreign>patria</foreign> (lines C10-11), was the clothing of the statue of the goddess Athena. This is also what Hesychius reports s.v. Πραξιεργίδαι: οἱ τὸ ἕδος τὸ ἀρχαῖον τῆς Ἀθηνᾶς ἀμφιεννύντες. This gloss echoes quite directly the inscription, in referring both to an "ancient seat" for the goddess (cp. the ancient temple, το̑ νεὸ το̑ ἀρχ[αίο], line A6), and to the verb ἀμφιέννυμι to designate this action of clothing. Another source (Plut. <title>Alc.</title> 34.1) mentions the secret ritual activity (ὄργια ... ἀπόρρητα) of the Praxiergidai during the Plynteria, perhaps contemporaneously with this clothing ritual; see below for the date mentioned in fragment C.</p>
+	
+<p>Lines A3-4: Apparently the Praxiergidai petitioned the city for the inscribing of an oracle "of the god" (this can only be an oracular Apollo, probably of Delphi), as well as another type of authority, a text or a tradition. What this other "previous" material consisted of has been lost in the lacuna. Lewis restores καὶ τὰ πρ̣ό̣[τερον αὐτοῖς ἐφσεφισμένα], which is certainly a phrase that one would expect in an Athenian decree. However, this is manifestly not what was actually inscribed on the stele after the oracle. Indeed, later, we find that the heading for the next text qualifies it explicitly as the <foreign>patria</foreign> (ancestral customs) of the Praxiergidai: see line A13. If the restoration of Lewis were correct, and the <foreign>patria</foreign> had been confirmed by an earlier vote of the council and the assembly (Ostwald, p. 147), would we not then expect these <foreign>patria</foreign> to be inscribed here qua decrees (ψηφίσματα)? The precise restoration remains elusive, though some sort of reference to earlier practice or to ancestral tradition is likely.</p>
+	
+<p>Lines A5-6: See above for the ancient temple and the setting up of the stele. The almost universally adopted restoration [ὄπισ]θεν, "behind", ought to be treated with caution since [πρόσ]θεν, "in front of", is equally possible.</p>
+	
+<p>Lines A6-9: The stipulation that the <foreign>poletai</foreign> are to contract out the inscribing of the stele is usual, and it is normally followed by the requirement that the <foreign>kolakretai</foreign> provide the money for this contract. Henry (p. 251) points to several examples of the formulation τὸ δὲ ἀργύριον δόντον hοὶ κολακρέται, where the aorist is always used, and this is almost certainly what we have here. Unusually, however, the following phrase in line A8 indicates where this money came from in this case: the treasury or account of the goddess Athena "according to the ancestral customs". This perhaps contrasts a traditional source for the money with the new <foreign>demosios</foreign> fund which was being established in the course of the fifth century BC at Athens: Samons, p. 55ff. Another payment is then envisaged in the last two lines, but this must be of a different kind, since the present διδόντον (instead of the aorist δόντον) must be significant in terms of aspectual difference (well noted by Henry, p. 250, as well by Lewis, who implausibly supposed a dittography). Therefore, this phrase must refer to an iterative, regular sort of payment: cp. <bibl type="abbr" n="IG I³">IG I³</bibl> 136, line 36 (413/2 BC). The substantial lacuna at the end of line A8, however, precludes us from knowing exactly what this payment referred to.</p>
+	
+<p>Line A10: This line is a heading introducing the first document which the Praxiergidai requested be inscribed. Before the gap, Lewis reads traces of a <foreign>nu</foreign>. Ziehen notes that the trace is actually damage to the stone and doubts a <foreign>nu</foreign> (von Prott in his notes apud Ziehen had suggested an uncertain <foreign>nu</foreign>). Sokolowski interprets the possible diagonal "/" trace as <foreign>alpha</foreign>, thus suggesting merely ἄ̣[μεινον], which is only rarely found by itself in oracular formulations (cf. <bibl type="abbr" n="Milet I.3">Milet I.3</bibl> 150, though not a direct quotation of the oracle). We adopt and modify Wilhelm's supplement apud Ziehen, [λο̑ιον ἐ̑ναι καὶ ἄμεινον] (also adopted by Le Guen-Pollet). This is an <foreign>exempli gratia</foreign> restoration with a more correct word order. This is the most standard oracular formulation which fits the available space, but it does not leave any room for an indirect object such as the Praxiergidai or αὐτοῖς; however, this is clearly implied in the following dative plural participles. </p>
+						
+<p>Line A11: As discussed briefly above, the primary command of Apollo is that the Praxiergidai clothe the statue of the goddess Athena, and here the <foreign>peplos</foreign> used to do this is explictly mentioned. The verb ἀμφιέννυμι takes a double-accusative complement. Lewis restores τ̣[ὲν θεὸν], which is certainly possible and would presumably designate the cult statue, but τ̣[ὸ hέδος], following the phrasing of Hesychius, would take up the same amount of space. However, τ̣[ὲν θεὸν] might emphasise the goddess and the embodiment of her statue, while τ̣[ὸ hέδος] would point to her physical seat.</p>
+						
+<p>Lines A11-12: The restoration at the end of line 11 is uncertain. The standard supplement is [καὶ προθύοσιν], implying a form of preliminary sacrifice. But we cannot be sure if this is what Apollo prescribed, and as far as we can tell, oracles do not usually recommend προθύματα. The oracle provides a list of gods to be honoured, which is probably incomplete: it is unclear what the innovative character of this list is, i.e. whether the oracle prescribed new or traditional gods for the <foreign>genos</foreign>. The Moirai begin this cohort; cf. Brulé for an interpretation of these goddesses as the Kekropidai (again citing Hsch. s.v.). Zeus Moiragetes is sometimes attested; cf. Paus. 10.24.4 for an occurence at Delphi. Ge is sometimes cited in such oracular lists, cf. e.g. <bibl type="abbr" n="FD III.3">FD III.3</bibl> 343, line 5 (2nd century BC oracles for Kyzikos). In the remaining lacuna, other gods may have been listed. Heracles is a good possibility: for an altar erected to him by the Praxiergidai (ca. 350 BC), see Lambert (p. 124) and Jameson.</p>
+
+<p>Line B6: It is unclear whether we should interpret the first word as <w lemma="διμναῖος">δίμνον</w> (so Woodward, adopted by Lewis in <bibl type="abbr" n="IG I³">IG I³</bibl> 7), or perhaps as part of a measure [μέ]διμνον (originally in Lewis 1954 ad loc.). Probably this somehow relates to the obligations of provisioning (παρέχεν, lines C1-2, C5) which are discussed in the next fragment. </p>
+							
+<p>Line C3: The (at first glance) innocuous mention of a fleece, κοίδιον, in these extremely fragmentary lines, has stimulated much speculation. One may be skeptical about following Ziehen (and now Robertson) in supposing a reference to the ritual of the Διὸς κοίδιον. A more straigthforward explanation, based solely on the elements provided by the text,  would be that a sacrificial fleece of some sort must be furnished from which the new <foreign>peplos</foreign> used by the Praxiergidai will be woven.</p>
+							
+<p>Lines C6-8: The date introduced in these lines is controversial, especially if one attempts to correlate it to the festivals of the Kallynteria or the Plynteria, in which the Praxiergidai were involved (sources discussed in Mikalson). No precise agreement exists on the date of these festivals: Plutarch gives 25 Thargelion; Photius, 29 Thargelion, which is problematic because it does not appear to have been a ἡμέρα ἀποφράς (meetings of the <foreign>ekklesia</foreign> are attested on that day, cf. again Mikalson). The possibility of a definite article, [τ]ῶ (so Lewis, Robertson), preceding the month is virtually unparalleled, and may be thought somewhat suspect. A restoration of φθίνοντος ("waning", i.e. indicating the end of the month) in the lacuna following the month is likely, since we are probably in the general context of these festivals of the Kallynteria and Plynteria, which took place during the final days of the month. But we would expect φθίνοντος to be preceded by the ordinal number of the date, not followed by the problematic genitive τρίτες. Perhaps some sort of deadline can be envisaged (cp. e.g. [ἄχρι τε̑ς τ]ρ̣ίτες, proposed by Lewis). But many questions remain unanswered: what is the <foreign>archon</foreign> to give to the <foreign>genos</foreign> around this time? (keys for opening the temple, grain/food?). The lacunae are probably too large and can only be imaginatively restored. For brief but balanced discussions of the festival of the Plynteria, see Parker 1996 and 2005a.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_35" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 35</idno>: <rs type="textType" key="funerary regulation">Funerary laws</rs> from Iulis on Keos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>White marble <rs type="objectType">stele</rs>, broken at the lower part. Damaged at the upper right corner.</p>
+				<p><dimensions>
+					<height unit="cm">48</height>
+					<width unit="cm">35-39</width>
+					<depth unit="cm">15</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Stoichedon 32, except for line 17, which was erased by the scribe and then re-inscribed with more narrowly spaced letters. Inscribed on three sides: the front, the back and one of the sides. The back is mostly illegible and not stoichedon: about 32 effaced lines seem to be visible. The texts on the right side and on the back are separate decrees, as the formulas at the start of each (ἔδοξεν τῆι βουλῆι etc.) show; these seem to be later than the text on the front face. The texts on the front (A) and on the side (B) are described below, while the back is not included.</p>
+			<height/>
+				<p>Space between horizontal and vectical <foreign>stoichoi</foreign> on side A <width unit="mm">6</width>. The small decree on side B has stoichedon max. 10.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0425" notAfter="-0400">ca. 425-400 BC</origDate></p>
+			<p><desc>Justification: dialect: Ionian with a few Attic influences; the supplementary decree is written in the Attic dialect and probably belongs to the second half of the 4th century BC (Frisone, p. 57 and 64 following SGDI). </desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Iulis" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/570314" type="external">Iulis</ref></placeName> on Keos. Now in the Epigraphical Museum in Athens (inv. no. 11557).</p></provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon and S. Peels.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by J.-M. Carbon in 2019.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG XII,5">IG XII.5</bibl> 593, and especially his facsimile. We print only fairly secure or intelligible letter traces.</p> 
+<p>Other edition: <bibl type="author_date" n="Koehler 1876">Koehler 1876</bibl> </p>
+
+					<p> Cf. also:
+						Bechtel <bibl type="abbr" n="SGDI">SGDI</bibl> 5398; 
+						Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 93; 
+						<bibl type="author_date" n="Buck 1910">Buck 1910</bibl>: no. 28;
+						Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 97; 
+						<bibl type="abbr" n="Körner - Hallof">Körner - Hallof</bibl> no. 60;
+						<bibl type="abbr" n="SEG">SEG</bibl> 49, 1128;
+						<bibl type="author_date" n="Frisone 2000">Frisone 2000</bibl>: 57-102.
+					</p>
+					<p> Further bibliography: 
+						<bibl type="author_date" n="Bergk 1860">Bergk 1860</bibl>: 468;
+						Roehl <bibl type="abbr" n="IGA">IGA</bibl> 395a;
+						<bibl type="author_date" n="Hoffmann 1898">Hoffmann 1898</bibl>: 22-26;
+						<bibl type="author_date" n="Bannier 1925">Bannier 1925</bibl>;
+						<bibl type="author_date" n="Klaffenbach 1948">Klaffenbach 1948</bibl>: 372-373;
+						<bibl type="author_date" n="Parker 1983">Parker 1983</bibl>: 34-41, 228-229;
+						<bibl type="author_date" n="Garland 1989">Garland 1989</bibl>;
+						<bibl type="author_date" n="Engels 1998">Engels 1998</bibl>: 60-64;
+						<bibl type="author_date" n="Hölkeskamp 1999">Hölkeskamp 1999</bibl>: 146-148.	
+						
+					</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="face" n="A">Face A 
+
+<lb xml:id="line_A1" n="A1"/> <w lemma="ὅδε">οἵδε</w> <name type="authority"><w lemma="νόμος">νό<supplied reason="lost">μ</supplied>οι </w></name> <w lemma="περί">περὶ</w> τῶγ <name type="death"><w lemma="καταφθίνω">κατ<supplied reason="lost">α</supplied>φθι<supplied reason="lost">μέ</supplied>νω<supplied reason="lost">ν·</supplied></w></name> <supplied reason="lost"><w lemma="κατά">κατὰ</w></supplied>
+
+<lb xml:id="line_A2" n="A2"/> <w lemma="ὅδε"><supplied reason="lost">τ</supplied><unclear>ά</unclear>δε</w> <name type="death"><w lemma="θάπτω">θά<supplied reason="lost">πτ</supplied>εν</w></name> τὸν <name type="death"><w lemma="θνῄσκω">θανόντα</w></name>· <w lemma="ἐν">ἐν</w> <name type="clothing"><w lemma="ἱμάτιον"> ἑμ<unclear>α</unclear>τίο<supplied reason="lost">ις</supplied></w></name> <w lemma="τρεῖς"><supplied reason="lost">τρ</supplied>
+	    						
+<lb xml:id="line_A3" n="A3" break="no"/> <supplied reason="lost">ι</supplied>σὶ</w> <name type="colour2"><w lemma="λευκός">λευκοῖς</w></name>, <name type="clothing"><w lemma="στρῶμα">στρώματι</w></name> καὶ <name type="clothing"><w lemma="ἔνδυμα">ἐνδύματι</w></name> <supplied reason="lost">καὶ</supplied> 
+	    					
+<lb xml:id="line_A4" n="A4"/> <name type="clothing"><w lemma="ἐπίβλημα"><supplied reason="lost">ἐ</supplied>πιβλέματι</w></name>· <w lemma="ἔξειμι">ἐξε̑ναι</w> δὲ καὶ <w lemma="ἐν">ἐν</w> <w lemma="ἐλάσσων">ἐλάσ<supplied reason="lost">σ</supplied>οσ<supplied reason="lost">ι</supplied></w> <w lemma="μή"><supplied reason="lost">μ</supplied>
+	    						
+<lb xml:id="line_A5" n="A5" break="no"/> <supplied reason="lost">ὲ</supplied> </w> <w lemma="πλείων">πλέονος</w> <w lemma="ἄξιος">ἀξίοις</w> τοῖς <w lemma="τρεῖς">τρισὶ</w> <w lemma="ἑκατόν">ἐκατὸν</w> <w lemma="δραχμή">δ<supplied reason="lost">ρα</supplied>
+	    							
+<lb xml:id="line_A6" n="A6" break="no"/> <supplied reason="lost">χ</supplied>μέων·</w> <w lemma="ἐκφέρω">ἐχφέρεν</w> δὲ <w lemma="ἐν">ἐγ</w> <name type="object"><w lemma="κλίνη">κλίνηι</w></name> <name type="quality"><w lemma="σφηνόπους">σφ<supplied reason="lost">η</supplied>νόπο<supplied reason="lost">δ</supplied>ι</w></name> <supplied reason="lost">κ</supplied>
+	    					
+<lb xml:id="line_A7" n="A7" break="no"/> <supplied reason="lost">α</supplied>ὶ <w lemma="μή">μὲ</w> <w lemma="καλύπτω">καλύπτεν</w> <unclear>τ</unclear>ὰ <orig>δο<unclear>λ</unclear><gap reason="lost" quantity="1" unit="character"/>σ<gap reason="lost" quantity="1" unit="character"/><unclear>ε</unclear>ρ<unclear>ια</unclear></orig> τοῖ<supplied reason="lost">ς</supplied> <name type="clothing"><w lemma="ἱμάτιον"><supplied reason="lost">ἑματ</supplied>     		
+	    						
+<lb xml:id="line_A8" n="A8" break="no"/> ίοι<unclear>ς</unclear></w></name>· <w lemma="φέρω">φέρεν</w> δὲ <name type="liquid"><w lemma="οἶνος">οἶνον</w></name> <w lemma="ἐπί">ἐπὶ</w> τὸ <name type="structure"><w lemma="σῆμα">σῆμα</w></name> <w lemma="μή"><supplied reason="lost">μ</supplied>ὲ</w> <w lemma="πλείων"><supplied reason="lost">πλέον</supplied></w>
+
+<lb xml:id="line_A9" n="A9"/> <w lemma="τρεῖς">τριῶν</w> <w lemma="χοῦς">χῶν</w> καὶ <name type="liquid"><w lemma="ἔλαιον">ἔλαιον</w></name> <w lemma="μή">μὲ</w> <w lemma="πλείων">πλέο<supplied reason="lost">ν</supplied></w> <w lemma="εἷς">ἑ<unclear>ν</unclear>ό<supplied reason="lost">ς,</supplied></w> <supplied reason="lost">τὰ δὲ</supplied>
+	    					
+<lb xml:id="line_A10" n="A10"/> <name type="object"><w lemma="ἀγγεῖα"><supplied reason="lost">ἀ</supplied>γγεῖ<unclear>α</unclear></w></name> <w lemma="ἀποφέρω">ἀποφέρεσθαι</w>· τὸν <name type="death"><w lemma="θνῄσκω">θανό<supplied reason="lost">ν</supplied>τα</w></name> <w lemma="φέρω"><supplied reason="lost">φέρεν</supplied></w>
+	    					
+<lb xml:id="line_A11" n="A11"/><w lemma="κατακαλύπτω"><supplied reason="lost">κ</supplied>ατακεκαλυμμένον </w> <w lemma="σιωπή">σιωπῆι</w> <w lemma="μέχρι">μέχρι</w> <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <supplied reason="lost">τὸ</supplied>
+	    					
+<lb xml:id="line_A12" n="A12"/> <name type="structure"><w lemma="σῆμα"><supplied reason="lost">σ</supplied>ῆμα·</w></name> <name type="sacrifice"><w lemma="προσφάγιον">προσφαγίωι</w></name> <w lemma="χράω"><supplied reason="lost">χ</supplied>ρε̑σθαι</w> <w lemma="κατά"><supplied reason="lost">κ</supplied>ατὰ</w> <unclear>τ</unclear>ὰ <name type="authority"><w lemma="πάτριος">π<supplied reason="lost">άτρι</supplied>
+	    						
+<lb xml:id="line_A13" n="A13" break="no"/><supplied reason="lost">α</supplied></w></name><supplied reason="lost">·</supplied> <supplied reason="lost">τ</supplied>ὴγ <name type="object"><w lemma="κλίνη">κλίνην</w></name> <w lemma="ἀπό">ἀπὸ</w> το<supplied reason="lost">ῦ</supplied> <name type="structure"><w lemma="σῆμα">σ<supplied reason="lost">ήμα</supplied>το<supplied reason="lost">ς</supplied></w></name> <unclear>κα</unclear>ὶ τ<unclear>ὰ</unclear> <name type="clothing"><w lemma="στρῶμα">σ<supplied reason="lost">τρώ</supplied>
+	
+<lb xml:id="line_A14" n="A14" break="no"/><supplied reason="lost">μ</supplied><unclear>α</unclear>τ<unclear>α</unclear></w></name> <w lemma="εἰσφέρω">ἐσφέρεν</w> <w lemma="εἴσω">ἐνδόσε</w>, τῆι δὲ <w lemma="ὑστεραῖος">ὑστεραί<supplied reason="lost">ηι</supplied></w> <name type="purification"><name type="liquid"><w lemma="διαρραίνω"><supplied reason="lost">δι</supplied>
+	
+<lb xml:id="line_A15" n="A15" break="no"/><supplied reason="lost">α</supplied><unclear>ρ</unclear>ραίνεν</w></name></name> τὴν <name type="structure"><w lemma="οἰκία">οἰκίην</w></name> <name type="person"><w lemma="ἐλεύθερος"><supplied reason="lost">ἐ</supplied>λεύθερον</w></name> <name type="liquid"><w lemma="θάλασσα">θ<unclear>α</unclear>λ<unclear>ά</unclear><supplied reason="lost">σση</supplied>
+	
+	<lb xml:id="line_A16" n="A16" break="no"/><supplied reason="lost">ι</supplied></w></name> <w lemma="πρότερος">πρῶτον</w>, <w lemma="ἔπειτα">ἔπειτα</w> <unclear>δ</unclear><supplied reason="lost">ὲ</supplied> <name type="vegetal"><w lemma="ὕσσωπος"><unclear>ὑσ</unclear>ώπωι</w></name> <name type="structure"><w lemma="οἰκητήριον">ο<supplied reason="lost">ἰκη</supplied>τή<supplied reason="lost">ρ</supplied>ι<supplied reason="lost">α</supplied></w></name> <w lemma="ἅπας"><supplied reason="lost">ἅπ</supplied>
+	
+<lb xml:id="line_A17" n="A17" break="no"/><add place="overstrike"><supplied reason="lost">α</supplied>ντα</add></w><add place="overstrike">· <w lemma="ἐπάν">ἐπὴν</w> δὲ <name type="purification"><w lemma="διαρραίνω">διαρανθῆι</w></name>, <name type="purification"><w lemma="καθαρός">καθαρὴν</w></name> <w lemma="εἰμί">ἐ̑ναι</w> τὴν <name type="structure"><w lemma="οἰκία">οἰκίην</w></name> καὶ <name type="vegetal"><w lemma="θύον">θύη</w></name> <name type="sacrifice"><w lemma="θύω">θύεν</w></name></add> <name type="structure"><w lemma="ἐφέστιος"><add place="overstrike">ἐφί<supplied reason="lost">στι</supplied></add>
+	    					
+<lb xml:id="line_A18" n="A18" break="no"/> <supplied reason="lost">α</supplied></w></name>· τὰς <name type="person"><w lemma="γυνή">γυναῖκας</w></name> τὰς <w lemma="εἰμί"><supplied reason="lost">ἰ</supplied>ούσ<supplied reason="lost">α</supplied>ς</w> <w lemma="ἐπί"><supplied reason="lost">ἐ</supplied>πὶ</w> τὸ <name type="death"><w lemma="κῆδος">κῆδ<supplied reason="lost">ος</supplied></w></name> <gap reason="lost" quantity="1" unit="character"/>
+	    					
+<lb xml:id="line_A19" n="A19"/> <w lemma="ἄπειμι"><unclear>ἀ</unclear>πιέ<supplied reason="lost">ν</supplied>αι</w> <w lemma="πρότερος">προτέρας</w> τῶν <name type="person"><w lemma="ἀνήρ"><surplus>αν</surplus>ἀνδρῶν</w></name> <w lemma="ἀπό">ἀπὸ</w> <supplied reason="lost">τοῦ</supplied>
+	    					
+<lb xml:id="line_A20" n="A20"/> <name type="structure"><w lemma="σῆμα"> <supplied reason="lost">σ</supplied>ήματος</w></name>· <w lemma="ἐπί">ἐπὶ</w> τῶι <name type="death"><w lemma="θνῄσκω">θανόντι</w></name> <w lemma="τριακόστια">τριηκόσ<supplied reason="lost">τια</supplied></w> <w lemma="μή"><supplied reason="lost">μὲ</supplied></w>
+	    					
+<lb xml:id="line_A21" n="A21"/> <w lemma="ποιέω"><supplied reason="lost">π</supplied>οιε̑ν</w>. <w lemma="μή">μὲ</w> <w lemma="ὑποτίθημι">ὑποτιθέναι</w> <name type="object"><w lemma="κύλιξ">κύλικα</w></name> <w lemma="ὑπό">ὑπὸ</w> τὴ<supplied reason="lost">γ</supplied> <name type="object"><w lemma="κλίνη"><supplied reason="lost">κλί</supplied> 
+	
+<lb xml:id="line_A22" n="A22" break="no"/> <supplied reason="lost">ν</supplied>ην</w></name>, <w lemma="μηδέ">μεδὲ</w> τὸ <name type="liquid"><w lemma="ὕδωρ">ὕδωρ</w></name> <name type="liquid"><w lemma="ἐκγέω">ἐκχε̑ν</w></name> <w lemma="μηδέ">μεδὲ</w> τὰ <w lemma="κάλλυσμα">καλλύ<supplied reason="lost">σμα</supplied>
+	    					
+<lb xml:id="line_A23" n="A23" break="no"/> τα</w> <w lemma="φέρω">φέρεν</w> <w lemma="ἐπί">ἐπὶ</w> τὸ <name type="structure"><w lemma="σῆμα">σῆμα</w></name>· <w lemma="ὅπου">ὅπου</w> <w lemma="ἄν">ἂν</w> <name type="death"><w lemma="θνῄσκω">θάνηι</w></name>, <w lemma="ἐπάν"><unclear>ἐπ</unclear><supplied reason="lost">ὴν</supplied></w> <w lemma="ἐκφέρω"><supplied reason="lost">ἐ</supplied>
+	    			
+<lb xml:id="line_A24" n="A24" break="no"/>ξενιχθε̑ι</w>, <w lemma="μή">μὲ</w> <w lemma="εἶμι">ἰέναι</w> <name type="person"><w lemma="γυνή">γυναῖκας</w></name> <w lemma="πρός">π<supplied reason="lost">ρὸ</supplied>ς</w> τ<supplied reason="lost">ὴν</supplied> <name type="structure"><w lemma="οἰκία"><supplied reason="lost">οἰ</supplied>
+	    				
+<lb xml:id="line_A25" n="A25" break="no"/> κίην</w></name> <w lemma="ἄλλος">ἄλλας</w> <w lemma="ἤ">ἒ</w> τὰς <name type="purification"><w lemma="μιαίνω">μιαινομένας</w></name>· <name type="purification"><w lemma="μιαίνω">μι<unclear>α</unclear><supplied reason="lost">ίνεσθ</supplied> 
+	    				
+<lb xml:id="line_A26" n="A26" break="no"/><supplied reason="lost">α</supplied>ι</w></name> δὲ <name type="person"><w lemma="μήτηρ">μητέρα</w></name> καὶ <name type="person"><w lemma="γυνή">γυναῖκα</w></name> καὶ <name type="person"><w lemma="ἀδελφή">ἀδε<supplied reason="lost">λφεὰς</supplied></w></name> <supplied reason="lost">κ</supplied>   
+					
+<lb xml:id="line_A27" n="A27" break="no"/><supplied reason="lost">α</supplied>ὶ <name type="person"><w lemma="θυγάτηρ">θυγατέρας</w></name>· <w lemma="πρός">πρὸς</w> δὲ <w lemma="οὗτος">ταύταις</w> <w lemma="μή">μὲ</w> <w lemma="πλείων">π<supplied reason="lost">λέον</supplied></w> <w lemma="πέντε"><supplied reason="lost">π</supplied>
+					
+<lb xml:id="line_A28" n="A28" break="no"/> <supplied reason="lost">ε</supplied>ντε</w> <name type="person"><w lemma="γυνή">γυναικῶν</w></name>· <name type="person"><w lemma="παῖς">παῖδας</w></name> δὲ τ<supplied reason="lost">ῶν</supplied> <name type="person"><w lemma="θυγάτηρ"><supplied reason="lost">θ</supplied>υγ<supplied reason="lost">ατρῶν</supplied></w></name> <name type="person"><w lemma="ἀνεψιός"><supplied reason="lost">κ</supplied>
+						
+<lb xml:id="line_A29" n="A29" break="no"/><supplied reason="lost">ἀ</supplied>νεψιῶν</w></name>· <w lemma="ἄλλος">ἄλλον</w> <unclear>δ</unclear>ὲ <w lemma="μηδείς">μ<supplied reason="lost">ε</supplied>δέν<unclear>α</unclear></w>. τοὺς <name type="purification"><w lemma="μιαίνω">μι<unclear>α</unclear><supplied reason="lost">ινομέ</supplied>
+								
+<lb xml:id="line_A30" n="A30" break="no"/> <supplied reason="lost">νους</supplied></w></name> <name type="purification"><name type="liquid"><w lemma="λούω">λουσαμένου<supplied reason="lost">ς</supplied></w></name></name> <orig>π<unclear>α</unclear>ρ</orig><gap reason="illegible" quantity="9" unit="character"/><orig>ο</orig><gap reason="lost" quantity="4" unit="character"/>
+					
+<lb xml:id="line_A31" n="A31"/> <name type="liquid"><w lemma="ὕδωρ"><supplied reason="lost">ὕδατ</supplied>ος</w></name> <w lemma="χύσις"><supplied reason="lost">χ</supplied>ύσι</w> <name type="purification"><w lemma="καθαρός">κ<unclear>α</unclear><supplied reason="lost">θαρ</supplied>οὺς</w></name> <w lemma="εἰμί">ἐ̑ναι</w> <orig>εωι</orig><gap reason="lost" quantity="7" unit="character"/>
+					
+<lb xml:id="line_A32" n="A32"/> <gap reason="illegible" quantity="1" unit="line"/>
+					
+<lb xml:id="line_A33" n="A33"/> <gap reason="illegible" quantity="1" unit="line"/>
+					
+<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+					
+	</ab>
+	    				
+<ab subtype="face" n="B">Face B
+
+<lb xml:id="line_B1" n="B1"/> <w lemma="δοκέω"><supplied reason="lost">ἔδο</supplied>ξεν </w> τῆι
+	
+<lb xml:id="line_B2" n="B2"/> <name type="group"><w lemma="βουλή"><supplied reason="lost">β</supplied>ουλῆι</w></name> καὶ
+	
+<lb xml:id="line_B3" n="B3"/> <supplied reason="lost">τ</supplied>ῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>·
+	
+<lb xml:id="line_B4" n="B4"/><supplied reason="lost">τῆ</supplied>ι <w lemma="τρίτος">τρίτηι</w>
+	
+<lb xml:id="line_B5" n="B5"/> <w lemma="ἐπί"><supplied reason="lost">ἐπ</supplied>ὶ</w> τοῖς <name type="festival"><w lemma="ἐνιαύσιος">ἐνι
+		
+<lb xml:id="line_B6" n="B6" break="no"/><supplied reason="lost">αυ</supplied>σ<unclear>ί</unclear>οις</w></name> <name type="purification"><w lemma="καθαρός">κα
+			
+<lb xml:id="line_B7" n="B7" break="no"/><supplied reason="lost">θ</supplied>αροὺς</w></name> <w lemma="εἰμί">εἶ
+	
+<lb xml:id="line_B8" n="B8" break="no"/><supplied reason="lost">ν</supplied>αι</w> τοὺς <w lemma="ποιέω">ποι
+					
+<lb xml:id="line_B9" n="B9" break="no"/><supplied reason="lost">οῦ</supplied>ντας</w>· <w lemma="εἰς">ἐς</w> <name type="structure"><w lemma="ἱερός">ἱ
+					
+<lb xml:id="line_B10" n="B10" break="no"/> <unclear>ε</unclear>ρὸν</w></name> δὲ <w lemma="μή">μὴ</w> <w lemma="εἶμι">ἰ
+
+<lb xml:id="line_B11" n="B11" break="no"/> <supplied reason="lost">έ</supplied>ναι</w> καὶ τὴν
+	
+<lb xml:id="line_B12" n="B12"/> <name type="structure"><w lemma="οἰκία"><supplied reason="lost">ο</supplied>ἰ<supplied reason="lost">κ</supplied>ίαν</w></name> <name type="purification"><w lemma="καθαρός">καθα
+		
+<lb xml:id="line_B13" n="B13" break="no"/> <supplied reason="lost">ρ</supplied>ὴν</w></name> <w lemma="εἰμί">εἶναι</w>, <w lemma="μέχρι">μ<supplied reason="lost">έ</supplied>
+			
+<lb xml:id="line_B14" n="B14" break="no"/> <supplied reason="lost">χρι</supplied></w> <w lemma="ἄν"><unclear>ἂ</unclear>ν</w> <w lemma="ἐκ">ἐκ</w> τοῦ
+	
+<lb xml:id="line_B15" n="B15"/> <name type="structure"><w lemma="σῆμα"><supplied reason="lost">σ</supplied>ήμα<unclear>τ</unclear>ος</w></name> <w lemma="ἔρχομαι">ἔλ<supplied reason="lost">θ</supplied>
+		
+<lb xml:id="line_B16" n="B16" break="no"/> <supplied reason="lost">ωσιν</supplied></w>. <space quantity="1" unit="line"/>
+</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>Face A</p>
+<p>These are the laws regarding the deceased. The deceased must be buried according to the following guidelines: in three white cloths, a cloth underneath the corpse, one wrapped about it, and one over it—there may be less than that— (5) worth not more than three hundred drachmae. One should carry him out on a bier with wedge-shaped legs and do not cover [...] with cloths. Carry wine to the tomb, but no more than three choes, and oil, not more than one chous, and (10) bring back the containers. Carry the deceased, completely covered over, to the tomb in silence. Use a preliminary offering according to (the ancestral customs). Bring back indoors the bier from the tomb and the bedclothes, and on the following day a freeman should (15) sprinkle the house with seawater first, and then all the living quarters with hyssop afterwards. When it has been sprinkled, the house is clean, and one should offer the sacrifices at the hearth. The married women who go to the funeral rite should leave (20) the tomb before their husbands. In honour of the deceased, do not perform the rites made on the thirtieth day. And do not place a wine-cup under the bier, and do not pour out water and do not bring the sweepings to the tomb. Wherever someone dies, when he is carried out, no women should go to the house, (25) other than the polluted ones. Polluted are the mother and the wife and the sisters and the daughters. In addition to these there should not be more than five women. And children of the daughters and of first cousins. But nobody else. Those who are polluted, (30) having washed themselves [...] with a pouring of water are clean.</p>
+
+<p>Face B</p> 
+
+<p>It has been resolved by the council and the people: that on the third day during the yearly ceremonies, those who take part are pure; but are not to go to a sanctuary, and the house is pure until they return from the tomb.</p>
+	    			</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction </head>
+<p>Face A</p> 
+				
+<p>Telles sont les lois concernant les défunts. Le mort doit être enterré selon les règles suivantes : dans trois linges blancs, un sous le corps, un l'enveloppant, et un au-dessus — il peut y en avoir moins que cela —, (5) ne coûtant pas plus de trois cents drachmes. On doit transporter le corps sur un lit avec des pieds biseautés, et on ne doit pas recouvrir (le lit/les pieds) de linges. Apporter du vin à la tombe, mais pas plus de trois <foreign>choes</foreign>, et de l'huile, pas plus d'un <foreign>chous</foreign>, et (10) rapporter les récipients. Transporter le mort, complètement recouvert, vers la tombe en silence. Faire un sacrifice préliminaire selon (les coutumes ancestrales). Ramener à l'intérieur le lit depuis la tombe, ainsi que les linges, et le jour suivant un homme libre devra d'abord (15) asperger la maison avec de l'eau de mer, ensuite toutes les pièces avec une branche d'hysope. Quand les lustrations ont été faites, que la maison soit pure et que l'on offre les sacrifices au foyer. Les femmes mariées qui se rendent aux rites funéraires doivent quitter (20) la tombe avant leurs maris. En l'honneur du défunt, ne pas accomplir les rites du trentième jour. Et ne pas placer de coupe de vin sous le lit, et ne pas verser d'eau, et ne pas apporter les poussières à la tombe. Quand quelqu'un meurt et qu'il est transporté, aucune femme ne doit visiter la maisonnée, (25) sauf celles qui sont (déjà) souillées. Sont souillées la mère, la femme, les soeurs et les filles. Il ne doit pas y avoir plus de cinq autres à part celles-ci. Et les enfants des filles et des cousins germains. Mais personne d'autre. Ceux qui sont souillés, (30) s'étant lavés [...] avec une giclée d'eau sont purs.</p>
+						
+<p>Face B</p>
+						
+<p>Il a plu au conseil et au peuple qu'au troisième jour durant les célébrations annuelles, ceux qui y prennent part soient purs; mais ils ne doivent pas se rendre dans un sanctuaire, et la maison est pure jusqu'à ce qu'ils reviennent de la tombe.</p>
+
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This is the most detailed and extensive set of funerary rules to have survived from a democratic Greek <foreign>polis</foreign> in the classical period (cf. Garland, p. 11, with a wider survey of such texts, and Engels, p. 60). The first line of the inscription states clearly that laws are being enacted or codified here, very likely in reference to customs already in place (so Hölkeskamp, p. 146-47; Engels, p. 60). The precise context and motivations for the enactment are now lost. What is clear is that several addenda, in the form of decrees, were eventually passed to supplement or modify these laws in different ways: cf. sides B and C.</p>
+						
+<p>One of the aims of the law appears to be to set a boundary for the material honours granted to the deceased. Regulations that curb ‘luxury’ at funerals occur commonly elsewhere, for example in the funerary <foreign>thesmoi</foreign> of the Labyadai at Delphi (<ref target="http://cgrn.ulg.ac.be/CGRN_82">CGRN 82</ref>); the Solonian funerary laws (on which cf. Garland, p. 3-5) seem to have been concerned with restraining such excessiveness. In Sokolowski's view, the law may have been merely devised to deal with concerns of decorum and hygiene, as well as of wastefulness and economy (cf. for example 1ines 9-10, stating one should bring back from the grave the vessels containing wine and olive oil). Whether and to what extent this law from Iulis was influenced by Solonian laws has been a matter of scholarly debate (Hölkeskamp, p. 146-47; Körner - Hallof, p. 222). The laws may have been (at least partly) intended to ‘to prevent the death of a member of one’s family from being exploited for political effect’ i.e. by its being used for a display of wealth (Garland, p. 12, cf. Engels, p. 60). Even if we accept Solonion influence, this law is remarkably different in its detailed treatment of issues of purity and purification. Garland (p. 14) and Engels (p. 62) rightly pointed out that the laws serve to help citizens and pious worshippers in their performance of funerary rituals. </p>
+						
+<p>Face A</p>
+						
+<p>Lines 2-4: The phrase στρώματι καὶ ἐνδύματι [καὶ] [ἐ]πιβλέματι should mean "a cloth underneath the corpse, one wrapped about it, and one over it". We follow Buck’s translation, which seems to capture the difference between these three cloths. The fact that the cloths are specified as white is noteworthy (for discussion, cf. Frisone, p. 66-67). Whiteness is often associated with purity, and here Parker notes that the corpse is singled out as purified, while the rest of the house is polluted.</p>
+						
+						
+<p>Lines 4-6: Though there is a limit on luxury, the laws are surprisingly flexible, allowing for less than three cloths or for rather valuable cloths. According to Bergk, one hundred drachmae for three cloths is a substantial sum: a normal cloth would cost something like 10, 12, 16 or 20 drachmae at most. Körner - Hallof compare this sum to the funeral regulations of the Labyadai in Delphi, pointing out that the 100 drachmae reserved for clothing alone is an amount almost three times as high as the maximum for all funeral gifts in the Delphic inscription.</p>
+						
+<p>Lines 7-8: The traces and the interpretation of the phrase after με καλύπτεν are uncertain. Roehl interpreted the traces as τὰ δ’ ὀλοσχερέα, ‘dass Ganze’ (followed by Sokolowski and Körner). But note that there are no contractions in this text (Hoffmann). Furthermore, δέ is unexpected here. Hoffman suggested τὰ δολοσχερέα, based on a gloss in Hesychius δόλος (followed by Ziehen). A πάσσαλος (a πάσσαλος) is a peg. It is difficult to see why one would take pains to avoid the covering of the bier’s nails (cf. Bannier, p. 289). Given this and since there is no evidence for a noun δολοσχερής, we are at a loss as to how to interpret this passage.</p>
+						
+<p>Lines 8-9: Engels (p. 62) thinks these are very small amounts for this purpose, but <foreign>comparanda</foreign> are missing.</p>
+						
+<p>Line 12: προσφάγιον is a rare term. The interpretation is unclear, especially with χρῆσθαι + dat., but should be related to προσφάγμα, an animal sacrificed preliminarily. For the funerary context cf. Eur. <title>Hec.</title> 41; for further parallels cf. Frisone, p. 79 n. 86.</p>
+						
+<p>Lines 14-16: On seawater as a means for purification, cf. the references in Sokolowski ad loc. The reading adopted in line 16 is the one in <bibl type="abbr" n="IG XII.5">IG XII.5</bibl> 593. Cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. ὕσσωπος for the spelling ὕσωπος (usually late). Sololowski and Körner - Hallof follow a reading proposed by Klaffenbach: [ι] πρῶτον, ἔπειτα δ̣ὲ̣ ὕ[δ]ατι λούεν γῆ[ι] χ[ρίσ]|αντα "then wash it with water having rubbed it with earth", but this reading is difficult to reconcile with the preserved traces. Though this is our only evidence for purification using a branch of hyssop, there are examples for purifications with laurel, cf. Parker, p. 228-229. If this is right, purification first took place outside of the house and involved seawater; next, inside the house, a branch of hyssop was used to sprinkle (probably normal water) all of the rooms; finally, incense was burned on the household hearth. For this last gesture, representing a sacrifice following and completing the purification (as well as resuming normal sacrificial activity inside the household), compare the discussion of μεταθύειν  and similar verbs at <ref target="CGRN_10">CGRN 10</ref> (Gortyn) and <ref target="CGRN_12">CGRN 12</ref> (Delphi).</p>
+						
+<p>Line 17: This line was erased by the scribe and then re-inscribed with more narrowly spaced letters. The cutter's motivation eludes it. Perhaps it was not sufficiently clear to the community that the purificatory actions in lines 14-16 had rendered the house pure, so one could hypothesise that the phrase καθαρὴν ἐ̑ναι τὴν οἰκίην καὶ was added.</p>
+						
+<p>Line 18: There are three spaces left in the stoichedon. The reading τὸ κήδεον (e.g. Sokolowski, Körner) would represent a 'substantivized' form of the adjective κήδειος which is otherwise unattested in this text (and elsewhere). The reference should surely be to the funerary rite (τὸ κῆδος) itself (cf. Ziehen). But if this restoration is adopted, then remaining single space in the stoichedon line remains problematic. It was perhaps either left empty or it may have attempted to accomodate the negative μέ (so Hiller, but this would normally require two letterspaces in the stoichedon).</p>
+						
+<p>Line 19: ΑΝ ΑΝΔΡΩΝ has been interpreted as a dittography. Another possibility might be to read <name type="person"><w lemma="ἄνανδρος">ἀνάνδρων</w></name> "husbandless women" i.e. virgins and widows. The precise sense of these lines hinges on whether these married women are or are not to leave the tomb first (i.e. whether we restore a form of μέ in line 18) and whether they do so before their husbands (if we accept the dittography) or before other females. The only related evidence comes from (pseudo-)Demosthenes 43.62, who states that men walk in front of women during the ἐκφορά, but our passage concerns the return from the tomb.</p>
+						
+<p>Lines 20-21: On the rituals performed on the third, ninth and thirtieth days after the burial, cf. Frisone, p. 84-85. The ritual on the thirtieth day typically involved a meal, which is apparently prohibited here.</p>
+						
+<p>Lines 21-23: The meaning of καλλύσματα is not clear, but probably refers to ‘sweepings’ (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. κάλλυσμα). This reading was followed by most other modern authors. Parker, p. 35-36 argues that these are regulations against superstitious practices, since they might be "socially objectionable ... in the sense that they take too far that belief in death-pollution on which several of the law’s positive requirements are founded". The point of these practices might have been, as Parker explains, "to banish death pollution from the house, the first two by catching it in a vessel of water which was then poured away, and the third by sweeping it out with the household’s physical dirt and depositing it where it belonged, at the tomb".</p>
+						
+<p>Lines 23-29: This passage appears to define impurity in the household, particularly various categories of women, cf. Parker, p. 38-40. There is a limitation of five women who do not belong to the immediate family. In addition, small children of both genres from the immediate family or cousins are allowed as part of the impure group.</p>
+						
+<p>Lines 29-31: This fragmentary passage seems to concern the purification which must be undertaken, probably through some form of washing with water, by polluted individuals (here in the masculine, but the group may include the females mentioned above). </p>
+
+<p>Face B</p>
+						
+<p>This additional decree is concerned with further annual commemoration following on the funeral. The prescriptions are to some decree presented in an anti-chronological order. The subject of all these prescriptions is those who perform the rites (τοὺς ποιοῦντας). During the proceedings the individuals are not to go to a sanctuary and become impure when they return from the tomb, conferring their pollution on to the house. On the third day they are automatically pure again. For further discussion cf. Frisone, p. 92-94.</p>
+					</div>
+	    	
+	    	</body>
+	    	
+    	</text>
+	</TEI>

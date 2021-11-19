@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_121" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 121</idno>: Short <rs type="textType" key="purity regulation">purity regulation</rs> from Priene</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Sylvain Lebreton</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support>
+                            <p>Stone <objectType>block</objectType>, part of an anta of a door. Vertical groove and mortises on the left side of the inscribed face (photo in <bibl type="abbr" n="IK.Priene">IK.Priene</bibl>, tab. 138).</p>
+
+                            <p><dimensions>
+                                <height unit="cm">109</height>
+                                <width unit="cm">52.5</width>
+                                <depth unit="cm">40</depth>
+                            </dimensions></p>
+
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout>
+
+                            <p>Lines 1-2 (text A) begin right after the groove, whereas lines 3-5 (text B) begin ca. 9.5 cm left from it. Large space (ca. 8 cm) between these two parts of the text (see commentary). Letters with strong apices.</p>
+                            <p>Letters: lines 1-2: <height unit="cm">1.5</height>; lines 3-5: <height unit="cm">2</height>.</p>
+
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0200" notAfter="-0130">200-130 BC</origDate></p>
+
+                        <p><desc>Justification: lettering (Blümel - Merkelbach and archaeological context; see below, Commentary).</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Priene" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599905" type="external">Priene</ref></placeName>. Found in the south of the “Westtorstrasse” with other remains of a unidentified  sanctuary (“Haus 22”; see Commentary).  The stone was part of the northern doorpost of the main entrance of the building. Today in the State Museum in Berlin (Antikensammlung; inv. no. 332). Squeeze in the archives of the <title>Inscriptiones Graecae</title> in Berlin.</p>
+                    </provenance>
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 14-09-2015 by S.G. Caneva.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Last revised by XX in 20XX.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"/></facsimile>
+    <text>
+        <body>
+            <div type="bibliography">
+                <head>Bibliography</head>
+
+                <p> Edition here based on Blümel - Merkelbach <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 205.
+                </p>
+                <p> Other edition: Hiller von Gaertringen <bibl type="abbr" n="I.Priene">I.Priene</bibl> 205.
+                 </p>
+
+                <p> Cf. also:
+                    Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 35;
+                    Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 25;
+                    <bibl type="author_date" n="Graf 2010b">Graf 2010b</bibl>: 63.
+
+                </p>
+
+                <p> Further bibliography: <bibl type="author_date" n="Rumscheid 1998">Rumscheid 1998</bibl>: 93-98.</p>
+
+            </div>
+            <div type="edition">
+                <head>Text</head>
+
+                <ab subtype="Text" n="A">Text A
+                            <lb xml:id="line_A1" n="A1"/><w lemma="λαγχάνω">ἔλαχε</w> τὴν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύνην</w></name>
+                    <lb xml:id="line_A2" n="A2"/>Ἀναξίδημος Ἀπολλοδώρου.
+                    <lb xml:id="line_A3" n="A3"/><space quantity="1" unit="line"/>
+                </ab>
+
+                    <ab subtype="Text" n="B">Text B
+                    <lb xml:id="line_B1" n="B1"/><space quantity="5" unit="character"/> <w lemma="εἴσειμι">εἰσίναι</w> <w lemma="εἰς">εἰς</w> τὸ
+                        <lb xml:id="line_B2" n="B2"/><space quantity="5" unit="character"/> <name type="structure"><w lemma="ἱερόν">ἱερὸν</w></name> <name type="purification"><w lemma="ἁγνός">ἁγνόν</w></name>, <w lemma="ἐν">ἐν</w>
+                    <lb xml:id="line_B3" n="B3"/><space quantity="5" unit="character"/> <name type="clothing"><w lemma="ἐσθής">ἐσθῆτι</w></name> <name type="colour2"><w lemma="λευκός">λευκ<unclear>ῆ</unclear>ι</w></name>.
+
+
+                </ab>
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>Text A</p>
+                <p>Anaxidemos son of Apollodoros has obtained the priesthood by lot.</p>
+                <p>Text B</p>
+                <p>Enter pure into the sanctuary, in a white garment.</p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>Texte A</p>
+                <p>Anaxidemos fils d'Apollodoros a obtenu la prêtrise par tirage au sort.</p>
+                <p>Texte B</p>
+                <p>Entrer dans le sanctuaire en étant pur, dans un vêtement blanc.</p>
+            </div>
+
+
+            <div type="commentary">
+                <head>Commentary</head>
+                <p>The stone bearing this text comes from a Hellenistic sanctuary (“Haus 22”) located in a very dense residential quarter of Priene (see Graf). This explains that the regulation pertaining to the entry of the sanctuary was inscribed on the anta of the entrance of the building. The neighbourhood was substantially destroyed by a fire in the 140s or 130s BC, after which it was no longer occupied (Rumscheid). This entails that our inscription probably dates to the first two thirds of the second century BC.</p>
+
+                <p>The sanctuary has long been identified with a "sacred <foreign>oikos</foreign>" (a sort of private shrine), but this designation does not appear in any inscription from this building (the boundary stone <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 206 only mentions a ἱερόν, as in this inscription). So, apart from the layout of the building, there is no proof that this sanctuary was a "sacred <foreign>oikos</foreign>" and, a fortiori, related to an associative cult; even if so, we could not define its nature in any case. The deity(-ies) worshipped here remain unidentified too, since the material found in the building gives no unequivocal evidence on this point. A terracotta bust of a female deity could point to Kybele (if so, this cult would then have been distinct from that of the Meter Phrygia, whose priesthood was held by a woman: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_175/">CGRN 175</ref>). But the most favoured hypothesis remains a cult of Alexander, who is probably depicted in a marble bust found at the site. An Alexandreion is mentioned in an inscription found elsewhere in Priene (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 64, line 75; post 129 BC). Graf suggests an Egyptian deity, since white linen was the vestimental norm in Egyptian cults (cf. lines 4-5; but see below). Yet to a degree, the cult of Alexander was also elaborated in Egypt. For more details about the building and its identification, cf. Rumscheid.</p>
+
+                <p>There are obviously two distinct parts in this inscription (A: lines 1-2 and B: 3-5 respectively): the layout, the height of letters, as well as the content, suggest that we are in fact dealing with two different inscriptions. However, the photo published in the edition is not sufficient to verify if there are two different hands at play; Blümel and Merkelbach do not give any precison on this matter. The first part (A) identifies an Anaxidemos son of Apollodoros, who has obtained the priesthood by lot, and the second text (B) is a purity regulation about entrance to the sanctuary.</p>
+
+                <p>Lines A1-2: Anaxidemos son of Apollodoros is not otherwise known at Priene. The attribution of a priesthood by lot is quite common (cf. here e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_124/">CGRN 124</ref>, Pergamon, line 1, and <ref target="http://cgrn.ulg.ac.be/IG XII.4/">IG XII.4</ref> 103, Kos), but does not seem to be attested in Priene, except in this case; cf. another where selection by democratic vote is known (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 43). Sales of the office seem to be the most common way of attributing a priesthood in Asia Minor and the eastern Aegean, especially in the Hellenistic period: for sales of priesthoods from Priene, see here <ref target="http://cgrn.ulg.ac.be/CGRN_175/">CGRN 175</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_176/">CGRN 176</ref>.</p>
+                <p>Lines B1-3: Though brief, this regulation pertains to the access to a sanctuary, though it gives few details about the required conditions of purity or the purification ritual which might need to be undertaken before entry. For more detailed prescriptions, cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_203/">CGRN 203</ref> (Delos). For white garments, cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_126/">CGRN 126</ref> (Lykosoura), lines 4-7, and e.g. <bibl type="abbr" n="LSS">LSS</bibl> 59 (Zeus Kynthios and Athena Kynthia in Delos): they are not exclusively associated with the cult of Egyptian deities (<foreign>contra</foreign> Graf).</p>
+
+
+            </div>
+        </body>
+    </text>
+</TEI>

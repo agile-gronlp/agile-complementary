@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_111" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+<titleStmt>
+	<title><idno type="filename">CGRN 111</idno>: Extract from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> at Kamiros (concerning an unknown deity)</title>
+	<author>Jan-Mathieu Carbon</author>
+	<author>Saskia Peels</author>
+</titleStmt>
+<publicationStmt>
+	<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+	<availability>
+		<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+		<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+<repository>n/a</repository>
+		</msIdentifier>
+		<physDesc>
+<objectDesc>
+	<supportDesc>
+		<support><p>Small fragment of a marble <rs type="objectType">stele</rs>, with only a part of the righthand side intact.</p>
+<p><dimensions>
+	<height unit="cm">19</height>
+	<width unit="cm">9</width>
+	<depth unit="cm">5</depth>
+</dimensions></p>
+		</support>
+	</supportDesc>
+	<layoutDesc>
+		<layout><p>Letters: <height unit="cm">1.2</height>.</p>
+		</layout>
+	</layoutDesc>
+</objectDesc>
+		</physDesc>
+		<history>
+<origin>
+	<p><origDate notBefore="-0300" notAfter="-0200">ca. 300-200 BC</origDate></p>
+	<p><desc>Justification: early to mid-Hellenistic lettering (Pugliese Carratelli).</desc></p>
+</origin>
+<provenance><p><placeName type="ancientFindspot" key="Kamiros" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589836" type="external">Kamiros</ref></placeName>, on the island of Rhodes. Now in the Museum of Rhodes.</p></provenance>
+
+		</history>
+	</msDesc>
+</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+<langUsage>
+	<language ident="eng">English</language>
+	<language ident="grc">Ancient Greek</language>
+	<language ident="lat">Latin</language>
+	<language ident="fre">French</language>
+	<language ident="ger">German</language>
+	<language ident="gre">Modern Greek</language>
+	<language ident="ita">Italian</language>
+</langUsage>
+<textClass/>
+		</profileDesc>
+		<revisionDesc>
+<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+<div type="bibliography">
+	<head>Bibliography</head>
+	<p>Edition here based on Pugliese Carratelli <bibl type="abbr" n="Tit.Cam.">Tit.Cam.</bibl> 149, with ph. fig. 109.</p>
+	
+	<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 99.</p>
+	
+	<p>Further bibliography: <bibl type="author_date" n="Segre 1951">Segre 1951</bibl>; 
+		<bibl type="author_date" n="Badoud 2015">Badoud 2015</bibl>: 11-35; 
+		<bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>: 192-197; 
+		<bibl type="author_date" n="Carbon forthc.">Carbon forthc.</bibl></p>
+</div>
+<div type="edition">
+	<head>Text</head>
+	<ab>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+		
+<lb xml:id="line_1" n="1"/><gap reason="lost" quantity="8" unit="character" precision="low"/><orig>Μ<unclear>ΙΛ</unclear></orig>
+		
+<lb xml:id="line_2" n="2"/><name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἰερεὺ</supplied>ς</w></name> <name type="sacrifice"><w lemma="θύω">θύ <lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">ει</supplied></w></name><supplied reason="lost">·</supplied> <name type="month"><w lemma="Ἀγριάνιος"><supplied reason="lost">Ἀγ</supplied>ριανίου</w></name>
+		
+<lb xml:id="line_4" n="4"/><w lemma="ἕκτος"><supplied reason="lost">ἕκτα</supplied>ι</w> <w lemma="πρό">πρὸ</w> <w lemma="εἰκάς">ἰκά <lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">δος</supplied></w><supplied reason="lost">,</supplied> <name type="month"><w lemma="Ἀρταμίτιος"><supplied reason="lost">Ἀρ</supplied>ταμι 
+
+<lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">τίου</supplied></w></name> <supplied reason="lost">τ</supplied><unclear>ᾶι</unclear> <w lemma="διχομηνία"><unclear>δι</unclear>χ<supplied reason="lost">ο</supplied>
+	
+<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">μηνίαι</supplied></w> <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	</ab>
+</div>
+<div type="translation" xml:lang="eng">
+	<head>Translation</head>
+	<p> [...] The priest sacrifices it.</p>
+	<p>On the 14th (?) of Agrianios; (5) on the 15 of Artamitios [...]</p>
+	
+</div>
+<div type="translation" xml:lang="fre">
+	<head>Traduction</head>
+	<p> [...] Le prêtre le sacrifie.</p>
+	<p>Le 14 Agrianios; (5) le 15 Artamitios [...]</p>
+	
+</div>
+<div type="commentary">
+	<head>Commentary</head>
+	
+	<p>This small fragment appears to belong together with the large number of extracts from a sacrificial calendar known at Kamiros and on the island of Rhodes, inscribed or recodified in the late Classical or early Hellenistic period and disseminated at various local sanctuaries, presumably as punctual reminders and short regulations in and of themselves (for the early beginning of such excerpts, cf. here <ref target="CGRN_62">CGRN 62</ref> and <ref target="CGRN_63">CGRN 63</ref>, both from Lindos). The excerpts perhaps come from the general sacrificial calendar of the unified city of Rhodes or perhaps equally probably from that of Kamiros itself. See e.g. <ref target="CGRN_110">CGRN 110</ref> for further examples from Kamiros; e.g. <ref target="CGRN_115">CGRN 115</ref> for others from Lindos. For a general discussion of these excerpts, see Segre and Carbon forthc.</p>
+	
+	<p>Here, the text is extremely fragmentary and regrettably little can be said about the content or the adressee of the sacrifices in question. The first occasion is almost entirely missing except for the mention of the priest. The second rubric apparently preserved in the fragment seems to juxtapose two dates in the spring, one in Agrianios and one in Artamitios. In the reconstruction of the Rhodian calendar refined by Badoud and generally adopted here (for a different view, see Iversen), Artamitios and Agrianios are respectively the 9th and 10th months (ca. April/May and May/June). Since Artamitios in fact ought to precede Agrianios it is quite possible that the lettertraces in line 5 are to be interpreted as a mention of the name of the goddess Artemis (see also Badoud, p. 22). However, months sometimes appear in unexpected order in these excerpts (cp. <ref target="CGRN_110">CGRN 110</ref>). Also, one might well have expected the deity to be mentioned earlier in this excerpt and the goddess is not easy to reconcile with the fragmentary traces in lines 6-7. Further compounding the uncertainty is the fact that a date πρὸ ἰκά[δος] such as we find in lines 4-5 is not otherwise attested on Rhodes; a form ἐπὶ δέκα for a date in the second decade of the month would be expected. No definitive solution for any of these enigmas may be possible given the paltry fragment we currently have.</p>
+	
+</div>
+		</body>
+	</text>
+</TEI>

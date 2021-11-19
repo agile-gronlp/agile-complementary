@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_90" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 90</idno>: <rs type="textType" key="decree">Decree</rs> and law concerning <rs type="textType" key="purity regulation">purity</rs> in the sanctuary of Alektrona at Ialysos</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.
+				</authority>
+				<availability> 
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support><p>Marble <rs type="objectType">stele</rs>, intact and with moulding at the top.</p>
+									<p><dimensions>
+										<height unit="cm">92.71</height>
+										<width unit="cm">39.37</width>
+										<depth unit="cm">Unknown</depth>
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout><p>Letters: <height unit="cm">1-1.2</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0350" notAfter="-0300">ca. 350-300 BC</origDate>.</p>
+							<p><desc>Justification: lettering (Hiller von Gaertringen).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Ialysos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589815" type="external">Ialysos</ref></placeName>. As the information reported by Hiller von Gaertringen indicates, notably from A. Biliotti, the stele was found in situ and in its socket, at a depth of about six feet below the surface. The precise location of the find, however, is more difficult to reconstruct given the information available. It is clear that the findspot was on the eastern (or northeastern) slope of Mt. Philerimos, next to a chapel according to Furtwängler and Loeschcke. Biliotti, followed by Newton, presumed that this was the road that descended from Achaia to Ialysos, but Hiller von Gaertringen, following Wilamowitz and others casted doubts on this notion. The fact remains that we do not know where this "city of Achaia" was precisely located, though it may be presumed in the immediate surroundings of Ialysos and Mt. Philerimos (see also below, Commentary). Current location unknown.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				<p>Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG XII.1">IG XII.1</bibl> 677, from a squeeze. There are virtually no problems with the edition or with the readings.</p>
+				
+				<p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 145; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 136.</p>
+				
+				<p>Further bibliography: 
+					<bibl type="author_date" n="Chandezon 2003">Chandezon 2003</bibl>;  
+					<bibl type="author_date" n="Chaniotis 2009">Chaniotis 2009</bibl>;  
+					<bibl type="author_date" n="Delli Pizzi 2011">Delli Pizzi 2011</bibl>;  
+					<bibl type="author_date" n="Brulé 2012">Brulé 2012</bibl>: 131-133;  
+					<bibl type="author_date" n="Peels 2016">Peels 2016</bibl>: 168-171;  
+					<bibl type="author_date" n="Harris 2015">Harris 2015</bibl>;  
+					<bibl type="author_date" n="Georgoudi 2017">Georgoudi 2017</bibl>. </p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab> 
+					
+<lb xml:id="line_1" n="1"/><w lemma="δοκέω">ἔδοξε</w> τοῖς <name type="title"><w lemma="μαστρός">μαστροῖς</w></name> καὶ <name type="ethnic" key="Ialysos"><w lemma="Ἰαλυσός">Ἰαλυσίοις</w></name>· 
+					
+<lb xml:id="line_2" n="2"/><w lemma="Στράτης">Στράτης</w> <w lemma="Ἀλκιμέδων">Ἀλκιμέδοντος</w> <w lemma="εἶπον">εἶπε</w>· 
+					
+<lb xml:id="line_3" n="3"/><w lemma="ὅπως">ὅπως</w> τὸ <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> καὶ τὸ <name type="structure"><w lemma="τέμενος">τέμενος</w></name> 
+					
+<lb xml:id="line_4" n="4"/>τᾶς <name type="deity" key="Alektrona"><w lemma="Ἀλέκτρωνα">Ἀλεκτρώνας</w></name> <name type="purification"><w lemma="εὐαγέω">εὐαγῆται</w></name> <w lemma="κατά">κα 
+						
+<lb xml:id="line_5" n="5" break="no"/>τὰ</w> τὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name>, <w lemma="ἐπιμελέομαι">ἐπιμεληθήμειν</w> 
+					
+<lb xml:id="line_6" n="6"/>τοὺς <name type="personnel"><w lemma="ἱεροταμίας">ἱεροταμίας</w></name>, <w lemma="ὅπως">ὅπως</w> <objectType key="stele"><w lemma="στήλη">στᾶλαι</w></objectType> 
+					
+<lb xml:id="line_7" n="7"/><w lemma="ἐργάζομαι">ἐργασθέωντι</w> <w lemma="τρεῖς">τρεῖς</w> <w lemma="λίθος">λίθου</w> <w lemma="λάρτιος">λαρτ<supplied reason="lost">ί</supplied> 
+						
+<lb xml:id="line_8" n="8" break="no"/>ου</w> καὶ <w lemma="ἀναγράφω">ἀναγραφῆι</w> <w lemma="εἰς">ἐς</w> τὰς <objectType key="stele"><w lemma="στήλη">στάλα 
+							
+<lb xml:id="line_9" n="9" break="no"/>ς</w></objectType> τό τε <name type="authority"><w lemma="ψήφισμα">ψάφισμα</w></name> <w lemma="ὅδε">τόδε</w> καὶ ἃ <w lemma="οὐ">οὐχ</w> <name type="authority"><w lemma="ὅσιος">ὅ 
+								
+<lb xml:id="line_10" n="10" break="no"/>σιόν</w></name> <w lemma="εἰμί">ἐντι</w> <w lemma="ἐκ">ἐκ</w> τῶν <name type="authority"><w lemma="νόμος">νόμων</w></name> <w lemma="εἰσφέρω">ἐσφέ 
+									
+<lb xml:id="line_11" n="11" break="no"/>ρειν</w> οὐδὲ <w lemma="εἰσοδοιπορέω">ἐσοδοιπορεῖν</w> <w lemma="εἰς">ἐς</w> τὸ <name type="structure"><w lemma="τέμενος">τέ 
+										
+<lb xml:id="line_12" n="12" break="no"/>μενος</w></name>, καὶ τὰ <name type="punishment"><w lemma="ἐπιτίμιον">ἐπιτίμια</w></name> τῶ<supplied reason="lost">ι</supplied> <w lemma="πράσσω">πράσ 
+											
+<lb xml:id="line_13" n="13" break="no"/>σοντι</w> <w lemma="παρά">παρὰ</w> τὸν <name type="authority"><w lemma="νόμος">νόμον</w></name>· <w lemma="τίθημι"><unclear>θ</unclear>έμειν</w> δὲ 
+					
+<lb xml:id="line_14" n="14"/>τὰς <objectType key="stele"><w lemma="στήλη">στάλας</w></objectType> <w lemma="εἷς">μίαμ</w> μὲν <w lemma="ἐπί">ἐπὶ</w> τᾶς <name type="structure"><w lemma="εἴσοδος">ἐσό 
+						
+<lb xml:id="line_15" n="15" break="no"/>δου</w></name> τᾶς <w lemma="ἐκ">ἐκ</w> <name type="locality"><w lemma="πόλις">πόλιος</w></name> <w lemma="προσπορεύομαι">ποτιπορευομέ 
+							
+<lb xml:id="line_16" n="16" break="no"/>νοις</w>, <w lemma="εἷς">μίαν</w> δὲ <w lemma="ὑπέρ">ὑπὲρ</w> τὸ <name type="structure"><w lemma="ἑστιατόριον">ἱστιατόριον</w></name>, 
+					
+<lb xml:id="line_17" n="17"/><w lemma="ἄλλος">ἄλλαν</w> δὲ <w lemma="ἐπί">ἐπὶ</w> τᾶς <w lemma="κατάβασις">καταβάσιος</w> τᾶ<supplied reason="lost">ς</supplied> 
+					
+<lb xml:id="line_18" n="18"/><w lemma="ἐκ">ἐξ</w> <placeName key="Achaia"><w lemma="Ἀχαΐα">Ἀχαΐας</w></placeName> <name type="locality"><w lemma="πόλις">πόλιος</w></name>. 
+					
+<lb xml:id="line_19" n="19"/><name type="authority"><w lemma="νόμος">νόμος</w></name> ἃ <w lemma="οὐ">οὐχ</w> <name type="authority"><w lemma="ὅσιος">ὅσιον</w></name> <w lemma="εἴσειμι">ἐσίμειν</w> οὐδὲ 
+					
+<lb xml:id="line_20" n="20"/><w lemma="εἰσφέρω">ἐσφέρειν</w> <w lemma="εἰς">ἐς</w> τὸ <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> καὶ τὸ <name type="structure"><w lemma="τέμενος">τέ 
+						
+<lb xml:id="line_21" n="21" break="no"/>μενος</w></name> τᾶς <name type="deity" key="Alektrona"><w lemma="Ἀλέκτρωνα">Ἀλεκτρώνας</w></name>· <w lemma="μή">μὴ</w> <w lemma="εἴσειμι">ἐσί 
+							
+<lb xml:id="line_22" n="22" break="no"/>τω</w> <name type="animal" key="other"><w lemma="ἵππος">ἵππος</w></name>, <name type="animal" key="other"><w lemma="ὄνος">ὄνος</w></name>, <name type="animal" key="other"><w lemma="ἡμίονος">ἡμίονος</w></name>, <name type="animal" key="other"><w lemma="γῖνος">γῖνος</w></name>, 
+					
+<lb xml:id="line_23" n="23"/>μηδὲ <w lemma="ἄλλος">ἄλλο</w> <name type="animal" key="other"><w lemma="λόφουρος">λόφουρον</w></name> <w lemma="μηθείς">μηθὲν</w> μη 
+					
+<lb xml:id="line_24" n="24" break="no"/>δὲ <w lemma="εἰσάγω">ἐσαγέτω</w> <w lemma="εἰς">ἐς</w> τὸ <name type="structure"><w lemma="τέμενος">τέμενος</w></name> <w lemma="μηθείς">μη 
+						
+<lb xml:id="line_25" n="25" break="no"/>θεὶς</w> <w lemma="οὗτος">τούτων</w> <w lemma="μηθείς">μηθὲν</w> μηδὲ <name type="clothing"><w lemma="ὑπόδημα">ὑποδή 
+							
+<lb xml:id="line_26" n="26" break="no"/>ματα</w></name> <w lemma="εἰσφέρω">ἐσφερέτω</w> μηδὲ <name type="quality"><name type="animal" key="swine"><w lemma="ὕειος">ὕειον</w></name></name> <w lemma="μηθείς">μη 
+								
+<lb xml:id="line_27" n="27" break="no"/>θέν</w>, ὅ <w lemma="τις">τι</w> δέ κά <w lemma="τις">τις</w> <w lemma="παρά">παρὰ</w> τὸν <name type="authority"><w lemma="νόμος">νόμον</w></name> 
+					
+<lb xml:id="line_28" n="28"/><w lemma="ποιέω">ποιήσηι</w>, τό τε <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> καὶ τὸ <name type="structure"><w lemma="τέμενος">τέμενος</w></name> 
+					
+<lb xml:id="line_29" n="29"/><name type="purification"><w lemma="καθαίρω">καθαιρέτω</w></name> καὶ <name type="sacrifice"><w lemma="ἐπιρρέζω">ἐπιρεζέτω</w></name>, ἢ <name type="punishment"><w lemma="ἔνοχος">ἔνο 
+						
+<lb xml:id="line_30" n="30" break="no"/>χος</w></name> <w lemma="εἰμί">ἔστω</w> τᾶι <name type="authority"><w lemma="ἀσέβεια">ἀσεβείαι</w></name>· <w lemma="εἰ">εἰ</w> δέ κα 
+					
+<lb xml:id="line_31" n="31"/><name type="animal" key="sheep"><name type="animal" key="goat"><w lemma="πρόβατον">πρόβατα</w></name></name> <w lemma="εἰσβάλλω">ἐσβάληι</w>, <name type="punishment"><w lemma="ἀποτίνω">ἀποτεισάτω</w></name> <w lemma="ὑπέρ">ὑ 
+						
+<lb xml:id="line_32" n="32" break="no"/>πὲρ</w> <w lemma="ἕκαστος">ἑκάστου</w> <name type="animal" key="sheep"><name type="animal" key="goat"><w lemma="πρόβατον">προβάτου</w></name></name> <w lemma="ὀβολός">ὀβολὸν</w> 
+					
+<lb xml:id="line_33" n="33"/>ὁ <w lemma="εἰσβάλλω">ἐσβαλών</w>· <w lemma="προσαγγέλλω">ποταγγελλέτω</w> δὲ 
+					
+<lb xml:id="line_34" n="34"/>τὸν <w lemma="οὗτος">τούτων</w> <w lemma="τις">τι</w> <w lemma="ποιέω">ποιεῦντα</w> ὁ <w lemma="χρῄζω">χρήι 
+						
+<lb xml:id="line_35" n="35" break="no"/>ζων</w> <w lemma="εἰς">ἐς</w> τοὺς <name type="title"><w lemma="μαστρός">μαστρούς</w></name>. <space quantity="1" unit="line"/>
+				</ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				<p> The <foreign>mastroi</foreign> and the people of Ialysos have decreed; Strates son of Alkimedon brought the proposal forward: so that the sanctuary and the precinct of Alektrona remain pure according (5) to the ancestral customs, the sacred treasurers are to take care that three stelai are made of Lartian marble and that this decree is inscribed on them, together with what is not pleasing (10) to the gods to see carried into or walking into the precinct, according to the ancestral customs, and the punishments for him who contravenes the law. One of the stelai is to be placed at the entrance for those who approach from the city, one above the banqueting hall and another one on the road down from the acropolis of Achaia.</p>
+
+				<p>Law regarding what is not pleasing to the gods to enter or (20) to bring into the shrine and the precinct of Alektrona. A horse, a donkey, a mule, hinny, and any other animal with a long-haired tail must not enter, and no one should lead into the sanctuary any of these or (25) bring in sandals or anything made from pig. If anyone does any of this against the law then he must purify the shrine and the precinct and offer a sacrifice afterwards, or he must be considered (30) guilty of impiety. If someone brings in small cattle, then he must pay one obol for every animal, the one who brings them in. Let the one who wishes report him who does any of these things (35) to the <foreign>mastroi</foreign>.</p>
+			</div>
+
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				<p> Les <foreign>mastroi</foreign> et les Ialysiens ont décidé; Strates fils d'Alkimedon a fait la proposition : afin que le sanctuaire et l'enceinte d'Alektrona demeurent purs selon (5) les coutumes ancestrales, les trésoriers sacrés doivent s'assurer que soient façonnées trois stèles en marbre de Lartos et que ce décret y soit inscrit, tout comme ce qu'il déplaira (10) aux dieux de voir transporter ou mener dans l'enceinte, selon les coutumes ancestrales, et les punitions pour ceux qui désobéissent à la loi. Une des stèles sera située à l'entrée pour (15) ceux qui arrivent depuis la cité, la deuxième au-delà de la salle de banquet, la troisième dans la descente de l'acropole d'Achaia.</p>
+
+				<p>Loi concernant ce qu'il ne plaît pas aux dieux de voir entrer ou (20) apporté à l'intérieur du sanctuaire et de l'enceinte d'Alektrona : que n'entre ni cheval, ni âne, ni mulet, ni bardot ni aucun autre équidé. Que l'on n'introduise aucun de ces animaux dans l'enceinte et qu'il n'y soit (25) apporté ni chaussure ni quoi que ce soit en cuir de porc. Quiconque contreviendra à la loi devra purifier à la fois le sanctuaire et l'enceinte, et sacrifier en sus, ou sera passible (30) d'une charge d'impiété. Si l'on introduit du petit bétail, que celui qui l'aura introduit paie (une amende d')une obole pour chaque animal. Que celui qui le souhaite dénonce l'auteur de ces actes (35) aux <foreign>mastroi</foreign>.</p>
+			</div>
+
+			<div type="commentary">
+				<head>Commentary</head>
+				<p>The inscription is a paradigmatic case for the study of ritual norms, and especially what Chaniotis has called the 'stratigraphy', i.e. the imbricated structure and self-justification of such norms. The motivations remain rather unclear, but the officials of Ialysos apparently decided to act "so that the sanctuary of Alektrona remain pure and in a good state for interacting with the divine world" (εὐαγῆται). In order to do so, a codification process was begun: the officials passed a decree, of which we have here one copy (ἔδοξε, line 1; τό ... ψάφισμα τόδε, line 9). The purpose of the decree is to pass and publish a law concerning the purity of the sanctuary (νόμον, line 13), which is then quoted in extenso below the decree (νόμος ...; lines 19-35). The question of whence this law is derived is intriguing and points to a further, anterior layer in the 'stratigraphy', that of probably unrecorded religious norms and traditions (κα|τὰ τὰ πάτρια, lines 4-5; ἐκ τῶν νόμων, line 10). For a discussion of the typology of this law, see Harris, p. 58-60.</p>
+				
+				<p>The goddess Alektrona is the sole daughter of Helios and Rhodes (Diod. 5.56, who mentions posthumous heroic honours for this <foreign>parthenos</foreign>). After the synoecism at Rhodes (408/7), the cult of Helios was adopted as a <foreign>polis</foreign> cult. This is how the cult of Alektrona could have become (more?) important as well. Rostad argued that the sanctuary had become disused and was in danger of becoming a pasture, which may perhaps partly explain the motivation for the decree. Alektrona is only attested in this inscription, and, as mentioned (see above, Provenance), her sanctuary remains unlocated.</p>
+				
+				<p> As detailed in lines 13-18, three copies of the decree together with the law were to be inscribed and set up in visible locations, presumably near this sanctuary. As the provenance of this stele might indicate (see above), the present copy was perhaps the one "near the descent" from the <foreign>polis</foreign> (i.e. a citadel) called Achaia, but it is impossible to be sure (the sources for Achaia are collected in Hiller von Gaertringen's edition, who treats the matter with commendable skepticism). The other two copies have not been found. The group of three stelai, however, indicates some facts about this sanctuary: it was extra-urban, situated outside the city of Ialysos and down from this place called Achaia; it also apparently had its own entrance (and presumably other forms of delimitation) and it possessed a dining hall for feasting (the ἱστιατόριον mentioned in line 16).</p>
+				
+				<p>Lines 9-10: For the interdiction οὐχ ὅσιον, see Peels. The expression ἐκ τῶν νόμων could mean "according to the laws" but which laws could these be? Therefore, we prefer to translate this phrase by "according to the ancestral customs".</p>
+				
+				<p> Lines 19-23: The restrictions of the purity law concern first and foremost the illicit entry of maned creatures, such as horses, mules and donkeys. A similarly elaborate list is not found in the current collection, nor are restrictions aimed at such animals at all common in the Hellenistic period. The law may have had very practical motivations, since pack animals would have caused disturbance in the sanctuary and polluted it with their excrement. On similar regulations restricting the access of animals to sanctuaries, see Chandezon and Brulé, as well as below on lines 30-33. </p>
+				
+				<p>Lines 25-27: Restrictions concerning shoes do occur in some cases, though they are usually qualified by a description of which exact type of footwear is prohibited, cf. <ref target="CGRN_126">CGRN 126</ref> (Lykosoura), lines 6-7; by contrast, <bibl type="abbr" n="SEG">SEG</bibl> 36, 1221 (Xanthos) makes an exception for shoes. For the prohibition of pigs and pig products, which would also have included certain types of shoes and leather, see <ref target="CGRN_217">CGRN 217</ref> (Delos), lines 3-4.</p>
+				
+				<p>Lines 27-30: A serious punishment is imposed on transgressors of the law. Purification of both the precinct and the sanctuary as a whole is to be undertaken, no doubt under the guidance and supervision of the cultic personnel, and to be complemented with a concluding sacrifice. On this dialectic of sacrifice and purification, see Georgoudi and cf. here the discussions at <ref target="CGRN_10">CGRN 10</ref> (Gortyn) and <ref target="CGRN_12">CGRN 12</ref> (Delphi). Note the recurrent mentions of a potentially disturbed relationship with the divine world (οὐχ ὅσιον, lines 9-10 and 19, ἀσέβεια, line 30). For the sanction of impiety, see Delli Pizzi 2011 and <ref target="CGRN_108">CGRN 108</ref> (Gambreion), lines 25-27.</p>
+				
+				<p>Lines 30-33: The restrictions concerning flock animals—primarily sheep it would seem, but goats are probably not excluded—are much more mundane and do not appear to imply a serious form of impurity. A simple fine of one obol is to be exacted for each animal that is allowed to enter and graze illicitly in the sanctuary and its land. The law therefore envisaged at least two different gradations of transgressions, one more severe (above, lines 27-30) and one less so.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_149" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 149</idno>: Excerpt from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> at Kamiros (concerning sacrifices to the Damateres)</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of
+						consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support><p>Small <rs type="objectType">stele</rs> of Lartian marble, with a simple moulding at
+										the top. Somewhat broken at the botton. The front and top sides have been well-worked; the
+										back was left rough, presumably for resting against a wall.</p>
+									<p><dimensions>
+											<height unit="cm">30</height>
+											<width unit="cm">12.7 (with the moulding, 15 )</width>
+											<depth unit="cm">9.3</depth>
+										</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout><p>Letters: <height unit="mm">8-9</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0050" notAfter="0050">ca. 50 BC - 50 AD</origDate></p>
+							<p><desc>Justification: lettering (Blinkenberg).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Kamiros" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589836" type="external">Kamiros</ref></placeName>.
+								Found near Hagios Phokas, north of Siana. Now in the National Museum of Denmark (Copenhagen).</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-06-201 by JM Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				<p>Edition here based on Blinkenberg <bibl type="abbr" n="Lindos II">Lindos II</bibl> 671, with ph. There are no
+					problems with the readings.</p>
+				<p>Other edition: Segre - Pugliese-Carratelli <bibl type="abbr" n="Tit.Cam.">Tit.Cam.</bibl> 156a.</p>
+				<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 95.</p>
+
+				<p>Further bibliography: <bibl type="author_date" n="Segre 1951">Segre 1951</bibl>; 
+					<bibl type="author_date" n="Badoud 2015">Badoud 2015</bibl>: 11-35; 
+					<bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>:
+					192-197; <bibl type="author_date" n="Carbon forthc.">Carbon forthc.</bibl></p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab>
+					<lb xml:id="line_1" n="1"/><name type="month"><w lemma="Σμινθεύς">Ζμινθίου</w></name>
+					<lb xml:id="line_2" n="2"/><w lemma="τετράς">τετράδι</w>
+					<lb xml:id="line_3" n="3"/><w lemma="ἵστημι">ἱσταμένου</w>, <lb xml:id="line_4" n="4"/><name type="deity" key="Damateres"><name type="deity" key="Demeter"><name type="deity" key="Kore"><w lemma="Δημήτηρ">Δαμάτερσιν</w></name></name></name>
+					<lb xml:id="line_5" n="5"/><name type="animal" key="sheep"><w lemma="ὄϊς">ὄϊν</w></name>
+					<lb xml:id="line_6" n="6"/><name type="quality"><name type="gender"><w lemma="κύω">κυεῦσαν</w></name></name>.
+				</ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				<p>On the 4th of Sminthios, to the Damateres (Demeters), (sacrifice) a pregnant ewe. </p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				<p>Le 4 Sminthios, aux Damateres (Déméters), (sacrifier) une brebis pleine. </p>
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+
+				<p>The inscription is one of a large number of extracts from a sacrificial calendar inscribed or recodified in the
+					late Classical or early Hellenistic period and disseminated at various local sanctuaries, presumably as
+					punctual reminders and short regulations in and of themselves (for the early beginning of such excerpts, cf.
+					here <ref target="CGRN_62">CGRN 62</ref> and <ref target="CGRN_63">CGRN 63</ref>, both from Lindos). The
+					excerpts perhaps come from the general sacrificial calendar of the unified city of Rhodes or perhaps equally
+					probably from that of Kamiros itself. See e.g. <ref target="CGRN_110">CGRN 110</ref> for further examples from
+					Kamiros; e.g. <ref target="CGRN_115">CGRN 115</ref> for others from Lindos. For a general discussion of these
+					excerpts, see Segre and Carbon forthc. Though the inscription appears later than most of these Hellenistic
+					excerpts (notably because of its lettering), it nonetheless preserves a style and layout typical of the
+					earlier excerpts from the sacrificial calendar; it may therefore have been reinscribed in the late Hellenistic
+					or early Roman period.</p>
+
+				<p>The excerpt is rather brief in this case (for other very brief excerpts, cp. <ref target="CGRN_112">CGRN
+						112</ref>, Kamiros, and both <ref target="CGRN_115">CGRN 115</ref> and <ref target="CGRN_116">CGRN
+						116</ref>, Lindos). Since the small stele was found in the territory of Kamiros rather than in that city
+					(at this time, a deme of Rhodes), it may have originally belonged to a local sanctuary of the goddesses in the
+					countryside. In this light, it is also noteworthy that the inscription does not mention any officials
+					responsible for the sacrifice, which contrasts with all of the other excerpts found at Kamiros. A pair of
+					excerpts at Lindos, <ref target="CGRN_115">CGRN 115</ref> and <ref target="CGRN_116">CGRN 116</ref>, do not
+					mention any cult personnel either and also come from the countryside. Possibly the worshippers in these rural
+					settings were expected to perform the sacrifice themselves.</p>
+
+				<p>The cult was concerned with the worship of multiple "Demeters", most probably the goddess Demeter and her
+					daughter Kore; the pair are more commonly called "twin goddesses" in the dual, as at Eleusis: cf. <ref target="CGRN_8">CGRN 8</ref>, line 5. A strong parallel at Kamiros is presented by another pair of
+					excerpts from the sacrificial calendar at Lindos, which attested to a sacrifice for "Demeter" or the
+					"Damateres", depending on the restoration on the Acropolis there, cf. <ref target="CGRN_179">CGRN 179</ref>,
+					line 2. An inscription explicitly mentioning the Damateres near this spot is <bibl type="abbr" n="Lindos II">Lindos II</bibl> 183, ca. 200-170 BC, marking the cult-site of the goddess and of Zeus Damatrios for the
+						<foreign>patra</foreign> of the Haliadai. Both these Lindian sacrifices seem to have taken place on early
+					dates (the 7th and the 12th), probably also, as here at Kamiros, in the month Sminthios (the 8th month on
+					Rhodes, ca. March/April, which marked the transition between the winter and early spring; cf. the
+					reconstruction of the Rhodian calendar refined by Badoud and generally adopted here; for a different view, see
+					Iversen). The goddess or goddesses honoured at Lindos were also the recipients of a pregnant animal—definitely
+					a pregnant sow, and possibly a pregnant sheep, too. For the sacrifice of a pregnant ewe to Demeter, see here
+						<ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 36-39 (for the Chloia, probably a ewe). For this
+					offering, also relatively commonly found for others goddesses, see <ref target="CGRN_56">CGRN 56</ref>
+					(Marathonian Tetrapolis), col. I, lines 20-37 (unknown goddess in Pyanopsion), and col. II, lines 11-16 (Daira
+					in Gamelion); <ref target="CGRN_84">CGRN 84</ref> (Salaminioi), line 93 (Athens Skiras in Maimakterion); and
+						<ref target="CGRN_85">CGRN 85</ref> (Kos), line 24 (Athena Polias). Overall, these offerings for the
+					Damateres at Kamiros and the probably analogous goddess(es) at Lindos must have marked the beginning of the
+					Spring and, as with other rituals for Demeter, will probably have had a connection with agricultural
+					propitiation, in this case at a critical juncture in the year: the onset of the growth of new cereal plants.
+					Cp. also, perhaps, the cult of the Materes at Eleutherna: see <ref target="CGRN_210">CGRN 210</ref>, lines
+					B3-4.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

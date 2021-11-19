@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_139" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 139</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulations</rs> for the Asklepieia on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Stéphanie Paul</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc>
+	<support>
+	<p> Damaged and mutilated marble <rs type="objectType">stele</rs>.</p>	
+	<p><dimensions>
+	<height unit="cm">44</height>
+	<width unit="cm">21</width>
+	<depth unit="cm">11</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p>Letters: <height unit="cm">0.7</height></p>
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+	<p><origDate notBefore="-0275" notAfter="-0225">mid-3rd century BC</origDate></p>				
+		<p><desc>Justification: lettering (Hallof - Bosnakis).</desc></p>
+						</origin>
+			<provenance><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599728" type="external">Kos</ref></placeName>. Found at the Asklepieion. Now in the storehouse of the Castle of Kos (inv. no. AS 53).
+			</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 286. </p>
+	    			<p> Other edition: Herzog <bibl type="abbr" n="HGK">HGK</bibl> 15. </p>
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 159; 
+	    				Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 35; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20286" type="external">IG-online</ref>, with the Greek text and a translation in German.
+	    			</p>
+	    			<p>Further bibliography: 
+	    				<bibl type="author_date" n="Rigsby 1996">Rigsby 1996</bibl>: 106-153;
+	    				<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 167-187;
+	    				<bibl type="author_date" n="Interdonato 2013">Interdonato 2013</bibl>;
+	    				<bibl type="author_date" n="Carbon - Pirenne-Delforge 2013">Carbon - Pirenne-Delforge 2013</bibl>: 83-95.
+	    			</p></div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				<ab>
+	    				
+<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+	    				
+	    				
+<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/><unclear>στ</unclear>ων γινε
+	    				
+	    				
+<lb xml:id="line_2" n="2" break="no"/> <gap reason="lost" extent="unknown" unit="character"/><unclear>ω</unclear><unclear>ν</unclear> τῶι <name type="deity" key="Asclepius"><w lemma="θεός">θεῶι</w></name> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character"/>
+	    				
+	    				
+<lb xml:id="line_3" n="3"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="κύριος"><supplied reason="lost">κ</supplied><unclear>υ</unclear>ρί<supplied reason="lost">α</supplied></w> <w lemma="εἰμί">ἔστω</w> ἁ <name type="group"><w lemma="ἐκκλησία">ἐκκλησί<supplied reason="lost">α</supplied></w></name>
+	    				
+	    				
+<lb xml:id="line_4" n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὅπως"><supplied reason="lost">ὅπως</supplied></w> <w lemma="οὖν"><supplied reason="lost">οὖν</supplied></w> <w lemma="ὑπάρχω"><supplied reason="lost">ὑπαρχό</supplied>ντων</w> <w lemma="χρῆμα">χρημάτων</w> <space extent="unknown" unit="character"/>
+	    				
+	    				
+<lb xml:id="line_5" n="5"/> <supplied reason="lost">ἁ</supplied> <name type="festival"><w lemma="πανήγυρις"><supplied reason="lost">πανάγυρις</supplied></w></name> <w lemma="συντελέω"><supplied reason="lost">συντελῆται</supplied></w> <w lemma="καλός"><supplied reason="lost">καλῶς</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="ἄξιος"><supplied reason="lost">ἀξίως</supplied></w> <supplied reason="lost">τοῦ</supplied> <name type="deity" key="Asclepius"><w lemma="θεός"><supplied reason="lost">θεοῦ</supplied></w></name><supplied reason="lost">,</supplied> <supplied reason="lost">τοὶ</supplied> <name type="title"><w lemma="ταμίας"><supplied reason="lost">ταμίαι</supplied></w></name> <w lemma="δίδωμι"><supplied reason="lost">διδό</supplied>ντω</w> <w lemma="εἰς">ἐς</w> τὰς <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name>
+	    				
+	    				
+<lb xml:id="line_6" n="6"/> <w lemma="ὑπέρ"><supplied reason="lost">ὑπὲρ</supplied></w> <supplied reason="lost">τᾶς</supplied> <name type="group"><w lemma="πόλις"><supplied reason="lost">πόλιος</supplied></w></name> <supplied reason="lost">τοῖς</supplied> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">ἱεροποιοῖς</supplied></w></name> <w lemma="ἐν"><supplied reason="lost">ἐμ</supplied></w> <name type="month"><w lemma="μείς"><supplied reason="lost">μηνὶ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="δραχμή"><supplied reason="lost">δραχμὰς</supplied></w> <w lemma="χίλιοι"><supplied reason="lost">χιλ</supplied>ίας</w> <w lemma="πεντεκόσιοι">πεντακοσίας</w>, <space extent="unknown" unit="character"/>
+	    				
+	    				
+<lb xml:id="line_7" n="7"/> <supplied reason="lost">τοὶ</supplied> <supplied reason="lost">δὲ</supplied>  <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">ἱεροποιοὶ</supplied></w></name> <w lemma="ὠνέομαι"><supplied reason="lost">ὠνείσθων</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοῦς</supplied></w></name> <w lemma="δύο"><supplied reason="lost">δύο</supplied></w> <name type="quality"><name type="gender"><w lemma="χρυσόκερως"><supplied reason="lost">χρυσ</supplied>οκέρως</w></name></name>, τῶι μὲν <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός"> Ἀσκλα                    
+	    						    					
+<lb xml:id="line_8" n="8" break="no"/> <supplied reason="lost">πιῶι</supplied></w></name> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <w lemma="ἐλάσσων"><supplied reason="lost">ἐλάσσονος</supplied></w> <w lemma="ἄξιος"><supplied reason="lost">ἄξιον</supplied></w> <w lemma="δραχμή"><supplied reason="lost">δραχμᾶν</supplied></w> <w lemma="παντακόσιοι"><supplied reason="lost">πεντακοσιᾶν</supplied></w><supplied reason="lost">,</supplied> <supplied reason="lost">τῶι</supplied> <supplied reason="lost">δὲ</supplied> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">Ἀπόλλω</supplied><unclear>ν</unclear>ι</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσονος</w> <w lemma="ἄξιος">ἄξι
+	    							    					
+<lb xml:id="line_9" n="9" break="no"/> <supplied reason="lost">ον</supplied></w> <w lemma="δραχμή"><supplied reason="lost">δραχμᾶν</supplied></w> <w lemma="τετρακόσιοι"><supplied reason="lost">τετρακοσιᾶν</supplied></w><supplied reason="lost">,</supplied> <supplied reason="lost">τᾶι</supplied> <supplied reason="lost">δὲ</supplied> <name type="deity" key="Hygieia"><w lemma="ὑγίεια"><supplied reason="lost">Ὑγιείαι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τᾶι</supplied> <name type="deity" key="Epione"> <w lemma="Ἠπιόνη"><supplied reason="lost">Ἠπιόναι</supplied></w></name> <name type="animal" key="ox"><name type="gender"><w lemma="δάμαλις"><supplied reason="lost">δάμα</supplied><unclear>λ</unclear>ιν</w></name></name> <w lemma="ἑκάτερος">ἑκατέραι</w> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσ 
+	    							
+<lb xml:id="line_10" n="10" break="no"/> <supplied reason="lost">σονος</supplied></w> <w lemma="ἄξιος"><supplied reason="lost">ἀξίαν</supplied></w> <w lemma="δραχμή"><supplied reason="lost">δραχμᾶν</supplied></w> <w lemma="τριακόσιοι"><supplied reason="lost">τριακοσιᾶν</supplied></w><supplied reason="lost">·</supplied> <name type="genericOffering"><w lemma="ἀνατίθημι"><supplied reason="lost">ἀνατιθέντω</supplied></w></name> <supplied reason="lost">δὲ</supplied> <w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w> <supplied reason="lost">τὰν</supplied> <name type="sacrifice"><name type="liquid"><w lemma="σπονδή"><supplied reason="lost">σπονδὰ</supplied>ν</w></name></name> ὁ <name type="title"><w lemma="μόναρχος">μόναρχος̣</w></name> καὶ τοὶ <name type="personnel"><w lemma="ἱεροποιός">ἱε
+	    								
+<lb xml:id="line_11" n="11" break="no"/> <supplied reason="lost">ροποιοὶ</supplied></w></name> <w lemma="κατά"><supplied reason="lost">καθ᾿</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἑκάσταν</supplied></w> <name type="festival"><w lemma="πανήγυρις"><supplied reason="lost">πανάγυριν</supplied></w></name> <supplied reason="lost">τοῖς</supplied> <name type="deity" key="generic"><w lemma="θεός"><supplied reason="lost">θεοῖς</supplied></w></name> <name type="object"><w lemma="φιάλη"><supplied reason="lost">φιάλας</supplied></w></name> <w lemma="δύο"><supplied reason="lost">δύο</supplied></w> <w lemma="ἀργύρεος"><supplied reason="lost">ἀργυρέα</supplied>ς</w>, τὰν μὲν <name type="group"><w lemma="πόλις">πόλις</w></name> <name type="deity" key="Asclepius"> <w lemma="Ἀσκληπιός">Ἀσκλα
+	    									
+	    									
+<lb xml:id="line_12" n="12" break="no"/> <supplied reason="lost">πιῶι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="deity" key="Hygieia"><w lemma="ὑγίεια"><supplied reason="lost">Ὑγιείαι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="deity" key="Epione"><w lemma="Ἠπιόνη"><supplied reason="lost">Ἠπιόναι</supplied></w></name><supplied reason="lost">,</supplied> <supplied reason="lost">τὰν</supplied> <supplied reason="lost">δὲ</supplied> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">ἱεροποιοὶ</supplied></w></name> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">Ἀπόλλωνι</supplied></w></name> <name type="epithet" key="Kyparissios"><w lemma="Κυπαρίσσιος"><unclear>Κ</unclear>υπαρισσίωι</w></name>· <w lemma="ἄγω"><unclear>ἀγ</unclear>έτω</w> δὲ <w lemma="ἀλεξάνδρειος">Ἀ
+	    										
+<lb xml:id="line_13" n="13" break="no"/><supplied reason="lost">λεξανδρείας</supplied></w> <w lemma="δραχμή"><supplied reason="lost">δραχμὰς</supplied></w> <w lemma="ἑκατόν"><supplied reason="lost">ἑκατὸν</supplied></w> <w lemma="πεντήκοντα"><supplied reason="lost">πεντήκοντα</supplied></w> <w lemma="ἑκάτερος"><supplied reason="lost">ἑκατέρα</supplied></w><supplied reason="lost">·</supplied> <name type="sacrifice"><name type="liquid"><w lemma="σπένδω"><supplied reason="lost">σπενδέτω</supplied></w></name></name> <supplied reason="lost">ὁ</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱ</supplied>ερεύς</w></name>· <w lemma="πέμπω">πενπ<unclear>έ</unclear>τω</w> δ<unclear>ὲ</unclear> καὶ <name type="personnel"> ὁ <w lemma="ἱερεύς">ἱ<unclear>ε</unclear> 
+	    												    											
+<lb xml:id="line_14" n="14" break="no"/> <supplied reason="lost">ρεὺς</supplied></w></name> <supplied reason="lost">τῶι</supplied> <supplied reason="lost">μὲν</supplied> <name type="deity" key="Asclepius"> <w lemma="Ἀσκληπιός"><supplied reason="lost">Ἀσκλαπιῶι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">Ἀπόλλωνι</supplied></w></name> <name type="animal" key="sheep"><w lemma="ὄϊς"><supplied reason="lost">οἶν</supplied></w></name> <name type="age"><name type="gender"><w lemma="τέλειος"><supplied reason="lost">τέλεων</supplied></w></name></name> <w lemma="ἑκάτερος"><supplied reason="lost">ἑκατέρω</supplied>ι</w> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσονος</w> <w lemma="ἄξιος">ἄξιον</w> <space extent="unknown" unit="character"/>
+	    				
+	    				
+	    					<lb xml:id="line_15" n="15"/> <w lemma="δραχμή"><supplied reason="lost">δραχμᾶν</supplied></w> <w lemma="πεντήκοντα"><supplied reason="lost">πεντήκοντα</supplied></w><supplied reason="lost">·</supplied> <w lemma="πέμπω"><supplied reason="lost">πενπέτω</supplied></w> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τᾶι</supplied> <name type="deity" key="Hygieia"><w lemma="ὑγίεια"><supplied reason="lost">Ὑγιείαι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τᾶι</supplied> <name type="deity" key="Epione"><w lemma="Ἠπιόνη"><supplied reason="lost">Ἠπ</supplied>ιόναι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <name type="age"><name type="gender"><w lemma="τέλειος">τελέαμ</w></name></name> <w lemma="ἑκάτερος">ἑκατέ 
+	    					
+	    					
+<lb xml:id="line_16" n="16" break="no"/> <supplied reason="lost">ραι</supplied></w> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <w lemma="ἐλάσσων"><supplied reason="lost">ἐλάσσονος</supplied></w> <w lemma="ἄξιος"><supplied reason="lost">ἀξίαν</supplied></w> <w lemma="δραχμή"><supplied reason="lost">δραχμᾶν</supplied></w> <w lemma="εἰκοσιπέντε"><supplied reason="lost">εἰκοσιπέντε</supplied></w> <supplied reason="lost"><space extent="unknown" unit="character"/></supplied> <supplied reason="lost">τ</supplied>οὶ δὲ <name type="title"><w lemma="προστάτης">προστάται</w></name> καὶ τῶν <name type="group"><w lemma="δῆμος"><unclear>δ</unclear>ά    
+	    						
+	    						
+<lb xml:id="line_17" n="17" break="no"/> <supplied reason="lost">μων</supplied></w></name> <supplied reason="lost">ὁ</supplied> <w lemma="ἀεί"><supplied reason="lost">ἀεὶ</supplied></w> <name type="title"><w lemma="δήμαρχος"><supplied reason="lost">δαμαρχῶ</supplied><supplied reason="lost">ν</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <name type="month"><w lemma="μείς"><supplied reason="lost">μηνὸς</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τᾶι</supplied> <w lemma="νουμηνία"><supplied reason="lost">νευμ</supplied><unclear>η</unclear>νίαι</w> <w lemma="αἱρέω">αἱρείσθων</w> <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμηνίος</w></name> <w lemma="ἐκ">ἐξ</w> <w lemma="ἕκαστος">ἑ   
+	    							
+	<lb xml:id="line_18" n="18" break="no"/> <supplied reason="lost">κάστου</supplied></w> <supplied reason="lost"><name type="group"><w lemma="δῆμος">δάμου</w></name></supplied> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">, τοῖς δὲ </supplied><supplied reason="lost"><w lemma="αἱρέω">αἱρεθεῖσιν</w></supplied> <w lemma="δίδωμι"><supplied reason="lost">διδό</supplied>ντω</w> τοὶ <name type="title"><w lemma="ταμίας">ταμίαι</w></name> <name type="ethnic" key="Isthmos"/><w lemma="Ἰσθμιώτης">Ἰσθμιωτᾶμ</w>
+	    				
+<lb xml:id="line_19" n="19"/> <supplied reason="lost">μὲν</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><w lemma="δραχμή">δραχμὰς</w></supplied> <supplied reason="lost"><w lemma="ὀκτακόσιοι">ὀκτακοσίας</w></supplied> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ᾶ</supplied>ν δὲ καὶ <name type="ethnic" key="Hippiotes"><w lemma="ἵππιος">Ἱππιωτᾶν</w></name> καὶ <name type="ethnic" key="Aigelios"><w lemma="Αἰγήλιος">Αἰγηλίων</w></name>
+	    					    				
+<lb xml:id="line_20" n="20"/> <supplied reason="lost">καὶ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἄν"><supplied reason="lost">ἄ</supplied><supplied reason="lost">ν</supplied></w> <supplied reason="lost">κα</supplied>ὶ <name type="ethnic" key="Phyxa"><w lemma="Φύξα">Πυξεωτᾶν</w></name> <w lemma="ἕκαστος">ἑκάστωι</w> <w lemma="δραμή">δρα
+	    					
+<lb xml:id="line_21" n="21" break="no"/> <supplied reason="lost">χμὰς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">κοσίας</supplied><supplied reason="lost">·</supplied> <w lemma="εἰ"><supplied reason="lost">αἰ</supplied></w> <supplied reason="lost">δέ</supplied> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <w lemma="ἀναλίσκω"><supplied reason="lost">ἀναλωθῆι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>οις <w lemma="δραχμή">δραχμὰς</w> <w lemma="τετρακόσιοι">τετρακοσίας</w>
+	    				
+<lb xml:id="line_22" n="22"/> <gap reason="lost" extent="unknown" unit="character"/><orig>εξο</orig><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/>
+	    				
+	    				
+	    				</ab>	
+	    
+
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>  [...] to the god [...] the assembly shall have the authority [... so that], the money being available, (5) [the festival be put on in an elegant manner, worthy of the god, the treasurers] are to give for the sacrifice [on behalf of the city, to the <foreign>hieropoioi</foreign> in the month ...] 1500 [drachmae. The <foreign>hieropoioi</foreign> are to buy ... two male oxen] with gilded horns, one for Asclepius, [worth not less than 500 dr., the other for Apollo], worth not less than (10) [400 dr., and to Hygieia and Epione a heifer] each, worth [not less than 300 dr.]. The <foreign>monarchos</foreign> and the [<foreign>hieropoioi</foreign> should dedicate for the libation during each festival two silver <foreign>phialai</foreign> to the gods], the city (should dedicate) one to Asclepius and [to Hygieia and to Epione, and the <foreign>hieropoioi</foreign> (should dedicate) the other one to Apollo] Kyparissios. These should weigh [150 dr. of Alexander each]. The priest [should make the libation]. And the priest should also escort (in the procession) [an adult male sheep each for Asclepius and Apollo], worth not less than (15) [50 dr. He should also escort for Hygieia and] Epione an adult ewe each, [worth not less than] 25 dr. The <foreign>prostatai</foreign> and from the demes [the one who is demarch at the time ...] should choose <foreign>epimenioi</foreign> from each [deme on the first of the month ...]. The treasurers [should give to those who have been chosen], among the people from Isthmos (20) [... 800 dr., among the ...], the Hippiotai and the Aigelioi, [...] and the Phyxeotai [...] dr. each. [If ... is not spent...] 400 dr. [...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p> [...] au dieu [...] que l’assemblée soit souveraine [... afin que], l’argent étant disponible, (5) [la panégyrie soit accomplie d’une manière belle et digne du dieu, que les trésoriers] donnent, pour le sacrifice [au nom de la cité, aux hiéropes, au mois de ...] 1500 [drachmes. Que les hiéropes achètent ... deux boeufs] aux cornes dorées, l’un pour Asclépios [d’au moins 500 dr., l’autre pour Apollon] d’au moins (10) [400 dr., ainsi que pour Hygie et Épionè une génisse] d’au moins [300 dr.] chacune. Que le monarque et les [hiéropes consacrent aux dieux à chaque panégyrie deux phiales en argent pour la libation], que la cité (en consacre) une à Asclépios, [Hygie et Épionè, que les hiéropes (consacrent) l’autre à Apollon] Kyparissos. Qu’elles pèsent [chacune 150 dr. alexandrines]. Que le prêtre [répande les libations]. Que le prêtre mène également en procession, [pour Asclépios et Apollon, un mouton mâle adulte chacun] d’au moins (15) [50 dr. Qu’il mène également pour Hygie et Épionè] une brebis adulte chacune [d’au moins 25 dr.]. Que les prostates et, des dèmes, [le démarque en fonction au mois de ...] élisent au premier [du mois] des <foreign>epimenioi</foreign> de [chaque dème ...], que les trésoriers [donnent à ceux qui ont été élus] parmi les Isthmiotes [... 800 dr., parmi les ...], les Hippiotai, les Aigelioi, [...] et les Phyxeotai [...] dr. chacun. [Si ... n’est pas dépensé ...] 400 dr. [...]</p>
+					<p>(traduction S. Paul)</p>
+				</div>
+					<div type="commentary">    
+					
+						
+						<head>Commentary</head> 
+   
+<p> The inscription regulates the funding of new—or additional and enhanced—sacrifices to be performed during the festival of Asclepius, the penteteric Asklepieia, by the city of Kos and its demes. It is very fragmentary and the restorations are partly based on a second copy (cf. <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 287). The first preserved part of the text discussed the purchase of two male oxen to be sacrificed to Asclepius and Apollo Kyparissios, and two young cows for Hygieia and Epione. The annual dedication of two silver <foreign>phialai</foreign> to make libations, performed by the priest (of Asclepius) are also specified. Next, the stipulations concerned the provision of adult sheep by the priest (of Asclepius) to be conducted in the procession and sacrificed to each of the four above-mentioned gods. In the final section, the selection of "monthly" officers, one from each deme, is regulated; on the possible function of these officials, see below at lines 16-20.</p> 
+	
+<p> The sanctuary of Asclepius is located at approximately 3 km southwest of the city of Kos (see recently Interdonato). On the cults at the Asklepieion, see esp. Paul. Asclepius is frequently associated with his wife Epione and his daughter Hygieia in a kind of "familial pantheon". Epione seems to have had a special relationship with Kos because according to a narrative tradition, she was the daughter of Merops, the legendary king of the island (cf. Hes. fr. 53 Merkelbach-West). According to another story, she was the daughter of Heracles, which would also connect her to Kos in the sense that the cult of this hero was particularly developed on the island, and according to legend, Heracles stayed on the island during his return journey from Troy. The daughter of Asclepius, Hygieia, is generally mentioned before Epione in the epigraphical sources and the pair Asclepius - Hygieia also appear together, without Epione (both on Kos and elsewhere in the Greek world). For others instances of the cult of these three gods on Kos, cf. <ref target="CGRN_161">CGRN 161</ref>, line 1-2, and <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 311. Asclepius and Hygieia are found as a pair in Attica (<ref target="CGRN_215">CGRN 215</ref>). Apollo Kyparissos’ epithet refers to the Kyparisson, a sacred grove of cypress trees located on the upper terrace of the sanctuary, which probably was the original centre of the cult. Its integrity was protected by two inscriptions from the fourth and third century BC (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 283-284). It is believed that the cult of Asclepius, though it joined the Kyparisson at a later stage, probably in the late fouth or early third century BC (see Paul, p. 173-178, for discussion), eventually gained precedence over the cult of Apollo. The latter, however, still remained an essential part of the rituals at the Asklepieion, as well evidenced here in the third century BC, where both gods are worshipped together. Processions to the Kyparisson are also mentioned in the cult calendar of the gymnasium from Kos (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 281, mid-2nd century BC). A priest is alluded to here (line 13); it is almost certain that this was that of Asclepius himself. For a probable contract of the sale of this priesthood at Kos, see here <ref target="CGRN_218">CGRN 218</ref>.</p>
+						
+<p> Lines 4-5: If this restoration is correct, we can only speculate about what would happen if money were not available to fund the rites at each major festival occasion (cf. καθ᾿ ἑκάσταν πανάγυριν, line 10). The penteteric festival of the Asklepieia was introduced in 242 BC, following the earliest major construction phase in the sanctuary in the first half of the third century BC (see Paul, p. 179-181). The Asklepieia included processions and sacrifices to Asclepius and other gods worshipped at the Asklepieion, namely Apollo Kyparissos, Hygieia, and Epione, as well as musical, athletic, and equestrian contests. Note, however, that it is unclear if the regulation preserved here constitutes the sum total of the sacrifices performed at the penteteric Asklepieia by the city of Kos or perhaps additional sacrifices funded by civic money, so the festival was augmented and performed in a more suitable manner (ὅπως ... συντελῆται καλῶς καὶ ἀξίως τοῦ θεοῦ). </p>
+	
+<p> Line 7: Some of the oldest Greek sources refer to gilding the horns of animals to make a particularly beautiful or luxurious sacrifices (cf. Hom. <title>Il.</title> 10.294, <title>Od.</title> 3.385, 3.426). In the present Collection, oxen with gilded horns are sacrificed for example to Demeter, Persephone and Athena at Eleusis (<ref target="CGRN_31">CGRN 31</ref>, lines 37 and 40) and to Athena and Homonoia at Antiocheia-ad-Pyramum (<ref target="CGRN_205">CGRN 205</ref>, line 10). For such sacrifices to Artemis and Apollo Pythios on Kos, see <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 68 and 339). </p>
+					
+<p> Lines 13-16: The verb πέμπειν properly refers to the action of conducting animals in a procession, cf. e.g. <ref target="CGRN_92">CGRN 92</ref> (Athens), lines 19, 28, 34-35, and <ref target="CGRN_205">CGRN 205</ref> (Antiocheia-ad-Pyramum), lines 7-9, and also <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. A. III.2. It may be assumed that the implicit requirement here is that the priest will ensure the correct provision of these animals for the procession during the Asklepieia (perhaps out of his own funds since these animals are not "bought" like the oxen mentioned previously; more likely, as financed by the regulation). More specifically, the verb signifies that the priest would escort these animals himself during the procession from the town of Kos to the Asklepieion in its hinterland.</p>
+						
+<p> Lines 16-20: A group of <foreign>epimenioi</foreign>, etymologically "monthly officials", were appointed by the city from each of the demes of Kos which participated in the Asklepieia. Though we only hear that these were to be given money by the <foreign>tamiai</foreign>, it can be reasonably hypothesised that these ritual agents were responsible for the provision of the sacrificial animals during the festival (and perhaps assisted the priest of Asclepius in the performance of the sacrifices). In this regard, it is noteworthy that the <foreign>epimenioi</foreign> were appointed at the beginning of a specific month (now lost, cf. τᾶι νευμ]η̣νίαι, line 17; the precise timing of the Asklepieia is also unclear): this would presumably have ensured that they would have sufficient time to purchase and supply the animals for the festival. The precise calculus of the supply of the offerings eludes us (for instance, the Isthmiotai are to be given 800 drachmae in lines 18-19; this might suffice to pay for the ox offered to Asclepius and one of the heifers; but the remaining transactions are unclear). For further discussion on the officials called <foreign>epimenioi</foreign>, see notably Carbon - Pirenne-Delforge.</p>
+						
+
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

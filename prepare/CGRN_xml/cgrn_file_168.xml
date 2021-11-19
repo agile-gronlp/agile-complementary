@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_168" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 168</idno>: <rs type="textType" key="decree">Decree</rs> proposing cultic honours for (x) son of Drakon at Keramos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>White marble <rs type="objectType">stele</rs>, broken at the top and left, otherwise relatively intact.</p>
+			<p><dimensions>
+					<height unit="cm">52</height>
+					<width unit="cm">36</width>
+					<depth unit="cm">12-13</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">9</height>. Description (Carbon): <foreign>alpha</foreign> with straight crossbar, open <foreign>omega</foreign>, but pronounced serifs, round letters usually of the same size as the others, angular and close <foreign>sigma</foreign>. <foreign>Iota subscriptum</foreign> is only seldom and irregularly implied: cf. lines 5, 13, 22.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0200" notAfter="-0100">ca. 200-100 BC</origDate></p>
+			<p><desc>Justification: lettering (Carbon, see above; characteristic of the mid-Hellenistic period).</desc></p>
+		</origin>
+		<provenance><placeName type="ancientFindspot" key="Keramos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599707" type="external">Keramos</ref></placeName>. Found in the village of Kırmevkii near Kemerdere (Ören = Keramos). Now in the Museum of Bodrum (no inv. no.).
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Varinlioğlu <bibl type="abbr" n="I.Keramos">I.Keramos</bibl> 9, with ph. pl. 7.1.</p>
+					<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 35, 1090, not reprising the text but a note on the estimates of the population of the city.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Schmidt 1908">Schmidt 1908</bibl>; <bibl type="author_date" n="Robert 1968">Robert 1968</bibl>; <bibl type="author_date" n="Strubbe 2004">Strubbe 2004</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>	    				
+	    				
+<lb/><gap reason="lost" extent="unknown"/>
+	    				
+<lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>στ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_2" n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name type="genericOffering"><w lemma="ἀνίστημι"><supplied reason="lost">ἀνασταθῆναι</supplied></w></name> <supplied reason="lost">δὲ</supplied> <w lemma="αὐτός"><supplied reason="lost">αὐτοῦ</supplied></w> <name type="object"><w lemma="εἰκών"><supplied reason="lost">εἰκό</supplied>να</w></name> <w lemma="ἀπό">ἀπὸ</w> <w lemma="δραχμή">δραχ<supplied reason="lost">μῶν</supplied></w>
+	    				
+<lb xml:id="line_3" n="3"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">καὶ</supplied> <w lemma="ἀναγράφω"><supplied reason="lost">ἀναγραφῆν</supplied>αι</w> <w lemma="ἐπί">ἐπὶ</w> τοῦ <name type="structure"><w lemma="βῆμα">βήματ<supplied reason="lost">ος</supplied></w></name>
+	    					
+<lb xml:id="line_4" n="4"/><w lemma="ὅτι"><supplied reason="lost">ὅτι</supplied></w> <supplied reason="lost">ὁ</supplied> <name type="group"><w lemma="δῆμος"><supplied reason="lost">δῆμος</supplied></w></name> <name type="genericOffering"><w lemma="τιμάω"><supplied reason="lost">ἐτίμησεν</supplied></w></name> <gap reason="lost" quantity="5" unit="character" precision="low"/><orig>ν</orig> <w lemma="Δράκων">Δράκοντος</w> <w lemma="ἀρετή">ἀρετῆς</w> <w lemma="ἕνεκα">ἕν<supplied reason="lost">ε</supplied>
+	    					
+<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">κεν</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="εὔνοια"><supplied reason="lost">εὐνοίας</supplied></w> <supplied reason="lost">τῆς</supplied> <w lemma="εἰς"><supplied reason="lost">εἰς</supplied></w> <w lemma="ἑαυτοῦ"><supplied reason="lost">ἑαυ</supplied><unclear>τ</unclear>όν</w>· <w lemma="ὑπάρχω">ὑπάρχειν</w> δὲ <w lemma="αὐτός">αὐτῷ</w> καὶ <w lemma="προεδρία">πρ<unclear>ο</unclear>
+	    					
+<lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">εδρίαν</supplied></w> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <w lemma="πᾶς"><supplied reason="lost">πᾶσι</supplied></w> <supplied reason="lost">τοῖς</supplied> <name type="festival"><w lemma="ἀγών">ἀγῶσιν</w></name>· <name type="invocation"><w lemma="ἀναγορεύω">ἀναγορεύεσθαι</w></name> δὲ <w lemma="αὐτός">αὐτοῦ</w>
+	    				
+<lb xml:id="line_7" n="7"/><supplied reason="lost">καὶ τὰς</supplied> <name type="genericOffering"><w lemma="τιμή"><supplied reason="lost">τιμὰς</supplied></w></name> <w lemma="κατά"><supplied reason="lost">κ</supplied>αθ’</w> <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <w lemma="ὑπό">ὑπὸ</w> τοῦ <name type="personnel"><w lemma="ἀγωνοθέτης">ἀγωνο
+	    					
+<lb xml:id="line_8" n="8" break="no"/><supplied reason="lost">θέτου</supplied></w></name> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τῶι</supplied> <name type="festival"><w lemma="ἀγών"><supplied reason="lost">ἀ</supplied>γῶνι</w></name> τῶι <w lemma="γυμνικός">γυμνικῶι</w>· <name type="invocation"><w lemma="καλέω">καλεῖσθαι</w></name> δὲ <w lemma="αὐτός">αὐτὸν</w>
+	    					
+<lb xml:id="line_9" n="9"/><w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <supplied reason="lost">τὴν</supplied> <name type="group"><w lemma="κοινός"><supplied reason="lost">κοινὴν</supplied></w></name> <name type="structure"><w lemma="ἑστία"><supplied reason="lost">ἑσ</supplied>τίαν</w></name> τοῦ <name type="group"><w lemma="δῆμος">δήμου</w></name> <w lemma="ὑπό">ὑπὸ</w> τοῦ <name type="personnel"><w lemma="στεφανηφόρος">στεφανηφόρου</w></name>
+	    				
+<lb xml:id="line_10" n="10"/><w lemma="κατά"><supplied reason="lost">κατ’</supplied></w> <w lemma="ἐνιαυτός"><supplied reason="lost">ἐνιαυτὸ</supplied>ν</w> <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ἐν">ἐν</w> τοῖς <name type="festival"><w lemma="Ταυροθύσια">Ταυροθυσίοις</w></name>· <name type="adornment"><w lemma="στεφανόω">στεφα
+	    				
+<lb xml:id="line_11" n="11" break="no"/><supplied reason="lost">νοῦσθαι</supplied></w></name> <supplied reason="lost">δὲ κ</supplied>αὶ <w lemma="ἐν">ἐν</w> τῶι <w lemma="πρότερος">πρώτωι</w> <name type="festival"><w lemma="ἀγών">ἀγῶνι</w></name> τῶι <name type="festival"><w lemma="Διονύσια">Διονυσίων</w></name> <w lemma="ὑπό">ὑπὸ</w>
+	    					
+<lb xml:id="line_12" n="12"/><supplied reason="lost">τοῦ</supplied> <name type="personnel"><w lemma="ἀγωνοθέτης"><supplied reason="lost">ἀγωνοθέτ</supplied>ου</w></name> καὶ <name type="invocation"><w lemma="ἀναγορεύω">ἀναγορεύεσθαι</w></name> τὰς <name type="genericOffering"><w lemma="τιμή">τιμὰς</w></name> <w lemma="κατά">κατ’</w> <w lemma="ἐνιαυτός">ἐν<supplied reason="lost">ι</supplied>
+	    				
+<lb xml:id="line_13" n="13" break="no"/><supplied reason="lost">αυτὸν</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἕκαστο</supplied>ν</w>· καὶ <w lemma="ἐπειδάν">ἐπειδὰν</w> <name type="death"><w lemma="μεταλλάσσω">μεταλλάξῃ</w></name> τὸν <w lemma="βίος">βίον</w>, <name type="death"><w lemma="θάπτω">ταφῆν<unclear>α</unclear><supplied reason="lost">ι</supplied></w></name>
+	    				
+<lb xml:id="line_14" n="14"/><w lemma="αὐτός"><supplied reason="lost">αὐτὸν</supplied></w> <name type="group"><w lemma="δημόσιος"><supplied reason="lost">δημοσία</supplied>ι</w></name>· <name type="sacrifice"><w lemma="θύω">θύεσθαι</w></name> δὲ <w lemma="αὐτός">αὐτῶι</w> <w lemma="κατά">κατ’</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <w lemma="ἕκαστος">ἕκαστον</w>
+	    				
+<lb xml:id="line_15" n="15"/><w lemma="ὑπό"><supplied reason="lost">ὑπὸ</supplied></w> <supplied reason="lost">τῶν</supplied> <name type="personnel"><w lemma="ἱερομνήμων"><supplied reason="lost">ἱερομ</supplied>νημόνων</w></name> <w lemma="ἐν">ἐν</w> <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Ἡραῖος">Ἡραίωι</w></name> τῆι <w lemma="δωδέκατος">δωδεκάτηι</w> τοῖς
+	    				
+<lb xml:id="line_16" n="16"/><name type="festival"><w lemma="γενέθλιος"><supplied reason="lost">γενεθλίοις</supplied></w></name> <w lemma="αὐτός"><supplied reason="lost">αὐ</supplied>τοῦ</w> <name type="animal" key="sheep"><w lemma="κριός">κριὸν</w></name> <w lemma="ἐπί">ἐπὶ</w> <name type="structure"><w lemma="βωμός">βωμοῦ</w></name> τοῦ <w lemma="ἀποδείκνυμι">ἀποδειχθέν
+	    					
+<lb xml:id="line_17" n="17" break="no"/><supplied reason="lost">τος</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="κατατίθημι"><supplied reason="lost">κατ</supplied>ατίθεσθαι</w> <w lemma="ὑπό">ὑπ’</w> <w lemma="αὐτός">αὐτῶν</w> <name type="object"><name type="festival"><w lemma="ἆθλον">ἆθλα</w></name></name> <name type="person"><w lemma="παῖς">παισὶν</w></name> καὶ <name type="person"><w lemma="ἔφηβος">ἐ
+	    					
+<lb xml:id="line_18" n="18" break="no"/><supplied reason="lost">φήβοις</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἀναγράφω"><supplied reason="lost">ἀναγ</supplied>ραφῆναι</w> δὲ καὶ τὰς <name type="genericOffering"><w lemma="τιμή">τιμὰς</w></name> <w lemma="αὐτός">αὐτοῦ</w> <w lemma="ἐν">ἐν</w> <objectType key="stele"><w lemma="στήλη">στή
+	    				
+<lb xml:id="line_19" n="19" break="no"/><supplied reason="lost">ληι</supplied></w></objectType> <w lemma="λίθινος"><supplied reason="lost">λιθίνηι</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="ἀνατίθημι">ἀνατεθῆναι</w> <w lemma="ἐν">ἐν</w> τῶι <w lemma="ἐπιφανής">ἐπιφανεστάτωι</w>
+	    					
+<lb xml:id="line_20" n="20"/><w lemma="τόπος"><supplied reason="lost">τόπωι</supplied></w><supplied reason="lost">·</supplied> <w lemma="αἱρέω"><supplied reason="lost">ἑλέσ</supplied>θαι</w> δὲ καὶ <name type="person"><w lemma="ἀνήρ">ἄνδρας</w></name>, <w lemma="ὅστις">οἵτινες</w> τῆς τε τῶν <name type="genericOffering"><w lemma="τιμή">τι
+	    				
+<lb xml:id="line_21" n="21" break="no"/><supplied reason="lost">μῶν</supplied></w></name> <w lemma="ἀναγραφή"><supplied reason="lost">ἀναγρα</supplied>φῆς</w> καὶ τῆς <w lemma="ἀνάθεσις">ἀναθέσεως</w> τοῦ <w lemma="ἀνδριάς">ἀνδριάν
+	    				
+<lb xml:id="line_22" n="22" break="no"/><supplied reason="lost">τος</supplied></w> <w lemma="ποιέω"><supplied reason="lost">ποιήσο</supplied>νται</w> <w lemma="πρόνοια">πρόνοιαν</w>. <supplied reason="lost"><space extent="unknown" unit="character"/></supplied> <supplied reason="lost">οἵδε</supplied> <w lemma="αἱρέω">ᾑρέθησαν</w>·
+	    				
+<lb xml:id="line_23" n="23"/><gap reason="lost" extent="unknown" unit="character"/> Ἀθηνοδώρου, Μενέστρατος
+	    					
+<lb xml:id="line_24" n="24"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ο</supplied>υ <w lemma="κατά">καθ’</w> <w lemma="υἱοθεσία">ὑοθεσίαν</w> δὲ Διομήδου,
+	   
+<lb xml:id="line_25" n="25"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">δ</supplied>ωρος Λέοντος, Ἄνδρων Θεαγένου.
+	    				
+<lb xml:id="line_26" n="26"/><w lemma="ψῆφος"><supplied reason="lost">ψῆφοι</supplied></w> <supplied reason="lost">αἷς</supplied> <w lemma="δοκέω"><supplied reason="lost">ἔδ</supplied>οξε</w> <w lemma="δίδωμι">δοῦναι</w> τὰς <name type="genericOffering"><w lemma="τιμή">τιμὰς</w></name> <w lemma="ἐνακόσιοι">ἐνακόσιαι</w>
+	    					
+<lb xml:id="line_27" n="27"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἷς">μία</w>, αἷς δὲ <w lemma="μή">μὴ</w>
+	    					
+<lb xml:id="line_28" n="28"/><w lemma="ἑκατόν"><supplied reason="lost">?ἑκατὸν</supplied></w> <w lemma="τεσσαράκοντα"><supplied reason="lost">τεσσ</supplied>αράκοντα</w> <w lemma="τέσσαρες">τέσαρες</w>. <space extent="unknown" unit="line"/>
+	    				
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...] And to set up a statue of him [costing ...] drachmae [...] and to inscribe on the base that the people honour [(x)] son of Drakon for his virtue (5) [and his goodwill towards itself]. He is to have priority seating in all of the games; and his [honours] are to be announced each year by the <foreign>agonothetes</foreign> during the athletic games. He is to be called to the common hearth of the people by the <foreign>stephanephoros</foreign> (10) each year during the festival of the Taurothysia. He is to be crowned in the first contest of the festival of the Dionysia by the agonothetes and his honours are (also) to be proclaimed (there) annually; and when he has died, he is to be buried [at public expense]. A ram is to be sacrificed to him annually (15) by the <foreign>hieromnemones</foreign> on the 12th of the month Heraion, his birthday celebrations, on the altar which has been designated; and prizes are to be established by them (i.e. the hieromnemones) for the boys and for the ephebes. His honours are to be written up on a stone stele, which is to be set up in the most conspicuous (20) [place]. Men are to be chosen who will take care of the inscribing of the honours and the erection of the statue.</p>
+	    				
+<p>The following were selected: [(x)] son of Athenodoros, Menestratos [son of ...] by adoption son of Diomedes, 25) [...]doros son of Leon, Andron son of Theagenes. Ballots by which were voted to give the honours: nine hundred [...] and one; negative votes: [a hundred?] and forty-four.
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[...] Et d'ériger sa statue [coûtant...] drachmes [...] et de faire inscrire sur sa base que le peuple honore [(x)] fils de Drakon pour sa vertu (5) [et sa bienveillance envers lui]. Il aura un siège prioritaire lors de tous les concours; et les [honneurs] à son égard seront annoncés chaque année par l'agonothète durant les concours athlétiques. Il sera invité au foyer commun du peuple par le stéphanéphore (10) chaque année durant la fête des Taurothysia. Il sera couronné lors du premier concours des Dionysia par l'agonothète et ses honneurs seront (également) proclamés annuellement (i.e. à cette occasion); et lorsqu'il sera mort, il sera enterré [sur fonds publics]. Un bélier lui sera sacrifié annuellement (15) par les hiéromnémons le 12 du mois d'Heraion, sa date anniversaire, sur l'autel qui aura été désigné; et des prix seront établis par eux (les hiéromnémons) pour les garçons et les éphèbes. Les honneurs à son égard seront inscrits sur une stèle de pierre, qui sera érigée (20) à [l'endroit] le plus visible. Des hommes seront choisis pour s'occuper de l'inscription des honneurs et de l'installation de la statue.</p>
+						
+<p>Voici ceux qui ont été choisis: [(x)] fils d'Athenodorors, Menestratos [fils de ...] par adoption le fils de Diomède, (25) [...]dore le fils de Léon, Andron fils de Theagenes. Votes par lesquels il a plu de conférer les honneurs : neuf cents [...] et un, contre [cent ?] quarante-quatre. 
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>The inscription is an honorific decree, almost certainly belonging to the city of Keramos, for a certain individual whose name is not preserved (but we know he was the son of a certain Drakon, cf. line 4). Commentary (see Varinlioğlu and <bibl type="abbr" n="SEG">SEG</bibl>) has particularly focussed on the conclusion of the text (lines 26-28), which partially preserves a number of votes for and against the proposal of the honours. Since probably a thousand or so voters are in evidence, this might provide a rough estimate of the democratic population of the Karian city of Keramos (1000+ male voters; probably several multiples of this for the total population including non-citizens?). Here, however, we only offer a brief commentary on the cultic rites proposed as honours for this individual. Several of these honours, notably the honorific statue with its inscribed base (lines 2-5), the public proclamation of the honours during contests and festivals (lines 6-8 and 12-13), are typical of Hellenistic honours. These and others match particularly well, though more modestly, those accorded to Olympichos at Mylasa: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_150">CGRN 150</ref> (Labraunda). Other honorific decrees from Keramos, both more terse and more fragmentary, mention a similar registry of honours, though they do not appear to prescribe sacrifices and cult <foreign>per se</foreign>: cf. esp. <bibl type="abbr" n="I.Keramos">I.Keramos</bibl> 7-8 (for a gymnasiarch called Lykiskos). For a discussion of cultic honours for benefactors in Asia Minor, see Strubbe.</p>
+							
+<p>Lines 8-10: The invitation to a meal at the public hearth or at the prytaneion is typical of honorific decrees in Greek cities. Here, it is further specified by being an annual honour, to occur only during one of the principal civic festivals, the Taurothysia. Cp. again <bibl type="abbr" n="I.Keramos">I.Keramos</bibl> 7 (the same honours for Lykiskos), as well as the honours for Olympichos, some of which occur during the Taureia (Taurophonia) at Mylasa: <ref target="http://cgrn.ulg.ac.be/CGRN_150">CGRN 150</ref>, lines 21-24.</p>
+
+<p>Lines 13-18: Burial at public expense is well-attested as an honour, cp. again <bibl type="abbr" n="I.Keramos">I.Keramos</bibl> 7 (there, with a funeral also); cf. more generally Robert. It is not known whether the cultic honours are to be enacted immediately or whether they are also conditional on the death of the individual (like the burial). The syntax is not decisive, but seems to suggest that no logical or chronological order is envisaged by the decree. The former option may therefore be preferable: namely, that the sacrificial rituals could begin while the honourand was still alive. A ram is often sacrificed in heroic and personal cult: see here <ref target="http://cgrn.ulg.ac.be/CGRN_104/">CGRN 104</ref> (Halikarnassos), lines 34-37, and <ref target="http://cgrn.ulg.ac.be/CGRN_143/">CGRN 143</ref> (Laodikeia-on-the-Lykos), lines 26-29; in both cases, cult while living seems clear. The new occasion for celebration is the birthday celebration of the honourand (the month Heraios and the calendar of Keramos are not well-understood). <foreign>Genethlia</foreign> as cultic celebrations only seem to gain in prominence during the mid to late Hellenistic period, and particularly during the Roman period; see still Schmidt on this subject. By contrast with other honorands, such as the dynast Olympichos, this individual at Keramos does not appear to receive his own altar, but rather the sacrifices will be performed on an existing structure (the phrase ἐπὶ βωμοῦ τοῦ ἀποδειχθέν|τος is vague; presumably the established altar of a god is meant or a customary one in the gymnasion, where contests could be held?). The final phrase, though again quite allusive, appears to suggest that a new contest, perhaps athletic and evidently for both boys and ephebes, will be established as a further honour, and that this will take place during the birthday celebrations. The cultic agents known as <foreign>hieromnemones</foreign> are seldom in evidence in Karia, though cf. <bibl type="abbr" n="I.Tralleis">I.Tralleis</bibl> 20 and 35; <foreign>pace</foreign> Varinlioğlu, they are not to be seen as reflecting a 'Dorian' influence on Keramos.
+							
+							
+							
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

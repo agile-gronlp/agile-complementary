@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_73" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 73</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for Hestia at Halimous</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>
+                            <rs type="objectType" key="plaque">Plaque</rs> of Pentelic marble. Original contours intact.</p>
+                            <p><dimensions>
+                            <height unit="cm">6</height>
+                                <width unit="cm">19</width>
+                                <depth unit="cm">18</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Letters: line 1: <height unit="cm">1.2</height>; line 2: <height unit="cm">0.7</height></p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0400" notAfter="-0300">4th century BC</origDate></p>
+                        <p><desc>Justification: lettering (Curbera).</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Halimous" n="Attica"><ref target="http://pleiades.stoa.org/places/579941" type="external">Halimous</ref></placeName>. Now in the Epigraphical Museum in Athens (inv. no. 12688).</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by S. Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                <p>Edition here based on <bibl type="author_date" n="Kyparissis - Peek 1941">Kyparissis - Peek 1941</bibl>: 195-196 no. 3. See now Curbera <bibl type="abbr" n="IG  II³">IG II³</bibl> 4, 1778.</p>
+                <p> Cf. also:                     
+                    Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 22; 
+                    Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 21;
+                    <bibl type="abbr" n="SEG">SEG</bibl> 21, 813.
+                </p>
+                   
+                <p> Further bibiography: <bibl type="author_date" n="Stengel 1910">Stengel 1910</bibl>: 222-233; <bibl type="author_date" n="Kearns 2011">Kearns 2011</bibl>. </p>
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    <lb xml:id="line_1" n="1"/> <name type="deity" key="Hestia"><w lemma="ἑστία">Ἑστίας</w></name>·
+                    <lb xml:id="line_2" n="2"/> <name type="sacrifice"><w lemma="θύω">θύειν</w></name> <w lemma="τρεῖς">τρεῖς</w> <name type="bakery"><w lemma="ἕβδομος">ἑβδόμους</w> <w lemma="βοῦς"><supplied reason="lost">β</supplied>ο<unclear>ῦ</unclear><supplied reason="lost">ς</supplied></w></name>.
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    (Altar) of Hestia. Sacrifice three crescent-shaped cakes.
+                    
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction </head>
+                <p>
+                    (Autel) d’Hestia.
+                    Sacrifier trois gâteaux en forme de croissant.
+                </p>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p>              
+                    The document should be considered part of a group of mostly short inscriptions (cf. e.g. <ref target="CGRN_53">CGRN 53</ref> and <ref target="CGRN_54">CGRN 54</ref>) found otherwise in Piraeus and in or near the city Asklepieion of Athens, prescribing the (preliminary) offering of cakes to various divinities. </p>
+                    <p> Line 1: Ἑστίας. This inscription starts with the name of the god in the genitive (like, probably, <ref target="CGRN_72">CGRN 72</ref>, Athens), indicating that the altar is dedicated to the divinity in question or that this is the place of the cult of the god in question. The cult of Hestia is attested in Athens, Piraeus and Echelidai (Kyparissis - Peek, p. 196).</p>
+                    <p> Line 2: The ἑβδόμους βοῦς was a type of cake. Cf. Ziehen, p. 77, and Stengel. Such offerings were brought to Apollo, Artemis, Hekate, Selene (Pollux 6.76). Cp. <ref target="CGRN_133">CGRN 133</ref> and <ref target="CGRN_134">CGRN 134</ref> (both from Athens) with further discussion.
+    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

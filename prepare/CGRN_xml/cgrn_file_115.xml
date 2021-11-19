@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_115" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 115</idno>: Excerpt from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> at Lindos (concerning Poseidon Phytalmios)</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support><p>Small <rs type="objectType">stele</rs> of marble, partly broken, but the inscribed surface appears to be virtually intact.</p>
+									<p><dimensions>
+										<height unit="cm">unknown</height>
+										<width unit="cm">27</width>
+										<depth unit="cm">6</depth>
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout><p>Letters: <height unit="mm">unknown</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0300" notAfter="-0200">ca. 300-200 BC</origDate></p>
+							<p><desc>Justification: lettering (Hiller von Gaertringen).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Lindos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589913" type="external">Lindos</ref></placeName>. Found in the area of Gennadi. Now lost.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				
+				<p>Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG XII.5">IG XII.5</bibl> 905, with dr.</p>
+				
+				<p>Cf. also: von Prott <bibl type="abbr" n="LGS I">LGS I</bibl> 23; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 140.</p>
+				
+				<p>Further bibliography: <bibl type="author_date" n="Segre 1951">Segre 1951</bibl>; 
+					<bibl type="author_date" n="Robertson 1984">Robertson 1984</bibl>; 
+					<bibl type="author_date" n="Graf 1985">Graf 1985</bibl>: 207-08;
+					<bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>: 199; 
+					<bibl type="author_date" n="Badoud 2015">Badoud 2015</bibl>: 11-35; 
+					<bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>: 192-197; 
+					<bibl type="author_date" n="Carbon forthc.">Carbon forthc.</bibl></p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab>
+					
+<lb/><space extent="unknown" unit="line"/>
+					
+<lb xml:id="line_1" n="1"/><name type="month"><w lemma="θεοδαίσια">Θευδαισίου</w></name> <w lemma="ἕκτος">ἕκτα<supplied reason="lost">ι</supplied></w>
+					
+<lb xml:id="line_2" n="2"/><w lemma="ἵστημι">ἱσταμένου</w> <name type="deity"><w lemma="Ποσειδῶν">Ποτ <lb xml:id="line_3" n="3" break="no"/>ειδᾶνι</w></name> <name type="epithet" key="Phytalmios"><w lemma="Φυτάλμιος">Φυταλμί 
+						
+<lb xml:id="line_4" n="4" break="no"/>ωι</w></name> <name type="animal" key="swine"><w lemma="ὗς">ὗς</w></name> <name type="age"><name type="gender"><w lemma="τέλειος">τέλεος</w></name></name>, 
+					
+<lb xml:id="line_5" n="5"/><name type="sacrifice"><w lemma="θοινάω">θοινῆται</w></name>. <space quantity="1" unit="line"/>
+				</ab>
+			</div>
+			
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				<p> On the 6th of Theudaisios, to Poseidon Phytalmios an adult male pig (is sacrificed, and) is feasted upon (i.e. on the spot). </p>
+			</div>
+			
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				<p> Le 6 Theudaisios, à Poséidon Phytalmios un porc mâle adulte (est sacrifié, et) fournit un repas (i.e. sur place). </p>
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+				
+				<p>The inscription is one of a large number of extracts from a sacrificial calendar inscribed or recodified in the late Classical or early Hellenistic period and disseminated at various local sanctuaries, presumably as punctual reminders and short regulations in and of themselves (for the early beginning of such excerpts, cf. the closely parallel <ref target="CGRN_62">CGRN 62</ref> and <ref target="CGRN_63">CGRN 63</ref>, both from Lindos). The excerpts perhaps come from the general sacrificial calendar of the unified city of Rhodes or perhaps equally probably from that of Lindos itself. See e.g. <ref target="CGRN_116">CGRN 116</ref> for further examples from Lindos; e.g. <ref target="CGRN_110">CGRN 110</ref> for others from Kamiros. For a general discussion of these excerpts, see Segre and Carbon forthc.</p>
+				
+				<p>Though the findspot is not precisely known, this cult-site of Poseidon is to be located in the area of Gennadi, the large area at the south of the island which belonged to the deme of Lindos. The date of the sacrifice here is not otherwise attested, but it falls relatively close to the sacrifice to Poseidon known at Kamiros on the new moon of Theudaisios: <ref target="CGRN_130">CGRN 130</ref>, lines 1-7. There, Poseidon receives a triple sacrifice which includes a bull and a ram, but also, as here, a swine: in this case a piglet. As Theudaisios is a winter month, Robertson attempts to link both of these celebrations to a festival at the winter solstice. This idea may be right, though the timing apparently varied a little between Kamiros and Lindos. In the reconstruction of the Rhodian calendar refined by Badoud (for a different view, see Iversen), Theudaisios was the 5th month (ca. December/January), which would correspond to the time of the winter solstice; but note that the order of the winter months in the Rhodian calendar remains particularly uncertain. Perhaps it should simply and more generally be said that Posidea and other festivals of Poseidon often fall in midwinter. The god is linked with fishing, sometimes a winter activity, as well as occasionally with Demeter and the end of winter or the coming of spring: cf. the calendar of Mykonos, <ref target="CGRN_156">CGRN 156</ref>; cp. also the apparently close succession of the Posidea and the Ilithyaia (a celebration of the goddess of birth) on Delos: <ref target="CGRN_199">CGRN 199</ref>, and on the month Posideon at Athens, see Parker.</p>
+				
+				<p>Lines 3-5: The epithet Phytalmios given to Poseidon is imperfectly understood, though it appear to have had a strong connotation of human, animal or vegetal growth and production (the much-maligned category of "fertility"), cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. and also s.v. φυτάλιος (probably to be emended with the addition of the <foreign>mu</foreign>). It could also be used of Zeus according to Hsch. s.v. (who interestingly explains this as συγγενής ἢ ζωογόνος). The god is well attested on Rhodes (at Kamiros, for example, <bibl type="abbr" n="Tit.Cam.">Tit.Cam.</bibl> 137) and elsewhere (cf. <bibl type="abbr" n="IG IV">IG IV</bibl> 797 and Paus. 2.32.8, Troizen; <bibl type="abbr" n="IG II²">IG II²</bibl> 5051 for a late example from Athens, <bibl type="abbr" n="LSAM">LSAM</bibl> 25, line 47, Erythrai; cp. also <bibl type="abbr" n="IG XII.5">IG XII.5</bibl> 13, Ios, just the 'epithet', and <bibl type="abbr" n="I.Priene">I.Priene</bibl> 366). For some discussion, see Graf. The adult male pig is perhaps a sacrifice which might reinforce the interpretation of the god Poseidon as a fertile one: pigs were often offered to Demeter and other deities whose vocation was primarily agricultural. The verb used denotes a sacrifice as well as a meal which, as often in these prescriptions, must take place "on the spot": cp. the frequent phrase οὐκ ἀποφορά and its variants on Rhodes, for instance <ref target="CGRN_130">CGRN 130</ref> (Kamiros), lines 13-14.</p> </div> </body> </text>
+</TEI>

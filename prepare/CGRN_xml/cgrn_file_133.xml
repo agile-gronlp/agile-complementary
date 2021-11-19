@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_133" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 133</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for Apollo Pythios at Athens</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <idno type="filename">CGRN 133</idno>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>Fragment of a rectangular
+                            <rs type="objectType" key="altar">altar</rs> of Pentelic marble.</p>
+                            <p><dimensions> 
+                                <height unit="cm">unknown</height>
+                                <width unit="cm">unknown</width>
+                                <depth unit="cm">unknown</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Unknown; no description available.</p>
+                            <height/>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0200" notAfter="-0100">2nd century BC</origDate></p>
+                        <p><desc>Justification: lettering (Curbera).</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885" type="external">Athens</ref></placeName>. Found on the southern slope of the acropolis. The stone has been connected to <ref target="CGRN_72">CGRN 72</ref>, found close to this inscription and seemingly bearing a similar or identical text.</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by S Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                
+                <p> Edition here based on Kirchner <bibl type="abbr" n="IG II²">IG II²</bibl> 4989, with Sokolowski's restorations.</p>
+                <p> Other editions:
+                    <bibl type="abbr" n="IG II">IG II</bibl> 1668; Curbera <bibl type="abbr" n="IG II³">IG II³</bibl> 4, 1750.</p>
+                <p> Cf. also:
+                    Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 22b; 
+                    Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 25b; <bibl type="abbr" n="SEG">SEG</bibl> 25, 233.
+                </p>
+                <p> Further bibiography:  <bibl type="author_date" n="Stengel 1910">Stengel 1910</bibl>: 222-233; ; <bibl type="author_date" n="Kearns 2011">Kearns 2011</bibl>. </p>
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    <lb xml:id="line_1" n="1"/> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">Ἀπόλλω</supplied>νος</w></name> <name type="epithet" key="Pythios"><w lemma="Πύθιος"><supplied reason="lost">Πυθίο</supplied></w></name>·
+                    <lb xml:id="line_2" n="2"/> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύειν</supplied></w></name> <w lemma="τρεῖς"><supplied reason="lost">τρεῖς</supplied></w> <name type="bakery"><w lemma="ἕβδομος">ἑβδόμο<supplied reason="omitted">υ</supplied>ς</w> <supplied reason="lost"><w lemma="βοῦς">βοῦς</w></supplied></name>.
+                </ab>	
+
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    [(Altar) of Apollo Pythios. Sacrifice three] crescent-shaped cakes.
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction </head>
+                <p>
+                    [(Autel) d'Apollon Pythios. Sacrifier trois] gâteaux en forme de croissant.
+                </p>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p>This fourth- or third-century altar is part of a group of mostly short inscriptions (cf. e.g. <ref target="CGRN_53">CGRN 53</ref> and <ref target="CGRN_54">CGRN 54</ref>) found in Piraeus and in or near the city Asklepieion of Athens, prescribing the (preliminary) offering of cakes to various divinities. The stone has been connected in particular to <ref target="CGRN_72">CGRN 72</ref>, found close to this inscription and seemingly bearing a similar or identical text. Cf. that inscription for further commentary.
+                  
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

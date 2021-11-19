@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_210" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 210</idno>: Fragments from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> of Eleutherna</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Four fragments (A-D) of one limestone <rs type="objectType">stele</rs> or 
+plaque. All fragments are heavily broken with no intact edges being preserved.</p>
+			<p>Fragment A<dimensions>
+					<height unit="cm">38.5</height>
+					<width unit="cm">18</width>
+					<depth unit="cm">8</depth>
+			</dimensions></p>
+				<p>Fragment B<dimensions>
+					<height unit="cm">12</height>
+					<width unit="cm">13</width>
+					<depth unit="cm">8</depth>
+				</dimensions></p>
+				<p>Fragment C<dimensions>
+					<height unit="cm">10</height>
+					<width unit="cm">8</width>
+					<depth unit="cm">8</depth>
+				</dimensions></p>
+				<p>Fragment D<dimensions>
+					<height unit="cm">14</height>
+					<width unit="cm">8</width>
+					<depth unit="cm">10</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="cm">1</height>, round letters smallers <height unit="mm">7-8</height>. Space between lines: <height unit="mm">2-5</height></p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0150" notAfter="-0100">ca. 150-100 BC</origDate></p>
+			<p><desc>Justification: lettering (Stavrianopoulou).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Eleutherna" n="Crete"><ref target="http://pleiades.stoa.org/places/599799" type="external">Eleutherna</ref></placeName>. Fragments A-C were discovered during the 1987 and 1988 excavation seasons in the late Roman/early Christian building at the site called Pyrgi; fragment D was discovered there already in 1986. All fragments were founds in different contexts of reuse or in rubble heaps. Now in the Rhethymnon Museum (inv. E115, E120, E121, and E118 respectively).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2016 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Stavrianopoulou in <bibl type="abbr" n="Eleutherna II">Eleutherna II</bibl> 5A-D
+(p. 31-50), with ph. pl. 5 and 6α-γ. In various lines, we adopt slightly more cautious restorations than this edition or add hesitations in the form of question marks. We also adopt the restoration of Lupu in line D5. For the restorations in lines A14 and B4 (the latter by Carbon), see Commentary ad loc.</p>
+					
+<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 41, 744; Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 23, with ph.</p>
+					
+					<p>Further bibliography: <bibl type="author_date" n="Stavrianopoulou 1993">Stavrianopoulou 1993</bibl>;
+<bibl type="author_date" n="Trümpy 1997">Trümpy 1997</bibl>: 191.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="fragment" n="A">Fragment A
+	    							
+<lb/><gap reason="lost" extent="unknown" unit="line"/>	    			
+	    					
+<lb xml:id="line_A1" n="A1"/><gap reason="lost" extent="unknown" unit="character"/><orig>Ν</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A2" n="A2"/><gap reason="lost" extent="unknown" unit="character"/><orig>Μ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A3" n="A3"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΑΝΟΥΜ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A4" n="A4"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="unclear">ιππωι</w> <orig>δι</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A5" n="A5"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ι</unclear>α</orig> <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριὸν</w></name></name> <w lemma="οὐ">οὐ<unclear>κ</unclear></w> <name type="meal"><w lemma="ἀποφορά"><supplied reason="lost">ἀποφορά</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A6" n="A6"/><gap reason="lost" extent="unknown" unit="character"/>ηι <name type="deity" key="Hero"><w lemma="ἥρως">ἥρωτι</w></name> <orig>ΤΕ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A7" n="A7"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Δημήτριος"><supplied reason="lost">Δ</supplied>αματρίω</w></name> <w lemma="ἐν">ἰμ</w> <name type="locality"><w lemma="πόλις"><supplied reason="lost">πόλι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A8" n="A8"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ι</unclear></orig> <name type="animal" key="ox"><name type="gender"><w lemma="βοῦς">βῶν</w></name></name>, <w lemma="ὅς">ὧι</w> <w lemma="εἰς">ἐς</w> <w lemma="τρίς">τρὶς</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A9" n="A9"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Zeus"><w lemma="Ζεύς">Ζηνὶ</w></name> <name type="epithet" key="Poliaochos"><w lemma="πολιοῦχος">Πολιαό<supplied reason="lost">χωι</supplied></w></name> <gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_A10" n="A10"/><gap reason="lost" extent="unknown" unit="character"/> ἧ <w lemma="κα">κα</w> τᾶι <name type="deity" key="Nymph"><w lemma="νύμφη">λύμφα<supplied reason="omitted">ι</supplied></w></name> <orig>Π</orig><gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_A11" n="A11"/><gap reason="lost" extent="unknown" unit="character"/>
+<w lemma="οὐ"><unclear>ο</unclear>ὐκ</w> <name type="meal"><w lemma="ἀποφορά">ἀποφορὰ</w></name> <orig>α<unclear>λ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_A12" n="A12"/><gap reason="lost" extent="unknown" unit="character"/><orig>ον</orig> ἧ <w lemma="κα">κα</w> τᾶι <orig>ΑΡΙΗ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A13" n="A13"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="καθίστημι"><supplied reason="lost">καθι</supplied>στάντανς</w> <w lemma="ἐν">ἰμ</w> <name type="locality"><w lemma="πόλις">πό<supplied reason="lost">λι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A14" n="A14"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Ο</unclear>Σ</orig> <name type="structure"><name type="deity" key="Artemis"><w lemma="Ἀρτεμίσιον">Ἀρτεμίσιον</w></name></name> <name type="animal" key="goat"><name type="age"><name type="gender"><w lemma="χίμαιρα">χι<supplied reason="lost">μαίραν</supplied></w></name></name></name> <supplied reason="lost">(?)</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A15" n="A15"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">(?)</supplied> <name type="animal" key="sheep"><name type="gender"><w lemma="κριός"><supplied reason="lost">κριὸ</supplied><unclear>ν</unclear></w></name></name> <name type="age"><w lemma="τέλειος">τέλεον</w></name> <name type="colour1"><w lemma="λευκός">λευκὸν</w></name> τῶ<supplied reason="lost">ι</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A16" n="A16"/><gap reason="lost" extent="unknown" unit="character"/> <name type="colour1"><name type="gender"><w lemma="μέλας"><supplied reason="lost">μ</supplied>έλανα</w></name></name>, <w lemma="ὅς">ὃς</w> <w lemma="κα">κα</w> <w lemma="unclear">μετ<unclear>ρ</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A17" n="A17"/><gap reason="lost" extent="unknown" unit="character"/> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύ</supplied>εν</w></name> τῶι <name type="deity" key="Zeus"><w lemma="Ζεύς">Ζηνὶ</w></name>
+<name type="age"><w lemma="τέλειος">τέλεον</w></name> <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος"><unclear>τ</unclear><supplied reason="lost">αῦρον</supplied></w></name></name> <supplied reason="lost">(?)</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A18" n="A18"/><gap reason="lost" extent="unknown" unit="character"/><orig>το</orig> <name type="deity" key="Materes"><w lemma="μήτηρ">Ματέρσι</w></name> τὸν ἱα<gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A19" n="A19"/><gap reason="lost" extent="unknown" unit="character"/><unclear>α</unclear>ται <w lemma="">ἰν</w> τᾶι <w lemma="ἀπό">ἀπὸ</w> <orig>πα</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    							    					
+<lb xml:id="line_A20" n="A20"/><gap reason="lost" extent="unknown" unit="character"/><orig>ι</orig> <w lemma="ἕκαστος">ϝέκαστα</w> <name type="animal" key="sheep"><name type="age"><w lemma="ἀρήν">ϝάννα</w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A21" n="A21"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἰ"><supplied reason="lost">αἲ</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <w lemma="">μὴ</w> <name type="sacrifice"><w lemma="θύω">θύηι</w></name>,
+<name type="person"><w lemma="ἀνδρακάς">ἀνδρακ<supplied reason="lost">ὰς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A22" n="A22"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w> <supplied reason="lost">τ</supplied>ὰ <name type="structure"><w lemma="ἄδυτος">ἄδυττα</w></name> <supplied reason="omitted">τὰ</supplied> <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέ<supplied reason="lost">μιδος</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A23" n="A23"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ι</unclear></orig> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> ἧ <name type="authority"><w lemma="καταγράφω">κατα<unclear>γ</unclear><supplied reason="lost">έγρατται</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A24" n="A24"/><gap reason="lost" extent="unknown" unit="character"/><orig>ει</orig> <name type="meal"><w lemma="δαίς">δαῖτα</w></name> <orig>ν</orig><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_A25" n="A25"/><gap reason="lost" extent="unknown" unit="character"/><orig>δε</orig> <w lemma="ὁπότε">ὁπόκ<supplied reason="lost">α</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A26" n="A26"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΜΜΩΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A27" n="A27"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ΝΩΜ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					</ab>
+
+<ab subtype="fragment" n="B">Fragment B
+
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	
+<lb xml:id="line_B1" n="B1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΑΛΛ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_B2" n="B2"/><gap reason="lost" extent="unknown" unit="character"/> <name type="age"><w lemma="τέλειος">τέλεον</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_B3" n="B3"/><gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Demeter"><w lemma="Δημήτηρ"><supplied reason="lost">Δάματρι</supplied></w></name> <name type="epithet" key="Megalartos"><w lemma="μεγάλαρτος"><supplied reason="lost">Μεγαλά</supplied>ρτωι</w></name> <name type="bakery"><w lemma="δολπαί">δολπ<supplied reason="lost">ὰς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_B4" n="B4"/><gap reason="lost" extent="unknown" unit="character"/><orig>ς</orig> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοίρος</w></name></name> <num value="3"><w lemma="τρεῖς">τρ<supplied reason="lost">ίνς</supplied></w></num> <gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_B5" n="B5"/><gap reason="lost" extent="unknown" unit="character"/><unclear>α</unclear>σκοι, ἧ <w lemma="κα">κα</w> <orig>α</orig><gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_B6" n="B6"/><gap reason="lost" extent="unknown" unit="character"/>ατωι <w lemma="πᾶς">πάνσ<supplied reason="lost">α</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_B7" n="B7"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="τρίτος">τρίτω</w> <w lemma="ἔτος">ϝέ<supplied reason="lost">τους</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_B8" n="B8"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="οὐ"><supplied reason="lost">οὐκ</supplied></w> <name type="meal"><w lemma="ἀποφορά"><supplied reason="lost">ἀ</supplied>ποφο<supplied reason="lost">ρά</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+</ab>
+
+	    				<ab subtype="fragment" n="C">Fragment C
+	    				
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>			
+	    					
+<lb xml:id="line_C1" n="C1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΠΟ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_C2" n="C2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Α</unclear>ΑΙΜ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_C3" n="C3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Ο</unclear>Η<unclear>Κ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_C4" n="C4"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΜΑΤ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_C5" n="C5"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἵστημι"><unclear>ἱ</unclear>στα<supplied reason="lost">μένου</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+	    				</ab>
+
+	    							
+	    				<ab subtype="fragment" n="D">Fragment D
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+	    					
+<lb xml:id="line_D1" n="D1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ζη</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_D2" n="D2"/><gap reason="lost" extent="unknown" unit="character"/> ἧ <w lemma="κα">κα</w> <orig><unclear>ε</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_D3" n="D3"/><gap reason="lost" extent="unknown" unit="character"/>αι <name type="animal" key="generic"><w lemma="θῦμα">θῦμ<unclear>α</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    						    					
+<lb xml:id="line_D4" n="D4"/><gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Ζ</supplied>ηνὶ</w></name> <name type="epithet" key="Machaneus"><w lemma="Μαχανεύς">Μα<supplied reason="lost">χανῆι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_D5" n="D5"/><gap reason="lost" extent="unknown" unit="character"/> <name type="epithet" key="Agrotera"><w lemma="ἀγρότερος">Ἀγρ<unclear>ο</unclear><supplied reason="lost">τέραι</supplied></w></name> <supplied reason="lost">(?)</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+(Given the extremely fragmentary character of the text, no translation is attempted here.)
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+(En raison du caractère extrêmement fragmentaire du texte, aucune traduction n'est proposée ici.)
+					
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>As Stavrianopoulou (followed by Lupu) has demonstrated, the fragments of this stele almost certainly belong to a sacrificial calendar, and most probably to the sacricial calendar of the city itself (see also below on line A9). This last conjecture is notably based on the wide range of sacrifices in these fragments: there are at least nine deities in the extant parts of the texts: a Hero, Zeus Poliarchos, a Nymph, Artemis, a Zeus without epithet, the Mothers, an unknown Zeus, Zeus Machaneus and (Artemis) Agrotera. A notable absentee in this pantheon is Apollo, since he was the main divinity of Eleutherna (cf. Lupu). On the whole, the text appears to have had a style typical of sacrificial calendars: dated entries, followed by deities in the dative and sacrificial animals in the accusative. A few other details would be included for each entry, such as further specifications concerning the animal, the different locations of the ritual (cf. e.g. lines A7, 13, 14 and 22?); few verbs would be expected (indeed, only a few are preserved here). Also in keeping with the style of sacrificial calendars, several entries appear to have been concluded with clauses concerning meals resulting from the sacrifice, especially in the form of "no take-away" rules: cf. lines A5 (probably), A11, A24, B8 (meal). For such "no take-away" rules, cf. e.g. the sacrificial calendar of Thorikos, <ref target="CGRN_32">CGRN 32</ref>, commentary to lines 10-12. Since there is no way of determining the size of the lacunae on either side, it is impossible to determine how many calendrical units would have appeared in these parts of the text. It is striking that only a few traces of dates (lines A7 and C5), and temporal clauses, ὁπόκ<supplied reason="lost">α</supplied> in line A25 and τρίτω ϝέ<supplied reason="lost">τους</supplied> in line B7 are preserved: by contrast, there are nine mentions of deities and eleven occurences of (qualifications of) animals. This may imply that several sacrifices were planned on the same date or festival occasion. For the month Damatrios in line A7, also known in Boiotia, and for the other months known in the calendars of Crete, see Trümpy (for an alternative reading of this line, in which the traces are taken for a place-name, see also Stavrianopoulou and Lupu ad loc.).</p>
+													
+<p>The Cretan Doric dialect contains many particularities, and this text is no exception: cf. the distinctive spelling λύμφα[ι] for Nympha (Stravrianopoulou discusses this morphology, aptly comparing Latin <foreign>lympha</foreign>; a mistake of the cutter is also possible); or line A20: ϝάννα for ἄρνα. As many of these dialectical features were retained in the Hellenistic period, this need not suggest that the calendar was reinscribed from an earlier copy, though that nevertheless remains a possibility. For an Archaic sacrificial calendar from Crete, see very probably <ref target="CGRN_2">CGRN 2</ref> (Gortyn). </p>
+							
+<p>Line A4: Since there may be a trace of a <foreign>kappa</foreign> before the more legible traces, Stavrianopolou plausibly suggests that we might read here an offering to the hero Leukippos, [Λευ]κίππωι (a figure who showed Dionysus the path to Sparta; also a legendary king of Messene and founder of Metapontum), or less certainly, a homonymous cognomen of Persephone, cf. Pi. <title>O.</title> 6.95.</p>
+						
+<p>Line A5: Here, Stavrianopoulou restores [ἐνόρχ]<unclear>ι</unclear>α κριὸν (an uncastrated ram). Lupu confines the restoration to his apparatus criticus. Indeed, it seems unlikely that the adjective occurred first (see also below on lines B3-4), unless it applied to a preceding offering; moreover, the exact form—derived from ἔνορχος or ἐνόρχης?—remains uncertain. We therefore opt not to restore anything here. </p>
+							
+<p> Line A6: For other sacrifices to a hero/heroine, the identity of which is not further specified, cp. <ref target="CGRN_20">CGRN 20</ref>, lines C8, D6-7, <ref target="CGRN_21">CGRN 21</ref>, lines 11-12, and <ref target="CGRN_102">CGRN 102</ref>, line 14 (all from Athens).</p>
+							
+<p>Line A8: The entry appears to mention a male ox (βῶν = βοῦν acc. sg.)—probably offered to a male god—of which it is said: ὧι ἐς τρὶς. Unfortunately, it is not known what was done "thrice" to the animal, probably some sort of ritual action (cp. Lupu).</p>
+							
+<p>Line A9: A sacrifice to Zeus Poliaochos, "who holds the city", is envisaged here. As Lupu notes, with refs., Athena Polias and Poliouchos is well-attested on Crete, but this is the first mention of a Zeus in this role on the island. Since rites taking place presumably on the Acropolis at Eleutherna are mentioned in lines A7 (if the restoration is correct) and A13, we may reasonably suppose that Zeus Poliaochos was also worshipped there. It would thus seem that an important set of sacrifices took place in the center of Eleutherna, perhaps early in the month of Damatrios (since this was introduced only two lines prior). For Zeus Polieus (the more common title of Zeus in his capacity of tutelary deity) in the present Collection, cf. e.g. <ref target="CGRN_7">CGRN 7</ref> (Athens), lines A26-27 and <ref target="CGRN_83">CGRN 83</ref> (Miletupolis), line 7.</p>
+							
+<p> Line A10: The word ἧ is used in Cretan inscriptions as an adverb of manner. Thus, it seems that a particular sacrifice (mentioned in the lacuna to the left) was to take place here “as to the Nymph”. Such "shorthand", in which the specifics of a ritual are not spelled out, but are to be understood by reference to another ritual, is rather common in our Collection (many can be found by carrying out a combined search for the Theme "Authority" and the Greek lemma καθάπερ). This type of strategy seems to recur in these four fragments—a similar expression is found in A12, B5 and D3 (and cp. A23)—which may at the same time provide another argument for seeing them as part of the same document.</p>	
+							
+<p>Line A12: The traces τᾶι <orig>ΑΡΙΗ</orig> suggest a female deity or a heroine as the recipient of sacrifices. As Stavrianopoulou suggests, this may point to the adjective ἀριήκοος, meaning "much heard of", which is used as a qualifier (or epithet?) of Kypris at Call. <title>Del.</title> 308. Thus, there is a chance that we might have here a poetic epithet for a goddess such as Aphrodite.</p>		
+							
+<p> Line A13: The meaning of [καθι]στάντας ἰμ πό[λι] is difficult to determine, since neither the agents nor the object is preserved. Perhaps the participle qualifies some officials whose role is to "arrange" rituals at the acropolis, or"‘place" an item or bring it into the Acropolis (but we would rather expect εἰς + acc.), such as a cult-statue.</p>
+							
+<p>Line A14: Stavrianopoulou here restores a winter-old he-goat, χί<supplied reason="lost">μαρον</supplied>,  apparently to be offered in the sanctuary of Artemis, the Artemision. Alternatively, we may think of restoring χί[μαιραν] instead, as also suggested but not adopted by Lupu. Indeed, she-goats were especially sacrificed to Artemis Agrotera before battle: see the literary sources mentioned in <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. χίμαιρα. For the possibility of sacrifices specifically to (Artemis) Agrotera in this calendar, see also below line D5 (with Lupu p. 335 for the importance of the cult of Artemis at Eleutherna—she is represented on coins from the city); see also line A22 for another intriguing reference to the cult of Artemis.</p>
+												
+<p>Line A15: As with some of the other restorations proposed by Stavrianopoulou, [κριὸ]ν̣ is to be treated with caution, since there are many other animals possible. For white male sacrificial animals, see esp. here <ref target="CGRN_110">CGRN 110</ref> (Kamiros), line 4, and <ref target="CGRN_117">CGRN 117</ref> (Lindos), lines 5-6: white or tawny oxen, and a similar billy-goat, respectively, both respectively offered to Helios.</p>
+											
+<p>Line A16: The entry preserves the qualifier for a black male animal; for comparisons, see here <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 34 and 46 (tawny or black he-goats for Dionysus) and <ref target="CGRN_56">CGRN 56</ref> (Marathonian Tetrapolis), col. II, line 18 (an all-black he-goat for an unknown recipient, probably Ge at the oracle). In the fragmentary phrase, ὃς κα μετρ̣, Stavrianopoulou plausibly detects a reference to the distribution of meat (perhaps into equal, i.e. measured or weighed portions, for example if a form of μετρέω, "to measure out" is to be restored). Since references to meals (the οὐκ ἀποφορά requirement and the δαίς in line A24) recur in the calendar, such a clause would not be out of place.</p>
+							
+<p>Line A17: Stavrianopoulou, followed by Lupu, restores the offering to Zeus here as a τέλεον τ̣[αῦρον]. A bull called τέλειος is however almost certainly unexpected, since τέλειος was probably used as an age-qualifier and bulls would normally be adults in any case (the only other possibility may be that τέλειος is used to qualify the animal as "perfect" or "unblemished, cp. perhaps <bibl type="abbr" n="Tit.Cal.">Tit.Cal.</bibl> Test. XII, lines 9-10: τὰ δὲ ὁρκωμόσια ἔστω ταῦρος κάπρος κριός, τέλεια πάντα). A further argument for doubting the proposed supplement is that one may have expected any qualifiers (adjectives) to follow the mention of an animal (substantive); cp. e.g. the order preserved in A15. Since the traces of the <foreign>tau</foreign> are unclear, and since τέλεον may in any case have sufficed in and of itself to designate an adult sacrificial animal (probably a sheep), we prefer to be more cautious and to question the restoration of a bull. It is suprising that Zeus appears without an epithet here, since in A9 and D5 we find Zeus Poliaochos and Zeus Machaneus respectively. </p>
+							
+<p>Line A18: Stavrianopoulou 1993 provides a detailed study of the cult of the Materes; the cult is attested at Engyon in Sicily, where it is thought to have been brought from Crete. The goddesses are convincingly identified by Stavrianopoulou as local Cretan divinities that reared Zeus after his birth in the cave of Mount Ida (cf. Diod. Sic. 4.79.5-4.80.6). However, we also note the opinion of Lupu (p. 332) that the (possible) presence of Demeter herself in a different guise in the calendar (cf. our Commentary at lines B3-4) "does not in and of itself seem [...] to provide sufficient grounds for rejecting Demeter and Kore as candidates" for an identification with the Materes. Indeed, one should recall that the perhaps analogous Damateres (i.e. Demeter and Kore) were worshipped in other areas of the Dorian world, cf. here for example <ref target="CGRN_149">CGRN 149</ref> (Kamiros), line 4. That being said, an identification between the two pairs remains speculative for the time being.</p>
+							
+<p>Lines A20-21: According to Stavrianopoulou's plausible restoration, a conditional clause was stipulated here, perhaps having the meaning of "But if (so-and-so) does not make the sacrifice, (something is to happen) man by man". It may also be interesting to observe that we find a distributive notion both in ἕκαστος (ϝέκαστα ϝάννα) and in the adverb ἀνδρακάς ("per man"). Therefore, it is also possible to envisage that every man of a particular group was to sacrifice a lamb, in which case line 20 of the text would specify something about "each lamb" in this sacrifice—for example mentioning its weight or price or colour. Line 21 would then continue: "But if (some group) does not make (this) sacrifice (of individual lambs) man by man", then something (now missing) is to happen.</p>		
+						
+<p>Line A22: As Stavrianopoulou has well explained, ἄδυττα may be a mistake for ἄδυτα τὰ. At any rate, Lupu provides a extensive discussion of the possible meanings of the phrase. Stavrianopoulou's preferred interpretation is of "sacrificial pits", but Lupu rightly remarks that these would be surprising in a cult of Artemis; he thus prefers the more general meaning of "sacred places not to be entered" (cp. ἄβατα). It may be that these ἄδυτα formed one or separate sanctuaries of the goddess, unless they represented subsections of the aforementioned Artemision (see above, line A14).</p>
+							
+<p>Lines B3: We cautiously adopt Stavrianopoulou's excellent suggestion of reading offerings of cakes to the goddess Demeter called Megalartos ("of big breads"). Megalartia are attested as part of the many festivals of the Labyadai at Delphi, cf. here <ref target="CGRN_82">CGRN 82</ref>, lines D10-11 as well as in Thessaly, where a month Megalartios is attested at Thebai (cf. <bibl type="abbr" n="IG IX.2">IG IX.2</bibl> 109a-b and 133) and a priestess of the goddess is known at Pherai (<bibl type="abbr" n="IG IX.2">IG IX.2</bibl> 418; other evidence comes from Delos: Athen. 3.109f; and Boiotia: Paus. 9.4.4). The timing of the rituals is not completely clear, but given the months at Delphi and in Thessaly, it may have taken place in the Spring or Summer. The cakes called δόλπαι which are offered to the goddess are attested as offerings on Kos, according to a lemma of Hsch. s.v. δολβαί· θύματα, οἱ δὲ (Κῷοι) μικρὰ πλακούντια. In other words, these were small or miniature versions of other
+cakes called πλακούντια. A πλακοῦς was a cake probably shaped like a mallow-seed (see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.); for further examples of these offerings, see here <ref target="CGRN_201">CGRN 201</ref> (Miletos), line 37. In any case, the idea of offering small, seed-shaped cakes to Demeter "of the Big Breads" is a highly interesting one: it may suggest that the core notion of the ritual was the propitiation of Demeter for the successful completion of the agricultural cycle and the growth of grain; with the benevolence of the goddess, then, small cakes would ideally become big breads.</p> 
+							
+<p> Line B4: It is possible that the sacrifices mentioned here were also connected with the occasion on which the δόλπαι were offered, but given our general uncertainty about the extent of the lacunae, we cannot be sure. The restorations proposed by Stavrianopoulou, [θῆλυ]ς χοῖρος τρ[ίται], in the first part adopted by Lupu, may reasonably be doubted. The first restoration is highly speculative and one would not expect an adjective to precede the mention of the sacrificial animal (unless this word belongs to a previous prescription; see above on line A17). In any case, χοίρος must certainly be accusative plural (i.e. Doric for χοίρους; all offerings in the calendar indeed appear in the accusative). The restoration of the numeral "three", better yet in the Cretan form τρ[ίνς], is more attractive. Groups of piglets are rare, but a few cases may still be adduced for the sacrifice of three piglets: cp. the calendar of the Marathonian Tetrapolis, <ref target="CGRN_56">CGRN 56</ref>, col. II, line 44, where this sacrifice is made to Kore, in addition to a ram in the month Metageitnion (August/September), and cp. also this sacrifice in <ref target="CGRN_1">CGRN 1</ref> (Corinth), lines A2-3 (summer month Phoinikaios); of a different character is the purification undertaken at Andania with χοιρίσκους τρεῖς, <ref target="CGRN_222">CGRN 222</ref>, line 68.</p>
+							
+<p>Line B7: The phrase τρίτω ϝέ[τους] must be correctly restored by Stavrianopoulou, who plausibly thinks of a trieteric festival; for the trieteric (biennial) festival celebrated at Gortyn, see here <ref target="CGRN_10">CGRN 10</ref>, line 7, with commentary; for another such festival at Axos, see <bibl type="abbr" n="LSS">LSS</bibl> 113, lines 12-13. Since we do not understand the organisation of this calendar, the phrase may also perhaps have formed a small header introducing considerations for another (biennial) cycle in the calendar. For festivals and calendrical indications following a biennial cycle, cp. here also e.g. <ref target="CGRN_18">CGRN 18</ref> (Thasos), lines 2-3, <ref target="CGRN_106">CGRN 106</ref> (Kalauria), line 9, and <ref target="CGRN_192">CGRN 192</ref> (Panamara), line 7.</p>
+							
+<p> Line C4: The traces ΜΑΤ may be another occurrence of Ματέρσι, see above at line A18, but no certainty is possible.</p>
+							
+<p> Line C5: The word ἱσταμένου is almost certainly part of the expression of a date, counting from the beginning of the month (the moon "rising"). The expected expression would be in full: "μηνὸς + name of the month in the genitive + ordinal number in dative + ἱσταμένου". </p>
+							
+<p> Line D3: θύμα may refer to an animal (e.g. <ref target="CGRN_13">CGRN 13 </ref>, Selinous, line A12, and <ref target="CGRN_126">CGRN 126</ref>, Lykosoura, line 18), but also to other offerings, such as fruits or cakes or aromatics, that were to be burnt (cf. the references in <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.). The reference to either animals or other substances is not clear in <ref target="CGRN_15">CGRN 15</ref> (Gortyn), line 9.</p>
+								
+<p>Line D4: We adopt Lupu's attractive and nearly certain restoration of the god Zeus Machaneus, though he confesses that it not otherwise known on Crete (see Lupu at D5 for further discussion and references). Another reference to (Zeus) Machaneus is found in <ref target="CGRN_22">CGRN 22</ref> (Knossos), line B9. The epithet Machaneus has been interpreted in antiquity already as "the one who knows μηχαναί", i.e. a Zeus who possesses mechanisms of <foreign>soteria</foreign>, cf. e.g. Aesch. <title>Suppl.</title> 594.</p>
+								
+<p> Line D5: For a discussion of the epithet Ἀγρότερα for Artemis, meaning "Wild" or "the Huntress", cf. Lupu (with further references).</p>
+								
+					</div>
+			</body>
+    	</text>
+	</TEI>

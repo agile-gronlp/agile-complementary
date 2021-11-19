@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_51" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 51</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for the Moirai and Zeus on Chios</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Small <rs type="objectType">block</rs> of white marble, apparently mostly intact. Dimensions unknown?</p> 
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Not stoichedon. Letters: size unknown.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0300">ca. 400-300 BC</origDate></p>
+			<p><desc>Justification: dialect (Graf).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Chios" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550497" type="external">Chios</ref></placeName>. From Chios town (?), but exact findspot unknown. Now lost.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on  <bibl type="author_date" n="Graf 1985">Graf 1985</bibl>: 428, I.Chios 2.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 79.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Pirenne-Delforge 2011">Pirenne-Delforge 2011</bibl>; <bibl type="author_date" n="Pirenne-Delforge - Pironti 2011">Pirenne-Delforge - Pironti 2011</bibl></p>
+						</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	 
+<lb xml:id="line_1" n="1"/><name type="liquid"><w lemma="οἶνος">οἶνον</w></name>
+	    			
+<lb xml:id="line_2" n="2"/><w lemma="μή">μὴ</w> <name type="sacrifice"><w lemma="προσφέρω">προσφέρε<unclear>ν</unclear></w></name>·
+	    					
+<lb xml:id="line_3" n="3"/><name type="deity" key="Moirai"><w lemma="μοῖρα">Μοιρέων</w></name>
+	    				
+<lb xml:id="line_4" n="4"/>καὶ <name type="deity" key="Zeus"><w lemma="Ζεύς">Ζανὸς</w></name>
+	    				
+<lb xml:id="line_5" n="5"/><name type="epithet" key="Moiragetes"><w lemma="μοιραγέτης">Μοιρηγέτεω</w></name>.
+	    				
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					Do not bring forward wine. (The altar is) of the Moirai and Zeus Moiragetes. 
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+					Interdiction d’apporter du vin. (Autel) des Moires et de Zeus Moiragète.
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+				<p>This apparently informal regulation is of a type that is often found at the altar or cult-site. The small prohibition concerns the bringing of wine for libations. On Kos, by contrast, the Moirai (along with Heracles and other gods) appear to receive such a libation, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_96/">CGRN 96</ref>, lines 32-36 (restored). The verb προσφέρεν is perhaps analogous to the verb προσέρδεν found in a small prohibition from Thasos, no doubt in the same sense of "bring forward to sacrifice", cf. <ref target="http://cgrn.ulg.ac.be/CGRN_17/">CGRN 17</ref> (though that text is concerned with restrictions on sacrificial animals). On this text and Zeus Moiragetes, see Graf, p. 24-25.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

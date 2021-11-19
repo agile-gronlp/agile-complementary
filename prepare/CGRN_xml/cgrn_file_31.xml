@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_31" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 31</idno>: <rs type="textType" key="decree">Decree</rs> concerning the offering of first-fruits at Eleusis</title>	
+	    			
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+
+		<p> Marble <rs type="objectType">stele</rs>, complete, found at Eleusis (fragments of the Athenian copy have been found at Athens). Intact on all sides, except perhaps the lower side. Reused in a threshold with the inscribed face down. As Clinton reports, the letters are less sharp now due to wearing by water. </p>
+			<p> <dimensions>
+				<height unit="cm">133</height>
+				<width unit="cm">50</width>
+				<depth unit="cm">9.8</depth>
+			</dimensions></p>
+			
+		</support>
+		</supportDesc>
+		<layoutDesc>
+			<layout> <p> Stoichedon 50. </p>
+				<p>Letters: <height unit="cm">0.7-1.0</height>. At line 53 and 58 there are nine dots, arranged in a square. Clinton suggests these cover up two erasures.</p></layout>
+</layoutDesc>
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p> <origDate notBefore="-0440" notAfter="-0418">430s BC?</origDate></p>
+							<p> <desc>Justification: the date of this inscription has been a matter of debate. For an extensive review of scholarship cf. Cavenaugh 1996, who assigns the inscription a date in the early- to mid-430s, with a <foreign>terminus ante quem</foreign> of 419/18 B.C. This view is followed by Clinton. </desc></p>
+						</origin>
+						
+<provenance><p><placeName type="ancientFindspot" key="Eleusis" n="Attica"><ref target="http://pleiades.stoa.org/places/579920" type="external">Eleusis</ref></placeName>.
+			The stele is now in the Epigraphical Museum in Athens (inv. no. 10050).</p> </provenance> 
+	
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by J.M. Carbon and S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by V. Pirenne-Delforge and JM Carbon in 01.2019.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Clinton <bibl type="abbr" n="IE">IE</bibl> 28a.
+	    			</p>
+	    			<p> Other edition:                   
+	    				Lewis <bibl type="abbr" n="IG I³">IG I³</bibl> 78.
+	    			</p>
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 5; 
+	    				Brodersen <bibl type="abbr" n="HGIU">HGIU</bibl> 123;
+	    				Meiggs - Lewis <bibl type="abbr" n="SGHI">SGHI</bibl> 73:
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 51, 30; <ref target="https://www.atticinscriptions.com/inscription/IEleus/28a" type="external">AIO</ref>, with translation and commentary. 
+	    			</p>
+	    			<p> Further bibliography: <bibl type="author_date" n="Burkert 1983">Burkert 1983</bibl>; <bibl type="author_date" n="Cavenaugh 1996">Cavanaugh 1996</bibl>; <bibl type="author_date" n="Clinton 1992">Clinton 1992</bibl>; <bibl type="author_date" n="Flower 2008">Flower 2008</bibl>; <bibl type="author_date" n="Foucart 1880">Foucart 1880</bibl>; <bibl type="author_date" n="Jim 2014">Jim 2014</bibl>; <bibl type="author_date" n="Robertson 1996">Robertson 1996</bibl>.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	    	
+<lb xml:id="line_1" n="1"/> <supplied reason="lost">Τιμο</supplied><unclear>τ</unclear>έ<unclear>λ</unclear><supplied reason="lost">ε</supplied>ς Ἀχα<unclear>ρ</unclear>νε<unclear>ὺς</unclear> <w lemma="γραμματεύω">ἐγραμμάτευε</w>.
+	    				
+<lb xml:id="line_2" n="2"/> <w lemma="δοκέω"><supplied reason="lost">ἔδοχσ</supplied>εν</w> τε̑ι <name type="group"><w lemma="βουλή">βολε̑ι</w></name> καὶ το̑ι <name type="group"><w lemma="δῆμος">δέμοι</w></name>· Κεκροπὶς <w lemma="πρυτανεύω">ἐπρυτάνευε</w>, Τιμοτέ
+	    				
+<lb xml:id="line_3" n="3" break="no"/> <supplied reason="lost">λες</supplied> <w lemma="γραμματεύω"><supplied reason="lost">ἐ</supplied>γραμμάτευε</w>, <unclear>Κ</unclear>υκνέας <w lemma="ἐφίστημι">ἐπεστάτε</w>· <w lemma="ὅδε">τάδε</w> οἱ <w lemma="συνγραφεύς">χσυγγραφε̑ς</w> <w lemma="συνγράφω">χσυνέ
+	    					
+<lb xml:id="line_4" n="4" break="no"/> <supplied reason="lost">γρ</supplied><unclear>αφ</unclear>σαν</w>· <name type="genericOffering"><w lemma="ἀπάρχομαι">ἀπάρχεσθαι</w></name> τοῖν <name type="deity" key="Demeter and Kore"><w lemma="θεός">Θεοῖν</w></name> το̑ <name type="vegetal"><w lemma="καρπός">καρπο̑</w></name> <w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name> καὶ τ<unclear>ὲ</unclear>
+	    				
+<lb xml:id="line_5" n="5" break="no"/> <unclear>ν</unclear> <name type="authority"><name type="oracle"><w lemma="μαντεία"><unclear>μαν</unclear>τείαν</w></name></name> τὲν <w lemma="ἐν">ἐγ</w> <placeName key="Delphi"><ref target="http://pleiades.stoa.org/places/540726/"><w lemma="Δελφοί">Δελφο̑ν</w></ref></placeName> <name type="ethnic" key="Athens"><w lemma="Ἀθηναῖος">Ἀθεναίος</w></name> <w lemma="ἀπό">ἀπὸ</w> το̑ν <w lemma="ἑκατόν">hεκατὸν</w> <w lemma="μέδιμνος">μεδίμν<unclear>ον</unclear></w> <name type="vegetal"><w lemma="κριθή"><supplied reason="lost">κ</supplied>
+	    					
+<lb xml:id="line_6" n="6" break="no"/> <unclear>ρ</unclear>ιθο̑ν</w></name> <w lemma="μή">μὲ</w> <w lemma="ἐλάσσων">ἔλαττον</w> <w lemma="ἤ">ἒ</w> <w lemma="ἑκτεύς"><unclear>h</unclear>εκτέα</w>, <name type="vegetal"><w lemma="πυρός">πυρο̑ν</w></name> δὲ <w lemma="ἀπό">ἀπὸ</w> το̑ν <w lemma="ἑκατόν"><unclear>hεκατ</unclear>ὸν</w> <w lemma="μέδιμνος">μεδίμ<unclear>νον</unclear></w> <w lemma="μή"><unclear>μ</unclear>
+	    						
+<lb xml:id="line_7" n="7" break="no"/> ὲ</w> <w lemma="ἐλάσσων"><unclear>ἔ</unclear>λαττον</w> <w lemma="ἡμιέκτεων">hεμιέκτεον</w>· <w lemma="ἐάν">ἐὰν</w> δέ <w lemma="τις">τις</w> <w lemma="πλείων">πλείο</w> <name type="vegetal"><w lemma="καρπός">καρ<unclear>π</unclear>ὸν</w></name> <w lemma="ποιέω">ποιε̑ι</w> ἒ <w lemma="τοσοῦτος">τοσο<supplied reason="lost">ῦ</supplied>το
+	    							
+<lb xml:id="line_8" n="8" break="no"/>ν</w> ἒ <w lemma="ὀλίγος">ὀλείζο</w>, <w lemma="κατά">κατὰ</w> τὸν <w lemma="αὐτός">αὐτὸν</w> <w lemma="λόγος">λ<unclear>όγο</unclear>ν</w> <name type="genericOffering"><w lemma="ἀπάρχομαι"><unclear>ἀ</unclear>π<unclear>ά</unclear>ρχεσθαι</w></name>. <w lemma="ἐκλέγω">ἐγλέγεν</w> δὲ <supplied reason="lost">τὸς</supplied> <name type="title"><w lemma="δήμαρχος"><supplied reason="lost">δ</supplied>εμ
+	    								
+<lb xml:id="line_9" n="9" break="no"/> άρχος</w></name> <w lemma="κατά">κατὰ</w> τὸς <name type="group"><w lemma="δῆμος">δέμος</w></name> καὶ <w lemma="παραδίδωμι">παραδ<unclear>ι</unclear>δ<unclear>όν</unclear>αι</w> τοῖς <name type="personnel"><w lemma="ἱεροποιός">hιεροποιοῖς</w></name> τοῖ<unclear>ς</unclear>
+	    				
+<lb xml:id="line_10" n="10"/> <placeName key="Eleusis"><ref target="http://pleiades.stoa.org/places/741459/"><w lemma="Ἐλευσίς">Ἐλευσινόθεν</w> <w lemma="Ἐλευσίς">Ἐλευσῖνάδε</w></ref></placeName>. <w lemma="οἰκοδομέω">οἰκ<unclear>ο</unclear>δομε̑σα<unclear>ι</unclear></w> <unclear>δ</unclear>ὲ <name type="structure"><w lemma="σιρός">σιρὸς</w></name> <w lemma="τρεῖς">τρε̑ς</w> <placeName key="Eleusis"><ref target="http://pleiades.stoa.org/places/741459/"><w lemma="Ἐλευσίς">Ἐλευσ<unclear>ῖ</unclear>ν
+	    					
+<lb xml:id="line_11" n="11" break="no"/> <unclear>ι</unclear></w></ref></placeName> <w lemma="κατά"><unclear>κ</unclear>ατὰ</w> τὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name> <w lemma="ὅπως">hόπο</w> <w lemma="ἄν">ἂν</w> <w lemma="δοκέω">δοκε̑ι</w> <name type="personnel"><w lemma="ἱεροποιός"><unclear>h</unclear>ιεροποιοῖς</w></name> καὶ το̑ι <name type="title"><w lemma="ἀρχιτέκτων"><unclear>ἀ</unclear>ρ<unclear>χ</unclear>ιτ
+	    						
+<lb xml:id="line_12" n="12" break="no"/> έκτονι</w></name> <w lemma="ἐπιτήδειος">ἐπιτέδειον</w> <w lemma="εἰμί">ἐ̑ναι</w> <w lemma="ἀπό">ἀπὸ</w> το̑ <w lemma="ἀργύριον">ἀργυρ<unclear>ί</unclear>ο</w> το̑ τοῖν <name type="deity" key="Demeter and Kore"><w lemma="θεός">θε<unclear>ο</unclear>ῖν</w></name>. <unclear>τ</unclear>ὸ<supplied reason="lost">ν</supplied> <supplied reason="lost">δὲ</supplied> <name type="vegetal"><w lemma="καρπός"><unclear>κα</unclear>
+	    							
+<lb xml:id="line_13" n="13" break="no"/> ρπὸν</w></name> <w lemma="ἐνταυθοῖ">ἐνθαυθοῖ</w> <name type="genericOffering"><w lemma="ἐμβάλλω">ἐμβάλλεν</w></name> <w lemma="ὅς"><unclear>h</unclear>ὸν</w> <w lemma="ἄν">ἂν</w> <w lemma="παραλαμβάνω">παραλάβοσι</w> <w lemma="παρά">παρὰ</w> το̑ν <name type="title"><w lemma="δήμαρχος">δεμάρ<supplied reason="lost">χ</supplied><unclear>ον</unclear></w></name>,
+	    				
+<lb xml:id="line_14" n="14"/> <name type="genericOffering"><w lemma="ἀπάρχομαι"><unclear>ἀ</unclear>πάρχεσθαι</w></name> δὲ καὶ τὸς <name type="group"><w lemma="σύμμαχος">χσυμμάχος</w></name> <w lemma="κατά">κατὰ</w> <w lemma="αὐτός">ταὐτά</w>· τὰς δὲ <name type="group"><w lemma="πόλις">π<unclear>ό</unclear>λες</w></name> <name type="title"><w lemma="ἔλλογος">ἐ<unclear>γ</unclear>λ<supplied reason="lost">ο</supplied>
+	    					
+<lb xml:id="line_15" n="15" break="no"/> γέας</w></name> <w lemma="αἱρέω">hελέσθαι</w> το̑ <name type="vegetal"><w lemma="καρπός">καρπο̑</w></name>, <w lemma="καθότι">κα<unclear>θ</unclear>ότι</w> <w lemma="ἄν">ἂν</w> <w lemma="δοκέω">δοκε̑ι</w> <w lemma="αὐτός">αὐτε̑σι</w> <name type="authority"><w lemma="ἄριστος"><unclear>ἄρ</unclear>ιστα</w></name> ὁ <name type="vegetal"><w lemma="καρπός">καρπ<unclear>ὸ</unclear>
+	    						
+<lb xml:id="line_16" n="16" break="no"/> <supplied reason="lost">ς</supplied></w></name> <w lemma="ἐκλέγω">ἐγλεγέσεσθαι</w>· <w lemma="ἐπειδάν">ἐπειδὰν</w> δὲ <w lemma="ἐκλέγω">ἐγλεχθε̑<unclear>ι</unclear></w>, <w lemma="ἀποπέμπω">ἀποπεμφσ<unclear>ά</unclear>ντον</w> <placeName key="Athens"><ref target="http://pleiades.stoa.org/places/579885"><w lemma="Ἀθῆναι"> Ἀ<unclear>θ</unclear>έναζε</w></ref></placeName>·
+	    				
+<lb xml:id="line_17" n="17"/> τὸς δὲ <w lemma="ἄγω">ἀγαγόντας</w> <w lemma="παραδίδωμι">παραδ<unclear>ι</unclear>δόναι</w> τοῖς <name type="personnel"><w lemma="ἱεροποιός">hιεροποιοῖς</w></name> τοῖς <placeName key="Eleusis"><ref target="http://pleiades.stoa.org/places/741459/"><w lemma="Ἐλευσίς">Ἐλευσι
+	    					
+<lb xml:id="line_18" n="18" break="no"/> νόθεν</w> <w lemma="Ἐλευσίς">Ἐλευσῖνάδε</w></ref></placeName>· <w lemma="ἐάν">ἐ<supplied reason="lost">ὰ</supplied>ν</w> δὲ <w lemma="μή">μὲ</w> <w lemma="παραδέχομαι">παραδέχσονται</w> <w lemma="πέντε">πέντε</w> <w lemma="ἡμέρα">ἑμερο̑ν</w> <space quantity="4" unit="character"/>
+	    				
+<lb xml:id="line_19" n="19"/> <w lemma="ἐπειδάν">ἐπειδὰν</w> <name type="invocation"><w lemma="ἐπαγγέλλω">ἐπαγγελε̑ι</w></name>, <w lemma="παραδίδωμι">παραδιδόντον</w> το̑ν <w lemma="ἐκ">ἐκ</w> τε̑ς <name type="group"><w lemma="πόλις">πόλεος</w></name> <w lemma="ὅθεν">h<unclear>όθ</unclear>εν</w> <w lemma="ἄν">ἂν</w> <w lemma="εἰμί">ἐ̑
+	    					
+<lb xml:id="line_20" n="20" break="no"/> <supplied reason="lost">ι</supplied></w> ὁ <name type="vegetal"><w lemma="καρπός">κ<unclear>αρπ</unclear>ός</w></name>, <w lemma="εὐθύνω">εὐθυνόσθον</w> hοι <name type="personnel"><w lemma="ἱεροποιός"><unclear>hι</unclear>ε<unclear>ρο</unclear>ποιοὶ</w></name> <w lemma="χίλιοι">χιλίαισ<unclear>ι</unclear>ν</w> <space quantity="1" unit="character"/> <w lemma="δραχμή">δραχ<unclear>μ</unclear>ε̑σι</w> <w lemma="ἕκαστος"><supplied reason="lost">h</supplied>
+	    						
+<lb xml:id="line_21" n="21" break="no"/> έ<supplied reason="lost">κα</supplied>στος</w>· καὶ <w lemma="παρά">παρὰ</w> το̑ν <name type="title"><w lemma="δήμαρχος">δεμάρχον</w></name> <w lemma="κατά">κ<unclear>α</unclear>τὰ</w> <w lemma="αὐτός">τα<unclear>ὐ</unclear>τὰ</w> <w lemma="παραδέχομαι">παραδέχεσθαι</w>· <name type="title"><w lemma="κῆρυξ"><supplied reason="lost">κ</supplied>έ<unclear>ρ</unclear>υ
+	    							
+<lb xml:id="line_22" n="22" break="no"/> <supplied reason="lost">κα</supplied>ς</w></name> δὲ <w lemma="αἱρέω">hελομένε</w> hε <name type="group"><w lemma="βουλή">βολὲ</w></name> <w lemma="πέμπω">πεμφσάτο</w> <w lemma="εἰς">ἐς</w> τὰς <name type="group"><w lemma="πόλις">πόλες</w></name> <name type="invocation"><w lemma="ἀγγέλλω">ἀγγέλλον<unclear>τ</unclear>ας</w></name> <space quantity="2" unit="character"/>
+	    				
+<lb xml:id="line_23" n="23"/> <w lemma="ὅδε"><unclear>τ</unclear><supplied reason="lost">άδ᾽</supplied></w> <name type="authority"><w lemma="ψηφίζω">hεφσεφισμένα</w></name> το̑ι <name type="group"><w lemma="δῆμος">δέμοι</w></name>, τὸ μὲν <w lemma="νῦν">νῦν</w> <w lemma="εἰμί">ἐ̑ναι</w> <w lemma="ὡς">hος</w> <w lemma="ταχύς">τάχιστα</w>, τὸ δ<unclear>ὲ</unclear> <w lemma="λοιπός"><unclear>λ</unclear>
+	    					
+<lb xml:id="line_24" n="24" break="no"/>οιπὸν</w> <w lemma="ὅταν">hόταν</w> <w lemma="δοκέω">δοκε̑ι</w> <w lemma="αὐτός">αὐτε̑ι</w>· <w lemma="κελεύω">κελευέτο</w> δὲ καὶ hο <name type="personnel"><w lemma="ἱεροφάντης">hιεροφάντες</w></name> κα<unclear>ὶ</unclear> ὁ
+	    				
+<lb xml:id="line_25" n="25"/> <name type="personnel"><w lemma="δᾳδοῦχος">δαιδο̑χος</w></name> <name type="festival"><w lemma="μυστήριον">μυστερίοις</w></name> <name type="genericOffering"><w lemma="ἀπάρχομαι">ἀπάρχεσθαι</w></name> τὸς <name type="ethnic" key="Greece"><w lemma="Ἕλλην">hέλλενας</w></name> το̑ <name type="vegetal"><w lemma="καρπός">καρπο̑</w></name> <w lemma="κατά">κα<unclear>τὰ</unclear></w>
+	    				
+<lb xml:id="line_26" n="26"/> τὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name> καὶ  τὲν <name type="authority"><name type="oracle"><w lemma="μαντεία">μαντε<unclear>ί</unclear>αν</w></name></name> τὲν <w lemma="ἐν">ἐγ</w> <placeName key="Delphi"><ref target="http://pleiades.stoa.org/places/540726/"><w lemma="Δελφοί">Δελφο̑ν</w></ref></placeName>· <w lemma="ἀναγράφω">ἀναγράφσαντες</w> δὲ <w lemma="ἐν"><unclear>ἐμ</unclear></w>
+	    				
+<lb xml:id="line_27" n="27"/> <name type="object"><w lemma="πινάκιον">πινακίοι</w></name> τὸ <w lemma="μέτρον">μέτρον</w> το̑ <name type="vegetal"><w lemma="καρπός">καρπο̑</w></name> το̑ τε <w lemma="παρά">παρὰ</w> το̑ν <name type="title"><w lemma="δήμαρχος">δεμάρχον</w></name> <w lemma="κατά">κατὰ</w> τὸ<supplied reason="lost">ν</supplied> <name type="group"><w lemma="δῆμος"><supplied reason="lost">δ</supplied>
+	    					
+<lb xml:id="line_28" n="28" break="no"/> <supplied reason="lost">ε̑</supplied>μον</w></name> <w lemma="ἕκαστος">hέκαστον</w> καὶ το̑ <w lemma="παρά">παρὰ</w> το̑ν <name type="group"><w lemma="πόλις">πόλεον</w></name> <w lemma="κατά">κατὰ</w> τὲν <name type="group"><w lemma="πόλις">πόλιν</w></name> <w lemma="ἕκαστος">hεκάσ<unclear>τε</unclear><supplied reason="lost">ν</supplied></w>
+	    				
+<lb xml:id="line_29" n="29"/> <w lemma="κατατίθημι"><supplied reason="lost">κ</supplied>αταθέντον</w> <w lemma="ἐν">ἔν</w> τε το̑ι <name type="structure"><w lemma="Ἐλευσίνιον"> Ἐλευσινίοι</w></name> <placeName key="Eleusis"><ref target="http://pleiades.stoa.org/places/741459/"><w lemma="Ἐλευσίς">Ἐλευσ<unclear>ί</unclear>νι</w></ref></placeName> καὶ <w lemma="ἐν">ἐν</w> το̑ι <name type="structure"><w lemma="βουλευτήριον">β<unclear>ο</unclear>λ<unclear>ευ</unclear><supplied reason="lost">τ</supplied>ε
+	    					
+<lb xml:id="line_30" n="30" break="no"/> <unclear>ρ</unclear>ίοι</w></name>· <name type="invocation"><w lemma="ἐπαγγέλλω">ἐπαγγέλλεν</w></name> δὲ τὲν <name type="group"><w lemma="βουλή">βολὲν</w></name> καὶ τε̑σι <w lemma="ἄλλος">ἄλλεσι</w> <name type="group"><w lemma="πόλις">πόλεσιν</w></name> τε̑<supplied reason="lost">σι</supplied> <name type="group"><name type="ethnic" key="Greece"><w lemma="Ἑλληνικός"><supplied reason="lost">hε</supplied>
+	    						
+<lb xml:id="line_31" n="31" break="no"/> <supplied reason="lost">λ</supplied>λενικε̑σιν</w></name></name> <w lemma="ἅπας">ἁπάσεσι</w>, <w lemma="ὅποι">hόποι</w> <w lemma="ἄν">ἂν</w> <w lemma="δοκέω">δοκε̑ι</w> <w lemma="αὐτός">αὐτε̑ι</w> <w lemma="δυνατός">δυνατὸν</w> <w lemma="εἰμί">ἐ̑ναι</w>, <w lemma="λέγω">λ<unclear>έγο</unclear>ν
+	    							
+<lb xml:id="line_32" n="32" break="no"/> τας</w> μὲν <w lemma="κατά">κατὰ</w> hὰ <name type="group"><name type="ethnic" key="Athens"><w lemma="Ἀθηναῖος">Ἀθεναῖοι</w></name></name> <name type="genericOffering"><w lemma="ἀπάρχομαι">ἀπάρχονται</w></name> καὶ οἱ <name type="group"><w lemma="σύμμαχος">χσύμμαχοι</w></name>, <w lemma="ἐκεῖνος">ἐκέ<supplied reason="lost">ν</supplied><unclear>ο</unclear><supplied reason="lost">ι</supplied>
+	    								
+<lb xml:id="line_33" n="33" break="no"/> <supplied reason="lost">ς</supplied></w> δὲ <w lemma="μή">μὲ</w> <name type="authority"><w lemma="ἐπιτάσσω">ἐπιτάττοντας</w></name>, <name type="authority"><w lemma="κελεύω">κελεύοντας</w></name> δὲ <name type="genericOffering"><w lemma="ἀπάρχομαι">ἀπάρχεσθαι</w></name>, <w lemma="ἐάν">ἐὰν</w> <w lemma="βούλομαι">βόλοντ<unclear>αι</unclear></w>,
+	    				
+<lb xml:id="line_34" n="34"/> <w lemma="κατά"><unclear>κ</unclear>ατὰ</w> τὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name> καὶ τὲν <name type="authority"><w lemma="μαντεία">μαντείαν</w></name> τὲν <w lemma="ἐκ">ἐγ</w> <placeName key="Delphi"><ref target="http://pleiades.stoa.org/places/540726/"/><w lemma="Δελφοί">Δελφο̑ν</w></placeName>· <w lemma="παραδέχομαι">παραδέχεσθα<unclear>ι</unclear></w> δ
+	    				
+<lb xml:id="line_35" n="35" break="no"/> ὲ καὶ <w lemma="παρά">παρὰ</w> <w lemma="οὗτος">τούτον</w> το̑ν <name type="group"><w lemma="πόλις">πόλεον</w></name> <w lemma="ἐάν">ἐάν</w> <w lemma="τις">τις</w> <w lemma="ἀπάγω">ἀπάγει</w> τὸς <name type="personnel"><w lemma="ἱεροποιός">hιεροποιὸς</w></name> <w lemma="κατά"><supplied reason="lost">κα</supplied>
+	    					
+<lb xml:id="line_36" n="36" break="no"/> τ<supplied reason="lost">ὰ</supplied></w> <w lemma="οὗτος"><unclear>τα</unclear>ὐτά</w>· <name type="sacrifice"><w lemma="θύω">θύεν</w></name> δὲ <w lemma="ἀπό">ἀπὸ</w> μὲν το̑ <name type="bakery"><w lemma="πελανός">πελανο̑</w></name> <w lemma="καθότι">καθότι</w> <w lemma="ἄν">ἂν</w> <name type="group">Εὐμολπίδαι</name> <name type="authority"><w lemma="ἐξηγέομαι">ἐχσ<supplied reason="lost">hε</supplied>
+	    						
+<lb xml:id="line_37" n="37" break="no"/> <supplied reason="lost">γο̑</supplied>νται</w></name>, <name type="animal" key="ox"><name type="animal" key="sheep"><name type="animal" key="swine"><w lemma="τριττύα">τρίττοιαν</w></name></name></name> δὲ <name type="animal" key="ox"><name type="gender"><w lemma="βόαρχος">βόαρχον</w></name></name> <name type="quality"><w lemma="χρυσόκερως">χρυσόκερον</w></name> τοῖν <name type="deity" key="Demeter and Kore"><w lemma="θεός">Θεοῖν</w></name> <w lemma="ἑκάτερος">hεκα<unclear>τ</unclear><supplied reason="lost">έρ</supplied>
+	    							
+<lb xml:id="line_38" n="38" break="no"/> <supplied reason="lost">αι</supplied></w> <w lemma="ἀπό"><supplied reason="lost">ἀ</supplied>πὸ</w> το̑ν <name type="vegetal"><w lemma="κριθή">κριθο̑ν</w></name> καὶ το̑ν <name type="vegetal"><w lemma="πυρός">πυρο̑ν</w></name> καὶ το̑ι <name type="deity" key="Triptolemos"><w lemma="Τριπτόλεμος">Τριπτολέμοι</w></name> καὶ το̑ι <name type="deity" key="Theos"><w lemma="θεός"><unclear>Θε</unclear>
+	    								
+<lb xml:id="line_39" n="39" break="no"/>ο̑ι</w></name> καὶ τε̑ι <name type="deity" key="Thea"><w lemma="θεά">Θεᾶι</w></name> καὶ το̑ι <name type="deity" key="Eubouleus"><w lemma="Εὐβουλεύς">Εὐβόλοι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">hιερεῖον</w></name> <w lemma="ἕκαστος">hεκάστοι</w> <name type="age"><w lemma="τέλειος">τέλεον</w></name> κα<unclear>ὶ</unclear>
+	    				
+<lb xml:id="line_40" n="40"/> <unclear>τ</unclear>ε̑ι <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθενα<unclear>ία</unclear>ι</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βο̑ν</w></name> <name type="quality"><w lemma="χρυσόκερως">χρυσόκερον</w></name>· τὰς δὲ ἄλλας <name type="vegetal"><w lemma="κριθή">κριθὰς</w></name> καὶ <name type="vegetal"><w lemma="πυρός">πυρὸς</w></name> <w lemma="ἀποδίδωμι">ἀπ
+	    					
+<lb xml:id="line_41" n="41" break="no"/> οδομένος</w> τὸς <name type="personnel"><w lemma="ἱεροποιός">hιεροποιὸς</w></name> <w lemma="μετά">μετὰ</w> τε̑ς <name type="group"><w lemma="βουλή">βολε̑ς</w></name> <name type="genericOffering"><w lemma="ἀνάθεμα">ἀναθέματα</w></name> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνατιθέν
+	    						
+<lb xml:id="line_42" n="42" break="no"/> αι</w></name> τοῖν <name type="deity" key="Demeter and Kore"><w lemma="θεός">Θεοῖν</w></name>, <w lemma="ποιέω">ποιεσαμένος</w> <w lemma="ἅσσα">hαττ’</w> <w lemma="ἄν">ἂν</w> το̑ι <name type="group"><w lemma="δῆμος">δέμοι</w></name> το̑ι <name type="ethnic" key="Athens"><w lemma="Ἀθηναῖος">Ἀθεναίον</w></name> <w lemma="δοκέω">δοκε̑
+	    							
+<lb xml:id="line_43" n="43" break="no"/> ι</w>, καὶ <w lemma="ἐπιγράφω">ἐπιγράφεν</w> τοῖς <name type="genericOffering"><w lemma="ἀνάθεμα">ἀναθέμασιν</w></name>, <w lemma="ὅτι">hότι</w> <w lemma="ἀπό">ἀπὸ</w> το̑ <name type="vegetal"><w lemma="καρπός">καρπο̑</w></name> τε̑ς <name type="genericOffering"><w lemma="ἀπαρχή">ἀπαρχε̑
+	    								
+<lb xml:id="line_44" n="44" break="no"/> ς</w></name> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνεθέθε</w></name>, καὶ <name type="ethnic" key="Greece"><w lemma="Ἕλλην">hελλένον</w></name> τὸν <name type="genericOffering"><w lemma="ἀπάρχομαι">ἀπαρχόμενον</w></name>· τοῖς δὲ <w lemma="οὗτος">ταῦτα</w> <w lemma="ποιέω">ποιο̑σι</w>
+	    				
+<lb xml:id="line_45" n="45"/> <w lemma="πολύς">πολλὰ</w> <w lemma="ἀγαθός">ἀγαθὰ</w> <w lemma="εἰμί">ἐ̑ναι</w> καὶ <w lemma="εὐκαρπία">εὐκαρπίαν</w> καὶ <w lemma="πολυκαρπία">πολυκαρπία<unclear>ν</unclear></w>, <w lemma="ὅστις">h<unclear>ο</unclear>ίτινες</w> <w lemma="ἄν">ἂν</w>
+	    				
+<lb xml:id="line_46" n="46"/> <w lemma="μή">μὲ</w> <w lemma="ἀδικέω">ἀδικο̑σι</w> <name type="ethnic" key="Athens"><w lemma="Ἀθηναῖος">Ἀθεναίος</w></name> <w lemma="μηδέ">μεδὲ</w> τὲν <name type="group"><w lemma="πόλις">πόλιν</w></name> τὲν <name type="ethnic" key="Athens"><w lemma="Ἀθηναῖος">Ἀθεναίον</w></name> <w lemma="μηδέ">μεδὲ</w> τὸ <name type="deity" key="Theos"><w lemma="θεός">Θεό</w></name>. <space quantity="1" unit="character"/>
+	    				
+<lb xml:id="line_47" n="47"/> Λάμπον <w lemma="λέγω">εἶπε</w>· τὰ μὲν <w lemma="ἄλλος">ἄλλα</w> <w lemma="καθάπερ">καθάπερ</w> αἱ <w lemma="συγγραφή">χσυγγραφαὶ</w> τε̑ς <name type="genericOffering"><w lemma="ἀπαρχή">ἀπαρχε̑ς</w></name> <unclear>τ</unclear>ο̑
+	    				
+<lb xml:id="line_48" n="48"/> <name type="vegetal"><w lemma="καρπός"><supplied reason="lost">κ</supplied>αρπο̑</w></name> τοῖν <name type="deity" key="Demeter and Kore"><w lemma="θεός">Θεοῖν</w></name>· τὰς δὲ <w lemma="συγγραφή">χσυνγραφὰς</w> καὶ τὸ <name type="authority"><w lemma="ψήφισμα">φσέφισμα</w></name> τόδε <w lemma="ἀναγράφω">ἀναγ
+	    					
+<lb xml:id="line_49" n="49" break="no"/> ραφσάτο</w> hο <w lemma="γραμματεύς">γραμματεὺς</w> hο τε̑ς <name type="group"><w lemma="βουλή">βολε̑ς</w> </name><w lemma="ἐν">ἐν</w> <objectType key="stele"><w lemma="στήλη">στέλαιν</w></objectType> <w lemma="δύο">δυοῖν</w> <w lemma="λίθινος">λιθίναι
+	    						
+<lb xml:id="line_50" n="50" break="no"/> ν</w> καὶ <w lemma="κατατίθημι">καταθέτο</w> τὲν μὲν <placeName key="Eleusis"><ref target="http://pleiades.stoa.org/places/741459/"/><w lemma="Ἐλευσίς">Ἐλευσῖνι</w></placeName> <w lemma="ἐν">ἐν</w> το̑ι <name type="structure"><w lemma="ἱερός">hιερο̑ι</w></name> τὲν δὲ <w lemma="ἕτερος">hετέραν</w> <w lemma="ἐν">ἐ
+	    							
+<lb xml:id="line_51" n="51" break="no"/> μ</w> <name type="locality"><w lemma="πόλις">πόλει</w></name>· hοι δὲ <w lemma="πωλητής">πολεταὶ</w> <w lemma="ἀπομισθόω">ἀπομισθοσάντον</w> <unclear>τ</unclear>ὸ <w lemma="στήλη">στέλα</w>· hοι δὲ <name type="title"><w lemma="κωλακρέτης">κολ<unclear>α</unclear><supplied reason="lost">κρ</supplied>
+	    								
+<lb xml:id="line_52" n="52" break="no"/> έται</w></name> <w lemma="δίδωμι">δόντον</w> τὸ <w lemma="ἀργύριον">ἀργύριον</w>. <w lemma="οὗτος">ταῦτα</w> μὲν <w lemma="περί">πε<supplied reason="lost">ρ</supplied>ὶ</w> τε̑ς <name type="genericOffering"><w lemma="ἀπαρχή">ἀπαρχε̑ς</w></name> το̑ <name type="vegetal"><w lemma="καρπός">καρ<supplied reason="lost">π</supplied>ο̑</w></name> <supplied reason="lost">τ</supplied>
+	    				
+<lb xml:id="line_53" n="53" break="no"/> οῖν <name type="deity" key="Demeter and Kore"><w lemma="θεός">θεοῖν</w></name> <w lemma="ἀναγράφω">ἀναγράφσαι</w> <w lemma="εἰς">ἐς</w> τὸ <objectType key="stele"><w lemma="στήλη">στέλ<supplied reason="lost">α</supplied></w></objectType>, <w lemma="μείς">με̑να</w> δὲ <pc> ⋮⋮⋮ </pc> <w lemma="ἐμβάλλω">ἐμβάλλεν</w> <name type="month"><w lemma="Ἑκατομβαιών">hεκατονβ
+	    					
+<lb xml:id="line_54" n="54" break="no"/>αιο̑να</w></name> τὸν <w lemma="νέος">νέον</w> <name type="title"><w lemma="ἄρχων">ἄρχοντα</w></name> τὸν δὲ <w lemma="βασιλεύς">βασ<supplied reason="lost">ι</supplied>λέα</w> <w lemma="ὁρίζω">hορίσαι</w> τὰ <name type="structure"><w lemma="ἱερόν">hιερὰ</w></name> τὰ <w lemma="ἐν">ἐν</w> τ<supplied reason="lost">ο̑</supplied>
+	    				
+<lb xml:id="line_55" n="55" break="no"/> ι <name type="locality"><w lemma="πελαργικός">Πελαργικο̑ι</w></name>, καὶ τὸ <w lemma="λοιπός">λοιπὸν</w> <w lemma="μή">μὲ</w> <w lemma="ἐνιδρύω">ἐνhιδρύεσθαι</w> <name type="structure"><w lemma="βωμός">βομὸς</w></name> <w lemma="ἐν">ἐν</w> το̑ι <name type="locality"><w lemma="πελαργικός">Πελα
+	    					
+<lb xml:id="line_56" n="56" break="no"/> ργικο̑ι</w></name> <w lemma="ἄνευ">ἄνευ</w> τε̑ς <name type="group"><w lemma="βουλή">βολε̑ς</w></name> καὶ το̑ <name type="group"><w lemma="δῆμος">δέμο</w></name>, <w lemma="μηδέ">μεδὲ</w> τὸς <w lemma="λίθος">λίθος</w> <w lemma="τέμνω">τέμνεν</w> <w lemma="ἐκ">ἐκ</w> το̑ <name type="locality"><w lemma="πελαργικός"><supplied reason="lost">Π</supplied>
+	    						
+<lb xml:id="line_57" n="57" break="no"/> ελαργικο̑</w></name>, <w lemma="μηδέ">μεδὲ</w> <w lemma="γῆ">γε̑ν</w> <w lemma="ἐξάγω">ἐχσάγεν</w> <w lemma="μηδέ">μεδὲ</w> <w lemma="λίθος">λίθος</w>· <w lemma="ἐάν">ἐὰν</w> δέ <w lemma="τις">τις</w> <w lemma="παραβαίνω">παραβαίνει</w> <space quantity="1" unit="character"/>
+	    				
+<lb xml:id="line_58" n="58"/> <w lemma="οὗτος">τ<pc>⋮⋮⋮</pc>ούτον</w> <w lemma="τις">τι</w>, <name type="punishment"><w lemma="ἀποτίνω">ἀποτινέτο</w></name> <w lemma="πεντακόσιοι">πεντακοσίας</w> <w lemma="δραχμή">δραχμάς</w>, <w lemma="εἰσαγγέλλω">ἐσαγγελλέτο</w> δὲ h
+	    				
+<lb xml:id="line_59" n="59" break="no"/> <supplied reason="lost">ο</supplied> <name type="title"><w lemma="βασιλεύς">βασιλεὺς</w></name> <w lemma="εἰς">ἐς</w> τὲν <name type="group"><w lemma="βουλή">βολέν</w></name>· <w lemma="περί">περὶ</w> δὲ το̑ <name type="liquid"><w lemma="ἔλαιος">ἐλαίο</w></name> <w lemma="ἀπαρχή">ἀπαρχε̑ς</w> <w lemma="συγγραφή">χσυγγράφ
+	    					
+<lb xml:id="line_60" n="60" break="no"/> σας</w> Λάμπον <w lemma="ἐπιδείκνυμι">ἐπιδειχσάτο</w> τε̑ι <name type="group"><w lemma="βουλή">βολε̑ι</w></name> <w lemma="ἐπί">ἐπὶ</w> τε̑ς <w lemma="ἔνατος">ἐνάτες</w> <w lemma="πρυτανεία">πρυτανείας</w>·
+	    				
+<lb xml:id="line_61" n="61"/> hε δὲ <name type="group"><w lemma="βουλή">βολὲ</w></name> <w lemma="εἰς">ἐς</w> τὸν <name type="group"><w lemma="δῆμος">δε̑μον</w></name> <w lemma="ἐκφέρω">ἐχσενενκέτο</w> <w lemma="ἐπανάγκης">ἐπάναγκες</w>.
+	    	
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>Timoteles of Acharnai was secretary. It was decided by the council and the people. Kekropis was the prytany, Timoteles was secretary, Kyneas was chairman. The draftsmen drafted the following: the Athenians should offer first-fruits of the harvest to the Two Goddesses, according to the ancestral customs and (5) the oracle from Delphi, from 100 <foreign>medimnoi</foreign> of barley, not less than a <foreign>hekteus</foreign>, from 100 <foreign>medimnoi</foreign> of wheat, not less than half a <foreign>hekteus</foreign>. If someone produces more or less than this, he should offer first fruits according to the same proportion. The demarchs should make the collection by demes and hand them over to the <foreign>hieropoioi</foreign> from (10) Eleusis at Eleusis. They should construct three granaries at Eleusis according to the ancestral customs wherever seems to the <foreign>hieropoioi</foreign> and the architect to be suitable, from the money of the Two Goddesses. They should deposit here
+the crops that they received from the demarchs. The allies should offer first-fruits in the same way. The cities should (15) choose collectors of the crops in whatever way it seems to them that the crops will be best collected. When they have been collected, they should send them to Athens. Those who bring them should hand them over to the <foreign>hieropoioi</foreign> from Eleusis at Eleusis. If they do not transmit them within five days from when they have been announced, although the men from the city from which the crops (20) come are handing them over, the <foreign>hieropoioi</foreign> shall be fined 1000 drachmae each. They should transmit them from the demarchs according to the same conditions. The council, having chosen messengers, should send them to the cities announcing what has been voted by the people, as soon as possible for now, and in the future, whenever the council decides. The hierophant and the (25) <foreign>dadouch</foreign> should encourage the Greeks at the mysteries to offer first-fruits according to the ancestral customs and the oracle from Delphi. When they have written up on a board the amount of the crops received from the demarchs deme by deme and from the cities, city by city, they should place it in the Eleusinion in Eleusis and in the <foreign>bouleuterion</foreign>. (30) The council should announce also to all the other Greek cities, wherever it decides this to be possible, telling them the arrangements under which the Athenians and the allies offer first-fruits, and not commanding them but encouraging them, if they wish, to offer first-fruits according to ancestral customs and the oracle from Delphi. (35) The <foreign>hieropoioi</foreign> should accept (the crops) from these cities in the same way, if any city brings them. They should sacrifice from the <foreign>pelanos</foreign> as the Eumolpidai expound, and a sacrifice of three animals, lead by an ox with gilded horns to each of the Two Goddesses, from the barley and the wheat, and to Triptolemos and to the God and the Goddess and to Eubouleus, an adult animal to each and (40) to Athena an ox with gilded horns. The <foreign>hieropoioi</foreign> together with the council, having sold the rest of the barley and wheat, should dedicate offerings to the Two Goddesses, doing whatever the Athenian people decides, and they should write on the dedications that they were dedicated from the first-fruit offerings, the Greeks also offering first-fruits. To those who do this may much good come, (45) and good and plentiful harvests, as long as they do not do wrong to the Athenians or to the city of the Athenians or to the Two Goddesses. </p>
+					
+<p>Lampon made the proposal: in other respects in accordance with the draft about the first-fruits of the harvest for the Two Goddesses, but the secretary of the council should write up the draft and this decree on two stone stelai and (50) place one at Eleusis in the sanctuary and the other on the acropolis. The <foreign>poleitai</foreign> should let out the contract of the two stelai, and the <foreign>kolakretai</foreign> shall give the money. And they shall write up these things about the first-fruits of the harvest for the Two Goddesses on the two stelai. The new archon shall insert a month Hekatombaion, and the king (archon) shall define the boundaries of the sanctuaries in the Pelargikon, and in the future no altar shall be set up in the Pelargikon without permission of the council and the people, nor shall anyone cut stones from the Pelargikon, nor take away earth or stones. If anyone contravenes any of these things, he shall pay 500 drachmae and the king (archon) shall report it to the council. And on the matter of the first-fruits of oil, Lampon shall make a draft and show it to the council in the ninth prytany. And the council shall be obliged to bring it before the people.</p>
+					
+<p>(translation slightly adapted from S. Lambert and R. Osborne, <ref target="https://www.atticinscriptions.com/inscription/ML/73" type="external">Attic inscriptions on line</ref>)</p>
+					</div>
+	    		
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p> Timotelès d'Acharnes était secrétaire. Il a plu au conseil et au peuple. La tribu Kekropis exerçait la prytanie, tandis que Timotelès était secrétaire et Kykneas président. Voici ce que les rédacteurs ont proposé. Que les Athéniens offrent aux Deux Déesses les prémices des récoltes, conformément aux coutumes ancestrales et (5) à l'oracle de Delphes : sur 100 médimnes d'orge, pas moins d'un setier; sur 100 médimnes de blé, pas moins d'un demi-setier. Si l'on produit une récolte plus abondante, égale ou inférieure, que les prémices soient offertes selon la même proportion. Que les démarques les prélèvent par dème et les remettent aux hiéropes (10) d'Éleusis à Éleusis. Qu'ils construisent trois silos à Éleusis conformément aux coutumes ancestrales, dans un endroit qui semblera convenable aux hiéropes et à l'architecte, avec l'argent des Deux Déesses. Qu'ils y mettent la récolte qu'ils auront reçue des démarques, et que les alliés offrent également les prémices conformément à ce qui
+précède. Que les cités (15) choisissent des percepteurs pour la récolte, qu'elle soit prélevée de la meilleure manière qu'il leur semblera. Après l'avoir prélevée, qu'elles l'envoient à Athènes. Que ceux qui l'ont amenée la remettent aux hiéropes d'Éleusis à Éleusis. S'ils n'acceptent pas la récolte des envoyés de la cité dont elle provient dans les cinq jours après l'annonce, (20) que les hiéropes soient soumis à une amende de 1 000 drachmes chacun. Et qu'ils l'acceptent des démarques de la même manière. Que le conseil choisisse des hérauts et les envoie dans les cités pour annoncer ce qui a été décrété à l'instant par le peuple, cette fois-ci, le plus vite possible, mais quand le conseil le décidera à l'avenir. Que le hiérophante et le (25) dadouque, lors des mystères, invitent les Grecs à offrir les prémices de la récolte conformément aux coutumes ancestrales et à l'oracle de Delphes. Qu'ils inscrivent sur une tablette la mesure de la récolte provenant des démarques, selon chaque dème, et des cités, selon chaque cité, et qu'ils en déposent une au temple de Déméter à Éleusis et l'autre au bouleuterion. (30) Que le conseil fasse également la proclamation à toutes les autres cités grecques, où cela lui semblera possible, exposant la manière dont les Athéniens et leurs alliés offrent les prémices, sans le leur ordonner mais en les invitant à offrir les prémices, si elles le souhaitent, conformément aux coutumes ancestrales et à l'oracle de Delphes. Que les hiéropes reçoivent (35) la part de ces cités conformément à ce qui précède, si quelque cité l'amène. Qu'ils sacrifient sur le <foreign>pelanos</foreign> de la manière prescrite par les Eumolpides, une <foreign>trittoia</foreign> menée par un bovin aux cornes dorées à chacune des Deux Déesses sur l'orge et le blé, à Triptolème, au Dieu, à la Déesse et à Eubolos un animal adulte à chacun et (40) à Athéna un bovin aux cornes dorées. Que les hiéropes vendent le reste de l'orge et du blé et, avec le conseil, qu'ils dédient des offrandes aux Deux Déesses, d'après la décision du peuple des Athéniens, et qu'ils inscrivent sur les offrandes qu'elles ont été dédiées sur les prémices de la récolte et que ce sont les prémices des Grecs. Ceux qui observent ce qui précède (45) obtiendront beaucoup de bienfaits, de fécondité et d'abondance, ceux qui ne nuiront pas aux Athéniens, ni à la cité des Athéniens, ni aux Deux Déesses. </p>
+
+<p>Lampon a fait la proposition. Pour le reste, qu'on s'en tienne aux consignes sur les prémices de la récolte à offrir aux Deux Déesses. Le secrétaire du conseil a fait inscrire les consignes et le présent décret sur deux stèles en pierre, (50) et qu'il a déposé l'une à Éleusis dans le sanctuaire, l'autre dans la cité. Que les polètes mettent les stèles en adjudication. Que les kolakrètes donnent l'argent. Inscrire ce qui précède concernant les prémices de la récolte à offrir aux Deux Déesses sur les stèles. Que le nouvel archonte intercale un mois d'Hekatombaion. Que l'archonte-roi délimite les sanctuaires dans le (55) Pelargikon, et à l'avenir, que l'on n'y établisse pas d'autel sans l'assentiment du conseil et du peuple, que l'on n'extraie pas de pierre du Pelargikon, que l'on n'en emmène ni de la terre ni des pierres. Si quelqu'un transgresse l'une de ces prescriptions, qu'il soit redevable de 500 drachmes, que l'(archonte-)roi le poursuive devant le conseil. En ce qui concerne les prémices de l'huile, que Lampon propose un projet de décret et le présente au conseil à la neuvième prytanie. Que le conseil soit obligé de le porter devant le peuple.</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+
+<p>This famous text, usually called the “Eleusinian first-fruits decree”, is a fifth-century attestation of the offering of agricultural first-fruits to Demeter and Kore. This was a traditional practice within Attica, sanctioned by the Delphic oracle. The decree represents an attempt to extend this local to all the Greek city-states.</p> 
+
+<p>First, the decree presents the arrangements made to collect mandatory first-fruits in Attica, with the building of three granaries at Eleusis (lines 4-13), and mandates the same measure for the allies of Athens, who have to make the collection before sending the grains to Athens (13-21). Heralds are in charge of the proclamation to be made in the various cities (21-24). Then, at the mysteries, an invitation to join (on a voluntary basis) this offering “according to the ancestral customs and the oracle from Delphi” is to be made by the hierophant and the dadouch to all the other Greeks (24-26) and the council will proclaim the same encouragement wherever possible, to cities that were not allies of Athens (30-36). Sacrifices have to be performed “from the pelanos”, as expounded by the Eumolpidai, and the rest of the first-fruits will be sold to provide dedications to the Two Goddesses, with inscriptions recording that they were consecrated from the produce of the aparche and that “the Hellenes made this offering” (36-44); solemn blessings for those acting piously in the sense of the decree ends this part of the text (44-46). An amendment or rider is added to the main decree and refers to: 1) the publication of the decree on two stelai; 2) the addition of an intercalary month of Hekatombaion in the following year; 3) the protection of the Pelargikon’s integrity; 4) the submission of a draft of a decree about the first-fruits of oil to the council and then to the assembly for ratification (47-61).</p>							
+
+<p>Lines 4-5: What the “ancestral customs” refer to is not made explicit and some scholars have supposed that the measure was built on a previous association between agricultural first-fruits and the Eleusinian <foreign>proerosia</foreign> (previous scholarship in Jim, p. 100-101, in particular Robertson). On this Attic festival at Eleusis, see <ref target="CGRN 94">CGRN 94</ref> (Eleusis), line 9 with Commentary ; elsewhere in Attica: cf. <ref target="CGRN_25">CGRN 25</ref> (Paiania), Face 1, lines 8, 16-17, and Face B, line 4; <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 5-6, 13; <ref target="CGRN 78">CGRN 78</ref> (Piraeus), line 10. Regarding the Delphic oracle associated to the “ancestral customs” (three times: see also lines 25-26 and 34), we do not know when it was sought by or given to Athens. The needs to consult Apollo at Delphi could imply some change in the earlier form of performing the ritual, or, at least, the will to give a “Panhellenic” authority to a measure which was supposed to be accepted by all the Greeks. According to Jim (p. 210ff.), the decree had a religious and ideological dimension, but also carried real economic significance for the democracy. The mission of Triptolemus bringing a corn of grain, i.e. the agricultural practice, to the rest of the Greeks was considered as the mythical basis of Athens’ predominance in this context. </p>
+
+<p>Line 10: The storage in chambers for grain has been interpreted as a visualization of the descent of Kore into Hades, but it has been argued that the Attic agricultural calendar did not fit the temporal sequence of the <title>Homeric hymn to Demeter</title> (summary of the discussion in Clinton <bibl type="abbr" n="IE">IE</bibl>, p. 46-47). Storage was a necessity independent from myth and we do not know if such a link between Kore and the grain was conceptualised by the Athenians, even if scholars have written profusely on this presumed relationship, building on allegorical interpretations attested from the late Hellenistic period onwards (see the evidence in Burkert, p. 260-261, and n. 19). </p>
+
+<p>Lines 21-26: For this first collection of grain envisaged by the decree, speed is imperative because the harvest time is soon coming (the decree is issued during the eighth prytany, cf. line 2 (Kekropis), and the harvest starts in the ninth – Clinton <bibl type="abbr" n="IE">IE</bibl>, p. 47). In the future, the announcement will regularly be made during the mysteries. If this is not sufficient, heralds will be sent whenever necessary. On the quantity of grain collected, the evidence is scanty, except for the year 329/8 (see <bibl type="abbr" n="IG II²">IG II²</bibl> 1672  / <bibl type="abbr" n="IE">IE</bibl> 177).</p>
+
+<p>Lines 26-30: The measure of the grain and the names of the donating demes and cities are to be written down on (probably wooden and whitened) tablets and displayed at Eleusis as well as in the Athenian bouleuterion. Contrary to the ephemeral and specific character of these <foreign>pinakes</foreign>, the measure concerning inscriptions for the remaining consecrated grain (cf. lines 40-44) guaranteed a long-lasting public testimony of the donation but employed inclusive (“Panhellenic”) language, since this stated that “the aparche was made by the Hellenes”.</p>
+
+<p>Lines 36-40: Two types of sacrifices are mentioned: the first is bloodless since, in this text, the <foreign>pelanos</foreign> is closely related to grain (contrary to other inscriptions where it refers to cash: <ref target="CGRN_195">CGRN 195</ref>, Amorgos, fr. B2, lines 22-24, with Commentary for other examples). It designates the offering of a cake or an aqueous broth made of wheat and barley to be offered to the deities (burnt at the altar or deposited on the sacred table; cf. also <ref target="CGRN_29">CGRN 29</ref>, lines 24-28, for further discussion). We know from the account of the <foreign>epistatai</foreign> and treasurers at Eleusis dated to 329/8 (see <bibl type="abbr" n="IG  II²">IG II²</bibl> 1672 / <bibl type="abbr" n="IE">IE</bibl> 177, lines 409-410) that grain was given for <foreign>the pelanos</foreign>, which implies that it was a vegetal offering and not a sort of compensation in cash (Clinton, <bibl type="abbr" n="IE">IE</bibl>, p. 233; cf. p. 48). In the
+present inscription, (a part) “from the <foreign>pelanos</foreign>” is sacrificed according to the instructions given by the Eleusinian <foreign>genos</foreign> of the Eumolpidai. This implies that the rest has another, implicit, destination. The other offerings are animal sacrifices, with a total of eleven sacrificial animals: a <foreign>trittoia boarchos</foreign> for each of the Two Goddesses, i.e. a bovine with gilded horns leading two other animals (for an earlier text with an offering of this type at Eleusis, see <ref target="CGRN 8">CGRN 8</ref>, line 5; see also <ref target="CGRN_32">CGRN 32</ref>, Thorikos, line 41; <bibl type="abbr" n="LSS">LSS</bibl> 16, Athens); an adult <foreign>hiereion</foreign>, probably a sheep, to Triptolemos and to each member of the “Eleusinian triad” (the deities called God and Goddess respectively, with Eubouleus; on this group, see Clinton 1992: 51-53, 56, 114-115); a bovine, probably a cow, with gilded horns to Athena, presumably in her capacity
+as tutelary deity of Athens. If the animals of the two groups of three animals for the Two Goddesses all had to have gilded horns, this would entail that the bovine (a bull or a cow?) probably led a ram and a goat (Dittenberger, quoted by Clinton <bibl type="abbr" n="IE">IE</bibl>, p. 48). However, it is likelier to assume that only the bovine had gilded horns (as in the case of the animal offered to Athena) and not the other animals of the group, which could then be a sheep and a pig (see <ref target="CGRN_130">CGRN 130</ref>, Kamiros, lines 3-7). The specification ἀπὸ το̑ν κριθο̑ν καὶ το̑ν πυρο̑ν in line 38 defines from which source of income the expense is taken. These sacrifices celebrating the generosity of Greece were probably performed on the altars of Demeter and Kore outside the sanctuary (Clinton <bibl type="abbr" n="IE">IE</bibl>, p. 49; <foreign>contra</foreign> Robertson). </p>
+
+<p>Lines 40-46: The rest of the barley and wheat is to be sold and the income must be used, probably <foreign>in toto</foreign> to offer dedications to the Two Goddesses, duly inscribed to commemorate the context of their consecration. The decree concludes with a blessing. This seems to underline: 1) that the legal measure it codifies is primarily a religious one; 2) accordingly, that this measure has a mandatory character for the Athenian allies but is exhortative and not strictly enforceable (i.e. with a sanction or a fine). A blessing, however, is a form of veiled threat: those who respect the measure are encouraged to do so through the invocation of agricultural prosperity they are expected to receive from the gods; those who harm Athens or the Two Goddesses will implicitly obtain the opposite. This attests to the intimate links between Athens and the Two Goddesses, equally affected by possible wrong actions from outside, under the implicit authority of Apollo, whose Delphic oracle is repeatedly invoked. </p>
+
+<p>Lines 47-61: The amendment proposed by Lampon, who is presumably the famous seer evidenced elsewhere (see Flower, p. 119, about Plut. <title>Per.</title> 6, and p. 123-124), begins with recommendations for the publication of the decree (47-53). Then, the intercalation of a second month Hekatombaion is scheduled at the coming beginning of the year, perhaps to secure enough time to collect the grain from everywhere and still perform the traditional sacrifice in due time (cf. Clinton <bibl type="abbr" n="IE">IE</bibl>, p. 50). Regarding the Pelargikon, “the Pelasgian wall”, which is an area surrounding some part of the Acropolis (Arist. <title>Av.</title> 832, Thuc. 2.17.1), often thought to be the south-western foot of the citadel, Thucydides (<foreign>ibid.</foreign>) refers to a Delphic oracle intimating that it was better to keep this place barren (τὸ Πελαργικὸν ἀργὸν ἄμεινον). As a reputed seer, Lampon was perhaps in charge of transforming a Delphic commandment into a concrete
+regulation. According to the interesting hypothesis of Foucart, p. 254-255, if the Delphic oracle about the <foreign>aparchai</foreign> also referred to the Pelargikon, this would explain why rules about this area were inserted in the amendment to the first-fruits decree. The first-fruits of oil (referring to another fruit given to their tutelary goddess by the Athenians) were an ambitious project, which seems to have never been put into practice (cf. <bibl type="abbr" n="IE">IE</bibl>, p. 51).</p>		
+						
+					</div>
+			</body>
+    	</text>
+	</TEI>

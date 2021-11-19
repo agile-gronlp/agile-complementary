@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_214" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 214</idno>: <rs type="textType" key="purity regulation">Purity regulation</rs> concerning the sanctuary of Artemis Kithone at Miletos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>A right <rs type="objectType">anta-block</rs>, presumably from the temple of Artemis Kithone. Broken or eroded above and on the left side.</p>
+			<p><dimensions>
+					<height unit="cm">128</height>
+					<width unit="cm">26-29</width>
+					<depth unit="cm">28</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The script is highly legible and fairly regular. Strong apices and broken-bar <foreign>alpha</foreign>, but open <foreign>omega</foreign>.</p>
+				<p>Letters: <height unit="cm">1.8-2.5</height>. The <foreign>omicron</foreign> remains smaller than the other letters <height unit="cm">1.5</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0075" notAfter="-0001">ca. 75-1 BC</origDate></p>
+			<p><desc>Justification: late Hellenistic lettering (Rehm; see Layout, below).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Miletos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599799" type="external">Miletos</ref></placeName>. Found in 1908 in a Roman building south of the South Market (see Rehm). Now presumed to be in the storerooms at Miletos (inv. no. 1103).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by J.-M. Carbon in 05.2018.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+				<p>Edition here based on Rehm <bibl type="abbr" n="Milet I.7">Milet I.7</bibl> 202 (p. 287-290), with ph. of squeeze. This is edition is reprised in <bibl type="abbr" n="Milet VI.1">Milet VI.1</bibl> 202, with an additional note by Herrmann, p. 199.</p>
+					
+				<p>Cf. also: 
+					<bibl type="abbr" n="SEG">SEG</bibl> 14, 741; 
+					Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 51.</p>
+				
+				<p>Further bibliography: 
+					<bibl type="author_date" n="Nilsson 1906">Nilsson 1906</bibl>: 242; 
+					<bibl type="author_date" n="Zingerle 1929">Zingerle 1929</bibl>: 278-279; 
+					<bibl type="author_date" n="Günther 1988">Günther 1988</bibl>: 236-237 with fig. no. 2;
+					<bibl type="author_date" n="Herda 1998">Herda 1998</bibl>: 12 and 25-40.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    					    			
+<lb/><gap reason="lost" extent="unknown" unit="line"/>	
+	    					
+<lb xml:id="line_1" n="1"/><name type="purification"><w lemma="καθαρός"><supplied reason="lost">καθαροὺς</supplied></w></name> <w lemma="εἴσειμι"><supplied reason="lost">εἰσι</supplied></w>
+
+<lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">ένα</supplied><unclear>ι</unclear> <unclear>εἰς</unclear> τὸν <name type="structure"><w lemma="ναός">ν<unclear>ε</unclear>
+	    				
+<lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">ὼ</supplied></w></name> <unclear>τῆ</unclear>ς <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέ<unclear>μ</unclear>ι
+	    					
+<lb xml:id="line_4" n="4" break="no"/><unclear>δ</unclear>ος</w></name> τῆς <name type="epithet"><name type="clothing"><w lemma="Κιθώνη">Κιθώ<unclear>ν</unclear>η<supplied reason="lost">ς</supplied></w></name></name>,
+
+<lb xml:id="line_5" n="5"/><w lemma="ἀπό"><supplied reason="lost">ἀ</supplied>πὸ</w> μὲν <name type="death"><w lemma="κῆδος">κήδ<unclear>ε</unclear><supplied reason="lost">ο</supplied>ς</w></name>
+	    					
+<lb xml:id="line_6" n="6"/><supplied reason="lost">καὶ</supplied> <name type="person"><w lemma="γυνή">γ<unclear>υν</unclear>αικ<unclear>ὸς</unclear></w></name> <name type="childbirth"><w lemma="λέχος"><supplied reason="lost">λ</supplied>έ
+	    					
+<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">χου</supplied>ς</w></name> κ<unclear>α</unclear>ὶ <name type="animal" key="other"><w lemma="κύων">κυ<unclear>νὸ</unclear>ς</w></name>
+	    					
+<lb xml:id="line_8" n="8"/><name type="childbirth"><w lemma="τίκτω"><supplied reason="lost">τε</supplied>το<supplied reason="lost">κυ</supplied>ίας</w></name> <w lemma="τριταῖος">τ<supplied reason="lost">ρ</supplied>ι
+	    					
+<lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">τα</supplied>ί<unclear>ου</unclear><supplied reason="lost">ς</supplied></w> <name type="liquid"><w lemma="λούω">λουσα
+	    					
+<lb xml:id="line_10" n="10" break="no"/><supplied reason="lost">μ</supplied><unclear>έ</unclear>νους</w></name>, <w lemma="ἀπό">ἀπ<unclear>ὸ</unclear></w> <supplied reason="lost">δὲ</supplied>
+	    					
+<lb xml:id="line_11" n="11"/><supplied reason="lost">τῶ</supplied>ν <w lemma="λοιπός">λοιπῶ<unclear>ν</unclear></w> <w lemma="αὐθήμερος"><supplied reason="lost">αὐ</supplied>	    					
+
+<lb xml:id="line_12" n="12" break="no"/><supplied reason="lost">θημ</supplied><unclear>ε</unclear>ρὸ<unclear>ν</unclear></w> <name type="liquid"><w lemma="λούω">λ<unclear>ο</unclear>υσα
+	    					
+<lb xml:id="line_13" n="13" break="no"/><supplied reason="lost"><space quantity="3" unit="character"/></supplied> <unclear>μ</unclear>έν<supplied reason="lost">ους</supplied></w></name>.
+	    					
+<lb/><space extent="unknown" unit="line"/>
+	    			
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[Enter pure] into the temple of Artemis Kithone: from a funeral and from a woman giving birth and from a bitch that has given birth, on the third day having washed; from the rest, on the same day having washed.
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[Entrer pur] dans le temple d'Artémis Kithonè : (de la proximité) d'un deuil ou d'une femme en couches ou d'une chienne qui a mis bas, le troisième jour après s'être lavé; de tout le reste, le jour même après s'être lavé.
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>As Rehm plausibly surmised, the preservation of many Ionic dialectical forms in the text (e.g. νεώ and Κιθώνη in lines 2-4), makes it likely that we are dealing with a late Hellenistic transcription of an earlier ritual norm. Indeed, an inscription from Miletos testifies to the presence of the cult of the goddess already  from the sixth century BC, due to an inscription identifying the <foreign>perrirhanterion</foreign> from her sanctuary (see Günther; now published as <bibl type="abbr" n="Milet VI.3">Milet VI.3</bibl> 1239). Call. <title>Dian.</title> 225ff. also attests to the deep-seated character of the cult at Miletos: she was said to have guided Neleus, the mythical founder of Miletos, during his sea voyage to colonise the city. For further discussion of a probable festival of Artemis called Neleis at Miletos, see also Rehm and Nilsson. On the background of the cult of Artemis Kithone at Miletos and the connection of this festival with the founding hero Neleus, see esp. now Herda (p. 12 etc). Beyond these pieces of evidence, the cult of Artemis Kithone is poorly known, since the goddess is seldom attested epigraphically, whether in Ionia or elsewhere. Rehm helpfully collects the literary testimonia (Syracuse appears to have been another site for the cult: cf. Epich. 127; Ath. 14.629e); the epithet quite clearly signified that Artemis was represented as a huntress, wearing a short χιτών. It may be that her temple at Miletos had come to be rebuilt in the Hellenistic period, and that, as a result, this norm for entry into the temple itself was reinscribed. Herda (p. 25-40) extensively discusses the epithet and representation of Artemis as Huntress, as well as the possible annual offering of a <foreign>chiton</foreign> during the celebration (in the month Artemision?). For the continuity of the cult into the third century AD, see <bibl type="abbr" n="I.Didyma">I.Didyma</bibl> 315, lines 1-2.</p>
+						
+<p>Though its beginning is missing (yet plausibly restored by Rehm; cp. the text in Sokolowski for a variant), the inscription conforms to a type of purity regulation which is widely attested in the present Collection. This prescribes abstentions from entry, here into the temple itself rather than the sanctuary as a whole (cf. <ref target="http://cgrn.ulg.ac.be/CGRN_181">CGRN 181</ref>, Eresos, and <ref target="CGRN_212">CGRN 212</ref>, Pergamon, lines 3-9), for a certain number of days after contact with different sources of impurity; ablutions are also stipulated as a further purification to be undertaken after the deadline has passed. The regulation lists only three specific cases of abstention, two of which are quite common: funerals and women in childbirth. The delay of only two full days appears relatively generous in comparison with other, more stringent regulations. For both of these sources of impurity in similar documents, cf. e.g. <ref target="CGRN_71">CGRN 71</ref> (Metropolis), lines 1-3 (twelve days from a funeral), <ref target="CGRN_189">CGRN 189</ref> (Lykosoura; apparently ten days in both cases), and <ref target="CGRN_144">CGRN 144</ref> (Ptolemais; seven days from a death, an unspecified amount of days for contact with a woman in childbirth). The regulation does not specify other potential sources of contamination, which were no doubt more minor because they only required ablutions and entry was permitted on the same day. These will have been obvious to the cult personnel or to worshippers, and may have included actions like having sex or eating certain foods. For the right to enter on the same day (αὐθήμερον) after having washed one's self, see again <ref target="http://cgrn.ulg.ac.be/CGRN_181">CGRN 181</ref> (Eresos), line 9, and <ref target="CGRN_212">CGRN 212</ref> (Pergamon), lines 5-6.</p>
+
+<p>Lines 7-8: Though the reading proposed by Rehm in these lines has been criticised (see Zingerle), it seems certain on the basis of the squeeze (also the ph. of this squeeze in Rehm). Sokolowski aptly points to a late Roman purity regulation, <bibl type="abbr" n="Lindos II">Lindos II</bibl> 487, line 11, which mentions lengthy abstentions from the miscarriage of women, dogs and mules. As he attractively suggests, the fact that dogs would no doubt have been maintained in the sanctuary of Artemis the huntress suggests a plausible context for why a worshipper or member of the cult personnel might have entered into contact with a bitch that has given birth.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

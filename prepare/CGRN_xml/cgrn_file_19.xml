@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_19" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 19</idno>: <rs type="textType" key="dossier of regulations">Dossier of regulations</rs> of the Attic deme of Skambonidai</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> A <rs type="objectType" key="stele">stele</rs>, in the form of a pillar, inscribed on three sides, A-C. Face C is probably the front (see Date and Commentary); Face B the left side; and Face A the back. The other lateral side (Face D, the right) is broken off; it may also originally have been inscribed. The top of the stone is certainly preserved, while the bottom is broken. Depth here = short side where Face B is inscribed. </p>
+		
+	<p><dimensions>
+		<height unit="cm">41</height>
+		<width unit="cm">24.6</width>
+		<depth unit="cm">12.3</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Face C: stoichedon 14; Face A: stoichedon 15. The dicolon (:) interpuncts, and less regularly the tricolon (⋮) at the beginning of Face C, separate words or phrases, but do not take up their own <foreign>stoichoi</foreign>.</p>
+			<p>Letters, A: <height unit="mm">16.6-16.8</height>; C: <height unit="mm">17.2-20</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0475" notAfter="-0450">ca. 475-450 BC</origDate></p>
+							
+		<p><desc>Justification: lettering and style (Lambert). The conventional date is ca. 460 BC; see Lambert for further discussion. As Lewis maintains and Lambert confirms, the letters on Face C seem a little bit older, that is to say somewhat more archaic in style and lettering. This, together with the likely reading of a heading in lines C1-2 (see below), probably entails that Face C marks the front of the stele and the beginning of the dossier (it could thus probably be renamed "Face A", but we prefer to avoid any confusion with previous editions). </desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885/" type="external">Athens</ref></placeName>. Found in a house by the Hephaisteion (so-called Theseion). Now in the British Museum (inv. no. 1785,0527.2).</p></provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels and J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by JM Carbon in 6.2020.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			
+	    			
+<p>Edition here based on Lambert <bibl type="abbr" n="AIUK 4.1">AIUK 4.1</bibl> 3, with phs. Note that we reprint only Faces C and A of the pillar-stele; Face B concerns the administration and oaths of the Skambonidai. Additionally, we do not place a dot under letters that were read with confidence by previous editors. For the reading in line C1, see Humphreys, Wijma, Lambert, and the Commentary below ad loc.; a few other restorations are also discussed below; note also the slight differences in the restoration adopted at the end of line C5 ([το̑ν], cf. Lambert in app.cr., with a question mark; a possible alternative remains [ἀπό], Carbon) and in the reading at the end of line A11. </p>
+
+<p>Other edition: Lewis <bibl type="abbr" n="IG I³">IG I³</bibl> 244.</p>	    		
+
+<p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 9; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 10; <ref target="https://www.atticinscriptions.com/inscription/IGI3/244" type="external">AIO</ref>, with English translation and commentary.</p>
+	    			
+	    			<p>Further bibliography: 
+	    				<bibl type="author_date" n="Ruschenbusch 1966">Ruschenbusch 1966</bibl>; 
+	    				<bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>, for the various festivals; 
+	    				<bibl type="author_date" n="Humphreys 2004">Humphreys 2004</bibl>: 145-146 with n. 37; 
+	    				<bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>: App. I; 
+	    				<bibl type="author_date" n="Wijma 2014">Wijma 2014</bibl>: 104-109; 
+	    				<bibl type="author_date" n="Lebreton 2015">Lebreton 2015</bibl>; 
+					<bibl type="author_date" n="Leão - Rhodes 2015">Leão - Rhodes 2015</bibl>.
+</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			
+	    				<ab subtype="face" n="C">Face C
+	    					
+<lb xml:id="line_C1" n="C1"/><name type="authority"><w lemma="θέσμιος"><supplied reason="lost">θ</supplied><unclear>έ</unclear><supplied reason="lost">σ</supplied>μια</w></name> <pc>⋮</pc> <name type="group"><w lemma="Σκαμβωνίδαι">Σ<supplied reason="lost">καμβονι</supplied>
+	    					
+<lb xml:id="line_C2" n="C2" break="no"/>δο̑ν</w></name> <pc>⋮</pc> τὸν <name type="personnel"><w lemma="δήμαρχος">δέ<supplied reason="lost">μαρχον</supplied></w></name>
+	    					
+<lb xml:id="line_C3" n="C3"/><supplied reason="lost">κ</supplied>αὶ τὸς <pc>⋮</pc> <name type="personnel"><w lemma="ἱεροποιός">hι<supplied reason="lost">εροποι</supplied>
+	    						
+<lb xml:id="line_C4" n="C4" break="no"/>ὸς</w></name> <pc>⋮</pc> το̑ι <name type="deity" key="Leos"><w lemma="λεώς">Λεο̑<supplied reason="lost">ι</supplied></w></name> <name type="sacrifice"><w lemma="δράω"><supplied reason="lost">δρᾶν</supplied></w></name> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος"><supplied reason="lost">τ</supplied>
+	    							
+<lb xml:id="line_C5" n="C5" break="no"/><supplied reason="lost">έ</supplied>λεον</w></name></name> <pc>⋮</pc> <w lemma="λῆξις">λε̑χ<supplied reason="lost">σιν</supplied></w> <supplied reason="lost">το̑ν</supplied>
+	    					
+<lb xml:id="line_C6" n="C6"/><w lemma="ὀβολός"><supplied reason="lost">ὀ</supplied>βολο̑ν</w> <pc>∶</pc> <w lemma="ἕκαστος">hε<supplied reason="lost">κάστοι</supplied></w>
+	    					
+<lb xml:id="line_C7" n="C7"/><name type="group"><w lemma="Σκαμβωνίδαι">Σκαμβονι<supplied reason="lost">δο̑ν</supplied></w></name> <supplied reason="lost">καὶ</supplied>
+	    					
+<lb xml:id="line_C8" n="C8"/><unclear>τ</unclear>ὸς <name type="person"><w lemma="μέτοικος">μετοί<unclear>κ</unclear><supplied reason="lost">ος</supplied></w></name> <name type="portion"><w lemma="λαγχάνω"><supplied reason="lost">λαχ</supplied>
+	    						
+<lb xml:id="line_C9" n="C9" break="no"/>ε̑ν</w></name> <pc>∶</pc> <w lemma="ἐν">ἐν</w> <name type="locality"><w lemma="ἀγορά">ἀγορᾶ<supplied reason="lost">ι</supplied></w></name> <supplied reason="lost">τε̑ι</supplied> <name type="group"><w lemma="Σκαμβωνίδαι"><supplied reason="lost">Σ</supplied>
+	    							
+<lb xml:id="line_C10" n="C10" break="no"/><supplied reason="lost">κ</supplied>αμβονιδο̑<supplied reason="lost">ν</supplied></w></name> <supplied reason="lost"><pc>:</pc></supplied> <gap reason="lost" quantity="4" unit="character"/>
+	    					
+<lb xml:id="line_C11" n="C11"/><gap reason="lost" quantity="1" unit="character"/>οισ<unclear>ι</unclear> <pc>∶</pc> <name type="sacrifice"><w lemma="δράω">δρᾶν</w></name> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος"><supplied reason="lost">τέλεο</supplied>
+	    						
+<lb xml:id="line_C12" n="C12" break="no"/><supplied reason="lost">ν</supplied></w></name></name> <supplied reason="lost">(?)</supplied> <pc>∶</pc> <name type="portion"><w lemma="νέμω">νέμεν</w></name> δὲ <pc>∶</pc> <orig>ε</orig><gap reason="lost" quantity="5" unit="character"/>
+	    					
+<lb xml:id="line_C13" n="C13"/><gap reason="lost" quantity="1" unit="character"/><orig>α</orig><gap reason="lost" quantity="1" unit="character"/><orig>τα</orig> <pc>∶</pc> το̑ι <pc>∶</pc> <orig>σ</orig><gap reason="lost" quantity="5" unit="character"/>
+	    					
+<lb xml:id="line_C14" n="C14"/><gap reason="lost" quantity="1" unit="character"/><orig>ο</orig><gap reason="lost" quantity="2" unit="character"/><orig>ειον</orig> <pc>∶</pc> <orig>κα</orig><gap reason="lost" quantity="4" unit="character"/>
+	    					
+<lb xml:id="line_C15" n="C15"/><gap reason="lost" quantity="3" unit="character"/>οντα <pc>∶</pc> ἐπι<gap reason="lost" quantity="4" unit="character"/>
+	    					
+<lb xml:id="line_C16" n="C16"/><gap reason="lost" quantity="2" unit="character"/>εν <pc>∶</pc> <name type="festival"><w lemma="συνοικία">Χσυνοι<supplied reason="lost">κίοι</supplied>
+	    						
+<lb xml:id="line_C17" n="C17" break="no"/><supplied reason="lost">ς</supplied></w></name> <pc>∶</pc> <w lemma="ἐν">ἐ<supplied reason="lost">μ</supplied></w> <name type="locality"><w lemma="πόλις">πόλει</w></name> <pc>∶</pc> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος">τέ<supplied reason="lost">λεον</supplied></w></name></name>
+	    					
+<lb xml:id="line_C18" n="C18"/><supplied reason="lost">τ</supplied>ὰ <supplied reason="lost">δ</supplied>ὲ <name type="portion"><w lemma="κρέας">κρέα</w></name> <pc>∶</pc> <w lemma="ἀποδίδωμι">ἀπο<supplied reason="lost">δόσ</supplied>
+	    						
+<lb xml:id="line_C19" n="C19" break="no"/>θαι</w> <pc>∶</pc> <name type="quality"><w lemma="ὠμός"/>ὀμά</name> <pc>∶</pc> <name type="festival"><w lemma="ἐπιζέφυρος">Ἐπιζε<supplied reason="lost">φύρ</supplied>
+	    							
+<lb xml:id="line_C20" n="C20" break="no"/><supplied reason="lost">ο</supplied>ισι</w></name> <pc>∶</pc> <w lemma="ἐν">ἐμ</w> <name type="structure"><name type="epithet" key="Pythios"><w lemma="Πύθιον">Πυθίο</w></name></name> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος"><supplied reason="lost">τέλ</supplied>
+	    					
+<lb xml:id="line_C21" n="C21" break="no"/><supplied reason="lost">ε</supplied>ον</w></name></name> (?) <pc>∶</pc> τὰ <corr><reg>δ</reg><sic>Α</sic></corr>ὲ <name type="portion"><w lemma="κρέας">κρέα</w></name> <pc>:</pc> <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀπο</supplied>
+	    						
+<lb xml:id="line_C22" n="C22" break="no"/><supplied reason="lost">δ</supplied>όσθαι</w> <pc>∶</pc> <name type="quality"><w lemma="ὠμός">ὀμά</w></name> <pc>∶</pc> <orig>Ι</orig><gap reason="lost" quantity="4" unit="character"/>
+	    					
+<lb xml:id="line_C23" n="C23" break="no"/><gap reason="lost" quantity="1" unit="character"/>οι<supplied reason="lost">ς</supplied> <w lemma="κατά"><unclear>κ</unclear>ατὰ</w> <w lemma="αὐτός">τ<supplied reason="lost">αὐτά</supplied></w> <gap reason="lost" quantity="1" unit="character"/>
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+	    				</ab>
+
+	    				<ab subtype="face" n="A">Face A		
+	    					
+<lb xml:id="line_A1" n="A1"/><gap reason="lost" quantity="11" unit="character"/>μεν <pc>∶</pc> <gap reason="lost" quantity="1" unit="character"/>
+	    					
+<lb xml:id="line_A2" n="A2"/><gap reason="lost" quantity="8" unit="character"/> <unclear>τ</unclear><supplied reason="lost">ὸ</supplied> <w lemma="τέλος"><unclear>τ</unclear>έλος</w>
+	    					
+<lb xml:id="line_A3" n="A3"/><gap reason="lost" quantity="7" unit="character"/><unclear>ε</unclear>ν <pc>∶</pc> <name type="portion"><w lemma="νέμω">νέμεν</w></name> δ
+	    					
+<lb xml:id="line_A4" n="A4" break="no"/><supplied reason="lost">ὲ τὰ</supplied> <name type="portion"><w lemma="κρέας"><supplied reason="lost">κρέα</supplied></w></name> <w lemma="μέχρι">μέχρι</w> <w lemma="ἥλιος">hελ
+	    						
+<lb xml:id="line_A5" n="A5" break="no"/><supplied reason="lost">ίο</supplied></w> <w lemma="δύσις"><supplied reason="lost">δύσε</supplied>ος</w> <pc>∶</pc> <w lemma="ἐάν"><supplied reason="lost">ἐὰν</supplied></w> δὲ <w lemma="μή">μὲ</w>
+	    					
+<lb xml:id="line_A6" n="A6"/><gap reason="lost" quantity="7" unit="character"/><orig>Ο</orig><gap reason="lost" quantity="3" unit="character"/> <pc>∶</pc> <name type="title"><w lemma="εὔθυνος"><supplied reason="lost">ε</supplied><unclear>ὐ</unclear>θυ
+	    						
+<lb xml:id="line_A7" n="A7" break="no"/><supplied reason="lost">ν</supplied></w></name><gap reason="lost" quantity="5" unit="character"/> <pc>∶</pc> <gap reason="lost" quantity="1" unit="character"/><orig>ο</orig><gap reason="lost" quantity="5" unit="character"/><orig>μα</orig>
+	    					
+<lb xml:id="line_A8" n="A8"/><gap reason="lost" quantity="13" unit="character"/><orig>αι</orig>
+	    					
+<lb xml:id="line_A9" n="A9"/><gap reason="lost" quantity="6" unit="character"/> <pc>∶</pc> <w lemma="ἐν"><supplied reason="lost">ἐ</supplied><unclear>ν</unclear></w> <name type="locality"><w lemma="ἀγορά"><unclear>ἀ</unclear><supplied reason="lost">γ</supplied>ορᾶι</w></name> <pc>∶</pc> <w lemma="ἀποδίδωμι">ἀ
+	    						
+<lb xml:id="line_A10" n="A10" break="no"/><supplied reason="lost">ποδό</supplied>σθ<supplied reason="lost">αι</supplied></w> <supplied reason="lost">(?)</supplied> <pc>∶</pc> <w lemma="ἀπομισθόω"><supplied reason="lost">ἀπ</supplied>ο<supplied reason="lost">μ</supplied>ισθ
+	    							
+<lb xml:id="line_A11" n="A11" break="no"/><supplied reason="lost">ο̑σαι</supplied></w> <supplied reason="lost">(?)</supplied> <pc>∶</pc> <gap reason="lost" quantity="5" unit="character"/><orig>τα</orig> <pc>∶</pc> τὰ δὲ
+	    					
+<lb xml:id="line_A12" n="A12"/><gap reason="lost" quantity="5" unit="character"/> <pc>∶</pc> <w lemma="πλήν"><supplied reason="lost">π</supplied>λὲν</w> το̑ <orig>κομα</orig>
+	    					
+<lb xml:id="line_A13" n="A13" break="no"/><gap reason="lost" quantity="3" unit="character"/><orig>ο</orig><gap reason="lost" quantity="1" unit="character"/> <w lemma="ὅδε">τόδε</w> (?) <pc>∶</pc> το̑ <name type="title"><name type="personnel"><w lemma="δήμαρχος">δεμά
+	    						
+<lb xml:id="line_A14" n="A14" break="no"/><supplied reason="lost">ρχο</supplied></w></name></name> <w lemma="εἰμί"><unclear>ἐ̑να</unclear>ι</w> τὸ <name type="portion"><w lemma="δέρμα">δέρμα</w></name> <pc>∶</pc> <orig>δ</orig>
+	    					
+<lb xml:id="line_A15" n="A15" break="no"/><gap reason="lost" quantity="5" unit="character"/><orig>ος</orig> ∶ <w lemma="ὁποῖος">hοποίαν</w> δ’
+	    					
+<lb xml:id="line_A16" n="A16"/><supplied reason="lost">ἂν</supplied> <w lemma="ἁρμόζω"><supplied reason="lost">hαρμ</supplied>όττεσθαι</w> <w lemma="δεῖ">δ
+	    						
+<lb xml:id="line_A17" n="A17" break="no"/><supplied reason="lost">έει</supplied></w> <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυσ</supplied>ίαν</w></name> <pc>∶</pc> <w lemma="δίδωμι">διδόνα
+	    							
+<lb xml:id="line_A18" n="A18" break="no"/><supplied reason="lost">ι</supplied></w> <name type="festival"><w lemma="Διπολίεια"><supplied reason="lost">Διπολ</supplied>ιείοις</w></name> <pc>∶</pc> καὶ
+	    					
+<lb xml:id="line_A19" n="A19"/><name type="festival"><w lemma="Παναθήναια"><supplied reason="lost">Παναθ</supplied>εναίοις</w></name> <pc>∶</pc> <name type="portion"><w lemma="νέμω">νέμ
+	    						
+<lb xml:id="line_A20" n="A20" break="no"/><supplied reason="lost">εν</supplied></w></name> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <name type="locality"><w lemma="ἀγορά"><unclear>ἀ</unclear>γορᾶι</w></name> <pc>∶</pc> τε̑ι <name type="group"><w lemma="Σκαμβωνίδαι">Σκ
+	    							
+<lb xml:id="line_A21" n="A21" break="no"/><supplied reason="lost">αμβο</supplied>νιδο̑ν</w></name> <pc>∶</pc> <w lemma="ὅσος">hόσα</w> <unclear>δὲ</unclear>
+	    					
+<lb xml:id="line_A22" n="A22"/><gap reason="lost" quantity="4" unit="character"/><orig>ΑΣΕΣ</orig> <pc>∶</pc> <w lemma="unclear">hεμίχο<unclear>ν</unclear></w>
+	    					
+<lb xml:id="line_A23" n="A23"/><gap reason="lost" quantity="7" unit="character"/><orig>ΡΕΝ</orig><gap reason="lost" quantity="1" unit="character"/>Ο<unclear>Μ</unclear><gap reason="lost" quantity="1" unit="character"/><orig>Ο</orig>
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>	
+	    				</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+
+					<p>Face C (older)</p>				
+<p>Established rites [of  Skambonidai]: the [demarch] and the [<foreign>hieropoioi</foreign> are to sacrifice] (5) an adult animal to Leos; assignment by lot (of the meat) [from the] spits to [each] of the Skambonidai, and the resident aliens are also to receive a share by lot, in the agora (10) of Skambonidai. For the [...] sacrifice [an adult animal (?)], and distribute (the meat) [...]. (15) For the Synoikia on the Acropolis, an adult animal; sell the meat raw. For the Epizephyria (20) in the Pythion, [an adult animal (?)];  sell the meat raw. For the [...] in the same manner [...]</p>
+
+					<p>Face A (more recent)</p> 
+<p>[...] the fulfilment (?) [...]; distribute the meat until sunset. (5) But if they do not [...] audit [...] in the agora; [sell (?);  (10) let out the contract (?) ...] the things [...] except for the (?) [...] this (?); the skin is to belong to the demarch [...] (15) Whatever sacrifice [is needed] to be suitable, provide for the Dipolieia and the Panathenaia; distribute (meat) (20) in the agora of Skambonidai. As much as [...] a half-<foreign>chous</foreign> [...]</p>
+					
+					</div>
+	    		
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					
+				<p>Face C (plus ancienne)</p> 
+<p>Institutions rituelles [des Skambonidai] : que le [démarque] et les [hiéropes accomplissent le sacrifice] (5) d’un animal adulte à Leos, tirage au sort (de la viande) [des] broches à chacun des Skambonidai, et que les métèques aussi [obtiennent une part par le sort], sur l’agora (10) des Skambonidai. Pour les [...] qu'on accomplisse le sacrifice [d’un animal adulte (?)] et répartir [...]. (15) Pour les Synoikia sur l’acropole, un animal adulte; que les viandes soient vendues crues. Pour les Epizephyria (20) dans le Pythion, [un animal adulte (?)]; que les viandes soient vendues crues. Pour les [...] de la même manière [...].</p>
+
+				<p>Face A (plus récente)</p>
+
+<p>[...] l’accomplissement (?) [...] faire le partage [des viandes] jusqu’au [coucher] du soleil. (5)  S’ils ne [...] pas [...] examen [...] sur l’agora; [vendre (?); (10) mettre en adjudication
+(?) ...] les choses [...] à l’exception de [...]; que la peau revienne au démarque [...]. (15) Offrir aux Dipolies et aux Panathénées un sacrifice tel qu'il soit nécessairement approprié; faire le partage (des viandes) (20) sur l’agora des Skambonidai. Autant de [...] un demi-<foreign>chous</foreign> [...].</p>
+
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>According to Sokolowski, the inscription is "une sorte de calendrier religieux du dème de Skambonidai". Lewis more cautiously presents it as a "lex", one of the documents and dossiers of demes and other groups, of which we find several examples in Attica (cf. e.g. <ref target="CGRN_25">CGRN 25</ref>, Paiania). Indeed, the subject matter of the inscriptions is somewhat varied. Faces C and A are lists of sacrifices and festivals to which the deme or its officials contribute with specific provisions; these also define the distribution of portions resulting from the sacrifices. Though these prescriptions refer to important civic festivals in which the deme participated, they do not appear to be ordered calendrically. On Face C, the Synoikia, which are mentioned in lines C16-19, fall on 16 Hekatombaion (cf. Mikalson), thus very early in the Athenian year, but this is already the third occasion mentioned in the list. Dipolieia - Panathenaia is the apparent pairing found on Face A, which brings us from 16 Skirophorion (the last month of the
+Athenian year) to 28 Hekatombaion (the first; see Mikalson for these dates and further sources). This is a chronological sequence, but unexpected if the official start of the Athenian year is on 1 Hekatombaion; moreover, the sequence does not readily agree with the appearance on Face C of the Synoikia, which falls between the Dipolieia and the Panathenaia. The organisation of Faces C-A, if any, thus largely escapes us, except for the fact that one of the most important sacrifices for the deme comes first, the one for Leos (see below on lines C2-10). Face B, not included here, is concerned with oaths to be sworn "to the three gods" (Zeus, Apollo, and Demeter?; cf. Lambert with refs.) by officers of the deme, as well as with the duties of the εὔθυνος, the public examiner of the group. Yet these subjects were in many ways connected, since some aspects of the sacrifices, such as their cost, could apparently be left to the discretion of the officials and the expenditure incurred would need to be accounted for; moreover, the oaths of the officials were religious acts, to be sworn in a sanctuary of the deme (on the Leokoreion, see further below). On this subject, see Lambert (esp. p. 27-29) for a more eloquent and thorough discussion than is possible here. The reading given in lines C1-2, which develops the suggestion of Humphreys (note also that it was considered though not accepted by Lewis), suggests a heading for the different inscriptions on the stele; this reading is now accepted by Wijma, with further discussion, and by Lambert; it is also supported by the fact that the text on Face C appears to be the oldest on the stele. The phrase in lines C1-2 therefore introduces and qualifies what follows, a dossier of regulations of the deme of Skambonidai, though it remains a bit unclear what precise nuance to give to the rather polyvalent word θέσμια: are these ancestral laws of the deme (θέσμια have "solemn, archaic connotations" in Attica, so Lambert), (more specific?) "ordinances" of the group (in the translation of Lambert), or, as
+we attempt to translate here, its established religious customs, in other words, a version of its ritual norms (Lambert also seems to accept this sense, speaking of "accrued custom and practice")? It is difficult to be certain, since the dossier remains fragmentary and the context of inscribing of these rules is murky, though all of the above interpretations can also be complementary. </p>
+
+<p>Until recently, not much was known about the location of the small deme of Skambonidai, expect that it should probably occupy an area north / northwest of the Agora, near the heart of the city of Athens; see Lambert for a summary. New evidence for the site of the deme and its principal shrine is now emerging from the American excavations of the Athenian Agora (J. McKay Camp, unpublished). More specifically, a few inscriptions, in a context of reuse, have been located at the northern side of the Agora, in front of the Stoa Poikile. One of these is a dedication to the hero Leos (see here lines C2-10; another text concerns the tribe Leontis). A myth told of the sacrifice of the daughters of Leos in order to save Athens from a plague ([Dem.] 60.29), at a place which should mark that of the Leokoreion. Camp has also remarked that a fragmentary honorific inscription of the Athenian δῆμος, presumably to be set up in the Leokoreion (<title>AEph</title> [1976] 196 no. 1, cf. esp. L. 3: Λεωκορείωι), was found reused in a church only a few meters
+distant from these more recent finds. The sanctuary called Λεωκορεῖον, where Leos was worshipped, might therefore be located in the area of these excavations or somewhere close by. The Leokoreion was also the site of the assassination of the tyrant Hipparchos near the start of the Panathenaic procession (Thuc. 1.20.2, 6.57; thus presumably not far from the Dromos or Panathenaic Way). The provenance of the current inscription containing a ritual dossier of the deme, found in reuse near the Hephaisteion (see above on Provenance), in the north-western part of the Agora, thus also suggests that it must have come from the area of the deme. In other words, it is a good possibility that the present inscription was set up in the sanctuary of the prominent hero of the Skambonidai, the Leokoreion, somewhere close to the north of the Agora. The importance of the sacrifice to Leos in the inscription and its inclusion of metics, the participation of the deme in major civic festivals such as the Synoikia, Dipolieia and Panathenaia, and the difficulty of discerning the presence of agricultural or other rural celebrations among those mentioned in the text, all underscore the urban character of Skambonidai and its particular identity (see again Lambert for further discussion).</p>
+
+<p> Lines C2-10: The deme of Skambonidai appropriately sacrifices in priority to Leos, the eponymous hero of the tribe Leontis to which it belonged (a sacrifice to a hero of this name—perhaps the same, perhaps not—is also known at Hagnous, from a fragment of the <foreign>axones</foreign> of Solon: Ruschenbusch fr. 83 / Leão - Rhodes fr. 83). Though this is not made absolutely explicit, the sacrifice will presumably have taken place in the sanctuary of the hero known as the Leokoreion, located in the deme (see above). The sacrifice is to be undertaken by the demarch and the sacrificial agents appointed by the deme. As Lambert convincingly interprets the following passage, we here find an assignment by lot (λε̑χσις) to each demesman of part of the roasting spits ([το̑ν | ὀ]βολο̑ν; rather than monetary obols); the genitive is partitive (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. λαγχάνω II, cf. also ἀπολαγχάνω) and therefore involves not the objects themselves, but implies part of the meat they held (this
+also accords with the other—differently expressed—distributions of meat in the text). The distribution of meat takes place in the agora of the deme and notably includes the resident aliens or <foreign>metoikoi</foreign>. The agora of the deme is not located but will presumably also have been not too far from the Leochoreion and the northern limit of the Athenian Agora (see above). For the group of metics prominent in the urban deme of Skambonidai, see the discussion in Wijma and Lambert respectively. Wijma underlines the idea that the demesmen of Skambonidai and the metics received the same kind of portion. Lambert rightly observes that an adult animal, if for example a sheep, would not have provided a lot of meat for a few hundred demesmen and perhaps several dozen resident aliens (all of whom might show up, even if they did not attend the sacrifice!). It should be pointed out that the regulations aim to create fairness through randomness (the drawing of lots), but a sort of hierarchy is nonetheless perceptible: while it is explicitly said that each demesmen was entitled to a lot for a portion of meat (hε[κάστοι]), it is not exactly clear if the resident aliens were also each entitled to a lot or only to (e.g.) one collective lot and share (the phrase [τ]ὸς μετοίκ̣[ος λαχ|ε̑ν] is more ambiguous than the preceding, highly specific clause). Moreover, the precise parameters of the distribution by lot remain unclear and it is possible that, if meat or time (see on lines A3-6) ran out, some lots would simply not be awarded.</p>
+						
+<p> Lines C11-15: At least one other sacrificial occasion was mentioned in these fragmentary lines, along with a further distribution of meat (using simply the verb νέμεν), but the precise circumstances cannot be reconstructed.</p>
+						
+<p> Lines C16-19: The deme participates in the civic festival of the Synoikia on the Acropolis, which commemorated Theseus' mythical unification of the Attic demes. For the Synoikia, see <ref target="http://cgrn.ulg.ac.be/CGRN_45">CGRN 45</ref>, Fragment 3, col. 2, lines 30-58 (15-16 Hekatombaion). Rather than a distribution of portions from the sacrifice, already cooked on roasting spits (cf. lines C2-10), the sale of raw meat is specified here. Lambert interprets this sale as a strategy to increase revenues for the deme, particularly at sacrifices which might not be widely attended.</p>
+						
+<p>Lines C19-23: An obscure festival, the Epizephyra, is apparently mentioned in these lines, a celebration that apparently took place in the Pythion in Athens (near the Olympieion). Overall, the restoration seems probable, though it might be questioned on the basis of the lack of an adjectival ending for the celebration (Epizephyria would have been expected). Another related or similar occasion was mentioned in the last extant entry, lines C22-23, at which the same rules applied (κ̣ατὰ τ[αὐτά]), which probably implies the sale of raw meat as in the two previous cases.</p>		
+	
+<p> Lines A3-6: The first extant section of this face prescribes a distribution of meat among the demesmen which is to take place "until the sun [sets]". Sokolowski (following Crönert) suggested restoring [δύν]τος, which Lewis cautioned. As adopted here, the most probable restoration is [δύσε]ος (Carbon, already in CGRN [2018]; cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. δύσις; Lambert, following a suggestion by Thonemann per ep.). A penalty may have been imposed if this repartition was somehow faulty, perhaps also involving the <foreign>euthynos</foreign> of the deme in this matter.</p>
+							
+<p> Lines A9-12: Another repartition of meat is apparently to take place simply "in the agora", perhaps that of the city, since the document elsewhere specifies if the "agora in the deme of Skambonidai" is meant (however, Lambert, p. 32, views this as the deme agora and thinks of an emphasis on this place "as opposed to anywhere else that the deme officials might have personal interests in disposing of it [the meat]"). If the restoration at line A9-10 is correct, this occasion appears to involve the sale (ἀποδίδωμι) of meat, but no certainty seems possible and the following lines also remain difficult to interpret.</p>
+						
+<p> Lines A13-14: The demarch, or chief official of the deme, is to receive the valuable skin of the animal as a prerogative from a certain sacrifice (now lost); this was one of the priestly perquisites <foreign>par excellence</foreign>, cf. e.g., from Athens, <ref target="CGRN_20">CGRN 20</ref>, lines B1-8, and <ref target="CGRN_26">CGRN 26</ref>, lines B2-3.</p>
+						
+<p> Lines A15-21: These lines prescribe that the officials of the deme (implicitly) are to ensure that all the necessary requirements are met for the deme's participation in and sacrificial contribution to the major civic festivals of the Dipolieia and the Panathenaia. The former was an important sacrifice for Zeus Polieus (also called the Bouphonia?), which in some ways marked the end of the political and religious year at Athens as well as the start of a new year; see Mikalson and Parker s.v. for discussion of the sources concerning this festival; on Zeus Polieus, the Dipolieia and the Bouphonia at Athens, cf. now also Lebreton; see further here <ref target="CGRN_7">CGRN 7</ref>, lines A24-25, and <ref target="CGRN_45">CGRN 45</ref>, Face B, Fragment 1, col. 2. The latter was of course the most significant festival of the Athenian polity; see here <ref target="http://cgrn.ulg.ac.be/CGRN_92">CGRN 92</ref> for the annual or "lesser" (as opposed to the penteteric or "greater") Panathenaia.</p>	
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

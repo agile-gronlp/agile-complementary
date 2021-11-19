@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_103" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 103</idno>: Fragmentary <rs type="textType" key="sacrificial regulation">sacrificial regulations</rs> concerning Eleusinian cults in the deme of Phrearrhioi</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of a white marble <rs type="objectType" key="stele">stele</rs>. The stone is broken on all sides, except to the left, where the margin is preserved in lines 16-23; part of the back also survives.</p>
+			<p><dimensions>
+					<height unit="cm">25.1</height>
+					<width unit="cm">22.6</width>
+					<depth unit="cm">9.8</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Stoichedon of uncertain length. The cutting is careful but several of the stoichoi have been left empty and uninscribed; letters within some words have accordingly been skipped over. This occurred where letters are supplied in the following lines: 5, 7, 9, 15, 16, 20; and it was probably the case with the fragmentary traces in lines 24 and 27. </p> 
+				<p>Letters: <height unit="mm">5</height> on average, with rounded letters usually smaller, <height unit="mm">3</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0300" notAfter="-0250">ca. 300-250 BC</origDate></p>
+			<p><desc>Justification: lettering and formulary (esp. the imperatives; Lupu).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Phrearrhioi" n="Attica"><ref target="http://pleiades.stoa.org/places/580077" type="external">Phrearrhioi</ref></placeName>, a deme in southern Attica. Found "south of the village of Olympos, between it and the village of Anavyssos". This location served to identify the approximative site of the deme of Phrearrhioi, the village of Feriza. Now in the Epigraphical Museum in Athens (inv. no. 13384).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+		<p>Edition here based on Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 3, with ph. fig. 10. We adopt slightly augmented restorations in the following lines: 15-16, 19-20.</p>
+					<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 35, 113; <bibl type="abbr" n="SEG">SEG</bibl> 36, 206, reporting on an article by <bibl type="author_date" n="Sokolowski 1971">Sokolowski 1971</bibl>, which proposes a copiously restored text (with stoich. 35); cf. also Lupu's apparatus criticus for the whole of Sokolowski's restored text; <ref target="https://www.atticinscriptions.com/inscription/CGRN/103" type="external">AIO</ref>.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Simms 1998">Simms 1998</bibl>; <bibl type="author_date" n="Lupu 2003a">Lupu 2003a</bibl>; <bibl type="author_date" n="Wijma 2013">Wijma 2013</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>				
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    
+<lb xml:id="line_1" n="1"/><gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">τῶν</supplied> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">ἱε</supplied>ροποιῶν</w></name> <orig><unclear>λ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Demeter"><w lemma="Δημήτηρ"><supplied reason="lost">Δή</supplied>
+	    				
+<lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">μητρι</supplied></w></name> <name type="epithet" key="Thesmophoros"><w lemma="θεσμοφόρος"><supplied reason="lost">Θεσμο</supplied>φόρωι</w></name> <name type="animal" key="swine"><w lemma="ὗς">ὗν</w></name> πρ<gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3"/><gap reason="lost" quantity="6" unit="character"/> <w lemma="προΐστημι"><supplied reason="lost">πρ</supplied><unclear>ο</unclear>ιστάντωσαν</w> <orig>κ<unclear>α</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_4" n="4"/><gap reason="lost" quantity="7" unit="character"/>αδος τῶι <name type="object"><w lemma="λαμπαδεῖον">λαμπαδεί<supplied reason="lost">ωι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_5" n="5"/><name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱερεώσ</supplied>υνα</w></name> <name type="portion"><w lemma="κωλῆ">κωλῆν</w></name>, <name type="portion"><w lemma="πλευρόν">πλευρὸν</w></name>, <name type="portion"><w lemma="ἰσχίον">ἰ<supplied reason="omitted">σ</supplied>χ<supplied reason="lost">ίον</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">οἱ</supplied> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">ἱε</supplied>
+	    					
+<lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">ροποι</supplied>οὶ</w></name> καὶ ὁ <name type="personnel"><w lemma="κῆρυξ">κῆρυξ</w></name> <name type="meal"><w lemma="δαίνυμι">δαινύσθωσ<supplied reason="lost">αν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    						
+<lb xml:id="line_7" n="7"/><gap reason="lost" quantity="3" unit="character"/> <name type="deity" key="Plouton"><w lemma="Πλούτων"><supplied reason="lost">Π</supplied>λούτωνι</w></name> <name type="sacrifice"><w lemma="θύω">θυόντωσαν</w></name> <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κρ<supplied reason="omitted">ιό</supplied><supplied reason="lost">ν</supplied></w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_8" n="8"/><name type="group"><w lemma="δημότης"><supplied reason="lost">δημ</supplied>όταις</w></name> <w lemma="μετά">μετὰ</w> τῶν <w lemma="ἄλλος">ἄλλων</w> καὶ <space quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+	    						
+<lb xml:id="line_9" n="9"/><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">τ</supplied>ὸν <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="Ἐλευσίνιος">Ἐλευ<supplied reason="omitted">σ</supplied>ινίωι</w></name> <name type="structure"><w lemma="βωμός">βωμὸν</w></name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τῶν</supplied> <name type="personnel"><w lemma="ἀκόλουθος"><supplied reason="lost">ἀκ</supplied>
+	    						
+<lb xml:id="line_10" n="10" break="no"/><supplied reason="lost">ολ</supplied>ούθωμ</w></name> <name type="personnel"><w lemma="ἱεροποιός">ἱεροποιὸς</w></name> <w lemma="ἀφίημι">ἀφιέτω</w> <orig>τασ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    							
+<lb xml:id="line_11" n="11"/><gap reason="lost" quantity="2" unit="character"/> <w lemma="ἐπειδάν"><supplied reason="lost">ἐ</supplied>πειδὰν</w> αἱ <name type="personnel"><w lemma="ἱέρεια">ἱέρειαι</w></name> <name type="genericOffering"><w lemma="ποιέω">ποιήσω<supplied reason="lost">σι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    						
+<lb xml:id="line_12" n="12"/><gap reason="lost" quantity="2" unit="character"/> <name type="ethnic" key="Phrearrhioi"><w lemma="Φρεαρρίος">Φρεαρ<supplied reason="omitted">ρ</supplied>ίων</w></name> <name type="sacrifice"><w lemma="θύω">θυόντωσαν</w></name> τ<unclear>ῆ</unclear>ι <name type="deity" key="Demeter"><w lemma="Δημήτηρ">Δ<unclear>ή</unclear><supplied reason="lost">μητρι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    								
+<lb xml:id="line_13" n="13"/><gap reason="lost" quantity="2" unit="character"/><orig>ιωι</orig> καὶ τῆι <name type="deity" key="Kore"><w lemma="κόρη">Κόρηι</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦμ</w></name> <name type="gender"><w lemma="ἄρσην">ἄρρε<supplied reason="lost">να</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    							
+<lb xml:id="line_14" n="14"/><gap reason="lost" quantity="2" unit="character"/> κ<unclear>α</unclear>ὶ <w lemma="ἐάν">ἐάν</w> <w lemma="τις">τι</w> <w lemma="ἄλλος">ἄλλο</w> <w lemma="βούλομαι">βούλωνται</w> <space quantity="2" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="authority"><w lemma="νόμιμος"><supplied reason="lost">νό</supplied>
+	    							
+<lb xml:id="line_15" n="15" break="no"/>μι<supplied reason="omitted">μ</supplied>όν</w></name> <w lemma="εἰμί">ἐστιν</w>· <w lemma="ἐπί">ἐπὶ</w> δὲ τοὺς <name type="structure"><w lemma="βωμός">βωμοὺ<unclear>ς</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>	    
+	
+<lb xml:id="line_16" n="16" break="no"/><orig>ι</orig> <name type="portion"><w lemma="μηρός">μηροὺς</w></name>, <name type="portion"><w lemma="μασχαλίσματα">μασχαλίσματα</w></name>, <name type="portion"><w lemma="ἡμίκραιρα">ἡμίκ<supplied reason="omitted">ρ</supplied>α<supplied reason="lost">ιραν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="μηρός"><supplied reason="lost">μ</supplied>
+	    									
+<lb xml:id="line_17" n="17" break="no"/>ηροὺς</w></name>, <name type="portion"><w lemma="μασχαλίσματα">μασχαλίσματα</w></name>, <name type="portion"><w lemma="ἡμίκραιρα">ἡμίκραιρ<supplied reason="lost">αν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    									
+<lb xml:id="line_18" n="18"/><w lemma="ἐπί">ἐπὶ</w> τοῦ <name type="structure"><w lemma="βωμός">βωμοῦ</w></name> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="Ἐλευσίνιος">Ἐλευσινίω<supplied reason="lost">ι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τῶι</supplied> <supplied reason="lost">τ</supplied>
+	    								
+<lb xml:id="line_19" n="19" break="no"/>οῦ <name type="deity" key="Plouton"><w lemma="Πλούτων">Πλούτωνος</w></name> <name type="structure"><w lemma="βωμός">βωμῶι</w></name> <name type="personnel"><w lemma="ἱερωσύνη">ἱερεώσυν<supplied reason="lost">α</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τοῖν</supplied> <name type="deity" key="Demeter"><name type="deity" key="Kore"><w lemma="θεός"><supplied reason="lost">θε</supplied>
+	    									
+<lb xml:id="line_20" n="20" break="no"/>οῖν</w></name></name> τῶν <name type="structure"><w lemma="βωμός">βω<supplied reason="omitted">μ</supplied>ῶν</w></name> τῆι <name type="personnel"><w lemma="ἱέρεια">ἱερείαι</w></name> κα<supplied reason="lost">ὶ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="κωλῆ"><supplied reason="lost">κωλῆν</supplied></w></name><supplied reason="lost">, </supplied><name type="portion"><w lemma="πλευρόν"><supplied reason="lost">πλε</supplied>
+	    										
+	<lb xml:id="line_21" n="21" break="no"/>υρὸν</w></name>, <name type="portion"><w lemma="ἰσχίον">ἰσχίον</w></name>, <num value="3">ΙΙΙ</num> τοῦ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείου</w></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="vegetal"><w lemma="ξύλον"><supplied reason="lost">ξ</supplied>
+	    										
+		<lb xml:id="line_22" n="22" break="no"/>ύλα</w></name>, <w lemma="ἐπί">ἐπὶ</w> τὸν <name type="object"><w lemma="χύτρος">χύτρον</w></name> <w lemma="παρέχω">π<unclear>α</unclear>ρ<unclear>ε</unclear><supplied reason="lost">χ</supplied></w><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τῆ</supplied>
+	    									
+<lb xml:id="line_23" n="23" break="no"/>ι <name type="structure"><w lemma="αὐλή">αὐλῆι</w></name> τοῦ <name type="structure"><w lemma="Ἐλευσίνιος">Ἐλευσινίο<supplied reason="lost">υ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    										
+<lb xml:id="line_24" n="24" break="no"/><orig>υσ</orig> <space quantity="1" unit="character"/> <orig>ν</orig> <name type="object"><w lemma="δαΐς">δᾶιδα</w></name> καὶ τῶ<unclear>ν</unclear> <orig>ηγ</orig><gap reason="lost" extent="unknown" unit="character"/> <name type="object"><w lemma="δαΐς"><supplied reason="lost">δ</supplied>
+	    										
+<lb xml:id="line_25" n="25" break="no"/>ᾶιδα</w></name> <w lemma="δίδωμι">διδόντωσαν</w> <orig><unclear>γ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    											
+<lb xml:id="line_26" n="26"/><gap reason="lost" quantity="1" unit="character"/><orig>ς</orig> καὶ τοῦ <name type="deity" key="Iakchos"><w lemma="Ἴακχος">Ἰάκχου</w></name> <orig>ι</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    										
+<lb xml:id="line_27" n="27"/><gap reason="lost" quantity="2" unit="character"/><orig>οι</orig>· <space quantity="1" unit="character"/> τῆι δὲ <w lemma="ἕβδομος">ἑβδό<supplied reason="lost">μηι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    											
+<lb xml:id="line_28" n="28"/><gap reason="lost" quantity="3" unit="character"/> καὶ τῆς <w lemma="μουσική">μουσ<unclear>ι</unclear><supplied reason="lost">κῆς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    												
+<lb xml:id="line_29" n="29"/><gap reason="lost" quantity="5" unit="character"/> τὸν <name type="structure"><w lemma="βωμός">βωμ<supplied reason="lost">ὸν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    												
+<lb xml:id="line_30" n="30"/><gap reason="lost" quantity="6" unit="character"/><orig>ενοι</orig><gap reason="lost" extent="unknown" unit="character"/>	 
+	    					
+<lb xml:id="line_31" n="31"/><gap reason="lost" quantity="7" unit="character"/><orig>εμι</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    												
+<lb xml:id="line_32" n="32"/><gap reason="lost" quantity="8" unit="character"/><orig><unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    			
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					</ab>
+	    				</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>[...] of the <foreign>hieropoioi</foreign> [... for Demeter] Thesmophoros a sow [...] let them set up in front [...] for the torch-holder [...] (5) priestly perquisites: a thigh, a rib (or: side), a hip (or: piece of hip) [... the <foreign>hieropoioi</foreign>] and the herald are to hold a feast [...] let them sacrifice a ram for Plouton [...] the demesmen along with the others and [...] the altar in the Eleusinion [... of the (10) attendants] the <foreign>hieropoios</foreign> shall set free the [...] whenever the priestesses perform [...] of the Phrearrhioi, let them sacrifice to Demeter [...] and to Kore a male ox [...] and if they wants anything else [...] it (15) is allowed (or: customary). And on the altars [...] thighbones, bits from the armpits, half the head [...] thighbones, bits from the armpits, half the head [...] on the altar in the Eleusinion [...] on the altar of Plouton priestly perquisites [for the two goddesses] (20) of the altars for the priestess and [...] (a thigh?), a rib (or: side), a hip (or: piece), 3 obols for (?) the sacrificial animal [...] wood, for the pot provide [...] in the courtyard of the Eleusinion [...] a torch and of the [...] (25) let them give a torch [...] and of Iakchos [...] On the seventh (i.e. day ) [...] and of music [...] the altar [...]
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[...] des hiéropes [... à Déméter] Thesmophoros un porc [...] qu'ils érigent devant [...] pour le porteur de torche [...] (5) prérogatives du prêtre : une cuisse, une côte (ou un côté), une hanche (ou portion de celle-ci) [... les hiéropes] et le héraut tiendront un banquet [...] qu'ils sacrifient un bélier à Plouton [...] les démotes avec les autres et [...] l'autel dans l'Éleusinion [... des (10) serviteurs] le hiérope relâchera le [...] lorsque les prêtresses effectuent [...] des Phrearrhioi, qu'ils (elles ?) sacrifient à Déméter [...] et à Korè un boeuf [...] et s'ils veulent quelque chose d'autre [...] cela (15) est permis (ou coutumier). Et sur les autels [...] des fémurs, des morceaux des aisselles, la moitié de la tête [...] des fémurs, des morceaux des aisselles, la moitié de la tête [...] sur l'autel dans l'Éleusinion [...] sur l'autel de Plouton, les parts de prêtres [pour les deux déesses] (20) des autels pour la prêtresse et [...] (une cuisse ?), une côte (ou un côté), une hanche (ou un morceau), 3 oboles pour (?) l'animal sacrificiel [...] du bois, pour le contenant fournir [...] dans la cour de l'Éleusinion [...] une torche et du [...] (25) qu'ils donnent une torche [...] et de Iakchos [...] Le 7 [...] et de la musique [...] l'autel [...]
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						<p>This very fragmentary document is apparently entirely concerned with Eleusinian cults and rituals. Regrettably, the context of the inscription is unclear, though it helps to identify the Attic deme in question—Phrearrhioi—about which little is otherwise known both in terms of archaeological remains and of cult. It may be thought somewhat more likely that the document was issued by the deme proper, rather than by another authority, such as another group or the <foreign>polis</foreign> itself. Demesmen are notably mentioned in line 8 (cp. also line 12); no mention is made of anything relating explicitly to the city of Athens. If that is the case, then the structures mentioned repeatedly in the text, such as several altars and an Eleusinion (lines 9, 18, 23), are probably to be located in the deme itself (cf. Lupu, who gives an overview of past scholarship on this question but prefers not to commit himself; for regulations relating to a deme Eleusinion, cp. here <ref target="http://cgrn.ulg.ac.be/CGRN_25">CGRN 25</ref>, Paiania). If that inference is correct, then the points of reference mentioned in the text will have been found at the local level: sacred officials of the deme such as <foreign>hieropoioi</foreign> and priestesses (of Demeter and Kore), as well as the herald (see Lupu on line 6, with refs.); an altar for Plouton (line 18), another in the Eleusinion (lines 9 and 19), perhaps still further ones for Demeter and Kore specifically (20). Cf. also now Wijma, accepting a local Eleusinion and discussing the inclusive participation implied in the deme regulation (by lines 7-8, demesmen and "others"). </p>
+						
+						<p>Little can be said with any assurance about the character of the text as whole, except that it was definitely a prescriptive regulation of some sort (cf. the repeated third-person plural infinitives). That being said, it also regularly appears to feature lists of offerings, notably sacrificial animals, but also two sets of portions from these animals. Indeed, one of the great values of the present regulation lies in the fact that it enables a distinction to be drawn between portions offered on the altar (ἐπὶ τοὺς βωμούς, etc) and portions given as priestly perquisites (ἱερεώσυνα). The portions given as priestly perquisites (lines 5, 20-21) follow a standard order in Athenian documents, and include a thigh, a rib and a hip (sometimes a "side of hip" is also found): cf. here <ref target="CGRN_57">CGRN 57</ref>, lines 4, 8-9, etc. (the account of such perquisites from Aixone, though there the "half-head" is of "sausage" or "filled with entrails"). By contrast, the portions to be placed and burned on
+the altars are different (lines 15-17): thighbones (notably from the thigh given to the priestess), bits of meat from the area of the shoulder or the armpit, and half of the severed head (the latter is sometimes also given to the priest or priestess; see again at Aixone or <ref target="CGRN_37">CGRN 37</ref>, Chios, lines 10-11).</p>
+						
+<p>Another intriguing but puzzling element is the contrast between the general prescriptions found in most of the regulation, notably the fairly vague phrase <supplied reason="lost">ἐ</supplied>πειδὰν αἱ ἱέρειαι ποιήσω<supplied reason="lost">σι</supplied> in line 11—i.e. whenever the priestesses commence a certain ritual procedure; the object of ποιήσωσι is lost but we might think of an offering—, and the apparently more precise temporal indication found in the very fragmentary line 27, "on the 7th day" or perhaps the "17th" instead (ἑβδό[μηι ἐπὶ δέκα], so Simms; the Eleusinian mysteries notably encompassed 17 Boedromion). Did the regulation discuss ritual practice generally or did it focus on a specific festival or celebration, such as might also be indicated by the use of lamps and torches (lines 4 and 24-25)? These are enigmas which remain to be solved. 
+</p>
+						
+						<p>Line 2: Given the fragmentary traces ΠΡ, it could be suggested that the pig offered to Demeter, almost certainly here a sow, was further qualified. As Simms already noted, a parallel may be sought in the calendar of Mykonos, where the goddess (accompanied by Kore and Zeus Bouleus) receives a ὗν ἐνκύμονα πρωτοτόκον, cf. <ref target="CGRN_156">CGRN 156</ref>, line 16. The restoration πρ[ωτοτόκον] is therefore perhaps likely here too. Another option would be the qualification πρατός 'for sale', as in the sacrificial calendar of Thorikos, cf. <ref target="CGRN_32">CGRN 32</ref>, lines 11-12, 23, 26, etc. For the epithet Thesmophoros and the Thesmophoria, see also here <ref target="CGRN_78">CGRN 78</ref> (Piraeus).</p>
+						
+<p>Line 4: As Lupu notes, the "torch-holder" is attested in two temple inventories at Eleusis: <bibl type="abbr" n="IG II²">IG II²</bibl> 1541, line 15, and 1543, line 16. Before it, the traces should ideally be interpreted as forming the word [λαμπ]άδος (as Sokolowski suggested), but Lupu following Vanderpool notes a problematic (and unlikely!) circular trace before the <foreign>alpha</foreign>. Noting also the torches in lines 24-25, it may be suggested that several of the rituals mentioned in the regulation took place during nighttime and/or involved torches as cultic objects. For another very fragmentary regulation involving a nighttime ritual and torches, see <ref target="CGRN_97">CGRN 97</ref> (Mylasa), lines 2-4.</p>
+
+					
+<p>Lines 9-10: These fragmentary phrases remain to be satisfactorily explained. The reference might be to the act of freeing (manumitting) slaves or freeing animals during festivals. This is proscribed in the regulation concerning female cults from Piraeus, μηδεὶς ἀφέτους ἀφιεῖ, unless it occurs during festivals or when the priestess is present: cf. <ref target="CGRN_78">CGRN 78</ref>, lines 3-4. The <foreign>hieropoios'</foreign> act of "dismissing" or "freeing" the attendants may have had a similar connotation here, especially since we are in an apparently similar context to the festivals mentioned in the Piraeus deme regulation.</p>
+						
+						<p>Lines 16-17: For the μασχαλίσματα, see the extensive discussion of Lupu in <bibl type="abbr" n="NGSL">NGSL</bibl>, with reference to his article on the subject (2003a).</p> 
+						
+						<p>Line 21: The sum of three obols is apparently to be given to the priestess (line 20) as part of her allowance; it may have been destined to provide fodder for each sacrificial animal in question.</p> 
+						
+						<p>Line 22: Presumably provisions, perhaps required of the priestess(es), are intended for a the ritual offering of a pot containing grains or liquids during the ritual. For such pots offered to Pouton, cf. Ar. <title>Pl.</title> 1197.</p>
+						
+						<p>Line 26: On the god Iakchos, whose name may have originated from the ritual cry during Eleusinian celebrations, see Lupu, with further refs.
+
+							</p>			
+					</div>
+			</body>
+    	</text>
+	</TEI>

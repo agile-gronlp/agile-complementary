@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_174" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 174</idno>: Dedication and small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> from Delos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Quadrangular <rs type="objectType">base</rs> of white marble with a rough surface.
+			Measurements of the total: <dimensions> <height unit="cm">80</height> </dimensions></p>
+
+		<p>Lower block:
+		<dimensions>
+	<height unit="cm">15</height>
+	<width unit="cm">42</width>
+	<depth unit="cm">34</depth>
+	</dimensions></p>
+
+		<p> Block on top (slightly pyramidical):
+			<dimensions>
+				<height unit="cm">65</height>
+				<width unit="cm">32-30.3</width>
+				<depth unit="cm">22.5-22</depth>
+			</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p> Line 12 is written on lower block; lines 1-11 on the block on top of it. There is a moulding on the top block with sculpted horns.</p>
+			<p>Letters: <height unit="cm">2-2.5</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0200" notAfter="-0100">2nd century BC</origDate></p>
+							<p><desc>Justification: lettering (Roussel).</desc></p>
+
+
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Delos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599588" type="external">Delos</ref></placeName>. Found in sanctuary L, on the north slope of mount Cynthos (inv. no. E 781). </p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Roussel <bibl type="abbr" n="ID">ID</bibl> 2308.</p>
+	    			<p> Other edition: <bibl type="author_date" n="Plassart 1928">Plassart 1928</bibl>.</p>
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 57;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 23, 512.
+	    			</p>
+
+	    			<p> Further bibliography: <bibl type="author_date" n="Marcadé 1949">Marcadé 1949</bibl>: 152-155; <bibl type="author_date" n="Bonnet 1988">Bonnet 1988</bibl>: 129-131. </p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+	    		<lb xml:id="line_1" n="1"/> <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλῇ</w></name> καὶ <name type="deity" key="Haurona"><w lemma="Αὑρώνα">Αὑρώ
+
+	    		<lb xml:id="line_2" n="2" break="no"/>νᾳ</w></name>, <w lemma="θεός">θεοῖς</w> <placeName key="Ἰάμνεια"><w lemma="Ἰάμνεια">Ἰάμνει
+
+	    		<lb xml:id="line_3" n="3" break="no"/>αν</w></placeName> <w lemma="κατέχω">κατέχουσιν</w>,
+
+	    		<lb xml:id="line_4" n="4"/> Ζηνόδωρος, Πά
+
+	    		<lb xml:id="line_5" n="5" break="no"/>τρων, Διόδοτος
+
+	    		<lb xml:id="line_6" n="6"/> <name type="ethnic"><w lemma="Ἰαμνῖται">Ἰαμνῖται</w></name>, <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="ἑαυτοῦ">ἑ
+
+	    		<lb xml:id="line_7" n="7" break="no"/>αυτῶν</w> καὶ <w lemma="ἀδελφός">ἀδελ
+
+	    		<lb xml:id="line_8" n="8" break="no"/>φῶν</w> καὶ <w lemma="συγγενής">συνγε<supplied reason="lost">ν</supplied>
+
+	    		<lb xml:id="line_9" n="9" break="no"/>ῶν</w> καὶ τῶν <w lemma="σύνειμι">συ<supplied reason="lost">ν</supplied>
+
+	    		<lb xml:id="line_10" n="10" break="no"/>όντων</w> <name type="group"><w lemma="πολίτης">πολι<supplied reason="lost">τῶν</supplied></w></name>,
+
+	    		<lb xml:id="line_11" n="11"/> <name type="genericOffering"><w lemma="χαριστήριος">χαριστήριον</w></name>.
+
+	    		<lb xml:id="line_12" n="12"/> <name type="sacrifice"><w lemma="θύω">θύειν</w></name> <w lemma="πᾶς">πάντα</w> <w lemma="πλήν">πλὴν</w> <name type="animal" key="goat"><w lemma="αἴγειος">αἰγείου</w></name>.
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p> To Heracles and Haurona, gods possessing Iamnia, Zenodoros, Patron, Diodotos, Iamnitans, on behalf of themselves and their siblings and their family and their fellow-citizens, as a thank-offering.</p>
+					<p> One may sacrifice everything except (something) of the goat.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>À Héraclès et Haurona, dieux qui possèdent Iamnia, Zenodoros, Patron, Diodotos, Iamnites, pour eux-mêmes et leurs frères et soeurs, leurs familiers et leurs concitoyens, en action de grâce.</p>
+					<p>On peut tout sacrifier sauf de la chèvre.</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+						<p> Foreign cults were numerous in Hellenistic Delos. Iamneia was a coastal town on the northwestern border of Iudaea and Heracles was worshipped in this region. Αὑρωνα is the Phoenician god Horon (figuring in Phoenician poetry under the name of Horon of Iabne). Another dedication (<bibl type="abbr" n="ID">ID</bibl> 2309) "... and to Heracles and the gods above" was found in the same sanctuary. For a discussion of these deities, cf. Bonnet. It remains unclear what the authority of this private dedication in sanctuary L and what is its context in the sanctuary.</p>
+
+		<p> Cases in which one cannot sacrifice goats occur with some regularity on Delos. Goats were not allowed in the cult of Poseidon of Ascalon (<ref target="http://cgrn.ulg.ac.be/CGRN_216">CGRN 216</ref>); in a sacrificial regulation dedicated to Zeus Ourios, Astarte and Aphrodite Ourania, by another citizen of Ascalon - and probably belonging to the same sanctuary as the present inscription - goat, swine and cow are forbidden (<ref target="http://cgrn.ulg.ac.be/CGRN_171">CGRN 171</ref>, lines 7-8). Cf. also the brief discussion in Marcadé. The same type of interdiction against goats (and pigs) is found on Thasos in the cults of Hera, Heracles and Peitho (<ref target="http://cgrn.ulg.ac.be/CGRN_23">CGRN 23</ref>; <ref target="http://cgrn.ulg.ac.be/CGRN_27">CGRN 27</ref>; <ref target="http://cgrn.ulg.ac.be/CGRN_178">CGRN 178</ref>).</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

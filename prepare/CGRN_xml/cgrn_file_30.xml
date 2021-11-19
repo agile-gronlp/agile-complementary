@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_30" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 30</idno>: Fragments of three <rs type="textType" key="sacrificial regulation">sacrificial regulations</rs> concerning the <foreign>theoria</foreign> from Athens at Delphi</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Three fragmentary texts that do not have a formal correspondance, but a similarity in content as well as in script.</p>
+		
+		<p>A: Fragment of grey limestone, broken on the backside and on the right. Intact on the left, on top and below.<dimensions>
+			<height unit="cm">23</height>
+			<width unit="cm">33</width>
+			<depth unit="cm">22</depth>
+	</dimensions></p>
+		
+		<p>B: Text consisting of two fragments of grey limestone. Colin proposed that these fragments belong together and that there is a space of 2-4 letters missing in the middle, for example: 
+			<supplied reason="lost">π</supplied>όδες, κε (← fragment on the left) <supplied reason="lost">φα</supplied> (fragment on the right →) λαὶ προ.</p>
+			
+			<p>Inv. 794: <dimensions>
+				<height unit="cm">12.5</height>
+				<width unit="cm">20</width>
+		</dimensions></p>
+			
+			<p>Inv. 2987: 
+			<dimensions>
+				<height unit="cm">11.2</height>
+				<width unit="cm">27</width>
+			</dimensions>Note that Colin’s measurements are slightly more generous. </p>
+			
+			<p> C: Fragment of a <objectType key="cippus">cippus</objectType> of white limestone, broken at the bottom. <dimensions>
+				<height unit="cm">89</height>
+				<width unit="cm">42</width>
+				<depth unit="cm">31</depth>
+			</dimensions>There are multiple inscriptions of various dates on this stone; the present text is the oldest one inscribed.
+		</p>
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p> A: The inscribed face is worn. Stoichedon of uncertain length, regular and inscribed with care. Attic script. We certainly have the first line of the inscription on this stone, but the text may have begun on another stone that originally accompanied this stone.</p> 
+			<p> Letters: <height unit="cm">1.2-1.3</height>. Space between the letters about 1.2-1.3 cm.</p>
+			
+			<p> B: Stoichedon of uncertain length. Attic script. It is unclear whether the bottom / lower part of the stone is worn off (Rougemont) or was polished (Colin). Therefore, it is not clear whether the final line on the stone is also the final line of the text.</p> 
+			<p> Letters: <height unit="cm">1.5-2</height>. Space between letters: on average 1 cm.</p>		
+				
+			<p> C: Stone inscribed on two adjacent faces. Attic script. These letters together do not form a coherent text. However, since there is no evidence of damage to the stone, one needs to assume that the absence of other letters expected in the text is due to the original cutter: the other letters were never inscribed, perhaps because the cutting was left incomplete (Colin; Rougemont: "inachevé"). See also now Rutherford for further description.</p>
+			<p> Letters: <height unit="cm">1.5</height>. Space between letters: 1 cm.</p> 
+	
+		</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0450" notAfter="-0375">ca. 450-375 BC</origDate></p>
+							
+							<p><desc>Justification: letterforms (Colin, Rougemont).</desc></p>
+						</origin>
+	<provenance><p><placeName type="ancientFindspot" key="Delphi" n="Central_and_Northern_Greece"><ref target="http://pleiades.stoa.org/places/540726" type="external">Delphi</ref></placeName>.</p>
+		<p> A: Found outside of the sanctuary in the olive fields around Delphi, reused in a supporting wall. </p>
+		<p> B: The first fragment was found below the temple terrace at Delphi, ‘au pied du retour est du mur polygonal’; the second, below and adjacent to the Siphnian treasury.</p>
+		<p> C: Found on the terrace to the east of the Athenian treasury, now in the Museum of Delphi (inv. no. unknown).</p>
+</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p>Edition here based on Rougemont <bibl type="abbr" n="CID I">CID I</bibl> 4-6. We print only fairly secure or intelligible letter traces. Cf. Rougemont for further description of partially visible lettertraces.</p>
+	    			
+	    			<p> Other editions: 
+	    				Colin <bibl type="abbr" n="FD III.2">FD III.2</bibl> I 194, with ph. pl. XIII.1 and 2.
+	    			</p>	
+	    			<p> Cf. also: 
+	    				Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 40; <bibl type="author_date" n="Rutherford 2013">Rutherford 2013</bibl>: 372-374 no. B4.</p>
+	    			
+	    			<p>Further bibliography: 
+	    				Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> p. 335-339.</p>
+</div>
+	    			<div type="edition">
+	    				<head>Texts A-C</head>				
+	    				
+	    				<ab subtype="text" n="A">Text A
+	    					
+<lb xml:id="line_A1" n="A1"/> <gap reason="lost" quantity="2" unit="character"/>α <w lemma="ὀκτώ">ὀκτὸ</w> <w lemma="ὀβολός">ὀ<unclear>β</unclear>ο<unclear>λ</unclear>ο</w><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_A2" n="A2"/> <gap reason="lost" quantity="1" unit="character"/><orig>ΡΙΤΕΔΕΜΟΔΕ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_A3" n="A3"/> <name type="portion"><w lemma="δέρμα">δερμά<supplied reason="lost">τ</supplied>ον</w></name> <w lemma="δύο">δύο</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A4" n="A4"/> <w lemma="τρίτος"><supplied reason="lost">τ</supplied>ρίτη</w> <name type="portion"><w lemma="μοῖρα">μοῖρα</w></name> <name type="ethnic" key="Athens">Ἀθη<supplied reason="lost">ν</supplied><gap reason="lost" extent="unknown" unit="character"/></name> 
+	    					
+<lb xml:id="line_A5" n="A5"/> καὶ <name type="portion"><w lemma="πούς">πόδες</w></name> <w lemma="πᾶς">παντο</w><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_A6" n="A6"/> <name type="sacrifice"> <w lemma="δυωδεκαΐς">δοδεκηΐδος</w></name> <gap reason="lost" quantity="1" unit="character"/><orig>λ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_A7" n="A7"/> <w lemma="εἷς">hὲν</w> <name type="person"><w lemma="πρόξενος">προχσενο</w></name><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_A8" n="A8"/> <gap reason="lost" quantity="1" unit="character"/><orig>α</orig><gap reason="lost" quantity="2" unit="character"/><orig>ΑΝΑΛΛΑ</orig><gap reason="lost" extent="unknown" unit="character"/>	
+	    				</ab>
+	    				
+	    				<ab subtype="text" n="B">Text B
+	    					
+<lb xml:id="line_B1" n="B1"/> <w lemma="ὅδε"><supplied reason="lost">τ</supplied>άδε</w> <w lemma="δίδωμι">δί<unclear>δ</unclear><supplied reason="lost">οτα</supplied><unclear>ι</unclear></w> <gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_B2" n="B2"/> <name type="portion"><w lemma="πούς"><supplied reason="lost">π</supplied>όδες</w></name>, <name type="portion"><w lemma="κεφαλή">κ<unclear>ε</unclear><supplied reason="lost">φα</supplied>λαὶ</w></name> προ<gap reason="lost" extent="unknown" unit="character"/>	
+	    					
+<lb xml:id="line_B3" n="B3"/> <name type="portion"><w lemma="σκέλος"><supplied reason="lost">σ</supplied>κέλος·</w></name> <name type="portion"><w lemma="δέρμα"><unclear>δ</unclear><supplied reason="lost">έρ</supplied><unclear>μ</unclear>ατος</w></name> <orig>δ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_B4" n="B4"/> <name type="portion"><w lemma="μοῖρα"><supplied reason="lost">μο</supplied><unclear>ῖ</unclear>ρα</w></name> <name type="person"> <w lemma="πρόξενος"><unclear>π</unclear><supplied reason="lost">ροχσ</supplied><unclear>έ</unclear>νον </w> </name> <orig><unclear>τ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				</ab>
+	    					    				
+	    				<ab subtype="text" n="C">Text C					
+	    					
+<lb xml:id="line_C1" n="C1"/> <orig>ΡΑ</orig><gap reason="lost" quantity="1" unit="character"/> <name type="person"> <w lemma="πρόξενος"><unclear>π</unclear>ροχσενον</w> </name>
+	    					
+<lb xml:id="line_C2" n="C2"/> <orig>ΚΟΝΤ</orig><gap reason="lost" quantity="1" unit="character"/> <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_C3" n="C3"/> <orig>ΝΙΟΤ</orig><gap reason="lost" quantity="2" unit="character"/><orig>ΜΕΝ</orig>
+	    					
+<lb xml:id="line_C4" n="C4"/> <orig>Ν</orig> <w lemma="πλείων">πλέον</w>
+	    					
+<lb xml:id="line_C5" n="C5"/> <space quantity="1" unit="line"/> 
+	    					
+<lb xml:id="line_C6" n="C6"/> <name type="sacrifice"><w lemma="δυωδεκαΐς">δοδεκηΐδον</w></name>
+	    					
+<lb xml:id="line_C7" n="C7"/> <orig>ΑΣ</orig> <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_C8" n="C8"/> <gap reason="lost" quantity="2" unit="character"/><orig>Ν</orig> <space extent="unknown" unit="character"/>
+	    				</ab>
+				</div>
+	    		
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Text A</p> 
+<p>[...] eight obols [...] of two skins [...] the third part (to the) Athen[ians? ...] (5) and all feet [...] a sacrifice of twelve animals [...] <foreign>proxenos</foreign> [...]</p>	
+					
+					<p>Text B</p> 
+<p>The following are given [...] Feet, heads [...] a leg. Of the skin: [...] the part of the <foreign>proxenoi</foreign> [...]</p>
+					
+					<p>Text C</p>
+<p>(Given the extremely fragmentary character of the text, no translation is attempted; see Commentary.)</p>
+					</div>
+	    		
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Texte A</p> 
+<p>Huit oboles [...] de deux peaux [...] un tiers (aux) Athén[iens ?] [...] (5) et tous les pieds [...] un sacrifice de douze animaux [...] proxène [...]</p>
+					
+					<p>Texte B</p> 
+<p>Ce qui suit est donné [...] pieds, têtes [...] une patte. De la peau : [...] part des proxènes [...]</p>
+					
+					<p>Texte C</p>
+<p>(En raison du caractère très fragmentaire du texte, aucune tentative de traduction n'est proposée; voir Commentary.)</p>
+				
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p> All three texts seem to be prescriptions about the distribution of parts of sacrificial animals in a specific sacrificial context or contexts (the most intact may be text B which begins as such a regulation, though it does not cite its authority). Various similarities in the documents provide a key for interpreting at least the general character of this context. First, a clue may be found in the mention of προξένοι, who were likely Delphians who acted as hosts for foreigners and whose assistance was necessary when these performed sacrifices in the sanctuary of Apollo at Delphi (cf. Colin, Rougemont). Since text A appears to mention Athens or Athenians (line A4), text C was found near the Athenian treasury, and all texts are inscribed in a similar Attic script, they may be presumed to relate to Athenian visits and <foreign>theoria</foreign> to Delphi. These were perhaps regulations issued by Delphi but inscribed by Athenian cutters at the site, for the use and benefit of their fellow citizens. But the diversity of findspots of these three regulations remains noteworthy and the otherwise obscure context of all three texts is a cause for great caution. For further discussion, see now Rutherford (also with p. 194).</p>
+	
+<p>In terms of content, the three texts seem to be concerned with honorific parts (the skin, feet, legs and head are recurrent perquisites), perhaps to be attributed to the priests at Delphi or to Athenian <foreign>theoroi</foreign> (or sometimes both), and with the distribution of portions (μοίραι) from the rest of the meat to these Delphic <foreign>proxenoi</foreign>. The other recurrent feature is the mention of an occasion called the δωδεκηΐς (in text A, and in plural in text C). The δωδεκηΐς was a sacrifice of twelve animals, sometimes led by an ox, which is often attested at Delphi (cf. the sources cited in <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.; see also the later more generic use e.g. in Porph. <title>Abst.</title> 1.22, who intriguingly juxtaposes it and perhaps contrasts it with a ἑκατόμβη, and cp. the similar comparison between δωδεκηΐς and ἑκατόμβη in <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl> 604, lines 8-9, concerning the delegation of Tauric Chersonesos at Delphi in the second century BC). Both Rougemont and Rutherford (with p. 204) collect and discuss relevant sources, the former more cautiously, the latter suggesting that this sacrifice "may have to do with the twelve gods, or it could have calendrical significance". The sacrificial occasion is sometimes attested on Delos. In the Roman period, the Athenian <foreign>theoria</foreign> to Delphi was referred to as the <foreign>dodekaid</foreign>, perhaps as a result of an association with this form of sacrifice (though it was not exclusive to Athens).</p>
+	
+<p>Text A: Line 1 mentions the price of 8 obols, which might be interpreted as a sacrificial tariff (part of a list of fees the worshippers should pay for sacrificing different animals, cf. Lupu). In line 4, the third share is compared by Rutherford to the same proportions of hides which go to the private sacrificer in the convention between Andros and Delphi, <ref target="http://cgrn.ulg.ac.be/CGRN_29">CGRN 29</ref>. Rutherford thus hypothesises a division in three between the Delphic priests, the local <foreign>proxenoi</foreign> and the Athenian visitors. This remains to be validated.</p>
+	
+<p>Text C: In line 2, κοντα may be the end of a numeral or of a participle.</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_138" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 138</idno>: <rs type="textType" key="priestly contract">Contract (?)</rs> of sale for the priestess of Dionysus at Miletos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support>	
+				<p>Two exemplars or copies of this text are known.</p>	
+				<p>First copy: composed of two joining <rs type="objectType">anta blocks</rs> (A, lines 1-11, and B, lines 12-25), smooth to the left and right sides.</p>
+			<p>Block A <dimensions>
+					<height unit="cm">23.5</height>
+					<width unit="cm">82</width>
+					<depth unit="cm">56</depth>
+				</dimensions></p>
+				<p>Block B <dimensions>
+					<height unit="cm">27</height>
+					<width unit="cm">82.5</width>
+					<depth unit="cm">55</depth>
+				</dimensions></p>
+				<p>Second copy: Fragment of a marble <rs type="objectType">stele (?</rs> described as a <foreign>Säule</foreign>, "column", by Ehrhardt, but this cannot be correct?). The fragment is smooth below, but broken on all other sides. It only contains very small portions of lines 17-24.</p>
+			<p><dimensions>
+					<height unit="cm">25</height>
+					<width unit="cm">39</width>
+					<depth unit="cm">9</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Word division is generally respected and the right margin of inscribed text is relatively intact in the principal (first) copy. The same practice was apparently adopted in the second copy, though with a different layout, of which only the end of a few lines are preserved (underlined in Ehrhardt's text). Only in lines 23-24 are new readings provided by this copy, at the end of both lines. In the first copy, additional text will have been inscribed on anta blocks above, and perhaps also a continuation on blocks below.</p> 
+				<p>First copy: letters: <height unit="mm">11?</height>. </p>
+				<p>Second copy, letters: no measurement given.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0275" notAfter="-0274">275/4 BC</origDate></p>
+			<p><desc>Justification: eponymous year of the god after that of the <foreign>stephanephoros</foreign> Poseidippos (mentioned in lines 9-10).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Miletos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599799" type="external">Miletos</ref></placeName>. </p>
+			<p>First copy: two elements, respectively, A: found in 1907 found near the Mosque (Rathaus); now in the Archaeological Museum in Istanbul (inv. no. 1063a). B: found on the "Sacred way" in 1899 (inv. no. 208 [1063b]). </p>
+			<p>Second copy: found built into the apse of the Church of St. Michael; now in the Museum of Miletos (inv. no. 1714).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Ehrhardt <bibl type="abbr" n="Milet VI,3">Milet VI.3</bibl> 1222, with ph. pl. 22, commentary and further refs. (following a revision of the stone by P. Herrmann).</p>
+					<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 15, 679; Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 48.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Henrichs 1978">Henrichs 1978</bibl>; <bibl type="author_date" n="Jaccottet 2003">Jaccottet 2003</bibl>; <bibl type="author_date" n="Van Liefferinge 2014">Van Liefferinge 2014</bibl>.</p>
+			
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	  
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_1" n="1"/><gap reason="lost" quantity="5" unit="character" precision="low"/><orig>Ν</orig>· <w lemma="ὅταν">ὅταν</w> δὲ ἡ <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name> <name type="sacrifice"><w lemma="ἐπιτελέω">ἐπι<supplied reason="lost">τελέσ</supplied>ηι</w></name> τὰ <name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name> <w lemma="ὑπέρ">ὑπὲρ</w> τῆς <name type="group"><w lemma="πόλις">πόλ<supplied reason="lost">εω</supplied>ς</w></name>
+	
+<lb xml:id="line_2" n="2"/><w lemma="πᾶς"><supplied reason="lost">πάσης</supplied></w> <w lemma="μή">μὴ</w> <w lemma="ἔξειμι">ἐξεῖναι</w> <name type="portion"><w lemma="ὠμοφάγιον">ὠμοφάγιον</w></name> <name type="genericOffering"><w lemma="ἐμβάλλω">ἐμβαλεῖν</w></name> <w lemma="μηθείς">μηθενὶ</w> <w lemma="πρότερος">πρότερον</w>
+	    				
+<lb xml:id="line_3" n="3"/><supplied reason="lost">ἢ ἡ</supplied> <name type="personnel"><w lemma="ἱέρεια"><supplied reason="lost">ἱέ</supplied>ρεια</w></name> <w lemma="ὑπέρ">ὑπὲρ</w> τῆς <name type="group"><w lemma="πόλις">πόλεως</w></name> <name type="genericOffering"><w lemma="ἐμβάλλω">ἐμβάληι</w></name>· <w lemma="μή">μὴ</w> <w lemma="ἔξειμι">ἐξεῖναι</w> δὲ <w lemma="μηδέ">μηδὲ</w>
+	    				
+<lb xml:id="line_4" n="4"/><w lemma="συνάγω"><supplied reason="lost">συν</supplied><unclear>α</unclear>γαγεῖν</w> τὸν <name type="group"><w lemma="θίασος">θίασον</w></name> <w lemma="μηθείς">μηθενὶ</w> <w lemma="πρότερος">πρότερον</w> τοῦ <name type="group"><w lemma="δημόσιος">δημοσίου</w></name>·
+	    					
+<lb xml:id="line_5" n="5"/><w lemma="ἐάν"><supplied reason="lost">ἐὰ</supplied>ν</w> δέ <w lemma="τις">τις</w> <name type="person"><w lemma="ἀνήρ">ἀνὴρ</w></name> ἢ <name type="person"><w lemma="γυνή">γυνὴ</w></name> <w lemma="βούλομαι">βούληται</w> <name type="sacrifice"><w lemma="θύω">θύειν</w></name> τῶι <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύσωι</w></name>,
+	    					
+<lb xml:id="line_6" n="6"/><name type="personnel"><w lemma="προϊεράομαι"><supplied reason="lost">πρ</supplied>οϊεράσθω</w></name> <w lemma="ὁπότερος">ὁπότερον</w> ἂν <w lemma="βούλομαι">βούληται</w> ὁ <name type="sacrifice"><w lemma="θύω">θύων</w></name> καὶ <name type="portion"><w lemma="λαμβάνω">λαμβανέτω</w></name>
+	    				
+<lb xml:id="line_7" n="7"/><supplied reason="lost">τὰ</supplied> <name type="portion"><w lemma="γέρας">γέρη</w></name> ὁ <name type="personnel"><w lemma="προϊεράομαι">προϊερώμενος</w></name>· τὴν δὲ <w lemma="τιμή">τιμὴν</w> <w lemma="καταβάλλω">καταβάλλειν</w> <w lemma="ἐν">ἐν</w> <w lemma="ἔτος">ἔτεσιν</w>
+	    					
+<lb xml:id="line_8" n="8"/><w lemma="δέκα"><supplied reason="lost">δέ</supplied>κα</w>, <w lemma="δέκατος">δέκατομ</w> <w lemma="μέρος">μέρος</w> <w lemma="ἔτος">ἔτους</w> <w lemma="ἕκαστος">ἑκάστου</w>, τὴμ μὲν <w lemma="πρότερος">πρώτην</w> <w lemma="καταβολή">κατα
+	    					
+<lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">βολὴν</supplied></w> <w lemma="ἐν">ἐμ</w> <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Ἀπατουριών">Ἀπατουριῶνι</w></name> τῶι <w lemma="ἐπί">ἐπὶ</w> τοῦ <name type="deity" key="Apollo"><w lemma="θεός">θεοῦ</w></name> τοῦ <w lemma="μετά">μετὰ</w>
+	    				
+<lb xml:id="line_10" n="10"/><w lemma="Ποσείδιππος"><supplied reason="lost">Πο</supplied>σείδιππον</w> τῆι <w lemma="τετράς">τετράδι</w> <w lemma="ἵστημι">ἱσταμένου</w>, τὰς δὲ <w lemma="λοιπός">λοιπὰς</w> <w lemma="ἐν">ἐν</w> τοῖς
+	    					
+<lb xml:id="line_11" n="11"/><w lemma="ἕπομαι"><supplied reason="lost">ἐπο</supplied><unclear>μ</unclear>ένοις</w> <w lemma="ἔτος">ἔτεσιν</w> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ἀρτεμισιών">Ἀρτεμισιῶνος</w></name> <w lemma="τετράς">τετράδι</w> <w lemma="ἵστημι">ἱσταμένου</w>.
+	    				
+<lb xml:id="line_12" n="12"/><gap reason="lost" quantity="1" unit="line"/>
+	    				
+<lb xml:id="line_13" n="13"/><gap reason="lost" quantity="5" unit="character" precision="low"/> δὲ τὴν <name type="personnel"><w lemma="ἱέρεια">ἱέρειαν</w></name> <name type="person"><w lemma="γυνή">γυναῖκας</w></name> <w lemma="δίδωμι">διδόναι</w> <orig>Δ<unclear>ΙΙ</unclear>ΙΝΛ</orig><gap reason="lost" extent="unknown" unit="character"/>   
+	    					
+<lb xml:id="line_14" n="14"/><gap reason="lost" quantity="11" unit="character" precision="low"/> <supplied reason="lost">τ</supplied><unclear>ὰ</unclear> δὲ <name type="genericOffering"><w lemma="τέλεστρα">τέλεστρα</w></name> <surplus>καὶ τελεστ</surplus> <w lemma="παρέχω">παρ<unclear>έ</unclear>χ<supplied reason="lost">ειν</supplied></w> <supplied reason="lost">ταῖς</supplied>
+	    					
+<lb xml:id="line_15" n="15"/><name type="person"><w lemma="γυνή"><supplied reason="lost">γυναιξὶν</supplied></w></name> <w lemma="ἐν">ἐν</w> τοῖς <name type="festival"><w lemma="ὄργια">ὀργί<supplied reason="lost">οις</supplied></w></name> <w lemma="πᾶς"><supplied reason="lost">πᾶ</supplied>σιν</w>· <w lemma="ἐάν">ἐὰν</w> δέ <w lemma="τις">τις</w> <name type="sacrifice"><w lemma="θύω">θύειν</w></name> <w lemma="βούλομαι">βού<unclear>λ</unclear><supplied reason="lost">ηται</supplied></w>
+	    				
+<lb xml:id="line_16" n="16"/><supplied reason="lost">τῶ</supplied>ι <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύ<supplied reason="lost">σω</supplied>ι</w></name> <name type="person"><w lemma="γυνή">γυνή</w></name>, <name type="portion"><w lemma="δίδωμι">διδότω</w></name> <name type="portion"><w lemma="γέρας">γέρη</w></name> τῆι <name type="personnel"><w lemma="ἱέρεια">ἱερείαι</w></name> <name type="portion"><w lemma="σπλάγχνον">σπλάγχνα</w></name>, <name type="portion"><w lemma="νεφρός">νεφ<supplied reason="lost">ρόν</supplied></w></name>,
+	    					
+<lb xml:id="line_17" n="17"/><name type="portion"><w lemma="σκολιός">σκολιόν</w></name>, <name type="quality"><w lemma="ἱερός">ἱερὰμ</w></name> <name type="portion"><w lemma="μοῖρα">μοῖραν</w></name>, <name type="portion"><w lemma="γλῶσσα">γλῶσσαν</w></name>, <name type="portion"><w lemma="σκέλος">σκέλος</w></name> <w lemma="εἰς">εἰς</w> <name type="portion"><w lemma="κοτυληδών">κοτυληδόνα</w></name> <name type="portion"><w lemma="ἐκτέμνω"><supplied reason="lost">ἐκ</supplied>
+	    					
+<lb xml:id="line_18" n="18" break="no"/><supplied reason="lost">τ</supplied>ετμημένον</w></name>· καὶ <w lemma="ἐάν">ἐάν</w> <w lemma="τις">τις</w> <name type="person"><w lemma="γυνή">γυνὴ</w></name> <w lemma="βούλομαι">βούληται</w> <name type="genericOffering"><w lemma="τελέω">τελεῖν</w></name> τῶι <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύσωι</w></name>
+	    					
+<lb xml:id="line_19" n="19"/>τῶι <name type="epithet" key="Bacchios"><w lemma="Βάκχιος">Βακχίωι</w></name> <w lemma="ἐν">ἐν</w> τῆι <name type="locality"><w lemma="πόλις">πόλει</w></name> ἢ <w lemma="ἐν">ἐν</w> τῆι <name type="locality"><w lemma="χώρα">χώραι</w></name> ἢ <w lemma="ἐν">ἐν</w> ταῖς <name type="locality"><w lemma="νῆσος">νήσοις</w></name>, <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀπο</supplied>
+	    				
+<lb xml:id="line_20" n="20" break="no"/>διδότω</w> τῆι <name type="personnel"><w lemma="ἱέρεια">ἱερείαι</w></name> <w lemma="στατήρ">στατῆρα</w> <w lemma="κατά">κατ’</w> <w lemma="ἕκαστος">ἑκάστην</w> <name type="festival"><w lemma="τριετηρίς">τριετηρίδα</w></name>·
+	    					
+<lb xml:id="line_21" n="21"/>τοῖς δὲ <name type="festival"><w lemma="Καταγώγια">Καταγωγίοις</w></name> <w lemma="κατάγω">κατάγειν</w> τὸν <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διόνυσον</w></name> τοὺς <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ<supplied reason="lost">ς</supplied></w></name>
+	    				
+<lb xml:id="line_22" n="22"/>καὶ τὰς <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> τοῦ <name type="deity" key="Dionysus"><w lemma="Διόνυσος"><supplied reason="lost">Διονύ</supplied>σου</w></name> τοῦ <name type="epithet" key="Bacchios"><w lemma="Βάκχιος">Βακχίου</w></name> <w lemma="μετά">μετὰ</w> τοῦ <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱερέως</supplied></w></name>
+	    				
+<lb xml:id="line_23" n="23"/><supplied reason="lost">κ</supplied>αὶ τῆς <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> <w lemma="πρωΐ">πρ<supplied reason="lost">ωῒ</supplied></w> <supplied reason="lost">τ</supplied>ῆ<supplied reason="lost">ς</supplied> <w lemma="ἡμέρα">ἡμέρας</w> <w lemma="μέχρι">μέχρι</w> τῶν <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_24" n="24"/><gap reason="lost" quantity="7" unit="character" precision="low"/> <supplied reason="lost">τ</supplied>ῆς <name type="group"><w lemma="πόλις">πόλεως</w></name> <gap reason="lost" extent="unknown" unit="character"/><orig>Α</orig> <w lemma="συντελέω">συντελῶσι</w>
+	    			
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						[...] Whenever the priestess [performs] the rites on behalf of the [whole] city, no one is allowed to cast in a raw piece of meat before the priestess does so on behalf of the city. No one is allowed to assemble the  <foreign>thiasos</foreign> before the civic one (is assembled). (5) If a man or a woman wishes to sacrifice to Dionysus, whomever of the two (priests) the sacrificer would like should as deputy-priest, and this deputy-priest is to receive the perquisites. The price (i.e. for the priesthood) is to be paid over ten years, a tenth for each year; the first instalment on the 4th of the month Apatourion in the eponymous year of the god after (10) Poseidippos, the remaining ones in the successive years on the 4th of the month Artemision. [...]</p>
+	    				<p>The priestess is to give the women [... ] provides the necessities for the initiation (15) [to the women] in all the initiatory rites. If any woman wants to sacrifice to Dionysus, let her give as perquisites to the priestess the entrails, a kidney, the small intestine, the sacred portion, the tongue, and a leg cut into (i.e. at) the hip-joint. And if any woman in the city or in the countryside or in the islands wishes to celebrate the mysteries to Dionysus Bacchios, let (20) her pay a stater to the priestess at each biennial festival. During the Katagogia, the priests and priestesses of Dionysus Bacchius lead Dionysus down together with the [priest] and the priestess, on the morning of the day until the [...] of the city [...] they celebrate [...] 
+						</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+						[...] quand la prêtresse [accomplit] la célébration des rites au nom de la cité, qu'il ne soit permis à personne de jeter un morceau de viande crue avant que la prêtresse ne le fasse au nom de la cité. Qu'il ne soit permis à personne de réunir de thiase avant le (thiase) public. (5) Si un homme ou une femme veut sacrifier à Dionysos, que fasse le sacrifice pour lui celui que voudra le sacrifiant et que le prêtre suppléant reçoive les parts d'honneur. Qu'on verse le montant (du prix de la prêtrise) en dix ans, un dixième chaque année, le premier versement au mois d'Apatourion de l'année qui a le dieu pour éponyme après (10) Poseidippos, le 4 du mois d'Apatourion, les autres versements (intervenant) les années suivantes, le 4 du mois d'Artemision. [...]</p> 
+					<p>Que la prêtresse [...] donne aux femmes [...], que [...] fournisse les objets de l'initiation (15) [aux femmes] lors de tous les rites initiatiques. Si une femme veut sacrifier à Dionysos, qu'elle donne à la prêtresse comme parts d'honneur les viscères, un rein, le petit intestin, la part sacrée, la langue, la patte jusqu'à l'articulation supérieure. Et si une femme veut célébrer les mystères de Dionysos Bacchios dans la cité, sur le territoire ou dans les îles, qu'elle (20) verse à la prêtresse un statère à chaque fête bisannuelle. Lors des Katagogia, que les prêtres et les prêtresses de Dionysos Bacchios transportent Dionysos avec le [prêtre] et la prêtresse, du lever du jour au [...] de la cité [...] ils célèbrent [...]
+					</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>Though only partially preserved, the regulation is organised much like other contracts for priests from Miletos, and particularly like sales of priesthoods, especially since a series of payments for the office are envisaged (lines 7-11). This phenomenon of sales of priesthoods is well-attested at Miletos since at least the century preceding this text: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_39">CGRN 39</ref>, etc.</p>
+						
+<p>Most of the regulation appears to be concerned with the office of the priestess of Dionysus for the city, though some other members of the cult personnel are also mentioned: a priest (probably also of Dionysus generally), and a number of priests and priestesses of Dionysus Bacchios (lines 21-24; the plural is somewhat enigmatic, it might designate a group of concurrent priests or simply past holders of the office). At any rate, the priestess of Dionysus appears to have had a wide responsibility, notably involving sacrifices on behalf of the city (lines 1-4). It is accordingly a costly office, it would seem: the sum (now missing) is divided into ten payments over ten years. The contract for her role—the present regulation—was inscribed on the antae of a temple, presumably that of Dionysus in the city of Miletos (cf. Ehrhardt who seeks to identify this in the area between the Theatre and the Bouleuterion, with further discussion).</p> 
+						
+<p>Earlier sections of the contract, now missing, will have detailed the qualifications necessary for becoming a priestess and the duration of the tenure (presumably for life in this case, but perhaps also for 10 years only; see below on lines 13-21). The currently extant text begins <foreign>in medias res</foreign> with discussions of public and private sacrifices (lines 1-7), then moving on to the question of payments (7-11). Priestly perquisites and obligations during initiatic or mysteric festivites are then treated (lines 13-21), some of which appear to have been biennial, followed by the case of a specific festival called the Katagogia (lines 21-24).</p>
+			
+<p>Lines 1-3: See also Sokolowski for different restorations, but it appears clear that the priestess performed rituals "on behalf of the (whole) city", as Ehrhardt restores. The rituals in question involved the use of raw meat, ὠμοφάγιον, which was perhaps either thrown into a ditch (so Wiegand, ref. in Ehrhardt) or consumed (Sokolowski). The verb ἐμβαλεῖν does imply throwing, or at least deposition of some form (perhaps on an altar), but the exact point of reference for these gestures remains murky. The role of raw meat is prominent in rituals for Dionysus, cf. e.g. Eur. <title>Bacch.</title> 138-139 (reference to a meal of raw meat as a ὠμόφαγος χάρις), but it is rare to find it so overtly affirmed as here. For a discussion of the ritual use of raw meat, see now Van Liefferinge.</p>
+						
+<p>Line 4: The <foreign>thiasos</foreign> here appear to designate any cultic group gathered for a celebration, in this case when the city puts on the sacrifice. One of these groups would probably have been constituted by members of the magistracy (the <foreign>demosios thiasos</foreign>), while others will have been formed ad hoc or privately.</p>
+						
+<p>Lines 5-7: The formulation of this clause of the regulation is somewhat perplexing. Expressions like προϊερώμενος elsewhere designate the appointment of a deputy by an individual or a priest or priestess in order to act in a sacrificial or other capacity: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_50">CGRN 50</ref> (Chios), lines 11-12. In the other case from Miletos, a foreigner appoints a citizen to act on his behalf during the sacrifice, but the perquisites still belong to the priest of Apollo: <ref target="http://cgrn.ulg.ac.be/CGRN_100">CGRN 100</ref>, lines 6-8. Here, somewhat differently, it appears that any man or woman wishing to offer a sacrifice to Dionysus, may (perhaps during public rites only) designate whoever he or she wishes to vicariously perform the sacrifice. Is this surrogate intended to refer to the priest and priestess of Dionysus, i.e. to a choice of whichever of the two officials the man or woman wants, or to anyone more generally? If the former is true, then the expression is odd and vague; but if the latter is correct, it would be surprising that this προϊερώμενος receives all the perquisites rather than the priest or priestess.</p>
+						
+<p>Lines 7-11: Ehrhardt assumes from the fact that the first payment is to be made before the 4th of Apatourion of the current year—the 8th month at Miletos—that the priesthood will have been sold by this point and will commence immediately. This leads him to the reasonable conclusion that major festivals of Dionysus took place in the four following months after this payment, and in Leneon (month 10) and Anthesterion (month 11) more specifically. (In the remaining nine years in which instalments will be made, the payments will fall in Artemision, the last month of the Milesian year.)</p>
+						
+<p>Lines 13-20: Different cases from the public rites mentioned earlier in the regulation appear to be envisaged in these lines, and they concern primarily women (by contrast with the non-gender-specific <foreign>hiera</foreign> cited above). The references are allusive but nonetheless fairly clear: ὄργια ought to designate mysteries or secret rites of Dionysus, of which there were apparently several for women (possibly maenads), while τέλεστρα are apparently related ritual objects, either offerings to be consumed or actual objects which must be provided for the rites, presumably by the priestess herself. The word τέλεστρα is rare and apparently only found in a few other documents: e.g. <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 326 (priesthood of Dionysus Thyllophoros on Kos); as well as in a cultic foundation from Minoa on Amorgos (2nd century BC), <bibl type="abbr" n="IG XII.7">IG XII.7</bibl> 237, where a priestess is appointed, lines 26-27: ἡ δὲ αἱρουμέν[η ἀ]εὶ ἱέρεια παρεχέ[τω αὐ]|τὴ τὰ τέλεστρα ἰδίαι καὶ ἱεραζέτω ἔτη δέκα. Here, the τέλεστρα designate the offerings which the priestess must perform in order to be "initiated" or confirmed in the priesthood; for this theme, cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_175">CGRN 175</ref> (Priene), line 36. If a woman wishes to offer a sacrifice during these occasions, she gives a standard list of portions as perquisites to the priestess; the same set of portions is found in other Milesian priestly regualtions: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_39">CGRN 39</ref>, see the Commentary ad loc. Female 'initiations' (τελεῖν) to Dionysus Bacchios (perhaps more specifically than to Dionysus generally?) are also considered, apparently during a biennial festival (rather than during more regular <foreign>orgia</foreign>?). The woman needs perhaps not be a citizen, and can come from the area of Miletos, which had a large territory, as well as from the islands (i.e. the nearby isle of Lade, and the somewhat more distant Leros, Lepsia and Patmos).</p> 
+						
+<p>Lines 21-24: The Descents or Returns, Katagogia, was a major festival for Dionysus in Ionian cities, apparently involving a procession with the statue of the god (see also Ehrhardt with further refs.). Here, a large number of priests and priestesses attend and collaborate in the procession, but it is not clear what the difference between the plural and singular group is precisely. In nearby Priene, the Katagogia are also in evidence and a similar involvement of the priest of Dionysus Phleus is required alongside the other participants, which he is to lead in the procession: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_176">CGRN 176</ref>, lines 21-22: καθη̣|γήσεται τῶν συγκαταγόντων τὸν Διόνυσον. According to Ehrhart's restoration, the procession and the festivities proper began in the early day, perhaps around dawn, and lasted until a certain (unclear) time. At Ephesos, the festival lasted only one day it would seem, cf. <bibl type="abbr" n="I.Ephesos">I.Ephesos</bibl> 661 (ca. 140-150 AD), lines 20-21: καὶ τῇ τῶν Καταγωγίων ἡμέρᾳ. The exact timing of the Katagogia in the Milesian year is unclear, though the months Leneon and Anthesterion are again two good guesses.
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

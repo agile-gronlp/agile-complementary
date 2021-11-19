@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_29" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 29</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> concerning the <foreign>theoria</foreign> from Andros (?) at Delphi</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Two fragments (one containing text A and B on two faces, and the other containing a short text, Aa), both stone <objectType key="block">blocks</objectType>. The main fragment is a quadrangular cippus made of local Delphic limestone, broken above and below. The stone is inscribed on two adjacent faces. The other smaller fragment is made of the same local Delphic limestone; it is broken on all sides except for one preserved corner. The stone is inscribed on one face. Cf. Daux 1949a, with ph. pl. 1. </p>
+		
+		<p> Main fragment, side on which text A appears: <dimensions>
+			<height unit="cm">52</height>
+			<width unit="cm">28.5</width>
+			<depth unit="cm">22</depth>
+		</dimensions> </p>
+		<p> Main fragment, side on which text B appears: <dimensions>
+			<height unit="cm">57</height>
+			<width unit="cm">21.9</width>
+			<depth unit="cm">22</depth>
+		</dimensions> </p>
+		<p> Small fragment: <dimensions>
+			<height unit="cm">22</height>
+			<width unit="cm">13</width>
+		</dimensions></p>
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Main fragment: the face on which text A appears is inscribed from top to bottom. The face to the right, on which text B appears, is inscribed on the upper part (30 cm); below this, there is a vacat. Small fragment: the face on which text Aa appears is inscribed on the upper part (10 cm), below vacat. On the adjacent side, probably continuing from side B, there is no inscription. Stoichedon, but irregular. </p>
+			<p>Letters: <height unit="cm">1.2-1.8</height>. Space between lines: <height unit="cm">0.2-0.8</height>. </p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0450" notAfter="-0400">ca. 425 BC</origDate></p>
+							
+							<p><desc>Justification: lettering (cf. Daux 1949a: 61-65).</desc></p>
+						</origin>
+	<provenance><p>
+		<placeName type="ancientFindspot" key="Delphi" n="Central_and_Northern_Greece"><ref target="http://pleiades.stoa.org/places/540726" type="external">Delphi</ref></placeName>. Found in the direct vicinity of the temple of Apollo. The two fragments are in the Museum of Delphi (inv. nos. 892 + 3410).</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p>
+	    				Edition here based on Rougemont <bibl type="abbr" n="CID I">CID I</bibl> 7, text A only. We do not include text B or the small fragment Aa here. We print only fairly secure or intelligible letter traces. Cf. Rougemont for further description of lettertraces.</p>
+	    			
+	    			<p> Other editions:
+	    				<bibl type="author_date" n="Daux 1949a">Daux 1949a</bibl>;
+	    				<bibl type="author_date" n="Daux 1949b">Daux 1949b</bibl>.
+	    			</p>		
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 38; 
+	    				<bibl type="author_date" n="Petrocheilos 2010">Petrocheilos 2010</bibl>: 52-54 no.1; 
+	    				<bibl type="author_date" n="Rutherford 2013">Rutherford 2013</bibl>: 198-200 and 369-372 no. B3.
+	    			</p>
+	    			<p>Further bibliography:
+	    				<bibl type="author_date" n="Rougemont 1977">Rougemont 1977</bibl>; 
+	    				<bibl type="author_date" n="Dillon 1990">Dillon 1990</bibl>;
+	    				<bibl type="author_date" n="Smyth 1956">Smyth 1956</bibl>: 348 no. 1513.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    	
+	    				<ab subtype="fragment" n="A Face I">Fragment A, face I
+	    					
+<lb xml:id="line_1" n="1"/> <gap reason="lost" quantity="1" unit="line"/>
+	    					
+<lb xml:id="line_2" n="2"/> <gap reason="lost" quantity="1" unit="line"/>
+	    					
+<lb xml:id="line_3" n="3"/> <gap reason="lost" quantity="1" unit="line"/>
+	    					
+<lb xml:id="line_4" n="4" break="no"/> <gap reason="lost" quantity="1" unit="character"/>ντον αἱ <w lemma="τρεῖς">τ<supplied reason="lost">ρ</supplied>ε̑ς</w> <name type="structure"><w lemma="οἰκία">οἰκίαι</w></name> <gap reason="lost" quantity="1" unit="character"/>
+	    					
+<lb xml:id="line_5" n="5"/> <gap reason="lost" quantity="2" unit="character"/><orig>οε</orig><gap reason="lost" quantity="1" unit="character"/><orig>α</orig><gap reason="lost" quantity="1" unit="character"/><orig>ζε</orig><gap reason="lost" quantity="1" unit="character"/> <w lemma="πρός">πρὸς</w> τὸς <name type="personnel"><w lemma="ἀρχεθέωρος"><supplied reason="lost">ἀ</supplied> 
+	    						
+<lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">ρχ</supplied>εθεάρος</w></name>· <w lemma="ὅδε">τόσδε</w> <name type="meal"><w lemma="σῖτος">σῖτ<supplied reason="lost">ο</supplied>
+	    							
+<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">ν</supplied></w></name> <w lemma="μή"><supplied reason="lost">μ</supplied>ὲ</w> <w lemma="τίθημι">τιθέναι</w> <w lemma="μηδέ">μεδὲ</w> <w lemma="φρυκτός">φρ<supplied reason="lost">υκ</supplied>	
+	    								
+<lb xml:id="line_8" n="8" break="no"/>τός</w>· <name type="personnel"><w lemma="ἀρχεθέωρος">ἀρχεθεάρος</w></name> <w lemma="τρεῖς">τρε̑ς</w>, <name type="personnel"><w lemma="μάντις"><unclear>μ</unclear>
+	    									
+<lb xml:id="line_9" n="9" break="no"/>άντιν</w></name>, <name type="title"><w lemma="ἄρχων">ἄρχοντα</w></name>, <name type="personnel"><w lemma="κῆρυξ">κέρυκα</w></name>,
+	    					
+<lb xml:id="line_10" n="10"/> <name type="personnel"><w lemma="αὐλητής">αὐλετήν</w></name>, <name type="title"><w lemma="κυβερνήτης">κυβερνήτεν</w></name>, <name type="title"><w lemma="κελευστής">κ<supplied reason="lost">ε</supplied>
+	    						
+<lb xml:id="line_11" n="11" break="no"/>λευστήν</w></name>, <name type="title"><w lemma="πρῳρήτης">π<supplied reason="lost">ρ</supplied>οιρέτεν</w></name>· <name type="portion"><w lemma="δέρμα"><unclear>δ</unclear>έ<supplied reason="lost">ρ</supplied>
+	    							
+<lb xml:id="line_12" n="12" break="no"/>μα</w></name> δὲ <w lemma="φέρω">φερέτω</w> <name type="title"><w lemma="κῆρυξ">κῆρυ<supplied reason="lost">ξ</supplied></w></name>, <name type="personnel"><w lemma="αὐλητής">αὐλε
+	    								
+<lb xml:id="line_13" n="13" break="no"/>τής</w></name>, <name type="title"><w lemma="κελευστής">κελευστὴς</w></name> <w lemma="ἕκαστος">ἕκαστος</w>
+	    					
+<lb xml:id="line_14" n="14"/> τῶν <name type="group"><name type="quality"><w lemma="δημόσιος">δημοσίον</w></name></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερέων</w></name>· <name type="vegetal"><w lemma="σῖτος">σῖ
+	    						
+<lb xml:id="line_15" n="15" break="no"/>τον</w></name> <w lemma="παρέχω">παρεχόντων</w> τε̑ι <w lemma="πρότερος">πρ<unclear>ό</unclear>
+	    							
+<lb xml:id="line_16" n="16" break="no"/>τει</w> <name type="bakery"><w lemma="μᾶζα">μᾶζαν</w></name>, <name type="portion"><w lemma="κρέας">κρέα</w></name>, <name type="liquid"><w lemma="οἶνος">οἶνον</w></name> <w lemma="ὁπόσος">ὁ
+	    								
+<lb xml:id="line_17" n="17" break="no"/>πό<unclear>σ</unclear><supplied reason="lost">ον</supplied></w> <w lemma="βούλομαι">βόλονται</w>, καὶ <w lemma="ἄλλος">τἆ<supplied reason="lost">λ</supplied>
+	    									
+<lb xml:id="line_18" n="18" break="no"/>λα</w> <w lemma="ἁρμόδιος">ἁρμόδια</w>· τὰς δὲ <w lemma="δύο">δύο</w> <w lemma="ἡμέρα">ἡ<unclear>μ</unclear>
+	    										
+<lb xml:id="line_19" n="19" break="no"/>έρας</w> καὶ <w lemma="ἐκτός"><supplied reason="lost">ἐ</supplied><unclear>κ</unclear>τὸς</w> το̑ <name type="meal"><w lemma="σῖτος">σίτο</w></name> <w lemma="τίθημι">τ
+	    											
+<lb xml:id="line_20" n="20" break="no"/>ιθέτω</w> <w lemma="ἕκαστος">ἕκασ<choice><corr>τ</corr></choice>ος</w> καὶ <name type="person"><w lemma="παῖς">παῖς</w></name> <unclear>κ</unclear>
+	    					
+<lb xml:id="line_21" n="21" break="no"/><unclear>α</unclear>ὶ <name type="person"><w lemma="ἀνήρ">ἀνὲρ</w></name> <w lemma="ὀβολός">ὀβολὸν</w> <w lemma="αἰγιναῖος">α<choice><corr>ἰ</corr></choice>γιναῖον</w> 
+	    					
+<lb xml:id="line_22" n="22"/>τῆς <w lemma="ἡμέρα">ἡμέρ<unclear>η</unclear>ς</w> <w lemma="ἕκαστος">ἑκάστης</w>· οἱ δ
+	    					
+<lb xml:id="line_23" n="23" break="no"/><unclear>ὲ</unclear> <name type="personnel"><w lemma="ἀρχεθέωρος">ἀρχεθέαροι</w></name> <name type="genericOffering"><w lemma="καθιερεύω">καθιερευ
+	    						
+<lb xml:id="line_24" n="24" break="no"/>όντον</w></name> <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="ἥμισυς">ἕμισυ</w> <w lemma="εἷς">ἑνί</w>· <w lemma="ὑπάρχω">ὑπ
+	    							
+<lb xml:id="line_25" n="25" break="no"/><unclear>α</unclear>ρχέτο</w> δὲ τὰ <name type="portion"><w lemma="ἐξαίρετος">ἐξαίρετα</w></name>· <name type="bakery"><w lemma="πελανός">π<supplied reason="lost">ε</supplied> 
+	    								
+<lb xml:id="line_26" n="26" break="no"/><supplied reason="lost">λ</supplied>ανὸς</w></name> <w lemma="τέσσαρες">τέσσαρας</w>, <name type="portion"><w lemma="μεταξένια">μεταξέ<supplied reason="lost">ν</supplied>
+	    									
+<lb xml:id="line_27" n="27" break="no"/><supplied reason="lost">ι</supplied>α</w></name> <w lemma="δύο">δύο</w>, <name type="personnel"><w lemma="ἱερεύς">ἱερε̑ι</w></name> <w lemma="ἕξ">ἕξ</w>, <w lemma="ἀπό">ἀπὸ</w> τῆς <name type="animal" key="generic"><w lemma="ἑκατόμβη">ἑ<supplied reason="lost">κ</supplied>
+	    										
+<lb xml:id="line_28" n="28" break="no"/><supplied reason="lost">ατ</supplied>όμβης</w></name> <w lemma="ἕκαστος">ἑκάστ<supplied reason="lost">η</supplied>ς</w>· ὁ δὲ <name type="person"><w lemma="ἰδιώτης">ἰδι
+	    											
+<lb xml:id="line_29" n="29" break="no"/><supplied reason="lost">ώτη</supplied>ς</w></name> <w lemma="φέρω">φερέτω</w> τῶν <name type="portion"><w lemma="δέρμα">δερμάτ
+	    												
+<lb xml:id="line_30" n="30" break="no"/><supplied reason="lost">ων</supplied></w></name> <w lemma="ὅς"><supplied reason="lost">ὧν</supplied></w> <w lemma="ἄν">ἂν</w> <name type="sacrifice"><w lemma="θύω">θύσει</w></name> τὸ <w lemma="τρίτος">τρίτομ</w> <name type="portion"><w lemma="μέρος"><unclear>μ</unclear>έ
+	    													
+<lb xml:id="line_31" n="31" break="no"/><supplied reason="lost">ρος</supplied></w></name><supplied reason="lost">,</supplied> <w lemma="πλήν"><supplied reason="lost">π</supplied>λὲν</w> <name type="oracle"><w lemma="χρηστήριον">χρεστερίων</w></name> καὶ <name type="purification"><w lemma="καθάρσιος">κ
+	    														
+<lb xml:id="line_32" n="32" break="no"/><supplied reason="lost">αθαρσ</supplied>ίων</w></name>, καὶ <w lemma="ὅσος">ὅσοι</w> <w lemma="σύν">σὺν</w> τῶ
+	    					
+<lb xml:id="line_33" n="33" break="no"/><supplied reason="lost" cert="low">ι</supplied> <name type="title"><w lemma="βασιλεύς"><supplied reason="lost">βασι</supplied>λεῖ</w></name> <w lemma="θεωρέω">θεαρέοσιν</w>
+	    					
+<lb xml:id="line_34" n="34"/> <gap reason="lost" quantity="6" unit="character"/> <name type="group"><w lemma="δημόσιος">δεμοσιον</w></name> <name type="sacrifice"><w lemma="ἐπιθύω">ἐπι<unclear>θ</unclear>υτ<unclear>ο</unclear></w></name> 
+	    					
+<lb xml:id="line_35" n="35"/><gap reason="illegible" quantity="1" unit="line"/>
+	    					
+	    				</ab>
+	    				
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Fragment A, face I</p>
+<p>[...] the three houses [... (5) ...] in reference to the <foreign>architheoroi</foreign>. The following do not provide a contribution in food (<foreign>sitos</foreign>) or food for roasting (<foreign>phryktos</foreign>): three <foreign>architheoroi</foreign>, a seer, an archon, a herald, (10) an aulos-player, a steersman, a boatswain, a commander at the bow. The following can each take a hide from public sacrificial animals: a herald, an aulos-player, a boatswain. As food (<foreign>sitos</foreign>), (15) they (i.e. others) should provide on the first (day) a barley cake, meat, as much wine as they want, and the other things that are agreeable. For two (days) and apart from the food (<foreign>sitos</foreign>), (20) each, both man and child, must contribute an Aiginetan obol per day. The <foreign>architheoroi</foreign> should consecrate more than half with one (?). (25) The reserved parts must be: four <foreign>pelanoi</foreign>, two <foreign>metaxenia</foreign>, for the priest: six from each hekatomb. A private individual may obtain a third of the hides (30) of those animals he sacrifices except from animals sacrificed for consultation of the oracle and for purification. And as many as go on the <foreign>theoria</foreign> with the [king] [...] public, sacrifice in addition [...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Fragment A, face I</p>
+<p>[...] les trois maisons [... (5) ...] auprès des archithéores. Sont dispensés de la contribution en vivres et en aliments à griller (?) (<foreign>phryktos</foreign>) : les trois archithéores, le devin, l'archonte, le héraut, (10) le flûtiste, le pilote, le chef des rameurs, le commandant en second. Pourront emporter chacun une peau des animaux sacrificiels publics : le héraut, le flûtiste, le chef des rameurs. Vivres : (15) fournir le premier jour du pain d'orge, de la viande, du vin autant qu'on voudra, et les autres denrées appropriées; pendant les deux jours, et en plus des vivres, (20) chacun, enfant ou homme, versera une contribution d'une obole par jour; les archithéores consacreront la moitié plus une. (25) Les parts réservées comportent quatre <foreign>pelanoi</foreign>, deux <foreign>metaxenia</foreign> (?), six parts pour le prêtre sur chaque sacrifice. Le particulier pourra emporter le tiers des peaux (30) des animaux qu'il aura sacrifiés, exception faite pour les animaux sacrifiés pour la consultation oraculaire et des purifications; et ceux qui participent à la théorie avec (le roi ?) [...] public, sacrifient en plus [...]</p>
+					<p>(traduction d'après G. Rougemont <bibl type="abbr" n="CID I">CID I</bibl>)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This regulation appears to be concerned with the regular visit of a sacred delegation (<foreign>theoria</foreign>), very probably from Andros to Delphi (on the institution of the <foreign>theoria</foreign>, cf. Dillon and now Rutherford). The attribution to Andros is dependent on the small fragment Aa, not reprised here, which appears to mention the ethnic Ἀνδριο- (line 6). Additionally, the dialect of the text is generally Ionic of the islands (Daux 1949a: 65), which matches this attribution. There are, however, some problems of consistency, such as here in line 6 (cf. also 8, 23, etc.), where we find a form θεαρ- (the Ionic would be θεωρ-; cf. Daux 1949a and Rougemont (in <bibl type="abbr" n="CID I">CID I</bibl>) for discussion; a possible explanation might be that these forms were in common usage at Doric Delphi and thus simply inscribed by the cutter). Rutherford discusses the relations between Andros and Delphi (well-attested), and the history of Andrian autonomy in the fifth century (the information is incomplete and uncertain; see also Petrocheilos). Despite this degree of doubt regarding the attribution and its context, the document presents one of the most detailed sacrificial regulations relating to <foreign>theoria</foreign> found at Delphi (Rutherford discusses the typology of these documents at Delphi, sometimes called "Conventions" between Delphi and a city, and comparing our text with <bibl type="abbr" n="CID I">CID I</bibl> 13 / <bibl type="abbr" n="LSS">LSS</bibl> 41 for instance; cf. also here, <ref target="CGRN_30">CGRN 30</ref>, various regulations pertaining to Athens).</p>
+						
+<p>The full extent of the document or dossier is not preserved and may have discussed a variety of topics (cf. lines 4-6, perhaps relating to the accomodation of the delegation, and see below). The principal fragment presented here (A) essentially deals with obligatory provisions of food (σῖτος, see below on lines 6-8) and money during meals and sacrifices connected to the <foreign>theoria</foreign> and prerogatives which can be obtained from the sacrifices. Exemptions to mandatory contributions of food (σῖτος) are listed (lines 6-11), followed by prerogatives of hides for a few of the same officials and members of the delegation (lines 11-14). Then, the contributions of food (σῖτος) in question are itemised (lines 14-18): these requirements must in all likelihood apply to individuals participating in the <foreign>theoria</foreign> but who are different than those that have already been mentioned as exempt. Contributions of money, during a celebration lasting at least two days, are also stipulated (lines 18-24). Finally, prerogatives are defined for the priest, perhaps others, and for private individuals offering sacrifices (lines 24-32 etc.). There remain a number of interpretative uncertainties, however, which are discussed below.</p>
+						
+<p> Line 4: Various cities possessed houses in Delphi (whether owned or rented), in order to provide their <foreign>theoroi</foreign> or other visiting citizens with lodgings (Daux 1949a). Here, the three οἰκίαι mentioned may have been three permanent residences, which corresponds well to the tripartite structure of the delegation envisaged, led by three <foreign>archetheoroi</foreign>. Alternatively, the three <foreign>archetheoroi</foreign> may have been housed in private homes by Delphians. Wealthy individuals were sometimes charged with the task of hosting, feeding and entertaining <foreign>theoroi</foreign> in their own homes and were called <foreign>theorodokoi</foreign> in this liturgical function (cp. also the Delphic <foreign>proxenoi</foreign> who act as sacrificial helpers, discussed in <ref target="http://cgrn.ulg.ac.be/CGRN_30/">CGRN 30</ref>).</p>
+							
+<p> Lines 6-8: These lines have been interpreted in various ways. According to Daux (1949a: 68-69) σῖτος and φρύκτος refer to offerings of grains and of beans, which the pilgrims must bring. Beans were usually employed in ceremonies such as of voting and drawing lots, but it is far from clear that this allusive mention of φρύκτος is to be tied with such a practice at Delphi (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. II.2). More plausibly, Sokolowski takes a different line, interpreting σῖτος here not as ‘grain’, but more generally as ‘sustenance’, considering τιθέναι σῖτον to signify paying for one’s sustenance. Similarly, Rougemont (1977) considers τιθέναι σῖτος to refer to ‘bringing food’ (in general). According to this interpretation, the specified officials do not have to bring food, but share in the common contributions gathered by the other members of the Andrian delegation. In our view, Sokolowski and Rougemont seem to have pointed in the right direction. The word φρυκτός, used here only once, appears to be a sort of expansion or gloss on the general use of σῖτος: it properly refers to other food, especially meat and fish for roasting or frying (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. I, II.3). More recently, Rutherford takes φρυκτός to mean "firewood", which is possible, but a less obvious sense of the word (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. II.1 give this sense a "torch", "beacon", which is not really the same as a word like φρύγανον, though both are linked to same verb, φρύγω). On the question of the σῖτος, Sokolowski argued that these exemptions of contributions of food for several Andrian officials (taken with the subject of line 16 left implicit, see below) suggested that the Delphians were to provide the delegation with a meal on their first day in the sanctuary. Such an interpretation accords with Dillon’s description of the local hosting that might be provided to visitors, the <foreign>theorodokia</foreign>. Sokolowski attempts to provide a parallel case: <bibl type="abbr" n="CID I">CID I</bibl> 13 / <bibl type="abbr" n="LSS">LSS</bibl> 41, which states that Delphi must provide travelers from Skiathos with wood, vinegar, salt. This 'parallel', however, does not mention a complete meal, and is quite different from the cake, meat and wine mentioned in lines 14-18.</p>  
+							
+<p>Lines 8-14: The list of officials who are exempt from contributions of food is a revealing mixture of naval officers and religious functionaries, probably typical of a <foreign>theoria</foreign> coming from an island. The archon mentioned may be the eponymous archon of Andros (so Daux 1949a: 67), or he might simply be another leader involved in the delegation. The προιρήτης is also called a πρωρεύς, the officer in command at the bow (the lookout man, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.). The κῆρυξ, αὐλητής and κελευστής have been interpreted as three officials with a naval function: cf. the bibliography by Daux 1949a: 67, complemented by Rougemont (in <bibl type="abbr" n="CID I">CID I</bibl>, p. 22). All three receive hides from public sacrifices in addition to the exemptions. The κῆρυξ and αὐλητής may also be seen as fulfilling an essential part of the religion delegation to Delphi, along with <foreign>architheoroi</foreign> and the μάντις.</p>
+							
+<p>Lines 14-18: We adopt Rougemont's punctuation, and the reading of ἱερε̄́ων as ἱερήιων: sacrificial animals, not priests (Rutherford also follows this interpretation). The spelling E for long η is common in this inscription, and Rougemont provides analogous cases of ἱερῆον for ἱερήιον. In the following line, the subject of παρεχόντων is implicit, and may be presumed to be something like οἱ ἄλλοι, i.e. the remaining members of the delegation which have not been listed above (rather than the Delphians, see also above lines 6-8). Rougemont plausibly supposes that the inscription simply lays down what kinds of food the members of the <foreign>theoria</foreign> must bring themselves to contribute to the common meal on the first day (Rougemont 1977: 43-44).</p>
+							
+<p>Lines 18-22: In line 19, Daux 1949a read και[οντ]ος το σιτο (gen. abs.), explaining that the burning of grain is a well-known rite. The simpler reading καὶ [ἐ]κ̣τὸς was suggested to Daux by Klaffenbach and verified by Daux 1949b: 293. Consequently all later editors read [ἐ]κ̣τὸς το̑ σίτο̄, "in addition to" or "beyond the (normally expected) contribution of food". These tariffs imposed on members of the delegation were perhaps used to fund a dedication or to consecrate something in the sanctuary in order to commemorate the visit: cf. below at lines 23-24.</p>
+							
+						<p>Lines 23-24: The dative in the phrase ὑπὲρ ἕ̄μισυ ἑνί may be a dative of measure of difference, or a dative of manner (cf. Smyth; for ὑπὲρ ἕ̄μισυ see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. ὑπέρ B.III, citing Xen. <title>Cyr.</title> 3.3.47). In other words, the phrase expresses the notion that the <foreign>archethearoi</foreign> should consecrate, of the money collected, more than half with the difference of 1 (i.e. half of the money plus 1 obol), or, alternatively with the sacrifice of one (animal). The first solution is chosen by Daux 1949a and Rougemont, <bibl type="abbr" n="CID I">CID I</bibl>; Sokolowski opts for the second. While καθιερεύω appears to designate the consecration of people, it is not typically used of sacrifice and most naturally refers to the consecration of the money itself or of votives paid from it (much like καθιερόω).</p>
+							
+						<p>Lines 24-28: These lines are imperfectly understood. The phrase τὰ ἐξαίρετα is usually translated as "the reserved parts", a sense also now accepted by Rutherford, who provides good parallels for this phrase in a sacrificial context. Cp. also the use ἐξαιρέω to denote the extraction of portions of meat and γέρα from the carcass of the sacrificial animal in <ref target="http://cgrn.ulg.ac.be/CGRN_183/">CGRN 183</ref> (Chalketor), lines 4-5: ἐ[ξ]αιρεθέντων δὲ τῶν | [κρε]ῶν καὶ τὰ γέρα τῆι ἱερείαι... Conversely, Sokolowski and Daux thought of a separate tax which would complement the tariff of one obol a day described earlier in lines 23-24. This seems less certain, however, and the items listed might be comestible perquisites rather than money (so also Rutherford). The word πελανός can certainly refer to money, but also to a liquid mixture, a meal or a round cake, see <ref target="http://cgrn.ulg.ac.be/CGRN_58/">CGRN 58</ref> (Thera) and <ref target="http://cgrn.ulg.ac.be/CGRN_94/">CGRN 94</ref> (Eleusis), line B8.  Since we have 'four' here, cakes are likely. The rare term μεταξένια probably refers to portions of the meat destined as a γέρας for prominent guests (so Daux 1949a, Sokolowski). All the principal editors, Daux 1949a, Sokolowski and Rougemont (in <bibl type="abbr" n="CID I">CID I</bibl>), read ἱερεῖ ἕξ (six parts for the priest; an alternative but less likely reading might be ἱερεῖ’ ἕξ, i.e. ἱερεῖα ἕξ "sacrificial animals: six"). That being said, the list of τὰ ἐξαίρετα compared to typical lists of prerogatives in the present Collection remains somewhat unusual and allusive.</p>
+							
+							<p>Line 32: The restoration is uncertain. Daux (1949a: 68) suggests the official mentioned is the <foreign>archon basileus</foreign> (but of where?). Rutherford presents this option as well as Sokolowski τῶ[ι ἐν τέ]λει, and cautiously holds the identity of the individual to be "unfortunately uncertain".
+						</p>
+
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

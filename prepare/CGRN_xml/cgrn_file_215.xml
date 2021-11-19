@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_215" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 215</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for Asclepius and Hygieia in Attica</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p><rs type="objectType">Plaque</rs> of white marble, very well preserved, but the two corners on the right are damaged.</p>
+		
+	<p><dimensions>
+		<height unit="cm">57</height>
+		<width unit="cm">34</width>
+		<depth unit="cm">4</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p>The letters have been engraved with care. Along the borders we find a small edge or groove. In line 5, the Υ is inscribed inside the Ο.</p>
+			<p>Letters: <height unit="cm">1.8</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0100" notAfter="-0001">1st century BC</origDate></p>
+							
+ <p><desc>Justification: lettering (Latysew).</desc></p>
+						</origin>
+
+<provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885" type="external">Athens</ref></placeName>. The circumstances of the find are unclear. Described by Latyschev from the collection of a private home in Athens; the current location is unknown.</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			<p> Edition here based on Kirchner <bibl type="abbr" n="IG II²">IG II²</bibl> 1364.</p>
+	    			<p> Other editions:                   
+	    				<bibl type="author_date" n="Latyschev 1881">Latyschev 1881</bibl>: 262 no. 2;
+	    				<bibl type="author_date" n="Guarducci 1978">Guarducci 1978</bibl>: no. 25.</p>
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 48; 
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 54.</p>
+	    	<p> Further bibliography: <bibl type="author_date" n="Stafford 2008">Stafford 2008</bibl>.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				<ab>
+	    				
+<lb xml:id="line_1" n="1"/> <name type="genericOffering"><w lemma="ἱερός">ἱερὸν</w></name> τὸ <name type="structure"><w lemma="τέμενος">τέμεν<supplied reason="lost">ος</supplied></w></name>
+	    				
+<lb xml:id="line_2" n="2"/> τοῦ <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκληπιοῦ</w></name> καὶ
+	    				
+<lb xml:id="line_3" n="3"/> τῆς <name type="deity" key="Hygieia"><w lemma="ὑγίεια">Ὑγιείας</w></name>·
+	    				
+<lb xml:id="line_4" n="4"/> <name type="sacrifice"><w lemma="θύω">θύειν</w></name> τοὺς <name type="group"><w lemma="γεωργός">γεωργοὺς</w></name>
+	    				
+<lb xml:id="line_5" n="5"/> καὶ τοὺς <name type="group"><w lemma="πρόσχωρος">προσχώρους</w></name>
+	    				
+<lb xml:id="line_6" n="6"/> τοῖν <name type="deity" key="Asclepius"><name type="deity" key="Hygieia"><w lemma="θεός">θεοῖν</w></name></name> <w lemma="ὅς">ἧι</w> <name type="authority"><w lemma="θέμις">θέμις</w></name>,
+	    				
+<lb xml:id="line_7" n="7"/> καὶ τὰς <name type="portion"><w lemma="μοῖρα">μοίρας</w></name> <name type="portion"><w lemma="νέμω">νέμειν</w></name>
+	    				
+<lb xml:id="line_8" n="8"/> τῶι τε <name type="person"><name type="genericOffering"><w lemma="ἵζω">εἱσαμένωι</w></name></name> καὶ
+	    				
+<lb xml:id="line_9" n="9"/> τῶι <name type="personnel"><w lemma="θεηκολέω">θεηκολοῦντι</w></name>·
+	    				
+<lb xml:id="line_10" n="10"/> τῶν δὲ <name type="portion"><w lemma="κρέας">κρεῶν</w></name> <w lemma="μή">μὴ</w>
+	    				
+<lb xml:id="line_11" n="11"/> <w lemma="φέρω">φέρεσθαι</w>.
+	    				
+<lb/><space quantity="18" unit="cm"/>
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p> The (i.e. this) precinct of Asclepius and Hygieia is sacred. The farmers (5) and the neighbouring people are to sacrifice to the two gods as it is religiously permitted, and distribute the portions to the founder and to the priest. (10) There is to be no carrying away of meat.
+					</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>L'enceinte (i.e. cette enceinte) d'Asclépios et d'Hygie est sacrée. Les fermiers (5) et les voisins doivent sacrifier aux deux dieux comme il est religieusement permis, et distribuer les parts au fondateur et au prêtre. (10) Ne pas emporter la viande.</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head> 
+						
+<p> As the circumstances of the finding of this inscription are unknown, it is unclear exactly what kind of cult of Asclepius and Hygieia was envisaged by this inscription. The regulation seems to have been set up by a private individual who founded the sanctuary (ὁ εἱσάμενος), and this was done in a rural setting (given the reference to γεωγροί and προσχώροι). The instruction to sacrifice to the two gods ᾗ θέμις, 'as is customary, proper, normal', is a reference to knowledge already present in the community concerning the type of offerings that were suitable for these gods. This perhaps implies that the inscription does not in and of itself institute a new cult, and that there was already a rural cult of Hygieia and Asclepius in place to whom particular offerings were brought at specific times. Alternatively, θέμις may simply refer to a normative way of performing an animal or vegetal sacrifice.</p>
+	
+<p> Lines 2-3: For other cults of Asclepius discussed in this Collection, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_54/">CGRN 54</ref> (Piraeus) and <ref target="http://cgrn.ulg.ac.be/CGRN_139/">CGRN 139</ref> (Kos). For Asclepius and Hygieia worshipped together, cf. also <ref target="http://cgrn.ulg.ac.be/CGRN_161/">CGRN 161</ref> (Kos), and <bibl type="abbr" n="LSS">LSS</bibl> 16, <bibl type="abbr" n="LSCG">LSCG</bibl> 40 and 162. </p>
+		
+<p> Line 6: In a study of cults of Asclepius, Stafford concludes that this god received "a fairly unremarkable range of animal offerings", and that relatively inexpensive and bloodless offerings are more common for him than in other cults. As we outlined above, this suggests that the θέμις envisaged by the text was either wide and encompassing, or specific to local tradition (and now irrecoverable).</p> 
+	
+<p> Line 8: The first editor, Latyschev, as well as Ziehen, have compared this text to a case in which a private individual establishes various cultic rules for the cult of Men Tyrannos: see <bibl type="abbr" n="LSCG">LSCG</bibl> 55 (Sounion). For rules similarly enacted by different types of 'founders', cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_28/">CGRN 28</ref> (Thasos) and <ref target="http://cgrn.ulg.ac.be/CGRN_128/">CGRN 128</ref> (Lissos; dedication of a statue of Asclepius, with cultic rules).</p>
+							
+<p> Line 9: Though the noun θεήκολος/θεόκολος occurs with some regularity in ritual norms (see here <ref target="http://cgrn.ulg.ac.be/CGRN_146/">CGRN 146</ref>, Phyxa, line 3), the verb θεηκολέω is rare: cf. e.g. a metrical inscription from Marathon, which refers to παῖδας ἀοιδοπόλους Ζηνὶ θεηκολέοντας (<title>BCH</title> 50, 1926, p. 529, lines 16-17, 2nd century AD).</p>
+	
+<p> Lines 10-11: The instruction not to carry away meat (but consume it on the spot) occurs regularly, for a more extensive commentary cf. <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref> (on lines 10-12).</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

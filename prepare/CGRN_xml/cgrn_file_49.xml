@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_49" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 49</idno>: <rs type="textType" key="priestly contract">Contract</rs> for the sale of a priesthood on Chios</title>
+	    			<author>Jan-Mathieu Caribon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p><rs type="objectType">Block</rs> of stone, perhaps a stele, composed of two reunited fragments. The left and right edges are intact, but the top and broken are broken. The first line, if restored correctly, might indicate that we are at or near the top of the inscription. The back is roughly picked.</p>
+				<p><dimensions>
+					<height unit="cm">32.5</height>
+					<width unit="cm">24</width>
+					<depth unit="cm">18.5</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Stoichedon 22. </p> 
+				<p>Letters: <height unit="mm">14</height>.
+			</p></layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0375">ca. 400-375 BC</origDate></p>
+			<p><desc>Justification: lettering and stoichedon style (Graf).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Chios" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550497" type="external">Chios</ref></placeName>. Exact findspot unknown. The two fragments are now in Chios Museum (inv. nos. 57 and 79).
+		</p></provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Graf 1985">Graf 1985</bibl>: 431, I.Chios 6, with additional restorations from Sokolowski.</p>
+					<p>First edition: <bibl type="author_date" n="Plassart - Picard 1913">Plassart - Picard 1913</bibl>: 194-202 no. 20, with ph. and squeeze.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 77.</p>
+						</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb xml:id="line_1" n="1"/><supplied reason="lost">ὁ</supplied> <w lemma="πρίαμαι"><supplied reason="lost">πριάμενος</supplied></w> <name type="personnel"><w lemma="ἱεράομαι"><supplied reason="lost">ἱεράσθ</supplied>ω</w></name> <w lemma="ἕως">ἕως</w> <w lemma="ζωή">ζω
+	    				
+<lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">ῆ</supplied><unclear>ς</unclear></w> καὶ <w lemma="ἕως">ἕ<unclear>ω</unclear><supplied reason="lost">ς</supplied></w> <supplied reason="lost">ἂν</supplied> <name type="structure"><w lemma="οἰκέω"><supplied reason="lost">οἰκῆι</supplied></w></name> <w lemma="ἐν"><supplied reason="lost">ἐ</supplied>ν</w> <name type="locality"><w lemma="ἄστυ">ἄστ<add>ε</add>ι</w></name>,
+	    					
+<lb xml:id="line_3" n="3"/><w lemma="ἀτελής">ἀτελὴς</w> <w lemma="εἰμί">ἔ<supplied reason="lost">στω</supplied></w> <gap reason="lost" quantity="6" unit="character"/><orig>ος</orig> <w lemma="πᾶς">πάντ
+	    						
+	<lb xml:id="line_4" n="4" break="no"/>ων</w> καὶ <name type="portion"><w lemma="προλαμβάνω">προλ<supplied reason="lost">αμβανέ</supplied>τω</w></name> <w lemma="αὐτός">αὑτῶι</w>
+	    					
+<lb xml:id="line_5" n="5"/>καὶ <w lemma="παρά">παρὰ</w> το̑ τὰ <name type="sacrifice"><w lemma="ἱερός">ἱ<unclear>ε</unclear><supplied reason="lost">ρ</supplied>ὰ</w></name> <name type="sacrifice"><w lemma="ποιέω">ποιο̑ντο
+	    					
+<lb xml:id="line_6" n="6" break="no"/>ς</w></name> <name type="portion"><w lemma="σπλάγχνον">σπλάγχνα</w></name> τὰ <w lemma="εἰς">ἐς</w> <name type="object"><w lemma="χείρ"><supplied reason="lost">χ</supplied>εῖρας</w></name> καὶ
+	    					
+<lb xml:id="line_7" n="7"/><name type="object"><w lemma="γόνυ">γούνατα</w></name> καὶ <name type="portion"><w lemma="γλῶσσα">γλῶ<supplied reason="lost">σ</supplied>σαν</w></name> καὶ <name type="portion"><w lemma="κρέας">κρ
+	    					
+<lb xml:id="line_8" n="8" break="no"/>εῶν</w></name> <w lemma="δύο">δύο</w> <name type="portion"><w lemma="μοῖρα">μοίρας</w></name> <name type="portion"><w lemma="δίκρεας">δ<supplied reason="lost">ί</supplied>κρεως</w></name> καὶ
+	    					
+<lb xml:id="line_9" n="9"/><name type="bakery"><w lemma="Ἑρμῆς">ἑρμέας</w></name> καὶ <name type="vegetal"><w lemma="θύος"><unclear>θ</unclear>ύα</w></name> <w lemma="ἀπό">ἀ<supplied reason="lost">φ’</supplied></w> ὧν ἂν <name type="sacrifice"><w lemma="θύω">θύηι</w></name>
+	    				
+<lb xml:id="line_10" n="10"/>καὶ <name type="meal"><w lemma="δεῖπνον">δεῖπνον</w></name> <w lemma="ἐν">ἐν</w> <name type="meal"><w lemma="ξενία"><supplied reason="lost">ξε</supplied>νίηι</w></name>· ἢν δὲ
+	    					
+<lb xml:id="line_11" n="11"/>ἡ <name type="group"><w lemma="πόλις">πόλις</w></name> <w lemma="ποιέω">ποιῆι</w> <name type="meal"><w lemma="δεῖπνον">δ<supplied reason="lost">εῖ</supplied>πνον</w></name>, <w lemma="ἡμίεκτον">ἡμίε	    
+	    					
+<lb xml:id="line_12" n="12" break="no"/>κτον</w> <name type="object"><w lemma="χρυσός">χρυσο̑</w></name> <w lemma="δίδωμι">δί<supplied reason="lost">δοσ</supplied>θαι</w>· ἢν δὲ <name type="person"><w lemma="ξένος">ξ
+	    					
+<lb xml:id="line_13" n="13" break="no"/>εῖνος</w></name>, τά τε <w lemma="ἄλλος">ἄ<supplied reason="lost">λλα</supplied></w> <w lemma="κατά"><supplied reason="lost">κατὰ</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="παρά"><supplied reason="lost">πα</supplied>
+	    					
+<lb xml:id="line_14" n="14" break="no"/>ρὰ</w> το̑ <name type="ethnic" key="Chios"><w lemma="Χίος">Χίο</w></name> κα<supplied reason="lost">ὶ</supplied> <name type="portion"><w lemma="ἐπιδίδωμι"><supplied reason="lost">ἐπιδιδότω</supplied></w></name> ὁ <name type="person"><w lemma="ποιέω">πο
+	    					
+<lb xml:id="line_15" n="15" break="no"/>ιῶν</w></name> τὰ <name type="sacrifice"><w lemma="ἱερός">ἱερὰ</w></name> <gap reason="lost" quantity="11" unit="character"/><supplied reason="lost">τῶ</supplied>
+	    					
+<lb xml:id="line_16" n="16" break="no"/>ι <name type="personnel"><w lemma="ἱερεύς">ἱερέωι</w></name> <gap reason="lost" quantity="15" unit="character"/>
+	    				
+<lb xml:id="line_17" n="17"/><gap reason="lost" quantity="4" unit="character"/><orig>Ρ</orig><gap reason="lost" quantity="17" unit="character"/>
+	    					<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						[The purchaser will serve as priest] for life and as long as [he dwells] in the city. Let him be exempt from all [...] and let him receive for himself (5) also from the one making the offerings: the entrails (placed) onto the hands and knees (of the statue) and a tongue and of meat two double-portions of meat and 'Hermes-cakes' and burnt-offerings from which one makes smoke (10) and a meal during the reception. If the city holds a feast, a <foreign>hemiekton</foreign> of gold (i.e. 8 obols) is given. If a stranger (holds a feast), the same things as from a Chian and [let the one making] (15) the offerings [give ... in addition ...] to the priest [...]
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p> [L'acquéreur servira de prêtre] à vie et aussi longtemps [qu'il habitera] dans la ville. Qu'il soit exempt de toutes [...] et qu'il reçoive également pour lui-même (5) de celui qui fait les offrandes : les viscères (placés) dans les mains et sur les genoux (de la statue), une langue, deux portions doubles de viande, des 'gâteaux-Hermès', des offrandes à brûler dont on fait des fumigations (10) et un repas au cours d'une réception. Si la cité organise un repas, un demi-setier d'or (c'est-à-dire 8 oboles) lui sera donné. Si un étranger (organise un repas), les même choses que d'un habitant de Chios et [que celui qui fait] (15) les offrandes [donne aussi ...] au prêtre [...] 	
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						<p>The text has been interpreted as a contract for the sale of priesthood, of which several examples are known from Chios; cf. <ref target="http://cgrn.ulg.ac.be/CGRN_37/">CGRN 37</ref> for an early example. This depends  on the restoration of the word πριάμενος in line 1, which is nevertheless highly likely given the Chian context, the abundant benefits awarded to the priest (notably the lacunose but apparently extensive exemptions from taxation or liturgies, cf. lines 3-4), and the duration of the contract for life (lines 1-2, a common feature in such sales). Mention of the divinity or divinities with which this priesthood was concerned is missing and may have been mentioned in line 1 or in earlier lines if missing. A male god is perhaps likely given that the priest appears to be male (αὐτῶι, line 4; ἱερέωι, line 16); the offering of 'Hermes-cakes' (see below at lines 4-10) suggests that the cult of Hermes is a good possibility (however cp <ref target="http://cgrn.ulg.ac.be/CGRN_76/">CGRN 76</ref>, lines 12-13, 22). Generally speaking, it may be inferred that the cult in question was important to the city and sold by the city: the priest is required to remain a resident in the city of Chios (line 2; cp. other requirements that purchasers of priesthoods be citizens, for instance at Halikarnassos, <ref target="http://cgrn.ulg.ac.be/CGRN_118/">CGRN 118</ref>, lines 4-8); he receives an allowance from the city during important feasts and meals connected with rites of hospitality, and also benefits from the meals organised by foreigners (lines 10-14).</p>	
+				
+<p> Lines 1-2: We might have expected ἕως ἄν ζώηι (<ref target="http://cgrn.ulg.ac.be/CGRN_98/">CGRN 98</ref>, Erythrai, lines A5-6) or ἐπὶ ζωῆς (<ref target="http://cgrn.ulg.ac.be/CGRN_118/">CGRN 118</ref>, line 8, and <ref target="http://cgrn.ulg.ac.be/CGRN_119/">CGRN 119</ref>, line 3, both from Halikarnassos).</p>
+		
+<p> Lines 4-10: Apart from the exemptions of taxes and liturgies (now missing), the extensive list of prerogatives forms the core of the benefits for the priest and this list matches others found on Chios relatively well. It would seem that these prerogatives are to be attributed to the priest irrespectively of who performs the sacrifice (the city, another group, or a private individual). For the entrails which were placed into the hands and on the knees of a statue as part of the cult—a common expression on Chios—see here <ref target="http://cgrn.ulg.ac.be/CGRN_36/">CGRN 36</ref>, lines 4-6, <ref target="http://cgrn.ulg.ac.be/CGRN_50/">CGRN 50</ref>, lines 3-4, <ref target="http://cgrn.ulg.ac.be/CGRN_66/">CGRN 66</ref>, lines 3-4, and <ref target="http://cgrn.ulg.ac.be/CGRN_88/">CGRN 88</ref>, lines 2-3. For the tongue and its prevalence as a priestly portion on Chios, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_41/">CGRN 41</ref>, lines 11-12. For double portions of meat given to priests on Chios, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_50/">CGRN 50</ref>, line 8-9, and <ref target="http://cgrn.ulg.ac.be/CGRN_66/">CGRN 66</ref>, line 6-7. Here, it is probable that we in fact have a pair (δύο) of double portions—μοίρας δίκρεως—, thus yielding a large amount of meat for the priest. The priest additionally receives special cakes called Ἑρμῆς, literally 'Hermes'. According to Hsch. (s.v.), these were cakes shaped like a herald's staff (κηρυκεῖον). The priest also apparently received a shared meal during the feast of hospitality (ξενία).</p>
+	
+<p>Lines 10-16: Following on the mention of the feasts of ξενία, two alternatives are proposed, probably in the same context: whether the city holds a feast or a foreigner. In the first case, the priest is to receive a small stipend of gold equal to about 8 obols (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. ἡμιέκτον II), probably an amount sufficient to purchase a substantial portion. In the case of offerings made by a foreigner, the priest apparently received the same amount as well as additional portions (now missing).</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

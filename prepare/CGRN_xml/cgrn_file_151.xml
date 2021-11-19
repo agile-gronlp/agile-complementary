@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_151" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 151</idno>: Excerpts from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> of Halasarna on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> <rs type="objectType">Stele</rs> of white marble, crowned with a pediment and three akrotera, but broken at the bottom.</p>
+	<p><dimensions>
+	<height unit="cm">96.5</height>
+	<width unit="cm">33-36.5</width>
+	<depth unit="cm">7.5</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Letters: <height unit="cm">1.5</height>; round letters smaller: <height unit="cm">1.2</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0225" notAfter="-0200">ca. 225-200 BC</origDate></p>
+							
+							<p><desc>Justification: Hellenistic lettering and proposography (Hallof - Bosnakis; the son of Chairedemos, son of Damophon, is known to have been active around 180 BC, cf. <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 461, line 54).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found near the temple of Apollo at Halasarna. Now in the new storeroom in Kos town (inv. no. E 178).</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-07-2015 by J.M. Carbon</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 358.</p>
+	    			<p> Other edition: Kokkorou-Aleura <bibl type="abbr" n="Halasarna">Halasarna</bibl> no. 6, with ph. pl. 6.</p>
+	    		
+	    			
+	    			<p> Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 54, 744; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20358" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+	    			
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Van Straten 1995">Van Straten 1995</bibl>; <bibl type="author_date" n="Bosnakis - Hallof 2005">Bosnakis - Hallof 2005</bibl>; <bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 189-220, esp. 214-219.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			
+<ab>
+<lb xml:id="line_1" n="1"/><w lemma="ὅδε">τάδε</w> <w lemma="ἀναγράφω">ἀνέγραψαν</w> τοὶ <name type="person"><w lemma="ἀνήρ">ἄνδρες</w></name>		
+	
+<lb xml:id="line_2" n="2"/>τοὶ <name type="title"><w lemma="αἱρέω">αἱρεθέντες</w></name>, Νικόμαχος
+	
+<lb xml:id="line_3" n="3"/>Τιμαινέτου, Ἀρίσταιχμος
+	
+<lb xml:id="line_4" n="4"/>Ἀρισταρχίδα, Χαιρέδαμος
+	
+<lb xml:id="line_5" n="5"/>Δαμοφῶντος, ἃ <name type="sacrifice"><w lemma="θύω">θύει</w></name> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name>
+	
+<lb xml:id="line_6" n="6"/>τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνος</w></name> <w lemma="κατά">καθ’</w> <w lemma="ἕκαστος">ἕκαστον</w>
+	    					
+<lb xml:id="line_7" n="7"/><w lemma="ἐνιαυτός">ἐνιαυτόν</w>· <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ὑακίνθιος">῾Υακινθίου</w></name> <space quantity="1" unit="character"/>
+	
+<lb xml:id="line_8" n="8"/><w lemma="δωδέκατος">δυωδεκάται</w>, <name type="deity" key="Hestia"><w lemma="ἑστία">Ἱστίαι</w></name> <name type="epithet" key="Phamia"><w lemma="φήμη">Φαμίαι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name>
+	
+<lb xml:id="line_9" n="9"/><name type="gender"><w lemma="ἄρσην">ἔρσενα</w></name>, <w lemma="οὗτος">τούτου</w> <name type="meal"><w lemma="ἀποφορά">ἀποφορὰ</w></name> <space quantity="6" unit="character"/>
+	
+	<lb xml:id="line_10" n="10"/><w lemma="">ἐς</w> <name type="structure"><w lemma="Τιμαχεῖον">τιμαχεῖον</w></name>· <name type="person"><w lemma="γυνή">γυναιξὶν</w></name> <w lemma="οὐ">οὐχ</w> <name type="authority"><w lemma="ὁσία">ὁ<surplus>υ</surplus><space quantity="1" unit="character"/> 
+
+<lb xml:id="line_11" n="11" break="no"/>σία</w></name> <pc>⋮</pc> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="gender"><name type="age"><w lemma="τέλειος">τέλεων</w></name></name>,
+	
+<lb xml:id="line_12" n="12"/><name type="deity" key="Hestia"><w lemma="ἑστία">Ἱστίαι</w></name> <name type="epithet" key="Timacheia"><w lemma="τιμαχεῖος">Τιμαχείαι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <pc>⋮</pc> <w lemma="ἔνατος">ἐνάται</w>
+	
+<lb xml:id="line_13" n="13"/><w lemma="πρό">πρὸ</w> <w lemma="εἰκάς">ἰκάδος</w>, <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> <name type="age"><name type="gender"><w lemma="τέλειος">τέλεων</w></name></name>
+	
+<lb xml:id="line_14" n="14"/>καὶ <name type="gender"><name type="age"><w lemma="τέλειος">τελέαν</w></name></name>· <w lemma="οὗτος">ταῦτα</w> <name type="meal"><name type="portion"><w lemma="διαιρέω">διαιρεῖται</w></name></name> <space quantity="1" unit="character"/>
+	
+<lb xml:id="line_15" n="15"/>τοῖς <name type="group"><w lemma="δημότης">δαμόταις</w></name> <w lemma="πᾶς">πᾶσιν</w> <pc>⋮</pc> <name type="deity" key="Dioskouroi"><w lemma="Διόσκοροι">Διοσκόροις</w></name>
+	
+<lb xml:id="line_16" n="16"/><name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <name type="gender"><w lemma="ἄρσην">ἔρσενα</w></name> <pc>⋮</pc> <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <name type="epithet" key="Soter"><w lemma="σωτήρ">Σωτῆρι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <name type="gender"><w lemma="ἄρσην">ἔρσενα</w></name>.
+	
+<lb xml:id="line_17" n="17"/><name type="month"><w lemma="Κάρνειος">Καρνείου</w></name> <w lemma="ἔνατος">ἐνάται</w> <w lemma="ἵστημι">ἱσταμένου</w>, <space quantity="3" unit="character"/>
+	
+<lb xml:id="line_18" n="18"/><name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδίται</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <pc>⋮</pc> <w lemma="διχομηνία">διχομηνίαι</w>, <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτά
+	
+<lb xml:id="line_19" n="19" break="no"/>μιτι</w></name> <name type="epithet" key="Agrotera"><w lemma="ἀγρότερος">Ἀγροτέραι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερε<supplied reason="omitted">ῖ</supplied>ον</w></name> <pc>⋮</pc> <name type="deity" key="Hekate"><w lemma="Ἑκάτη">Ἑκάται</w></name> <space quantity="1" unit="character"/>
+	
+<lb xml:id="line_20" n="20"/><name type="epithet" key="Stratia"><w lemma="στράτιος">Στρατίαι</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <name type="age"><name type="gender"><w lemma="τέλειος">τελείαν</w></name></name> <pc>⋮</pc> <w lemma="ἑκκαιδεκάς">ἑκκαιδε
+	
+<lb xml:id="line_21" n="21" break="no"/>κάται</w>, <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <name type="epithet" key="Polieus"><w lemma="Πολιεύς">Πολιεῖ</w></name> <w lemma="ἐν">ἐν</w> <name type="locality"><w lemma="ἀκρόπολις">Ἀγροπόλι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name>
+	
+<lb xml:id="line_22" n="22"/><name type="age"><name type="gender"><w lemma="τέλειος">τέλεων</w></name></name>· <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθάναι</w></name> <name type="epithet" key="Polias"><w lemma="Πολιάς">Πολιάδι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <space quantity="2" unit="character"/>
+	
+<lb xml:id="line_23" n="23"/><name type="gender"><name type="age"><w lemma="τέλειος">τελείαν</w></name></name>, <w lemma="παρά">παρ’</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <w lemma="ἑκάτερος">ἑκατέρωι</w>
+	
+<lb xml:id="line_24" n="24"/>τῶν <name type="deity" key="Zeus"><name type="deity" key="Athena"><w lemma="θεός">θεῶν</w></name></name>· <w lemma="οὗτος">τούτων</w> <w lemma="οὐ">οὐκ</w> <name type="meal"><w lemma="ἀποφορά">ἀποφορά</w></name>·
+	
+<lb xml:id="line_25" n="25"/><w lemma="εἰκάς">ἰκάδι</w>, <name type="deity" key="Hekate"><w lemma="Ἑκάτη">Ἑκάται</w></name> <name type="epithet" key="Meliteina"><w lemma="Μελιτείνος">Μελιτείναι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name>.
+	
+<lb xml:id="line_26" n="26"/><name type="month"><w lemma="θεοδαίσια">Θευδαισίου</w></name> <w lemma="ἑκκαιδεκάς">ἑκκαιδεκάται</w>, <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλω
+	
+	<lb xml:id="line_27" n="27" break="no"/>νι</w></name> <name type="age"><name type="gender"><w lemma="τέλειος">τέλεων</w></name></name> καὶ <name type="age"><name type="gender"><w lemma="τέλειος">τελείαν</w></name></name> <pc>⋮</pc> <name type="deity" key="Leto"><w lemma="Λητώ">Λατοῖ</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖ
+		
+		<lb xml:id="line_28" n="28" break="no"/><supplied reason="lost">ον</supplied></w></name> <gap reason="lost" quantity="5" unit="character"/><orig>ι</orig> <name type="festival"><w lemma="Πυθαΐς">Πυθηΐδι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <name type="age"><name type="gender"><w lemma="τέλειος">τελείαν</w></name></name>· <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> 
+		
+<lb xml:id="line_29" n="29"/><name type="epithet" key="Soter"><w lemma="σωτήρ"><supplied reason="lost">Σωτῆρι</supplied></w></name><supplied reason="lost">,</supplied> <name type="deity" key="Athena"><w lemma="Ἀθήνη"><supplied reason="lost">Ἀθά</supplied>ναι</w></name> <name type="epithet" key="Soter"><w lemma="σωτήρ">Σωτείραι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱ
+		
+<lb xml:id="line_30" n="30" break="no"/><supplied reason="lost">ερεῖον</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="generic"><w lemma="ἱερεῖον"><supplied reason="lost">ἱε</supplied>ρεῖ<supplied reason="lost">ον</supplied></w></name>
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					 
+<p>The men chosen—Nikomachos son of Timainetos, Aristaichmos son of Aristarchidas, Chairedemos (5) son of Damophon—have written up the following sacrifices, which the priest of Apollo makes every year:</p>
+					
+<p>On the 12th of the month of Hyakinthios, to Hestia Phamia, a male sheep, take-away from this (is allowed) (10) to the Timacheion, not religiously sanctioned for women; to Apollo an adult animal, to Hestia Timacheia an animal.</p>
+					
+<p>On the 19th: to Apollo an adult male (animal) and an adult female (animal), these are divided for (distribution among) (15) all the demesmen; to the Dioskouroi a male sheep; to Zeus Soter a male sheep.</p>
+					
+<p>On the 9th of Karneios: to Aphrodite a goat.</p>
+					
+<p>On the 15th: to Artemis Agrotera an animal; to Hekate (20) Stratia an adult she-goat.</p>
+					
+<p>On the 16th: to Zeus Polieus on the acropolis an adult male sheep, to Athena Polias an adult ewe; in alternate year, sacrifice to one of the two gods. No take-away from these (is allowed).</p>
+					
+<p>(25) On the 20th: to Hekate Meliteina an animal.</p>
+					
+<p>On the 16th of Theudaisios: to Apollo an adult male animal and an adult female animal; to Leto an animal [... during?] the Pytheis an adult ewe; to Zeus [Soter], to Athena Soteira an (30) [animal ..., to ...] an animal [...] </p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+
+<p>Les hommes qui ont été choisis — Nikomachos fils de Timainetos, Arsitaichmos fils d'Aristarchidas, Chairedemos (5) fils de Damophon — ont transcrit les sacrifices suivants, que le prêtre d'Apollon accomplit chaque année :</p>
+					
+<p>Le 12 du mois Hyakinthios, à Hestia Phamia, un mouton mâle adulte; on en emporte (les viandes) (10) au Timacheion; ce n'est pas religieusement permis aux femmes; à Apollon, un animal sacrificiel adulte; à Hestia Timacheia, un animal.</p>
+					
+<p>Le 19 : à Apollon, un mâle adulte et une femelle adulte; ils sont répartis (15) entre tous les démotes; aux Dioscures, un mouton mâle; à Zeus Soter, un mouton mâle.</p>
+					
+<p>Le 9 Karneios : à Aphrodite, un caprin.</p>
+					
+<p>Au milieu du mois, à Artémis Agrotera, un animal; à Hécate (20) Stratia, une chèvre adulte.</p>
+					
+<p>Le 16 : à Zeus Polieus, sur l'acropole, un mouton mâle adulte, à Athéna Polias, une brebis adulte; (sacrifice) à l'un des dieux une année sur deux; on n'en emporte pas (les viandes).</p>
+					
+<p>(25) Le 20 : à Hécate Meliteina, un animal.</p>
+
+<p>Le 16 Theudaisios : à Apollon, un animal mâle adulte et une femelle adulte; à Léto, un animal [... durant ?] la Pytheis, une brebis adulte; à Zeus [Soter], à Athéna Soteira, un (30) [animal ..., à ...] un animal [...]</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+												
+<p>This regulation, though relatively unique in its focus on the timing of the duties of a single priest, that of Apollo, matches a number of documents in the present Collection, which also present (usually shorter) excerpts from a sacrificial calendar, that were displayed at the relevant cult-site for a deity (early examples come notably from Thera, <ref target="CGRN_47">CGRN 47</ref>, and especially from Rhodes, e.g. <ref target="CGRN_62">CGRN 62</ref> and <ref target="CGRN_63">CGRN 63</ref>). In this case, we find a much longer series of excerpts, all of which are concerned with sacrifices to be performed by the important priest of Apollo at Halasarna; these presumably derived <foreign>verbatim</foreign> from the codified sacrificial calendar of the deme, which is no longer extant (for sacrificial calendars of the demes on Kos, see here <ref target="CGRN_146">CGRN 146</ref>, for that of Phyxa, and <ref target="CGRN_162">CGRN 162</ref>, for Isthmos).  Given the findspot, it seems that the rules were appropriately set up in this sanctuary of Apollo, presumably as an official reminder for the priest (on the sanctuary of Apollo at Halasarna, see Paul, p. 190-196). Intriguingly, the document is only prefixed by a short preamble (lines 1-7), indicating that a commission of three men was responsible for its inscribing. While we cannot be sure about the exact context of the regulation, it appears to be an official document of the deme, no doubt resulting from an official measure such as a decree; moreover, the fact that a commission of three men was chosen for this purpose, just as was often the practice in sales of priesthoods (see Paul, p. 214, with n. 120), might indicate that the advertisement of the sale of the priesthood of Apollo at Halasarna was also the occasion for the inscribing of this stele with his duties. For other documents from the deme of Halasarna, see here <ref target="CGRN_145">CGRN 145</ref>, from the tribe of the Elpanoridai and with some discussion of the deme itself.</p>
+						
+<p>A few comments on the layout and the structure of the calendar must be made. The document is carefully presented: until about line 26, an effort was made to respect word-division, with only a few exceptions (lines 10 and 18); furthermore, each excerpt from the calendar conforms to a typical and coherent form: a month is mentioned in the genitive, followed by a date in the dative, a deity also in the dative, followed by an offering in the accusative and other details, if any, concerning the sacrifice (on the formulary of sacrificial calendars, see here <ref target="CGRN_1">CGRN 1</ref>, Corinth, and <ref target="CGRN_6">CGRN 6</ref>, Miletos). The month of Karneios of and Theudaisios appropriately begin at the left margin (lines 17 and 26); whenever a new date within the month is introduced, this is also either at the margin (line 25) or prefixed by triple interpuncts (⋮). The interpuncts also sometimes separate sacrifices to different gods taking place on the same day (lines 11, 15, 16), but do not do so in lines 21-22 describing sacrifices for Zeus Polieus and Athena Polias: this is probably an indication of the close connection between these gods and signals that the sacrifices took place during one sacrificial occasion (perhaps in the same sanctuary). In line 12, a separate sacrifice starts at the left margin. These observatins beg the question of the reason for a perhaps missing interpunt at the end of line 28, before Διί. Since such punctuation is unusual in Hellenistic inscriptions, it may be thought of as a sure indicator that the entries derive from a traditional sacrificial calendar of the deme. The calendars excerpts are now incomplete, since an unknown number of dates is missing at the bottom. That being said, the order of presentation of the three months preserved here has caused surprise among commentators; this is Hyakinthios (month 8 in Kos town) - Karneios (month 12) and Theudaisios (month 1), with perhaps a further six months missing after Theudaisios; on the calendar of Kos, see Bosnakis - Hallof 2005. Paul views the order presented in our document as "étonnant" and "aléatoire pour une raison inconnue" (p. 214). In fact, it is possible to arrive at a suitable explanation for the order of the months presented here. We know that the calendars of demes usually followed those of the city (this is the case in Athens, for instance; see here e.g. <ref target="CGRN_32">CGRN 32</ref>, Thorikos). The calendars of other civic subdivisions also naturally used the order of the months in the civic calendars, but often observed a different starting-point for the ritual year. This is the case, for instance, with the <foreign>genos</foreign> of the Salaminioi in Athens, whose calendar began in Mounychion, rather than in the expected month of Hekatombaion (<ref target="CGRN_84">CGRN 84</ref>, line 85; cp. also <ref target="CGRN_21">CGRN 21</ref>, also from Athens). We could reasonably make the hypothesis that, at Halasarna, the month Hyakinthios was presented first because, by contrast with the city of Kos, it was the month that came first in the political and ritual year of the deme. Indeed, the importance of the month Hyakinthios in the deme is clear: one of the only dated decrees of the deme from this period (mid-third century BC) belongs to this month (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 92) and, more crucially, a slightly later decree of the three tribes at Halasarna is also dated to this month (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 103, ca. 180 BC), which explicitly specifies that the inscribing of the resident members of the community (participants in the rites of the deme's sanctuaries of Apollo and Heracles) were to be registered from the third of Hyakinthios (thus, we may infer, very near the start of the local year for the community and at a time when most demesmen and tribesmen were expected to be present) until the 30th of Alseios (nearly four months later). Therefore, it will have seemed perfectly natural for this deme document to present Hyakinthios as the first month here in the list of sacrifices.</p>
+						
+<p>Furthermore, it should not come as a surprise that several months in the excerpts presented here were omitted: only the specific occasions where the priest of Apollo had duties needed to be cited, and so the months 9-11, Panamos - Dalios - Alseios, falling between Hyakinthios and Karneios, were entirely skipped over (as perhaps other months in the missing part of the excerpts). Perhaps the excerpts were also not completely exhaustive of the duties of the priest of Apollo, being concerned with only those sacrifices that the priest of Apollo needed to make in connection with other cults and other gods, not with rituals for Apollo specifically; for the puzzling question of the Pythaia, probably falling in Dalios (a month omitted here), see below at lines 26-30. A particularly interesting comparison may also be suggested with the sale of the priesthood of Aphrodite at Halasarna, here <ref target="CGRN_131">CGRN 131</ref> (3rd or 2nd century BC), which notably concerns the sacrifices to be performed by the priest of Apollo for the goddess Aphrodite. Since these sacrifices for Aphrodite there take place on the 7th and 9th of Panamos (lines 1-5, though the reading of the month partly depends on a restoration), we could possibly infer that, since these sacrifices are not at all mentioned in the present regulation (again, the months Panamos - Dalios - Alseios, falling between Hyakinthios and Karneios, appear to be omitted in the present text), the measures concerning the cult of Aphrodite may have been passed after the present excerpts from the calendar were posted in the sanctuary of Apollo (indeed, <ref target="CGRN_131">CGRN 131</ref> may date to later in the 2nd century BC); however, it is interesting to note that a sacrifice to Aphrodite is already attested here on the 9th of Karneios (lines 17-18).</p>
+						
+						
+<p>Lines 8-12 (12 Hyakinthios): This seems to be major occasion at Halasarna, involving sacrifices to two different manifestations of Hestia as well as to Apollo, which was followed by a feast at one of the major political and religious buildings of the deme. The Timacheion was the seat of the <foreign>timachoi</foreign>, a group of probably important political officials in the deme of Halasarna (see <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 91, line 4, ca. 250 BC). On the goddess Hestia Phamia, also worshipped at a shrine in Kos, cf. the civic sacrificial calendar, <ref target="CGRN_86">CGRN 86</ref> A, line 29 (19 Batromios); for the potentially comparable cult of the goddess Phama on Rhodes, cf. <ref target="CGRN_112">CGRN 112</ref> (Kamiros), with further references to other relevant cults. As Paul rightly explains (p. 215-216), the sacrifice to Phamia is to be seen as taking place first in her sanctuary (or the sanctuary of Apollo); from there, the meat of the animal could be taken to the Timacheion, where a further pair of sacrifices take place, to Apollo and to Hestia Timacheia. For "no take-away" rules or the reverse (a positive formulation sanctioning the carrying away of meat for consumption at home), as we find here, see again <ref target="CGRN_86">CGRN 86</ref> A, lines 46, 56, 59 61, 63; Aa, line 3; C, line 2; D, lines 4, 8, 10, 24 (in Kos); elsewhere cf. <ref target="CGRN_32">CGRN 32</ref> (Thorikos), with the commentary on lines 10-12, <ref target="CGRN_52">CGRN 52</ref> (Erchia), <foreign>passim</foreign>, and the discussion in Van Straten p. 145. The meat from all of these sacrifices would thus have been consumed by the priest of Apollo, the <foreign>timachoi</foreign> and perhaps others, thus constituting a small feast within this structure. Women are understandably prohibited in this environment of male politics (on exclusions of women from sacrifices, cf. here <ref target="CGRN_33">CGRN 33</ref>, Elateia. For the interdiction γυναιξὶ / γυναικὶ οὐχ ὁσία, cp. here: <ref target="CGRN_62">CGRN 62</ref> and <ref target="CGRN_63">CGRN 63</ref>, both from Lindos. A comparable Ionic interdiction found on Delos: ξένωι οὐχ ὁσίη ἐσι[έναι] (<bibl type="abbr" n="ID">ID</bibl> 68a) shows that the form here is the noun ἡ ὁσία rather than a substantivized form of the adjective ὅσιος: (τὰ) ὅσια (contrary to the editions of Kokkorou-Aleura and <bibl type="abbr" n="IG XII.4">IG XII.4</bibl>. It is also noteworthy that Hestia Phamia receives the sacrifice of an explicitly male animal (the gender of the animal offered to Hestia Timacheia, however, remains unclear).</p>
+												
+<p>Lines 12-16 (19 Hyakinthios): Three sacrifices are again envisaged on this date: first, one to Apollo, which is to be followed by a distribution of portions of meat "to all the demesmen"; next, to the Dioskouroi; and finally, to Zeus Soter. Since all three sacrifices are separated by punctuation, they may be envisaged as taking place on the same day, but separately, in the respective sanctuaries for each of these gods (or in the sanctuary of Apollo, as Paul suggests, p. 218-219; in this case, perhaps in different areas of that sanctuary). That being said, Paul aptly suggests (p. 216) that all three sacrifices are united by the theme of "safety" or "salvation": the Dioskouroi (elsewhere often qualified as Soteres) and Zeus Soter are particularly significant in this regard. The distribution of meat to all of the citizen members of the community of Halasarna may naturally be linked to a ritual occasion seeking to protect the deme and its inhabitants. However, we cannot follow Paul (see also p. 200) in assessing the distribution "to all of
+the demesmen" in the light of <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 103, the decree of the three tribes from Halasarna, concerned in lines 86-90 with portions distributed according to a newly established registry for the sanctuaries of Apollo and Heracles; this decree is dated to ca. 180 BC, and thus seems to add provisions which are later and not yet anticipated in the traditional calendar excerpts inscribed in our late-third-century document. The Dioskouroi are only attested in one other instance on Kos, on a domestic altar (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 406).</p>
+						
+<p>Lines 16-17 (9 Karneios): Sacrifices to Aphrodite are also attested on the 9th of the month Panamos (see above); the date may have been in some way significant for the goddess according to local tradition. No sacrifices fall between this date and the following date of the 15th, probably for a good reason, since the 11th-12th (or possibly more) was the time of the Karneia in the city of Kos, cf. <ref target="CGRN_86">CGRN 86</ref> D, lines 10-27.</p>
+						
+<p>Lines 17-20 (15 Karneios): Sacrifices to Artemis Agrotera and to Hekate Strateia take place at the new full moon. Among other hypotheses, Paul (p. 216-217) rightly underlines the connection of both goddesses with the sphere of war; since both were also connected with the moon in some myths, they form an appropriate pair to receive cult separately (punctuation) but also in tandem on the Full Moon. That being said, we do not fully understand the precise occasion on which they were worshipped at Halasarna. For the worship of Artemis Agrotera at Eleutherna in the present Collection, cf. <ref target="CGRN_210">CGRN 210</ref>, lines A14 and D5. For Hekate Stateia and her connection with the priest of Apollo, note in particular the multiple dedications to the goddess set up by this priest and the <foreign>hieropoioi</foreign>, <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 624-632 (all similarly dating to the end of the 3rd century BC, showing the importance of this god in this period).</p>
+						
+<p>Lines 20-24 (16 Karneios): Paul (p. 217-219) discusses the intriguing spread of the cult of Zeus Polieus and Athena Polias to the demes, of which Halasarna is the first case; the sanctuaries of these gods may have been located on the local acropolis (the hill called Tholos), though they have not yet been identified; for the major sacrifices to Zeus Polieus and Athena Polias in Batromios at Kos, see here <ref target="CGRN_86">CGRN 86</ref> A. On the acropolis of Halasarna, where several cultic buildings were apparently located, see also <ref target="CGRN_131">CGRN 131</ref>, lines 14-15 (some to be opened by the priest of Apollo, it would seem). An alternative is that the reference was in fact to the acropolis of Kos itself, but it is noteworthy that the sacrifices specified at Halasarna, though they partly "mirror" those of the city, also differ from them, forming a strange biennial cycle: Zeus received apparently his animal in one year, Athena her sacrifice in the next.</p>
+						
+<p>Line 25 (20 Karneios): Paul finds (p. 218) this further sacrifice to Hekate called Meliteina a further indication of the popularity of this goddess at Halasarna. The epithet is perhaps unknown (so <title>IG</title>) or may be restored for Aphrodite in an altar from Thera (<bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 1332, so Paul, p. 218 n.140). It is not clear, though it is possible, that the epithet refers to "honey" and was thus an euphemistic "softening" of the goddess' fearsome aspect (the reference might also apply to the ritual sphere, for instance to libations of honey, cp. e.g. the cult of Zeus Meilichios, discussed at <ref target="CGRN_13">CGRN 13</ref>, Selinous).</p>	
+						
+<p>Lines 26-30 (16 Theudaisios): This date apparently constituted another significant occasion in the deme. As Paul notes (p. 218), however, it is not completely clear if the sacrifice(s) to Zeus Soter and Athena Soteira, which seem(s) to fall on this day (along with perhaps others missing in line 30 and beyond), are to be closely tied with the sacrifice for Apollo and Leto. This latter sacrifice is particularly intriguing and raises some problems for the overall interpretation of the sacrifices to Apollo at Halasarna. The mention of the word Pytheis is puzzling. Strangely presented in Ionic form, instead of as Pythais, this might refer to an epithet, or to a festival or procession according to <title>IG</title> (followed by Paul). In the former case, it might for instance belong to a goddess such as Hekate or Hestia (Artemis Pytheie is occasionally found, but cannot work as a restoration here, because it is too long); this would be suitable, but the epithet in this form is unattested. In the latter, however, the question is what festival occasion is referred to. Hallof and Bosnakis plausibly suppose that the festival of Apollo Pythios at Halasarna, the Pythaia, in fact took place on 17-18 Dalios. This hypothesis is based on a decree of Halasarna passed in the month Dalios that mentions celebrations for Apollo and as well as a period lasting two days (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 94; cf. line B6); as well as on <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 363, which concerned the proclamations of crowns during the Pythaia at Halasarna on the 17th and 18th days of an unknown month (thus, again a two-day period). If this is correct, it would notably entail that those sacrifices and that festival were not mentioned in the present regulation, perhaps (though not certainly) because they were exclusively concerned with the cult of Apollo and not with other gods (see also above). We would be forced to conclude that there was another occasion than the 17-18 Dalios, the Pythaia, which was called by the very similar name Pytheis at Halasarna. To our mind, there are two alternative interpretations beyond the possibility of an epithet, neither of which is completely satisfactory, but both of which remain possible. First, neither of the decrees studied as evidence for 17-18 Dalios by Hallof and Bosnakis are completely conclusive about this date: an alternative would thus be that the Pythaia/Pytheis at Halasarna would take place around 16 Theudaisios, with crowns proclaimed for the contests on the two following days (17-18); the unusual variation in the name of the festival would remain a hurdle, however (for Pythais as the name of the local festival in Athens, see <bibl type="abbr" n="IG II²">IG II²</bibl> 1136). A second possibility is that the Pythais was indeed different from the Pythaia, and that rather than the festival of Apollo Pythios, it properly designated the time of the sending a <foreign>theoria</foreign> to Delphi (see notably <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. Πυθαΐς and cp. also the Pythaistai known in Athens, e.g. here <ref target="CGRN_52">CGRN 52</ref>, Erchia, col. Α, lines 24-37 + col. Γ, lines 32-38 + col. Ε, lines 32-47, 7-8 Gamelion); for the Koan <foreign>theoria</foreign> to Delphi in 278 BC, cf. <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 68). It is to be hoped that further evidence will help to clarify or resolve this issue.</p>
+						
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

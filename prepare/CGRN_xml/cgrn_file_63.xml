@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_63" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 63</idno>: Excerpt from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> at Lindos (concerning Zeus Amalos)</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of
+						consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support><p>Small <rs type="objectType">stele</rs> of Lartian marble, broken and worn in some areas, and especially at the right. The bottom is completely broken off. The top and left (and to some degree the right) sides are relatively intact.</p>
+									<p><dimensions>
+										<height unit="cm">18</height>
+										<width unit="cm">24.8</width>
+										<depth unit="cm">7</depth>
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout><p>Letters: <height unit="mm">17</height>; round letters: <height unit="mm">12-13</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0425" notAfter="-0375">ca. 400 BC</origDate></p>
+							<p><desc>Justification: lettering and dialect (Blinkenberg).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Lindos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589913" type="external">Lindos</ref></placeName>. Found during excavations on the Acropolis, below and to the east of the monumental stairway.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				
+				<p>Edition here based on Blinkenberg <bibl type="abbr" n="Lindos II">Lindos II</bibl> 26, with ph.</p>
+				
+				<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 89.</p>
+				
+				<p>Further bibliography: <bibl type="author_date" n="Segre 1951">Segre 1951</bibl>; 
+					<bibl type="author_date" n="Winand 1990">Winand 1990</bibl>; 
+					<bibl type="author_date" n="Badoud 2015">Badoud 2015</bibl>: 11-35;
+					<bibl type="author_date" n="Peels 2016">Peels 2016</bibl>: 204 with n. 141; 
+					<bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>: 192-197; 
+					<bibl type="author_date" n="Gabrielsen 2017">Gabrielsen 2017</bibl>; 
+					<bibl type="author_date" n="Carbon forthc.">Carbon forthc.</bibl>.</p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab>
+					
+<lb/><space extent="unknown" unit="line"/>
+					
+<lb xml:id="line_1" n="1"/><name type="month"><w lemma="Ὑακίνθιος"><unclear>Ὑ</unclear>ακιν<supplied reason="lost">θίο</supplied><unclear>υ</unclear></w></name> <w lemma="ἑνδέκατος">ἑνδε 
+						
+<lb xml:id="line_2" n="2" break="no"/>κάται</w> <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <name type="epithet" key="Amalos"><w lemma="Ἀμάλος">Ἀμαλῶ<supplied reason="lost">ι</supplied></w></name>
+					
+<lb xml:id="line_3" n="3"/><name type="animal" key="swine"><name type="gender"><w lemma="κάπρος">κάπρος</w></name></name> <name type="age"><w lemma="ἑξάμηνος">ἑξάμην<supplied reason="lost">ος</supplied></w></name>· 
+					
+<lb xml:id="line_4" n="4"/><name type="sacrifice"><w lemma="θύω">θύει</w></name> <name type="personnel"><w lemma="ἱεροθύτης">ἰαροθύτας</w></name>
+					
+<lb xml:id="line_5" n="5"/><name type="ethnic" key="unclear"><w lemma="Αἰγήλιος">Αἰγήλιο<unclear>ς</unclear></w></name>· <name type="person"><w lemma="γυνή">γυναιξὶ</w></name>
+					
+<lb xml:id="line_6" n="6"/><w lemma="οὐ">ο<supplied reason="omitted">ὐ</supplied>κ</w> <name type="authority"><w lemma="ὁσία">ὁσία</w></name>. <lb/><space quantity="1" unit="line"/>
+				</ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+<p> On the 11th of Hyakinthios: to Zeus Amalos, a six-month-old boar. The <foreign>hierothytes</foreign>, an Aigelian, sacrifices it. Not permitted to women. </p>
+			</div>
+
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+<p> Le 11 Hyakinthios : à Zeus Amalos, un verrat âgé de six mois. Le hiérothyte, un Aigélien, le sacrifie. Non autorisé pour les femmes. </p>
+			</div>
+
+			<div type="commentary">
+				<head>Commentary</head>
+				
+				<p>This document appears to be one of the earliest excerpts from the sacrificial calendar of Rhodes or from the sacrificial calendar of Lindos itself (the synoikism of Rhodes is traditionally dated to 408 BC and this inscription's relationship with that event, if any, remains unclear). See <ref target="CGRN_62">CGRN 62</ref> for a nearly contemporaneous parallel, with further discussion. For a discussion of excerpts from sacrificial calendars on the island of Rhodes, see Segre and Carbon. Cp. <ref target="CGRN_115">CGRN 115</ref> for a later example of such excerpts, also mentioning the personnel known as <foreign>hiarothytai</foreign> as sacrificial agents at Lindos.</p>
+				
+				<p>In the reconstruction of the Rhodian calendar refined by Badoud and generally adopted here (for a different view, see Iversen) Hyakinthios was the 11th month (ca. June/July). The date of the sacrifice cited here is otherwise unattested on Rhodes, and the recipient, Zeus Amalos, is not well-known either. The best analogies for the epithet are: 1 - the month at Delphi known as Amalios, which presumes an unattested festival called the Amalia (but this is thought to fall in January/February, a completely different season from the summertime Rhodian Hyakinthios); 2 - mention of a similar festival performed in honour of Zeus by Hsch. s.v. Ἀμμαλῶ. The etymology of the epithet remains wholly unclear, however (but see below on line 3).</p>
+				
+				<p>Line 3: The boar is qualified by what appears to be a minimum age requirement of six months. Van Straten (apud Peels) made the very appealing suggestion that a boar (<foreign>sus scrofa</foreign>) gradually loses its stripes during its youth. A six-month-old boar would therefore have had an altogether different appearance from the younger animal and could have been readily identified as such. Various religious motivations may be behind this prescription, such as indeed concerns about the colour and coat of the animal, or even a relation with a possible meaning of the epithet, since ἀμαλός can designate any 'young' or 'weak' animals. But there may also have been very practical reasons behind the age requirement, such as the desire to secure an older (and larger) animal which would therefore provide more meat.</p>
+				
+				<p>Lines 5-6: Aigelios appears to be an ethnic deriving from an otherwise unknown subdivision of Lindos, perhaps a <foreign>ktoina</foreign> (see Winand, and Gabrielsen; a deme of this name is known on Kos). For further interdictions concerning female participation found in the sacrificial calendar of Rhodes, see <ref target="CGRN_62">CGRN 62</ref>. On the semantics and usage of ἡ ὁσία cf. Peels. </p>
+			</div>
+		</body>
+	</text>
+</TEI>

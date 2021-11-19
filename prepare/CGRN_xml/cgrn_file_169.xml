@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_169" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 169</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> for Dionysus at Kallatis</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                    </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>Two fragments of a marble
+                            <rs type="objectType">plaque</rs>, originally proposed as belonging to the same text by their finder, Todilescu (1894). The two fragments were re-ordered by Avram (1995a), who proposed a new reading of this inscription, based on this composition of the fragments. As Avram noticed, the first line of the largest fragment (Fr. 1) must also be the beginning of the text, because the surface of the stone is unpolished above its first line (line 1 here; cf. also <title>SEG</title> 45, 914). This renders the order of the fragments given in Sokolowski impossible, since he placed the small fragment (Fr. 2) at least two lines above line 1 of the large fragment (Fr. 1). Avram's rearrangement of the small fragment (Fr. 2) at the right and bottom of the larger piece (Fr. 1) is uncertain, but plausible; cf. the extensive comments in his edition for further details.</p> 
+                            <p>Fragment 1: broken on the right side and below, but intact and unpolished above the extant text.
+                                Dimensions: <dimensions> 
+                                <height unit="cm">21.5</height>
+                                <width unit="cm">20</width>
+                                <depth unit="cm">6</depth>
+                                </dimensions></p>
+                            
+                            <p>Fragment 2: small piece, broken on all sides. Dimensions:
+                            <dimensions>
+                                <height unit="cm">11</height>
+                                <width unit="cm">8.5</width>
+                                <depth unit="cm">unknown</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout>
+                            <p>Letters: <height unit="mm">9</height>.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0200" notAfter="-0100">ca. 200-100 BC</origDate></p>
+                        <p><desc>Justification: lettering (Avram).</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Kallatis" n="Black_Sea"><ref target="http://pleiades.stoa.org/places/216744" type="external">Kallatis</ref></placeName>. Found at Mangalia (ancient Kallatis). It is unclear whether the two fragments were found together. They are now in the Museum of Bucarest (Fr. 1 = MNA inv. no. 1071 + Fr. 2 = no. 1068).</p>
+                    </provenance>
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by S Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                
+                <p> Edition here based on <bibl type="author_date" n="Avram 1995a">Avram 1995a</bibl>, but with more cautious and hesitant restorations.
+                    
+                </p>
+                <p> Other editions:                   
+                    <bibl type="author_date" n="Tocilescu 1887">Tocilescu 1887</bibl>: no. 38;
+                    <bibl type="author_date" n="Tocilescu 1894">Tocilescu 1894</bibl>: no. 43;
+                    Avram <bibl type="abbr" n="IScM III">IScM III</bibl> 47.
+                                    </p>
+                <p> Cf. also:
+                    von Prott <bibl type="abbr" n="LGS I">LGS I</bibl> 22; 
+                    Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 90; 
+                    <bibl type="abbr" n="SEG">SEG</bibl> 45, 914.
+                </p>
+                
+                <p> Further bibliography: 
+                    <bibl type="author_date" n="Robertson 1988">Robertson 1988</bibl>; 
+                    <bibl type="author_date" n="Jameson 1994">Jameson 1994</bibl>;
+                    <bibl type="author_date">Avram 1995b</bibl>; 
+                    <bibl type="author_date" n="Perpillou 2002">Perpillou 2002</bibl>; 
+                    <bibl type="author_date" n="Jaccottet 2003">Jaccottet 2003</bibl>; 
+                    Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> p. 164-165.
+                    
+               </p>
+               
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+<lb/><space extent="unknown" unit="line"/>
+
+                    <lb xml:id="line_1" n="1"/> <w lemma="ἐκ">ἐ<supplied reason="lost">κ</supplied></w> τοῦ <name type="portion"><w lemma="συμμέριζω">συμμερισμοῦ</w></name>  <orig>τ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    
+<lb xml:id="line_2" n="2"/> <name type="month"><w lemma="Διονύσιος">Διονυσίου</w></name> <w lemma="δωδέκατος">δυωδεκάτ<supplied reason="lost">αι</supplied></w><supplied reason="lost">·</supplied> <name type="deity" key="Dionysus"><w lemma="Διόνυσος"><supplied reason="lost">Διονύσωι</supplied></w></name> <name type="animal" key="goat"><w lemma="αἴξ"><supplied reason="lost">αἶγα</supplied></w></name><supplied reason="lost"> (?)·</supplied> <supplied reason="lost">τὸ μὲν</supplied>
+                    
+<lb xml:id="line_3" n="3"/> <name type="portion"><w lemma="σκέλος">σκέλος</w></name> <w lemma="ἐπί">ἐπὶ</w> <name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name> <name type="genericOffering"><w lemma="παρατίθημι"><supplied reason="lost">παρατιθ</supplied></w></name><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐκ"><supplied reason="lost">ἐκ (?)</supplied></w> <supplied reason="lost">τοῦ</supplied>
+                    
+ <lb xml:id="line_4" n="4"/> <w lemma="πῦρ">πυρὸς</w>, τὰ δ’ <w lemma="ἄλλος">ἄλλα</w> <name type="portion"><w lemma="κρέας">κρέα</w></name> τ<supplied reason="lost">ᾶς</supplied> <name type="group"><w lemma="πόλις"><supplied reason="lost">πόλιος</supplied></w></name><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="δέρμα"><supplied reason="lost">δέρ</supplied>
+                    
+ <lb xml:id="line_5" n="5" break="no"/> μα</w></name> <w lemma="σύν">σὺν</w> τᾶι <name type="portion"><w lemma="κεφαλή">κεφαλᾶι</w></name> καὶ τ<supplied reason="lost">οῖς</supplied> <name type="portion"><w lemma="πούς"><supplied reason="lost">ποσὶν</supplied></w></name>  <gap reason="lost" extent="unknown" unit="character"/>
+                    
+ <lb xml:id="line_6" n="6"/> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><name type="epithet" key="Dasyllios"><w lemma="Δασύλλιος">Δασυλλιείωι</w></name></name>· τῶν <supplied reason="lost">δὲ</supplied> <w lemma="πάρειμι"><supplied reason="lost">παρόντων</supplied></w> <name type="group"><w lemma="θιασώτης"><supplied reason="lost">θιασειτᾶν</supplied></w></name><supplied reason="lost"> (?)</supplied> <w lemma="οὔτε"><supplied reason="lost">οὔ</supplied>
+                    
+     <lb xml:id="line_7" n="7" break="no"/> τε</w> <name type="person"><w lemma="νεόβακχος">νεόβακχος</w></name> <w lemma="οὔτε">οὔτε</w> <w lemma="ὅς">ὃς</w> <name type="person"><w lemma="μύστης">μ<supplied reason="lost">ύστας</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">ἐὼν</supplied></w> <w lemma="τελέω"><supplied reason="lost">τελεσθεὶς</supplied></w> <supplied reason="lost">(?)</supplied> <w lemma="ὁδοιπορέω"><supplied reason="lost">ὁ</supplied>
+         
+                    
+    <lb xml:id="line_8" n="8" break="no"/>δοιπορεῖ</w> <w lemma="">εἰς</w> τὸ <name type="structure"><name type="epithet" key="Dasyllios"><w lemma="Δασύλλιος">Δασυλλιε<supplied reason="lost">ῖον</supplied></w></name></name>  <gap reason="lost" extent="unknown" unit="character"/><orig>ιτε</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    
+<lb xml:id="line_9" n="9"/> ταῖς <name type="person"><w lemma="γυνή">γυναιξὶ</w></name> τ<supplied reason="lost">αῖς</supplied> <w lemma="αὐτός"><supplied reason="lost">αὐτῶν</supplied></w> <name type="authority"><w lemma="θέμις"><supplied reason="lost">θέμις</supplied></w></name> <w lemma="οὐ"><supplied reason="lost">οὐκ</supplied></w> <w lemma="εἰμί"><supplied reason="lost">ἔ</supplied>στι</w> <w lemma="οὐδέ">οὐδ<supplied reason="lost">ὲ</supplied></w> <supplied reason="lost">τοῖς</supplied>
+                    
+<lb xml:id="line_10" n="10"/> <supplied reason="lost">τε</supplied> <w lemma="ἑαυτοῦ"><supplied reason="lost">ἑαυτῶν</supplied></w> <name type="person"><w lemma="παῖς"><supplied reason="lost">παισὶ</supplied></w></name> <supplied reason="lost">(?)</supplied> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τοῖς</supplied> <w lemma="ἄλλος"><supplied reason="lost">ἄλλοις</supplied></w> <name type="person"><w lemma="ἀτέλεστος">ἀτελέσ<supplied reason="lost">τοις</supplied></w></name>·
+                    
+  <lb xml:id="line_11" n="11"/>  <gap reason="lost" extent="unknown" unit="character"/> <w lemma="Διόνυσος"><supplied reason="lost">Διονύσωι</supplied></w> <name type="animal" key="goat"><name type="gender"><w lemma="τράγος"><supplied reason="lost">τ</supplied>ράγον</w></name></name> <name type="age"><w lemma="πρατήνιον">πρ<supplied reason="lost">ατή</supplied>
+                    
+<lb xml:id="line_12" n="12" break="no"/> <supplied reason="lost">νιον</supplied></w></name><supplied reason="lost">·</supplied>  <gap reason="lost" extent="unknown" unit="character"/><orig>ν</orig> καὶ <name type="portion"><w lemma="διαιρέω">διαιρ</w></name><gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    
+<lb xml:id="line_13" n="13" break="no"/>  <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τ</supplied>ῶν <name type="person"><w lemma="τελεστής">τελ<supplied reason="lost">εστῶν</supplied></w></name>
+                    
+ <lb xml:id="line_14" n="14"/>   <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>αιγ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                    
+ <lb/>  <gap reason="lost" extent="unknown" unit=" line"/>
+                            
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    From the division [...]. On the 12th of Dionysios: [to Dionysus a goat (?). The priest places] the leg on the table, [from] the fire, and the other meat belongs [to the city]. [...] the skin (5) with the head and [the feet...] in the Dasyllieion. Of [those <foreign>thiasos</foreign>-members who are present (?)], neither a neo-bacchant nor a [mystes having been initiated (?)] when going to the Dasylleion [...]. For [their] women it is not [permitted] nor [for (10) their children (?) or for the other] uninitiated. [(Date missing?) to Dionysus] a yearling he-goat and [...] and divide [...] of the initiated [...] goat (?) [...].
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction </head>
+                <p>Du partage [...] Le 12 Dionysios : [à Dionysos un caprin (?). Le prêtre (?) dépose] la patte [sortie du] feu sur la table, et les autres viandes reviennent [à la cité]. [...] la peau (5) avec la tête et [les pieds...] dans le Dasyllieion. Des [thiasites ici présents (?)], ni le néobacchant ni le [myste déjà initié (?)] qui se dirige vers le Dasyllieion ne [...]. (L’accès ?) est [interdit] à [leurs] femmes, ainsi [qu’à (10) leurs enfants (?) et aux autres] non initiés. [(Date manquante ?) à Dionysos] un bouc d'un an et [...] et on partage [...] des initiés [...] caprin (?) [...]</p>
+                
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                
+                <p>What type of inscription is preserved in the two related fragments making up this text remains quite unclear. Since Avram has now accurately identified the beginning of the inscription in the first line of fragment 1, we have some idea of how the text will have begun. However, the apparent header preserved in line 1 (see below) is a highly unusual one (ἐ[κ] τοῦ συμμερισμοῦ...). Other portions of the text, if correctly identified, appear to have taken the form of a calendar (cf. line 2, and perhaps line 11 according to Avram), where the dated entries are followed by further details on the division of meat (they were already interpreted as such by von Prott). The two fragments probably refer to two separate sacrifices and the distributions of parts of the sacrificial animal (lines 2-10 and lines 11-14 respectively). Another possible alternative would be to take the fragmentary line 1 as indicating that the regulation is one concerned with the division and distribution of meat during sacrifices. Indeed, we read that different parts of the first sacrificial animal were to be distributed in various ways. The leg must be placed on a cult-table (cf. lines 3-4), as a gift for the god and eventually a perquisite of the priest; the rest of the meat (τὰ δ' ἄλλα κρέα, line 4) was probably to be distributed to a wider group of cult participants; the hide with the head (and the feet) were perhaps a priestly perquisite or deposited in the sanctuary (lines 5-6). In this case, however, it remains to be explained why such a regulation appears to discuss extensively the right of various ranks of initiates and non-initiates to participate in the cult (lines 6-10, including women; further details concerning meat distribution, but also initiates appear to be mentioned in lines 11-13). A large part of the problem continues to the uncertain extant of the lacunae to the right of the principal fragment (Fr. 1) and whether the arrangement of the two fragmentary sections of the regulation is precisely correct.</p>
+                
+<p>What we can be fairly certain of is that the regulation, such as we have it, was concerned with the cult of Dionysus at Kallatis. The first dated sacrifice in line 2 takes place during the eponymous month of the god; the second (perhaps dated) sacrifice is also very plausibly to be tied with Dionysus (cf. below on lines 11-13). More compellingly, the text mentions a sanctuary of (Dionysus) Dasyllios (lines 6-8) in which certain rituals or gestures are to take place. This Dasyllieion evokes the close cultic ties of the city of Kallatis with its mother-city Herakleia Pontika, itself founded by Megara, since the cult of Dionysus Dasyllios is firmly attested at Megara (cf. Paus. 1.43.5). For further discussion of the significance of this epithet of Dionysus, see below on lines 6-8. The regular mention of initiates (lines 7 and 13, cp. line 10) taking part in the cult, also serves to confirm the general Dionysiac context of the regulation.</p>
+
+<p>Line 1: The word συμμερισμός is a <foreign>hapax legomenon</foreign>. The related terms μερισμός and μερίζειν frequently refer to "distribution of shares of sacrificial meat" (cf. Avram 1995a: 241). The term συμμερίζειν and its cognates also refer to parceling out and distribution, but in a juridical sense (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.; Avram 1995a: 241 cites one exception concerning sacrifice, but from the New Testament). Given the context of the regulation, συμμερισμός most plausibly refers to sacrificial division, and not to monetary matters (as Sokolowski argued). The overall phrase ἐκ τοῦ συμμερισμοῦ has been interpreted as perhaps introducing a "summary" of regulations concerning sacrificial division (Avram 1995a: 242; <bibl type="abbr" n="IScM III">IScM III</bibl>, p. 338). The precise character of this heading remains to be more amply elucidated.</p>
+                    
+<p>Line 2: This date appears to perhaps introduce a first entry in the regulation. The sacrifice, very probably to Dionysus, on the 12th of the month Dionysios is evocative. According to the recent revision of the calendar of Megara by Avram (1995b), Dionysios was the fifth month of the calendar, and would have fallen in February/March. Speculatively but also attractively, the date of the 12th of this month would form an apt parallel with the Ionian Anthesteria, known to have taken place on 11-13 Anthesterion (also February/March; cp. Thuc. 2.15 for the importance of the day of the 12th among the Ionians). The precise animal offered to Dionysus is unknown, though a goat is plausible, since this animal was very often sacrificed to the god, cp. e.g. <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 33-34; see also below on lines 11-13.</p>
+                    
+<p> Lines 3-4: These lines stipulate that a leg—perhaps the customary left or right, hind or forelimb of the animal, and with the skin removed (see below on lines 5-6)—was to be placed on the cult-table (τράπεζα) as an offering for the god (for further discussion of customary legs are priestly perquisites, see <ref target="CGRN_34">CGRN 34</ref>). The deposition of offerings on cult-tables, usually as raw portions, is discussed in Jameson (comparing this ritual with that of the <foreign>theoxenia</foreign>, where portions are usually thought to have been cooked). After the rites were fully performed or a sufficient time had elapsed, the priest usually took away table-offerings as a perquisite (cf. Lupu, with further references). Here, given the fragmentary character of the regulation, two problems arise concerning Avram's suggested restorations, which are difficult to resolve. The first is whether an agent is involved in the deposition of the portion on the table. Avram restores <foreign>exempli gratia</foreign>: <supplied reason="lost">παρατιθῆσι</supplied> <supplied reason="lost">ὁ</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱαρεὺς</supplied></w></name>. This is possible, but it cannot be confirmed that the priest acted in this capacity, nor is it certain that the verbal forms of the regulation were not imperatives or infinitives (as is more usual). A second uncertainty concerns whether to tie line 3 with the phrase apparently beginning line 4. The beginning of this line reads ΠΥΡΟΣ as Avram established, not ΤΥΡΟΣ (a reference to cheese, Sokolowski). The word might refer to wheat (πυρός, or Doric acc. pl., "wheat-grains"), though the text does not otherwise mention vegetal substances and offerings. Avram favours taking the traces as the genitive of πῦρ: the reference according to his suggested restoration would thus be to taking burnt portions, specifically this leg to be place on the tablet, "from the fire". While superficially attractive, this reference poses a number of questions: would we not expect the portion to be placed raw on the cult table (see again Jameson)? And why would a partially burned portion (presumably on the altar fire) be removed for placement on the table? Discussions of the placement of portions on the altar fire are seldom mentioned in ritual norms: cp. the phrase <unclear>ἐ</unclear>πὶ τὸ πῦρ in <ref target="CGRN_28">CGRN 28</ref> (Thasos), line 10.</p>
+                
+<p>Instructions for the division of "the rest of the meat" (τὰ δὲ ἄλλα κρέα) sometimes follow the specification of the perquisites for the priest, cp. <ref target="CGRN_85">CGRN 85</ref> (Kos), lines 35-36, and <ref target="CGRN_147">CGRN 147</ref> (Kos), line 60. The beneficiaries are in such cases usually described as "the citizens" or "the <foreign>polis</foreign>" (as in the suggested restoration by Avram here), but we may still think of a selected group as a possible recipient for this wider distribution of meat. In line 4, Avram tentatively restores, <supplied reason="lost">τοῦ</supplied> <supplied reason="lost">δὲ</supplied> <name type="animal" key="goat"><w lemma="αἴξ"><supplied reason="lost">αἰγὸς</supplied></w></name>, but it seems superfluous to repeat the (unknown) animal from which the portions are derived.</p>
+                   
+<p>Lines 5-6: Consideration of the hide apparently comes after the discussion of the meat in lines 3-4 above, perhaps because a special treatment is reserved for it (but perhaps also because it is a portion without a substantial amount of meat). The restoration of line 5 was made by von Prott on the basis of Hesychius' lemma for the term ἔνδορα· τὰ ἐνδερόμενα σὺν τῇ κεφαλῇ καὶ τοῖς ποσίν. On the offering of the ἔνδορα on Kos, see further <ref target="CGRN_86">CGRN 86</ref> A, line 48-49. The inclusion of the head and feet with the rest of the hide is often depicted in Greek iconography, and appears to be natural product of a certain type of flaying of the skin of the animal (as often today, e.g. when making animal rugs). The head and feet are often found juxtaposed with the hide in list of priestly perquisites, perhaps presuming that a similar process has taken place. What is to happen to this special hide of the animal is much less clear. According to Avram, the hide was to be deposited "in the sanctuary" (ἐν τῶι Δασυλλιείωι, see below on lines 6-8), apparently arranged in a shape that resembled the animal, or as a form of record of the sacrifice (much like, e.g. a <foreign>bucrania</foreign>). While possible, this interpretation is also problematically rash. If the phrase here does indeed continue to line 6, then it is possible that the hide served a ritual function (see again below on the significance of the word Δασύλλιος) or that it was sold for the benefit of the sanctuary. Alternatively, the hide may simply have formed a further part of the priestly perquisites.</p>
+  
+<p>Lines 6-8: As introduced above, the Δασυλλιεῖον is almost certainly to be identified as the sanctuary of Διόνυσος Δασύλλιος. Intriguingly, Δασύ[λλιος] is also found in another inscription from Kallatis (<bibl type="abbr" n="IScM III">IScM III</bibl> 48, 4th century BC), in a list of multiple divinities apparently relating to the ancestral cults of the city, and appearing further below a mention of Dionysus Patroios and Dionysus Bakcheus respectively. There, Δασύ[λλιος] is probably a god, or perhaps a hero (such as he appears in Nonnus 30.188-190, in the cohort of Dionysus). The sense of the word as an epithet of Dionysus is not completely transparent, but is most probably to be connected to the verb δασύνω, "to make rough or hairy" (Avram overinterprets "Chtonic" connotations of the epithet). The reference would therefore be to a Dionysus covered by a hide, perhaps specifically by goat's skin (for an iconographic parallel, see Jaccottet no. 114). This further suggests the intriguing possibility that the hide mentioned in lines 5-6, above, might have been used to dress the statue of the god or might have been worn by the priest(ess) or other worshippers. The wearing of goat-skins often occured in Dionysiac cults (cf. Robertson, and Jaccottet no. 143 = <bibl type="abbr" n="I.Ephesos">I.Ephesos</bibl> 1250, referring to σακηφόροι μύσται), and cp. the cult epithet μελάναιγις, 'with a dark goat-skin', of Dionysus at Athens (see Avram, 1995a: 246, with references). A very different, perhaps erroneous, connotation of the epithet is preserved in <title>EM</title> s.v. Δασύλλιος: παρὰ τὸ δασύνειν τὰς ἀμπέλους (but presumably the sense is "to make grapes thick/cloudy" [<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. δασύνω II, IV], i.e. to make wine, which is in fact a further apt connotation for Dionysus, especially if the timing of the ritual in the late winter is correct; see above on line 2). For δασύς in a further different sense, see <ref target="CGRN_100">CGRN 100</ref>, lines 2 and 6. Apparently, these lines also seek to impose some kind of restriction on the behaviour of νεόβακχοι and μύσται either in the Dasyllieion, or when they are to walk to the Dasylleion. The verb ὁδοιπορέω in lines 7-8 can be though to imply a substantial journey, probably a procession, "to the sanctuary of Dasyllios". This might then point to an extra-urban sanctuary, which Avram tentatively identifies with a local grotto (Avram 1995a: 242). A distinction seems to be drawn between different categories or levels of initiates, namely the νεόβακχος and the μύστης. This is the earliest attestation of the term νεόβακχος (cf. Avram 1995a: 242). The juxtaposition of the terms μύσται and βάχχοι is also found on the fifth/fourth-century-BC gold leaf from Hipponion (<bibl type="abbr" n="SEG">SEG</bibl> 26, 1139, line 16; cp. also Eur. fr. 472 [Nauck], though it relates to Cretan Zeus).</p>
+                    
+<p>Lines 9-10: If Avram's new arrangement of the fragments is correct, this part of the inscription seems to contain restrictions against the participation of women and the uninitiated in the cult, though the exact character of the phrase remains opaque. Prohibitions concerning women (defined with such phrases as οὐ θέμις) are often found elsewhere in the present Collection: e.g. <ref target="CGRN_27">CGRN 27</ref> (Thasos), lines 3-4, <ref target="CGRN_62">CGRN 62</ref> (Lindos), line 5, and <ref target="CGRN_63">CGRN 63</ref> (Lindos), lines 5-6. It is a matter of debate whether such interdictions pertain to the right to access the cult site or simply to participation in the ritual meal (cf. our discussion at <ref target="CGRN_32">CGRN 32</ref>, Thorikos). For the uninitiated, we should presume that the restoration, if correct, prohibited that their entry into the sanctuary of Dasyllios (cp. e.g. <bibl type="abbr" n="IG XII.5">IG XII.5</bibl> 183, Paros). However, the suggested restorations can still be doubted: given the well-attested and prominent role of women in Dionysiac cults, it is particularly odd to find them apparently excluded here; cp. e.g. <ref target="CGRN_138">CGRN 138</ref>.</p>
+                    
+                <p>Lines 11-13: Line 11 perhaps marks the start of a new section or dated entry in the regulation, as indicated by the mention of a new sacrificial animal, the he-goat (τράγος). The letter traces (ΠΡ) following this sacrificial animal have been convincingly interpreted by Avram as an age qualifier: πρ[ατήνιον]. As the detailed note of Hsch. s.v. πρατήνιος explains (ἡλικία τις προβάτου νέου. ὡς δὲ ἔνιοι τοῦ πρώτου γεννωμένου, οἱ δὲ ἐνιαυσιαίου, ἄλλοι δὲ ἀρχομένου συνουσίας), though not without some equivocation, the term properly refers to "yearling" animals, goats or sheep who have attained their (sexual) maturity around or exactly at the age of one year (cp. also Hsch. s.v. πρητῆνας, τοὺς ἐνιαυσίους ἄρνας; for a wider discussion, see Perpillou). The exact same offering (τράγον πρατήνιον) is aptly paralleled in another sacrifice to Dionysus at Kamiros, cf. <ref target="CGRN_158">CGRN 158</ref> (taking place in summertime; cp. also the κριὸν πρατήνιον as a sacrifice to Poseidon at Kamiros, <ref target="CGRN_130">CGRN 130</ref>). Further lines may once again have discussed the division of meat resulting from this sacrifice. The traces ΔΙΑΙΡ in line 12 suggest a form of the verb διαιρεῖν, which occurs in the context of sacrificial division, e.g. <ref target="CGRN_151">CGRN 151</ref> (Halasarna), line 14. The reference in line 13, given the traces [τ]ῶν τελ-, is almost certainly to initiates (so Avram), to a rite of initiation (τελετή) or another word of the same root.      
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

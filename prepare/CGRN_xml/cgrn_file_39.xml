@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_39" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 39</idno>: General (?) regulation concerning <rs type="textType" key="priestly contract">sales of priesthood</rs> at Miletos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Marble <rs type="objectType">block</rs> with preserved margins on the left and right, but broken at the top and bottom. The left and right margins appear to be essentially preserved.</p>
+				<p><dimensions>
+					<height unit="cm">38</height>
+					<width unit="cm">40</width>
+					<depth unit="cm">14</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Stoichedon 18.</p>
+				<p>Letters: <height unit="mm">17</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0425" notAfter="-0375">ca. 400 BC</origDate></p>
+			<p><desc>Justification: lettering and style (Erhardt).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Miletos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599799" type="external">Miletos</ref></placeName>. Found in Akköy. Now in the Antikensammlung in Berlin (inv. no. PM 2839).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Ehrhardt <bibl type="abbr" n="Milet VI.3">Milet VI.3</bibl> 1219, with ph. pl. 41 and further refs.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 44.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Dimitrova 2008">Dimitrova 2008</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_1" n="1"/><gap reason="lost" quantity="9" unit="character"/> <supplied reason="lost">οἳ</supplied> <w lemma="πρίαμαι"><unclear>ἐ</unclear>πρία<unclear>ν</unclear><supplied reason="lost">τ</supplied></w>
+	    					
+<lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">ο</supplied> τὰς <name type="personnel"><w lemma="ἱερωσύνη">ἱερε<supplied reason="lost">ω</supplied>σύνας</w></name> <w lemma="γίγνομαι">γίνε
+	    					
+<lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">σ</supplied>θ<supplied reason="lost">α</supplied>ι</w>· τὰ <name type="portion"><w lemma="δέρμα"><unclear>δέρματ</unclear>α</w></name> <w lemma="πᾶς">π<unclear>άντα</unclear></w>,
+	    					
+<lb xml:id="line_4" n="4"/><w lemma="ὅσος"><supplied reason="lost">ὅ</supplied>σ’</w> ἂν ἡ <name type="group"><w lemma="πόλις">π<unclear>ό</unclear>λις</w></name> <name type="sacrifice"><w lemma="ἔρδω">ἔρδ<supplied reason="lost">η</supplied><unclear>ι</unclear></w></name>, <name type="portion"><w lemma="σπλάγχνον">σπ<supplied reason="lost">λ</supplied>
+	    					
+<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">ά</supplied>γχανα</w></name> καὶ <name type="portion"><w lemma="νεφρός">νεφρὸν</w></name> κα<supplied reason="lost">ὶ</supplied>
+	    					
+	    			<lb xml:id="line_6" n="6"/><name type="portion"><w lemma="σκολιός"><supplied reason="lost">σ</supplied>κολιὸν</w></name> καὶ <w lemma="ἱερός"><supplied reason="lost">ἱ</supplied>ερὴμ</w> <name type="portion"><w lemma="μοῖρα">μοί<supplied reason="lost">ρ</supplied>
+	    					
+<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">η</supplied>ν</w></name> καὶ τὰς <name type="portion"><w lemma="γλῶσσα">γλώσσας</w></name> <w lemma="πᾶς">πά<supplied reason="lost">σ</supplied>
+	    					
+<lb xml:id="line_8" n="8" break="no"/><unclear>α</unclear>ς</w>· <name type="portion"><w lemma="">ἀπόλοχον</w></name>· <name type="portion"><w lemma="σκέλος">σκ<supplied reason="lost">έ</supplied>λη</w></name> κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied>
+	    					
+<lb xml:id="line_9" n="9"/><name type="portion"><w lemma="κρέας">κρέας</w></name> καὶ <name type="portion"><w lemma="γαστρίον">γ<unclear>α</unclear>σ<supplied reason="lost">τρ</supplied>ίον</w></name> κ<supplied reason="lost">α</supplied>
+	    			
+<lb xml:id="line_10" n="10" break="no"/><supplied reason="lost">ὶ</supplied> <name type="portion"><w lemma="χορδίον">χορδίον</w></name>· ἢν δὲ <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">β</supplied>ο̑ν</w></name> <name type="sacrifice"><w lemma="ἔρδω">ἔ<unclear>ρ</unclear><supplied reason="lost">δ</supplied>
+	    			
+	<lb xml:id="line_11" n="11" break="no"/><supplied reason="lost">η</supplied>ι</w></name>, <w lemma="δύο">δύο</w> <name type="portion"><w lemma="κρέας">κρέα</w></name> καὶ <name type="portion"><w lemma="χόλιξ">χόλικ<unclear>α</unclear></w></name>
+	    					
+<lb xml:id="line_12" n="12"/><supplied reason="lost">κα</supplied>ὶ <name type="portion"><w lemma="αἱμάτιον">αἱμάτιον</w></name> καὶ <name type="portion"><w lemma="κορυφαῖον">κορυ
+	    				
+<lb xml:id="line_13" n="13" break="no"/><supplied reason="lost">φαῖ</supplied>α</w></name>·  <w lemma="ἀπό">ἀπὸ</w> δὲ τῶν <name type="person"><w lemma="ἴδιος">ἰ<unclear>δ</unclear>ίως</w></name>
+	    					
+<lb xml:id="line_14" n="14"/><w lemma="σύμπας"><supplied reason="lost">σύμ</supplied>πα<unclear>ν</unclear>τα</w> <w lemma="γίγνομαι">γί<unclear>ν</unclear>εσθαι</w> <w lemma="πλήν">π<unclear>λ</unclear>
+	    				
+<lb xml:id="line_15" n="15" break="no"/><supplied reason="lost">ὴν</supplied></w> <supplied reason="lost">τῶ</supplied>ν <name type="portion"><w lemma="δέρμα">δερμάτων</w></name>·  <w lemma="ἀπό">ἀπὸ</w> δ<unclear>ὲ</unclear>
+	    				
+<lb xml:id="line_16" n="16"/><supplied reason="lost">τῶν <name type="person"><w lemma="ξένος">ξείνων</w></name></supplied> <w lemma="γίγνομαι">γ<supplied reason="lost">ίν</supplied>εσ<supplied reason="lost">θ</supplied><unclear>α</unclear>ι</w> <gap reason="lost" quantity="1" unit="character"/>
+	 
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+	    				<p>[... For those who] purchase the priesthoods (the following privileges) are to apply: all of the skins from as many (animals) as the city sacrifices, (5) the entrails and a kidney and a small intestine and a sacred portion and all of the tongues. Portion by lot: the legs and the meat and the stomach (or: little stomach) and (10) the large intestine. If one sacrifices an ox, two pieces of meat and the bowels and a blood-sausage and parts of the (top of the?) head. From private sacrifices, all of the same (parts) except (15) the skins. From foreigners, there is to be [...]</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[... Pour ceux qui] achètent des prêtrises (les part d'honneurs suivantes) doivent être octroyées : les peaux de tous (les animaux) que la cité sacrifie, (5) les viscères, un rein, le petit intestin, une portion sacrée et toutes les langues. Portion tirée au sort : les pattes, la viande, l'estomac (ou le petit estomac) et (10) le grand intestin. Si l'on sacrifie un bovin, deux morceaux de viande, les boyaux, un boudin et des parts (du dessus ?) de la tête. Des sacrifices privés, toutes les mêmes (parts) sauf (15) les peaux. Des étrangers, il doit y avoir [...]</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>The document is typical of ritual norms for cults and priesthoods in many respects, yet unusual in at least one notable regard. As commonly interpreted from the first extant line, it appears to be a regulation that applies to all of the individuals who happen to purchase priesthoods in the city of Miletos (cf. Sokolowski). The practice of the sale of priesthoods is indeed relatively well-documented in Miletos (cp. <ref target="http://cgrn.ulg.ac.be/CGRN_100/">CGRN 100</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_138/">CGRN 138</ref>), as well as widespread in other cities of the Western Aegean (cf. e.g. Erythrai, <bibl type="abbr" n="LSAM">LSAM</bibl> 25). Yet this observation also raises several intriguing questions about the context of the present document, which at the present remain difficult to resolve. General contracts for all priests or a general contract of sale of priesthoods are not otherwise attested. Why would the city of Miletos choose to regulate its priesthoods in this way, and in the following century apparently offer individual priesthoods for sale with more specific contracts? We must presume that the context of the regulation was clarified in earlier lines of the inscription, now missing. Perhaps an alternative interpretation would be that the city sold a limited but specific number of priesthoods for civic cults on this occasion (τὰς <name type="personnel"><w lemma="ἱερωσύνη">ἱερε<supplied reason="lost">ω</supplied>σύνας</w></name>, line 2), which were then regulated in the contract or regulation which followed. Whatever the precise case may be, the regulation proposes general rules about the privileges of the priesthoods, specifically the prerogative parts of meat which were received by the purchasers. Different cases are outlined: first, when the city performs a sacrifice (lines 3-8); then a list of portions which are apparently to be assigned by lot (8-10); next, the case of the sacrifice of an ox (lines 10-13); finally, sacrifices offered on an individual basis (lines 13-15) or by foreigners (lines 15-16, otherwise missing).</p>
+						
+<p>Lines 3-8: It was common practice that priests receive all (or at least most) of the skins from sacrifices offered by the city (or by a group), but not from those offered by private individuals: cp. <ref target="http://cgrn.ulg.ac.be/CGRN_50/">CGRN 50</ref> (Chios) and <ref target="http://cgrn.ulg.ac.be/CGRN_118/">CGRN 118</ref> (Halikarnassos), lines 9-14 . The prominent exception to this norm was the sacrifice of oxen, whose hides were extremely valuable: see also here below, at lines 10-13. For the remaining portions, it is worth stressing that a virtually identical list can be found in sales of priesthoods from a later period at Miletos: <ref target="http://cgrn.ulg.ac.be/CGRN_138/">CGRN 138</ref> and <bibl type="abbr" n="LSAM">LSAM</bibl> 52. For the kidney, often singled out as a special privilege of priests at Miletos and its periphery, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_138/">CGRN 138</ref> (Milet), line 16; cp. <ref target="http://cgrn.ulg.ac.be/CGRN_81/">CGRN 81</ref>, line 21 and <ref target="http://cgrn.ulg.ac.be/CGRN_122/">CGRN 122</ref>, line 5 (both from Thebes-on-the-Mykale). The word σκολιόν can be thought to designate specifically the more 'twisted' or 'coiled' small intestine, to be distinguished here from the large intestine which is treated separately (see χορδίον at line 10). For the so-called 'sacred portion', see Dimitrova, who collects the relevant testimonies. However, it is not certain that the expression is an alternative term for the ὀσφύς as Dimitrova argues (that term in fact occurs at Miletos itself, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_100/">CGRN 100</ref>, line 2); the "sacred portion" should rather be paralleled with the term θεομοιρία, found for instance on Kos of a divine portion "derived from the shoulder": cf. <ref target="http://cgrn.ulg.ac.be/CGRN_86/">CGRN 86</ref> D, lines 19-20. For the importance of the tongue as a priestly perquisite, cp. the evidence from Chios, e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_41/">CGRN 41</ref>, line 9.</p>
+							
+<p>Lines 8-10: The word ἀπόλοχον is not otherwise attested, but it can reasonably be thought to derive from the verb ἀπολαγχάνω. As such, it ought to introduce a list of portions obtainable by the drawing of lots (cf. Sokolowski, citing Wilamowitz). It thus seems envisaged that other portions which sometimes be normally attributed to priests (such as the legs), are to be allocated among the participants at civic sacrifice: this applies apparently also to the remaining meat of the animal, as well as to two more specific portions, the stomach or a portion thereof, and the large intestine of the animal (χορδίον). The stomach was used to make tripe, and the diminutive term γαστρίον may be used here to designate some of the chambers of this organ which are preferable for this purpose (the first three?—the abomasum is glandular and less commonly eaten today). For the use of the bowels to make sausage, see also here at lines 10-13 and cf. <ref target="http://cgrn.ulg.ac.be/CGRN_57/">CGRN 57</ref> (Aixone), lines 4-5, 9, etc.</p>
+						
+<p>Lines 10-13: The case where an ox is sacrificed appears to resume the list of expected priestly perquisites and is apparently to be distinguished from the civic sacrifices mentioned in lines 3-8 (the rules mentioned there might apply to all other animals, except oxen). In this case, the priest receives only two divided portions of meat and apparently no hides (as in the private sacrifices, lines 13-15). But he or she also obtains other sizeable portions: all of the bowels from the ox (χόλιξ is a technical term for bovine bowels, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. and contrast χορδίον in lines 8-10), as well as a single blood-pudding (αἱμάτιον, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. III; cp. here <ref target="http://cgrn.ulg.ac.be/CGRN_86/">CGRN 86</ref> A, Kos, line 53: αἱματίου ὀβελὸς τρικώλιος) and portions from the head. The latter are somewhat unclear: the term κορυφαῖον might be thought to refer to a part of the head of the animal, specifically its top (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. II); it is unlikely to designate the whole head of an ox. It is worth noting that, in the plural, the term probably parallels another word for the "extremities" of the head, ἀκροκώλιον, probably the nose, ears and other tender portions cut from the skull. That word is found at nearby Didyma (<bibl type="abbr" n="I.Didyma">I.Didyma</bibl> 482, lines 4-5: τῶν δὲ ῥυνχέων καὶ τῶν ἀκροκω|λίων, which are to be sold; ca. 300-250 BC) and also at Ephesos (<bibl type="abbr" n="I.Ephesos">I.Ephesos</bibl> 1263).</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

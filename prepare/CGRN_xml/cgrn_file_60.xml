@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_60" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 60</idno>: Boundary stone of Meter from Thera, with additional <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> inscribed by Archinos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Marble <rs type="objectType">stele</rs>, intact and with moulding at the top.</p>
+				<p><dimensions>
+					<height unit="cm">63</height>
+					<width unit="cm">27.5-24</width>
+					<depth unit="cm">7.8</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Hiller von Gaertringen well remarked that the letters in lines 1-2 are older and somewhat larger. The remainder of the inscription was therefore inscribed afterward. No precise measurement are given for the letters added <foreign>a posteriori</foreign>, which appear to be early Hellenistic.</p>
+				<p>Letters (lines 1-2): <height unit="cm">1</height>. The round letters appear distinctively smaller, especially in lines 1-2; early and open <foreign>sigma</foreign>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0300">ca. 400-300 BC</origDate></p>
+			<p><desc>Justification: lettering of both consecutive inscriptions; lines 1-2 earlier in the 4th century (Hiller von Gaertringen; perhaps ca. 350?) than the remainder (probably early Hellenistic?).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thera" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599971/" type="external">Thera</ref></placeName>. Found at the presumed site of temple of Meter near the church of Hagios Georgios; further description in Hiller von Gaertringen. Current location unknown (Museum of Thera?).</p>    
+		</provenance>
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+				    <p>Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 436, with a dr.</p>
+					<p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 128; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 134.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Buck 1910">Buck 1910</bibl>: 151 and 156, with 260-261 no. 9; <bibl type="author_date" n="Jim 2014">Jim 2014</bibl>: 28-52.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    				
+<lb/><space quantity="1" unit="line"/>
+<lb xml:id="line_1" n="1"/><objectType key="boundary"><w lemma="ὅρος">οὖροι</w></objectType> <pc>⁝</pc> <w lemma="γῆ">γᾶς</w>
+	    				
+<lb xml:id="line_2" n="2"/><name type="deity" key="Theoi"><w lemma="θεός">Θεῶν</w></name> <name type="deity" key="Meter"><w lemma="μήτηρ">Ματρί</w></name>.
+	    					
+<lb xml:id="line_3" n="3"/><name type="deity" key="Theos"><w lemma="θεός">θεὸς</w></name> <name type="epithet" key="Agathe"><w lemma="ἀγαθός">ἀγαθᾶι</w></name> <name type="deity" key="Tyche"><w lemma="τύχη">τ
+	    					
+<lb xml:id="line_4" n="4" break="no"/>ύχαι</w></name> <name type="epithet" key="Agathos"><w lemma="ἀγαθός">ἀγαθοῦ</w></name> <name type="deity" key="Daimon"><w lemma="δαίμων">δ
+	    					
+	<lb xml:id="line_5" n="5" break="no"/>αίμονος</w></name>· <name type="sacrifice"><w lemma="θυσία">θυσία</w></name>
+	    					
+<lb xml:id="line_6" n="6"/>Ἀρχίνου· τῶι <w lemma="ἔτος">ἔτ
+	    					
+<lb xml:id="line_7" n="7" break="no"/>ει</w> τῶι <w lemma="πρότερος">πρατίστ
+	    					
+<lb xml:id="line_8" n="8" break="no"/>ωι</w> <name type="sacrifice"><w lemma="θύω">θύσοντι</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦ
+	    					
+<lb xml:id="line_9" n="9" break="no"/>ν</w></name> καὶ <name type="vegetal"><w lemma="πυρός">πυρῶν</w></name> <w lemma="ἐν">ἐγ</w>
+	    					
+<lb xml:id="line_10" n="10"/><w lemma="μέδιμνος">μεδίμνου</w> <pc>⁝</pc>  καὶ
+	
+<lb xml:id="line_11" n="11"/><name type="vegetal"><w lemma="κριθή">κριθᾶν</w></name> <w lemma="ἐν">ἐγ</w> <w lemma="δύο">δύο</w> <w lemma="μέδιμνος">μ
+	    					
+<lb xml:id="line_12" n="12" break="no"/>εδίμνων</w> καὶ <name type="liquid"><w lemma="οἶνος">οἴνο
+	    					
+<lb xml:id="line_13" n="13" break="no"/>υ</w></name> <w lemma="μετρητής">μετρητὰν</w> καὶ <w lemma="ἄλλος">ἄλλα</w>
+	    					
+<lb xml:id="line_14" n="14"/><name type="genericOffering"><w lemma="ἐπάργματα">ἐπάργματα</w></name> ὧν αἱ <name type="deity" key="Horai"><w lemma="ὥρα">Ὥρ
+	    					
+<lb xml:id="line_15" n="15" break="no"/>αι</w></name> <w lemma="φέρω">φέρουσιν</w>, <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ἀρτεμίσιος">Ἀρτε
+	    					
+<lb xml:id="line_16" n="16" break="no"/>μισίου</w></name> <w lemma="πέμπτος">πέμπται</w> <w lemma="ἵστημι">ἱσταμ
+	    					
+<lb xml:id="line_17" n="17" break="no"/>ένου</w> καὶ <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίο
+	    					
+<lb xml:id="line_18" n="18" break="no"/>υ</w></name> <w lemma="πέμπτος">πέμπται</w> <w lemma="ἵστημι">ἱσταμένου</w>.	
+	    				<space extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>(Earlier inscription) Boundaries of the land of the Mother of the Gods.</p>
+	    				<p>(Later inscription) God, to the Good Fortune of the Good Genius. Sacrifice of Archinos: in the first year, they will sacrifice an ox and a <foreign>medimnos</foreign> of wheat; and two <foreign>medimnoi</foreign> of barley-grains and a <foreign>metretes</foreign> of wine and all the other first-offerings which the Seasons (lit. the Horai) bring, on the fifth of the months Artemisios and Hyakinthios. 
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>(Inscription plus ancienne) Bornes de la terre de la Mère des Dieux.</p>
+<p>(Inscription plus tardive) Dieu, à la Bonne Fortune du Bon Génie. Sacrifice d'Archinos : la première année, ils sacrifieront un bovin et un médimne de froment; deux médimnes d'orge et un <foreign>metretes</foreign> de vin, ainsi que toutes les autres offrandes préliminaires qu'apportent les Saisons (lit. les Horai), le 5 des mois d'Artemisios et de Hyakinthios.</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>This relatively small stele originally designated the boundaries of the land of the Mother of the Gods, probably belonging to a sanctuary of Meter on Thera (see above on Provenance). Two other small inscriptions relating to the same cult, <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 437-438, were found there, as well as two sculptures of lions. For the cult of Meter, see also here esp. <ref target="CGRN_71">CGRN 71</ref> (Metropolis), <ref target="CGRN_175">CGRN 175</ref> (Priene) and <ref target="CGRN_211">CGRN 211</ref> (Maionia). As elsewhere on Thera, the text intriguingly uses some Ionic forms (οὖροι line 1), and the remainder is marked by conspicuous absence of Doric forms: on the dialectical variants on Thera, see Buck.</p>
+	
+<p>At a somewhat later date, probably in the early Hellenistic period (or after 335 BC), a further inscription was added to the boundary stele. After an elaborate and rather unique formula of invocation (lines 2-5), this document, which now takes up the bulk of the stele, is identified as the "sacrifice" of a certain Archinos. Who this individual was remains wholly unclear: Archinos is a relatively common name, but attested only here on Thera, and his father's name is strangely omitted. Most scholars assume that Archinos in some way "founded" the cult or at least provided lands from which regular offerings could be made for the goddess (see Sokolowski, with further references). For private cult "foundations", i.e. usually dedications or testamentary acts, see here e.g. <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos) or <ref target="CGRN_106">CGRN 106</ref> (Kalauria). The absence of any stipulations concerning a bequest or other form of donation by Archinos remains puzzling. An alternative is that we have here a member of the priestly personnel, who took it upon himself to inscribe rules concerning the cult and to append these directly on the stele (cp. <ref target="CGRN_54">CGRN 54</ref> and  also <ref target="CGRN_46">CGRN 46</ref> [both from Piraeus] a priestly proposal which was officially ratified by the city). In this scenario, Archinos would have recorded the sacrifice that he undertook and his primacy in doing so (cf. "in the first year", lines 6-10; cp. <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 1324 from Thera, which begins Ἀγλοτέλης πράτισ|τος Ἀγορᾶν..., with discussion at <ref target="CGRN_47">CGRN 47</ref>), and then encouraged others to follow his example; cp. also the attractive potential parallel of <ref target="CGRN_128">CGRN 128</ref> (Lissos). But the phrase 'Sacrifice of Archinos' remains enigmatic, as well as the fact that Archinos does not mention his priestly capacity (cp. but compare <ref target="CGRN_28">CGRN 28</ref>, Thasos).</p>
+
+<p>Lines 2-5: Although Ἀγαθή Τύχη and the Ἀγαθός δαίμων were  often associated (cf. here e.g. <ref target="CGRN_104">CGRN 104</ref>, Halikarnassos, lines 34-35, and also <bibl type="abbr" n="SEG">SEG</bibl> 47, 210, the reference to the "Good fortune of the Good Genius" forms an unparalled form of invocation in epigraphical sources.</p>
+						
+<p>Lines 6-10: Archinos enjoins worshippers "in the first year" to sacrifice an ox and a <foreign>medimnos</foreign> of wheat. Given the accompanying measure of wheat, Ziehen assumed that what was really meant was a cake shaped like an ox (cp. here <ref target="CGRN_72">CGRN 72</ref>, Athens, in which a ἑβδόμους βοῦς needs to be sacrificed, a cake shaped like the crescent of the new moon as well as the horns of an ox.). We prefer to follow Sokolowski in thinking that an ox was actually to be sacrificed, since referring to a "cake" as a "βοῦς" seems unusually ambiguous and thus unexpected in a direct address to worshippers. What exactly was meant by "in the first year"? There are several possibilities: Archinos may have alluded to his primacy in inaugurating this form of sacrifice (see above) which was thereafter to be repeated year after year (this is not expicitly stated, but clearly implied); or the more complex option is that he intended a specific sacrifice to take place "in the first year" only, or perhaps in the first year of a cycle of rituals. Indeed, supporting the later option, it remains unclear whether the punctuation in line 10 is to be taken as separating the rites "in the first year" from the remainder of the sacrifices, which would then have taken place on
+specific dates; this is possible, though perhaps unlikely.</p>
+
+<p>Lines 13-15: In addition to wheat (above lines 6-10), but also a measure of barley and wine, the sacrifice is to include other seasonal products, literally "the other ἐπάργματα which the Horai bring". For ὡραῖα, see here <ref target="CGRN_56">CGRN 56</ref> (Marathonian Tetrapolis), col. II, lines 30-31; note also that the foundation of Xenophon at Skillous (<title>Anab.</title> 5.3.13; cp. <bibl type="abbr" n="IG IX.1">IG IX.1</bibl> 654) involved probably a similar "tithing" of seasonal products from the land of Artemis Ephesia: τὸν ἔχοντα καὶ καρπούμενον τὴν μὲν δεκάτην καταθύειν ἑκάστου ἔτους. For a discussion of ἐπάργματα and related terms, see generally Jim and, in a more sacrificial context, cf. here <ref target="CGRN_61">CGRN 61</ref> (Athens), line 1.</p>
+
+<p>Lines 15-18: Two dates are mentioned here: the fifth of the months Artemisios and Hyakinthios respectively. The fifth day may have represented a special day to honour Meter, or perhaps have had a meaning for Archinos himself. Testimonia concerning the calendar of Thera are poor, but given parallels with the rest of the Dorian world, it is likely that the months occurring here will have fallen in the spring or early summer: Artemisios first, followed by Hyakinthios, as in the text. For a rupestral inscription from Thera prescribing dated sacrifices, notably on 24 Artamitios (followed by a festival called the Agoraia), cp. again <ref target="CGRN_47">CGRN 47</ref>; for other dated rituals on Thera, see the foundation of Epikteta, <ref target="CGRN_152">CGRN 152</ref>, lines 109, 133 (other months).</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

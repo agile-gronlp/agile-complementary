@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_74" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 74</idno>: Excerpt from the <rs type="textType" key="dossier of regulations">dossier</rs> of the Attic phratry of the Demotionidai about priestly perquisites</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p> 
+                            <rs type="objectType">Stele</rs> of Pentelic marble, inscribed on both sides. For a detailed description of the stone cf. <bibl type="author_date" n="Hedrick 1990">Hedrick 1990</bibl>: 5.</p>  
+                            <p><dimensions>
+                           <height unit="cm">88.6</height>
+                                <width unit="cm">39.3-40.5</width>
+                                <depth unit="cm">6.5</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Attic-Ionic script. Stoichedon 25 (except line 1). The letters of the first line form a larger heading: <height unit="cm">1.4-1.7</height>. The letters in lines 1-68 measure <height unit="cm">0.8-1.0</height>. All are inscribed by the same hand, but various parts of the dossier were inscribed at three different times; lines 1-68 on the first occasion.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0396" notAfter="-0395">396/5 BC</origDate></p>
+                        <p><desc>Justification: dating formulae in lines 9-12 (Athenian archon Phormion; cf. Hedrick 1990: 23).</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Dekeleia" n="Attica"><ref target="http://pleiades.stoa.org/places/579907" type="external">Dekeleia</ref></placeName>. Formerly located on the estate of the former king Constantine at Tatoi in Attica. Now in the Epigraphical Museum in Athens.</p>               
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by S Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                <p>Edition here based on Kirchner, <bibl type="abbr" n="IG II²">IG II²</bibl> 1237a. Cf. there for further description of lettertraces. NB: Only the very first section of the dossier (lines 1-8) is included here.</p>
+                <p> Other edition: <bibl type="author_date" n="Hedrick 1990">Hedrick 1990</bibl>. </p>
+                  
+                <p> Cf. also: 
+                    Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 17;
+                    Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 19; 
+                    Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 2;
+                    Rhodes - Osborne <bibl type="abbr" n="GHI">GHI</bibl> 5;
+                    <bibl type="author_date" n="Lambert 1993">Lambert 1993</bibl>: (esp. T3);
+                    <bibl type="abbr" n="SEG">SEG</bibl> 40, 132;
+                    <ref target="https://www.atticinscriptions.com/inscription/IGII2/1237" type="external">AIO</ref>, with another English translation and commentary.
+
+                </p>
+                <p> Further bibliography:
+                    <bibl type="author_date" n="Labarbe 1953">Labarbe 1953</bibl>; <bibl type="author_date" n="Schmitt Pantel 1992">Schmitt Pantel 1992</bibl>: 84-85; <bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>: 458-461; <bibl type="author_date" n="Blok - Lambert 2009">Blok - Lambert 2009</bibl>. See also <bibl type="author_date" n="Hedrick 1990">Hedrick 1990</bibl> and Rhodes - Osborne <bibl type="abbr" n="GHI">GHI</bibl> 5 for other references.
+                  
+                </p>
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                   
+<lb xml:id="line_1" n="1"/> <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name> <name type="epithet" key="Phratrios"><w lemma="φράτριος">Φρατρίο</w></name>·
+                    
+<lb xml:id="line_2" n="2"/> <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> <del rend="erasure"> Θεόδωρος Εὐφαντίδο </del> <space quantity="2" unit="character"/> <w lemma="ἀναγράφω">ἀν
+                        
+<lb xml:id="line_3" n="3" break="no"/> έγραψε</w> καὶ <w lemma="ἵστημι">ἔστησε</w> τὴν <objectType key="stele"><w lemma="στήλη">στήλην</w></objectType>. <space quantity="1" unit="character"/>
+                    
+<lb xml:id="line_4" n="4"/> <w lemma="ἱερωσύνη">ἱερεώσυνα</w> τῶι <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> <w lemma="δίδωμι">διδόναι</w> <w lemma="ὅδε">τ
+                        
+ <lb xml:id="line_5" n="5" break="no"/> άδε</w>· <w lemma="ἀπό">ἀπὸ</w> το̑ <name type="festival"><name type="animal" key="sheep"><w lemma="μεῖον">μείο</w></name></name> <name type="portion"><w lemma="κωλῆ">κωλῆν</w></name>, <name type="portion"><w lemma="πλευρόν">πλευρόν</w></name>, <name type="portion"><w lemma="οὖς">ὀ̑
+                            
+    <lb xml:id="line_6" n="6" break="no"/> ς</w></name>, <w lemma="ἀργύριον">ἀργυρίο</w> <num value="3">ΙΙΙ</num>· <space quantity="1" unit="character"/> <w lemma="ἀπό">ἀπὸ</w> το̑ <name type="festival"><name type="animal" key="generic"><w lemma="κόρειον">κορείο</w></name></name> <name type="portion"><w lemma="κωλῆ">κωλῆ
+                                
+ <lb xml:id="line_7" n="7" break="no"/> ν</w></name>, <name type="portion"><w lemma="πλευρόν">πλευρόν</w></name>, <name type="portion"><w lemma="οὖς">ὀ̑ς</w></name>, <name type="bakery"><w lemma="ἐλατήρ">ἐλατῆρα</w></name> <w lemma="χοινικιαῖος">χοινικια
+                               
+<lb xml:id="line_8" n="8" break="no"/> ῖον</w>, <name type="liquid"><w lemma="οἶνος">οἶνος</w></name> <w lemma="ἡμίχοον">ἡμίχον</w>, <w lemma="ἀργύριον">ἀργυρίο</w> <num value="1">Ι</num> <space quantity="3" unit="character"/>. κτλ.  
+                                          
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    Of Zeus Phratrios. The priest, Theodoros son of Euphantides, had the stone engraved and erected. The following are to be given as perquisites to the priest: (5) from the <foreign>meion</foreign>, a thigh, a rib (or side), an ear, of money 3 obols; from the <foreign>koureion</foreign>, a thigh, a rib (or side), an ear, a cake made from a <foreign>choinix</foreign> of flour, a half-<foreign>chous</foreign> of wine, of money 1 (?) obol. (The text continues for a further 107 lines.)
+                
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>
+                    De Zeus Phratrios. Le prêtre, Theodoros fils d’Euphantidès, a fait graver et dresser cette stèle. En guise de rémunération, que l’on donne au prêtre ce qui suit : (5) sur le <foreign>meion</foreign>, une cuisse, une côte, une oreille, en argent 3 oboles ; sur le <foreign>koureion</foreign>, une cuisse, une côte (ou un côté), une oreille, un gâteau d’un chénice, un demi-<foreign>chous</foreign> de vin, en argent 1 (?) obole. (Le texte continue sur 107 lignes.)</p>
+                <p>(traduction d'après D. Ackermann)</p>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head> 
+                <p>The small portion of the regulation excerpted here forms a part of a much larger dossier of documents inscribed on the stele. Though it comes first, after a short heading in lines 1-3, the regulation (lines 4-12) is followed by three decrees enacted by the phratry of the Demotionidai (1: lines 13-68; 2: 68-113; 3: 114-126, perhaps more). It would seem that these decrees were inscribed in succession, but probably at somewhat different times. The small regulation is clearly a list of priestly perquisites and defined as such (lines 4-5: ἱερεώσυνα τῶι ἱερεῖ διδόναι τ|άδε); the inscribing clause of the first decree on the stele also specifies that this list of perquisites was to be inscribed at the same time as the first decree (lines 64-68). This first decree is primarily concerned with the procedure of oaths and votes for the induction of new members into the phratry (specifically young male children, παῖδες, though these are only mentioned from the second decree onward, lines 70ff.). It also touches on the subjects of the sacrifices related to these occasions, thus making clear the link with the ἱερεώσυνα due to the priest which were written together with it and above it (cf. Hedrick, p. 26: priestly dues are mentioned "because [all] decrees of this inscription are concerned with the admission of candidates to the phratry and these sacrifices were offered on such occasions"). The second decree is concerned with the necessary group or quorum (θίασος) to be gathered during the ceremonies of induction, and also includes a quotation of the necessary oath (lines 108-113). The third is the briefest: its subject is the keeping of detailed records of the names of new members by the leader of the phratry (the φρατρίαρχος).</p>
+                <p>As part of the wider dossier, the regulation presented here offers one of the best cases for the organisation and cults of a phratry in Attica (for a dossier belonging to a <foreign>genos</foreign>, see <ref target="CGRN_84">CGRN 84</ref>, Salaminioi; to a deme, see <ref target="CGRN_19">CGRN 19</ref>, Skambonidai). Though probably more widely spread across the territory of Attica, the phratry of the Demotionidai had an established centre in the deme of Dekeleia. This appears to have been a cult site for Zeus Phratrios, Zeus in his role as protector of the phratry, to which the offerings and sacrifices needed to be brought (cf. in the first decree, lines 53-55: τὸ δὲ λοιπὸν ἄγεν τὰ | [μεῖα καὶ τὰ κόρει]α ἐς Δεκέλειαν ἐπὶ τ|[ὸν βωμόν; and 59-61: ἐὰν δέ τι τούτων διακωλύηι, ὅποι ἂν ὁ ἱ|ερεὺς προγράφηι, ἐνθαῦθα ἄγεν τὰ μεῖ|α καὶ τὰ κόρεια). The stele was explictly set up as belonging to Zeus Phratrios and marking his cult site (cf. line 1), and we are told that it was to be erected in front of the altar of the god (cf. line 66 of the first decree). This altar is repeatedly invoked in the dossier as the locus of the oaths and other rituals, such as the sacrifices. Similarly, the priest of the god plays a fundamental role in the cult and the administration of the rites connected to phratry membership; the regulations were set up at his cost (again lines 64-68), though he apparently could also claim the initiative for this (cf. line 2 for further discussion). On the Demotionidai, see further Hedrick, and more widely on the cults of phratries (focussing e.g. on Athena Phratria or Apollo Patroios), see Lambert.</p>
+                <p>Specifically, the regulation concerning the perquisites and the wider dossier allude to two types of sacrifices, both connected with these rites of induction of boys into the phratry: these are the μεῖον and the κούρειον. Of the two, the μεῖον is by far the more obscure (see below). The κούρειον (also κόρεον, κούριον) is clearly connected with a specific celebration, namely the third day of the festival of the Apatouria, called by the related term Koureotis (cf. esp. lines 27-29 of the inscription: ὧι ἂ|ν τὸ κόρεον θύσηι, τῆι Κορεώτιδι Ἀπατ|ορίων). The terms may etymologically denote a "shearing offering" (when boys cut their hair), but this is not completely clear and a link with full-fledged boyhood (κόρος, κοῦρος) is perhaps more plausible (for the sacrifice of the κούρειον in a completely different context, namely the shearing of flocks, cf. here <ref target="CGRN_81">CGRN 81</ref>, Thebes-on-the-Mykale, lines 12, 23). The Apatouria were celebrated in many Greek
+cities, and were generally an occasion for the integration of new members into a community; they are thus aptly reflected here at the level of the phratry. On the Apatouria, cf. Schmitt Pantel; and especially for the Apatouria in Athens (probably occuring in the second half of the month Pyanepsion, the 4th month: October/November), see Parker. The significance and the place of the μεῖον in the rites of the phratry and this festival is, however, much less certain. The μεῖον was traditionally viewed as the sacrifice of lamb or sheep which would be weighed (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v., basing this on the probably erroneous interpretation of sch. ad. Ar. <title>Ra.</title> 810). This derivation is now rightly questioned, though no suitable sense for the word has been proposed (cf. Hedrick, p. 26-27). As Parker observes, both the μεῖον and the κούρειον are attested as rites concerning the entry of adolescents in the group of the phratry, and indeed both seem to go hand-in-hand
+in lines 53-55 and 59-61 (quoted above). Though it remains to be more amply confirmed, the traditional scholarly view seeks to explain the two rites as corresponding to the two age groups typically envisaged by phratries: newborns or very young children (ages 0-3), and young boys and adolescents (ages 3-16), both presented by their fathers as new members. According to this view, the μεῖον would be the rite associated with the first group, while the κούρειον would be concerned with the second (cf. Parker; Rhodes - Osborne, p. 35, view the κούρειον as marking the completion of adolescence: "the ceremony at which boys, on reaching physical maturity (at age 16) were initiated into the phratry"; see already Labarbe. In any case, the μεῖον is considerably less discussed in the dossier of Demotionidai, and no explicit distinction is apparently being made here between παῖδες and another age group.
+                </p>
+                <p>Line 1: This line, in larger lettering (see Layout above) represents a heading, which "stands physically and syntactically independent of what follows" (Hedrick, p. 20). The genitive Διὸς Φρατρίο indicates both that the altar, in front of which the stele was placed, and the stele itself were consecrated to Zeus Phratrios and under the protection of this divinity.</p>
+                                
+                <p>Line 2: Two consecutive erasures have taken place here. First, the whole name of a priest (<foreign>stoichoi</foreign> 7-23) was erased; next, parts of the second name, written in the erasure, were in turn erased (<foreign>stoichoi</foreign> 7-12 and 17-20). The remaining letters seem to have been reused to complement the inscription of a third name. Hedrick thus aptly suggests that a new name was inscribed for each priest entering into function. The patronyms of the second and the third priests had the same element Εὐφα- in them, probably suggesting that they were part of the same family and that the priesthood was at least to some degree familial or hereditary. But it is also important to recall that each of the decrees successively inscribed on the stele contains the requirement that the priest inscribe it: lines 64-68, lines 106-108, and (very probably) lines 125-126. It may thus be presumed that in each case the priest had the obligation of paying for the inscription but also seized the privilege of having his name inscribed as well, over that of his predecessors. It remains unclear whether a hereditary priesthood is truly compatible with a series of three decrees inscribed in such close succession; an annual office is a more plausible alternative (cp. now Blok - Lambert on allotment as the means of attribution for the priesthoods of <foreign>gene</foreign>).</p> 
+                    
+                <p>Lines 5-8: After the introductory heading in lines 4-5, the short regulation contains a set of two lists of prerogatives, the first relating to the μεῖον, the second to the κούρειον. The μεῖον usually appears to have involved the sacrifice of a lamb or sheep (so <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.), and the κούρειον may have been much the same (so also Hedrick, adding goats to the equation; alternatively, the precise animals may have varied). The prerogatives from these animal sacrifices are partly paid out partly in nature and partly in money. The ham and a rib (or a part of the side) were among the most common priestly dues in Athens, cf. <ref target="CGRN_61">CGRN 61</ref>, line 8, and they are usually followed by a portion called the "half-head", i.e. half of the head of the animal carcass, cf. <ref target="CGRN_57">CGRN 57</ref> (Aixone), lines 4, 9, 11, etc. In both cases here, the priest of Zeus Phratrios receives an ear, which may be symbolic of the traditional—though admittedly much smaller—portion from the head. The ear on its own is seldom specified as a perquisite, though it does occasionally occur, cf. <ref target="CGRN_86">CGRN 86</ref> A (Kos), lines 59-60 (though probably in the case of a holocaust, where no other portions were readily available). It would seem that the priest receives less on the occasion of the μεῖον than at the κούρειον, since no wine or cake is given. However, the sum of money as a fee is also less significant at the κούρειον (one obol instead of three, in fact), thus making the prerogatives probably more or less analogous on both occasions; the higher sum given at the μεῖον may indeed have been intended to compensate the priest for the absence of a cake and wine on this occasion.</p>  
+            </div>
+        </body>
+    </text>
+</TEI>

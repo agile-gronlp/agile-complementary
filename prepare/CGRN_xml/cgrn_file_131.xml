@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_131" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 131</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> for Aphrodite at Halasarna (Kos)</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Stéphanie Paul</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p>Marble <rs type="objectType">stele</rs>, broken above and below.</p>	
+	<p><dimensions>
+	<height unit="cm">unknown</height>
+	<width unit="cm">36</width>
+	<depth unit="cm">unknown</depth>
+	</dimensions></p>	
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p>Letters:
+			<height unit="cm">0.9</height>.</p>
+		
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0300" notAfter="-0100">3rd or 2nd century BC</origDate></p>
+							
+							<p><desc>Justification: Hellenistic lettering (Bosnakis - Hallof - Rigsby).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599634" type="external">Kos</ref>. Found in a house at Kardamina, the site of the ancient deme of Halasarna.</placeName></p>
+							
+							
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-06-2014.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Bosnakis - Hallof - Rigsby <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 303. </p>
+	    				<p> Other edition: Paton - Hicks <bibl type="abbr" n="PH">PH</bibl> 369. </p>
+	    				<p> Cf. also:
+	    					Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 138; 
+	    					Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 172; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20303" type="external">IG-online</ref>, with the Greek text and a translation in German.  	
+	    				</p>
+	    				
+	    				<p> Further bibliography: 	
+	    					<bibl type="author_date" n="Parker 2001a">Parker 2001a</bibl>;
+	    					<bibl type="author_date" n="Parker 2002">Parker 2002</bibl>;
+	    					<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>.
+	    				
+	    				</p>
+</div> 
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    <ab>
+	    	
+	    	<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    	<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θυέτω</supplied></w></name> <supplied reason="lost">ὁ</supplied>
+	    	
+	    	<lb xml:id="line_2" n="2"/> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱ</supplied>ε<supplied reason="lost">ρε</supplied>ὺς</w></name> τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνος</w></name> <w lemma="ἐν">ἐν</w> τῶι <w lemma="μείς">μ<supplied reason="lost">ηνὶ</supplied></w> <supplied reason="lost">τῶι</supplied> <name type="month"><w lemma="Πάναμος"><supplied reason="lost">Πανά</supplied>  
+	    		
+	    	<lb xml:id="line_3" n="3" break="no"/>μω<supplied reason="lost">ι</supplied></w></name> <supplied reason="lost">τᾶι</supplied> <w lemma="ἕβδομος">ἑβδόμαι</w> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> τᾶι <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδίτ<supplied reason="lost">αι</supplied></w></name> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w> <w lemma="δραχμή"><supplied reason="lost">δρα</supplied>
+	    			
+	    			<lb xml:id="line_4" n="4" break="no"/>χμᾶν</w> <w lemma="εἴκοσι">εἴκοσι</w> καὶ τᾶι <w lemma="ἔνατος">ἐνάται</w> τοῦ <w lemma="αὐτός"><unclear>α</unclear><supplied reason="lost">ὐτοῦ</supplied></w> <name type="month"><w lemma="μείς"><supplied reason="lost">μηνὸς</supplied></w></name>
+	    	
+	    	<lb xml:id="line_5" n="5"/> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="ἴσος">ἴσου</w> καὶ <name type="invocation"><name type="personnel"><w lemma="σαλαΐς">σαλαΐδι</w></name></name> <w lemma="ἀγείρω">ἀγ<supplied reason="lost">ειρέτω</supplied></w>·
+	    		
+	    		<lb xml:id="line_6" n="6"/> <w lemma="διαγράφω">διαγραφόντω</w> δὲ τοὶ <name type="personnel"><w lemma="νεωποίης">ναποῖαι</w></name> τῶ<supplied reason="lost">ι</supplied> <w lemma="ἀεί"><supplied reason="lost">ἀεὶ</supplied></w> <w lemma="πρίαμαι"><supplied reason="lost">πρι</supplied>
+	    			
+	    			<lb xml:id="line_7" n="7" break="no"/>αμένωι</w> τὰν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύναν</w></name> ἐν τῶι <name type="month"><w lemma="μείς">μην<supplied reason="lost">ὶ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    	
+	    	<lb xml:id="line_8" n="8" break="no"/>ωι καὶ <w lemma="ἄλλος">ἄλλας</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="εἴκοσι">εἴκοσι</w> <w lemma="ὥστε">ὥστε</w> <name type="sacrifice"><w lemma="θύω">θύε<supplied reason="lost">ν</supplied></w></name> <supplied reason="lost">τᾶι</supplied> <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη"><supplied reason="lost">Ἀ</supplied>
+	    		
+	    		<lb xml:id="line_9" n="9" break="no"/>φροδίται</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name>· <name type="sacrifice"><w lemma="θύω">θυέτω</w></name> δὲ καὶ ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> το<supplied reason="lost">ῦ</supplied> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">Ἀπόλ</supplied>
+	    			
+	    			<lb xml:id="line_10" n="10" break="no"/>λωνος</w></name> τᾶι <w lemma="εἰκάς">εἰκάδι</w> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <w lemma="ἀπό">ἀπὸ</w> <w lemma="δραχμή">δραχμᾶν</w> <w lemma="εἴκοσι">εἴ<supplied reason="lost">κοσι</supplied></w>·
+	    	
+	    	
+	    	<lb xml:id="line_11" n="11"/> <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> δὲ καὶ τοὶ <w lemma="μισθόω">μεμισθωμένοι</w> τὸς <name type="quality"><w lemma="ἱερός">ἱερὸ<supplied reason="lost">ς</supplied></w></name> <name type="locality"><w lemma="κῆπος"><supplied reason="lost">κά</supplied>
+	    		
+	    		<lb xml:id="line_12" n="12" break="no"/>πος</w></name> καὶ τὸ <name type="structure"><w lemma="βαλανεῖον">βαλανεῖον</w></name> <w lemma="ἕκαστος">ἕκαστος</w> <w lemma="αὐτός">αὐτῶν</w> <name type="animal" key="goat"><name type="age"><name type="gender"><w lemma="ἔριφος">ἔριφ<supplied reason="lost">ον</supplied></w></name></name></name>
+	    	
+	    	<lb xml:id="line_13" n="13"/> <w lemma="ἀπό"><supplied reason="lost">ἀ</supplied>πὸ</w> <w lemma="δραχμή">δραχμᾶν</w> <w lemma="δεκαπέντε">δεκαπέντε</w>· <gap reason="lost" quantity="1" unit="character"/><orig>ιγ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    	
+	    	<lb xml:id="line_14" n="14"/> <supplied reason="lost">τ</supplied>ὰς <w lemma="ἐν">ἐν</w> <name type="locality"><w lemma="ἀκρόπολις">ἀκροπόλει</w></name> <w lemma="ἀνοίγνυμι">ἀ<supplied reason="lost">ν</supplied>οι<supplied reason="lost">γ</supplied><unclear>έ</unclear><supplied reason="lost">τω</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">καὶ</supplied>
+	    	
+	    	<lb xml:id="line_15" n="15"/> <w lemma="κλείω"><supplied reason="lost">κλ</supplied><unclear>α</unclear>ιέτω</w> <w lemma="ὅμοιος">ὁμοίως</w>· <w lemma="εἰ">αἰ</w> δέ <w lemma="κα">κ<supplied reason="lost">α</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    	
+	    	<lb xml:id="line_16" n="16"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ο</orig><gap reason="lost" quantity="1" unit="character"/><orig>λιων</orig> Γερ<unclear>α</unclear><supplied reason="lost">στίου</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    	<lb/><gap reason="lost" extent="unknown" unit="line"/> 
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>  [...] The priest of Apollo should [sacrifice] on the 7th of the month [Panamos], a goat to Aphrodite, worth 20 drachmae, and on the ninth of the [same month], (5) a goat of the same price, and [make a collection for] (or with?) the lamenting woman. The <foreign>neopoiai</foreign> should pay to the one who at any time happens to buy the priesthood, in the month [...], another 20 dr., in order to sacrifice a goat to Aphrodite. The priest of Apollo (10) must also sacrifice on the 20th a goat worth 20 dr. Those renting the sacred gardens and the bath should each sacrifice a kid worth 15 dr. [...] those on the acropolis, one should open [... and] (15) close in the same way. If [...] Gera[stios...]</p> 
+				</div>
+	    		
+	    		<div type="translation" xml:lang="fre">
+	    			<head>Traduction</head>
+	    			<p> [...] Que le prêtre d’Apollon [sacrifie] le 7 du mois [de Panamos] un caprin de 20 drachmes à Aphrodite et, le 9 du [même mois], (5) un caprin de même prix, et qu’il [fasse la collecte] pour (avec ?) la pleureuse. Que les néopes paient encore 20 dr. à l’acquéreur successivement en charge de la prêtrise au mois de [...] afin de sacrifier un caprin à Aphrodite. Que le prêtre d’Apollon (10) sacrifie encore le 20 un caprin de 20 dr. Que ceux qui ont loué les jardins sacrés et le bain sacrifient également un chevreau de 15 dr. chacun. [...] ouvre les [...] sur l’acropole [... et] (15) les ferme de la même manière. Si [...] de Gera[stios ...]</p>
+	    		</div>	
+	    			
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p> This text concerns sacrifices to Aphrodite performed by the priest of Apollo in the deme of Halasarna on Kos, along with perhaps other obligations of this priest and other fragmentary prescriptions (lines 11-16). Indeed, the regulation also provides guidelines for sacrifices to be made by "the one buying the priesthood" (lines 5-6) and those "renting the sacred gardens and the bath" (lines 11-13). The final part of the inscription concerns "opening" and "closing" structures on the Acropolis (lines 14-16?; see also below), perhaps including the temple of Aphrodite at Halasarna. </p>
+						
+<p> The precise character of the document is open to debate. It has been classified among the sales of priesthood by Hallof and Bosnakis in the <title>IG</title> corpus, probably because of the mention of “the purchaser (πριάμενος) of the priesthood” (lines 5-6). However, no priesthood of Aphrodite is known from Halasarna, and the sacrifices are performed by the priest of Apollo, whose area of expertise we know to have extended far beyond the cult of the god: see <ref target="http://cgrn.ulg.ac.be/CGRN_151/">CGRN 151</ref>. Nevertheless, Hallof and Bosnakis may be correct: the word πριάμενος here is likely to refer to the priest of Apollo, even though it is known that the priesthood was later (?) attributed by lot (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 103, ca. 180 BC; cf. Paul, p. 205).</p>
+						
+<p> Lines 1-5: The prescriptions concerning the sacrifice of the 9th Panamos must be read jointly with lines 26-31 from the sale of the priesthood of Aphrodite Pandamos and Pontia on Kos (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 302) and lines 12-14 from the cult calendar of the deme of Isthmos (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 280). All three inscriptions concern a sacrifice to Aphrodite Pandamos performed simultaneously in the city of Kos and in two of the demes at least: Halasarna and Isthmos. We may infer that these sacrifices belonged to a wider celebration related to the unity of the polis after the  synoecism of 366 BC, as suggested also by the epithet of the goddess, “of all the people”; see Parker 2002: 153-156 and Paul, p. 285-288. Aphrodite Pandamos and Aphrodite Pontia shared a precinct located near the harbor of the city, which included twin temples. On this cult, see <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 302 and <ref target="http://cgrn.ulg.ac.be/CGRN_220/">CGRN 220</ref>, with Parker 2002; Paul, p. 79-91.</p>
+		
+<p>  Line 5: The word σαλαΐς is explained by Hesychius as a synonym of κωκύτος, translated by the <bibl type="abbr" n="LSJ">LSJ</bibl> (s.v.) as “shrieking, wailing”, and recurs in one of the sales of the priesthood of Aphrodite Pandamos and Pontia on Kos, where it is associated with collections of money aimed at funding the sacrifice to Aphrodite Pandamos on the 9th Panamos (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 302, lines 26-27: τοὺς δὲ ἀγερμοὺς τᾶν σαλαΐδων καὶ τἆλλα περὶ αὐτῶν). There, the word may plausibly designate ritual agents, specifically group of wailing or shrieking women who undertook the ritual of begging for money or goods. Here, at Halasarna, only one such woman is apparently envisaged, which the priest must probably assist.</p>
+						
+<p>  Line 6: The <foreign>naopoiai</foreign> were a college of magistrates from the deme of Halasarna, who were, among other things, responsible for the management of sacred funds, the attribution of the priesthood of Apollo, the inscribing and setting up of stelae. Their area of expertise also extends beyond the religious life, as it includes the proposal of decrees. On their role, see Parker 2001a: 260 and Paul, p. 207-208.</p>
+										
+<p> Lines 11-13: It would appear that both a grove and a bath-house formed a part of the sacred properties envisaged by the regulation, and probably belonging to the sanctuary of Aphrodite. The habitual practice was the renting out of these assets in order to raise revenue for the cult, as explicitly evidenced in the sacrifice stipulated here; cp. here <ref target="http://cgrn.ulg.ac.be/CGRN_70/">CGRN 70</ref> (Oropos), line 11, and <ref target="http://cgrn.ulg.ac.be/CGRN_124/">CGRN 124</ref> (Pergamon), line 9.</p>
+						
+<p> Lines 14-15: These lines, although fragmentary, seem to refer to the prescription of opening and closing sacred buildings, such as those found in some sales of priesthood on the island (e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_188/">CGRN 188</ref>, lines 8-10). On the acropolis of Halasarna, see <ref target="http://cgrn.ulg.ac.be/CGRN_151/">CGRN 151</ref>, line 21.</p>
+
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

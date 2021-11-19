@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_33" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 33</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for the Anakeion at Elateia</title> 
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Large stone <objectType key="block">block</objectType>, perhaps a <objectType key="boundary">boundary</objectType> stone.</p>
+		
+	<p><dimensions>
+		<height unit="cm">90</height>
+		<width unit="cm">50</width>
+		<depth unit="cm">22</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p>Letters: <height unit="cm">unknown</height>.</p>			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0425" notAfter="-0400">end of 5th century BC</origDate></p>
+							
+							<p><desc>Justification: letterforms (Dittenberger)</desc></p>
+						</origin>
+	<provenance><p>
+		<placeName type="ancientFindspot" key="Elateia" n="Central_and_Northern_Greece"><ref target="http://pleiades.stoa.org/places/540755" type="external">Elateia</ref></placeName>). Found in the village of Sphaka near Drachmani. Now in the Museum in Drachmani.
+	
+	</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by JM Carbon in 20.01.2019.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Dittenberger <bibl type="abbr" n="IG IX.1">IG IX.1</bibl> 129. </p>
+	    			<p> Other edition: <bibl type="author_date" n="Foucart 1884">Foucart 1884</bibl>. </p>
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 79; 
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 82. </p> 
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Bilco 1884">Bilco 1884</bibl>; 
+	    				Roberts - Gardner <bibl type="abbr" n="IGE">IGE</bibl> 229bis;
+	    				<bibl type="author_date" n="Detienne 1979">Detienne 1979</bibl>;
+	    				<bibl type="author_date" n="Cole 1992">Cole 1992</bibl>; 
+	    				<bibl type="author_date" n="Osborne 1993">Osborne 1993</bibl>;
+	    				<bibl type="author_date" n="Dillon 2002">Dillon 2002</bibl>;
+	    				<bibl type="author_date" n="Blok 2005">Blok 2005</bibl>.
+	    			</p> 
+	    		</div>
+	    			
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	
+	    				<lb xml:id="line_1" n="1"/> <w lemma="ἐν">ἐν</w> το̑ι <name type="structure"><w lemma="Ἀνάκειον">ϝα
+	    					
+	    					<lb xml:id="line_2" n="2" break="no"/> νακείοι</w></name>
+	    				
+	    				<lb xml:id="line_3" n="3"/> <name type="sacrifice"><w lemma="θύω">θύοντα</w></name>
+	    				
+	    				<lb xml:id="line_4" n="4"/> <w lemma="σκηνέω">σκανε̑ν</w>·
+	    				
+	    				<lb xml:id="line_5" n="5"/> <name type="person"><w lemma="γυνή">γυναῖκα</w></name>
+	    				
+	    				<lb xml:id="line_6" n="6"/> <w lemma="μή">μὲ</w> <w lemma="πάρειμι">παρίμε<supplied reason="lost">ν</supplied>.</w>
+	    				
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>In the sanctuary of the Anakes, the one who sacrifices must put up a tent. A woman cannot enter.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Dans le sanctuaire des Anakes, celui qui sacrifie doit dresser une tente. Une femme ne peut pas entrer.</p>
+				
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+
+<p> This text (which may have been a boundary stone) contains short regulations abour behaviour in and entrance to the sanctuary.</p> 
+	
+<p> Lines 1-2: Various temples of the Anakes ("Lords") are attested in Athens and in Epidauros. For the references, <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. Ἀνάκειον. For sacrifice to the Anakes in the present in the present Collection cf. <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref> (Thorikos), line 37.</p>  
+		
+						<p>Lines 3-4: "The one who sacrifices" (θύοντα = τὸν θύοντα) should be taken as the subject accusative of an accusative with infinitive construction; σκανε̑̄ν is a variant of σκανοῦν, "to put up a tent". Ziehen took the infinitive in an imperatival sense and argued that σκανέω refers to setting up a tent for the post-sacrificial meal, adducing a law from Kos (<bibl type="abbr" n="LSCG">LSCG</bibl> 168 / <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 293, line 1) in which worshippers are urged to "sacrifice and set up a tent" ([θ]υέτω δὲ καὶ σκανοπαγείσθω). An alternative has been proposed  (Bilco; Roberts - Gardner) that the verb refers to (facultative) "camping" (staying the night). In this reading, the rule would have stipulated that "the one who sacrifices may put up a tent in the sanctuary of the Anakes" (as opposed to other visitors; cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_129/">CGRN 129</ref> (Patara), lines 6-8, where only those offering a sacrifice are
+allowed to camp in the sanctuary; for a discussion of restrictions on camping in sanctuary space: Dillon, p. 123-124). However, it is difficult to see how the simple infinitive σκανε̑̄ν could be taken to mean ἐξεῖναι σκανε̑̄ν. Thus Ziehen's interpretation is to be preferred. The rule should be seen as one tantamount to a prohibition against the carrying away of meat, since it enforced "camping" in the sanctuary and accordingly prescribed overnight feasting on the spot (compare the rules stipulating "no take-away", οὐκ ἀποφορά or similar, e.g. at <ref target="http://cgrn.ulg.ac.be/CGRN_52/">CGRN 52</ref>, Erchia).</p>
+								
+<p>Lines 5-6: For γυναῖκα μὲ παρίμεν, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. πάρειμι (εἶμι) III. This is one of the cases in which women are forbidden entrance as a group. Such cases occur infrequently and are discussed in some detail by Cole and Osborne. Cole (p. 105) provides a list of eight similar cases, ranging from the 5th to the 2nd century BC. In some of these, the entrance of women is framed as being against the religious norm (οὐ θέμις, e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_27/">CGRN 27</ref>, Thasos, lines 3-4, or οὐκ ὀσία, e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_62/">CGRN 62</ref>, Lindos). We do not know precisely what these inscriptions prohibit, but because of their general focus on aspects of the sacrificial ritual, it is likely that they concern women’s participation in sacrifice. The status of such prohibitions against women is a matter of ongoing scholarly debate. For Detienne, p.131,  women were always excluded in these contexts, and sacred laws explicitly prescribing such exclusions made a point of emphasizing (for some reason) what was anyway expected. Alternatively, women were normally included, and these inscriptions represent the exceptional case; casuistic prohitibitions against women were restricted to individual cults with particular rules of (and reasons for) exclusion (e.g. Dillon, p. 338; Blok, p. 133).</p>
+					</div>
+	    	</body>
+    	</text>
+	
+	</TEI>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_159" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 159</idno>: Fragment of a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> concerning a female cult at Messene</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Limestone <rs type="objectType" key="block">stele</rs>, broken at the top and on the right. Relatively intact on the left and at the bottom.</p>
+			<p><dimensions>
+					<height unit="cm">58</height>
+					<width unit="cm">37</width>
+					<depth unit="cm">15</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The lines and letters have been very proficiently and accurately inscribed. The letters are both very large and legible.</p>
+<p>Letters: <height unit="cm">7.5</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0225" notAfter="-0191">ca. 225-191 BC</origDate></p>
+			<p><desc>Justification: lettering (Wilhelm) and <foreign>terminus ante quem</foreign> provided by the use of months from the Messenian calendar (see Commentary).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Messene" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570479" n="external">Messene</ref></placeName>. Exact findspot unknown. Now in the Archaeological Museum of Messene (inv. no. unknown).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2016 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Kolbe <bibl type="abbr" n="IG V.1">IG V.1</bibl> 1447. In line 2, we adopt the suggestion of Wilhelm (as also reported in Kolbe's apparatus); for Kolbe's line 9, not fully adopted here, see below Commentary.</p>
+
+	<p>Other edition: <bibl type="author_date" n="Wilhelm 1891">Wilhelm 1891</bibl>: 352.</p>
+					
+<p>Cf. also: Meister <bibl type="abbr" n="SGDI">SGDI</bibl> 4650; von Prott <bibl type="abbr" n="LGS I">LGS I</bibl> 15; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 64.</p>
+
+					<p>Further bibliography: <bibl type="author_date" n="Tod 1912">Tod 1912</bibl>; <bibl type="author_date" n="Aloni 1983">Aloni 1983</bibl>; <bibl type="author_date" n="Quantin 2004">Quantin 2004</bibl>: 597-600; <bibl type="author_date" n="Trümpy 1997">Trümpy 1997</bibl>: 198.</p>
+
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+						    			    					
+<lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ΛΙΙ</unclear>Ν<unclear>Ι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Ι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    						    					
+	    					
+<lb xml:id="line_2" n="2"/><gap reason="lost" quantity="6" unit="character"/> <w lemma="τέσσαρες"><supplied reason="lost">τ</supplied>έσσαρες</w>· <name type="month"><w lemma="φυλλικός">Φυλλ<unclear>ι</unclear><supplied reason="lost">κοῦ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3"/><gap reason="lost" quantity="5" unit="character"/> <name type="age"><w lemma="τέλειος"><supplied reason="lost">τ</supplied>έλεον</w></name>, <name type="animal" key="swine"><name type="age"><w lemma="χοιρίον">χοιρίον</w></name></name> <name type="gender"><w lemma="ἄρσην">ἔρσε<unclear>ν</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_4" n="4"/><supplied reason="lost">τὸμ</supplied> <name type="vegetal"><w lemma="παλός"><supplied reason="lost">π</supplied><unclear>α</unclear>λὸν</w></name> τᾶι <name type="personnel"><w lemma="προστατίνα">προστατίνα<unclear>ι</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Demeter"><w lemma="Δημήτηρ"><supplied reason="lost">Δάματρι</supplied></w></name> <name type="epithet" key="Melaina"><w lemma="μέλας"><supplied reason="lost">Με</supplied>
+	    					
+<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">λ</supplied><unclear>α</unclear>ίναι</w></name>· <name type="month"><w lemma="μνηστήρ">Μναστῆρος</w></name> <w lemma="δωδέκατος">δυωδε<supplied reason="lost">κάται</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_6" n="6"/><w lemma="κοτύλη">κοτύλας</w> <name type="liquid"><w lemma="οἶνος">οἴνου</w></name>, <name type="personnel"><w lemma="κῆρυξ">κάρυκι</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_7" n="7" break="no"/>μα· <name type="month"><w lemma="Ἀγριάνιος">Ἀγριανίου</w></name> <w lemma="δωδέκατος">δυωδε<unclear>κ</unclear><supplied reason="lost">άται</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <name type="bakery"><w lemma="ψαιστίον"><supplied reason="lost">ψαι</supplied>
+	    					
+<lb xml:id="line_8" n="8" break="no"/>στίον</w></name>, <name type="liquid"><w lemma="ἔλαιον">ἐλαίω</w></name> <w lemma="κοτύλη">κοτύλα</w>, <orig>εσ</orig><gap reason="lost" extent="unknown" unit="character"/><w lemma="χοῖνιξ"> <supplied reason="lost">χοῖ</supplied>
+	    					
+<lb xml:id="line_9" n="9" break="no"/>νιξ</w>, <name type="liquid"><w lemma="ἔλαιον">ἐλαίω</w></name> <w lemma="κοτύλη">κοτύλα</w>, <name type="liquid"><name type="object"><w lemma="γληνίς">γληνὶς</w></name></name> <orig>Ι</orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    						    					
+<lb xml:id="line_10" n="10" break="no"/>εραν <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοῖρον</w></name></name> καὶ <w lemma="ἕξ">ἓκ</w> <name type="object"><w lemma="κάδδιχος">καδδίχος</w></name>· <name type="personnel"><w lemma="θοιναρμόστρια">θο<supplied reason="lost">ιναρμοστρίαι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_11" n="11"/><name type="age"><w lemma="τέλειος">τέλεον</w></name> τῷ <name type="personnel"><w lemma="κλᾳκοφόρος">κλαϊκοφόρῷ</w></name> καὶ τὰν ἐκ<gap reason="lost" extent="unknown" unit="character"/>
+		    					
+<lb xml:id="line_12" n="12"/><name type="title"><w lemma="προστάτης">προστάτας</w></name> τᾶι <name type="personnel"><w lemma="θοιναρμόστρια">θοιναρμοστρίαι</w></name> <w lemma="unclear">εὐ<unclear>ι</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_13" n="13" break="no"/>ραν <name type="personnel"><w lemma="προστατίνα">προστατίνας</w></name>· <w lemma="εἰ">εἰ</w> δὲ <w lemma="μή">μή</w>, <name type="authority"><w lemma="κύριος">κυρία</w></name> <w lemma="εἰμί">ἔ<supplied reason="lost">στω</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_14" n="14" break="no"/><w lemma="unclear">ζωντι</w> <w lemma="κατά">κὰτ</w> τὰ <name type="authority"><w lemma="νομίζω">νομιζόμενα</w></name> <w lemma="ἀγείρω">ἀγερ<supplied reason="lost">εῖ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_15" n="15"/>ἁ <name type="personnel"><w lemma="θοιναρμόστρια">θοιναρμόστρια</w></name> <w lemma="πέντε">πέντε</w> <w lemma="δραχμή">δραχμ<supplied reason="lost">ὰς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_16" n="16"/><w lemma="ἀγείρω">ἀγερεῖ</w> καὶ τὸμ <name type="vegetal"><w lemma="παλός">παλὸν</w></name> <name type="vegetal"><w lemma="ἀχυρόω">ἀχυρωμέν<supplied reason="lost">ον</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὰς</supplied> <name type="meal"><w lemma="θοίνη"><supplied reason="lost">θοί</supplied>
+	
+<lb xml:id="line_17" n="17" break="no"/>νας</w></name> τὰς <w lemma="ἐν">ἐγ</w> <name type="group"><w lemma="δημόσιος">δαμοσίω</w></name> καὶ <w lemma="ἐκ">ἐκ</w> τᾶν <gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_18" n="18"/><w lemma="ποιέω">ποιήτω</w> <w lemma="ὡς">ὡς</w> <name type="person"><w lemma="μηδείς">μηδεμία</w></name> <w lemma="λείπω">λείπει</w>. <space quantity="1" unit="line"/>
+
+<lb/><space quantity="1" unit="line"/>
+
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+[...] four. (In the month?) Phyllikos [...] adult animal, a male piglet [...] clay (?) for the female president [... to Demeter (5) Mel]aina. On the 12th of Mnaster [...] <foreign>kotylai</foreign> of wine. To the herald [...] On the 12th of Agrianios [...] a little cake, a <foreign>kotyle</foreign> of olive-oil [...] a <foreign>choinix</foreign>, a <foreign>kotyle</foreign> of olive-oil, a <foreign>glenis</foreign> [...] a [...] (10) piglet and six jars (or: measures?). To [the female banquet-setter (?) ...] an adult animal to the key-bearer and the [...] <foreign>prostates</foreign> to the female banquet-setter [...] female presidents. But if not, let she have the authority [...] according to the customs. Collecting [...] (15) the female banquet-setter 5 drachmae [...] she collects also the clay mixed with chaff/straw [...] banquets, the ones at civic (expense?) and from the [...] let it be made so that no one (woman) is missing.  
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+[...] quatre. (Au mois de ?) Phyllikos [...] animal adulte, un porcelet mâle [...], de l'argile (?) pour la présidente [... à Déméter (5) Mel]aina. Le 12 Mnaster [...] des kotyles de vin. Au héraut [...]. Le 12 Agrianos [...] un petit gâteau, un kotyle d'huile [...] un chénice, un kotyle d'huile, un <foreign>glenis</foreign> [...] un [...] (10) un porcelet et six vases (ou une unité de mesure ?). À [la responsable des banquets (?) ...], un animal adulte à la porteuse de clé et la [...] prostates à la responsable des banquets [...] présidentes. Sinon, qu'il lui soit permis [...] selon les coutumes. Collecter [...] (15) la responsable des banquets 5 drachmes [...] elle collecte ausi l'argile mêlé de paille [...] les banquets, sur (fonds ?) publics et sur [...] que cela soit fait afin qu'aucune ne manque.
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p> Though highly fragmentary, this is nevertheless a fascinatingly detailed regulation from the cult of an uncertain deity at Messene. The text seems to have been a sort of dossier of regulations, discussing the calendar of rites and the duties of officials concerning the cult in question. The extant beginning of the inscription contains what appears to be a small calendar of rituals. In a style typical of sacrificial calendars, we discern some dates (at lines 3 (?), 5, and 7), sacrificial animals (lines 3, 10, 11) and lists of quantities of other substances, such as wine, oil, etc. (lines 3-10); in this part of the text we do not encounter any verbs, as is also common in calendars. Since line 13 introduces an enforcement clause of some sort (εἰ δὲ μὴ, κυρία ἔ[στω...), some of the lines directly preceding this would presumably have discussed a kind of rule or duty, perhaps for the worshippers, perhaps for one or more of the functionaries that are mentioned (the θοιναρμόστρια, the κλαϊκοφόρος, the προστατίναι and the προστάται). The remainder of the inscription (line 14 onwards) indeed appears to have been primarily concerned with the duties of the official known as θοιναρμόστρια (appearing in the nominative in line 15; on this official cf. Commentary below). The content of these final lines is again highly uncertain, but seemingly she was to make a collection (line 14, 16). Some rituals involving “clay” (line 16) and ritual meals, perhaps to be organized from various types of funding (lines 16-17), were apparently to include all female worshippers (if μηδεμία in line 18 refers to a person and not to a feminine noun).</p>
+						
+						
+<p> Given its fragmentary state, the context of the regulation is difficult, but perhaps not impossible to recover. If the restoration of the goddess Demeter Melaina in lines 4-5, suggested to Kolbe by Hiller von Gaertringen is correct, then the cult will have had a tangible link with this goddess. The goddess is not otherwise specifically known with this epithet at Messene, however, Pausanias (8.5.8 and 8.42.1-13) discusses the cult of Demeter Melaina at Phigaleia in southwestern Arkadia, a site not very far from Messene. The restoration should remain tentative (after all, only the letters ΙΝΑΙ at the start of line 5 are securely preserved), but still may be corroborated through several other clues in the text itself.</p> 
+						
+						
+<p> First of all, tell-tale factors indicating that this is a strongly female cult are the presence of few male officials in the cult—apparently only a herald in line 6 (cf. below for a discussion of the possibly female identity of the κλαϊκοφορος in line 11)—and the apparent mention of female worshippers in line 18 concerning a ritual in which "no women should be left behind". In the same light, the mention of an official called the προστατίνα, "female president" (lines 4 and 13) is particularly intriguing: for the political language employed during female rites and festivals, cf. our Commentary below.</p>
+						
+<p> Moreover, the θοιναρμόστρια was particularly, though perhaps not exclusively, associated with the rites of Demeter (for a discussion of this, cf. also Tod). In Messenia itself, she is known from at least two other important sources. The first of these is the perhaps roughly contemporary treaty <bibl type="abbr" n="IG V.1">IG V.1</bibl> 1498, which prescribes various fines sacred to Demeter and which was set up in the sanctuary of that goddess (probably at Messene); the θοιναρμόστρια is to exact fines in some cases. The other key piece of evidence is the famous dossier of regulations from Andania in Messenia, which mentions a θοιναρμόστρια appointed for the cult of Demeter (there were perhaps others). She and her underlings (the ὑποθοιναρμόστριαι) are participants in the great procession to Demeter’s sanctuary starting from Messene itself, cf. <ref target="CGRN_222">CGRN 222</ref>, lines 30-31.</p> 
+						
+						
+<p>Line 2 (and 5 and 7): If correctly restored, the first month extant in the short sacrificial calendar contained in the regulation was Phyllikos, which is otherwise known from the calendar of Thessaly (there, occurring in late Spring-early Summer). The calendar of the city of Messene is only known from this regulation: Mnaster is an otherwise unattested month, while Agrianios is a common month in Dorian cities, typically also occurring at the end of Spring and the beginning of Summer; see Trümpy for some discussion and parallels. Despite her assertion to the contrary, it is probable that the three months preserved here therefore occurred in a direct sequence: all were perhaps Spring-to-Summer months? Intriguing is also the fact that both dates in lines 5 and 7 were the 12th. This day may have marked a recurrent moment for the rites in the cult, and it might even be proposed that the rites in Phyllikos also occurred on the same day. There is no obvious explanation for the significance of this date, however. The fact that months from the epichoric calendar of Messene are still employed in this regulation suggests moreover that it must date to before the adoption of the Achaian calendar and its months in ca. 191 BC (see also Kolbe).</p>
+						
+						
+<p>Line 3: We should put a comma after τέλεον, since the adjective is highly unlikely to agree with the "little piglet", χοιρίον. First of all, this was by no mean an ‘adult’ animal, and even if we should take τέλειος here in the sense of "unblemished", we would expect it to have been clustered together with ἔρσεν if it had qualified the same animal. The diminutive is relatively unusual in ritual norms. The word χοιρίον may have denoted a younger animal in a case where χοῖρος was used generically for any type of swine (for examples, <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. Ab). Moreover, the ‘little pig’ may also had some specificity to the rites of Demeter found in Messenia and Laconia: cf. <bibl type="abbr" n="IG V.1">IG V.1</bibl> 364, lines 8-9: [Δ]άματρι θύσει χοιρίδι[α δ]ύ̣ο [ὑπο]λί<supplied reason="omitted">π</supplied>α̣|ρ̣α ἄρσεν<supplied reason="omitted">α</supplied> (cp. 363, line 19); and see also here the χοιρίσκους τρεῖς used for preliminary purifications at Andania, <ref target="CGRN_222">CGRN 222</ref>, line 68. The gender of piglets is occasionally specified in ritual norms, and here the emphasis on this specification may also highlight a characteristic of the cult of Demeter; cp. esp. the example from Sparta cited immediately above, where the sacrifice of male piglets is specified in four cases.</p>
+				
+						
+<p>Line 4 (and 16): These two lines apparently mention something which is wholly unique in ritual norms: clay (πηλός, Doric παλός; the sense of this word as "muddy wine" or "lees" is only found in poetic sources, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. πηλός II). In line 16, it would appear that the clay is mixed with chaff or straw. We know that such a process was usually undertaken to make clay stronger, when it was used as a building material (mortar) for masons (on this process of ἀχυρόωσις, cf. the analogy observed in Arist. <title>HA</title> 612b 22 between the way birds build nests and humans construct buildings). The significance of this "mix" within the cult in question here is not easy to discern. Instead of as a building material, it of course seems more probable that the clay with chaff was here used for a ritual purpose. In <ref target="CGRN_15">CGRN 15</ref> (Gortyn) an alternative proposal for restoration in line 4 is [παλ]οσφαίραια "clay balls" in a list of sacrificial provisions (which is equally conjectural as the solution [ὁ]λοσφαίραια "wholly spherical objects", that was chosen in our Collection). In some other examples, mud or dirt may have been used in the context of a cleansing during purifications. First, a proposed alternative restoration of the damaged line 16 of <ref target="CGRN_35">CGRN 35</ref> (Iulis) may constitute a parallel: ἔπειτα δ̣ὲ̣ ὕ[δ]ατι λουέν γῆ[ι] χ[ρίσ]|αντα, "then wash it with water having rubbed it with earth" (but this reading is not followed in the present Collection since it seems difficult to reconcile it with the traces). Moreover, in the fragmentary <ref target="CGRN_65">CGRN 65</ref> (Tegea), line 19, something needs to be done with "rubbish" (χλέος), after which one is pure. Alternatively, and quite intriguingly, Wilhelm invoked Bekker <title>Anecd.</title> 1.293 s.v. πηλοὶ καὶ πίτυρα· μυστικά εἰσι ταῦτα; this would suggest that the clay served a specific ritual function during initiations.</p>
+						
+<p> Line 4 (and 12-13): With its more well-attested cognate προστάτις, the προστατίνα forms the female equivalent of the common masculine title προστάτης, usually "president of the Council" (mentioned here in line 12). However, the word seems also to have denoted some sort of presidency with a religious connection. Indeed, προστάτις is attested of a few officials in the Roman period, who were probably more or less equivalent to priestesses: cp. esp. <bibl type="abbr" n="SEG">SEG</bibl> 15, 763, a female official in the cult of Meter at Pergamon. The most compelling parallel for the office at Messene, however, may be the female archons, ἀρχούσαι, known to have presided over the Thesmophoria in Attica; see here <ref target="CGRN_79">CGRN 79</ref> (Cholargos), line 3; cp. <bibl type="abbr" n="IG II²">IG II²</bibl> 1213; finally, in <ref target="CGRN_97">CGRN 97</ref> (Mylasa), line 5, we find the phrase ὡς ἔδοξε ταῖς γυναιξ[ί], using the language of democratic decision-making.</p>
+						
+<p> Lines 7-8: A cake called ψαιστός (made of ground barley mixed with honey and oil, cf. <bibl type="abbr" n="LSJ"/> s.v.) also occurs in  <ref target="CGRN_94">CGRN 94</ref> (Eleusis), line 21. </p>
+						
+<p> Line 9: The restoration proposed by Kolbe, [θηλυτ]έραν, "more female", is difficult to corroborate in reference to a sacrificial animal, though it remains possible given that it was usually meant as a contrast with "maleness" (see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. θῆλυς); cf. the male piglet at line 3. We prefer not to restore anything here.</p>
+						
+<p>Lines 9-10: In the first of these lines, it remains unclear what the word γληνίς signifies. According to <bibl type="abbr" n="LSJ">LSJ</bibl> s.v., it may have been a sort of measure (indeed, γλήνη was an anatomical socket that could be compared to the κοτύλη in that sense). However, a good alternative is suggested by Wilhelm, namely that γλήνη also means a honeycomb (cf. Hsch. s.v.), and that therefore γληνίς might also be derived from this. For honeycombs, cp. here e.g. those used during the sacrificial rituals for Despoina at Lykosoura: <ref target="CGRN_126">CGRN 126</ref>, line 14. </p>
+						
+<p> Line 10: The precise sense of the word κάδδιχος is also not completely clear. Hsch. s.v. gives this as a type of measure (ἡμίεκτον ἢ μέτρον). Wilhelm instead adduces Plut. <title>Lyc.</title> 12, on voting-urns in which pieces of bread where cast at Sparta: κάδδιχος καλεῖται τὸ ἀγγεῖον εἰς ὃ τὰς ἀπομαγδαλίας ἐμβάλλουσι. Aloni sees the κάδδιχος as most likely to be a variant form of κάδος, a type of large vase that was most often a recipient of wine; but which sometimes (when the diminuitive form is used) had a ritual function. Thus, it seems the most likely that the requirement here is for six jars to be furnished as part of the sacrifices, though for what specific purpose remains to be elucidated. Were these jars containers for wine? Did they have another ritual function? Did the women perhaps hold elections as they are thought to have done during the Thesmophoria (see above for discussion of the political connotations of female rites)? We cannot give a definite answer.</p>
+						
+<p> Line 10 (and 12, and 15): On the θοιναρμόστρια cf. our general Commentary above. It would seem that the duties of this official called "banquet-setter" (θοιναρμόστρια) here appropriately consisted in setting out banquets for the people of Messene and perhaps also in specifically female occasions, where "no woman was to be left behind" (lines 15-17).</p>
+						
+<p> Line 11: Quantin discusses the function of the κλαϊκοφόρος. The author argues that the κλαϊκοφόρος, at least in a cult of Artemis Limnatis, was the title of a girl who carried the keys for the priestess. Elsewhere, the κλειδοῦχος/κλειδοφόρος/κλαϊκοφόρος was often some kind of priestly assistant.</p>
+						
+<p> Line 13: Apparently, some female official (the θοιναρμόστρια? the προστατίνα?) had the authority to impose a punishment in case some duty (probably specified immediately before) was not respected. Priests were often put in charge of enforcing the rules: for such a case in our Collection, in which the priest may inflict penalties and the term κύριος appears, cf. <ref target="CGRN_75">CGRN 75</ref> (Oropos), lines 9-20. </p>
+						
+						<p>Lines 14-16: For ritual collections undertaken by the cult personnel, especially by priestesses, see here <ref target="CGRN_118">CGRN 118</ref> (Halikarnassos), lines 25-28, <ref target="CGRN_131">CGRN 131</ref> (Kos), line 5, <ref target="CGRN_188">CGRN 188</ref> (Kos), lines 5-6 and <ref target="CGRN_167">CGRN 167</ref> (Kos), line 23,  and  <ref target="CGRN_175">CGRN 175</ref> (Priene), lines 27-32. The purpose of this part of the text may have been to define the parameters for the collections; some of the inscriptions cited above regulate when or where the collection is to be made. The five drachmae mentioned in line 15 here might represent the total sum of money she was expected or allowed to obtain. </p>
+						
+<p> Line 17: The expression τὰς ἐγ δαμοσίω καὶ ἐκ τᾶν ... may perhaps refer to two differents types of funds used to finance various banquets: the public funds and the funds of the god. Ritual norms often specify the source of money that was to be used to pay for a particular expense. On "public funds" cp. e.g. <ref target="CGRN_150">CGRN 150</ref> (Mylasa), lines 19-20, and <ref target="CGRN_205">CGRN 205</ref> (Antiocheia-ad-Pyramum), lines 22-23; on ‘sacred funds’, cf. e.g. <ref target="CGRN_24">CGRN 24</ref> (Athens), lines 7-9, and  <ref target="CGRN_147">CGRN 147</ref> (Kos), line 115. </p>
+						
+
+						
+					</div>
+			</body>
+    	</text>
+	</TEI>

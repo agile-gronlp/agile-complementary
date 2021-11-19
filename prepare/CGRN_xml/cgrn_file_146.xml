@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_146" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 146</idno>: <rs type="textType" key="sacrificial calendar">Sacrificial calendar</rs> of the deme of Phyxa on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Zoé Pitz</author>
+	    							</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support><p> Octagonal
+		<rs type="objectType">column</rs> of white marble, broken below, but relatively intact above. Texts inscribed on single faces on sides A, D, and E. Sides B-C, reprised here, are inscribed on two faces, but forming one continuous text. The sign | is here used to mark the separation between the two faces on which the text is inscribed.</p>
+	<p><dimensions>
+	<height unit="cm">37</height>
+	<width unit="cm">35</width>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p/>
+			<p>Letters: <height unit="mm">7-10</height>. Space between lines: <height unit="mm">3</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0250" notAfter="-0200">ca. 250-200 BC</origDate></p>
+							
+							<p><desc>Justification: lettering (Hallof - Bosnakis).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>, near the village of Ασφενδιού (Phyxa), at the place called Καπαμά πηγάδι (Kapama spring) reused in a wall. Now in the new storehouse in Kos town (inv. no. E535).</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by J.-M. Carbon</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by J.-M. Carbon in 05.2018.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 279. We only include lines 32-59 of the edition; in other words, faces B and C here (see above on Support), but with a new, potentially more accurate numbering of the lines of this part of the column. The text on these sides is continuous and the transition between the two faces is indicated here by | as in <title>IG</title>. We give the ancient punctuation of the text as in Hallof - Bosnakis 2010, which seems to
+be more accurately transcribed (as far as one can see, reading from the published photographs). On the basis of line 10, we restore the option of an ewe for Dionysos in line 6. For the new restoration in line 16 (Carbon), see the commentary ad loc.; other minor differences in accentuation and breathings are also included.</p>
+	    			
+	    			<p>Other edition: 
+	    				<bibl type="author_date" n="Bosnakis - Hallof 2010">Bosnakis - Hallof 2010</bibl>, with ph. figs. 1a-b. </p>
+
+	    			<p>Cf. also: 
+	    				<ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20279" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+	    			
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Bosnakis - Hallof 2005">Bosnakis - Hallof 2005</bibl>; 
+	    				<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 237-243.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab subtype="Face" n="B-C">Faces B-C
+	    		    			
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				
+<lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/>|<orig>Μ<unclear>Ο</unclear>Σ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_2" n="2"/><supplied reason="lost"><pc>–</pc></supplied> <supplied reason="lost">τ</supplied>ᾶι <w lemma="αὐτός">αὐτᾶι</w> <pc>:</pc> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <pc>:</pc> <name type="age"><name type="gender"><w lemma="τέλειος">τελ|έαν</w></name></name> <pc>:</pc> <orig><unclear>Τ</unclear>Ο</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_3" n="3"/><unclear>ὁ</unclear> <name type="personnel"><w lemma="θεοκόλος"><supplied reason="lost">θ</supplied>ε<supplied reason="lost">υ</supplied>κόλος</w></name> <pc>–</pc> <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη"><unclear>Ἀ</unclear><supplied reason="lost">φροδ</supplied><unclear>ίτ</unclear>|αι</w></name> <pc>–</pc> <name type="animal" key="goat"><w lemma="αἴξ">αἶγες</w></name> <pc>:</pc> <name type="age"><name type="gender"><w lemma="τέλειος">τέλ<supplied reason="lost">εαι</supplied></w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_4" n="4"/><name type="age"><name type="gender"><w lemma="τέλειος">τέλεων</w></name></name> <pc>–</pc> τᾶι <w lemma="δωδέκατος">δυωδεκ|άται</w> <pc>–</pc> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλων<supplied reason="lost">ι</supplied></w></name> <pc>:</pc> <gap reason="lost" extent="unknown" unit="character"/> 
+	    					    				
+<lb xml:id="line_5" n="5"/><name type="age"><name type="gender"><w lemma="τέλειος">τέλεων</w></name></name> <pc>–</pc> <name type="deity" key="Epione"><w lemma="Ἠπιόνη">Ἀπι<supplied reason="lost">ώ</supplied><unclear>ν</unclear>αι</w></name> <pc>:</pc> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <pc>–</pc> | <w lemma="ἐπί">ἐπὶ</w> <name type="group"><w lemma="συμμαχίς">Συ<supplied reason="lost">μμ</supplied>αχ̣ι<supplied reason="lost">δᾶν</supplied></w></name> <name type="structure"><w lemma=""><supplied reason="lost">βω</supplied>
+	    				
+	<lb xml:id="line_6" n="6" break="no"/><unclear>μ</unclear>ο<unclear>ῦ</unclear></w></name> <pc>–</pc> <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύσωι</w></name> <pc>–</pc> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος">ἔριφος</w></name></name> <pc><supplied reason="lost">:</supplied></pc> <supplied reason="lost">ἢ</supplied> <pc><supplied reason="lost">:</supplied></pc> <supplied reason="lost">|</supplied> <name type="animal" key="goat"><name type="age"><name type="gender"><w lemma="τράγος"><supplied reason="lost">τ</supplied>ράγος</w></name></name></name> <pc>:</pc> ἢ <pc>:</pc> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶς</w></name> <pc>:</pc> <name type="age"><name type="gender"><w lemma="τέλειος">τέ<unclear>λ</unclear><supplied reason="lost">εως</supplied></w></name></name> <supplied reason="lost">–</supplied> 
+	    					    				
+<lb xml:id="line_7" n="7"/><name type="month"><w lemma="Κηφίσιος">Καφισίου</w></name> <pc>:</pc> <w lemma="δωδέκατος">δυωδεκάται</w> <pc>:</pc> | <name type="deity" key="Hero"><w lemma="ἥρως">Ἥρωι</w></name> <pc>:</pc> <w lemma="εἰς">ἐς</w> <placeName key="Pylai"><w lemma="πύλη">Πύλ<unclear>ας</unclear></w></placeName> <pc>:</pc> <name type="animal" key="generic"><name type="age"><name type="gender"><w lemma="τέλειος">τέ<unclear>λ</unclear><supplied reason="lost">εωι</supplied></w></name></name></name> <pc><supplied reason="lost">:</supplied></pc>
+	    				
+<lb xml:id="line_8" n="8"/><w lemma="οὐ">οὐκ</w> <pc>:</pc> <name type="meal"><w lemma="ἀποφορά">ἀποφορά</w></name> <pc>–</pc> <name type="meal"><w lemma="πορεύω">πορεύο[ν]|ται</w></name> <pc>:</pc> <name type="animal" key="generic"><name type="age"><name type="gender"><w lemma="τέλειος">τέλεωι</w></name></name></name> <pc>:</pc> οὔτε <supplied reason="lost">ὁ</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱα</supplied>
+	    					    				
+<lb xml:id="line_9" n="9" break="no"/><unclear>ρ</unclear><supplied reason="lost">ε</supplied>ὺς</w></name> <pc>:</pc> <name type="quality"><w lemma="κρίνω">κρίνε<unclear>ι</unclear></w></name> <pc>–</pc> <name type="month"><w lemma="Γεράστιος">Γεραστίο|υ</w></name> <pc>:</pc> <w lemma="τρεισκαιδέκατος">τρεισκαιδεκάται</w> <pc>–</pc>
+	    				
+<lb xml:id="line_10" n="10"/><name type="deity" key="Dionysus"><w lemma="Διόνυσος"><supplied reason="lost">Δ</supplied>ιονύσωι</w></name> <pc>–</pc> <name type="animal" key="goat"><name type="age"><name type="gender"><w lemma="τράγος"><unclear>τρ</unclear>άγ<supplied reason="lost">ος</supplied></w></name></name></name> <supplied reason="lost">:</supplied> <supplied reason="lost">ἢ</supplied> <supplied reason="lost">:</supplied> <name type="animal" key="sheep"><w lemma="ὄϊς"><supplied reason="lost">οἶ</supplied>ν</w></name> <pc>:</pc> <name type="age"><name type="gender"><w lemma="τέλειος">τελέαν</w></name></name> <pc>–</pc> <w lemma="τετρακαιδέκατος">τετο<supplied reason="lost">ρ</supplied>
+	    				
+<lb xml:id="line_11" n="11" break="no"/>εσκαιδεκάται</w> <pc>:</pc> <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύ|σωι</w></name> <pc>–</pc> <name type="epithet" key="Sminthios"><w lemma="Σμινθεύς">Σμινθίωι</w></name> <w lemma="ἐν">ἐν</w> τῶ<unclear>ι</unclear> <name type="structure"><name type="deity" key="Heracles"><w lemma="Ἡράκλειος"><supplied reason="lost">Ἡρ</supplied>
+	    				
+<lb xml:id="line_12" n="12" break="no"/>ακλείωι</w></name></name> <pc>–</pc> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος">ἔριφος</w></name></name> <pc>–</pc> <name type="month"><w lemma="Ἀρταμίτιος">Ἀρτ<supplied reason="lost">α</supplied>|μιτίου</w></name> <pc>:</pc> <w lemma="εἰκάς">εἰκάδι</w> <pc>:</pc> <name type="deity" key="Hekate"><w lemma="Ἑκάτη">Ἑκάτα<supplied reason="lost">ι</supplied></w></name> <pc>:</pc> <w lemma="">ἐ	
+    				
+<lb xml:id="line_13" n="13" break="no"/>ς</w> <pc>:</pc> <placeName key="Haleis"><w lemma="Ἅλεις">Ἅλεντα</w></placeName> <pc>–</pc> <name type="animal" key="sheep"><w lemma="">οἶν</w></name> <pc>–</pc> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοῖρ<supplied reason="lost">ο</supplied>|<unclear>ν</unclear></w></name></name> <pc>–</pc> <name type="deity" key="Zeus"><w lemma="Ζεύς">Ζηνὶ</w></name> <pc>:</pc> <name type="epithet" key="Horios"><w lemma="ὅριος">Ὁρί<unclear>ω</unclear>ι</w></name> <pc>–</pc> <name type="animal" key="sheep"><name type="age"><w lemma="ἀρήν">ἄρνα</w></name></name> <pc>–</pc>
+	    				
+<lb xml:id="line_14" n="14"/><name type="animal" key="sheep"><w lemma="ὄϊς">οἶ<supplied reason="lost">ες</supplied></w></name> <pc><supplied reason="lost">:</supplied></pc> <name type="age"><name type="gender"><w lemma="τέλειος">τέλεαι</w></name></name> <pc>–</pc> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος">ἔρ<supplied reason="lost">ιφος</supplied></w></name></name> <supplied reason="lost">|</supplied> <pc><supplied reason="lost">–</supplied></pc> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> <pc>:</pc> <name type="epithet" key="Oromedon"><w lemma="ὠρομέδων">Ὡρομέ
+	    				
+<lb xml:id="line_15" n="15" break="no"/><unclear>δ</unclear>ο<supplied reason="lost">ντι</supplied></w></name> <pc><supplied reason="lost">–</supplied></pc> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος">ἔριφος</w></name></name> <pc>–</pc> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπό<supplied reason="lost">λλ|ων</supplied><unclear>ι</unclear></w></name> <pc>:</pc> <name type="epithet" key="Phyxios"><w lemma="φύξιος">Φυξίωι</w></name> <pc>–</pc> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος">ἔριφος</w></name></name> <pc>–</pc>
+	    				
+<lb xml:id="line_16" n="16"/><name type="adornment"><w lemma="λημνίσκος"><supplied reason="lost">λημ</supplied><unclear>ν</unclear>ίσκος</w></name> <pc>–</pc> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <pc>–</pc> <w lemma="ἐν">ἐν</w> <supplied reason="lost">τῶι</supplied> | <name type="structure"><name type="deity" key="Heracles"><w lemma="Ἡράκλειος"><unclear>Ἡ</unclear>ρακλείωι</w></name></name> <pc>–</pc> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος">ἔριφος</w></name></name> <pc>–</pc>
+	    					    				
+<lb xml:id="line_17" n="17"/><name type="deity" key="Dionysus"><w lemma="Διόνυσος"><supplied reason="lost">Διο</supplied><unclear>ν</unclear>ύ<unclear>σ</unclear>ωι</w></name> <pc>–</pc> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><name type="deity" key="Heracles"><w lemma="Ἡράκλειος">Ἡρα<unclear>κ</unclear><supplied reason="lost">λε|ίωι</supplied></w></name></name> <supplied reason="lost">–</supplied> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος"><unclear>ἔ</unclear>ριφος</w></name></name> <pc>–</pc> <w lemma="ἐπεί">ἐπεί</w> <w lemma="κα">κα</w> <pc>:</pc> <w lemma="ἄλλος">τἆλλ	
+    				
+<lb xml:id="line_18" n="18" break="no"/>α</w> : <w lemma="πᾶς">πάντα</w> : <name type="sacrifice"><w lemma="θύω">θυθῆι</w></name> <pc>–</pc> <orig>Ε</orig><gap reason="lost" quantity="3" unit="character"/> <pc><supplied reason="lost">–</supplied></pc> <supplied reason="lost">|</supplied> <name type="age"><name type="gender"><w lemma="ἔταλον"><supplied reason="lost">ἔτ</supplied>ελον</w></name></name> <pc>–</pc> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος">ἔριφος</w></name></name> <pc>–</pc> <name type="animal" key="goat"><w lemma="αἴξ">αἶγ<supplied reason="lost">ες</supplied></w></name> <pc><supplied reason="lost">:</supplied></pc> 
+	    				
+<lb xml:id="line_19" n="19"/><name type="age"><name type="gender"><w lemma="τέλειος">τέλεαι</w></name></name> <pc>–</pc> <w lemma="οὗτος">τούτωι</w> <pc>:</pc> <name type="quality"><name type="gender"><w lemma="καλός">κάλ<unclear>λ</unclear><supplied reason="lost">ι|σ</supplied>ται</w></name></name> <pc>–</pc> <w lemma="ἕκτος">ἕκται</w> <pc>:</pc> <w lemma="ἄνω">ἀνομ<supplied reason="lost">έν</supplied>
+	    				
+<lb xml:id="line_20" n="20" break="no"/><supplied reason="lost">ο</supplied>υ</w> <pc>:</pc> <name type="deity" key="Zeus"><w lemma="Ζεύς">Ζηνὶ</w></name> <pc>:</pc> <name type="epithet" key="Soter"><w lemma="σωτήρ">Σωτῆρι</w></name> <pc>–</pc> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος">τέλε|<supplied reason="lost">ω</supplied>ν</w></name></name> <pc>–</pc> <w lemma="ἐπί">ἐπὶ</w> τοῦ <w lemma="αὐτός">αὐτοῦ</w>
+	    				
+<lb xml:id="line_21" n="21"/><name type="structure"><w lemma="βωμός">βωμοῦ</w></name> <pc>–</pc> <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθάναι</w></name> <pc>:</pc> <name type="epithet" key="Soteira"><w lemma="σωτήρ">Σωτε<supplied reason="lost">ί|ρ</supplied>αι</w></name> <pc>–</pc> <name type="animal" key="generic"><name type="age"><w lemma="ἔταλον">ἔτελον</w></name></name> <pc>–</pc> τᾶι <w lemma="αὐτός">αὐτᾶι</w>
+	    				
+<lb xml:id="line_22" n="22"/><w lemma="ἡμέρα">ἁμέραι</w> <pc>:</pc> <name type="deity" key="Hekate"><w lemma="Ἑκάτη">Ἑκάται</w></name> <pc>–</pc> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοῖρον</w></name></name> <pc><supplied reason="lost">–</supplied></pc> | <name type="month"><w lemma="Ἀγριάνιος">Ἀγριανίου</w></name> <pc>:</pc> <w lemma="διχομηνία">διχομηνία<supplied reason="lost">ι</supplied></w>
+	    				
+<lb xml:id="line_23" n="23"/><name type="deity" key="Hero"><w lemma="ἥρως">Ἥρωι</w></name> <w lemma="εἰς">ἐς</w> <placeName key="Pylai"><w lemma="πύλη">Πύλας</w></placeName> <pc>:</pc> <name type="animal" key="sheep"><name type="age"><w lemma="ἀρήν">ἄρνα</w></name></name> <pc>:</pc> <w lemma="οὐ">οὐ|κ</w> <name type="meal"><w lemma="ἀποφορά">ἀποφορά</w></name> <pc>:</pc> <name type="meal"><w lemma="πορεύω">πορεύοντα<supplied reason="lost">ι</supplied></w></name>
+	    				
+<lb xml:id="line_24" n="24"/><name type="age"><name type="gender"><w lemma="τέλειος">τελέαν</w></name></name> <pc>–</pc> <w lemma="ἔνατος">ἐνάται</w> <pc>:</pc> <w lemma="ἐκ">ἐξ</w> <w lemma="εἰκάς">εἰκά|δος</w> <pc>:</pc> <name type="deity" key="Hero"><w lemma="ἥρως">Ἥρωι</w></name> <pc>:</pc> <w lemma="εἰς">ἐς</w> <placeName key="Hamaxitos"><w lemma="ἁμαξιτός">Ἁμαξι
+	    				
+<lb xml:id="line_25" n="25" break="no"/>τ<supplied reason="lost">ό</supplied>ν</w></placeName> <pc>:</pc> <name type="animal" key="sheep"><name type="age"><w lemma="ἀρήν">ἄρνα</w></name></name> <w lemma="οὐ">οὐκ</w> <name type="meal"><w lemma="ἀποφορά">ἀποφορά</w></name> | <pc>:</pc> <name type="meal"><w lemma="πορεύω">πορεύονται</w></name> <pc>:</pc> <name type="gender"><name type="age"><w lemma="τέλειος">τελέα<supplied reason="lost">ν</supplied></w></name></name> <pc><supplied reason="lost">–</supplied></pc>
+	    				
+<lb xml:id="line_26" n="26"/><w lemma="ἕκτος"><supplied reason="lost">ἕκτ</supplied>αι</w> <pc>:</pc> <w lemma="ἄνω">ἀνομένου</w> <pc>:</pc> <name type="deity" key="Hero"><w lemma="ἥρως">Ἥρω<supplied reason="lost">ι</supplied></w></name> <pc><supplied reason="lost">:</supplied></pc> | <w lemma="εἰς">ἐς</w> <pc>:</pc> τὰ <placeName key="Nasiota"><w lemma="νησιώτης">Νασιώτα</w></placeName> <pc>:</pc> <name type="animal" key="sheep"><name type="age"><w lemma="">ἄρν<supplied reason="lost">α</supplied></w></name></name> <pc><supplied reason="lost">–</supplied></pc>
+	    				
+<lb xml:id="line_27" n="27"/><w lemma="τετράς"><supplied reason="lost">τετ</supplied><unclear>ρ</unclear>άδι</w> <pc>:</pc> <w lemma="ἄνω">ἀνομένου</w> <pc>:</pc> <name type="deity" key="Hero"><w lemma="ἥρως"><unclear>Ἥ</unclear><supplied reason="lost">ρ</supplied>|<unclear>ω</unclear>ι</w></name> <pc>:</pc> <w lemma="εἰς">ἐς</w> <orig>τα</orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    				
+<lb xml:id="line_28" n="28"/><name type="month"><w lemma="Ὑακίνθιος"><supplied reason="lost">Ὑακιν</supplied>θίου</w></name> <pc>:</pc> <w lemma="τρίτος">τρίτα<unclear>ι</unclear></w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">|</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+	    				
+<lb/><gap reason="lost" extent="unknown" unit="line"/> 
+  
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p> Faces B-C</p> 
+					
+<p>[... (in Theudasios or Pedageitnyos) ] to the same (goddess?): an adult she-goat. [...] the <foreign>theokolos</foreign>, to Aphrodite adult [she-(?)] goats [... (animal)] an adult male. On the 12th to Apollo [... (animal)] (5) an adult male, to Epione, a goat on the altar of the Symmachidai, to Dionysus, a kid [or] a he-goat or an [adult] ewe. </p>
+					
+<p>In Kaphisios: On the 12th, to the Hero at Pylai adult male animals, no take away, they go (to the meat-distribution), and the priest does not examine (the adult male animals).</p>
+					
+<p>In Gerastios: On the 13th, (10) to Dionysus, a he-goat [or] an adult [ewe]. On the 14th, to Dionysus Sminthios in the sanctuary of Heracles, a kid.</p>
+					
+<p>In Artamitios: On the 20th, to Hekate at Haleis, a sheep, a piglet, to Zeus Horios, a lamb, adult ewes, a kid, to Apollo Oromedon, (15) a kid, to Apollo Phyxios, a kid, [a fillet], a goat, in the sanctuary of Heracles, a kid, to Dionysus in the sanctuary of Heracles, a kid; when all the rest have been sacrificed [... (animal?)] year-old, a kid, adult she-goats, for this (god?), the most beautiful. On the 25th, (20) to Zeus Soter, an adult animal, on the same altar, to Athena Soteira, a year-old animal; on the same day, to Hekate, a piglet.</p>
+					
+<p>In Agrianios: On the 15th, to the Hero at Pylai, a female mature (?) lamb, no take-away, they go (to the meat-distribution). On the 22nd, to the Hero at Hamaxitos, (25) a female mature (?) lamb, no take-away, they go (to the meat-distribution). On the 25th, to the Hero at the Nasiota, a lamb. On the 27th, to the Hero at [...].</p>
+					
+<p>In Hyakinthios: On the 3rd or 28th (?) [...]</p>
+					
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Faces B-C</p>
+					
+<p>[... en Theudasios ou Pedageitnyos] à la même (déesse ?), une chèvre adulte [...] le <foreign>theokolos</foreign>; à Aphrodite, des caprins (femelles ?) adultes et [... (animal)] un mâle adulte. Le 12, à Apollon, [... (animal)] (5) un mâle adulte; à Épionè, un caprin; sur l’autel des Symmachidai, à Dionysos, un chevreau [ou] un bouc ou une [brebis] adulte. </p>
+					
+<p>En Kaphisios : le 12, au Héros aux Portes, des animaux mâles adultes; on n’emporte pas les parts; on se rend (à la distribution des viandes); et le prêtre n’opère pas de sélection. </p>
+					
+<p>En Gerastios : le 13, (10) à Dionysos, un bouc [ou une brebis] adulte. Le 14, à Dionysos Sminthios, dans l’Herakleion, un chevreau. </p>
+					
+<p>En Artamitios : le 20, à Hécate à Haleis, un mouton, un porcelet; à Zeus Horios, un agneau, des brebis adultes, un chevreau; à Apollon Oromedon, (15) un chevreau; à Apollon Phyxios, un chevreau, une bandelette, un caprin, dans l’Herakleion, un chevreau, à Dionysos, dans l’Herakleion, un chevreau; quand tout le reste est sacrifié; [à ... (animal)], d’un an, un chevreau, des chèvres adultes; à celui-là, les plus belles. Le 25, (20) à Zeus Soter, un animal adulte, sur le même autel, à Athéna Soteira, un animal d’un an. Le même jour, à Hécate, un porcelet. </p>
+					
+<p>En Agrianos : le 15, au Héros aux Portes, une agnelle mature (?), on n’emporte pas les parts, on se rend (à la distribution de viande). Le 22, au Héros à Hamaxitos, (25) une agnelle mature (?). On n’emporte pas les parts, on se rend (à la distribution de viande). Le 25, au Héros à Nasiotas, un agneau. Le 27, au Héros à [...]. </p>
+					
+<p>En Hyakinthios : le 3 ou le 28 (?) [...]</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+
+<p>This sacrificial calendar for one of the demes of Kos (Phyxa is the deme immediately to the west of the town of Kos and the Asklepieion) is found on an intriguing monument, an octagonal column, at least two faces of which are taken up by the calendar. Three other faces are also inscribed, A, D and E, and thus three faces were apparently left empty. For face A (lines 1-31 in the <title>IG</title> edition), see the text in <title>IG</title>. Hallof and Bosnakis (in <title>IG</title>) seem to identify this as part of the same inscription, probably on the basis of the cutter and the letterforms. Face A appears to contain the very fragmentary traces of a decree, perhaps that of the deme of Phyxa (cf. esp. lines 17-18, perhaps to be read as: ἃ δόξηι δα̣[μόταις]? Faces D and E, containing more completely preserved lists of names in the nominative followed simply by father's names, are also tied with the same act of a inscribing in the second half of the third century BC. All of these texts taken together raise many questions concerning the context of the inscribing of this column, which for the most part must remain unanswerable in the present state of the evidence. Nevertheless, a few hypotheses can perhaps be aired here. It must first be noted that the inscribing or reinscribing of sacrificial calendars in demes typically follows the codification of a sacrificial calendar in the city. This is what seems to have happened in Athens, for instance (see <ref target="CGRN_45">CGRN 45</ref> for the calendar of the city and e.g. <ref target="CGRN_52">CGRN 52</ref> and <ref target="CGRN_56">CGRN 56</ref> for the calendars from Erchia and the Marathonian Tetrapolis respectively; it might have been the case on Kos too (for the calendar of the city, codified in ca. 350 BC, see here <ref target="CGRN_86">CGRN 86</ref>). For excerpts from the deme sacrificial calendar at Halasarna, see here <ref target="CGRN_151">CGRN 151</ref>; for the smaller fragments of the sacrificial calendar of Isthmos, see <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 280.The choice of a column, however, might point to a more distinctive local practice or possibly an archaic model for the calendar (for an archaic religious text with calendrical features inscribed, though differently, on a column, see e.g. <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 450, from Thera). The exact copying of archaic and oddly inconsistent modes of punctuation (alternately "–" and ":", without any true pattern being discernible) would also tend to point an earlier exemplar of the calendar. Equally intriguing are the documents on faces A and D-E: does A perhaps represent part of a decree stipulating the reinscribing of the document? Could D-E represent a list of demesmen which contributed to a priesthood or to the financing of the cults in the deme? (For the latter hypothesis, see the lists of contributors on face B of the sacrificial calendar of the Marathonian Tetrapolis, <ref target="CGRN_56">CGRN 56</ref>, as discussed by Lambert.)</p>
+						
+<p>Given the probable, partial preservation of the top of the column (see above on Support), it is likely that only a few lines are missing at the top. This seems to be corroborated by the fact that only one or two month names are missing at the beginning of the calendar. Lines 1-7 must belong to a month before Kaphisios (month 3 on Kos), therefore to Theudaisios or Pedageitnyos. For the reconstruction of the calendar of Kos adopted here, see Bosnakis - Hallof 2005. The calendar is extant for the months Kaphisios, (Batromios is completely skipped over), Gerastios, Artamitios in some detail, Agrianios; with the introduction of the month Hyakinthios, the text breaks off. Four months, Panamos, Dalios, Alseios and Karneios, are potentially missing. Another noteworthy feature of the calendar is thus how localised and particular the sacrifices of the deme were. None apparently occurred in the skipped month of Batromios, while some months, such as Kaphisios, for instance, contained but few occasions for sacrifices (only one, in this case). Sacrifices to heroes at specific locations in the territory of the deme are included, as well as rites for others gods located within the Herakleion, the sanctuary of Heracles which was apparently one of the principal sanctuaries of the deme (cf. lines 11-12, 16-17). For further commentary on the calendar of Phyxa, see also Paul.</p>
+						
+<p>Lines 1-4: These rites take place on an unknown day in Theudaisios or Pedageitnyos; both a goddess and Aphrodite receive goats, Aphrodite in greater—but as usual in this calendar—unspecified numbers, as well as a male animal. Hallof and Bosnakis (in <title>IG</title> ad loc.) hypothesise that the θευκόλος, otherwise unknown on Kos, received the skin or a prerogative from the sacrifice; but cf. Paul, p. 239, who rightly notes that no portions are attributed in the extant calendar. The θεοκόλος, lit. "servant of god" or "worshipper", is often attested as a priest, especially at Olympia (see also also <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.); for another instance, see <ref target="CGRN_215">CGRN 215</ref> (Attica), line 9. The duties of this official in the deme of Phyxa remain un-known.</p> 
+						
+<p>Lines 4-6 (12th, Theudaisios/Pedageitnyos): As Paul observes (p. 241), it is intriguing that Apollo and Epione are found as a pair here, since their cult experienced a conspicuous degree of renewal precisely in the latter half of the third century BC, centered around the Asklepieion of Kos; it remains uncertain if this may have influenced the worship in the deme of Phyxa, however. For these gods and the festival of the Asklepieia on Kos, see here <ref target="CGRN_139">CGRN 139</ref>, <ref target="CGRN_161">CGRN 161</ref> and <ref target="CGRN_218">CGRN 218</ref>. An altar belonging to the Symmachidai follows the mention of the sacrifice to Epione. Hallof and Bosnakis (in <title>IG</title>) interpret this as relating to the following sacrifice, to Dionysus; Paul, to the preceding one, namely to Epione. We prefer to follow Hallof and Bosnakis (idem), noting that the mention of an altar clearly precedes the sacrifice to Athena Soteira in lines 20-21; note however that the mention of a
+sanctuary, such as the Herakleion, lines 11-12, 16-17, can follow an entry in the calendar, rather than precede it). The Symmachidai, probably a <foreign>genos</foreign> or similar subgroup on Kos, are known from the sale of the priesthood of the group in <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 310. Intriguingly, this is dated to the 16th of Pedageitnyos, which might point to the correct date of the ritual here at Phyxa: the priesthood may have been sold soon after one of the principal sacrifices of the group, at the beginning of the Koan year. The cult of the Symmachidai may have revolved around the worship of Dionysus. Here, the god is to receive one of three optional animals, two of which are male goats, but one, interestingly, is an ewe (see also at line 10); for the prevalence of the male goat as a sacrificial animal for Dionysus, famously a god of the τράγος, see here e.g. <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 33-35.</p>
+						
+<p>Lines 7-9 (12th of Kaphisios): The only entry for this month concerns a sacrifice for the Hero said to be located "at Pylai" (cf. also lines 22-24 for the identical figure, though with a different sacrificial animal offered). As Paul rightly remarks in her discussion, while Pylai could be a toponym (see Hallof and Bosnakis in <title>IG</title>, who favour this hypothesis and cf. here <ref target="CGRN_86">CGRN 86</ref>, Addendum Aa-b, for a possible comparandum), the epithet could also more simply indicate that the hero in question was worshipped "at the gates" of the community (see also below at lines 23-25 for other heroes in the <foreign>chora</foreign> of the deme). Particularly problematic is the possible mistake which has occurred at the end of line 7; according to Hallof and Bosnakis in <title>IG</title> ad loc., rather than the repeated adjective τέλεωι (see line 8), we might have expected the name of the species of animal offered to the hero to be mentioned here, e.g. οἶες; in lines 23-25, the qualifier τέλεαν for ἄρνα is postposed after the parenthetical statement concerning the meat-distribution. The phrase οὐκ ἀποφορά is commonly found as indicator that no meat must be taken away from the sacrifice; see <ref target="CGRN_32">CGRN 32</ref>, for further discussion (commentary on lines 10-12) and cp. the sacrificial calendar of the city of Kos, <ref target="CGRN_86">CGRN 86</ref>. Here, however, the phrase is always accompanied by the 3rd person present indicative verb πορεύονται, in the medio-passive; the same phraseology recurs in lines 23-24 and 25. Hallof and Bosnakis 2010 and in <title>IG</title> interpret this verb to indicate that a procession must be organised to the cult-site; indeed, the verb ought to mean most simply "they go" or "they are to march". Paul questions this interpretation (p. 243-244), noting that its formulation is odd (a form of πομπή or πομπεύω might instead have been expected), while finding any suitable alternative elusive. A solution is in fact apparent, though the phrase found at Phyxa no doubt remains an allusive one. Rather than strictly implying the organisation of a procession, we take the phrase, inserted parenthetically between the animal and its qualifier (viz. τέλεωι [sic]...τέλεωι or ἄρνα... τέλεαν) to qualify the expression οὐκ ἀποφορά, with which it is always conjoined; πορεύονται must mean that any desiring to obtain a portion must travel to attend the rites, the distribution from the sacrificial animals following the sacrifices and the resulting feast (in other sacrifices, it may have been allowed. For the sense of the expression, we may readily compare the phrase τοῖς μὴ πορευομένοις εἰς ἀπόμοιραν regularly found in Delian inventories (cf. here <ref target="CGRN_199">CGRN 199</ref>, line 9 or e.g. <bibl type="abbr" n="ID">ID</bibl> 440, line 66), which must refer to an allowance that was given to compensate citizens who "did not attend the distribution (of meat)" from the sacrifices. In the three cases where this is found (cf. also lines 23-24 and 25, below), the phrase occurs only for heroic cults, seemingly distinguishing these rites as neces-sitating greater social cohesion during the postsacrificial feasts. In this particular case, a fur-ther noteworthy specification is appended: there is to be no examination (κρίσις, κρίνω) of the sacrificial animal by the priest of the hero. This demonstrates, a contrario, that an examination of sacrificial animals for good health and other qualities was routinely conducted by the cult personnel; for further discussion, see also here <ref target="CGRN_208">CGRN 208</ref>, lines 23-25, also from Kos. In the case of this sacrifice, remarkably, animals which were perhaps not healthy or of integral body may have been allowed to be sacrificed to the hero, perhaps for economic reasons, but perhaps for religious ones too.</p>
+						
+<p>Lines 9-12 (13th-14th of Gerastios): Sacrifices to Dionysus occurring on two consecutive days appear to have perhaps represented a unified occasion. On the first day, intriguingly, we find an option between the τράγος (see above at lines 4-6 for this animal offered to the god), and an adult ewe, an animal which is not found for the god other than here in the present collection (though he could perhaps on occasion receive a she-goat). On the second day, Dionysus Sminthios is worshipped in the Herakleion at Phyxa. The epithet for this god was not otherwise known, being much more commonly found of Apollo, but had been conjectured on the basis of <bibl type="abbr" n="IG XII.1">IG XII.1</bibl> 762, by Dittenberger, who noted that the lexicon to Homer of Apollonius described the Sminthia on Rhodes as a festival where Apollo and Dionysus jointly destroyed the mice which afflicted the grape-bearing vines (see Hallof and Bosnakis in <title>IG</title> for a full citation of the passage and also Paul, p. 240-241, who attractively notes the presence of excellent vineyards in the area of the deme of Phyxa). Since Rhodian Sminthios is thought to correspond to Koan Gerastios (on the Rhodian calendar, see here esp. <ref target="CGRN_113">CGRN 113</ref>, Kamiros, for sacrifices performed by the priest of Dionysus in the month Sminthios), the relative synchronism would suggest that these dates, 13th-14th Gerastios, were either precisely or approximatively the time of the festival of the Sminthia on the island of Kos, here celebrated locally at Phyxa. For Apollo Phyxios worshipped alongside Dionysus, possibly in a similarly apotropaic capacity, see also immediately below.</p>
+
+<p>Lines 12-19 (20th of Artamitios): This section appears to concern a major celebration in the deme, notably in the definition and constitution of its territory and boundaries. Hekate was worshipped "at Haleis" in the deme immediately to the west of Phyxa and Zeus Horios, "of the boundaries", was also concerned, and apparently important, since he received several sacrificial animals (on this god, cf. <ref target="CGRN_52">CGRN 52</ref>, Erchia, lines Ε22-30). Apollo of the Oromedon (the major mountain of Kos, which ranges across the south of the island and of the deme), provided further relief to this survey of the deme territory, which then crystalised in the figure of Apollo Phyxios (of Phyxa itself) and of Dionysus, both worshipped in the Herakleion which appears as one of the major central sanctuaries of the deme. Rather than a spit proposed by Bosnakis and Hallof, we suggest that a [λημ]νίσκος, that is to say a ribbon or fillet for decorating the kid (compare e.g. <ref target="CGRN_197">CGRN 197</ref>, Kos, line A40) was prescribed in the sacrifice to Apollo Phyxios. Finally, once all these sacrifices had been performed (ἐπεί κα : τἆλλ|α : πάντα : θυθῆι), recipient of further offerings may have been mentioned in the lacuna in line 18 (Bosnakis and Hallof suggest Hermes).</p>
+						
+<p>Lines 19-22 (25th of Artamitios): As has been well noted, Zeus Soter and Athena Soteira receive respectively an adult and a young animal on the same altar on this day; an altar of these two gods has in fact been discovered at Phyxa, <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 407 (see Hallof - Bosnakis in <title>IG</title>; Paul, p. 240 and 242). Hekate is honoured again on the same day; Paul suggests that, though at a remove of 15 days, these celebrations on the 25th of Artamitios might in some way imitate or be modelled on the sacrifices taking place in the city: the foundation of Pythokles in the city, <ref target="CGRN_209">CGRN 209</ref>, does indeed attest to sacrifices to Zeus Soter and Athena Soteira on the 10th of Artamitios. However, the foundation of Pythokles dates to half a century later than the sacrificial calendar of Phyxa. A better hypothesis might perhaps be that Zeus Soter and Athena Soteira were honoured according to a longer tradition in Artamitios on Kos.</p>
+						
+<p>Lines 22-24 (15th of Agrianios): For the Hero at Pylai, and the phrase prohibiting the take-away of meat from the sacrifice and encouraging attendance at the feast, see above, lines 7-9. Surprisingly, the offering prescribed here for the hero is literally an "adult female lamb", ἄρνα ... τελέαν, a phrase which Paul (p. 243) finds objectionable, but which is assured by being repeated verbatim in line 25. As a way out of the apparent contradiction, we note that lambs could, already since the oldest Greek sources, be viewed as "horned", which would indicate a certain age; cf. esp. the κεραοὶ ἄρνες at Hom. <title>Od.</title> 4.85. The qualifier τέλειος might therefore in this case not be used strictly to denote "adult" age, but rather to signify that the lambs had reached a certain minimum age, perhaps 5-12 months, but not complete puberty as ewes, οἶες.</p>
+						
+<p>Lines 24-25 (22nd of Agrianios): As with the Hero at Pylai, the epithet of the Hero at Hamaxitos might indicate a toponym or his localisation at a common place, in this case, the wagon-road (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. ἁμαξιτός), which no doubt traversed Phyxa from Kos town and the Asklepieion on the way to other, more western demes. For the "adult female lamb" see immediately above; for the consumption of meat on the spot, see above, lines 7-9.</p>
+						
+<p>Line 25 (25th of Agrianios): There are even more possibilities for interpreting the epithet of this final hero: Nasiotas (Islander?) could in and of itself be an epithet (cf. Apollo Nasiotas at Chaleion in Aitolia, <bibl type="abbr" n="IG IX.1²">IG IX.1²</bibl> 3, 721, lines C4, C7), or refer to islands as places (e.g. τὰ νασιώτα (χωρία); Phyxa was notably bordered by several islets on its northern coast); Nasiotas was also a proper name common in the Dodecanese, and so the reference here might be to a hero located on the property of an individual, τὰ (τοῦ) Νασιώτα (χωρία).</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

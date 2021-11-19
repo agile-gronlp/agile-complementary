@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_92" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <idno type="filename">CGRN 92</idno>:<rs type="textType" key="decree">Decree</rs> concerning the "Little"
+                    Panathenaia at Athens</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of
+                        consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p><rs type="objectType">Stele</rs> of Pentelic marble, broken on the lefthand side, as well
+                                        as the top and bottom. Lewis (1959) has associated the fragment with another decree on the
+                                        'Lesser' Panathenaia. This is commonly accepted in the scholarship (see Knoepfler, pp.
+                                        156-157, for a recent discussion), even though the two fragments do not join. The fragment
+                                        discussed below is usually referred to as "Fragment B"; the other, fragment A, is not
+                                        included here.</p>
+                                    <p> Fragment B</p>
+                                    <p><dimensions>
+                                            <height unit="cm">32.6</height>
+                                            <width unit="cm">39</width>
+                                            <depth unit="cm">13</depth>
+                                        </dimensions></p>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><p>Stoichedon 42, with slight variations in the regularity of the grid in lines 9-10
+                                        (though these lines still appear to have contained 42 letters).</p>
+                                    <p>Letters: <height unit="cm">0.5-0.6</height>.</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p><origDate notBefore="-0350" notAfter="-0325">ca. 335-330 BC</origDate></p>
+                            <p><desc>Justification: contextual comparison with fragment A, cf. the discussion in Rhodes - Osborne
+                                    and Lambert; on the cutter's activities during this period, see Rhodes - Osborne, and Lambert
+                                    with commentary. For a recent discussion of the missing date in fragment A, favouring the
+                                    archon Euainetos in 335/4, see now Knoepfler, p. 187-192.</desc></p>
+                        </origin>
+                        <provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885" type="external">Athens</ref></placeName>.
+                                Found in 1842 in the Propylaia of the Acropolis, near the Pillar of Agrippa; the stele was perhaps
+                                originally erected in the sacrificial area between the Propylaia and the Erechtheion (Knoepfler).
+                                Fragment B is now in the Epigraphical Museum in Athens (inv. no. 7153).</p>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded for EpiDoc schema 8.17 on 01-07-2014 by S. Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="x">
+            <desc/>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="bibliography">
+                <head>Bibliography</head>
+
+                <p>Edition here based on Lambert <bibl type="abbr" n="IG II³">IG II³</bibl> 447, fragment B (restored at line 26).
+                    Fragment A is not included here. We print only fairly secure or intelligible letter traces. Cf. <bibl type="abbr" n="IG II³">IG II³</bibl> 447 for further description of lettertraces, and for a list of the
+                    ample bibliography on this inscription; see also now <bibl type="author_date" n="Knoepfler 2016">Knoepfler
+                        2016</bibl> for a detailed treatment in French.</p>
+
+                <p>Other edition: Kirchner <bibl type="abbr" n="IG II²">IG II²</bibl> 334. </p>
+
+                <p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 29; Woodhead <bibl type="abbr" n="Agora XVI">Agora
+                        XVI</bibl> 75; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 33; <bibl type="abbr" n="Schwenk">Schwenk</bibl> 17; <bibl type="abbr" n="SEG">SEG</bibl> 48, 103; Rhodes - Osborne <bibl type="abbr" n="GHI">GHI</bibl> 81; <bibl type="author_date" n="Knoepfler 2016">Knoepfler 2016</bibl>; <ref target="https://www.atticinscriptions.com/inscription/IGII31/447" type="external">AIO</ref>, with another
+                    English translation and commentary.</p>
+
+                <p> Further bibliography: <bibl type="author_date" n="Deubner 1932">Deubner 1932</bibl>: 24; <bibl type="author_date" n="Lewis 1959">Lewis 1959</bibl>; <bibl type="author_date" n="Robert 1960">Robert
+                        1960</bibl>; <bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>: 34; <bibl type="author_date" n="Langdon 1987">Langdon 1987</bibl>; <bibl type="author_date" n="Rosivach 1994">Rosivach 1991</bibl>:
+                    430-442; <bibl type="author_date" n="Rosivach 1994">Rosivach 1994</bibl>: 95-96; <bibl type="author_date" n="Brulé 1996">Brulé 1996</bibl>: 41-45; <bibl type="author_date" n="Parker 1996">Parker 1996</bibl>;
+                        <bibl type="author_date" n="Ekroth 2008a">Ekroth 2008a</bibl>: 278-279; <bibl type="author_date" n="Papazarkadas 2011">Papazarkadas 2011</bibl>: 51-59. </p>
+
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab subtype="Fragment" n="B">Fragment B <lb xml:id="line_1" n="1"/>
+                    <gap reason="lost" quantity="1" unit="line"/>
+                    <lb xml:id="line_2" n="2"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <w lemma="ὅπως"><supplied reason="lost">ὅπως</supplied></w>
+                    <w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w>
+                    <w lemma="εὐσεβής"><supplied reason="lost">εὐ</supplied>σ<supplied reason="lost">εβ</supplied>ῶς</w> κα <lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">ὶ</supplied>
+                    <gap reason="lost" quantity="29" unit="character"/>
+                    <w lemma="κατά"><unclear>κα</unclear>τ’</w>
+                    <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> κ <lb xml:id="line_4" n="4" break="no"/><gap reason="lost" quantity="16" unit="character"/>
+                    <w lemma="παρασκευάζω"><supplied reason="lost">π</supplied><unclear>αρε</unclear>σκε<unclear>υ</unclear><supplied reason="lost">ασμ</supplied><unclear>έ</unclear>νη</w>
+                    <w lemma="ὡς">ὡς</w>
+                    <w lemma="ἀγαθός">ἄριστα</w> τῆι <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀ <lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">θηνᾶι</supplied></w></name>
+                    <w lemma="κατά"><supplied reason="lost">καθ’</supplied></w>
+                    <w lemma="ἕκαστος"><supplied reason="lost">ἕκαστο</supplied>ν</w> τὸν <w lemma="ἐνιαυτός">ἐνιαυτὸν</w>
+                    <w lemma="ὑπέρ">ὑπὲρ</w> τοῦ <name type="group"><w lemma="δῆμος">δήμου</w> τοῦ <name type="ethnic" key="Athens"><w lemma="Ἀθηναῖος">Ἀ <lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">θηναίων</supplied></w></name></name>
+                    <supplied reason="lost">καὶ</supplied>
+                    <w lemma="ἄλλος"><supplied reason="lost">τἆλ</supplied>λα</w>
+                    <w lemma="ὅσος">ὅσα</w>
+                    <w lemma="δεῖ">δεῖ</w>
+                    <w lemma="διοικέω">διοικῆται</w>
+                    <w lemma="περί">περὶ</w> τὴν <name type="festival"><w lemma="ἑορτή">ἑορτὴ <lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">ν</supplied></w></name>
+                    <supplied reason="lost"> τὴν</supplied>
+                    <w lemma="ἄγω"><supplied reason="lost">ἀγομένην</supplied></w>
+                    <supplied reason="lost">τ</supplied>ῆι <name type="deity" key="Athena"><w lemma="θεός">θεῶι</w></name>
+                    <w lemma="καλός">καλῶς</w>
+                    <w lemma="ὑπό">ὑπὸ</w> τῶν <name type="personnel"><w lemma="ἱεροποιός">ἱεροποιῶν</w></name>
+                    <w lemma="εἰς">εἰς</w>
+                    <lb xml:id="line_8" n="8"/>
+                    <supplied reason="lost">τὸν</supplied>
+                    <w lemma="ἀεί"><supplied reason="lost">ἀεὶ</supplied></w>
+                    <w lemma="χρόνος"><supplied reason="lost">χρόνον</supplied></w><supplied reason="lost">,</supplied>
+                    <name type="authority"><w lemma="ψηφίζω"><supplied reason="lost">ἐ</supplied>ψηφίσθαι</w></name> τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>, τὰ μὲν <w lemma="ἄλλος">ἄλλα</w>
+                    <name type="authority"><w lemma="καθάπερ">καθά <lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">περ</supplied></w></name>
+                    <supplied reason="lost">τῆι</supplied>
+                    <name type="group"><w lemma="βουλή"><supplied reason="lost">βουλῆι</supplied></w></name><supplied reason="lost">,</supplied>
+                    <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θ</supplied>ύειν</w></name> δὲ τοὺς <name type="personnel"><w lemma="ἱεροποιός">ἱεροποιοὺς</w></name> τὰς μὲν <w lemma="δύο">δύο</w>
+                    <lb xml:id="line_10" n="10"/>
+                    <gap reason="lost" quantity="10" unit="character"/>
+                    <supplied reason="lost">τῆ</supplied><unclear>ι</unclear>
+                    <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶι</w></name> τῆι <name type="epithet" key="Hygieia"><w lemma="ὑγίεια">Ὑγιείαι</w></name> καὶ τὴν ἐν τῶι <w lemma="ἀρχαῖος">ἀρ <lb xml:id="line_11" n="11" break="no"/><supplied reason="lost">χαίωι</supplied></w>
+                    <name type="structure"><w lemma="ναός"><supplied reason="lost">νεῶι</supplied></w></name>
+                    <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θυο</supplied>μένην</w></name>
+                    <name type="authority"><w lemma="καθάπερ">καθάπερ</w></name>
+                    <w lemma="πρότερος">πρότερον</w>, καὶ <name type="portion"><w lemma="νέμω">νείμαντ <lb xml:id="line_12" n="12" break="no"/><supplied reason="lost">ας</supplied></w></name>
+                    <supplied reason="lost">τοῖς</supplied>
+                    <name type="title"><w lemma="πρύτανις"><supplied reason="lost">πρυτάν</supplied>εσιν</w></name>
+                    <w lemma="πέντε">πέντε</w>
+                    <name type="portion"><w lemma="μερίς">μερίδας</w></name> καὶ τοῖς <w lemma="ἐννέα">ἐννέα</w>
+                    <name type="title"><w lemma="ἄρχων">ἄρ <lb xml:id="line_13" n="13" break="no"/><supplied reason="lost">χουσιν</supplied></w></name>
+                    <gap reason="lost" quantity="5" unit="character"/>
+                    <unclear>κ</unclear>αὶ <name type="title"><w lemma="ταμίας">ταμίαις</w></name> τῆς <name type="deity" key="Athena"><w lemma="θεός">θεοῦ</w></name>
+                    <w lemma="εἷς">μίαν</w> καὶ τοῖς <name type="personnel"><w lemma="ἱεροποιός">ἱερ <lb xml:id="line_14" n="14" break="no"/><supplied reason="lost">οποιοῖς</supplied></w></name>
+                    <w lemma="εἷς"><supplied reason="lost">μίαν</supplied></w>
+                    <unclear>κ</unclear>αὶ τοῖς <name type="title"><w lemma="στρατηγός">στ<supplied reason="lost">ρα</supplied>τηγοῖς</w></name> καὶ τοῖς <name type="title"><w lemma="ταξίαρχος">ταξιάρχ <lb xml:id="line_15" n="15" break="no"/><supplied reason="lost">οις</supplied></w>
+                    </name>
+                    <gap reason="lost" quantity="5" unit="character"/>
+                    <supplied reason="lost">καὶ</supplied>
+                    <name type="person"><supplied reason="lost">τ</supplied>οῖς <w lemma="πομπεύω">πομπ<supplied reason="lost">εῦσι</supplied>ν</w></name> τοῖς <name type="ethnic" key="Athens"><w lemma="Ἀθηναῖος">Ἀθηναίοις</w></name> καὶ τα <lb xml:id="line_16" n="16" break="no"/><supplied reason="lost">ῖς</supplied>
+                    <gap reason="lost" quantity="9" unit="character"/>ς <w lemma="κατά">κατὰ</w>
+                    <supplied reason="omitted">τὰ</supplied>
+                    <name type="authority"><w lemma="ἔθω">εἰω<supplied reason="lost">θότα</supplied></w></name>,
+                        <unclear>τ</unclear>ὰ δὲ <w lemma="ἄλλος">ἄλλα</w>
+                    <name type="portion"><w lemma="κρέας">κρέα</w></name>
+                    <name type="ethnic" key="Athens"><name type="group"><w lemma="Ἀθηναῖος">Ἀθηναίο <lb xml:id="line_17" n="17" break="no"/><supplied reason="lost">ις</supplied></w></name></name>
+                    <name type="portion"><w lemma="μερίζω"><supplied reason="lost">μερίζειν</supplied></w></name><supplied reason="lost">·</supplied>
+                    <w lemma="ἀπό"><supplied reason="lost">ἀ</supplied>πὸ</w> δὲ τῶν <w lemma="τεσσαράκοντα">τε<supplied reason="lost">τταρ</supplied>άκοντα</w>
+                    <w lemma="μνᾶ">μνῶν</w> καὶ τῆς <w lemma="εἷς">μι <lb xml:id="line_18" n="18" break="no"/><supplied reason="lost">ᾶς</supplied></w>
+                    <supplied reason="lost">τῶν</supplied>
+                    <w lemma="ἐκ"><supplied reason="lost">ἐκ</supplied></w>
+                    <supplied reason="lost">τῆς</supplied>
+                    <w lemma="μίσθωσις"><supplied reason="lost">μ</supplied>ισθώσεως</w> τῆς <name type="locality"><w lemma="νέος">Νέας</w></name>
+                    <w lemma="βοωνέω">βοωνήσαντες</w> οἱ <name type="personnel"><w lemma="ἱεροποιός">ἱερ <lb xml:id="line_19" n="19" break="no"/><supplied reason="lost">οποιοὶ</supplied></w></name>
+                    <w lemma="μετά"><supplied reason="lost">μετὰ</supplied></w>
+                    <supplied reason="lost">τ</supplied>ῶν <name type="personnel"><w lemma="βοώνης">βοωνῶν</w></name>, <w lemma="πέμπω">πέμψαντες</w> τὴν <w lemma="πομπή">πόμπην</w>
+                    <name type="deity" key="Athena">τῆι <w lemma="θεός">θε <lb xml:id="line_20" n="20" break="no"/><supplied reason="lost">ῶι</supplied></w></name>
+                    <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θυόντων</supplied></w></name>
+                    <w lemma="οὗτος"><supplied reason="lost">τα</supplied>ύτας</w> τὰς <name type="animal" key="ox"><name type="gender"><w lemma="βοῦς">βοῦς</w></name></name>
+                    <w lemma="ἅπας">ἁπάσας</w>
+                    <w lemma="ἐπί">ἐπὶ</w> τῶι <name type="structure"><w lemma="βωμός">βωμῶι</w></name> τῆς <lb xml:id="line_21" n="21"/>
+                    <name type="deity" key="Athena"><w lemma="Ἀθήνη"><supplied reason="lost">Ἀθηνᾶς</supplied></w></name>
+                    <supplied reason="lost">τῶι</supplied>
+                    <w lemma="μέγας"><supplied reason="lost">με</supplied>γάλωι</w>, <w lemma="εἷς">μίαν</w> δὲ <w lemma="ἐπί">ἐπὶ</w> τῶι τῆς <name type="deity" key="Nike"><w lemma="νίκη">Νίκης</w></name>, <w lemma="προκρίνω">προκρί <lb xml:id="line_22" n="22" break="no"/><supplied reason="lost">ναντες</supplied></w>
+                    <w lemma="ἐκ"><supplied reason="lost">ἐκ</supplied></w>
+                    <supplied reason="lost">τῶν</supplied>
+                    <name type="quality"><w lemma="καλλιστεύω">καλλιστευουσῶν</w></name>
+                    <name type="animal" key="ox"><w lemma="βοῦς">βοῶν</w></name>, καὶ <name type="sacrifice"><w lemma="θύω">θύσαντες</w></name> τῆ <lb xml:id="line_23" n="23" break="no"/><supplied reason="lost">ι</supplied>
+                    <name type="deity" key="Athena"><w lemma="Ἀθήνη"><supplied reason="lost">Ἀθηνᾶι</supplied></w></name>
+                    <supplied reason="lost">τῆι</supplied>
+                    <name type="epithet" key="Polias"><w lemma="Πολιάς">Πολιάδι</w></name> καὶ τῆι <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶι</w></name> τῆι <name type="epithet" key="Nike"><w lemma="νίκη">Νίκηι</w></name>
+                    <w lemma="ἅπας">ἁπασῶ <lb xml:id="line_24" n="24" break="no"/><supplied reason="lost">ν</supplied></w>
+                    <supplied reason="lost">τῶν</supplied>
+                    <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοῶν</supplied></w></name>
+                    <supplied reason="lost">τῶ</supplied>ν <w lemma="ἀπό">ἀπὸ</w> τῶν <w lemma="τεσσαράκοντα">τετταράκοντα</w>
+                    <w lemma="μνᾶ">μνῶν</w> καὶ <w lemma="εἷς">μιᾶς</w>
+                    <w lemma="ὠνέομαι">ἑω <lb xml:id="line_25" n="25" break="no"/><supplied reason="lost">νημένην</supplied></w>
+                    <name type="portion"><w lemma="νέμω"><supplied reason="lost">νε</supplied><unclear>μ</unclear>όντων</w></name>
+                    τὰ <name type="portion"><w lemma="κρέας">κρέα</w></name> τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name> τῶι <name type="ethnic"><name type="group"><w lemma="Ἀθηναῖος">Ἀθηναίων</w></name></name>
+                    <w lemma="ἐν">ἐν</w>
+                    <lb xml:id="line_26" n="26"/><name type="locality"><w lemma="κεραμεικός"><supplied reason="lost">Κεραμεικῶ</supplied>ι</w></name>, <w lemma="καθάπερ">καθάπερ</w>
+                    <w lemma="ἐν">ἐν</w> ταῖς <w lemma="ἄλλος">ἄλλαις</w>
+                    <name type="portion"><w lemma="κρεανομία">κρεανομίαις</w></name>· <name type="portion"><w lemma="ἀπονέμω">ἀ<unclear>π</unclear>
+                            <lb xml:id="line_27" n="27" break="no"/>
+                            <supplied reason="lost">ονέμειν</supplied></w></name>
+                    <supplied reason="lost">δὲ</supplied> τὰς <name type="portion"><w lemma="μερίς">μερίδας</w></name>
+                    <w lemma="εἰς">εἰς</w> τὸν <name type="group"><w lemma="δῆμος">δῆμον</w></name>
+                    <w lemma="ἕκαστος">ἕκαστον</w>
+                    <w lemma="κατά">κατὰ</w>
+                    <supplied reason="lost">τ</supplied>
+                    <lb xml:id="line_28" n="28" break="no"/><supplied reason="lost">οὺς</supplied>
+                    <w lemma="πέμπω"><supplied reason="lost">πέμπον</supplied>τας</w>, <w lemma="ὁπόσος">ὁπόσους</w>
+                    <w lemma="ἄν">ἂν</w>
+                    <w lemma="παρέχω">παρέχηι</w> ὁ <name type="group"><w lemma="δῆμος">δῆμος</w></name>
+                    <w lemma="ἕκαστος">ἕκαστος</w>· <w lemma="εἰς"><supplied reason="lost">ε</supplied>
+                        <lb xml:id="line_29" n="29" break="no"/><supplied reason="lost">ἰς</supplied></w>
+                    <supplied reason="lost">δὲ</supplied>
+                    <supplied reason="lost">τὰ</supplied>
+                    <w lemma="μίσθωμα"><supplied reason="lost">μι</supplied>σθώματα</w> τῆς <w lemma="πομπή">πομπῆς</w> καὶ τὸ
+                        <name type="personnel"><w lemma="μαγειρικός">μαγειρικὸν</w></name> κα<supplied reason="lost">ὶ</supplied>
+                    <lb xml:id="line_30" n="30"/>
+                    <name type="adornment"><w lemma="κόσμησις"><supplied reason="lost">κόσμησιν</supplied></w></name> τοῦ <name type="structure"><w lemma="βωμός">βωμοῦ</w></name> τοῦ <w lemma="μέγας">μεγάλου</w> καὶ <w lemma="ἄλλος">τἆλλα</w>
+                    <w lemma="ὅσος">ὅσα</w> προσ<supplied reason="lost">ή</supplied>
+                    <lb xml:id="line_31" n="31" break="no"/><supplied reason="lost">κει</supplied>
+                    <gap reason="lost" quantity="5" unit="character"/>εῖσθαι <w lemma="περί">περὶ</w> τὴν <name type="festival"><w lemma="ἑορτή">ἑορτὴν</w></name> καὶ <w lemma="εἰς">εἰς</w>
+                    <name type="festival"><w lemma="παννυχίς">παννυχίδα</w></name>
+                    <lb xml:id="line_32" n="32"/>
+                    <w lemma="δίδωμι"><supplied reason="lost">δίδοναι</supplied></w>
+                    <pc>:</pc>
+                    <num value="50">U+10144</num>
+                    <pc>:</pc>
+                    <w lemma="δραχμή">δραχμάς</w>· τοὺς δὲ <name type="personnel"><w lemma="ἱεροποιός">ἱεροποιοὺς</w></name> τοὺς
+                        <w lemma="διοικέω">διοι<supplied reason="lost">κ</supplied>
+                        <lb xml:id="line_33" n="33" break="no"/><supplied reason="lost">οῦντας</supplied></w>
+                    <supplied reason="lost">τ</supplied>ὰ <name type="festival"><w lemma="Παναθήναια">Παναθήναια</w></name> τὰ <w lemma="κατά">κατ’</w>
+                    <w lemma="ἐνιαυτός">ἐνιαυτὸν</w>
+                    <w lemma="ποιέω">ποεῖν</w> τὴν <name type="festival"><w lemma="παννυχίς">πα<supplied reason="lost">ν</supplied>
+                            <lb xml:id="line_34" n="34" break="no"/><supplied reason="lost">νυχίδα</supplied></w></name>
+                    <w lemma="ὡς">ὡς</w>
+                    <w lemma="καλός">καλλίστην</w>
+                    <name type="deity" key="Athena">τῆι <w lemma="θεός">θεῶι</w></name> καὶ τὴν <w lemma="πομπή">πομπὴν</w>
+                    <w lemma="πέμπω">πέμπε<supplied reason="lost">ι</supplied>
+                        <lb xml:id="line_35" n="35" break="no"/><supplied reason="lost">ν</supplied></w>
+                    <w lemma="ἅμα"><supplied reason="lost">ἅμα</supplied></w>
+                    <w lemma="ἥλιος"><supplied reason="lost">ἡ</supplied>λίωι</w>
+                    <w lemma="ἄνειμι">ἀνιόντι</w>, <name type="punishment"><w lemma="ζημιόω">ζημιοῦντας</w></name> τὸν <w lemma="μή">μὴ</w>
+                    <name type="authority"><w lemma="πειθαρχέω">πειθαρχο<supplied reason="lost">ῦντ</supplied>
+                            <lb xml:id="line_36" n="36" break="no"/><supplied reason="lost">α</supplied></w></name>
+                    <supplied reason="lost">ταῖς</supplied>
+                    <w lemma="ἐκ"><supplied reason="lost">ἐ</supplied>κ</w> τῶν <name type="authority"><w lemma="νόμος">νόμων</w></name>
+                    <name type="punishment"><w lemma="ζημία">ζημίαι<supplied reason="lost">ς</supplied></w></name>· <w lemma="αἱρέω">ἑλέσθαι</w> δὲ τὸν <name type="group"><w lemma="δῆμος">δῆμ<supplied reason="lost">ον</supplied></w></name>
+                    <gap reason="lost" quantity="3" unit="character"/>
+                    <lb xml:id="line_37" n="37"/>
+                    <gap reason="lost" quantity="18" unit="character"/>
+                    <name type="person"><w lemma="ἀνήρ"><supplied reason="lost">ἄ</supplied><unclear>ν</unclear><supplied reason="lost">δ</supplied><unclear>ρα</unclear>ς</w></name>
+                    <w lemma="ἐκ">ἐξ</w>
+                    <name type="group"><w lemma="Ἀθηναῖος">Ἀθηναίων</w></name>
+                    <w lemma="ἅπας">ἁπ<supplied reason="lost">άντων</supplied></w><gap reason="lost" quantity="1" unit="character"/>
+                    <lb xml:id="line_38" n="38"/>
+                    <gap reason="lost" extent="unknown" unit="line"/>
+                </ab>
+
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p> [So that] piously and [...] annually, and that [...] prepared in the best possible way for Athena (5) [every]
+                    year on behalf of the A[thenians], and so that all [other] things needed for the festival [which is
+                    celebrated] for the goddess are managed well by the <foreign>hieropoioi</foreign> [for all time to come], be
+                    it resolved by the people: in other respects (things should be done) as [proposed by the council], but the
+                        <foreign>hieropoioi</foreign> shall sacrifice the two (10) [... the one] to Athena Hygieia and the other
+                    in the old [temple], precisely as it was done before, and when they have distributed to the
+                        [<foreign>prytan</foreign><foreign>eis</foreign>] five portions and to the nine [archons ...], and to the
+                    treasurers of the goddess one portion and to the <foreign>hier</foreign><foreign>opoioi</foreign> and to the
+                    generals and the taxiarchs [...] and (15) to the Athenians who participate in the procession and to the [...
+                    (feminine)] as is customary, they are to [distribute] the rest of the meat to the Athenians. The
+                        <foreign>hier</foreign><foreign>opoioi</foreign> when they have bought cows, together with the cattle
+                    buyers, with the 41 <foreign>minai</foreign> available from the lease of the Nea, and have conducted the
+                    procession for the goddess, should then (20) [sacrifice] all these cows on the great altar of [Athena], but
+                    one on the altar of Nike, having chosen it beforehand from the most beautiful cows, and when they have
+                    sacrificed to [Athena] Polias and Athena Nike, (25) they should distribute the meat from all the cows bought
+                    with the 41 <foreign>minai</foreign> to the Athenian people in the [Kerameikos (?)] precisely as at other meat
+                    distributions. And they shall [allocate] portions to each deme according to the number of participants in the
+                    procession that each deme provides. And for the contract costs of the procession and the butchers’ fee and
+                    (30) [adornment] of the great altar and the other things that are fitting to [...] concerning the festival and
+                    for an all-night celebration, they shall give 50 drachmae. And the <foreign>hieropoioi</foreign> who organise
+                    the annual Panathenaia are to make the all-night celebration as beautiful as possible for the goddess and to
+                    conduct the procession (35) starting at sunrise, punishing anyone who is not obedient to authority with the
+                    punishments provided by the laws [...] the people are to choose [...] men from all Athenians [...]</p>
+                <p>(translation adapted from S. Lambert, <ref target="https://www.atticinscriptions.com/inscription/SokolowskiLSCG/33" type="external">AIO</ref>)</p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction </head>
+                <p>[Afin que] pieusement et [...] annuellement, et que [...] préparée de la meilleure manière possible pour Athéna
+                    (5) [chaque] année au nom des A[théniens], et que les [autres] choses nécessaires à la fête [célébrée] pour la
+                    déesse soient bien fournies par les hiéropes [à jamais], qu'il plaise au peuple que, le reste (devant être
+                    accompli) selon [ce que le conseil a proposé], les hiéropes accompliront les deux (10) [... l'un] pour Athéna
+                    Hygieia et l'autre dans l'ancien [temple], exactement comme avant. Après avoir distribué aux [prytan]es cinq
+                    portions, aux neuf ar[chontes ...], aux trésoriers de la déesse, une, aux hiér[opes], une, aux stratèges et
+                    aux taxiarques [...], (15) aux Athéniens qui processionnent et aux [... (nom féminin)] de la manière
+                    habituelle, [ils répartiront] le reste des viandes aux Athéniens. Après avoir acheté les bovins sur les 41
+                    mines tirées de la location de Nea, en compagnie des acheteurs de bovins, que les hiér[opes], après avoir
+                    conduit la procession pour la déesse, (20) sacrifient toutes ces vaches sur le grand autel [d'Athéna], et une
+                    sur celui de Nikè, après l'avoir présélectionnée parmi les vaches les plus belles. Et, après avoir sacrifié à
+                    [Athéna] Polias et à Athéna Nikè, (25) de toutes les vaches achetées sur les 41 mines, qu'ils distribuent les
+                    viandes au peuple athénien au [Céramique (?)], conformément aux autres distributions de viande. Ils
+                    répartiront les portions à destination de chaque dème en fonction du nombre de participants à la procession
+                    que chaque dème fournit. Pour les frais d'adjudication de la procession ainsi que le coût de la boucherie et
+                    (30) [l'ornement] du grand autel, et les autres choses qu'il convient [...] touchant à la fête et à la veillée
+                    nocturne, [ils donneront] 50 drachmes. Les hiéropes qui organisent les Panathénées annuelles rendront la
+                    veillée nocturne aussi belle que possible pour la déesse et conduiront la procession (35) dès l'aube, en
+                    frappant des punitions prévues par les lois celui qui ne se soumettrait pas à l'autorité. Le peuple choisira
+                    [...] des hommes parmi tous les Athéniens [...]</p>
+            </div>
+            <div type="commentary">
+                <head>Commentary</head>
+                <p>The text presented here is Fragment B of two texts that were connected by Lewis on the basis of content, script
+                    and style (though there is no formal match between the two stones). Both of these documents concern the
+                    financing and organisation of the annual (or the so-called "Little" Panathenaia, Παναθήναια τὰ Μικρά, cited in
+                    fr. B, lines 5-6) in 335-330 in Lycurgan Athens. For other documents of this period, when decrees evincing an
+                    interest in religious matters and in augmentation of existing worship are particularly numerous, see Parker,
+                    p. 242-253. The principal decree in Fragment B is concerned with the Panathenaia that was held annually (cf.
+                    line 33: <supplied reason="lost">τ</supplied>ὰ <name type="festival"><w lemma="Παναθήναια">Παναθήναια</w></name> τὰ <w lemma="κατά">κατ’</w>
+                    <w lemma="ἐνιαυτός">ἐνιαυτὸν</w>). There remains some debate about whether this expression designates the
+                    festival held in the three years between two occurrences of the Great Panathenaia (which were organised every
+                    four years), or more properly, those elements of the festival that happened every year (κατ’ ἐνιαυτὸν) and
+                    were particularly augmented every four years during this "Great" instalment (see now Knoepfler, p. 152-153
+                    with nn. 22-23 for a summary, siding with the latter view). The other text, Fragment A, records the decision
+                    to lease out a land called the Νέα and to sell a tax, so that the resulting revenues may increase the
+                    splendidness of the festival and the income of the <foreign>hieropoioi</foreign>.</p>
+
+                <p>Our text, Fragment B is a decree, seemingly an amendment of a previous decision by the council (the Boule of
+                    Athens, lines 8-9), first describes two traditional sacrifices to Athena during the festival, one to Athena
+                    Hygieia, the other to Athena "in the ancient temple", and the ensuing distributions of meat (lines 9-17). The
+                    distribution of the meat is to be made to various officials according to their hierarchy of political
+                    importance, with different portions specified for each group, then to those Athenians who participated in the
+                    procession and to some other group "in the customary way", then to all other Athenian citizens. A further set
+                    of sacrifices is to be financed with the rent from the lease of the Nea, as described in Fragment A, and this
+                    is offered to Athena Polias and Nike (lines 17-28). Specifically, the majority of the cows should be
+                    sacrificed on the altar of Athena Polias, but one of the most beautiful cows is offered on the altar of Athene
+                    Nike. In the case of this new sacrifice, the meat is distributed to the Athenian people, without a
+                    hierarchical differentiation being made, but to each deme a portion is given that accords with the numbers of
+                    participants in the procession. At the end of the inscription, we find other brief guidelines concerning the
+                    further augmentation (lines 28-32) and the practical details of the organisation of the festival (lines
+                    32-37); perhaps the now fragmentary inscription would have added further details below.</p>
+
+                <p>Can we quantify how the decisions recorded in this dossier would have contributed to increase the annual
+                    Panathenaia (for this decree is probably supplementary, and does not represent the total of the offerings made
+                    on this occasion)? The 41 minae of rent from the Nea used to fund the sacrifices to Athena Polias and Nike
+                    yield 4100 drachmae. Thus, with all due caution, if we approximate the price of cows and other oxen at ca.
+                    90-100 drachmae in the second half of the fourth century BC at Athens (see Rosivach 1994), then there would
+                    perhaps have been enough money for ca. 40-50 additional cows each year; perhaps more if the price was lower,
+                    perhaps less if the cows were especially chosen for their beauty. In the large scale of Athenian festivals and
+                    with the economic hazards of inflation, however, it remains difficult to put this in perspective (note, e.g.,
+                    that the Great Panathenaia, almost a century earlier, is known to have a had a budget of 5114 drachmae for a
+                    hekatomb, cf. <bibl type="abbr" n="IG II³">IG II³</bibl> 375, line 7, 410/9 BC).</p>
+
+                <p>Lines 8-11: These lines seem to introduce some kind of novel arrangement, as is evident from the phrase τὰ μὲν
+                    ἄλλα καθά[περ ..., θ]ύειν δὲ. Since τῆι βουλῆι is restored, we cannot be sure that a previous decision of the
+                    council was involved, though the layout of the document and Fragment A (cf. above) would suggest so.
+                    Alternatively, the gap in these lines may have contained some general reference to law, custom or tradition
+                    (νόμος, τὰ πάτρια, νόμιμα, or the like). It is unclear which part of the rules which follow has changed or
+                    been 'amended'. A related problem is the phrase καθάπερ πρότερον in line 11, since we do not know precisely
+                    what it refers to. One view may be that the elaborately hierarchical and detailed distribution of meat in
+                    lines 11-17 is an innovation or revision regarding these traditional sacrifices (so Knoepfler). Another view
+                    is that the novelty in this document is the whole of the second sacrifice detailed below in lines 17-26
+                    (Rosivach 1991). Still further, one may view the financing of the second sacrifice from the revenues of the
+                    Nea as new. For discussion of these questions, cf. Rhodes - Osborne, p. 402-403. Note that these options are
+                    not mutually exclusive: they may all represent innovations and augmentations of traditional practice to a
+                    certain degree. Knoepfler (p. 158-161) discusses at length the restoration of the two sacrifices or
+                    sacrificial animals offered to Athena Hygieia and another to the same goddess—Athena—no doubt on the
+                    Acropolis, ingeniously suggesting [ἄρνας τὴν τε] ... as a supplement (incidentally, [ἀμνάς] is an equally
+                    plausible restoration in the same sense; cf. the sacrifice to Athena at Erchia, <ref target="CGRN_52">CGRN
+                        52</ref>, col. Β, lines 27-32). This would result in two lambs, one sacrificed for each goddess at a
+                    different place near the possible site of the stele, the area between the Propylaia and the Erectheion (see
+                    above on Provenance). Yet the precise syntax remains somewhat elusive (the use of the definitive article, τὰς
+                    μὲν δύο ..., is intriguing); and the lacuna is not necessarily reducible to 5 letters only (it is given as 10
+                    here, as in Lambert). Knoepfler's supplement is perhaps attractive, since lambs could be offered as
+                    preliminary offerings to a major sacrifice and were indeed sacrificed (as were, more commonly, mature ewes) to
+                    Athena. More damningly, however, this supplement would also entail that the numerous commensurate portions
+                    from only two lambs distributed to prominent officials (lines 11-17; see below) were rather small or lacking
+                    in meat, since they derived from only two lambs; this would surely be the case for the portions apparently
+                    given to "the rest of the Athenians". Knoepfler views these portions as having only "une valeur symbolique"
+                    (p. 164), which is difficult to accept, and thus larger animals remain perfectly possible and even more
+                    suitable. The cult of Athena Hygieia was one of the early healing cults in Athens already attested before the
+                    arrival of the god Asclepius in 420/419. Her role was "essentially prophylactic, and directed to the health of
+                    the community as a whole, not of individuals" (Parker, p. 175). The final section of these lines has been
+                    restored in various ways, but the restoration τῶι ἀρ[χαίωι νεῶι] seems the most likely. In the fourth century,
+                    the Erechtheion was referred to as the "old temple"; cf. here the inscription of the Praxiergidai, <ref target="http://cgrn.ulg.ac.be/CGRN_24/">CGRN 24</ref> for further discussion, also for the idea that the
+                    foundations of this ancient temple were left standing on the Acropolis in next to the Erechtheion. The fact
+                    that this commemorative temple was located in the open air seems to "solve the problem" caused by reading ἐν
+                    τῶι ἀρ[χαίωι νεῶι] as indicating the performance of a sacrifice in the Erechtheion itself (an issue raised
+                    again by Knoepfler, p. 163-164). Other suggested restorations, each with their own problems, are: "in the old
+                        <foreign>hieron</foreign>", "on the Areios Pagos", "in the [sanctuary of] the Archegetis", "in the
+                    Arrephoreion" (an unattested expression suggested by Humphreys); cf. also Schwenk, p. 93, and also Brulé on
+                    this textual problem.</p>
+
+                <p>Lines 11-17: The meat measured in equitable "portions" and distributed among various groups is a traditional
+                    practice in Athens, cp. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_19/">CGRN 19</ref> (deme of Skambonidai),
+                    lines A9-11, C6-10. As in other distributions, two different mechanisms and ideas are at work. First, special
+                    honorands and participants in the cult are singled out, who receive one or more such portions. The rest of the
+                    meat is then to be distributed in an egalitarian way among "the Athenians" who partake in the procession and
+                    finally, any remaining meat, among the remainder of "the Athenians" (very probably, the male citizens of the
+                    city who could not attend the procession). As Ekroth describes, it is probable that these first portions,
+                    though equitable, would contain good amounts of meat. Other parts of the animal that were divided into equal
+                    portions were perhaps tougher, and this meat needed to hang for a few days and/or be cooked for a considerable
+                    time (for instance, in a stew). For continued speculation on the number of portions to be restored in the
+                    lacunae, see Knoepfler. Contrary to all previous interpretations of the text, Knoepfler hypothesises that the
+                    clause τὰ δὲ ἄλλα κρέα forms a counterpart to the two or more sacrifices described previously (τὰς μὲν δύο...;
+                    see above on lines 8-11), and thus introduces the new sacrifices of cows funded from the Nea. We opt to
+                    maintain the previous, more natural reading, taking τὰ δὲ ἄλλα κρέα following the earlier sacrifices; for a
+                    direct comparison, see here the calendar of Kos, <ref target="CGRN_86">CGRN 86</ref> A, line 22, τὰ δὲ ἄλλα
+                    κρέα τᾶς πόλιο̣ς, which clearly relates to the sacrificial animal described immediately earlier (cp. also <ref target="CGRN_147">CGRN 147</ref>, line 60, from the same island). In the same line 16, Lambert, perhaps
+                    overcautiously, confines the widely accepted restoration [κανηφόροι]ς to his apparatus while noting its
+                    probability. See Brulé, p. 47-50, for good arguments about the involvement of these female cultic agents in
+                    the festival.</p>
+
+                <p> Line 17-26: For the second set of sacrifices described in the text, the <foreign>hieropoioi</foreign> buy cows
+                    with the revenues (41 <foreign>minai</foreign>) from the lease of the land called the Nea. Having conducted a
+                    procession, these cows are to be sacrificed on the great altar of Athena (ἐπὶ τῶι βωμῶι τῆς [Ἀθηνᾶς τῶι
+                    με]γάλωι), but one very beautiful cow is offered on the altar of Athena Nike; on beauty contests and the
+                    selection of sacrificial animals, see also here e.g. <ref target="CGRN_186">CGRN 186</ref> (Ilion), line 27.
+                    As Lambert points out, after Athens' defeat at Chaironeia in 338 BC, the cult of Athena Nike became even more
+                    prominent. No consensus on the identity of the Nea has been reached. The amount of rent suggests it is a
+                    sizeable piece of land. According to Robert, we should understand νέα χώρα, "newly acquired territory", as
+                    Oropos, since this territory is considered to have been given to Athens by Philip of Macedon in 338/7 (the
+                    older view) or already in 336/5 by Alexander the Great (a newer view, see both Lambert and Knoepfler). For his
+                    part, Langdon argued that this land was a small island next to Lemnos, now the Keros or Charos Reef; for
+                    further discussion of this debate, cf. Rhodes - Osborne, p. 400-401. On the leasing of sacred and public lands
+                    as a means of revenue, cf. now Papazarkadas, with particular reference to the Nea.</p>
+
+                <p> Lines 25-28: Exceptionally, the meat of the second set of sacrifices is to be distributed by deme, according
+                    to the number of participants ([πέμπον]τας) which each deme provides for the procession. No analogous cases
+                    are known; see Rhodes - Osborne, p. 401. Knoepfler (p. 175-187) interestingly questions the established
+                    restoration, seeking to reestablish Ussing's proposal [βουλευ]τὰς. This would entail a repartition of meats
+                    from the cows equal to the number of councilmen provided by each deme. In other words, only 500 portions would
+                    be given from at least 40-50 oxen, if not more. While noting Knoepfler's ingenious questioning of the widely
+                    accepted restoration [πέμπον]τας (usually requiring an object and perhaps rather oblique in the absolute sense
+                    of "escort" or "participant", but see already the present participle [τ]οῖς πομπ[εῦσι]ν in line 15), we find
+                    his interpretation to result in a difficult sense of μερίς, an equitable portion, such as could be eaten by a
+                    citizen: thus, only 10 portions awarded from each cow? Moreover, 500 portions would surely be too small a
+                    number, inadequate for distribution to the whole citizenry (cp. also Knoepfler's p. 194). The location of this
+                    distribution has plausibly been restored as the Kerameikos, an open space which could receive a large crowd
+                    without any problem, and which formed the starting point of the procession of the Panathenaia (Thuc. 6.57).
+                    The distribution would most probably not have taken place immediately after the sacrifice on the Acropolis;
+                    for a recent discussion, see also Knoepfler, p. 172-175.</p>
+
+                <p>Lines 28-32: An amount of 50 drachmae is to be set apart for the costs of contracts relating to the procession,
+                    the payment of the butchers, the adornment of the altar and whatever else is needed for the organisation of
+                    the festival and an all-night celebration. This pannychis (cf. Deubner) took place after the procession, known
+                    to have occurred on the 28th of Hekatombaion (Eur. <title>Heracl.</title> 777ff.; on the date, see
+                    Mikalson).</p>
+
+                <p> Lines 32-37: The final fragmentary lines of the document apparently comprise a separate part or section,
+                    containing special instructions for the <foreign>hieropoioi</foreign>. They are to ensure that the festival is
+                    organised as elegantly as possible, that the procession starts at sunrise and that any wrongdoers are
+                    punished. An unknown number of citizens (lines 36-37) are to be selected by the Council for a purpose that is
+                    now lost. Knoepfler (p. 192-195) implausibly dissociates this measure from the remainder of the new
+                    regulations for the festival, while rightly calling it "ponctuelle" (ad hoc) given the aorist ἑλέσθαι. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

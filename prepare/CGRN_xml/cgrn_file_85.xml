@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_85" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 85</idno>: <rs type="textType" key="priestly contract">Regulation concerning priesthoods</rs> on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Stéphanie Paul</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		
+		<p>Three fragments of an opisthographic white marble <rs type="objectType">stele</rs> (here faces A and B). See Parker for further details.</p>
+		<p>Fragment A <dimensions> 
+			<height unit="cm">30</height>
+			<width unit="cm">24</width>
+			<depth unit="cm">8-8.5</depth>
+		</dimensions></p>
+		
+		<p>Fragment B <dimensions> 
+			<height unit="cm">31</height>
+			<width unit="cm">19</width>
+			<depth unit="cm">8-8.5</depth>
+		</dimensions></p>
+		
+		<p>Fragment C <dimensions>
+			<height unit="cm">unknown</height>
+			<width unit="cm">unknown</width>
+			<depth unit="cm">8-8.5</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p>Letters: 
+			<height unit="cm">1.0</height></p>
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0375" notAfter="-0325">ca. 350 BC</origDate></p>
+							
+		<p><desc>Justification: lettering (Parker).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Fragments A and C found near the cemetery of the church of S. Ioannis. Fragment C is lost, fragment a is now in the British Museum (inv. no. 968). Fragment B of uncertain provenance, now in the storehouse of the Castle of Kos.</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Robert Parker apud Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 332. </p>
+	    			<p> Other editions: 
+	    				Paton - Hicks <bibl type="abbr" n="PH">PH</bibl> 40 + 41; 
+	    				Herzog <bibl type="abbr" n="HGK">HGK</bibl> 5 + 6. </p>
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS I">LGS I</bibl> 9; 
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 156 + 157; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20332" type="external">IG-online</ref>, with Greek text and a translation in German.
+	    			</p>
+	    			
+	    			<p>Further bibliography:
+	    				<bibl type="author_date" n="Bruneau 1970">Bruneau 1970</bibl>: 245-246;
+	    				<bibl type="author_date" n="Sherwin-White 1978">Sherwin-White 1978</bibl>;
+	    				<bibl type="author_date" n="Parker 1983">Parker 1983</bibl>: 52;
+	    				<bibl type="author_date" n="Jones 1987">Jones 1987</bibl>: 236-242;
+	    				<bibl type="author_date" n="Parker - Obbink 2000">Parker - Obbink 2000</bibl>: 446-447;
+	    				<bibl type="author_date" n="Ekroth 2002">Ekroth 2002</bibl>: 313-325;
+	    				<bibl type="author_date" n="Wiemer 2003">Wiemer 2003</bibl>: 280;
+	    				<bibl type="author_date" n="Pirenne-Delforge 2005">Pirenne-Delforge 2005</bibl>: 58-59;
+	    				<bibl type="author_date" n="Rutherford 2009">Rutherford 2009</bibl>;
+	    				<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>;
+	    				<bibl type="author_date" n="Paul 2013b">Paul 2013b</bibl>.		
+	    			</p>
+	    			
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab subtype="Face" n="A">Face A
+	    				
+<lb xml:id="line_1" n="1"/> <w lemma="ὅδε"><unclear>τ</unclear>οῖσδε</w> <w lemma="τελέω"><unclear>τ</unclear>ε<unclear>λ</unclear><supplied reason="lost">έζεται</supplied></w> <supplied reason="lost">ὁ</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱαρεὺς</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="purification"><w lemma="καθαίρω"><supplied reason="lost">καθαίρεται</supplied></w></name> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος"><supplied reason="lost">χοίρωι</supplied></w></name></name>
+	    				
+<lb xml:id="line_2" n="2"/> <name type="gender"><w lemma="ἄρσην">ἔρσενι</w></name> <w lemma="ἐπί">ἐπὶ</w> <name type="liquid"><w lemma="θάλασσα">θα<unclear>λ</unclear><supplied reason="lost">άσσαι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύει</supplied></w></name> <supplied reason="lost">τῶι</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοῦν</supplied></w></name>  <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">κ</supplied>
+	    				
+<lb xml:id="line_3" n="3" break="no"/>αὶ <name type="sacrifice"><w lemma="ἐπιθύω">ἐπιθύει</w></name> <name type="vegetal"><w lemma="ἄλφιτον">ἀλ<supplied reason="lost">φίτων</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> 
+	    				
+<lb xml:id="line_4" n="4" break="no"/>ν <w lemma="ἡμίεκτον">ἡμίεκτον</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_5" n="5" break="no"/>ις· <w lemma="οὗτος">τούτων</w> <w lemma="οὐ">ο<supplied reason="lost">ὐκ</supplied></w> <name type="meal"><w lemma="ἀποφορά"><supplied reason="lost">ἀποφορά</supplied></w></name><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/>, <unclear>τῶ</unclear>
+	    				
+<lb xml:id="line_6" n="6" break="no"/>ι <name type="deity" key="Achaios"><w lemma="Ἀχαιός">Ἀχαιῶι</w></name>· <w lemma="οὗτος">ταῦ<supplied reason="lost">τα</supplied></w> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύει</supplied></w></name> <supplied reason="lost">ὁ</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱαρεύς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>ων <w lemma="οὗτος">τουτ
+	    					
+<lb xml:id="line_7" n="7" break="no"/>ῶν</w> <w lemma="οὐ">οὐκ</w> <name type="meal"><w lemma="ἀποφορά">ἀπ<supplied reason="lost">οφορά</supplied></w></name><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὅς"><supplied reason="lost">ο</supplied><unclear>ἷσ</unclear>ί<unclear>γ</unclear></w> <w lemma="κα">κα</w> ἁ <name type="group"><w lemma="πόλις">πόλ
+	    						
+<lb xml:id="line_8" n="8" break="no"/><supplied reason="lost">ι</supplied>ς</w></name> <name type="sacrifice"><w lemma="θύω">θύηι</w></name> κ<unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/><unclear>α</unclear>ντας· <name type="genericOffering"><w lemma="ἱερός">ἱαρὰ</w></name> δὲ <w lemma="ἐπί">ἐ
+	    							
+<lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">πὶ</supplied></w> <w lemma="οὗτος"><supplied reason="lost">τούτοις</supplied></w> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱαρεὺς</supplied></w></name> <w lemma="παρέχω"><supplied reason="lost">παρέχει</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost">ἁ</supplied> <supplied reason="lost">δε</supplied> <name type="group"><w lemma="πόλις"><supplied reason="lost">πόλις</supplied></w></name> <supplied reason="lost">τὸ</supplied> <w lemma="ἀναλίσκω"><supplied reason="lost">ἀναλισκόμεν</supplied>ον</w> <w lemma="ἀργύριον">ἀργύριον</w> <w lemma="εἰς">ἐς</w> τ
+	    				
+<lb xml:id="line_10" n="10" break="no"/><supplied reason="lost">ὰν</supplied> <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυσίαν</supplied></w></name> <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀποδίδωτι</supplied></w><supplied reason="lost">·</supplied> <w lemma="ἀπολύω"><supplied reason="lost">ἀπολελύσθαι</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="ἀρχή"><supplied reason="lost">ἀρχᾶν</supplied></w> <w lemma="ὅδε"><supplied reason="lost">τᾶ</supplied>νδε</w> τὸν <name type="personnel"><w lemma="ἱερεύς">ἱαρῆ</w></name>· <name type="title"><w lemma="μοναρχία">μονα
+	    					
+<lb xml:id="line_11" n="11" break="no"/><supplied reason="lost">ρχίας</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="purification"><w lemma="ἁγνεύω"><supplied reason="lost">ἁγνεύεσθ</supplied><unclear>αι</unclear></w></name> δὲ <w lemma="ὅδε">τῶνδε</w> τὸν <name type="personnel"><w lemma="ἱερεύς">ἱαρῆ</w></name>· <name type="purification"><w lemma="μυσαρός">μυσαρ
+	    						
+<lb xml:id="line_12" n="12" break="no"/><supplied reason="lost">ῶι</supplied></w></name> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="μηδέ"><supplied reason="lost">μηδὲ</supplied></w> <w lemma="παρά"><supplied reason="lost">παρ’</supplied></w> <name type="deity" key="Hero"><w lemma="ἥρως"><supplied reason="lost">ἥρωνα</supplied></w></name> <name type="meal"><w lemma="ἐσθίω"><supplied reason="lost">ἔσθ</supplied><unclear>ε</unclear>ν</w></name> <w lemma="μηδέ">μηδὲ</w> <w lemma="παρά">παρ’</w> <name type="deity" key="Hekate"><w lemma="Ἑκάτη">Ἑκάτας</w></name> <name type="epithet" key="Megale"><w lemma="μέγας">Μεγάλ
+	    							
+<lb xml:id="line_13" n="13" break="no"/><supplied reason="lost">ας</supplied></w></name> <w lemma="μηδέ"><supplied reason="lost">μηδὲ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>οις <name type="sacrifice"><w lemma="θύω">θύεται</w></name> <w lemma="μηδέ">μηδὲ</w> <w lemma="ὅσος">ὅσσα</w> τοῖς ἐνε
+	    				
+<lb xml:id="line_14" n="14" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="μηδέ"><supplied reason="lost">μηδὲ</supplied></w> <w lemma="ἐμπατέω"><supplied reason="lost">ἐμ</supplied><unclear>π</unclear>ατεῖν</w> <name type="structure"><w lemma="ἡρῷον">ἡρῶιον</w></name> <w lemma="μηδέ">μηδὲ</w> <w lemma="εἰς">ἐς</w> <w lemma="οἰκία">οἰκίαν</w>
+	    				
+<lb xml:id="line_15" n="15"/> <w lemma="εἰσέρπω"><supplied reason="lost">ἐσέρπεν</supplied></w> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <w lemma="ὁποῖος"><supplied reason="lost">ὁποίαι</supplied></w> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <name type="person"><w lemma="ἄνθρωπος"><supplied reason="lost">ἄνθρωπος</supplied></w></name> <name type="death"><w lemma="ἀποθνήσκω"><supplied reason="lost">ἀποθά</supplied><unclear>ν</unclear>ηι</w></name> <w lemma="ἡμέρα">ἁμερᾶν</w> <w lemma="πέντε">πέντε</w> <w lemma="ἀπό">ἀφ’</w> <w lemma="ὅς">ἇς</w> <w lemma="κα">κα</w> <w lemma="ἡμέρα">ἁμέ
+	    					
+<lb xml:id="line_16" n="16" break="no"/><supplied reason="lost">ρας</supplied></w> <supplied reason="lost">ὁ</supplied> <name type="death"><w lemma="νεκρός"><supplied reason="lost">νεκρὸς</supplied></w></name> <w lemma="ἐκφέρω"><supplied reason="lost">ἐξενιχθῆι</supplied></w><supplied reason="lost">,</supplied> <w lemma="μηδέ"><supplied reason="lost">μηδὲ</supplied></w> <w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w> <w lemma="οἰκία"><supplied reason="lost">οἰκίαν</supplied></w> <w lemma="εἰσέρπω"><supplied reason="lost">ἐ</supplied>σέρπεν</w> <w lemma="ἐν">ἐν</w> <w lemma="ὁποῖος"><supplied reason="lost">ὁ</supplied>ποίαι</w> <w lemma="κα">κα</w> <name type="person"><w lemma="γυνή">γυνὰ</w></name> <name type="childbirth"><w lemma="τίκτω">τέ
+	    						
+<lb xml:id="line_17" n="17" break="no"/><supplied reason="lost">κηι</supplied></w></name> <w lemma="ἡμέρα"><supplied reason="lost">ἁμερᾶν</supplied></w> <w lemma="τρεῖς"><supplied reason="lost">τριῶν</supplied></w> <w lemma="ἀπό"><supplied reason="lost">ἀφ’</supplied></w> <w lemma="ὅς"><supplied reason="lost">ἇς</supplied></w> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <name type="childbirth"><w lemma="τίκτω"><supplied reason="lost">τέκηι</supplied></w></name><supplied reason="lost">,</supplied> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἰ"><unclear>α</unclear>ἴ</w> <w lemma="κα">κα</w> <name type="childbirth"><name type="death"><w lemma="ἐκτιτρώσκω">ἐκτρῶι</w></name></name>· <w lemma="εἰ">αἰ</w> δέ <w lemma="τις">τί</w> <w lemma="κα">κα</w> <w lemma="οὗτος">τούτ
+	    							
+<lb xml:id="line_18" n="18" break="no"/><supplied reason="lost">ων</supplied></w> <supplied reason="lost">τῶμ</supplied> <name type="purification"><w lemma="μυσαρός"><supplied reason="lost">μυσαρῶν</supplied></w></name> <supplied reason="lost">τῶι</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱαρῆι</supplied></w></name> <w lemma="συμβαίνω"><supplied reason="lost">συμβᾶι</supplied></w> <name type="meal"><w lemma="φαγεῖν"><supplied reason="lost">φαγέν</supplied></w></name><supplied reason="lost">,</supplied> <w lemma="περιτέμνω"><supplied reason="lost">πε</supplied><unclear>ρ</unclear>ιταμέσθω</w> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοίρωι</w></name></name> <name type="gender"><w lemma="ἄρσην">ἔρσενι</w></name> <unclear>κ</unclear>
+	    				
+<lb xml:id="line_19" n="19" break="no"/><supplied reason="lost">αὶ</supplied> <name type="purification"><w lemma="καθαίρω"><supplied reason="lost">καθαράσθω</supplied></w></name> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w> <name type="object"><w lemma="χρυσίον"><supplied reason="lost">χρυσίου</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="vegetal"><w lemma="προσπερμεία"><supplied reason="lost">προσπερμεί</supplied>ας</w></name>· <w lemma="εἰ">αἰ</w> δέ <w lemma="τις">τί</w> <w lemma="κα">κα</w> τῶν <w lemma="ἄλλος">ἄλ<supplied reason="omitted">λ</supplied>ων</w> <w lemma="παρακρούω"><unclear>π</unclear>
+	    					
+<lb xml:id="line_20" n="20" break="no"/><supplied reason="lost">α</supplied><unclear>ρ</unclear>ακ<unclear>ρο</unclear><supplied reason="lost">ύσει</supplied></w><supplied reason="lost">,</supplied>  <gap reason="lost" extent="unknown" unit="character"/> <name type="purification"><w lemma="καθαρός"><unclear>κ</unclear>αθαρὸς</w></name> <w lemma="εἰμί">ἔστω</w>· <w lemma="αὐτός">αὕτα</w> <supplied reason="lost">ἁ</supplied> <w lemma="ἱερωσύνη"><supplied reason="lost">ἱαρε</supplied>
+	    						
+<lb xml:id="line_21" n="21" break="no"/>ωσύνα</w> <name type="group"><w lemma="τριακάς">τριακάδ<supplied reason="lost">ος</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">ἔστω</supplied></w> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">δᾶν</supplied><supplied reason="lost">,</supplied> <name type="group"><w lemma="πεντηκοστύς"><supplied reason="lost">πεντηκοστύος</supplied></w></name> <name type="group"><supplied reason="lost">Ἱ</supplied>ππιαδᾶν</name>· <space quantity="1" unit="character"/> τοῖσ<supplied reason="lost">δε</supplied> <w lemma="τελέω"><supplied reason="lost">τε</supplied>
+	    							
+<lb xml:id="line_22" n="22" break="no"/>λέζεται</w> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱαρεὺς</w></name> τ<supplied reason="lost">οῦ</supplied> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Ζηνὸς</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <name type="epithet" key="Polieus"><w lemma="Πολιεύς"><supplied reason="lost">Πολιέως</supplied></w></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τῶ</supplied><unclear>ν</unclear> <name type="deity" key="generic"><w lemma="θεός">Θεῶν</w></name> τῶν <name type="deity" key="Dodeka Theoi"><w lemma="δυώδεκα">Δυ<unclear>ώ</unclear><supplied reason="lost">δεκα</supplied></w></name><supplied reason="lost">·</supplied> <name type="purification"><w lemma="καθαίρω"><supplied reason="lost">κ</supplied>
+	    								
+<lb xml:id="line_23" n="23" break="no"/>αθαίρεται</w></name> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοίρωι</w></name></name> <w lemma="ἐπί">ἐ<supplied reason="lost">πὶ</supplied></w> <name type="liquid"><w lemma="θάλασσα"><supplied reason="lost">θαλάσσαι</supplied></w></name><supplied reason="lost">·</supplied> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύει</supplied></w></name> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">καὶ</supplied> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Ζην</supplied><unclear>ὶ</unclear></w></name> <name type="epithet" key="Polieus"><w lemma="Πολιεύς">Πολιῆι</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦ<supplied reason="lost">ν</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="deity" key="Athena"><w lemma="Ἀθήνη"><supplied reason="lost">Ἀθάν</supplied>
+	    									
+<lb xml:id="line_24" n="24" break="no"/>αι</w></name> <name type="epithet" key="Polias"><w lemma="Πολιάς">Πολιάδι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">ὄιν</w></name> <name type="age"><w lemma="τέλειος">τε<supplied reason="lost">λέαν</supplied></w></name> <name type="gender"><name type="quality"><w lemma="κυέω"><supplied reason="lost">κυέοσαν</supplied></w></name></name> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τῶι</supplied> <gap reason="lost" extent="unknown" unit="character"/>ς̣ <name type="locality"><w lemma="ὄρος">ὄρει</w></name>· <name type="genericOffering"><w lemma="ἱερός">ἱερ<supplied reason="lost">ὰ</supplied></w></name> <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <supplied reason="lost">τού</supplied>
+	    				
+<lb xml:id="line_25" n="25" break="no"/>τοις <name type="personnel"><w lemma="ἱερεύς">ἱαρεὺς</w></name> <w lemma="παρέχω">παρ<supplied reason="lost">έχει</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost">ἁ</supplied> <supplied reason="lost">δὲ</supplied> <name type="group"><w lemma="πόλις"><supplied reason="lost">πόλις</supplied></w></name> <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀποδίδωτι</supplied></w> <supplied reason="lost">τῶι</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱαρῆι</supplied></w></name> <supplied reason="lost">τὸ</supplied> <w lemma="ἀναλίσκω"><unclear>ἀ</unclear>ν<supplied reason="lost">αλισκόμ</supplied>
+	    					
+<lb xml:id="line_26" n="26" break="no"/>ενον</w> <w lemma="ἀργύριον">ἀργύριον</w> <w lemma="εἰς">ἐς</w> <supplied reason="lost">τὰν</supplied> <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυσίαν</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="κατά"><supplied reason="lost">κατὰ</supplied></w> <w lemma="ὅδε"><supplied reason="lost">τάδε</supplied></w> <supplied reason="lost">ὁ</supplied> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοῦς</supplied></w></name> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύεται</supplied></w></name> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Ζηνὶ</supplied></w></name> <name type="epithet"><w lemma="Πολιεύς"><supplied reason="lost">Πολιῆι</supplied></w></name><supplied reason="lost">·</supplied> <name type="genericOffering"><w lemma="ἔνδορα"><supplied reason="lost">ἔνδ</supplied>
+	    						
+<lb xml:id="line_27" n="27" break="no"/>ορα</w></name> <name type="genericOffering"><w lemma="ἐνδέρω">ἐνδέρεται</w></name>· <w lemma="ἐπί">ἐ<supplied reason="lost">φ’</supplied></w> <name type="structure"><w lemma="ἑστία"><supplied reason="lost">ἑστίαν</supplied></w></name> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύεται</supplied></w></name> <name type="bakery"><w lemma="ἄρτος"><supplied reason="lost">ἄρτος</supplied></w></name> <w lemma="ἐκ"><supplied reason="lost">ἐξ</supplied></w> <w lemma="ἡμίεκτον"><supplied reason="lost">ἡμιέκτου</supplied></w> <supplied reason="lost">καὶ</supplied> <name type="vegetal"><w lemma="ἄλφιτον"><supplied reason="lost">ἀλφίτων</supplied></w></name> <w lemma="ἡμίεκτον"><supplied reason="lost">ἡμ</supplied>
+	    							
+<lb xml:id="line_28" n="28" break="no"/>ίεκτον</w> καὶ <name type="bakery"><w lemma="ἄρτος">ἄρτος</w></name> <w lemma="ἕτερος"><supplied reason="lost">ἅτερος</supplied></w> <name type="dairy"><w lemma="τυρώδης"><supplied reason="lost">τυρώδης</supplied></w></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὰ</supplied> <name type="genericOffering"><w lemma="ἔνδορα"><supplied reason="lost">ἔνδορα</supplied></w></name><supplied reason="lost">,</supplied> <w lemma="οὗτος"><supplied reason="lost">ταῦτα</supplied></w> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύει</supplied></w></name> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱαρεὺ</supplied>
+	    								
+<lb xml:id="line_29" n="29" break="no"/>ς</w></name> καὶ <name type="sacrifice"><w lemma="ἐπισπένδω">ἐπισπένδ<unclear>ε</unclear><supplied reason="lost">ι</supplied></w></name> <name type="liquid"><w lemma="οἶνος"><supplied reason="lost">οἴνου</supplied></w></name> <name type="object"><w lemma="κρατήρ"><supplied reason="lost">κρατῆρας</supplied></w></name> <w lemma="τρεῖς"><supplied reason="lost">τρεῖς</supplied></w> <supplied reason="lost">καὶ</supplied> <name type="genericOffering"><w lemma="ἱερός"><supplied reason="lost">ἱερὰ</supplied></w></name> <w lemma="παρέχω"><supplied reason="lost">παρέχει</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost">τὰ</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="τέλεστρα"><supplied reason="lost">τέλε</supplied>
+	    									
+<lb xml:id="line_30" n="30" break="no"/>στρα</w> ἁ <name type="group"><w lemma="πόλις">πόλις</w></name> <w lemma="παρέχω">πα<supplied reason="lost">ρέχει</supplied></w><supplied reason="lost">·</supplied>  <supplied reason="lost">ὁ</supplied> <supplied reason="lost">δὲ</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱαρεὺς</supplied></w></name> <name type="meal"><w lemma="ξενίζω"><supplied reason="lost">ξενίζει</supplied></w></name> <supplied reason="lost">τὸν</supplied> <name type="title"><w lemma="μόναρχος"><supplied reason="lost">μόναρχον</supplied></w></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὸς</supplied> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">ἱα</supplied>
+	    										
+<lb xml:id="line_31" n="31" break="no"/>ροποιὸς</w></name> καὶ <name type="title"><w lemma="κῆρυξ">κά<supplied reason="lost">ρυκας</supplied></w></name><supplied reason="lost">·</supplied> <name type="portion"><w lemma="γέρας"><supplied reason="lost">γέρη</supplied></w></name> <w lemma="φέρω"><supplied reason="lost">φέρει</supplied></w> <name type="portion"><w lemma="δέρμα"><supplied reason="lost">δέρμα</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="portion"><w lemma="σκέλος"><supplied reason="lost">σκέλος</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="portion"><w lemma="χέλυς"><supplied reason="lost">χέλυος</supplied></w></name> <w lemma="ἥμισυς"><supplied reason="lost">ἥμισυ</supplied></w>
+	    				
+<lb xml:id="line_32" n="32"/> καὶ <name type="portion"><w lemma="κοιλία">κοιλίας</w></name> <w lemma="ἥμισυς">ἥμ<supplied reason="lost">ισυ</supplied></w><supplied reason="lost">·</supplied> <name type="personnel"><w lemma="θυαφόρος"><supplied reason="lost">θυαφόρωι</supplied></w></name> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">τοῦ</supplied> <name type="portion"><w lemma="σκέλος"><supplied reason="lost">σκέλεος</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <supplied reason="lost">τῶν</supplied> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">ἱαροποιῶν</supplied></w></name> <w lemma="δίδωμι"><supplied reason="lost">δί</supplied>
+	    					
+<lb xml:id="line_33" n="33" break="no"/>δοται</w> <name type="portion"><w lemma="ἀκρίσχιον">ἀκρίσχ<supplied reason="lost">ιον</supplied></w></name><supplied reason="lost">,</supplied> <name type="personnel"><w lemma="κῆρυξ"><supplied reason="lost">κάρυξι</supplied></w></name> <name type="portion"><w lemma="νῶτον"><supplied reason="lost">νώτου</supplied></w> <w lemma="δίκρεας"><supplied reason="lost">δίκρεας</supplied></w></name><supplied reason="lost">,</supplied> <name type="portion"><w lemma="ὑπώμαιος"><supplied reason="lost">ὑπώμαια</supplied></w></name><supplied reason="lost">,</supplied> <name type="portion"><w lemma="αἱμάτιον"><supplied reason="lost">αἱματίου</supplied></w></name> <w lemma="ὀβελός"><supplied reason="lost">ὀβελὸ</supplied>
+	    						
+<lb xml:id="line_34" n="34" break="no"/>ς</w> <name type="portion"><w lemma="τρικώλιος">τρικώλιος</w></name>, <name type="group"><supplied reason="lost">Νεστορίδαις</supplied></name> <name type="portion"><w lemma="νῶτον"><supplied reason="lost">νώτου</supplied></w> <w lemma="δίκρεας"><supplied reason="lost">δίκρεας</supplied></w></name><supplied reason="lost">,</supplied> <name type="title"><w lemma="ἰατρός"><supplied reason="lost">ἰατροῖς</supplied></w></name> <name type="portion"><w lemma="κρέας"><supplied reason="lost">κρέας</supplied></w></name><supplied reason="lost">,</supplied> <name type="title"><w lemma="αὐλητής"><supplied reason="lost">αὐλητᾶι</supplied></w></name> <name type="portion"><w lemma="κρέας"><supplied reason="lost">κ</supplied>
+	    							
+<lb xml:id="line_35" n="35" break="no"/>ρέας</w></name>, <name type="title"><w lemma="χαλκεύς">χαλ<unclear>κ</unclear><supplied reason="lost">έων</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="title"><w lemma="κεραμεύς"><supplied reason="lost">κεραμέων</supplied></w></name> <w lemma="ἑκάτερος"><supplied reason="lost">ἑκατέροις</supplied></w> <supplied reason="lost">τὸ</supplied> <name type="portion"><w lemma="κεφάλαιος"><supplied reason="lost">κεφάλαιον</supplied></w></name><supplied reason="lost">·</supplied> <supplied reason="lost">τὰ</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="ἄλλος"><supplied reason="lost">ἄλλα</supplied></w> <name type="portion"><w lemma="κρέας"><supplied reason="lost">κρέα</supplied></w></name>
+	    				
+<lb xml:id="line_36" n="36"/>  <unclear>τ</unclear>ᾶς <name type="group"><w lemma="πόλις">πόλιο<unclear>ς</unclear></w></name>· <w lemma="οὗτος"><supplied reason="lost">ταῦτα</supplied></w> <w lemma="πᾶς"><supplied reason="lost">πάντα</supplied></w> <w lemma="οὐ"><supplied reason="lost">οὐ</supplied></w> <name type="meal"><w lemma="ἀποφέρω"><supplied reason="lost">ἀποφέρεται</supplied></w></name> <w lemma="ἐκτός"><supplied reason="lost">ἐκτὸς</supplied></w> <supplied reason="lost">τᾶς</supplied> <name type="locality"><w lemma="πόλις"><supplied reason="lost">πόλιος</supplied></w></name><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_37" n="37"/> <gap reason="lost" quantity="1" unit="character"/><orig>αι</orig> μηδε<gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_38" n="38"/> <gap reason="lost" quantity="2" unit="character"/><orig>σε</orig><gap reason="lost" extent="unknown" unit="character"/></ab>
+	    				
+	    				
+	    			<ab subtype="Face" n="B">Face B
+	    				
+<lb xml:id="line_39" n="39"/> <gap reason="lost" extent="unknown" unit="character"/><orig>απε</orig><gap reason="lost" quantity="1" unit="character"/><orig>γ</orig><gap reason="lost" quantity="3" unit="character" precision="low"/>
+	    				
+<lb xml:id="line_40" n="40"/> <gap reason="lost" extent="unknown" unit="character"/>χων<unclear>τ</unclear>ι <orig>α</orig><gap reason="lost" quantity="1" unit="character"/>
+	    				
+	    				
+<lb xml:id="line_41" n="41"/> <gap reason="lost" extent="unknown" unit="character"/> τᾶς <w lemma="εἷς">μιᾶς</w> δὲ
+	    				
+	    				<lb xml:id="line_42" n="42"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐκπράσσω"><unclear>ἐ</unclear>κπράσσεσθ
+	    					
+	    					<lb xml:id="line_43" n="43" break="no"/> <supplied reason="lost">αι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="παρέχω"><supplied reason="lost">πα</supplied><unclear>ρ</unclear>έχεσθαι</w> <orig>σ</orig>
+	    				
+	    				<lb xml:id="line_44" n="44"/> <orig>νο</orig><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὸν</supplied> <supplied reason="lost">δ</supplied><unclear>ὲ</unclear> <name type="portion"><w lemma="νέμω">νεμομ<supplied reason="lost">ε</supplied> 
+	    					
+	    					<lb xml:id="line_45" n="45" break="no"/>νον</w></name> τὰ <name type="purification"><w lemma="μυσαρός">μ<unclear>υ</unclear><supplied reason="lost">σαρὰ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/><orig>λοσσ</orig><gap reason="lost" quantity="1" unit="character"/>
+	    				
+	    				<lb xml:id="line_46" n="46"/> τας <w lemma="ἰλεας">ἰλεας</w> <gap reason="lost" extent="unknown" unit="character"/> <del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del>
+	    				
+	    				<lb xml:id="line_47" n="47"/> <del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del> <gap reason="lost" extent="unknown" unit="character"/><orig>αχ</orig>
+	    				
+	    				<lb xml:id="line_48" n="48"/> <w lemma="φέρω">φέροντες</w> <w lemma="ἐκ">ἐκ</w> τοῦ <name type="structure"><w lemma="βωμός">βω<unclear>μ</unclear><supplied reason="lost">οῦ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+	    				<lb xml:id="line_49" n="49"/> τὰς <name type="personnel"><w lemma="ἀγρέτης">ἀγρετὰς</w></name> <w lemma="ἑρπω">ἑρπούσας</w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὸν</supplied> <name type="group"><w lemma="χορός"><supplied reason="lost">χορ</supplied>
+	    					
+	    					<lb xml:id="line_50" n="50" break="no"/>ὸν</w></name> τῶν <name type="group"><w lemma="πάμφυλος">Παμφύλεων</w></name> <w lemma="ἐπεκπέμπω">ἐπε<unclear>κ</unclear><supplied reason="lost">πέμπ</supplied></w><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἀπάγω"><supplied reason="lost">ἀπαγόν</supplied>
+	    						
+	    						<lb xml:id="line_51" n="51" break="no"/>τω</w> <w lemma="εἰς">ἐς</w> <placeName key="Kos"><w lemma="Κῶς">Κῶν</w></placeName> τῶι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλω<unclear>ν</unclear><supplied reason="lost">ι</supplied></w></name> <supplied reason="lost">τῶι</supplied> <name type="epithet" key="Delios"><w lemma="Δήλιος"><supplied reason="lost">Δαλίωι</supplied></w></name> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοῦν</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="animal" key="sheep"><w lemma="ὄϊς"><supplied reason="lost">οἶν</supplied></w></name> <name type="age"><name type="gender"><w lemma="τέλειος"><supplied reason="lost">τέλεων</supplied></w></name></name> <supplied reason="lost">καὶ</supplied> <name type="age"><name type="gender"><w lemma="τέλειος"><supplied reason="lost">τελέαν</supplied></w></name></name>,
+	    				
+	    				<lb xml:id="line_52" n="52"/> <w lemma="οὗτος">τούτωμ</w> <w lemma="φέρω">φέρει</w> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱαρεὺς</w></name> <name type="portion"><w lemma="γέρας">γέρ<unclear>η</unclear></w></name> <name type="portion"><w lemma="σκέλος"><supplied reason="lost">σκέλη</supplied></w></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὰ</supplied> <name type="portion"><w lemma="δέρμα"><supplied reason="lost">δέρματα</supplied></w></name><supplied reason="lost">·</supplied> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Διὶ</supplied></w></name> <supplied reason="lost">τῶι</supplied> <name type="epithet" key="Ourios"><w lemma="οὔριος"><supplied reason="lost">Οὐρίω</supplied>                   
+	    					
+	    					<lb xml:id="line_53" n="53" break="no"/>ι</w></name> <name type="sacrifice"><w lemma="θύω">θύεται</w></name> <w lemma="ἐπί">ἐπὶ</w> <w lemma="καλλιαρία">καλλιαρίαι</w> καὶ <w lemma="οὖρος">οὔ<unclear>ρ</unclear><supplied reason="lost">ωι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τοῖς</supplied> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Apollo"> <w lemma="Ἀπόλλων"><supplied reason="lost">Ἀπόλλ</supplied>
+	    						
+	    						<lb xml:id="line_54" n="54" break="no"/>ωνι</w></name> τῶι <name type="epithet" key="Delios"><w lemma="Δήλιος">Δαλίωι</w></name> <name type="group"><w lemma="θεωρία">θεωρίαν</w></name> <w lemma="τελέω">τελε<supplied reason="lost">ῦσι</supplied></w> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοῦς</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="animal" key="sheep"><w lemma="ὄϊς"><supplied reason="lost">οἶς</supplied></w></name> <name type="age"><name type="gender"><w lemma="τέλειος"><supplied reason="lost">τέλεως</supplied></w></name></name> <supplied reason="lost">καὶ</supplied> <name type="age"><name type="gender"><w lemma="τέλειος"><supplied reason="lost">τελέα</supplied></w></name></name><supplied reason="lost">·</supplied> <w lemma="οὗτος"><supplied reason="lost">τούτ</supplied>
+	    							
+	    							<lb xml:id="line_55" n="55" break="no"/><unclear>ω</unclear>ν</w> <w lemma="φέρω">φέρει</w> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱαρεὺς</w></name> <name type="portion"><w lemma="γέρας">γέρη</w></name> <name type="portion"><w lemma="σκέλος">σκέλη</w></name>, <name type="portion"><w lemma="κεφαλή"><supplied reason="lost">κεφαλάς</supplied></w></name><supplied reason="lost">,</supplied> <name type="portion"><w lemma="πούς"><supplied reason="lost">πόδας</supplied></w></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὰ</supplied> <name type="portion"><w lemma="δέρμα"><supplied reason="lost">δέρματα</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="οὗτος"><supplied reason="lost">τούτων</supplied></w>
+	    				
+	    				<lb xml:id="line_56" n="56"/> <unclear>τ</unclear>ῶγ <name type="portion"><w lemma="κρέας">κρεῶν</w></name> <w lemma="οὐ">οὐκ</w> <w lemma="ἐξαγωγή">ἐξαγωγὰ</w> <w lemma="ἐκ">ἐκ</w> <placeName key="Kos"><w lemma="Κῶς">Κ<supplied reason="lost">ῶ</supplied></w></placeName><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+	    				<lb xml:id="line_57" n="57" break="no"/>ος· <space quantity="1" unit="character"/> <name type="ethnic" key="Knidos"><w lemma="Κνίδιος">Κνιδίος</w></name> <w lemma="ἀπάγω">ἀπάγεν</w> τῶι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπό<supplied reason="lost">λλωνι</supplied></w></name> <supplied reason="lost">τῶι</supplied> <name type="epithet" key="Delios"><w lemma="Δήλιος"><supplied reason="lost">Δαλίωι</supplied></w></name> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοῦν</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="animal" key="sheep"><w lemma="ὄϊς"><supplied reason="lost">οἶν</supplied></w></name> <name type="age"><name type="gender"><w lemma="τέλειος"><supplied reason="lost">τέλεων</supplied></w></name></name> <supplied reason="lost">κ</supplied>
+	    				
+	    				<lb xml:id="line_58" n="58" break="no"/>αὶ <name type="age"><name type="gender"><w lemma="τέλειος">τελέαν</w></name></name> καὶ τᾶι <name type="deity" key="Leto"><w lemma="Λητώ">Λατοῖ</w></name> <name type="age"><w lemma="τέλειος">τε<unclear>λ</unclear><supplied reason="lost">έαν</supplied></w></name><supplied reason="lost">·</supplied> <name type="portion"><w lemma="γέρας"><supplied reason="lost">γέρη</supplied></w></name> <w lemma="φέρω"><supplied reason="lost">φέρει</supplied></w> <supplied reason="lost">ὁ</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱαρεὺς</supplied></w></name> <name type="portion"><w lemma="σκέλος"><unclear>σκ</unclear>έλη</w></name>, <name type="portion"><w lemma="κεφαλή">κεφαλ<supplied reason="lost">άς</supplied></w></name>,
+	    				
+	    				<lb xml:id="line_59" n="59"/> <name type="portion"><w lemma="πούς">πόδας</w></name> καὶ τὰ <name type="portion"><w lemma="δέρμα">δέρματα</w></name>, <w lemma="οὗτος"><supplied reason="lost">τούτων</supplied></w> <supplied reason="lost">τῶγ</supplied> <name type="portion"><w lemma="κρέας"><supplied reason="lost">κρεῶν</supplied></w></name>  <w lemma="οὐ"><supplied reason="lost">οὐκ</supplied></w> <w lemma="ἐξαγωγή"><supplied reason="lost">ἐξαγ</supplied>ωγὰ</w> <w lemma="ἐκ">ἐκ</w> <placeName key="Cos"><w lemma="Κῶς">Κῶ</w></placeName>· <w lemma="ἀπάγω">ἀπάγεν</w> δὲ <w lemma="ὅκκα"><supplied reason="lost">ὅ</supplied>
+	    					
+	    					<lb xml:id="line_60" n="60" break="no"/><unclear>κ</unclear>κα</w> καὶ <w lemma="εἰς">ἐ<supplied reason="lost">ς̣</supplied></w> <placeName key="Delphi"><w lemma="Δελφοί"><unclear>Δ</unclear>ολφὸς</w></placeName> <w lemma="πέμπω">πέμπ<supplied reason="lost">ηται</supplied></w> <name type="group"><w lemma="θεωρία"><supplied reason="lost">θεωρία</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="group"><name type="ethnic" key="Kos"><w lemma="Κῷος"><supplied reason="lost">Κ</supplied>ώιων</w></name></name> <w lemma="ἤ">ἢ</w> <name type="person"><w lemma="ξένος">ξένων</w></name> τῶι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλ
+	    						
+	    						<lb xml:id="line_61" n="61" break="no"/><supplied reason="lost">ωνι</supplied></w></name> <supplied reason="lost">τῶ</supplied>ι <name type="epithet" key="Delios"><w lemma="Δήλιος">Δαλίωι</w></name> <w lemma="ἤ">ἢ</w> τᾶι <name type="deity" key="Leto"><w lemma="Λητώ">Λ<unclear>α</unclear><supplied reason="lost">τοῖ</supplied></w></name> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοῦν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/><unclear>ω</unclear>ς <w lemma="ἄλλος">ἄλλον</w> τᾶι <w lemma="διχομηνία">διχομηνί<unclear>α</unclear>
+	    							
+	    							<lb xml:id="line_62" n="62" break="no"/><supplied reason="lost">ι</supplied></w> <supplied reason="lost">τοῦ</supplied> <w lemma="μείς"><supplied reason="lost">μ</supplied>ηνὸς</w> τοῦ <name type="month"><w lemma="Δήλιος">Δα<unclear>λ</unclear><supplied reason="lost">ίου</supplied></w></name><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ὁ</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱαρεὺς</supplied></w></name> <name type="animal" key="sheep"><w lemma="ὄϊς"><supplied reason="lost">οἶ</supplied><unclear>ν</unclear></w></name> <name type="sacrifice"><w lemma="ἐπιρρέζω">ἐπιρρεζέτω</w></name> <name type="age"><w lemma="τέλειος">τέλεων</w></name>
+	    				
+	    				<lb xml:id="line_63" n="63"/> <w lemma="ὑπέρ"><supplied reason="lost">ὑπὲρ</supplied></w> <name type="group"><supplied reason="lost">Ἀμ</supplied>φιαρηϊδᾶν</name> <supplied reason="lost">καὶ</supplied> <name type="invocation"><w lemma="ἐπεύχομαι"><supplied reason="lost">ἐπευχέσθω</supplied></w></name> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">Ἀπόλλωνι</supplied></w></name> <w lemma="μή">μὴ</w> <w lemma="ξενικός">ξενικὸν</w> <w lemma="στράτευμα">στράτευμ
+	    					
+	    					<lb xml:id="line_64" n="64" break="no"/><supplied reason="lost">α</supplied></w> <w lemma="ἐπιβάλλω"><supplied reason="lost">ἐπιβαλ</supplied><unclear>όμ</unclear><supplied reason="lost">ενον</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὅπλον"><supplied reason="lost">ὅπ</supplied><unclear>λ</unclear>α</w> <w lemma="φέρω">φέρεν</w> <w lemma="ἐπί">ἐπ’</w> <name type="group">Ἀμφιαρηΐδ
+	    						
+	    						<lb xml:id="line_65" n="65" break="no"/><supplied reason="lost">ας</supplied></name><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="sheep"><name type="age"><name type="gender"><w lemma="ἀμνή">ἀμνὰν</w></name></name></name> καὶ <name type="age"><name type="gender"><name type="animal" key="sheep"><w lemma="ἀμνός">ἀμνὸν</w></name></name></name> καὶ
+	    				
+<lb xml:id="line_66" n="66"/> <gap reason="lost" extent="unknown" unit="character"/><orig>αδι</orig>· <space quantity="1" unit="character"/> <name type="group"><name type="ethnic" key="Isthmos"><w lemma="Ἰσθμιώτης">Ἰσθμιώταις</w></name></name> <w lemma="δίδωμι">διδ
+	    					
+	    					<lb xml:id="line_67" n="67" break="no"/><supplied reason="lost">ο</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὑπέρ">ὑπὲρ</w> τᾶς <name type="group"><w lemma="πόλις">πόλιος</w></name> <orig>α</orig> 
+	    				
+	    				<lb xml:id="line_68" n="68"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τᾶ</supplied>ν <w lemma="ἱερωσύνη">ἱαρεωσυνᾶν</w> τ
+	    				
+	    				<lb xml:id="line_69" n="69" break="no"/><supplied reason="lost">ᾶν</supplied> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἰ">αἰ</w> δέ <w lemma="τις">τίς</w> <w lemma="κα">κα</w> <w lemma="μετατίθημι">μετ
+	    					
+	    					<lb xml:id="line_70" n="70" break="no"/><supplied reason="lost">αθῆι</supplied></w> <w lemma="τις"><supplied reason="lost">τι</supplied></w> <supplied reason="lost">τῶν</supplied> <name type="authority"> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <w lemma="ὅδε"><supplied reason="lost">τᾶιδε</supplied></w> <supplied reason="lost">τᾶι</supplied> <w lemma="διαγραφή"><supplied reason="lost">διαγραφᾶι</supplied></w></name> <w lemma="γράφω"><supplied reason="lost">γεγραμμένων</supplied></w><supplied reason="lost">,</supplied> <w lemma="ὥστε"><supplied reason="lost">ὥστε</supplied></w> <supplied reason="lost">τ</supplied>ὰμ <name type="group"><w lemma="πόλις">πόλιν</w></name> <w lemma="ἐκ">ἐξ</w> <w lemma="ὅς">ὧμ</w> <w lemma="μετατίθημι">μ
+	    						
+	    						<lb xml:id="line_71" n="71" break="no"/><supplied reason="lost">ετετέθη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="βλάπτω"><supplied reason="lost">βλάπτεσ</supplied>θαι</w>, <name type="punishment"><w lemma="ζημιόω">ζαμιούντω</w></name>
+	    				
+	    				<lb xml:id="line_72" n="72"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἰ"><supplied reason="lost">αἰ</supplied></w> <supplied reason="lost">δέ</supplied> <w lemma="τις"><supplied reason="lost">τίς</supplied></w> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <supplied reason="lost">τῶν</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱα</supplied>ρέων</w></name> <w lemma="ἤ">ἢ</w> τᾶν <name type="personnel"><w lemma="ἱέρεια">ἱαρε
+	    					
+	    					<lb xml:id="line_73" n="73" break="no"/><supplied reason="lost">ιᾶν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="person"><w lemma="παρθένος"><supplied reason="lost">παρθ</supplied><unclear>έ</unclear>νο</w></name> <w lemma="ἤ">ἢ</w> <name type="person"><w lemma="γυνή">γυναικὸς</w></name>
+	    				
+	    				<lb xml:id="line_74" n="74"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="τριάκοντα"><supplied reason="lost">τ</supplied>ριάκοντα</w> <w lemma="ἡμέρα">ἁμε
+	    					
+	    					<lb xml:id="line_75" n="75" break="no"/><supplied reason="lost">ρ</supplied></w><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τᾶς</supplied> <w lemma="ἱερωσύνη"><supplied reason="lost">ἱαρε</supplied>ωσύνας</w> τ<supplied reason="lost">ᾶ</supplied>
+	    				
+	    					<lb xml:id="line_76" n="76" break="no"/><supplied reason="lost">ς</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τ</supplied>ριακ<gap reason="lost" quantity="3" unit="character"/>
+	    				
+	    				<lb xml:id="line_77" n="77"/> <gap reason="lost" extent="unknown" unit="character"/><orig>μ</orig><gap reason="lost" quantity="3" unit="character" precision="low"/>
+	    				
+	    				<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+	    				
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Face A</p> 
+					<p>[The priest] is installed in the following manner [... he is purified by a] male [piglet] in addition to sea water [and he sacrifices to ... an ox ...] and besides he sacrifices [of barley groats ...] half a <foreign>hekteus</foreign> [...] (5) [There is no carrying away] of these things. [...] to Achaios. The [priest sacrifices] these. There is no carrying away of these things. [...] for the things which the city sacrifices [...]. The priest [provides the offerings for these. [The city pays back] the money (10) [spent for the sacrifice]. The priest shall be [discharged] of the following offices: the monarchy [...] The priest is to keep himself pure from the following: to/for the impure [... and not to eat the meat from a sacrifice to a hero (?)] or Hekate Megala nor [...] is sacrificed, nor as many things as [...], nor to enter a shrine to a hero or go into a house (15) [in which a person died] for five days from the day [on which the body is carried out, nor] to enter [a
+house] in which a woman gave [birth for three days after the time when she gave birth? ...] if she miscarried (or: had an abortion). If [the priest happens to eat one of these polluted foods,] a male pig is to be cut around him [and he is to be purified by (water from) a gold vessel and a <foreign>prospermia</foreign>]. If he [fails in any of the other things,] (20) let him be pure. This priesthood is to be of the <foreign>triakas</foreign> [and of the <foreign>pentekostys</foreign>] of the Hippiadai. The priest of [Zeus Polieus and the] Twelve Gods is to be installed in the following way: he is purified by a piglet [in addition to sea water. He sacrifices to Zeus] Polieus a bull and to Athena Polias, an adult, pregnant sheep on the [...]. (25) The priest provides the offerings for these. [The city pays back to the priest] the money [spent for the sacrifice. The bull to Zeus Polieus is to be sacrificed in the following way]. The offerings that are to be wrapped are wrapped. [A cake of
+half a <foreign>hekteus</foreign> and half a <foreign>hekteus</foreign> of barley is sacrificed on the hearth] and another ["cheese-shaped" bread and the wrapped offerings,] the priest sacrifices these and he pours [over (them) three kraters of wine and he provides the offerings]. (30) The city provides the offerings necessary for the installation. [The priest receives the monarch and the] <foreign>hieropoioi</foreign> and the heralds. [He carries away as gifts of honour the skin and a leg and half of the chest] and half of the stomach. The end [of the hip from the leg that is given to the <foreign>hieropoioi</foreign> goes to the thurifer, to the heralds a double portion of the back, bits from under the shoulders,] a three-pronged [spit of black pudding, to the Nestoridai a double portion of the back, to the doctors a single portion of meat, to the aulos-player a portion of meat, and (35) to each] of the coppersmiths [and the potters a part of the head. The remaining meat] goes to the city. [All this is not to be carried out of the city...]</p>
+		
+		<p>Face B</p>
+<p>(nine fragmentary lines)</p> 
+					<p>[...] carrying from the altar [...] the girls who collect, walking [... the chorus] of (50) the Pamphyloi [...] they should bring back to Kos for Apollo [Dalios a bull, and an adult male sheep and an adult female sheep,] of these the priest carries as gifts of honour [the legs and the skins. To Zeus Ourios], a sacrifice is made to obtain favourable auspices and wind [...] for those who conduct a <foreign>theoria</foreign> for [Apollo] Dalios, [a bull and an adult male sheep] and an adult female sheep, and of these (55) the priest carries as gifts of honour the legs, [the heads, the feet, and the skins]. None of these meats is exported away from Kos. [...] The Knidians should bring back for Apollo [Dalios a bull and an adult male sheep] and an adult female (sheep), and for Leto an adult female (sheep). [Of these the priest carries as gifts of honour] the legs, the heads, the feet, and the skins. [None of these meats is exported] away from Kos. They should bring back (60)
+whenever a <foreign>theoria</foreign> (?) is also sent to Delphi [...] (by?) citizens of Kos or strangers, for Apollo Dalios and for Leto, [a bull ...] another on the 15th of the month Dalios. [... the priest] should sacrifice besides an adult male sheep [on behalf of] the Amphiareidai [and he should make a prayer to Apollo] not to be invaded by a foreign expedition [...] take up weapons against the Amphiareidai [...] (65) A male and female lamb [..] to the Isthmiotai one gives [...] on behalf of the city [...] the priesthood [...] (70) [if someone changes any of the writings in this decree (priestly contract), ]so that the city [is harmed by the alterations ...] may they punish him [... If one of the] priests or priestesses [...] of a young girl or a woman [...] thirty days [...] (75) of the priesthood [...] the <foreign>triakas</foreign> [...]</p>				
+			
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+										
+						<p>Face A</p>
+<p>[Le prêtre] est installé de la manière suivante [... il est purifié par un porcelet] mâle en plus de l’eau de mer [et il sacrifie à ... un bovin ...] et il sacrifie en plus de la farine d’orge [...] un demi-setier [... (5) qu’on n’emporte rien] de cela [...] à Achaios. [Que le prêtre fasse les sacrifices suivants : ...], qu’on n’emporte rien de cela [...] pour ce que la cité sacrifie. [Que le prêtre fournisse] les offrandes [pour ces sacrifices. Que la cité rembourse] l’argent (10) [dépensé pour le sacrifice]. Que le prêtre [soit également dispensé des charges suivantes] : la monarchie [...] Que le prêtre [se tienne pur] de ce qui suit : [...] de ce qui est impur, [qu’il ne mange pas de viande provenant d’un sacrifice héroïque (?)] ni auprès d'Hécate Megala, [qu’il ne] sacrifie [...], qu’il n’entre pas dans un <foreign>heroon</foreign>, ni dans une maison (15) [où quelqu’un est mort] pendant cinq jours à partir du jour où [le cadavre a été emporté, qu’il] n’entre [pas dans une
+maison] où une femme [a accouché pendant trois jours à partir de celui où elle a accouché, ...] si elle a fait une fausse couche (ou avorté). S’il [arrive au prêtre de manger] l’un de ces [aliments impurs[, qu'un porcelet mâle soit égorgé autour de lui [et qu’il soit purifié par (l'eau versée d')un récipient en or et une <foreign>prospermia</foreign>.] [S’il a commis] une des autres (20) (impuretés) [...] qu’il se tienne pur. Que cette prêtrise [revienne] à la <foreign>triakas</foreign> [... et à la <foreign>pentekostys</foreign>] des Hippiadai. Le prêtre [de Zeus Polieus et des] Douze Dieux est installé de la manière suivante : il est purifié par un porcelet [en plus de l’eau de mer. Qu’il sacrifie à Zeus] Polieus un boeuf [et à Athéna] Polias une brebis adulte et pleine [sur ...]. (25) Le prêtre fournit les offrandes pour ces sacrifices. [La cité rembourse au prêtre] l’argent [dépensé] pour [le sacrifice. Le boeuf est sacrifié à Zeus Polieus de la manière suivante] : ce qui doit être enveloppé est enveloppé. [On sacrifie sur le foyer un pain d’un demi-setier de froment, un demi-setier de farine d’orge, un autre] pain [en forme de fromage et ce qui est enveloppé. Le prêtre accomplit ces sacrifices] et répand en outre en libation [trois cratères de vin et il fournit les offrandes]. (30) La cité fournit le nécessaire pour l’installation. [Le prêtre reçoit le monarque, les] hiéropes et les hérauts. [Il emporte comme parts d’honneur la peau, une patte, la moitié de la poitrine] et la moitié des tripes. On donne [au thuriféraire] l’extrémité de la hanche [de la patte attribuée aux hiéropes, aux hérauts, une double portion du dos, des morceaux sous les épaules, une brochette] triple [de boudin noir, aux Nestoridai une double portion de viande du dos, aux médecins de la viande, au joueur d'aulos] de la viande, (35) [à chacun des] forgerons [et des potiers une partie de la tête. Le reste des viande revient] à la cité. [Tout cela n’est pas emporté en dehors de la cité ...] </p>
+						
+<p>Face B</p>
+<p>(neuf lignes fragmentaires)</p>
+<p>[...] en transportant de l’autel [...] celles qui collectent marchant [... le choeur] des (50) Pamphyloi [...] qu’ils amènent à Kos pour Apollon [Dalios un bovin, un mouton mâle et une brebis adultes], que le prêtre emporte comme parts d’honneur de ces sacrifices [les pattes et les peaux]. On sacrifie [à Zeus Ourios] afin d’obtenir de bons auspices et un vent favorable [... pour ceux qui accomplissent] une théorie en l’honneur d’Apollon Dalios, [un bovin, un mouton mâle et une brebis adultes], et (55) le prêtre emporte comme parts d’honneur de ces sacrifices les pattes, [les têtes, les pieds et les peaux]. Que l’on n’emporte rien de ces viandes hors de Kos [...] Que les Knidiens amènent pour Apollon [Dalios un bovin, un mouton mâle] et une brebis adultes, et pour Léto une brebis adulte. [Le prêtre emporte comme parts d’honneur] les pattes, les têtes, les pieds et les peaux, qu’on n’emporte rien [de ces viandes] en dehors de Kos. Qu’ils amènent, (60) à chaque fois [qu’une théorie]
+est également envoyée vers Delphes [...] de citoyens de Kos ou d’étrangers pour Apollon Dalios et pour Léto [un bovin ...] autre au milieu du mois de Dalios [... que le prêtre] sacrifie en plus [un mouton mâle] adulte [au nom des] Amphiareidai [et qu’il adresse des prières à Apollon] afin qu’aucune expédition étrangère [les attaquant...] ne prenne [les armes] contre les Amphiareidai. (65) [...] une agnelle et un agneau [...] Aux Isthmiotes, que l’on donne [...] au nom de la cité [...] la prêtrise [...] Si quelqu’un (70) [change l’une des prescriptions de ce contrat, de sorte qu’il nuise] à la cité [par ces changements ...] lui infligent une amende [... Si l’un des] prêtres ou des prêtresses [...] d’une jeune fille ou d’une femme [...] trente jours [...] (75) de la prêtrise [...] la <foreign>triakas</foreign> [...]</p>
+				
+				
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p> These fragments appear to belong to an ensemble of regulations concerning priesthoods that was perhaps composed after the reorganisation of cults on Kos following the synoecism of the island in 366 BC; cp. <ref target="CGRN_86">CGRN 86</ref>). For further discussion of this context, see Sherwin-White and Paul 2013a.</p>
+						
+<p>Although the inscription is very fragmentary, four different sections of this general regulation on priesthoods can tentatively be identified: 1) unknown priesthood (lines 1-21); 2) priesthood of Zeus Polieus and the Twelve Gods (lines 21-35 and perhaps more); 3) priesthood of Apollo Dalios (ca. lines 50-57 and perhaps also 57-66 and perhaps more); and 4) perhaps a general section of the regulation concerning priesthoods (line 69 and beyond?). The first two of these sections appear to be introduced by the phrase τοῖσδε τελέζεται ὁ ἱαρεύς, and perhaps all of them were identified by being inscribed at the left margin or being preceded by a short empty space (see also lines 57 and 66). Apart from what is perhaps the conclusion of the document and the regulation as a whole after line 69, side B of the stele is also concerned with the sending of delegations (<foreign>theoriai</foreign>) to the sanctuaries of Delos and Delphi, and with sacrifices performed to Apollo Dalios and Leto and others gods in this context. The presence of such regulations in a document concerning priesthoods could be explained by the fact that the priest of Apollo Dalios received his perquisites from the sacrifices prescribed, in this case hides and legs, as usual on Kos, and occasionally the head and the feet of the sacrificial animal.</p>
+    
+<p> Line 1: The consecration or initiation of the priest or priestess (<foreign>telete</foreign>) is a procedure that punctuated his or her introduction to office. Here, it consisted in rites of purification and a sacrifice, the first ritual act that the priest performed in such a capacity. On this procedure, see Parker - Obbink, Wiemer, Pirenne-Delforge and Paul 2013b: 254-256. The purity rules addressed to the priest which follow closely resemble those found in the regulation concerning the priestess of Demeter on Kos (<ref target="http://cgrn.ulg.ac.be/CGRN_148/">CGRN 148</ref>; see also Parker).</p>
+							
+<p> Line 8: On the meaning of the term ἱαρά in Koan inscriptions: “additional offerings for the sacrifice”, see <ref target="CGRN_86">CGRN 86</ref>, with Paul 2013a: 339-344.</p>
+							
+<p> Lines 20-21: The priesthood in question was apparently attributed to specific subdivisions (triakas, pentekostys) of the three Dorian tribes; cf. Paul 2013b: 249. On the social organisation of Kos, see Sherwin-White, p. 153-174 and Jones. </p>
+							
+<p> Lines 21-36: The prescriptions concerning the sacrifice to Zeus Polieus can be seen to closely resemble those found for the same god in the sacrificial calendar concerning the month Batromios, from which they are restored here: cf. <ref target="CGRN_86">CGRN 86</ref> A, lines 47-56 (with commentary and discussion).</p>						
+<p> Line 49: The ἀγρεταί were, according to Hesychius (s.v.), a group of nine girls elected every year to serve the cult of Athena, although their mention in this context suggests a wider area of expertise. Their number may be significant with regard to the Koan civic organization and with its political structure revolving around the three Doric tribes (Pamphyloi, Hylleis, Dymanes) .</p>
+						
+<p> Lines 54-55: The name of Zeus Ourios, who sends favorable winds and ensures safe travel, is entirely supplemented here, but it coheres with the traces of the intended purpose of the sacrifice (ἐπὶ καλλιαρίαι καὶ οὔ<unclear>ρ</unclear><supplied reason="lost">ωι</supplied>) and it is attested on a small altar from Kos, dating to the first century BC (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 415). On the cult of Zeus Ourios at Delos, see Bruneau.</p>
+						
+<p> Lines 56-57: The phrase οὐκ ἐξαγωγὰ ἐκ Κῶ is a variation of the expression οὐκ ἀποφορά found frequently in this collection (cf. <ref target="CGRN_52">CGRN 52</ref>, Erchia, <foreign>passim</foreign>, and commentary to lines 10-12 in <ref target="CGRN_32">CGRN 32</ref>, Thorikos), and in the sacrificial calendar of Kos, <ref target="CGRN_86">CGRN 86</ref>. The objective of this rule was to prevent foreign participants in the sacrifices, such as the Knidians (see below), from taking portions of meat when leaving the island; cf. also Ekroth; Paul 2013a: 358-364.</p>
+				
+<p> Lines 57-62: Sacrifices were offered by the Knidians and other groups whose names are perhaps lost. Kos was presumably the center of a regional amphictyony, and the starting point for the sending of a common pilgrimage to the sanctuary of Apollo in Delos. Occasionally, the <foreign>theoroi</foreign> would continue on their way to Delphi as well, as may be suggested in line 60; see Rutherford. The sending of <foreign>theoriai</foreign> by the Koan deme of Isthmos, which may be alluded to in line 66, is attested by Delian inscriptions (<bibl type="abbr" n="IG XI">IG XI</bibl>.2 287, line B45, as well as by <bibl type="abbr" n="ID">ID</bibl> 313a, line 13; 1409, line A30; 1439, line A27; 1441, line A53; and 1450, line A41).</p>
+						
+<p> Lines 63-67: The Amphiareidai are a gentilicial group whose name derives from the hero Amphiaraos: see Sherwin-White, p. 165-166.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

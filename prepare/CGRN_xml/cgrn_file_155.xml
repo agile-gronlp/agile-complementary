@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_155" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 155</idno>: <rs type="textType" key="purity regulation">Purity regulation</rs> of the cult of Egyptian gods at Megalopolis </title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+			<p> Upper part of limestone <rs type="objectType">stele</rs>, in bad condition. The top, bottom and right-hand side are intact, but it is broken below (in an uneven way). The back of the stone is rough-picked.</p>
+
+			<p> <dimensions>
+				<height unit="cm">64</height>
+				<width unit="cm">54.5-57.2</width>
+				<depth unit="cm">14-15.4</depth>
+			</dimensions> Note that Te Riele gives a depth of 10 cm.</p>
+
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p>The inscribed face is so worn that it is at times barely readable. </p>
+			<p> Letters: <height unit="cm">2</height>; space between lines: <height unit="cm">1</height>.</p>
+		</layout></layoutDesc>
+
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0225" notAfter="-0175">ca. 200 BC</origDate></p>
+
+		<p><desc>Justification: letterforms and dialect (Te Riele). </desc></p>
+						</origin>
+	<provenance><p>
+		<placeName type="ancientFindspot" key="Megalopolis" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570467" type="external">Megalopolis</ref></placeName>. Found at 700m north-east of the ancient theater, left there by a shepherd. Now in the Archaeological Museum of Megalopolis (inv. no. 133).
+
+		</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 7; but note the additional restoration [εἰσπορε]ύεσθαι in line 17 (Carbon).
+	    			</p>
+	    			<p> Other edition:
+	    				<bibl type="author_date" n="Te Riele 1978">Te Riele 1978</bibl>, with ph.
+
+	    			</p>
+
+	    			<p> Further bibliography:
+	    Robert - Robert, <title>REG</title> 1979 <bibl type="abbr" n="BE">BE</bibl> 196; <bibl type="author_date" n="Parker 1983">Parker 1983</bibl>;
+	    				<bibl type="author_date" n="Jost 1985">Jost 1985</bibl>: 542-544; <bibl type="author_date" n="Cole 1992">Cole 1992</bibl>.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    			<ab>
+
+<lb xml:id="line_1" n="1"/> <objectType key="stele"><w lemma="στήλη">στάλα</w></objectType> <name type="deity" key="Isis"><w lemma="Ἶσις">Ἴσιος</w></name> <name type="deity" key="Sarapis"><w lemma="Σάραπις">Σαράπιος</w></name>.
+
+<lb xml:id="line_2" n="2"/> <name type="deity" key="Theos"><w lemma="θεός">θεός</w></name>· <w lemma="τύχη">τύχα</w> <w lemma="ἀγαθός">ἀγαθά</w>. <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> <name type="genericOffering"><w lemma="ἅγιος">ἅγιον</w></name> <name type="deity" key="Isis"><w lemma="Ἶσις">Ἴσιος</w></name>
+
+<lb xml:id="line_3" n="3"/> <name type="deity" key="Sarapis"><w lemma="Σάραπις">Σαράπιος</w></name> <name type="deity" key="Anoubis"><w lemma="Ἀνούβις">᾿Ανούβιος</w></name>. <space quantity="1" unit="character"/> <w lemma="εἰσπορεύω">εἰσπορεύεσ
+
+<lb xml:id="line_4" n="4" break="no"/>θαι</w> <w lemma="εἰς">εἰς</w> τὸ <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> τὸν <name type="person"><w lemma="βούλομαι">βουλόμενον</w></name>
+
+<lb xml:id="line_5" n="5"/> <name type="sacrifice"><w lemma="θύω">θύειν</w></name> <name type="purification"><w lemma="καθαρίζω">καθαρίζοντα</w></name> <w lemma="ἀπό">ἀπὸ</w> μὲν
+
+<lb xml:id="line_6" n="6"/> <name type="childbirth"><w lemma="λέχος">λέχ<supplied reason="lost">ο</supplied>υς</w></name> <w lemma="ἐναταῖος">ἐ<unclear>ν</unclear>αταίαν</w>, <w lemma="ἀπό">ἀπὸ</w> δὲ <name type="childbirth"><name type="death"><w lemma="διάφθερμα">δι
+
+<lb xml:id="line_7" n="7" break="no"/><unclear>αφθ</unclear>έρ<unclear>μ</unclear>ατος</w></name></name> <space quantity="1" unit="character"/> <w lemma="τεσσαράκοντα">τεσσαράκοντα</w>
+
+<lb xml:id="line_8" n="8"/> καὶ <w lemma="τέσσαρες">τέσσαρας</w> <w lemma="ἡμέρα">ἁμέρας</w>, <w lemma="ἀπό">ἀπὸ</w> δὲ τῶ<supplied reason="lost">ν</supplied>
+
+<lb xml:id="line_9" n="9"/> <name type="menstruation"><w lemma="φυσικός">φ<space quantity="1" unit="character"/><unclear>υ</unclear>σικῶν</w></name> <w lemma="ἑβδομαῖος">ἑβδομαίαν</w>, <w lemma="ἀπό">ἀπὸ</w> <name type="death"><w lemma="φόνος"><unclear>φό</unclear><supplied reason="lost">ν</supplied>ο<unclear>υ</unclear> (?)</w></name>
+
+<lb xml:id="line_10" n="10"/> <w lemma="ἑπτά">ἑπτὰ</w> <w lemma="ἡμέρα">ἁμέρας</w>, <w lemma="ἀπό">ἀπὸ</w> δὲ <name type="animal" key="goat"><w lemma="αἴγειος">αἰγέου</w></name> καὶ
+
+<lb xml:id="line_11" n="11"/> <name type="animal" key="sheep"><w lemma="προβάτειος">προβατέου</w></name> <w lemma="τριταῖος">τριταῖον</w>, <w lemma="ἀπό">ἀπὸ</w> δὲ τῶν
+
+<lb xml:id="line_12" n="12"/> <w lemma="λοιπός">λοιπῶν</w> <name type="meal"><w lemma="βρῶμα">βρωμάτων</w></name> <w lemma="ἐκ">ἐκ</w> <w lemma="κεφαλή">κεφαλᾶς</w>
+
+<lb xml:id="line_13" n="13"/> <name type="purification"><w lemma="λούω">λουσάμενον</w></name> <w lemma="αὐθήμερος">αὐθημερί</w>, <w lemma="ἀπό">ἀπὸ</w> δὲ
+
+<lb xml:id="line_14" n="14"/> <name type="sex"><w lemma="ἀφροδίσιος">ἀφροδισίων</w></name> <w lemma="αὐθήμερος">αὐθημερὶ</w> <space quantity="1" unit="character"/> <name type="purification"><w lemma="λούω">λουσά
+
+<lb xml:id="line_15" n="15" break="no"/>μενον</w></name>, <w lemma="ἀπό">ἀπὸ</w> <orig>παθιν</orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ι</unclear>αμειιγαν</orig>
+
+<lb xml:id="line_16" n="16"/><orig>μ<unclear>οαν</unclear></orig> <w lemma="αὐθήμερος">αὐθημερὶ</w> <name type="purification"><w lemma="λούω">λουσά<unclear>μ</unclear>ε<supplied reason="lost">ν</supplied>ον</w></name>.
+
+<lb xml:id="line_17" n="17"/><w lemma="εἰσπορεύω"><supplied reason="lost">εἰσπορε</supplied>ύεσθαι</w> <name type="person"><w lemma="μηδείς">μηδε<unclear>ν</unclear></w></name><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_18" n="18"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἰσπορεύω"><unclear>εἰσ</unclear>πορεύεσθα<supplied reason="lost">ι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_19" n="19"/><gap reason="lost" extent="unknown" unit="character"/><orig>εωνπο</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_20" n="20"/> <gap reason="lost" extent="unknown" unit="character"/><orig>σθε</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    	<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+
+	       	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Stele of Isis and Sarapis. God, Good Fortune. A sanctuary sacred to Isis, Sarapis, Anubis. Someone who wants to sacrifice may enter into the temple (5) being pure: from childbirth on the ninth day, from an abortion, forty-four days, from menstruation, on the seventh day, from bloodshed (?), (10) seven days, from goat and sheep meat, on the third day, from other meats, having washed oneself from the head down, on the same day, from sexual pleasures, on the same day, having washed oneself; from [...] on the same day, having (15) washed oneself. No one may enter [...] may enter [... (20) ...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Stèle d'Isis et Sarapis. Dieu, Bonne Fortune. Un saint sanctuaire d'Isis, Sarapis, Anubis. Celui qui veut offrir un sacrifice peut entrer dans le sanctuaire après s'être (5) purifié : d'un accouchement, au 9e jour; d'un avortement, après quarante-quatre jours; des menstrues, au 7e jour; du sang versé (?), (10) après 7 jours; de la viande de chèvre et de mouton, au 3e jour; d'autres types de viande, après s'être lavé de la tête aux pieds, le jour même; de relations sexuelles, le jour même, après s'être (15) lavé; de [...] le jour même, après s'être lavé. Personne ne peut entrer [...] peut entrer [... (20) ...]</p>
+
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p> This is the first document testifying to a formal cult of Egyptian deities at Megalopolis in the Hellenistic era (Te Riele; on the cult of Egyptian gods in Arcadia, see Jost). The inscription belongs to a very common type of ritual norm, providing a list of specific purity requirements for entry to the sanctuary (several examples are listed in the Commentary below). The main body of the inscription prescribes the number of days one had to wait and/or the type of purification one should perform in order to be able to enter the sanctuary after being subject to or entering into contact with various causes of pollution. Of the causes cited here, miscarriage, sex and childbirth are major recurrent categories of the genre; pollution from food occurs occasionally (cf. the Commentary below). The other main polluting cause that is often regulated is the death of family members and other persons. It is unclear whether this category is included in this document (cf. however our Commentary on line 9). Purity regulations of this form typically employ one of two variations concerning the deadlines for entry: they may specify either the amount of days after which one may enter (e.g. "x days", as in <ref target="CGRN_71">CGRN 71</ref>, Metropolis, <ref target="CGRN_181">CGRN 181</ref>, Eresos, <ref target="CGRN_189">CGRN 189</ref>, Lykosoura, and <ref target="CGRN_144">CGRN 144</ref>, Ptolemais) or the day on which one becomes free from pollution (e.g. "on the xth day", <ref target="CGRN_211">CGRN 211</ref>, Maionia, and <ref target="CGRN_217">CGRN 217</ref>, Delos) from a particular cause. In the present inscription, we find a combination of these two options, and we seem to be dealing, for the most part, with rules concerning men and women inclusively (see further on lines 5-6 and 8-9 for two rules specifically concerned with women).</p>
+
+<p> Lines 1-3: The deities Isis, Sarapis, and Anubis often appear together and receive joint cult in a Greek setting. The introductory lines of the stele perhaps signal an formalisation of the cult of the Egyptian gods at Megalopolis, such as the act of consecration a "holy" or pure sanctuary (ἱερὸν ἅγιον) to these deities (Te Riele, Lupu). Generic invocations of the θεός and ἀγαθή τύχη occasionally occur together as a heading of inscriptions in Arcadia; cf. Lupu for further references.</p>
+
+<p> Lines 4-5: Entry into the sanctuary does not appear to have been prohibited for particular groups, as is occasionally the case elsewhere (cf. for example <ref target="CGRN_33">CGRN 33</ref>, Elateia, and the case of female participation in the sacrifice); but see below on lines 17-21. Rather, the sanctuary was open to anyone who would like to make a sacrifice, provided that the purity regulations were observed.</p>
+
+<p> Line 6: As Parker (p. 352-256) has argued, there is a formal ambiguity between the reading λέχους (gen. of λέχος, "bed") and λεχοῦς (gen. of λεχώ, woman in childbed). In the latter case, the inscription would regulate ritual pollution of persons who had been in contact with a woman that gave birth. In Parker's view, this is generally the most likely reading in those cases in which such an ambiguity was present. However, it is virtually certain that the correct interpretation is the former, and that the norm concerns the woman having given birth herself (here the "bed" is a reference to childbirth). The reasons is that, as Parker carefully observes, ordinals usually agree with the subject (cp. <ref target="CGRN_211">CGRN 211</ref>, from Maionia, and <ref target="CGRN_217">CGRN 217</ref>, from Delos) and here, the ordinal ἐναταίαν is in the feminine (the ordinal ἑβδομαίαν in line 9, "after menstruation",  also clearly refers to the woman herself, cp. our Commentary on these lines below).</p>
+
+<p> Line 6-7: The word διάφθερμα is only attested here, but διάφθειρω and its cognate forms frequently refer to abortion or miscarriage in ritual norms. Therefore, the interpretation seems secure. The duration of forty-four days for the abstention closely matches that found at <ref target="CGRN_217">CGRN 217</ref> (Delos), lines 6-7, and <ref target="CGRN_144">CGRN 144</ref> (Ptolemais), line 10, where the period ἀπὸ διαφθορᾶς / ἀπ᾽ ἐκτρωσμοῦ is fourty days. As the duration of the abstention is mentioned without an ordinal, we might assume that it applies to both men and women who have entered into contact with a διάφθερμα (cp. lines 5-6 above, and 8-9 below).</p>
+
+<p>Lines 8-9: τὰ φυσικά (cp. ἡ φύσις, τὰ κατὰ φύσιν)  refers to menstruation: a concern for purity in this respect occurs irregularly, late, and mostly in foreign cults (Cole, p. 108). It is elsewhere referred to as τὰ γυναικεῖα or τὰ καταμήνια, in our Collection, cf. <ref target="CGRN_217">CGRN 217</ref> (Delos) and <ref target="CGRN_144">CGRN 144</ref> (Ptolemais). Cf. Lupu for a comparison of the numbers of days of impurity resulting from this cause.  Parker has convincingly argued that pollution from menstruation concerns only the women herself, not those entering in contact with her (p. 353-354).</p>
+
+<p> Lines 9-10: The reading ἀπὸ φόνου is highly uncertain. Murder is not usually mentioned as a category in this sort of purity regulation and, moreover, homicides were normally excluded from sanctuaries. If the reading and restoration φόνος is to be maintained, it may have referred to "blood when shed" (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. 4, though this is usually a poetic use of the word) or even a "corpse" ("hunting" and animal slaughter, the solution proposed by J. and L. Robert, seems highly improbable). Since only the fourth letter of the word, the <foreign>omicron</foreign>, is certain, and there are about 6 letter spaces (cf. Lupu's epigraphical commentary: we should assume a vacat after the υ of φόνου), [κήδ]ο[υς] "a funeral" might be a better solution (for funeral care, κῆδος, as a source of pollution, cf. e.g. <ref target="CGRN_181">CGRN 181</ref>, Eresos, lines 2-4, <ref target="CGRN_211">CGRN 211</ref>, Maionia, lines 7-9n and <ref target="CGRN_212">CGRN 212</ref>, Pergamon, line 7-8.</p>
+
+<p> Lines 10-11: As the following phrase in lines 11-13 (ἀπὸ δὲ τῶν λοιπῶν βρωμάτων ...) makes clear, the reference of the adjectives αἴγειος and προβάτειος must be to meat which was consumed, rather than to generic products derived from goats and sheep (such as wool). Impurities resulting from the ingestion of animals are occasionally, though more rarely, stipulated; cf. our commentary on <ref target="CGRN_216">CGRN 216</ref> (Delos), for an overview and further references. The interdiction of sheep is recurrent in the cult of Isis (cf. Te Riele, p. 330).</p>
+
+<p> Lines 11-13: A general designation of food as a cause of pollution, requiring washing, would be exceptional in our Collection. Typically, prohibitions target one or more specific foods. More plausibly, then, βρῶμα here refers only to meat (Lupu; <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. A). For washing oneself "from the head down" (κατὰ κεφαλῆς), cp. e.g. the fragmentary <ref target="CGRN_68">CGRN 68</ref> (Thasos, 4th century), lines 7-8.</p>
+
+<p> Lines 13-14: In most inscriptions discussing ritual impurity after sex, the phrase used is ἀπὸ γυναικὸς. The expression ἀπὸ ἀφροδισίων is only used in two other inscriptions. In <bibl type="abbr" n="LSS">LSS</bibl> 108 (Rhodes, 1st century AD), a worshipper needs to enter pure from ἀφροδισίων, from beans and from desire (?); no delay or lustration is specified. This case seems rather different from the present inscription, the general emphasis being on purity of the mind (lines 6-7: οὐ λουτροῖ ἀλλὰ νόῳ καθαρόν). In <bibl type="abbr" n="IvP III">IvP III</bibl> 161a (Pergamon), line 13, one is pure "from the aforementioned, from ἀφροδισίων, from goat-meat, from cheese, and [from ...] on the third day". For a general discussion of temporary pollution after sex, cf. our commentary on <ref target="CGRN_71">CGRN 71</ref> (Metropolis), lines 3-6; cf. also Parker, p. 74ff.</p>
+
+<p> Line 15-16: Though the precise sense of these lines eludes us, it seems that we may have here a reference to an accident or misfortune (πάθος) though the form is unclear. Cp. <ref target="CGRN_144">CGRN 144</ref> (Ptolemais), lines 3-4, specifying the amount of days that are necessary to be pure again from an unfortunate accident (πάθος), whether concerning one's self or someone else. </p>
+
+<p> Lines 17-21: The interpretation of the final lines is unclear, but this part of the text may have given more general restrictions on entering the temple (if the reading μηδεν- is correct). One possibility is that on certain days the sanctuary was closed (cp. for example <ref target="CGRN_188">CGRN 188</ref>, Kos, lines 8-9). Though the sanctuary was generally open to any sacrificants (see above on lines 4-5), it also possible that these lines added further precisions concerning categories of worshippers who were to be prohibited from entering; cp. the regulation <ref target="CGRN_181">CGRN 181</ref> from Eresos, which first states causes of impurity with their respective delays, and then provides a list of those who were to be denied entry into the sanctuary.</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

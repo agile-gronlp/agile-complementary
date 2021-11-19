@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_200" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 200</idno>: <rs type="textType" key="decree">Decree</rs> concerning the annual festival for Artemis Leukophryene at Magnesia-on-the-Maiander</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+
+			<p> Decree A and B (the latter is not reprised here) are two stone <rs type="objectType">blocks</rs>.</p>
+
+			<p> A<dimensions>
+				<height unit="cm">unknown</height>
+				<width unit="cm">unknown</width>
+				<depth unit="cm">unknown</depth>
+			</dimensions></p>
+
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p> Letters: <height unit="cm">1</height>; space between lines: <height unit="cm">1</height>.</p>
+		</layout></layoutDesc>
+
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0175" notAfter="-0125">ca. 150 BC</origDate></p>
+<p><desc>Justification: general context and officials (for the dates of the dossier, cf. also <title>SEG</title> and Santangelo). </desc></p>
+						</origin>
+
+						<provenance><p><ref target="http://pleiades.stoa.org/places/599778" type="external"><placeName type="ancientFindspot" key="Magnesia-on-the-Maeander" n="Asia_Minor_and_Anatolia">Magnesia-on-the-Maeander</placeName></ref>. Two blocks forming the western anta of the southern gate of the agora. Still at the site; a squeeze may be found in the <title>IG</title> archive in Berlin.</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+
+	    			<p> Edition here based on Kern <bibl type="abbr" n="I.Magnesia">I.Magnesia</bibl> 100a. The restoration in line 41 is from Gauthier; the ones in  lines 45-48 are from McCabe in <ref target="http://noapplet.epigraphy.packhum.org/text/260444" type="external">PHI</ref>.</p>
+
+	    			<p> Cf. also:
+	    				Dittenberger <bibl type="abbr" n="SIG²">SIG²</bibl> 552;
+	    				Hiller von Gaertringen <bibl type="abbr" n="SIG³">SIG³</bibl> 695;
+	    				Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 33a;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 56, 1232.
+	    			</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Reinach 1908">Reinach 1908</bibl>;
+	    				<bibl type="author_date" n="Kern 1938">Kern 1938</bibl>;
+	    				<bibl type="author_date" n="Tréheux 1985">Tréheux 1985</bibl>;
+	    				<bibl type="author_date" n="Gauthier 1990">Gauthier 1990</bibl>: 61-65;
+	    				<bibl type="author_date" n="Schädler 1991">Schädler 1991</bibl>: 301-312;
+	    				<bibl type="author_date" n="Rigsby 1996">Rigsby 1996</bibl>
+	    				<bibl type="author_date" n="Georgoudi 1998">Georgoudi 1998</bibl>;
+	    				<bibl type="author_date" n="Santangelo 2006">Santangelo 2006</bibl>;
+	    				<bibl type="author_date" n="Pirenne-Delforge 2008b">Pirenne-Delforge 2008b</bibl>.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+<lb xml:id="line_1" n="1"/> <name type="title"><w lemma="στεφανηφορέω">στεφανηφοροῦντος</w></name> Πολυκλείδου τοῦ
+
+<lb xml:id="line_2" n="2"/> Πυθοδήλου, <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ἁγνεών">Ἁγνεῶνος</w></name>
+
+<lb xml:id="line_3" n="3"/> <w lemma="ὑπέρ">ὑπὲρ</w> τῆς <name type="genericOffering"><w lemma="καθίδρυσις">καθιδρύσεως</w></name> τοῦ <name type="object"><w lemma="ξόανον">ξοάνου</w></name> τῆς <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδος</w></name>
+
+<lb xml:id="line_4" n="4"/> τῆς <name type="epithet" key="Leukophryene"><w lemma="Λευκοφρυηνή">Λευκοφρυηνῆς</w></name> <w lemma="εἰς">εἰς</w> τὸν <w lemma="κατασκευάζω">κατεσκευασμένον</w> <w lemma="αὐτός">αὐ
+
+<lb xml:id="line_5" n="5" break="no"/>τῆι</w> <w lemma="νῦν">νῦν</w> <name type="structure"><w lemma="παρθενών">Παρθενῶνα</w></name> καὶ <w lemma="περί">περὶ</w> τοῦ <name type="genericOffering"><w lemma="ἐπιτελέω">ἐπιτελεῖσθαι</w></name> <w lemma="αὐτός">αὐτῆι</w>
+
+<lb xml:id="line_6" n="6"/> <w lemma="κατά">καθ’</w> <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <w lemma="ἐν">ἐν</w> <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Ἀρτεμίσιος">Ἀρτεμισιῶνι</w></name> τῆι
+
+<lb xml:id="line_7" n="7"/> <w lemma="ἕκτος">ἕκτηι</w> <w lemma="ἵστημι">ἱσταμένου</w> <name type="sacrifice"><name type="liquid"><w lemma="σπονδή">σπονδὰς</w></name></name> καὶ <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name>, <name type="genericOffering"><w lemma="συντελέω">συντε
+
+<lb xml:id="line_8" n="8" break="no"/>λεῖσθαι</w></name> δὲ καὶ <w lemma="ὑπό">ὑφ’</w> <w lemma="ἕκαστος">ἑκάστου</w> τῶν <name type="group"><w lemma="κατοικέω">κατοικούντων</w></name>
+
+<lb xml:id="line_9" n="9"/> <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> <w lemma="πρό">πρὸ</w> τῶν <name type="structure"><w lemma="θύρα">θυρῶν</w></name> <w lemma="κατά">κατ’</w> <name type="group"><w lemma="οἶκος">οἴκου</w></name> <w lemma="δύναμις">δύναμιν</w> <w lemma="ἐπί">ἐπὶ</w>
+
+<lb xml:id="line_10" n="10"/> τῶν <w lemma="κατασκευάζω">κατασκευασθησομένων</w> <w lemma="ὑπό">ὑπ’</w> <w lemma="αὐτός">αὐτῶν</w> <name type="structure"><w lemma="βωμός">βωμῶν</w></name>.
+
+<lb xml:id="line_11" n="11"/> <w lemma="δοκέω">ἔδοξεν</w> τῆι <name type="group"><w lemma="βουλή">βουλῆι</w></name> καὶ τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>· Διαγόρας Ἰσαγόρου <w lemma="λέγω">εἶπεν</w>· <w lemma="ἐπειδή">ἐπειδὴ</w>
+
+<lb xml:id="line_12" n="12"/> <name type="deity" key="generic"><w lemma="θεῖος">θείας</w></name> <name type="authority"><w lemma="ἐπίπνοια">ἐπιπνοίας</w></name> καὶ <w lemma="παράστασις">παραστάσεως</w> <w lemma="γίγνομαι">γενομένης</w> τῶι <w lemma="σύμπας">σύνπαντι</w> <w lemma="πλῆθος">πλήθει</w>
+
+<lb xml:id="line_13" n="13"/> τοῦ <name type="group"><w lemma="πολίτευμα">πολιτεύματος</w></name> <w lemma="εἰς">εἰς</w> τὴν <w lemma="ἀποκατάστασις">ἀποκατάστασιν</w> τοῦ <name type="structure"><w lemma="ναός">ναοῦ</w></name> <w lemma="συντέλεια">συντέλειαν</w> <w lemma="λαμβάνω">εἴλη
+
+<lb xml:id="line_14" n="14" break="no"/>φεν</w> ὁ <name type="structure"><w lemma="παρθενών"><supplied reason="lost">Π</supplied>αρθενὼν</w></name> τῆι <w lemma="κατά"><supplied reason="lost">κ</supplied>ατὰ</w> <w lemma="μέρος">μέρος</w> <w lemma="ἐπαυξάνω">ἐπαυξήσει</w> τῶν <w lemma="ἔργον">ἔργων</w> καὶ <w lemma="μεγαλοπρέπεια">μεγαλοπρε
+
+<lb xml:id="line_15" n="15" break="no"/>πείαι</w> <w lemma="πλεῖστος">πλεῖστον</w> <w lemma="διαφέρω">διαφέρων</w> τοῦ <w lemma="ἀπολείπω">ἀπολειφθέντος</w> <w lemma="ἐγώ">ἡμῖν</w> τὸ <w lemma="παλαιός">παλαιὸν</w> <w lemma="ὑπό">ὑπὸ</w> τῶν
+
+<lb xml:id="line_16" n="16"/> <name type="group"><w lemma="πρόγονος">προγόνων</w></name>, <name type="authority"><w lemma="πάτριος">πάτριον</w></name> δ’ <w lemma="εἰμί">ἐστὶν</w> τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name> <w lemma="πρός">πρὸς</w> τὸ <name type="deity" key="generic"><w lemma="θεῖος">θεῖον</w></name> <w lemma="εὐσεβής">εὐσεβῶς</w> <w lemma="διάκειμαι">διακει
+
+<lb xml:id="line_17" n="17" break="no"/>μένωι</w> <w lemma="πᾶς">πᾶσιν</w> μὲν τοῖς <name type="deity" key="generic"><w lemma="θεός">θεοῖς</w></name> <w lemma="ἀεί">ἀεί</w> <w lemma="ποτε">ποτε</w> τὰς <w lemma="κατάξιος">καταξίας</w> <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> τε καὶ <name type="genericOffering"><w lemma="τιμή">τιμὰς</w></name>
+
+<lb xml:id="line_18" n="18"/> <w lemma="ἀπονέμω">ἀπονέμειν</w>, <w lemma="μάλα">μάλιστα</w> δὲ τῆι <name type="epithet" key="Archegetes"><w lemma="ἀρχηγέτης">ἀρχηγέτιδι</w></name> τῆς <name type="group"><w lemma="πόλις">πόλεως</w></name> <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδι</w></name> <name type="epithet" key="Leukophryene"><w lemma="Λευκοφρυηνή">Λευκο
+
+<lb xml:id="line_19" n="19" break="no"/>φρυηνῆι</w></name>, <name type="deity" key="Tyche"><w lemma="τύχη">τύχηι</w></name> <name type="epithet" key="Agathe"><w lemma="ἀγαθός">ἀγαθῆι</w></name> καὶ <w lemma="ἐπί">ἐπὶ</w> <w lemma="σωτηρία">σωτηρίαι</w> τοῦ τε <name type="group"><w lemma="δῆμος">δήμου</w></name> καὶ τῶν <name type="group"><w lemma="εὐνοέω">εὐνοούν</w>
+
+<lb xml:id="line_20" n="20" break="no"/>των</name> τῶι <name type="group"><w lemma="πλῆθος">πλήθει</w></name> τῶι <name type="ethnic" key="Magnesia"><w lemma="Μάγνης">Μαγνήτων</w></name> <w lemma="σύν">σὺν</w> <name type="person"><w lemma="γυνή">γυναιξὶ</w></name> καὶ <name type="person"><w lemma="τέκνον">τέκνοις</w></name> τοῖς <w lemma="οὗτος">τούτων</w>,
+
+<lb xml:id="line_21" n="21"/> <w lemma="δοκέω">δεδόχθαι</w> τῆι <name type="group"><w lemma="βουλή">βουλῆι</w></name> καὶ τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>· τὸν μὲν <name type="personnel"><w lemma="νεωκόρος">νεωκόρον</w></name> καὶ τὴν <name type="personnel"><w lemma="ἱέρεια">ἱέρειαν</w></name> τῆς
+
+<lb xml:id="line_22" n="22"/> <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδος</w></name> τοῦ <w lemma="μείς">μηνὸς</w> τοῦ <name type="month"><w lemma="Ἀρτεμίσιος">Ἀρτεμισιῶνος</w></name> τῆι <w lemma="ἕκτος">ἕκτηι</w> <w lemma="ἵστημι">ἱσταμένου</w> <w lemma="συντελέω">συντε
+
+<lb xml:id="line_23" n="23" break="no"/>λέσαι</w> τὴν <name type="genericOffering"><w lemma="ἀποκατάστασις">ἀποκατάστασιν</w></name> τῆς <name type="deity" key="Artemis"><w lemma="θεός">θεοῦ</w></name> <w lemma="εἰς">εἰς</w> τὸν <name type="structure"><w lemma="παρθενών">Παρθενῶνα</w></name> <w lemma="μετά">μετὰ</w> <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name>
+
+<lb xml:id="line_24" n="24"/>τῆς <w lemma="ἐπιφανής">ἐπιφανεστάτης</w>, τὴν δὲ <w lemma="ἡμέρα">ἡμέραν</w> <w lemma="ὅδε">τήνδε</w> <name type="speechAct"><w lemma="ἀναδείκνυμι">ἀναδεδεῖχθαι</w></name> <w lemma="εἰς">εἰς</w> τὸν <w lemma="ἀεί">ἀε<supplied reason="lost">ὶ</supplied></w>
+
+<lb xml:id="line_25" n="25"/> <w lemma="χρόνος">χρόνον</w> <name type="genericOffering"><w lemma="ἱερός">ἱερὰν</w></name> <name type="speechAct"><w lemma="προσαγορεύω">προσαγορευομένην</w></name> <name type="festival">Ἰσιτήρια</name>, καὶ <w lemma="εἰμί">ἔστωσαν</w> <w lemma="ἐν">ἐν</w> <w lemma="αὐτός">αὐτῆι</w> <w lemma="ἐκεχειρία">ἐκε
+
+<lb xml:id="line_26" n="26" break="no"/>χειρίαι</w> <w lemma="πᾶς">πᾶσι</w> <w lemma="πρός">πρὸς</w> <w lemma="πᾶς">πάντων</w>, <w lemma="γίγνομαι">γινέσθω</w> δὲ καὶ <name type="group"><name type="person"><w lemma="γυνή">γυναικῶν</w></name></name> <w lemma="ἔξοδος">ἔξοδος</w> <w lemma="εἰς">εἰς</w> τὸ
+
+<lb xml:id="line_27" n="27"/> <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> καὶ <name type="genericOffering"><w lemma="παρεδρεύω">παρεδρευέτωσαν</w></name> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> τὴν <w lemma="ἐπιβάλλω">ἐπιβάλλουσαν</w> <name type="genericOffering"><w lemma="τιμή">τιμὴν</w></name> καὶ
+
+<lb xml:id="line_28" n="28"/> <name type="genericOffering"><w lemma="παρεδρεία">παρεδρείαν</w></name> <w lemma="ποιέω">ποιούμεναι</w> τῆς <name type="deity" key="Artemis"><w lemma="θεός">θεοῦ</w></name>· <w lemma="συντελέω">συντελείτω</w> δὲ ὁ <name type="personnel"><w lemma="νεωκόρος">νεωκόρος</w></name> καὶ <name type="group"><w lemma="χορός">χο
+
+<lb xml:id="line_29" n="29" break="no"/>ροὺς</w></name> <name type="group"><w lemma="παρθένος">παρθένων</w></name> <name type="invocation"><w lemma="ἀείδω">ἀϊδουσῶν</w></name> <name type="invocation"><w lemma="ὕμνος">ὕμνους</w></name> <w lemma="εἰς">εἰς</w> <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἄρτεμιν</w></name> <name type="epithet" key="Leukophryene"><w lemma="Λευκοφρυηνή">Λευκοφρυηνήν</w></name>, <w lemma="ἀνίημι">ἀνιέ<supplied reason="lost">σ</supplied>
+
+<lb xml:id="line_30" n="30" break="no"/>θωσαν</w> δὲ οἱ <name type="group"><w lemma="παῖς">παῖδες</w></name> <w lemma="ἐκ">ἐκ</w> τῶν <w lemma="μάθημα">μαθημάτων</w> καὶ <w lemma="ἀπό">ἀπὸ</w> τῶν <w lemma="ἔργον">ἔργων</w> <name type="group"><w lemma="δοῦλος">δοῦλοί</w></name> τε
+
+<lb xml:id="line_31" n="31"/> καὶ <name type="group"><w lemma="δοῦλος">δοῦλαι</w></name>, <w lemma="ἐν">ἐν</w> <w lemma="ὅς">ἧι</w> <w lemma="οὗτος">ταῦτα</w> <w lemma="ἡμέρα">ἡμέραι</w> <w lemma="συντελέω">συντελεσθήσεται</w>· τὰς δὲ <w lemma="γίγνομαι">γινομένας</w>
+
+<lb xml:id="line_32" n="32"/> <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> τῆς <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδος</w></name> <w lemma="μετά">μετὰ</w> <name type="personnel"><w lemma="στεφανηφόρος">στεφανηφόρον</w></name> Πολυκλείδην καὶ τοὺς
+
+<lb xml:id="line_33" n="33"/> <name type="personnel"><w lemma="στεφανηφόρος">στεφανηφόρους</w></name> <w lemma="ἐν">ἐν</w> τῶι <w lemma="κατά">καθ’</w> <w lemma="ἑαυτοῦ">ἑαυτοὺς</w> <w lemma="ἐνιαυτός">ἐνιαυτῶι</w> <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> καὶ <w lemma="πομπή">πομπὴν</w> <w lemma="συντελέω">συν
+
+<lb xml:id="line_34" n="34" break="no"/>τελεῖν</w>· <w lemma="ὑπάρχω">ὑπάρχειν</w> δὲ <w lemma="ἐν">ἐν</w> <w lemma="αὐτός">αὐτῆι</w> <w lemma="οὗτος">ταύτηι</w> τῆι <w lemma="ἡμέρα">ἡμέραι</w> καὶ τὴν <w lemma="περί">περὶ</w> τῶν
+
+<lb xml:id="line_35" n="35"/> <w lemma="ὤνιος">ὠνίων</w> <w lemma="οἰκονομία">οἰκονομίαν</w> <w lemma="μετά">μετὰ</w> <name type="personnel"><w lemma="στεφανηφόρος">στεφανηφόρον</w> </name> Πολυκλείδην <w lemma="ὅστις">ἥτις</w> <w lemma="γίγνομαι">γίνε
+
+<lb xml:id="line_36" n="36" break="no"/>ται</w> καὶ <w lemma="ἐν">ἐν</w> τῆι <w lemma="πρότερος">πρώτηι</w> <w lemma="ἡμέρα">ἡμέραι</w> τοῦ <w lemma="ἐνιαυτός">ἐνιαυτοῦ</w>· τὸν δὲ <name type="personnel"><w lemma="ἱεροκῆρυξ">ἱεροκήρυκα</w></name> <supplied reason="lost">τὸν</supplied>
+
+<lb xml:id="line_37" n="37"/> <w lemma="νῦν">νῦν</w> καὶ τὸν <w lemma="κατά">κατ’</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <w lemma="ἀεί">ἀεὶ</w> <w lemma="ὅδε">τοῦδε</w> τοῦ <name type="month"><w lemma="μείς">μηνὸς</w></name> <w lemma="ἐν">ἐν</w> τῆι <w lemma="ἀποδείκνυμι">ἀποδεδειγ<supplied reason="lost">μέ</supplied>
+
+<lb xml:id="line_38" n="38" break="no"/>νηι</w> <name type="genericOffering"><w lemma="ἱερός">ἱερᾶι</w></name> <w lemma="ἡμέρα">ἡμέραι</w> <name type="group"><w lemma="πλήθω">πληθυούσης</w></name> <name type="locality"><w lemma="ἀγορά">ἀγορᾶς</w></name> <w lemma="συνπάρειμι">συνπαρόντων</w> <w lemma="ἐν">ἐν</w> <name type="clothing"><w lemma="ἔσθησις">ἐσθῆσ<supplied reason="lost">ιν</supplied></w></name>
+
+<lb xml:id="line_39" n="39"/> <name type="quality"><w lemma="ἐπίσημος">ἐπισήμοις</w></name> καὶ <name type="vegetal"><w lemma="δάφνη">δάφνης</w></name> <name type="adornment"><w lemma="στέφανος">στεφάνοις</w></name> <name type="title"><w lemma="πολέμαρχος">πολεμάρχων</w></name>, <name type="title"><w lemma="οἰκονόμος">οἰκονόμω<supplied reason="lost">ν</supplied></w></name><supplied reason="lost">,</supplied> <name type="title"><w lemma="γραμματεύς"><supplied reason="lost">γραμ</supplied>
+
+<lb xml:id="line_40" n="40" break="no"/>ματέως</w></name> <name type="group"><w lemma="βουλή">βουλῆς</w></name>, <name type="title"><w lemma="στρατηγός">στρατηγοῦ</w></name>, <name type="title"><w lemma="ἵππαρχος">ἱππάρχων</w></name>, <name type="title"><w lemma="στεφανηφόρος">στεφανηφόρου</w></name>, <name type="title"><w lemma="ἀντιγραφεύς">ἀν<supplied reason="lost">τιγρα</supplied>
+
+<lb xml:id="line_41" n="41" break="no"/>φέως</w></name> <w lemma="εὐφημία">εὐφημίαν</w> <name type="speechAct"><w lemma="καταγγέλλω">κατανγείλαντα</w></name> <w lemma="πρό">πρὸ</w> τοῦ <name type="structure"><w lemma="βουλευτήριον">βουλευτηρίου</w></name> <w lemma="μετά">μετὰ</w> <supplied reason="lost">τῶν</supplied> <name type="sacrifice"><name type="liquid"><w lemma="σπονδή"><supplied reason="lost">σπον</supplied>
+
+
+<lb xml:id="line_42" n="42" break="no"/>δῶν</w></name></name> <name type="invocation"><w lemma="κατευχή">κατευχὴν</w></name> καὶ <name type="invocation"><w lemma="παράκλησις">παράκλησιν</w></name> <w lemma="πᾶς">παντὸς</w> τοῦ <name type="group"><w lemma="πλῆθος">πλήθους</w></name> <w lemma="ποιέω">ποιεῖσ<supplied reason="lost">θαι</supplied></w> <name type="invocation"><w lemma="λέγω"><supplied reason="lost">λέγειν</supplied></w></name>
+
+<lb xml:id="line_43" n="43" break="no"/> δέ· "<name type="invocation"><w lemma="παρακαλέω">παρακαλῶ</w></name> <w lemma="πᾶς">πάντας</w> τοὺς <name type="group"><w lemma="κατοικέω">κατοικοῦντας</w></name> <w lemma="πόλις">πόλιν</w> καὶ <w lemma="χώρα">χώρ<supplied reason="lost">αν</supplied></w> <supplied reason="lost">τὴν</supplied> <name type="ethnic" key="Magnesia"><w lemma="Μάγνης"><supplied reason="lost">Μα</supplied>
+
+<lb xml:id="line_44" n="44" break="no"/>γνήτων</w></name> <w lemma="ἐπί">ἐπὶ</w> <w lemma="καλός">καλοῖς</w> <name type="festival">Ἰσιτηρίοις</name> <w lemma="κατά">κατὰ</w> <w lemma="δύναμις">δύναμιν</w> <name type="group"><w lemma="οἶκος">οἴκου</w></name> <name type="quality"><w lemma="χαρίζω">κεχ<supplied reason="lost">αρισμένην</supplied></w></name> <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυ</supplied>
+
+<lb xml:id="line_45" n="45" break="no"/>σίαν</w></name> <name type="sacrifice"><w lemma="συντελέω">συντελεῖν</w></name> <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδι</w></name> <name type="epithet" key="Leukophryene"><w lemma="Λευκοφρυηνή">Λευκοφρυηνῆι</w></name> <w lemma="ὅδε">τῆιδε</w> τῇ <w lemma="ἡμέρα">ἡμέ<supplied reason="lost">ραι</supplied></w>"· <name type="invocation"><w lemma="εὔχομαι"><supplied reason="lost">εὔχεσθαι</supplied></w></name> <supplied reason="lost">δὲ</supplied>
+
+<lb xml:id="line_46" n="46"/>καὶ <name type="ethnic" key="Magnesia"><w lemma="Μάγνης">Μάγνησιν</w></name> <w lemma="αὐτός">αὐτοῖς</w> τε <w lemma="δίδωμι">διδόναι</w> καὶ <name type="group"><w lemma="γυνή">γυναιξὶν</w></name> <w lemma="ὑγίεια">ὑγ̣<supplied reason="lost">ί</supplied><unclear>ει</unclear><supplied reason="lost">αν</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="πλοῦτος"><supplied reason="lost">πλοῦτον</supplied></w> <name type="deity" key="Artemis"><w lemma="Ἄρτεμις"><supplied reason="lost">Ἄρ</supplied>
+
+<lb xml:id="line_47" n="47" break="no"/>τεμιν</w></name> <name type="epithet" key="Leukophryene"><w lemma="Λευκοφρυηνή">Λευκοφρυηνὴν</w></name> καὶ <name type="group"><w lemma="γενεά">γενεὰν</w></name> τήν τε <w lemma="ὑπάρχω">ὑπ<unclear>ά</unclear><supplied reason="lost">ρχουσαν</supplied></w> <w lemma="σῴζω"><supplied reason="lost">σώιζεσθαι</supplied></w>
+
+<lb xml:id="line_48" n="48"/>καὶ <w lemma="εὐτυχέω">εὐτυχεῖν </w>καὶ τὴν <name type="group"><w lemma="ἐπιγονή">ἐπιγονὴν</w></name> <w lemma="μακαρία">μακαρίαν</w> <w lemma="γίγνομαι"><supplied reason="lost">γίνεσθαι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_49" n="49"/><gap reason="lost" quantity="3" unit="character"/><orig>ονδε</orig><gap reason="lost" quantity="1" unit="character"/><orig>χεθ</orig><gap reason="lost" quantity="3" unit="character"/><orig>ειο</orig> <space extent="unknown" unit="character"/>
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p> When Polykleides son of Pythodelos was <foreign>stephanophoros</foreign>, in the month Hagneon, concerning the installation of the statue of Artemis Leukophryene, (5) in the Parthenon that has presently been built for her and concerning the fulfillment, each year on the 6th of the month Artemision, of libations and sacrifices for her, and the performance, by each of the inhabitants, of sacrifices in front of their doors, according to the capability of each household, (10) on the altars that have been built by them. The council and the people decided, Diagoras son of Isagoras made the proposition. Given that, there having been a divine inspiration and impulse for the entire mass of the citizenry with regard to the restoration of the temple, the Parthenon has achieved its completion, distinguishing itself most definitely from what has been left to us before by our ancestors, by its augmentation of the individual parts of the works and its magnificence, (15) and given that it is an ancestral custom for the people, who are pious towards the divine, to always apportion to all the gods the sacrifices and the marks of honour that they deserve, and most of all to the leader of the city, Artemis Leukophryene, with good fortune and for the safety of the people and of those who are well-inclined towards (20) the people of Magnesia, along with their wives and their children, may it be decided by the council and the people: the <foreign>neokoros</foreign> and the priestess of Artemis should accomplish on the 6th of the month Artemision the re-establishment of the goddess in the Parthenon with the most conspicuous sacrifice, and this day (25) has been proclaimed as holy for all time, being called Isiteria, and on this day there should be a truce for all and from all, and let there be a procession of women into the sanctuary and they should assume the function of <foreign>paredroi</foreign> in the sanctuary, giving the goddess her due honour and attendance. The <foreign>neokoros</foreign> must also organize choirs of girls singing hymns in honour of Artemis Leukophryene, and (30) boys shall be free from their lessons, and male and female slaves, from work, on the day on which these (ceremonies) are performed. The priestesses of Artemis in function after the (year of) the <foreign>stephanophoros</foreign> Polykleides, and the <foreign>stephanophoroi</foreign> in their year of office, are to perform a sacrifice and a procession. And on this same day there should also be (35) an administration of the goods for sale, from the (year of the) <foreign>stephanephoros</foreign> Polykleides onwards, the same as there is on the first day of the year. And the sacred herald, the one who is in function now and the one who will be in function each year, should, in this month on the designated holy day, when the agora is full of people, in the presence of the polemarchs, the <foreign>oikonomoi</foreign>, (40) the secretary of the Council, the army commander, the hipparchs, the <foreign>stephanephoros</foreign> and the verification-clerk, in solemn clothes and with crowns of laurel, (the sacred herald) having called for respectful silence, in front of the <foreign>bouleuterion</foreign>, together with the boys, should make the following prayer and appeal to all the assembled people: "I call on all the inhabitants of the city and of the land of the Magnesians on the occasion of beautiful Isiteria, as far as lies in the ability of each household (45) to accomplish a sacrifice [pleasing] to Artemis Leukophryene on this day". And he should pray that Artemis Leukophryene give to the Magnesians themselves and to their wives health [and prosperity] so that the present generation [may be saved] and be fortunate and that their descendants [be] blessed [...]"
+					</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Sous la stéphanéphorie de Polykleidès, fils de Pythodelos, au mois d'Hagneon, au sujet de l'installation de la statue d'Artémis Leukophryenè, (5) dans le Parthénon construit maintenant pour elle, et en vue d'accomplir, en son honneur, chaque année, le 6 du mois d'Artemision, des libations et des sacrifices, ainsi que d'accomplir ensemble, par chacun des habitants, des sacrifices devant les portes, selon les moyens de la maison, (10) sur des autels qui auront été construits par eux. Il a plu au conseil et au peuple, Diagoras, fils d'Isagoras, a fait la proposition. Attendu qu'il y a eu inspiration et apparition divine pour (le bien) de la population tout entière en vue de la reconstruction du temple, et que le Parthénon est arrivé à son achèvement, en se distinguant considérablement, tant par l'agrandissement en ses parties que par sa magnificence, de celui qui nous avait été laissé autrefois par les ancêtres; (15) et attendu que c'est une coutume ancestrale, pour le peuple pieusement disposé à l'égard de la divinité, d'accorder de tout temps à tous les dieux les sacrifices et les honneurs qui sont tout à fait dignes d'eux, et principalement à la déesse tutélaire de la cité, Artémis Leukophryenè; à la bonne fortune et pour le salut du peuple et de ceux qui sont bienveillants envers (20) le peuple des Magnètes, y compris leurs femmes et leurs enfants, qu'il plaise au conseil et au peuple que le 6 du mois d'Artemision, le néocore et la prêtresse d'Artémis accomplissent en commun la réinstallation de la déesse dans le Parthénon, avec le sacrifice le plus éclatant, et que ce jour (25) soit proclamé pour toujours sacré et appelé Isiteria, et qu'il y ait ce jour-là une trêve pour tous, de la part de tous; et que se tienne un cortège de femmes vers le sanctuaire, et qu'elles assument la fonction de parèdre dans le sanctuaire, en rendant à la déesse les honneurs et la parédrie qui lui conviennent; que le néocore organise des choeurs de jeunes filles qui chanteront des hymnes en l'honneur d'Artémis Leukophryenè, (30) que les enfants soient dispensés d'école et les esclaves, hommes et femmes, de leurs travaux, le jour où ces (cérémonies) seront célébrées; les prêtresses d'Artémis en fonction, après la stéphanéphorie de Polykleidès, et les stéphanéphores l'année de leur charge doivent célébrer ensemble le sacrifice et la procession. Ce jour-là est en vigueur (35) l'ordonnance sur les marchandises, à partir de la stéphanéphorie de Polykleidès, celle qui est aussi en vigueur le premier jour de l'année; en ce mois-là, au jour proclamé sacré, la foule remplissant l'agora, étant présents les polémarques, les économes, (40) le secrétaire du conseil, le stratège, les hipparques, le stéphanéphore, le contrôleur, en vêtements solennels et couronnés de laurier, le héraut sacré, celui qui est en fonction maintenant et celui qui le sera chaque année successivement, ayant proclamé le silence (de bon augure), devant le bouleuterion, doit prononcer la prière accompagnée de libations, et lancer un appel à tout le peuple (en ces termes) : « Je convie tous les habitants de la cité et du pays des Magnètes, à l'occasion des beaux Isiteria, à accomplir en ce jour, selon les moyens de (chaque) maison, (45) un sacrifice [agréable] à Artémis Leukophryenè »; et il doit formuler une prière de demande afin qu'Artémis Leukophryenè accorde aux Magnètes eux-mêmes et à leurs femmes santé et richesse, pour que la génération pré[sente soit préservée] et prospère, et que leur descendance [soit] heureuse [...]</p>
+					<p> (traduction S. Georgoudi)</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p> This inscription is part of a small dossier consisting of two decrees (A and B, the latter is not reproduced here) concerning the new annual festival for Artemis Leukophryene called the Isiteria (spelled Eisiteria in the later text, B). The later decree, B, has been persuasively dated to the period of the Mithridatic wars and the reconstruction of the Roman province of Asia in 85/4 BC (cf. Santangelo); the earlier decree (A) must have some connection with the reconstruction of the temple of Artemis Leukophryene at Magnesia during the early and middle part of the second century BC, if not a bit later. Though the entire building programme is not thought to have been finished before the second half of the second century BC (see also Schädler), the date of the completion and the inauguration of the Parthenon itself remains unknown. The uncertainty about the date of decree A is not helped by the fact that this was inscribed at the same time as B (cf. lines 19-21), thus in the first century BC. A better clue is provided by the Thessalian decree <title>AE</title> (1927/28) 119, from Itonion and dated to ca. 142-140 BC, which mentions a Magnesian judge called Διαγόρας Ἰσαγόρου; this is probably the individual of the same name who proposed decree A (line 11). At any rate, it is clear that some time during the middle of the second century BC, the Magnesians desired to increase the honours given to their goddess: more specifically, they voted for the establishment of a new annual festival day called the Isiteria to celebrate the installation of the cult statue of Artemis in the Parthenon and to commemorate this event every year. </p>
+
+<p>On the general historical context, it should also be noted that the phrase ἐπειδὴ θείας ἐπιπνοίας καὶ παραστάσεως γενομένης (lines 11-12) seems to allude to some of the events preceding this decree, which are related in a famous inscription from Magnesia-on-the-Maiander, <bibl type="abbr" n="I.Magnesia">I.Magnesia</bibl> 16 (ca. 208/7-203 BC). An epiphany of Artemis Leukophryene was observed under unknown circumstances (perhaps in 220/19 BC); as a result of this, the people of Magnesia decided to consult the oracle at Delphi. The oracle answered that "it would be better and more good that those who honour Apollo Pythios and Artemis Leukophryene recognize the city and the territory of the Magnesians as sacred and inviolable" (cf. also Kern 1938). The city of Magnesia then decided to create, "for those inhabiting Asia", a modest, yearly competition in honour of Artemis Leukophryene. This festival did not prove to be a success. Some fourteen years later, following further oracular consultations, the city of Magnesia decided to augment these celebrations of the Leukophryena. They instituted a musical, gymnastic and equestrian competition every four years for all the Greeks, with a golden crown that was <foreign>isopythios</foreign> (equal to that of the Pythian games) as the prize. To proclaim the opening of these games and to give them a Panhellenic status, the Magnesians sent sacred ambassadors (<foreign>theoroi</foreign>) to numerous cities in the Greek world, so that they would recognize these games, and also the inviolability of the city and territory of Magnesia (in the final years of the third century); many of the positive responses to this new invitation are preserved in the inscriptions of Magnesia (<bibl type="abbr" n="I.Magnesia">I.Magnesia</bibl>). The present inscription, obliquely referring to this augmentation of the Leukophryena, forms a different pendant to this process of revitalisation of the cult of Artemis, since it inaugurates a new celebration of the annual festival of the goddess, the "sacred day" of the Isiteria. Rather than being a large-scale Panhellenic festival, then, this annual celebration was aimed at the wider local community of Magnesia. For another foundation of an annual civic festival at Magnesia, somewhat earlier in the second century BC, cf. <ref target="CGRN_194">CGRN 194</ref> (Zeus Sosipolis).</p>
+
+<p>The inscription starts with a preamble (lines 1-10) stating the general content of the decisions: these concern the re-installation of the statue of Artemis Leukophryene on the 6th of Artemision, in her new temple—which is referred to as the “Parthenon"—and annual sacrifices for her, both state-organized libations and sacrifices, and other sacrifices made by inhabitants privately, in front of each of their homes. It continues with an explanation of the background of these decisions (lines 11-21): the earlier restoration of the temple, as well as the ancestral customs and pious dispositions of the Magnesians that incite them to honour the goddess as Archegetis ("leader of the city”). This is followed by more detailed prescriptions for the festival-day (lines 21-36). The holy day is to be called Isiteria, and on it there is to be a truce from all hostilities, the authorization for women to go out, and a suspension of school for children and of work for the slaves, as well as an administration of goods for sale. Hymns will be sung and an extra sacrifice is offered by the priestess of Artemis and the <foreign>stephanephoroi</foreign>. The final part of the inscription (lines 36-49) records a public prayer to be made by the sacred herald in the agora, each year on the festival-day, that the sacrifice may please the goddess and the Magnesians may prosper. </p>
+
+<p> Line 4: Artemis Leukophryene was the tutelary deity of Magnesia (cp. line 18, where she is qualified as <foreign>archegetis</foreign>: the patron, protectress and "leader" of the city. Anacreon (fr. 1) already invoked this aspect of Artemis, who "watches over a city of men" and "leads citizens that are not at all savage". The epithet of Artemis, Leukophryene, refers to Leukophrus, a place close to Magnesia, where Xenophon already noted a "highly venerable" sanctuary of Artemis (<title>Hell.</title> 3.2.19). It is likely that lines 15-16 refer to this original temple as the locus of the cult that was bequeathed to the Magnesians by their ancestors.</p>
+
+<p> Line 5: The sense of the designation Parthenon (here and in lines 14 and 23) remains disputed. According to Kern 1900 and Dittenberger, followed by Sokolowski, the term referred to the ναός; but Reinach and Tréheux think that it refers to the entire building complex. In any case, it ought to refer to a place that was the locus of cult for Artemis, where the statue of the goddess was erected and where ritual practice would particularly involve women (see below lines 26-28). For the construction of this new temple, praised by Strabo (14.40 [C647]) for its large dimensions and wealth of offerings, the Magnesians asked for the help of Hermogenes, a famous architect of the Hellenistic period (who also constructed the temple of Dionysus at Teos, Vitruv. 7. praef. 12); on the new temple, built next to the agora of Magnesia, see Schädler.</p>
+
+<p> Lines 5-10: On cultic regulations testifying to the practice of private sacrifices alongside public sacrifice by different groups of inhabitants, cf. Georgoudi. The term κάτοικοι seems here in general to refer to the inhabitants of the territory of Magnesia, both citizens and non-citizens, cf. Georgoudi (p. 332). On κάτοικοι and other groups of inhabitants in relation to Magnesia, cf. the commentary at <ref target="CGRN_194">CGRN 194</ref>, lines 28-29. Lines 86-89 of decree B (not reprised here) contain a formulaic blessing, drawing divine favour to those who make private sacrifices in front of their doors and the opposite for those who disobey (ἄμεινον εἶναι vs. μὴ ἄμεινον αὐτῶι εἶναι); cp. also <ref target="CGRN_194">CGRN 194</ref>, at lines 59-64.</p>
+
+<p> Lines 17-18: The reference to "all the gods" besides the tutelary deity is reminiscent of the oath in the treaty between Miletos and Magnesia, in which Artemis Leukophryene and all the gods and goddess are invoked as witnesses for Magnesia (<bibl type="abbr" n="Milet I.3">Milet I.3</bibl> 148, ca. 197/6 or 180s BC).</p>
+
+<p> Lines 21-22: The <foreign>neokoros</foreign> of Artemis Leukophryene has the important task of organizing, together with the priestess, the ceremony of the reinstallation of the statue of the deity in the new temple. This is to be accompanied by sacrifices, libations and song, for which he has to bring together a chorus of girls (lines 28-29). This functionary is mentioned in other Magnesian inscriptions: he is in charge of the sacred money of the goddess in <bibl type="abbr" n="I.Magnesia">I.Magnesia</bibl> 93, line 29-31, and he is praised and crowned for his loyal service to the goddess and the people in <bibl type="abbr" n="I.Magnesia">I.Magnesia</bibl> 94). Note that the priest of Artemis Leukophryene, mentioned in <ref target="CGRN_194">CGRN 194</ref>, the decree concerning the festival of Zeus Sosipolis (together with the priestess, lines 15-16 and lines 32-33), is not mentioned here.</p>
+
+<p> Lines 22-25: The new festival Isiteria was celebrated on the 6th of Artemision, which was henceforth to be considered a "sacred day". In general, the 6th day of each month was associated with the birth of Artemis. The month Artemision was not only religiously, but also politically, an important month: it is in this month, on the second day, that the <foreign>stephanephoros</foreign> (the highest magistrate of the city and priest of Apollo) was elected, as well as the annual priestess of Artemis (decree B, lines 78-79). The term τὰ εἰσιτήρια refers in general to sacrifices by magistrates who entered into office (cf. for example Dem. 19.190 and 21.114). Priests, priestesses or prophets, also accomplished τὰ εἰσιτήρια or εἰσιτήριοι θυσίαι (cf. for example Hld. 7.2.2). In Magnesia-on-the-Maeander, each year, the Isiteria celebrated and commemorated, through libations, prayers and sacrifices, the moment when Artemis entered into her new temple (for the installation of statues, cf. Pirenne-Delforge); at the same time, it may also have marked part of the beginning of the administrative year, with the selection of these new officials. On the month Artemision and the sacrifices to Zeus Sosipolis (and the Twelve Gods) on the 12th of this month, cf. also the commentary at <ref target="CGRN_194">CGRN 194</ref>.</p>
+
+<p> Lines 25-26: It was rather common in the Greek world to proclaim a truce (here in the plural: ἐκεχειρίαι) on the occasion of a festival, and particularly for Panhellenic games, but such truces do not have the same meaning in every case. In the broadest sense, the truce marked a suspension of hostilities between ennemy parties, guaranteeing the immunity of the local people and guests who participated in the festivities or games, thus facilitating exchange between cities. Previously, the Magnesians had addressed themselves to various cities so that they would recognize the games in honour of Artemis and had also asked them to accept the truce associated to the festival of the Leukophryena (Rigsby, nos. 73.13, 79.11, 85.11). In a more precise sense, an ἐκεχειρία is a supension of public and judicial activities. For example, at Lampsakos, it was forbidden to take a pledge, pronounce a verdict or hold a law court during the Asklepieia: <ref target="CGRN_185">CGRN 185</ref>, lines 24-28; at Thasos, it was forbidden to inform against a person or bring him up for examination during certain festivals (<bibl type="abbr" n="LSS">LSS</bibl> 69); in these two cases, it is clear that a judiciary truce is intended, even if the word ἐκεχειρία is not used. For other examples of truces during religious occasions, cf. here <ref target="CGRN_150">CGRN 150</ref> (Labraunda), line 20, and <ref target="CGRN_205">CGRN 205</ref> (Antiocheia-ad-Pyramum), line 14.</p>
+
+<p> Lines 26-28: It seems that this "entrance" (perhaps a procession) of women into the sanctuary is distinct from the πομπή mentioned in line 33. The <foreign>paredreia</foreign> performed by the married women of Magnesia is difficult to define, as the tasks of a <foreign>paredros</foreign> (often a male functionary) differed considerably from context to context. Perhaps the idea was a simple form of accompaniment for the goddess while her statue was being transferred; but given that the ritual apparently recurs every year, it seems to have marked the reinstallation of the goddess in the new Parthenon, and as such may have been accompanied by other implicit ritual gestures such as the washing and adornment of the statue. For this category of rituals, see here  <ref target="CGRN_24">CGRN 24</ref> (Praxiergidai in Athens).</p>
+
+<p> Lines 29-31: Exemption from work for pupils and slaves (cf. also decree B, lines 59-61) is often stipulated for "holy days" forming a part of later Hellenistic festivals, cp. here for example: <ref target="CGRN_185">CGRN 185</ref> (Lampsakos), lines 17-18: [ἀφεῖναι] μὲν τοὺς παῖδας ἐκ τῶν μαθημάτων, τοὺς δὲ οἰκέτας ἀπὸ τῶν [ἔργων]; the decree from Antiocheia-ad-Pyramum prescribes more summarily that "all shall be released from work and chains", <ref target="CGRN_205">CGRN 205</ref>, lines 14-15.</p>
+
+<p> Lines 34-36: It is likely that the economic arrangements envisaged here (ἡ περὶ τῶν ὠνίων οἰκονομία) refer to the organisation of market fair during the festival; an exemption from taxes of products on sale (τῶν διαπωλουμένων) is also mentioned in this context the second decree (B, lines 61-62). Markets were often organised during festivals, and there could be an exemption from taxation (ἀτέλεια) on goods, which would accordingly attract merchants and buyers. On the οἰκόνομοι, cf. the commentary at <ref target="CGRN_194">CGRN 194</ref> (Magnesia), lines 10-11; see also line 13 for a fair organised during the month Heraion, at which the bull for Zeus Sosipolis is to be purchased.</p>
+
+<p> Lines 36-49: The sacred herald is to make a prayer: this religious official is mentioned in various cities, cf. here especially <ref target="CGRN_194">CGRN 194</ref>, lines 17 and 22, also from Magnesia (cp. <ref target="CGRN_185">CGRN 185</ref>, Lampsakos, line 21). He had important tasks, such as making public prayers, announcing festivals, taking oaths from other officials, and consecrating sacrificial animals together with other civil and religious officials (the κῆρυξ could have comparable functions). For the prayer itself and its encompassing scope, cf. the commentary again at <ref target="CGRN_194">CGRN 194</ref>, lines 21-31. Prayers that were uttered during festivals and at sacrifices were habitually accompanied by libations. It is for this reason that Gauthier proposed to replace μετὰ [τῶν παί]|δων (Kern) by μετὰ [σπον]|δῶν. The proposal is convincing: indeed, σπονδή is again found in the second decree (B, line 65), where the regulations of the first decree are reprised in similar terms.</p>
+
+											</div>
+			</body>
+    	</text>
+	</TEI>

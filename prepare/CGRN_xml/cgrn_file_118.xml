@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_118" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 118</idno>: <rs type="textType" key="decree">Decree</rs> containing the <rs type="textType" key="priestly contract">contract</rs> of sale for the priesthood of Artemis Pergaia at Halikarnassos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p><rs type="objectType">Stele</rs>, virtually intact, but with the foot and probable moulding at the top broken off. The stele has been fitted into a new (cement) base in the Museum rendering the last visible line (36) practically illegible. It is also now impossible to discern whether other lines or uninscribed space was available at the bottom. It is quite probable, however, that not much is missing.</p>
+			<p><dimensions>
+					<height unit="cm">95.6</height>
+					<width unit="cm">(top) 33.7 - (bottom) 33.6</width>
+				<depth unit="cm">(top) 12 - (bottom) 12.7</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">5-10</height>. Occasional use of lunate <foreign>sigma</foreign>: e.g. πρυτανείας, line 2; occasional use of <foreign>iota subscriptum</foreign>: lines 4, 13 and 25. There are several mistakes in the inscribing, especially from line 15 onward.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0250" notAfter="-0200">ca. 250-200 BC</origDate></p>
+			<p><desc>Justification: lettering (Hirschfeld); however, a later copy, in the following two centuries, cannot to be excluded (see Layout).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Halikarnassos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599636" type="external">Halikarnassos</ref></placeName>. Now in the British Museum (inv. no. 4-895; see also the <ref target="http://www.britishmuseum.org/research/collection_online/search.aspx" type="external">British Museum website</ref>, with search ID: 1843,1209.57).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition based on Hirschfeld <bibl type="abbr" n="GIBM">GIBM</bibl> 895, with facsimile; some minor corrections have been implemented.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 73; <bibl type="abbr" n="SEG">SEG</bibl> 15, 636.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Robertson 1983">Robertson 1983</bibl>; <bibl type="author_date" n="Parker 2010a">Parker 2010a</bibl>: 106 n. 8; <bibl type="author_date" n="Pirenne-Delforge 2005">Pirenne-Delforge 2005</bibl>; <bibl type="author_date" n="Paul 2013b">Paul 2013b</bibl>; <bibl type="author_date" n="Parker - Thonemann 2015">Parker - Thonemann 2015</bibl>: 132-134.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>	    				
+	    					
+<lb xml:id="line_1" n="1"/><w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <name type="personnel"><w lemma="νεωποιός"><unclear>ν</unclear>εωποίου</w></name> Χαρμύλου τοῦ Διαγόρου, <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ἡράκλειος">Ἡρακλείου</w></name>,
+	    					
+<lb xml:id="line_2" n="2"/><w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <name type="title"><w lemma="πρυτανεία">πρυτανείας</w></name> τῆς <w lemma="μετά">μετὰ</w> Μενεκλεῦς τοῦ Φορμίωνος,
+	    				
+<lb xml:id="line_3" n="3"/><name type="title"><w lemma="γραμματεύω"><supplied reason="lost">γρ</supplied>αμματεύοντος</w></name> Διοδότου τοῦ Φιλονίκου, <w lemma="δοκέω">ἔδοξεν</w>
+	    					
+<lb xml:id="line_4" n="4"/><supplied reason="lost">τῇ</supplied> <name type="group"><w lemma="βουλή"><supplied reason="lost">βουλ</supplied>ῇ</w></name> καὶ τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>, <w lemma="γνώμη">γνώμη</w> <name type="title"><w lemma="πρύτανις">πρυτάνεων</w></name>· <unclear>ὁ</unclear> <w lemma="πρίαμαι">πριάμε
+	    					
+<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">νο</supplied>ς</w> <supplied reason="lost">τ</supplied>ὴν <name type="personnel"><w lemma="ἱερατεία">ἱερητείαν</w></name> τῆς <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδος</w></name> τῆς <name type="epithet" key="Pergaia"><name type="ethnic" key="Perge"><w lemma="Περγαία">Περγαίας</w></name></name> <w lemma="παρέχω">πα<supplied reason="lost">ρ</supplied>
+	    				
+<lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">έξ</supplied>εται</w> <name type="personnel"><w lemma="ἱέρεια">ἱέρειαν</w></name> <name type="person"><w lemma="ἀστός">ἀστὴν</w></name> <w lemma="ἐκ">ἐξ</w> <name type="person"><w lemma="ἀστός">ἀστῶν</w></name> <w lemma="ἀμφότερος">ἀμφοτέρων</w> <w lemma="">ἐπὶ</w>
+	    				
+<lb xml:id="line_7" n="7"/><w lemma="τρεῖς"><supplied reason="lost">τρε</supplied>ῖς</w> <w lemma="γένος">γενεὰς</w> <w lemma="γίγνομαι">γεγενημένην</w> καὶ <w lemma="πρός">πρὸς</w> <name type="person"><w lemma="πατήρ">πατρὸς</w></name> καὶ <w lemma="πρός">πρὸς</w>
+	    					
+<lb xml:id="line_8" n="8"/><name type="person"><w lemma="μήτηρ"><supplied reason="lost">μη</supplied>τρός</w></name>, ἡ δὲ <w lemma="πρίαμαι">πριαμένη</w> <name type="personnel"><w lemma="ἱεράομαι">ἱεράσεται</w></name> <w lemma="ἐπί">ἐπὶ</w> <w lemma="ζωή"><choice><corr>ζ</corr><sic>Ξ</sic></choice>ωῆς</w> τῆς <w lemma="αὐτός">αὑτῆς</w>
+	    						    					
+<lb xml:id="line_9" n="9"/>καὶ <name type="sacrifice"><w lemma="θύω">θύσει</w></name> τὰ <name type="genericOffering"><name type="animal" key="generic"><w lemma="ἱερός">ἱερὰ</w></name></name> τὰ <name type="group"><w lemma="δημόσιος">δημό<unclear>σι</unclear>α</w></name> καὶ τὰ <name type="person"><w lemma="ἰδιωτικός">ἰδιωτικὰ</w></name> καὶ <name type="portion"><w lemma="λαμβάνω">λήψε
+	
+<lb xml:id="line_10" n="10" break="no"/>ται</w></name> τῶν <name type="sacrifice"><w lemma="θύω">θυο<unclear>μ</unclear>ένων</w></name> <name type="group"><w lemma="δημόσιος">δημοσίαι</w></name> <w lemma="ἀπό">ἀφ’</w> <w lemma="ἕκαστος">ἑκάστου</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείου</w></name> <name type="portion"><w lemma="κωλῆ">κω
+	    				
+<lb xml:id="line_11" n="11" break="no"/>λῆν</w></name> καὶ τὰ <w lemma="ἐπί">ἐπὶ</w> <name type="portion"><w lemma="κωλῆ">κω<choice><corr>λ</corr><sic>Α</sic></choice>ῆι</w></name> <name type="portion"><w lemma="νέμω">νεμόμενα</w></name> καὶ <name type="portion"><w lemma="τεταρτημορίς">τεταρτημορί	 
+	
+<lb xml:id="line_12" n="12" break="no"/>δα</w></name> <name type="portion"><w lemma="σπλάγχνον">σπλάγχνων</w></name> καὶ τὰ <name type="portion"><w lemma="δέρμα">δέρματα</w></name>, τῶν δὲ <name type="person"><w lemma="ἰδιωτικός">ἰδιωτι
+	
+<lb xml:id="line_13" n="13" break="no"/>κῶν</w></name> <name type="portion"><w lemma="λαμβάνω"><choice><corr>λ</corr><sic>Δ</sic></choice>ήψεται</w></name> <name type="portion"><w lemma="κωλῆ">κω<choice><corr>λ</corr><sic>Δ</sic></choice>ῆν</w></name> καὶ τὰ <w lemma="ἐπί">ἐπὶ</w> <name type="portion"><w lemma="κωλῆ">κω<choice><corr>λ</corr><sic>Α</sic></choice>ῇ</w></name> <name type="portion"><w lemma="νέμω">νεμόμενα</w></name>
+	    				
+<lb xml:id="line_14" n="14"/>καὶ <name type="portion"><w lemma="τεταρτημορίς">τεταρτημορίδα</w></name> <name type="portion"><w lemma="σπλάγχνον">σπλάγχνων</w></name>· τοὺς δὲ <name type="title"><w lemma="ταμίας">ταμ<supplied reason="lost">ί</supplied>
+	    				
+<lb xml:id="line_15" n="15" break="no"/>ας</w></name> <w lemma="δίδωμι">διδόναι</w> τοῖς <name type="title"><w lemma="πρύτανις">πρυτάνεσιν</w></name> <w lemma="εἰς">εἰς</w> τ<choice><corr>ὴ</corr><sic>Υ</sic></choice>ν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name>
+	    				
+<lb xml:id="line_16" n="16"/>τῆς <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδος</w></name> <w lemma="ἐντελής">ἐντελε<supplied reason="omitted">ῖ</supplied>ς</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="τριάκοντα">τριάκον
+	    				
+<lb xml:id="line_17" n="17" break="no"/>τα</w>, <name type="sacrifice"><w lemma="παρασκευάζω"><add place="overstrike">π</add>αρασκευάζειν</w></name> δὲ τὴν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> τὰς <name type="group"><w lemma="γυνή">γυναῖκας</w></name>
+	    				
+<lb xml:id="line_18" n="18"/>τὰς τῶν <name type="title"><w lemma="πρύτανις">πρυτάνεων</w></name> <w lemma="λαμβάνω">λαβούσας</w> τὸ <w lemma="ἐκ">ἐκ</w> τ<choice><corr>ῆς</corr><sic>ΕΗ</sic></choice> <name type="group"><w lemma="πόλις">πό<choice><corr>λ</corr><sic>Κ</sic></choice>εως</w></name>
+	    				
+<lb xml:id="line_19" n="19"/><w lemma="δίδωμι">διδόμενον</w> τῶν <name type="title"><w lemma="πρυτανεύω">πρυτανευόντων</w></name> τὸμ <w lemma="μείς">μῆνα</w> τὸν
+	    				
+<lb xml:id="line_20" n="20"/><name type="month"><w lemma="Ἡράκλειος">Ἡράκ<choice><corr>λ</corr><sic>Δ</sic></choice>ειον</w></name>, τὴν δὲ <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> <name type="sacrifice"><w lemma="συντελέω">συντε<choice><corr>λ</corr><sic>Α</sic></choice>είτω</w></name> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ἡράκλειος">Ἡρα
+	
+<lb xml:id="line_21" n="21" break="no"/>κλείου</w></name> <w lemma="δωδέκατος">δωδεκάτηι</w>· <w lemma="εἰμί">ἔστω</w> δὲ <choice><corr>ἡ</corr><sic>Ι</sic></choice> <name type="personnel"><w lemma="ἱέρεια"><choice><corr>ἱ</corr><sic>Η</sic></choice>έρεια</w></name> <name type="portion"><w lemma="ἰσόμοιρος">ἰσόμοιρος</w></name> <w lemma="ἐν">ἐ<unclear>ν</unclear></w>
+	    				
+<lb xml:id="line_22" n="22"/>ταῖς <name type="group"><w lemma="γυνή">γυναιξὶν</w></name> τῶν <name type="title"><w lemma="πρύτανις">πρυτάνεων</w></name> τῶν <name type="sacrifice"><w lemma="θύω">θυομένων</w></name>
+	    				
+<lb xml:id="line_23" n="23"/><name type="group"><w lemma="δημόσιος">δημοσίαι</w></name>· <name type="sacrifice"><w lemma="ποιέω">ποιείσθω</w></name> δὲ ἡ <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name> <w lemma="κατά">καθ’</w> <w lemma="ἕκαστος">ἑκάστην</w> <w lemma="νουμηνία">νου
+	    					
+<lb xml:id="line_24" n="24" break="no"/>μηνίαν</w> <name type="invocation"><w lemma="ἐπικουρία">ἐπικουρίαν</w></name> <w lemma="ὑπέρ">ὑπὲρ</w> <name type="group"><w lemma="πόλις">πόλεως</w></name> <w lemma="λαμβάνω">λαμβάνουσα</w>
+	    					
+<lb xml:id="line_25" n="25"/><w lemma="δραχμή">δρακμὴν</w> <w lemma="παρά">παρὰ</w> τῆς <name type="group"><w lemma="πόλις">πόλεως</w></name>· <w lemma="ἐν"><choice><corr>ἐ</corr><sic>Η</sic></choice>ν</w> ᾧ <choice><corr>δ</corr><sic>Μ</sic></choice>ὲ <w lemma="μείς">μηνὶ</w> ἡ <name type="sacrifice"><w lemma="θυσία">θυσία</w></name>
+	    						
+<lb xml:id="line_26" n="26"/><name type="sacrifice"><w lemma="συντελέω"><supplied reason="lost">σ</supplied>υντε<choice><corr>λ</corr><sic>Σ</sic></choice>εῖται</w></name> ἡ <name type="group"><w lemma="δημοτελής">δημοτελὴς</w></name> <w lemma="ἀγείρω">ἀγειρέτω</w> <w lemma="πρό">πρὸ</w> <choice><corr>τ</corr><sic>Ν</sic></choice>ῆς <name type="sacrifice"><w lemma="θυσία">θυ<supplied reason="lost">σί</supplied>
+	    							
+<lb xml:id="line_27" n="27" break="no"/>ας</w></name> <w lemma="ἡμέρα">ἡμέρας</w> <w lemma="τρεῖς">τρεῖς</w> <w lemma="ἐπί">ἐπ’</w> <name type="structure"><w lemma="οἰκία">οἰκίαν</w></name> <w lemma="μή">μὴ</w> <w lemma="πορεύω">πορ<choice><corr>ε</corr><sic>Η</sic></choice>υομένη</w>, ὁ δὲ <w lemma="ἀγερμός">ἀ
+	    								
+<lb xml:id="line_28" n="28" break="no"/>γερμὸς</w> <w lemma="εἰμί">ἔστω</w> τῆς <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name>· <w lemma="κατασκευάζω">κατ<choice><corr>α</corr><sic>Λ</sic></choice>σκευᾶται</w> <choice><corr>δ</corr><sic>Λ</sic></choice>ὲ ἡ <name type="personnel"><w lemma="ἱέρεια">ἱέ
+	    								
+<lb xml:id="line_29" n="29" break="no"/>ρεια</w></name> <choice><corr>κ</corr><sic>Ν</sic></choice>αὶ τὸ <name type="structure"><w lemma="ἱερός">ἱερόν</w></name>, οὗ <w lemma="ἄν">ἂν</w> <w lemma="βούλομαι">βούληται</w>, <w lemma="κατασκευάζω">κατασκευασάτω</w>
+	    									
+<lb xml:id="line_30" n="30"/>δὲ καὶ <name type="structure"><w lemma="θησαυρός">θησαυρὸν</w></name> τῆι <name type="deity" key="Artemis"><w lemma="θεός"><choice><corr>θ</corr><sic>Κ</sic></choice>εῶι</w></name>, <w lemma="ἐμβάλλω">ἐνβαλ<choice><corr>λ</corr><sic>Α</sic></choice>έτωσαν</w> δὲ οἱ
+	    									
+<lb xml:id="line_31" n="31"/><name type="sacrifice"><w lemma="θύω">θύοντες</w></name> <w lemma="ἐπί">ἐπὶ</w> μὲν τῶ<supplied reason="omitted">ι</supplied> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος">τελείωι</w></name></name> <w lemma="ὀβολός">ὀβολοὺς</w> <w lemma="δύο">δύο</w>, <w lemma="ἐπί">ἐπὶ</w>
+	    											
+<lb xml:id="line_32" n="32"/>δὲ <name type="animal" key="generic"><name type="age"><w lemma="γαλαθηνός">γαλαθεινῶι</w></name></name> <w lemma="ὀβολός">ὀβολόν</w>, <w lemma="ἀνοίγνυμι">ἀνοιγόντων</w> δὲ οἱ <name type="title"><w lemma="ἐξεταστής">ἐξε
+	
+<lb xml:id="line_33" n="33" break="no"/>τασταὶ</w></name> <w lemma="κατά">κατ’</w> <w lemma="ἐνιαυτός">ἐνιαυτ<choice><corr>ὸ</corr><sic>Η</sic></choice>ν</w> τὸν <name type="structure"><w lemma="θησαυρός">θησαυρὸν</w></name> καὶ <w lemma="δίδωμι">δι<add place="overstrike">δ</add>όν-
+	    												
+<lb xml:id="line_34" n="34"/>των</w> τῆι <name type="personnel"><w lemma="ἱέρεια">ἱερείαι</w></name> <w lemma="εἰς">εἴς</w> τε τὴν <name type="invocation"><w lemma="ἐπικουρία">ἐπικουρίαν</w></name> κ<add place="overstrike">α</add>ὶ <w lemma="εἰς"><add place="overstrike">ε</add>ἰς</w> <name type="clothing"><w lemma="ἱματισμός"><unclear>ἱ</unclear>
+	    													
+<lb xml:id="line_35" n="35" break="no"/>ματισμὸν</w></name> <surplus>καὶ εἰς ἱματισμὸν</surplus> καὶ <w lemma="εἰς">εἰς</w> <orig>σ</orig><gap reason="illegible" quantity="5" unit="character" precision="low"/>
+	    													
+<lb xml:id="line_36" n="36"/><orig>ΚΜΑ</orig><gap reason="illegible" quantity="18" unit="character" precision="low"/>
+	    				
+<lb/><space extent="unknown" unit="line"/>
+	    				
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>In the year of the <foreign>neopoios</foreign> Charmylos the son of Diagoras, in the month Herakleios, in the prytany with (i.e. presided by) Menekles son of Phormion, when Diodotos son of Philonikos was secretary, it was decided by the council and the people, a proposal of the prytaneis: the purchaser (5) of the priesthood of Artemis Pergaia will provide a priestess who is a female citizen, descendant of citizens for three generations on both sides, both her father's and her mother's. The woman purchasing the priesthood (in this way) will serve as priestess for the duration of her life and will sacrifice both the public and private offerings and receive (10) from each of the animals sacrificed at public expense: a thigh, and the portions distributed on the thigh, and a quarter of the entrails and the skins. From (animals sacrificed) at personal expense, she will receive a thigh and the portions distributed on the thigh, and a quarter of the entrails. (15) The treasurers are to provide 30 drachmae net to the prytaneis for the sacrifice of Artemis, and the wives of the prytaneis who are in office during the month (20) Herakleios, taking the money given by the city, are to prepare the sacrifice. The sacrifice is put on the 12th of the month Herakleios. The priestess will have an equal share with the wives of the prytaneis from the animals sacrificed at public expense.</p>
+
+<p>At each new moon, the priestess is to make an entreaty (and offering) on behalf of the city, having received (25) a drachma (for this purpose) from the city. In the month when the publicly funded sacrifice takes place, the priestess is to make a collection for three days before the sacrifice (but) without going to any house. The money from the collection belongs to the priestess. And the priestess is to establish the sanctuary (of Artemis Pergaia) wherever she wishes. (30) And a money-box is also to be built for the goddess. Those offering a sacrifice will deposit in it, two obols for each adult animal, one obol for each young animal (lit. with its milk-teeth). The public accountants will open the money-box each year and give to the priestess for the entreaty offerings and for her clothing and for [...] (the necessary amount?) [...]
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>L'an du néope Charmylos fils de Diagoras, durant le mois d'Herakleios et la prytanie avec (i.e. présidée par) Meneklès fils de Phormion, alors que Diodotos fils de Philonikos était secrétaire, il a plu au conseil et au peuple, sur proposition des prytanes : (5) celui qui achète la prêtrise d'Artémis Pergaia fournira une prêtresse citoyenne, descendante de citoyens sur trois générations des deux côtés, celui de son père et celui de sa mère. Celle qui achète la prêtrise (de cette manière) servira de prêtresse pour la durée de sa vie et sacrifiera à la fois les offrandes publiques et privées. Elle recevra (10) de chaque animal sacrifié sur fonds publics : une cuisse, les parts distribuées sur la cuisse, un quart des viscères, et les peaux. Des (animaux sacrifiés) à titre privé, elle recevra une cuisse, les parts distribuées sur la cuisse, et un quart des viscères. (15) Les trésoriers fourniront 30 drachmes nettes aux prytanes pour le sacrifice d'Artémis, et les femmes des prytanes qui sont en service lors du mois (20) d'Herakleios, recevant cet argent de la cité, prépareront le sacrifice. Le sacrifice aura lieu le 12 du mois d'Herakleios. La prêtresse recevra une part des animaux sacrifiés sur fonds publics égale à celle des femmes des prytanes.</p>
+<p>À chaque nouvelle lune, la prêtresse devra faire une prière (et une offrande) pour le secours de la cité, ayant reçu (25) une drachme de la cité (pour cela). Le mois lors duquel le sacrifice public a lieu, la prêtresse  devra faire une collecte pour les trois jours précédant le sacrifice, ne s'approchant d'aucune maison. L'argent de la collecte appartiendra à la prêtresse. Et la prêtresse établira le sanctuaire (d'Artémis Pergaia) à l'endroit qu'elle souhaite. (30) Et un tronc à offrandes sera construit pour la déesse. Ceux qui offrent un sacrifice devront y déposer deux oboles pour chaque animal adulte, une seule pour chaque animal de lait. Les comptables de la cité se chargeront d'ouvrir la caisse chaque année et verseront à la prêtresse pour le service et pour sa tenue vestimentaire et pour [...] (la somme nécessaire?) [...]
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>The present contract shows many similarities in both its content and formulary with the (much briefer record of) sale of the priesthood of Zeus Nemeios at Theangela, in the neighbouring region of Halikarnassos and passed under that city's authority: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_119">CGRN 119</ref>; for a newly published, probably contemporaneous contract of sale of the priesthood of Nike from Halikarnassos, see now Parker - Thonemann. It is therefore apparent that sales of priesthood were practiced in the city and the region (as they were, for example, much more frequently on nearby Kos). The priestess for life appointed in this case is also responsible for sacrificing public offerings and receives essentially the same perquisites as the priest of Zeus Nemeios does at Theangela; however, the possibility of private or individual cult is more obviously accounted for in the present sale (lines 9, 12-13; it is not broached in the case of Zeus Nemeios). Furthermore, as the priest of Zeus Nemeios was ἰσόμοιρος with the prytaneis, so here the priestess is analogously to have an equal share, presumably during a feast, with the wives of the prytaneis (lines 21-22). The document is in fact a decree that was passed on the initiative of the prytaneis, who evidently took a large hand in regulating cults and selling priesthoods at Halikarnassos (cp. also now Parker - Thonemann).</p>
+
+<p>That being said, this decree concerning the priestess of Artemis Pergaia is much more elaborate than the other examples known in the area: it notably contains a detailed discussion of the financing and timing of the public ritual for the goddess (lines 14-24), as well as of monthly and other special rituals which the priestess must perform (lines 23-28). Contrary to the priest of Zeus Nemeios at Theangela, the priestess here does not receive any liturgical or tax exemptions, but is instead granted subsidies for her ritual service as well as apparently her clothing (lines 33-35). What is more, the decree represents to some extent the act of foundation of the cult: as is sometimes specified in sales of priesthoods, the priestess will designate a site for the new sanctuary and perhaps also pay for its construction (lines 28-30; cf. here e.g. <ref target="CGRN_175">CGRN 175</ref>, lines 21-27, the priestess of Meter at Priene).</p>
+						
+<p>Artemis Pergaia was the tutelary deity of Perge in Pamphylia. Much like Artemis Ephesia, the cult appears to have been popular and was quite widely exported, especially during the Hellenistic period: cf. e.g. <bibl type="abbr" n="SEG">SEG</bibl> 25, 693 (Ambrakia, 3rd century BC), <bibl type="abbr" n="IG XII.1">IG XII.1</bibl> 66 (Rhodes, 1st century BC), or IG XII.3 494 (Thera). For a priestess of Artemis whose rite of collection is explicitly treated like that of Artemis Pergaia on Kos, see <ref target="CGRN_188">CGRN 188</ref>, lines 5-8 (a temple is also attested on line 11).</p>
+						
+<p>Due to many errors in the inscribing of the text, it has been widely supposed that it represents a later copy of an original probably dating to the third century BC (see also above on the Layout). If that is correct, then the decree and the contract may have been reinscribed as a new copy or to advertise the priesthood anew (perhaps after one or more of the original appointees had expired). However, we must not be too quick to jump to conclusions and Hirschfeld cautiously thinks that a date in the second half of the third century BC is possible for our inscription; the letterforms moreover appear to be quite similar to those in the newly published sale of priesthood for Nike (Parker - Thonemann). In this case, we might have the original copy and the mistakes will then have been due to a poor cutter.</p>
+
+<p>Lines 4-8: As is sometimes found in sales concerning priestesses, it would appear that a male individual is first envisaged as the actual buyer of the office for the woman who is then to be designated as "the purchaser" or "the priestess". This will probably have been the κύριος of the woman in question, i.e. her closest and perhaps eldest male relative or her husband; for the association of male and female priest as part of a priesthood sold, though in a different context, cp. here <ref target="http://cgrn.ulg.ac.be/CGRN_98/">CGRN 98</ref> (Erythrai, priesthood of the Korybantes). The requirement that the priestess be a citizen is also found in other sales, but here it appears to be unusually detailed and specific: the priestess must be a Halikarnassian citizen on both sides of her ancestry and for three generations. The motivation behind this requirement may perhaps be attributed to the prytaneis and their oversight over this matter: the integration of the new cult into the city and community of Halikarnassos is to be ensured by a woman who is a true Halikarnassian (cp. now the new priestess of Nike, who must also be a citizen: Parker - Thonemann).</p>
+						
+<p>Lines 10-14: The priest of Zeus Nemeios at Theangela receives the exact same perquisites, with the addition of portions reserved or set aside for the god (presumably on a cult-table): <ref target="http://cgrn.ulg.ac.be/CGRN_119/">CGRN 119</ref>, lines 6-12. On the portions called τὰ ἐπὶ κωλῇ νεμόμενα, either portions distributed with the ham because anatomically connected with it, or on top of the thigh when it was presumably set on a cult table, see further Parker. In the case where citizens make a private sacrificial offering, i.e. at their own expense, the priestess receives her usual dues except the skins of the animals; these were valuable portions which the individuals in question would wish to recover and perhaps to sell.</p>
+	
+<p>Lines 14-21: The amount devoted to the public sacrifice, 30 drachmae, is not very important. It will have likely paid for a pair of sheep or a similar scale of offerings (cp. how 12 dr. is a standard price for sheep in Athens, cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_56">CGRN 56</ref>). This could have been supplemented by individual offerings and would nevertheless have provided a substantial amount of meat for the group of women. To a certain extent, the elite group of wives of the prytaneis sharing meat with the priestess replicates the model of the dinner in the prytaneion. But it is unclear how explicit this echo was: did the wives actually dine together with the priestess after the sacrifice? For direct female participation in the preparation of a sacrifice and in its resulting feast, cp. <ref target="http://cgrn.ulg.ac.be/CGRN_38/">CGRN 38</ref> (Chios, cult of Ilithyia).</p>
+						
+<p>Lines 23-25: The rite known as an ἐπικουρία is seldom attested by this name in the present Collection, though it perhaps corresponds to other rites "on behalf of the city" (ὑπὲρ πόλεως) sometimes required of priests. Here, the ritual is specified as being periodic, again stressing the political and communal bonds which are integral to the cult and its implementation. Since a small sum of 1 drachma is provided for the purpose of this entreaty or prayer on behalf of the city, the ritual may be thought to have also involved small concomitant offerings such as the burning of incense or a libation. Alternatively, since that is not specified, we might simply see this amount as a form of monthly priestly stipend: it derives from the income of the cult itself, cf. line 34.</p>
+						
+<p>Lines 25-28: The ἀγερμός is a form of ritual begging, which appears to have been especially typical of priestesses in Asia Minor and the eastern Aegean: cf. Robertson and see here <ref target="http://cgrn.ulg.ac.be/CGRN_167/">CGRN 167</ref>, line A23. In this case, the proceeds of the medicancy provide a financial bonus to the priestess. The main sacrifice of the cult remains to be properly understood as δημοτελής, since the city funds it; cf. lines 14-21 above. The month in question was Herakleios, as is specified in line 20. (In a different context, for the priestess called ἡ δημοτελής, stressing her public function as well as perhaps her confirmation in this status, cf. Pirenne-Delforge and Paul, with examples from other sources, notably Kos).</p>
+						
+<p>Lines 28-31: By this brief stipulation, the priestess is awarded the right to choose where the sanctuary of Artemis Pergaia will be located. However, the modalities for this construction, as well as of a money-box, remain unspecified in the present text. Perhaps once the choice had been made, a further decree of the city will have codified the parameters for the construction. The verbs may imply that the priestess, or at least her male κύριος, would have to fund the construction.</p> 
+						
+<p>Lines 30-32: For small sacrifical tariffs which need to be paid in the money-box and which provide funds for the cult and the sanctuary, cf. also here <ref target="http://cgrn.ulg.ac.be/CGRN_70/">CGRN 70</ref> (Oropos).</p>
+						
+<p>Lines 34-35: Regulations concerning priestly clothing usually specify its colour or other requirements, such as when it must be worn: cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_124/">CGRN 124</ref> (Pergamon), lines 1-4. Here, it seems that there is to be an allowance for the clothing of the priestess; if any special clothing was required, this was oddly omitted in the text. Combined with the 12 (or so) drachmae annually for the ἐπικουρία, this will apparently have been a sum of money provided to the priestess for her personal needs (her clothing and apparently also something else missing in the lacuna afterward).</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

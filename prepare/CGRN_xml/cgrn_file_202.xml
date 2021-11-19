@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_202" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 202</idno>: <rs type="textType" key="decree">Decree</rs> of Delphi concerning the donation of Attalos II (selection)</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+			<p> Rectangular <rs type="objectType">block</rs> of stone, broken above. Three holes have been pierced at the top, where a statue would have been attached.</p>
+			<p> <dimensions>
+				<height unit="cm">74</height>
+				<width unit="cm">66</width>
+				<depth unit="cm">64</depth>
+			</dimensions></p>
+			
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p>The block is engraved on two sides. The inscription starts on the front face, but does not fill it entirely: a space of about 10 cm is left below the last line. The text continues on the left side, but does not cover the stone entirely, some space being left at the bottom. The letters are engraved with care. We reproduce only lines 53-67 here from the inscription on the side, being concerned with sacrifice.</p>
+			<p> Height of letters: <height unit="cm">unknown</height>.</p> 	
+		</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0161" notAfter="-0158">160/159 BC or shortly after</origDate></p>
+							
+		<p><desc>Justification: first years of the co-regency of Attalos II.</desc></p>
+						</origin>
+						<provenance><p><ref target="http://pleiades.stoa.org/places/540726/" type="external"><placeName type="ancientFindspot" key="Delphi" n="Central_and_Northern_Greece">Delphi</placeName></ref>. Found in front of the Stoa of the Athenians.
+						</p></provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+<p> Edition here based on <bibl type="author_date" n="Bringmann - von Steuben 1995-2000">Bringmann - von Steuben 1995-2000</bibl>: 154-158 no. 94. NB this is an excerpt: we include lines 54-67 only.</p>
+	    			
+	    			<p> Other edition:                   
+	    				<bibl type="author_date" n="Haussoullier 1881">Haussoullier 1881</bibl>.  				
+	    			</p>
+	    			
+	    			<p> Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 77; <bibl type="abbr" n="SGDI">SGDI</bibl> 2642; <bibl type="author_date" n="Laum 1914">Laum 1914</bibl>: no. 28; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 80; Jacquemin - Mulliez - Rougemont <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl> 168. 
+	    				
+	    			</p>
+	    			
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Daux 1935">Daux 1935</bibl>;
+	    				<bibl type="author_date" n="Bommelaer - Laroche 1991">Bommelaer - Laroche 1991</bibl>;
+	    				<bibl type="author_date" n="Sosin 2004">Sosin 2004</bibl>: esp. 92-94; 
+	    				<bibl type="author_date" n="Iossif 2005">Iossif 2005</bibl>; 
+	    				<bibl type="author_date" n="Harris 2015">Harris 2015</bibl>;
+	    				<bibl type="author_date" n="Caneva 2016">Caneva 2016</bibl>.</p>
+	    			
+	  
+	    			
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+<lb/>(first 52 lines omitted)
+	    				
+	    				<lb xml:id="line_53" n="53"/>  <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> δὲ οἱ <name type="title"><w lemma="ἐπιμελητής">ἐπιμεληταὶ</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦς</w></name> <name type="age"><w lemma="τέλειος">τελεί
+	    					
+	    					<lb xml:id="line_54" n="54" break="no"/><supplied reason="lost">ους</supplied></w></name> <w lemma="τρεῖς"><supplied reason="lost">τρ</supplied>εῖς</w>, <w lemma="ὅς">οὕς</w> <w lemma="κα">κα</w> οἱ <name type="group"><w lemma="πολίτης">πολῖται</w></name> <w lemma="δίδωμι">δῶντι</w>, τῶι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> καὶ τᾶι <name type="deity" key="Leto"><w lemma="Λητώ">Λ<supplied reason="lost">α</supplied>
+	    						
+	    						<lb xml:id="line_55" n="55" break="no"/><supplied reason="lost">τοῖ</supplied></w></name> καὶ τᾶι <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιτι</w></name>, καὶ τὰ <w lemma="ἄλλος">ἄλλα</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> <w lemma="καθώς"><supplied reason="lost">καθ</supplied>ὼς</w> <name type="authority"><w lemma="διατάσσω">διατέτακ<supplied reason="lost">ται</supplied></w></name>
+	    				
+	    				<lb xml:id="line_56" n="56"/> <w lemma="ὑπέρ"><supplied reason="lost">ὑπ</supplied>ὲρ</w> τὸν <name type="title"><w lemma="βασιλεύς">βασιλέα</w></name> Ἄτταλον <name type="speechAct"><w lemma="προσαγορεύω">ποταγ<supplied reason="lost">ορ</supplied>εύοντες</w></name> τὰν <name type="sacrifice"><w lemma="θυσία">θυσ<supplied reason="lost">ί</supplied>
+	    					
+	    					<lb xml:id="line_57" n="57" break="no"/>αν</w></name> <name type="festival"><w lemma="Ἀτταλεῖον">Ἀττάλεια</w></name>. <name type="meal"><w lemma="καταχρέομαι">καταχρείσθωσαν</w></name> δὲ τὰ <name type="portion"><w lemma="κρέας">κρέα</w></name> <w lemma="ἐν"><supplied reason="omitted">ἐν</supplied></w> τὰν <name type="group"><name type="meal"><w lemma="δαμοθοινία">δαμοθ<supplied reason="lost">οι</supplied>
+	    						
+	    					<lb xml:id="line_58" n="58" break="no"/>νίαν</w></name></name> καὶ <name type="liquid"><w lemma="οἶνος">οἴνου</w></name> <w lemma="μετρητής">μετρητὰς</w> <w lemma="τεσσαράκοντα">τετταράκοντα</w>· τᾶι δὲ <w lemma="δωδέκατος">δωδεκάτ<supplied reason="lost">αι</supplied></w>
+	    				
+	    				<lb xml:id="line_59" n="59"/> τοῦ <name type="month"><w lemma="Ἡράκλειος">Ἡρακλείου</w></name> <w lemma="μείς">μηνὸς</w> <w lemma="ἔχω">ἐχέτωσαν</w> τὰ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> <w lemma="ἑτοῖμος">ἕτοιμα</w>, τᾶι δὲ
+	    				
+	    				<lb xml:id="line_60" n="60"/> <w lemma="τρεισκαιδέκατος">τρεισκαιδεκάται</w> <w lemma="πομπεύω">πομπευόντω</w> οἵ τε <name type="personnel"><w lemma="ἱερεύς">ἱερεῖς</w></name> τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνο<supplied reason="lost">ς</supplied></w></name>
+	    				
+	    				<lb xml:id="line_61" n="61"/> καὶ τῶν <w lemma="ἄλλος">ἄλλων</w> <name type="deity" key="Leto"><name type="deity" key="Artemis"><w lemma="θεός">θεῶν</w></name></name> καὶ <name type="title"><w lemma="πρύτανις">πρυτάνεις</w></name> καὶ <name type="title"><w lemma="ἄρχων">ἄρχοντες</w></name> καὶ οἱ
+	    				
+	    				<lb xml:id="line_62" n="62"/> <name type="group"><w lemma="παῖς">παῖδες</w></name> <name type="adornment"><w lemma="στεφανόω">ἐστεφανωμένοι</w></name>, <w lemma="πομπεύω">πομπευόντω</w> δὲ <w lemma="ἐκ">ἐκ</w> τᾶς <name type="locality"><w lemma="ἅλως">ἅλωος</w></name>
+	    				
+	    				<lb xml:id="line_63" n="63"/> <w lemma="ἐν">ἐν</w> τὸν <name type="structure"><w lemma="ναός">ναόν</w></name>· <w lemma="ἐπεί">ἐπεὶ</w> δέ <w lemma="κα">κα</w> <w lemma="πομπεύω">πομπεύσωντι</w> οἱ <name type="personnel"><w lemma="ἱερεύς">ἱερεῖς</w></name> τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλω
+	    					
+	    					<lb xml:id="line_64" n="64" break="no"/>νος</w></name>, <name type="invocation"><w lemma="κατεύχομαι">κατευχέστων</w></name> <name type="speechAct"><w lemma="προσαγορεύω">ποταγορεύοντες</w></name> τὰν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> <name type="festival"><w lemma="Ἀτταλεῖον">Ἀττά
+	    				
+	    <lb xml:id="line_65" n="65" break="no"/>λεια</w></name>, <name type="authority"><w lemma="καθώς">καθὼς</w></name> <name type="authority"><w lemma="εἰθίζω">εἴθισται</w></name>· <w lemma="ὅπως">ὅπως</w> δὲ καὶ <w lemma="ἐμφανής">ἐμφανῆ</w> <w lemma="εἰμί">ᾖ</w> τὰ <name type="authority"><w lemma="ψηφίζω">ἐψηφισμ<supplied reason="lost">έ</supplied>
+	    					
+	    					<lb xml:id="line_66" n="66" break="no"/>να</w></name>, <w lemma="ἀναγράφω">ἀναγράψαι</w> τὸ <name type="authority"><w lemma="ψήφισμα">ψάφισμα</w></name> <w lemma="ἐπί">ἐπὶ</w> τὰν <name type="object"><w lemma="εἰκών">εἰκόνα</w></name> τοῦ <name type="title"><w lemma="βασιλεύς">βασιλέως</w></name> Ἀττά
+	    						
+	    						<lb xml:id="line_67" n="67" break="no"/>λου. κτλ.
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p> The <foreign>epimeletai</foreign> are to sacrifice three adult [male?] oxen, which the citizens provide, to Apollo and Leto (55) and Artemis, and also the other sacrificial animals, as it has been ordained, in name of King Attalos, and they will proclaim the sacrifice as Attaleia. The meat must be consumed during the public feast, and fourty <foreign>metretai</foreign> of wine. On the 12th of the month Herakleios they should have the animals ready, and on the (60) 13th, the priests of Apollo and of the other gods, and the <foreign>prytaneis</foreign> and the <foreign>archons</foreign> and the boys, should walk in the procession, wearing a crown. They should walk in procession from the circular place to the temple. After the procession, the priests of Apollo should make a prayer, announcing that the sacrifices are called the Attaleia, (65) as it is usual. So that the decisions become known, they should inscribe the decree on the (base of the) image of King Attalos.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Que les épimélètes sacrifient trois bovins [mâles ?] adultes que les citoyens fournissent, à Apollon, Léto (55) et Artémis, ainsi que les autres animaux sacrificiels, comme il a été ordonné, au nom du roi Attale, et qu'ils proclament le sacrifice sous le nom d'Attaleia. Que la viande soit consommée lors du banquet public, ainsi que quarante métrètes de vin. Le 12 du mois d'Herakleios, que les animaux soient prêts et que, le (60) 13, les prêtres d'Apollon et des autres dieux, ainsi que les prytanes, les archontes et les garçons processionnent couronnés. Qu'ils marchent en procession depuis la place circulaire jusqu'au temple. Après la procession, que les prêtres d'Apollon prient en proclamant le sacrifice sous le nom d'Attaleia, (65) comme de coutume. Afin que les décisions soient connues, que le décret soit transcrit sur (la base de) la statue du roi Attale.
+					</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head> 
+<p>As this decree of the city of Delphi records, the Delphians had sent two consecutive embassies to Attalos II Philadelphos of Pergamon in order to ask for his generosity in providing for the education of the boys of the city (lines 1-5 of the text). When the second effort was successful, the king donated 18 000 Alexander-drachmae for this purpose, as well as a supplementary 3 000 drachmae for honorific ceremonies and sacrifices (αἱ τιμαὶ καὶ θυσίαι, line 9; cf. lines 5-9); the latter perhaps appear to have been an initiative of the sovereign, in response probably to existing sacrifices in his name (see below). The Delphians decided to consecrate the money to Apollo, and to then lend it out, in order to pay for the teachers and the festival from the interest (lines 10-14). The decree records decisions on the procedures for the loans, the appointment of officials in this context, and the penalties for misuse of the money. For a discussion of this document and other donations, see Harris, p. 72-75.</p>
+
+<p> This document is part of a group of four decrees concerning donations by Attalos II and his brother Eumenes II to the city of Delphi (see <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl> 165-168). Two other decrees describe the sending of ambassadors to Eumenes II and the king's gift of a large sum of money to buy grain and a smaller sum to celebrate the Eumenia, to restore the theatre, and to carry out other works (Bringmann - von Steuben, 93 E1, E2). A slightly later decree, <ref target="CGRN_204">CGRN 204</ref> (Bringmann - von Steuben, 93 E1, E2), concerns the details of the organisation of a (posthumous) festival for Eumenes II, which included sacrifices, a procession, a banquet, and a torch-race. Those festivities were to be celebrated on the 12th of the month Herakleios: this is one day before the Attaleia (see lines 60-65). Many phrases in <ref target="CGRN_204">CGRN 204</ref> are highly similar or identical to the text of the present inscription. Moreover, the Delphic foundation of Alkesippos, a somewhat earlier document dated to 182 BC (<bibl type="abbr" n="LSCG">LSCG</bibl> 81 / <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl> 137) apparently served as a partial model for the foundations of the Attaleia and the Eumeneia. As part of his will, this private individual from Kalydo, donated a sum of gold and silver so that the Delphians could organize, using the interest on the capital, a sacrifice and a δαμοθοινία; it was also stipulated that they should call the festival (ποτονομάζειν) the Alkesippeia. The festival was to take place in Herakleios, with a procession departing from the circular "threshing-floor" led by the priest of Apollo and prominent magistrates. Clearly, many elements of Alkesippos' endowment match those of Eumenes and Attalos. The parallel phrasing in this decree may be taken as a further argument that the Attaleia and Eumeneia are not strictly speaking examples of divine honours for these rulers: rather, they represent gifts to the city which honored the local gods, while at the same time memorialising the benefactors in the names of the new festivals.</p>	
+			
+<p> The largest part of the decree, not reproduced here (lines 1-52 and lines 68ff.), describes in great detail under which conditions the loans are to be given out, and how the proper use of the donation could be guaranteed. The measures that are taken make sure that only a few loans were made, and that the debtors would be (relatively) trustworthy. Since it was not possible to lend an amount of money lower than 5 <foreign>minai</foreign> (500 drachmae), and a piece of land worth twice the amount of the loan was to serve as a security, it seems likely that only the rich would benefit from the opportunity. The interest rate of 6.67 % being very low and the term of five years being rather long, the loans would also be very attractive to this group and so it would have been easy to find takers (cf. Sosin). A committee of three <foreign>epimeletai</foreign> was to be appointed to arrange all this, to pay the teachers, and to organize the festival. Any individual or magistrate who appropriated a sum of money
+would be persecuted for theft of sacred funds and had to pay it back eight-fold; if any decree was proposed or passed concerning a new destination for these moneys, the decree would be declared void. The <foreign>epimeletai</foreign> had to account for their management and use of these funds; if they could not do so satisfactorily they would also be persecuted for theft of sacred money.</p>
+		
+<p> The part that is reproduced here (lines 53-67) concerns the festival that was organized and called "Attaleia", which comprised sacrifices, a meal, and a procession. We encounter some interpretative difficulties regarding the first sentence (line 53-57). We read, translating portions of text in a linear way, that the <foreign>epimeletai</foreign> need to sacrifice three oxen, which the citizens give (οὕς κα οἱ πολῖται δῶντι), to Apollo and Leto and Artemis, and also the other sacrificial animals (τὰ ἀλλὰ ἱερεῖα) as it has been ordained ([καθ]ὼς διατέτακται), [ὑπ]ὲρ τὸν βασιλέα Ἄτταλον. One main difficulty here is the translation of the preposition ὑπέρ + acc. (if the restoration is correct), another is the scope of the phrase "ὑπέρ king Attalos". Both Haussoullier and Laum interpret the sentence as being divided in two parts: a sacrifice (of three oxen) for the three gods, and another sacrifice (of other animals) for king Attalos. Haussoullier translates "et les autres victimes ainsi qu'il a été décidé en l'honneur d'Attale". His interpretation seems to be the same as that of Laum: "das Dekret der Stadt ordnet ein Opfer für die Göttertrias Apollon, Leto und Artemis an, bestimmt ferner ein Opfer zu Ehren (ὑπέρ + acc.) des Stifters, nach dessen namen das Opfer 'Ἀττάλεια' gennant wird" (p. 64). This reading seems problematic. The most recent commentator, Bringmann, follows an old article by Daux, who studied the epigraphical attestations of ὑπέρ + acc. and who argued that the only correct usage of ὑπέρ + acc. in inscriptions is "in name of X, representing X, in the place of X". Thus, the sacrifices do not take place "in honour of Attalos", and Attalos is not given cultic honours as in ruler cult. Rather, "the sacrifice, which they proclaim as Attaleia" (ποραγ[ορ]εύοντες τὰν θυσ[ί]|αν Ἀττάλεια, lines 56-57) is made "in name of Attalos": the city makes sacrifices on his behalf. As far as the addition [καθ]ὼς διατέτακται is concerned, in Daux's view, the city of Delphi had decided to inaugurate sacrifices (it is not clear to which gods) which they performed in the name of King Attalos, even before they sent two embassees to Attalos to ask for his generosity. Thus, those sacrifices took place [καθ]ὼς διατέτακται. Later, when Attalos offered to contribute money for these sacrifices, the city of Delphi decided to add or continue to pay for three oxen, to be offered to Apollo, Leto and Artemis. The whole series of sacrifices together would then be performed ὑπέρ τὸν Βασιλέα Ἄτταλον, in the king's name, but in honour of these Delphic gods. For the debate concerning sacrifices and dedications with ὑπέρ followed by the name of a king, see Iossif and Caneva.</p>	
+
+<p> Lines 54-55: The "family group" of Leto, Apollo and Artemis is sometimes referred to as the "Delphic triad". These three gods are frequently depicted together in vase-paintings and statues. In epigraphy, another sacrifice to these three gods occurs in a regulation dating to 380/379, emanating from the Delphic Amphictyony (cf. <bibl type="abbr" n="LSCG">LSCG</bibl> 78). Elsewhere in our Collection, Apollo, Leto and Artemis receive collective worship at Epidauros (cf. <ref target="CGRN_34">CGRN 34</ref>).</p>
+								
+<p> Lines 57-58: It is not fully clear what the stipulation καταχρείσθωσαν δὲ τὰ κρέα ἐν τὰν δαμοθοινίαν (an exact parallel in <ref target="CGRN_204">CGRN 204</ref>, lines 6-7) means. It may have been a requirement to consume the sacrificial meat on the spot, during the public feast (there and then), as for example in <ref target="CGRN_141">CGRN 141</ref> (Lindos), line 5: τὰ θυθέντ[α αὐτεῖ] καταχρῆ[σθαι]. More broadly, the intention of the phrase appears to specify not only the timing or the place, but the participants of the meal, which would be the whole citizen body or δᾶμος, no portions being apparently reserved for special individuals. Fourty <foreign>metretai</foreign> is a substantial amount, about 1560 litres of wine (Hausoullier, p. 175).</p>
+						
+<p> Lines 58-59: The stipulation that animals need to be "ready" the day before the festival seems unparalleled, though not unexpected. Perhaps this requirement was related to the purchase of the animals, which should not happen at the last moment; cf. also <ref target="CGRN_86">CGRN 86</ref> A (Kos), for the elaborate selection of an ox on the day prior to the sacrifice.</p>
+						
+<p>Lines 59-63: The procession took place with a heavy delegation, consisting of all priests, prominent political figures, and the boys themselves. These male children form an appropriate part of the procession, being in some sense the main beneficiaries of the donation. The requirement of "wearing a wreath" (ἐστεφανωμένοι) could grammatically belong to only the latter or to all of these groups: it is therefore possible that only the boys wore wreaths, but also that all participants did so; cf. <ref target="CGRN_185">CGRN 185</ref> (Lampsakos), lines 17-18, for an example in which all citizens wore wreaths during the time of the festival. The procession held in the context of the Alkesippeia at Delphi (<bibl type="abbr" n="LSCG">LSCG</bibl> 81) also started from the ἅλως, the Circular Area which has been traditionally (but not necessarily convincingly) located at the heart of the sanctuary, in front of the Stoa of the Athenians and near the inscribed statue of Attalos II (see the map in Bommelaer - Laroche, p. 140); cf. the procession during the Eumeneia (<ref target="CGRN_204">CGRN 204</ref>) for the same location, with further discussion in the commentary at lines 8-16.</p>
+		
+<p> Line 63-65: It is not entirely clear precisely which aspect of these measures is to be performed "as usual" (καθὼς εἴθισται). In a decree concerning the Eumenia, <ref target="CGRN_204">CGRN 204</ref> (Delphi), we find almost exactly the same prescription: οἱ δὲ ἱερεῖς τοῦ Ἀπόλλωνος, ἐ|πεί κα πομπεύσωντι, κατευχέσθωσαν τὰ Εὐμένεια καθὼς νομίζεται (lines 19-20). The "customary" way of doing things was no doubt proclaiming the name of the benefactor and making other invocations, so that his contribution would be remembered and his person would be honoured in perpetuity (cf. also Haussoullier, p. 175). A further possibility is that the sacrifices made in the name of Attalos were already in place before the King's donation (Daux's hypothesis, cf. Commentary above), and so the proclamation of his name was already something which had become "customary", καθὼς εἴθισται.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_97" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 97</idno>: Fragmentary <rs type="textType" key="sacrificial regulation">regulation</rs> concerning a female festival at Mylasa</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of marble <rs type="objectType">block</rs> of uncertain depth. The block was broken on all sides and partly effaced on its right portion.</p>
+			<p><dimensions>
+					<height unit="cm">24</height>
+					<width unit="cm">49</width>
+					<depth unit="cm">unknown</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">8</height>. Punctuation is preserved in a few lines (6, 8 and 13) and appears to introduce new clauses in the regulation.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0350" notAfter="-0300">ca. 350-300 BC</origDate></p>
+			<p><desc>Justification: Ionic dialect and lettering. Blümel, following the original editors, supposes that the small letterforms (sometimes with thick ends to the hastae) suggest a Hellenistic copy of an earlier 4th-century-BC document (i.e. in the period of the Hekatomnid dynasty). However, there is no firm reason to suppose that the text could not date to the latter half of the 4th century BC in its own right, especially to post-Hekatomnid period.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Mylasa" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599809" type="external">Mylasa</ref></placeName>. Found reused in a private house in the town of Milas. Current location unknown, perhaps lost.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Blümel <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 303, with a drawing by Szanto (one of the ed. pr.). We adopt fewer of the uncertain restorations proposed in that edition, most of them following Sokolowski.</p>
+					<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 15, 646; Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 61.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    			<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_1" n="1"/>	<gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ΞΙΙΗ</unclear>ΝΔ</orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>Α</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>Ω</unclear></orig><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_2" n="2"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὰς</supplied> <name type="person"><w lemma="γυνή"><supplied reason="lost">γυ</supplied>ναῖκας</w></name> <w lemma="μή">μὴ</w> <w lemma="ἅπτω">ἅπτεσθαι</w> <orig>ΙΛ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3"/><gap reason="lost" extent="unknown" unit="character"/>ωσιν, <w lemma="ἐκεῖθεν">ἐκεῖθεν</w> <w lemma="ἅπτω">ἁπτέσθωσαν</w> καὶ <orig><unclear>Λ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_4" n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὅταν"><supplied reason="lost">ὅταν</supplied></w> <supplied reason="lost">δὲ</supplied> αἱ <name type="object"><w lemma="λαμπάς">λαμπάδες</w></name> <w lemma="φέρω">φέρωνται</w>, <w lemma="μή">μὴ</w> <w lemma="ὠθέω">ὠθεῖ<unclear>ν</unclear></w> <w lemma="ἀλλήλων"><supplied reason="lost">ἀλλήλας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_5" n="5"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὰ</supplied> <name type="authority"><w lemma="νομίζω"><supplied reason="lost">νομι</supplied><unclear>ζ</unclear>όμενα</w></name> <w lemma="ὡς">ὡς</w> <w lemma="δοκέω">ἔδοξε</w> ταῖς <name type="person"><w lemma="γυνή">γυναι<unclear>ξ</unclear><supplied reason="lost">ὶ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_6" n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <w lemma="πρότερος"><supplied reason="lost">πρ</supplied><unclear>ό</unclear>τερον</w> <w lemma="ποιέω">ποεῖν</w> ἢ <name type="speechAct"><w lemma="κηρύσσω">κηρυχθῆι</w></name> <pc>:</pc> τὴν ἀμφο<gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_7" n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="τρέπω"><supplied reason="lost">(ἐπι)τ</supplied>ρέπεσθαι</w> ταῖς <name type="personnel"><w lemma="ἱέρεια">ἱερείαις</w></name> καὶ <w lemma="ἐπειδάν">ἐπειδὰν</w> <orig>α</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_8" n="8"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τ</supplied>αῖς <name type="personnel"><w lemma="ἱέρεια">ἱερείαις</w></name> <w lemma="παραδίδωμι">παραδιδόναι</w> <pc>:</pc> <name type="person"><w lemma="ἀνήρ">ἄνδρα</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_9" n="9"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="unclear">ξάμενος</w> τὰ <name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name> <w lemma="ἄπειμι">ἀπί<unclear>τ</unclear>ω</w> <w lemma="ἐκ">ἐ<supplied reason="lost">κ</supplied></w> τῶ<supplied reason="lost">ν</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_10" n="10"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὅταν"><supplied reason="lost">ὅταν</supplied></w> <supplied reason="lost">δὲ</supplied> <name type="meal"><w lemma="δεῖπνον"><supplied reason="lost">δε</supplied>ῖπνον</w></name> <w lemma="παρατίθημι">παραθέωσι</w> καὶ <name type="meal"><w lemma="δειπνέω">δεδει<supplied reason="lost">πνηκ</supplied></w></name><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_11" n="11"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΑΗΙ</orig> <w lemma="μήτε">μήτε</w> <name type="personnel"><w lemma="διακονέω">διακονεω</w></name><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_12" n="12"/><gap reason="lost" extent="unknown" unit="character"/> <name type="adornment"><w lemma="στεφανόω"><supplied reason="lost">(ἐ)στεφ</supplied>ανωμένος</w></name> ἢ <w lemma="παίζω">παίζω<supplied reason="lost">ν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_13" n="13"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΙΣ</orig> <pc>:</pc> <name type="person"><w lemma="δοῦλος">δοῦλος</w></name> <name type="punishment"><w lemma="μαστιγόω">μαστιγω</w></name><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_14" n="14"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τῆς δὲ</supplied> <name type="festival"><w lemma="ἑορτή"><supplied reason="lost">ἑο</supplied>ρτῆς</w></name> <w lemma="εἰμί">ἐούσης</w> <w lemma="μηδείς">μηδὲν</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_15" n="15"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΟΣ</orig> ταῖς <w lemma="ἡμέρα">ἡμέραις</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_16" n="16"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τ</supplied><unclear>ὸ</unclear> <w lemma="δεκαπλάσιος">δεκαπλάσιον</w> καὶ τῆι <name type="deity" key="unclear"><w lemma="θεά"><unclear>θ</unclear><supplied reason="lost">εᾶι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_17" n="17"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΗΜ</orig><gap reason="lost" quantity="2" unit="character" precision="low"/><orig>ΘΕΛ<unclear>Ε</unclear>ΙΑ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_18" n="18"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΗΤΗΝΔΟ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_19" n="19"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ΦΛ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						[...] women are not to light [... (i.e. their torches/lamps) ...] from there let them light (them) and [...]. [Whenever] lamps are being carried, (the women) are not to jostle [one another ... (5) ...] the customary things as the women decided [...] do not do [x] before the herald has proclaimed it; the [...] is handed over to the priestesses, and when [...], [then x] is handed over to the priestesses; a man [...] having [x] the sacred things (animals?) let him go out of the [... (10) ... whenever] they have served a meal and [have dined?] [...] not serving [...] (someone) wearing a crown or jesting [...]; a slave, [let him be?] whipped [...] when the festival is taking place nothing [... (15) ... on] the days [...] the ten-fold (amount) and to the [goddess? ...]</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+				[...] les femmes ne doivent pas allumer [... (i.e. leurs torches/lampes) ...] de là qu'elles (les) allument et [...]. [Lorsque] des lampes sont transportées, (les femmes) ne doivent pas se pousser [les unes les autres ... (5) ...] ce qui est de tradition comme les femmes en ont décidé [...] ne pas faire [x] avant que le héraut ne l'ait proclamé; le [...] est donné aux prêtresses, et quand [...], [alors x] est confié aux prêtresses; un homme [...] ayant [x] les choses sacrées (animaux ?), qu'il s'en aille hors des [... 10 ... quand] ils/elles ont servi un repas et qu'ils/elles ont dîné (?) [...] ne servant pas [...] (quelqu'un) portant une couronne ou plaisantant [...]; un esclave, [qu'il soit ?] fouetté [...] quand la fête a lieu, rien [... (15) ... durant ?] les jours [...] le décuple et à la [déesse ? ...]
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+
+<p>This document, though fragmentary, is nonetheless highly interesting in the details it mentions in connection with a female cult. It is probably a regulation emanating from the <foreign>polis</foreign> of Mylasa, given the extensive punishments and fines which appear to have been specified for contravening aspects of the regulation (lines 11-16 at least). The precise character of the cult described in the regulation cannot be absolutely ascertained, though some reasonable suggestions can be made, which point in the direction of a substantial festival (cf. line 14, <supplied reason="lost">ἑο</supplied>ρτῆς), perhaps consisting of several days (cf. line 15). </p>
+
+						<p>As several factors indicate, this occasion might be identified with, or at least likened to, the Thesmophoria. Most notably, there is the strong female-only element in the regulation, esp. lines 1-5, and particularly the allusion to what appears to be an independent female assembly or decision-making body in line 5: ὡς ἔδοξε ταῖς γυναι<unclear>ξ</unclear><supplied reason="lost">ὶ</supplied>. This strongly recalls the tradition concerning female political meetings during the festival, much parodied in Aristophanes (<title>Th.</title> 372-380; cp. also other female-only festivals like the Skira, and <ref target="http://cgrn.ulg.ac.be/CGRN_79/">CGRN 79</ref>, Cholargos, line 3). Other supporting elements for this hypothesis include the torchlit procession described in lines 2-4 of the inscription, which we can infer from the mention of lighting and carrying torches. This perhaps suggests a nocturnal celebration or <foreign>pannychis</foreign>. Also, the mention of several priestesses involved in the cult, lines 7-8, suggests a group of goddesses like Demeter and Kore (cf. <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 309 for a small fragment mentioning Demeter, priestesses, a piglet sacrifice to Hekate, and apparently a man). Also noteworthy are the apparent exclusion of men with one exception, lines 8-9; and the apparent solemnity of the rites, line 12, which if disregarded might be punishable. A tantalising mention of a goddess in line 16, if correct, does not contribute to answering the question, however, and a fair amount of this fragment remains impalpable.</p>
+							
+<p>Lines 2-4: This passage is concerned with a torch procession. The women are probably being instructed not to light their torches except from a specific place, "from there", perhaps an altar with a burning fire. The procession is to take place in an orderly fashion, perhaps under the supervision of a <foreign>gynaikonomos</foreign> or the herald mentioned in the text. </p>
+
+<p>Lines 6-8: These lines are rather obscure, but they appear to suggest both that the herald controlled when a certain part of the festival could take place, and that a substantial portion of the rituals performed were entrusted to a group of priestesses. At the end of line 7, ἀ<supplied reason="lost">νενεχθῆι</supplied> is restored in Blümel's text, which is gratuitous but might yield a good sense: something was to be carried forward, in order to then be handed over to the priestesses.</p>
+										
+						<p>Lines 8-9: The most abudant restorations have been suggested for this line, notably by Sokolowski, who is essentially followed by Blümel. In line 8, they propose ἄνδρα <supplied reason="lost">μὴ παρεῖναι ἐν τοῖς ἱεροῖς</supplied>, which does yield good sense, that men are essentially excluded from the rites, but seems rather incautious. Bolder still is the proposal for the beginning of line 9: <supplied reason="lost">ὁ δὲ δημόσιος σφα</supplied>ξάμενος. According to this interpretation, the one exception to the prohibition against men is a civic slave who is instructed to perform the sacrifices and then depart from the area (presumably a sanctuary). Beyond the unattested civic slave, the major problem with this restoration is the phrase <supplied reason="lost">σφα</supplied>ξάμενος τὰ ἱερὰ. The middle voice for the verb σφάζω is wholly unexpected, nor is it especially clear that τὰ ἱερὰ ought to refer to sacrificial animals here. A likelier candidate for the sole male actor performing these important gestures is either the man mentioned in the preceding line (8) or an official at Mylasa like the herald (see line 6) or the <foreign>gynaikonomos</foreign>. Cp. the regulation from Methymna, which defines the role of the <foreign>gynaikonomos</foreign> in a (perhaps Dionysiac) clearly female nighttime celebration: <bibl type="abbr" n="LSCG">LSCG</bibl> 127. He is the sole male in attendance and must make sure that no other men intrude on the rites.</p>
+											
+<p>Lines 10-12: These lines are also fairly obscure, but appear to contain provisions concerning feasting, perhaps on the next day and now apparently including men. The clause in line 12 may represent a further prohibition concerning the celebrations. The solemnity or serious aspect of the feast is apparently emphasised: perhaps no crowns are to be worn and no playful behaviour is tolerated?</p>
+												
+<p>Line 13: A slave caught in infraction of the regulation was to be whipped, which is standard punishment in such a case. A passive form of the verb is likely to be restored, though it is difficult to be sure which, cp. e.g. <bibl type="abbr" n="IG II²">IG II²</bibl> 1362 (ca. 325-300 BC), lines 9-10: ἂν μὲν δοῦλος εἶ ὁ λη[φ]θείς, μαστιγώ[σ]|εται πεντήκοντα πληγὰς. Cp. the monetary fine which is apparently stipulated in line 16 (a tenfold amount).</p>
+													
+<p>Line 17: The second set of visible traces could be a slight mistake for θήλεια(-), but one cannot be sure.
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

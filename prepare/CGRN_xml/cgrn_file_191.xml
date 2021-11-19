@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_191" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 191</idno>: <rs type="textType" key="dossier of regulations">Dossier of regulations</rs> from a private cult at Philadelphia in Lydia</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<p>
+<rs type="objectType">Stele</rs> of white marble, broken on the right and reworked below; broken in two pieces; the back of the side is unworked.</p>
+									<p>
+										<dimensions>
+											<height unit="cm">98</height>
+											<width unit="cm">28</width>
+											<depth unit="cm">8</depth>
+										</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+									<p>The first line is written in larger letters.</p>
+									<p> Letters: <height unit="cm">1.4</height> (line 1); <height unit="cm">0.9</height> (lines 2
+										onwards).</p>
+								</layout>
+							</layoutDesc>
+
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0125" notAfter="-0075">ca. 125-75 BC</origDate></p>
+							<p><desc>Justification: lettering (Petzl).</desc></p>
+						</origin>
+						<provenance><p><ref target="http://pleiades.stoa.org/places/550822" type="external"><placeName type="ancientFindspot" key="Philadelphia" n="Asia_Minor_and_Anatolia">Philadelphia</placeName></ref>, in Lydia. Current location unknown (squeeze and pencil drawing in Vienna).</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+
+				<p> Edition here based on Petzl <bibl type="abbr" n="TAM V.3">TAM V.3</bibl> 1539; in lines 46-47, we restore [ἔ]|σονται (with Sokolowski).</p>
+
+				<p> Other edition: <bibl type="author_date" n="Keil - von Premerstein 1914">Keil - von Premerstein 1914</bibl>: no. 18, with ph. of squeeze.</p>
+
+				<p> Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 20; Pleket in <bibl type="abbr" n="SEG">SEG</bibl> 48, 1455.</p>
+
+				<p> Further bibliography:
+					<bibl type="author_date" n="Wächter 1910">Wächter 1910</bibl>;
+					<bibl type="author_date" n="Weinreich 1919">Weinreich 1919</bibl>;
+					<bibl type="author_date" n="Chaniotis 1997">Chaniotis 1997</bibl>;
+					<bibl type="author_date" n="Stowers 1998">Stowers 1998</bibl>;
+					<bibl type="author_date" n="Ogden 2002">Ogden 2002</bibl>: 276-277 no. 279; <bibl type="author_date" n="Chaniotis 2004">Chaniotis 2004</bibl>; <bibl type="author_date" n="Peels-Matthey 2018">Peels-Matthey 2018</bibl>. </p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+
+				<ab>
+
+<lb xml:id="line_1" n="1"/> <name type="epithet" key="Agathe"><w lemma="ἀγαθός">ἀγαθῆι</w></name> <name type="deity" key="Tyche"><w lemma="τύχη">τ<supplied reason="lost">ύχηι</supplied></w></name><supplied reason="lost">·</supplied> <supplied reason="lost">·</supplied> <supplied reason="lost"><space extent="unknown" unit="character"/></supplied>
+
+<lb xml:id="line_2" n="2"/> <w lemma="ἀναγράφω">ἀνεγράφησαν</w> <w lemma="ἐπί">ἐφ᾽</w> <w lemma="ὑγίεια">ὑγιείαι</w> κα<supplied reason="lost">ὶ</supplied> <w lemma="κοινός"><supplied reason="lost">κοινῆι</supplied></w> <w lemma="σωτηρία"><supplied reason="lost">σωτηρίαι</supplied></w>
+
+<lb xml:id="line_3" n="3"/> καὶ <w lemma="δόξα">δόξηι</w> τῆι <w lemma="ἄριστος">ἀρίστηι</w> τὰ <w lemma="δίδωμι">δοθέ<supplied reason="lost">ντα</supplied></w> <name type="authority"><w lemma="παράγγελμα"><supplied reason="lost">παραγγέλμα</supplied>
+
+	<lb xml:id="line_4" n="4" break="no"/>τα</w></name> Διονυσίωι <w lemma="κατά">καθ᾽</w> <w lemma="ὕπνος">ὕπνον</w> <w lemma="πρόσοδος">π<supplied reason="lost">ρόσοδον</supplied></w> <w lemma="δίδωμι"><supplied reason="lost">διδόν</supplied>
+
+		<lb xml:id="line_5" n="5" break="no"/>τ'</w> <w lemma="εἰς">εἰς</w> τὸν <w lemma="ἑαυτοῦ">ἑαυτοῦ</w> <name type="structure"><w lemma="οἶκος">οἶκον</w></name> <name type="person"><w lemma="ἀνήρ">ἀνδρά<supplied reason="lost">σι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="person"><w lemma="γυνή"><supplied reason="lost">γυναιξὶν</supplied></w></name>
+
+<lb xml:id="line_6" n="6"/> <w lemma="ἐλεύθερος">ἐλευθέροις</w> καὶ <name type="person"><w lemma="οἰκέτης">οἰκέατις</w></name>· <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name> <supplied reason="lost">γὰρ</supplied> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <w lemma="οὗτος"><supplied reason="lost">τούτωι</supplied></w>
+
+<lb xml:id="line_7" n="7"/> τοῦ <name type="epithet" key="Eumenes"><w lemma="εὐμενής">Εὐμενοῦς</w></name> καὶ <name type="deity" key="Hestia"><w lemma="Ἑστία">Ἑστίας</w></name> τ<supplied reason="lost">ῆς</supplied> <w lemma="πάρεδρος"><supplied reason="lost">παρέδρου</supplied></w> <w lemma="αὐτός"><supplied reason="lost">αὐ</supplied>
+
+	<lb xml:id="line_8" n="8" break="no"/>τοῦ</w> καὶ τῶν <w lemma="ἄλλος">ἄλλων</w> <name type="deity" key="generic"><w lemma="θεός">θεῶν</w></name> <name type="epithet" key="Soter"><w lemma="σωτήρ">Σωτ<supplied reason="lost">ήρων</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="deity" key="Eudaimonia"><w lemma="εὐδαιμονία"><supplied reason="lost">Εὐδαι</supplied>
+
+		<lb xml:id="line_9" n="9" break="no"/>μονίας</w></name> καὶ <name type="deity" key="Ploutos"><w lemma="πλοῦτος">Πλούτου</w></name> καὶ <name type="deity" key="Arete"><w lemma="ἀρετή">Ἀρετῆς</w></name> <supplied reason="lost">καὶ</supplied> <name type="deity" key="Hygieia"><w lemma="ὑγίεια"><supplied reason="lost">Ὑγιείας</supplied></w></name>
+
+<lb xml:id="line_10" n="10"/> καὶ <name type="deity" key="Tyche"><w lemma="τύχη">Τύχης</w></name> <name type="epithet" key="Agathe"><w lemma="ἀγαθός">Ἀγαθῆς</w></name> καὶ <name type="epithet" key="Agathos"><w lemma="ἀγαθός">Ἀγαθοῦ</w></name> <name type="deity" key="Daimon"><w lemma="δαίμων"><supplied reason="lost">Δαίμονος</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="deity" key="Mneme"><w lemma="μνήμη"><supplied reason="lost">Μνή</supplied>
+
+	<lb xml:id="line_11" n="11" break="no"/>μης</w></name> καὶ <name type="deity" key="Charites"><w lemma="χάρις">Χαρίτων</w></name> καὶ <name type="deity" key="Nike"><w lemma="νίκη">Νίκης</w></name> <w lemma="εἰμί">εἰσὶν</w> <w lemma="ἱδρύω">ἱδ<supplied reason="lost">ρυμένοι</supplied></w> <name type="structure"><w lemma="βωμός"><supplied reason="lost">βωμοί</supplied></w></name><supplied reason="lost">·</supplied>
+
+<lb xml:id="line_12" n="12"/><w lemma="οὗτος">τούτ<supplied reason="lost">ωι</supplied></w> <w lemma="δίδωμι">δέδωκεν</w> ὁ <name type="authority"><name type="deity" key="Zeus"><w lemma="Ζεύς">Ζεὺς</w></name></name> <w lemma="παράγγελμα">παραγγέλ<supplied reason="lost">ματα</supplied></w> <supplied reason="lost">τούς</supplied> <supplied reason="lost">τε</supplied> <name type="purification"><w lemma="ἁγνισμός"><supplied reason="lost">ἀ</supplied>
+
+	<lb xml:id="line_13" n="13" break="no"/>γνισμοὺς</w></name> καὶ τοὺς <name type="purification"><w lemma="καθαρμός">καθαρμοὺς</w></name> κ<supplied reason="lost">αὶ</supplied> <supplied reason="lost">τὰ</supplied> <w lemma="μυστήριον"><supplied reason="lost">μυστήρια (?)</supplied></w> <w lemma="ἐπιτελέω"><supplied reason="lost">ἐπι</supplied>
+
+		<lb xml:id="line_14" n="14" break="no"/>τελεῖν</w> <w lemma="κατά">κατά</w> τε τὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name> καὶ <w lemma="ὡς">ὡς</w> <w lemma="νῦν">νῦν</w> <name type="authority"><w lemma="γράφω"><supplied reason="lost">γέγραπται</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="πορεύω"><supplied reason="lost">πορευ</supplied>
+
+			<lb xml:id="line_15" n="15" break="no"/>όμενοι</w> <w lemma="εἰς">εἰς</w> τὸν <name type="structure"><w lemma="οἶκος">οἶκον</w></name> τοῦτον <name type="person"><w lemma="ἀνήρ">ἄνδρε<supplied reason="lost">ς</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="person"><w lemma="γυνή"><supplied reason="lost">γυναῖκες</supplied></w></name>
+
+<lb xml:id="line_16" n="16"/><w lemma="ἐλεύθερος">ἐλεύθεροι</w> καὶ <name type="person"><w lemma="οἰκέτης">οἰκέται</w></name> τοὺς <name type="deity" key="generic"><w lemma="θεός">θεοὺς</w></name> <w lemma="πᾶς"><supplied reason="lost">πάντας</supplied></w> <name type="speechAct"><w lemma="ὁρκόω"><supplied reason="lost">ὁρκούσ</supplied>
+
+	<lb xml:id="line_17" n="17" break="no"/>θωσαν</w></name> <w lemma="δόλος">δόλον</w> <w lemma="μηδείς">μηθένα</w> <w lemma="μήτε">μήτε</w> <w lemma="ἀνήρ">ἀνδρὶ</w> <w lemma="μήτε">μή<supplied reason="lost">τε</supplied></w> <w lemma="γυνή"><supplied reason="lost">γυναικὶ</supplied></w> <w lemma="οἶδα"><supplied reason="lost">εἰδό</supplied>
+
+		<lb xml:id="line_18" n="18" break="no"/>τες</w> <w lemma="μή">μὴ</w> <name type="object"><w lemma="φάρμακον">φάρμακον</w></name> <w lemma="πονηρός">πονηρὸν</w> <w lemma="πρός">πρὸς</w> <name type="person"><w lemma="ἄνθρωπος">ἀνθ<supplied reason="lost">ρώπους</supplied></w></name><supplied reason="lost">,</supplied> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <name type="speechAct"><w lemma="ἐπῳδή"><supplied reason="lost">ἐπωι</supplied>
+
+			<lb xml:id="line_19" n="19" break="no"/>δὰς</w></name> <w lemma="πονηρός">πονηρὰς</w> <w lemma="μήτε">μήτε</w> <w lemma="γιγνώσκω">γινώσκειν</w> <w lemma="μήτε">μή<supplied reason="lost">τε</supplied></w> <w lemma="ἐπιτελέω"><supplied reason="lost">ἐπιτελεῖν</supplied></w><supplied reason="lost">,</supplied> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w>
+
+<lb xml:id="line_20" n="20"/><name type="object"><w lemma="φίλτρον">φίλτρον</w></name>, μὴ <w lemma="φθορεῖον">φθορεῖον</w>, <w lemma="μή">μὴ</w> <w lemma="ἀτοκεῖον"><supplied reason="lost">ἀτ</supplied>οκεῖον</w>, <w lemma="μή">μ<supplied reason="lost">ὴ</supplied></w> <w lemma="ἄλλος"><supplied reason="lost">ἄλλο</supplied></w> <w lemma="τις"><supplied reason="lost">τι</supplied></w> <name type="death"><w lemma="παιδοφόνος"><supplied reason="lost">παιδο</supplied>
+
+	<lb xml:id="line_21" n="21" break="no"/>φόνον</w></name> <w lemma="μήτε">μήτε</w> <w lemma="αὐτός">αὐτοὺς</w> <w lemma="ἐπιτελέω">ἐπιτελεῖν</w> <w lemma="μήτε">μήτε</w> <w lemma="ἕτερος"><supplied reason="lost">ἑτέρωι</supplied></w> <w lemma="συμβουλεύω"><supplied reason="lost">συμβου</supplied>
+
+		<lb xml:id="line_22" n="22" break="no"/>λεύειν</w> <w lemma="μηδέ">μηδὲ</w> <w lemma="συνιστορέω">συνιστορεῖν</w>, <w lemma="ἀποστερέω">ἀποστερ<supplied reason="lost">οῦντες</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="μηδείς"><supplied reason="lost">μη</supplied>
+
+			<lb xml:id="line_23" n="23" break="no"/>δὲν</w> <w lemma="εὐνοέω">εὐνοεῖν</w> τῶι <name type="structure"><w lemma="οἶκος">οἴκωι</w></name> <w lemma="ὅδε">τῶιδε</w>, καὶ <w lemma="ἐάν">ἐὰν</w> <w lemma="τις">τ<supplied reason="lost">ις</supplied></w> <w lemma="οὗτος"><supplied reason="lost">τούτων</supplied></w> <w lemma="τις"><supplied reason="lost">τι</supplied></w> <w lemma="ποιέω"><supplied reason="lost">ποι</supplied>
+
+				<lb xml:id="line_24" n="24" break="no"/>ῆι</w> ἢ <w lemma="ἐπιβουλεύω">ἐπιβο<supplied reason="lost">υλε</supplied>ύῃ</w>, <w lemma="μήτε">μήτε</w> <w lemma="ἐπιτρέφω">ἐπιτρέψειν</w> <w lemma="μήτε">μή<supplied reason="lost">τε</supplied></w> <name type="speechAct"><w lemma="παρασιωπάω"><supplied reason="lost">παρασιω</supplied>
+
+<lb xml:id="line_25" n="25" break="no"/><supplied reason="lost">πήσ</supplied>ειν</w></name>, <w lemma="ἀλλά"><supplied reason="lost">ἀλ</supplied>λ'</w> <name type="speechAct"><w lemma="ἐμφανίζω">ἐμφανιεῖν</w></name> καὶ <w lemma="ἀνύνω">ἀμυνεῖσθ<supplied reason="lost">αι</supplied></w><supplied reason="lost">·</supplied> <name type="person"><w lemma="ἀνήρ"><supplied reason="lost">ἄνδρα</supplied></w></name> <w lemma="παρά"><supplied reason="lost">παρὰ</supplied></w>
+
+<lb xml:id="line_26" n="26"/> <supplied reason="lost">τὴν</supplied> <w lemma="ἑαυτοῦ">ἑαυτοῦ</w> <name type="person"><w lemma="γυνή">γυναῖκα</w></name> <w lemma="ἀλλότριος">ἀλλοτρίαν</w> ἢ <w lemma="ἐλεύθερος"><supplied reason="lost">ἐλευθέραν</supplied></w> <supplied reason="lost">ἢ</supplied>
+
+<lb xml:id="line_27" n="27"/> <w lemma="δοῦλος">δούλην</w> <name type="person"><w lemma="ἀνήρ">ἄνδρα</w></name> <w lemma="ἔχω">ἔχουσαν</w> <w lemma="μή">μὴ</w> <name type="sex"><w lemma="φθείρω">φθερε<supplied reason="lost">ῖν</supplied></w></name> <w lemma="μηδέ"><supplied reason="lost">μηδὲ</supplied></w> <name type="person"><w lemma="παῖς"><supplied reason="lost">παῖδα</supplied></w></name> <w lemma="μηδέ"><supplied reason="lost">μη</supplied>
+
+	<lb xml:id="line_28" n="28" break="no"/><supplied reason="lost">δὲ</supplied></w> <name type="person"><w lemma="παρθένος">παρθένον</w></name> <w lemma="μηδέ">μηδὲ</w> <w lemma="ἕτερος">ἑτέρωι</w> <w lemma="συμβουλεύω">συμβου<supplied reason="lost">λεύσειν</supplied></w><supplied reason="lost">,</supplied> <w lemma="ἀλλά"><supplied reason="lost">ἄλλ'</supplied></w> <w lemma="ἄν"><supplied reason="lost">ἄν</supplied></w> <w lemma="τις"><supplied reason="lost">τι</supplied>
+
+		<lb xml:id="line_29" n="29" break="no"/>νι</w> <w lemma="συνιστορέω">συνιστορήσηι</w>, τὸν <w lemma="τοιοῦτος">τοιοῦτον</w> <name type="speechAct"><w lemma="φανερός">φα<supplied reason="lost">νερὸν</supplied></w></name> <w lemma="ποιέω"><supplied reason="lost">ποιήσειν</supplied></w>
+
+<lb xml:id="line_30" n="30"/>καὶ τὸν <name type="person"><w lemma="ἀνήρ">ἄνδρα</w></name> καὶ τὴν <name type="person"><w lemma="γυνή">γυναῖκα</w></name> καὶ <w lemma="μή">μ<supplied reason="lost">ὴ</supplied></w> <w lemma="ἀποκρύπτω"><supplied reason="lost">ἀποκρύψειν</supplied></w> <w lemma="μηδέ"><supplied reason="lost">μη</supplied></w>
+
+<lb xml:id="line_31" n="31" break="no"/>δὲ <name type="speechAct"><w lemma="παρασιωπάω">παρασιωπήσειν</w></name>· <name type="person"><w lemma="γυνή">γυνὴ</w></name> καὶ <name type="person"><w lemma="ἀνήρ">ἀνήρ</w></name>, <w lemma="ὅς">ὃς</w> <w lemma="ἄν">ἂ<supplied reason="lost">ν</supplied></w> <w lemma="ποιέω"><supplied reason="lost">ποιῆι</supplied></w> <w lemma="τις"><supplied reason="lost">τι</supplied></w> <supplied reason="lost">τῶν</supplied> <w lemma="προγράφω"><supplied reason="lost">προ</supplied>
+
+	<lb xml:id="line_32" n="32" break="no"/>γεγραμμένων</w>, <w lemma="εἰς">εἰς</w> τὸν <name type="structure"><w lemma="οἶκος">οἶκον</w></name> <w lemma="οὗτος">τοῦτον</w> <w lemma="μή">μ<supplied reason="lost">ὴ</supplied></w> <w lemma="εἰσπορεύω"><supplied reason="lost">εἰσπορευέσθω</supplied></w><supplied reason="lost">·</supplied>
+
+<lb xml:id="line_33" n="33"/><name type="authority"><name type="deity" key="generic"><w lemma="θεός">θεοὶ</w></name></name> γ<supplied reason="lost">ὰ</supplied>ρ <w lemma="ἐν">ἐν</w> <w lemma="αὐτός">αὐτῶι</w> <w lemma="ἱδρύω">ἵδρυνται</w> <name type="epithet" key="Megas"><w lemma="μέγας">μέγαλοι</w></name> καὶ <w lemma="οὗτος">τ<supplied reason="lost">αῦτα</supplied></w> <w lemma="ἐπισκοπέω"><supplied reason="lost">ἐπισκοποῦ</supplied>
+
+	<lb xml:id="line_34" n="34" break="no"/>σιν</w> καὶ τοὺς <w lemma="παραβαίνω">παραβαίνοντας</w> τὰ <name type="authority"><name type="speechAct"><w lemma="παράγγελμα">παραγ<supplied reason="lost">γέλματα</supplied></w></name></name> <w lemma="οὐ"><supplied reason="lost">οὐκ</supplied></w> <w lemma="ἀνέχω"><supplied reason="lost">ἀνέ</supplied>
+
+		<lb xml:id="line_35" n="35" break="no"/>ξονται</w>· <name type="person"><w lemma="γυνή">γυναῖκα</w></name> <w lemma="ἐλεύθερος">ἐλευθέραν</w> <name type="purification"><w lemma="ἁγνός">ἁγνὴν</w></name> <w lemma="εἰμί">εἶν<supplied reason="lost">αι</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <w lemma="γιγνώσκω"><supplied reason="lost">γινώσκ</supplied>
+
+			<lb xml:id="line_36" n="36" break="no"/>ειν</w> <w lemma="ἄλλος">ἄ<supplied reason="lost">λ</supplied>λου</w> <name type="person"><w lemma="ἀνήρ">ἀνδρὸς</w></name> <w lemma="πλήν">πλὴν</w> τοῦ <w lemma="ἴδιος">ἰδίου</w> <name type="sex"><w lemma="εὐνή">εὐνὴ<supplied reason="lost">ν</supplied></w></name> <supplied reason="lost">ἢ</supplied> <name type="sex"><w lemma="συνουσία"><supplied reason="lost">συνουσίαν</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἐάν"><supplied reason="lost">ἐ</supplied>
+
+				<lb xml:id="line_37" n="37" break="no"/>ὰν</w> δὲ <w lemma="γιγνώσκω">γνῶι</w>, τὴν <w lemma="τοιοῦτος">τοιαύτην</w> <w lemma="μή">μὴ</w> <w lemma="εἰμί">εἶναι</w> <name type="purification"><w lemma="ἁγνός">ἁγ<supplied reason="lost">ν</supplied>ή<supplied reason="lost">ν</supplied></w></name><supplied reason="lost">,</supplied> <w lemma="ἀλλά"><supplied reason="lost">ἀλλὰ</supplied></w> <name type="purification"><w lemma="μιαίνω"><supplied reason="lost">μεμιασμέ</supplied>
+
+<lb xml:id="line_38" n="38" break="no"/>νην</w></name> καὶ <name type="purification"><w lemma="μύσος">μύσο<supplied reason="lost">υ</supplied>ς</w></name> <w lemma="ἔμφυλος">ἐμφυλίου</w> <w lemma="πλήρης">πλή<supplied reason="lost">ρ</supplied>η</w> καὶ <name type="genericOffering"><w lemma="σέβομαι">σ<supplied reason="lost">έβεσθαι</supplied></w></name> <w lemma="ἀναξία"><supplied reason="lost">ἀναξίαν</supplied></w>
+
+<lb xml:id="line_39" n="39"/>τὸν <name type="deity" key="generic"><w lemma="θεός">θεὸν</w></name> <w lemma="οὗτος">τοῦ<supplied reason="lost">το</supplied>ν</w>, <w lemma="ὅς"><supplied reason="lost">ο</supplied>ὗ</w> <w lemma="οὗτος">ταῦτα</w> τὰ <name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name> <w lemma="ἱδρύω">ἵδρυ<supplied reason="lost">ται</supplied></w><supplied reason="lost">,</supplied> <w lemma="μηδέ"><supplied reason="lost">μηδὲ</supplied></w> <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυσίαις</supplied></w></name>
+
+<lb xml:id="line_40" n="40"/> <w lemma="παρατυγχάνω">παρατυγχ<supplied reason="lost">άνει</supplied>ν</w> <w lemma="μηδέ">μηδὲ</w> <orig>τ</orig><gap reason="lost" quantity="4" unit="character"/><orig>αποζηιου</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_41" n="41"/> <w lemma="προσκόπτω">προσκόπτειν</w> <w lemma="μηδέ">μηδὲ</w> <w lemma="ὁράω">ὁρᾶν</w> <w lemma="ἐπιτελέω">ἐπιτελούμ<supplied reason="lost">ενα</supplied></w> <supplied reason="lost">τὰ</supplied> <w lemma="μυστήριον"><supplied reason="lost">μυστήρια (?)</supplied></w><supplied reason="lost">·</supplied> <w lemma="ἐάν"><supplied reason="lost">ἐ</supplied>
+
+	<lb xml:id="line_42" n="42" break="no"/>ὰν</w> δὲ <w lemma="ποιέω">ποιῆ</w> <w lemma="τις">τι</w> <w lemma="οὗτος">τούτων</w> <w lemma="ἀπό">ἀφ'</w> <w lemma="ὅς">οὗ</w> τὰ <name type="authority"><name type="speechAct"><w lemma="παράγγελμα">παρα<supplied reason="lost">γγέλματα</supplied></w></name></name> <w lemma="εἰς"><supplied reason="lost">εἰς</supplied></w> <supplied reason="lost">τὴν</supplied>
+
+<lb xml:id="line_43" n="43" break="no"/>δε τὴν <w lemma="ἀναγραφή">ἀναφραφὴν</w> <w lemma="ἥκω ">ἥκουσιν</w>, <w lemma="κακός">κακὰς</w> <name type="speechAct"><w lemma="ἀρά"><supplied reason="lost">ἀρὰς</supplied></w></name> <w lemma="παρά"><supplied reason="lost">παρὰ</supplied></w> <supplied reason="lost">τῶν</supplied>
+
+<lb xml:id="line_44" n="44"/> <name type="deity" key="generic"><w lemma="θεός">θεῶν</w></name> <w lemma="ἔχω">ἕξει</w> <supplied reason="lost">τὰ</supplied> <name type="authority"><name type="speechAct"><w lemma="παράγγελμα"><supplied reason="lost">πα</supplied>ραγγέλματα</w></name></name> <w lemma="οὗτος">ταῦτα</w> <w lemma="παροάω"><supplied reason="lost">παρορῶσα</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost">ὁ</supplied> <name type="deity" key="generic"><w lemma="θεός"><supplied reason="lost">θεὸς</supplied></w></name> <supplied reason="lost">γὰρ</supplied>
+
+<lb xml:id="line_45" n="45"/> <w lemma="οὗτος">ταῦτα</w> <w lemma="οὔτε">οὔτε</w> <w lemma="βούλομαι">βουλέται</w> <w lemma="γίγνομαι">γίνεσθαι</w> <w lemma="μηδαμῶς">μηθ<supplied reason="lost">αμῶς</supplied></w><supplied reason="lost">,</supplied> <w lemma="οὔτε"><supplied reason="lost">οὔτε</supplied></w> <w lemma="ἐθέλω"><supplied reason="lost">θέλει</supplied></w><supplied reason="lost">,</supplied> <w lemma="ἀλλά"><supplied reason="lost">ἀλ</supplied>
+
+	<lb xml:id="line_46" n="46" break="no"/>λὰ</w> <w lemma="κατακολουθέω">κατακολυθεῖν</w>· οἱ <name type="deity" key="generic"><w lemma="θεός">θεοὶ</w></name> τοῖς μὲ<supplied reason="lost">ν</supplied> <name type="group"><w lemma="ἀκολουθέω"><supplied reason="lost">ἀκολουθοῦσιν</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">ἔ</supplied>
+
+		<lb xml:id="line_47" n="47" break="no"/>σονται</w> <w lemma="ἵλαος">ἵλεως</w> καὶ <w lemma="δίδωμι">δώσουσιν</w> <w lemma="αὐτός">αὐτο<supplied reason="lost">ῖς</supplied></w> <w lemma="ἀεί"><supplied reason="lost">ἀεὶ</supplied></w> <w lemma="πᾶς"><supplied reason="lost">πάντα</supplied></w> <w lemma="ἀγαθός"><supplied reason="lost">τἀγα</supplied>
+
+			<lb xml:id="line_48" n="48" break="no"/>θά</w>, <w lemma="ὅσος">ὅσα</w> <name type="deity" key="generic"><w lemma="θεός">θεοὶ</w></name> <name type="person"><w lemma="ἄνθρωπος">ἀνθρώποις</w></name>, <w lemma="ὅς">οὓς</w> <w lemma="φίλω">φιλοῦσιν</w>, <w lemma="δίδωμι"><supplied reason="lost">διδόασιν</supplied></w><supplied reason="lost">·</supplied> <w lemma="ἐάν"><supplied reason="lost">ἐὰν</supplied></w> <supplied reason="lost">δέ</supplied> <w lemma="τις"><supplied reason="lost">τι</supplied>
+
+				<lb xml:id="line_49" n="49" break="no"/>νες</w> <w lemma="παραβαίνω">παρα<supplied reason="lost">βα</supplied>ίνωσιν</w>, τοὺς <w lemma="τοιοῦτος">τοιούτους</w> <name type="punishment"><w lemma="μισέω"><supplied reason="lost">μισήσουσι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <w lemma="μέγας"><supplied reason="lost">με</supplied>
+
+<lb xml:id="line_50" n="50" break="no"/>γάλας</w> <w lemma="αὐτός">αὐτοῖς</w> <name type="punishment"><w lemma="τιμωρία">τιμωρίας</w></name> <w lemma="περιτίθημι">περιθήσου<supplied reason="lost">σιν</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost">τὰ</supplied> <name type="authority"><name type="speechAct"><w lemma="παράγγελμα"><supplied reason="lost">παραγγέλμα</supplied>
+
+	<lb xml:id="line_51" n="51" break="no"/>τα</w></name></name> <w lemma="οὗτος">ταῦτα</w> <w lemma="τίθημι">ἐτέθησαν</w> <w lemma="παρά">παρὰ</w> <name type="deity" key="Aggdistis"><w lemma="Ἄγγδιστις">Ἄγγδιστιν</w></name> <supplied reason="lost">τὴν</supplied> <name type="epithet" key="Hagiotate"><w lemma="ἅγιος"><supplied reason="lost">ἁγιωτάτην</supplied></w></name>
+
+<lb xml:id="line_52" n="52"/> <name type="epithet" key="Phylax"><w lemma="φύλαξ">φύλακα</w></name> καὶ <name type="epithet" key="Oikodespoina"><w lemma="οἰκοδέσποινα">οἰκοδέσποιναν</w></name> <w lemma="ὅδε">τοῦδε</w> τοῦ <name type="structure"><w lemma="οἶκος">ο<supplied reason="lost">ἴκου</supplied></w></name><supplied reason="lost">,</supplied> <w lemma="ὅστις"><supplied reason="lost">ἥτις</supplied></w> <w lemma="ἀγαθός"><supplied reason="lost">ἀγαθὰς</supplied></w>
+
+<lb xml:id="line_53" n="53"/> <w lemma="διάνοια">διανοίας</w> <w lemma="ποιέω">ποιείτω</w> <name type="person"><w lemma="ἀνήρ">ἀνδράσι</w></name> καὶ <name type="person"><w lemma="γυνή">γυναιξὶν</w></name> <w lemma="ἐλεύθερος"><supplied reason="lost">ἐλευθέροις</supplied></w> <supplied reason="lost">καὶ</supplied>
+
+<lb xml:id="line_54" n="54"/> <w lemma="δοῦλος">δούλοις</w>, <w lemma="ἵνα">ἵνα</w> <w lemma="κατακουθέω">κατακολουθῶσιν</w> τοῖς <w lemma="ὧδε">ὧδε</w> <name type="authority"><w lemma="γράφω">γ<supplied reason="lost">εγραμμένοις</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied> <supplied reason="lost">δὲ</supplied> </w>
+
+<lb xml:id="line_55" n="55"/> ταῖς <name type="sacrifice"><w lemma="θυσία">θυσίαις</w></name> ταῖς τε <w lemma="ἔμμηνος">ἐμμήνοις</w> καὶ ταῖ<supplied reason="lost">ς</supplied> <w lemma="κατά"><supplied reason="lost">κατὰ</supplied></w> <w lemma="ἐνιαυτός"><supplied reason="lost">ἐνιαυτὸν</supplied></w> <w lemma="ἅπτω"><supplied reason="lost">ἁ</supplied>
+
+	<lb xml:id="line_56" n="56" break="no"/>πτέσθωσαν</w>, <w lemma="ὅσος">ὅσοι</w> <w lemma="πιστεύω">πιστεύουσιν</w> <w lemma="ἑαυτοῦ">ἑαυ<supplied reason="lost">τοῖς</supplied></w> <name type="person"><w lemma="ἀνήρ"><supplied reason="lost">ἄνδρες</supplied></w></name> <supplied reason="lost">τε</supplied> <supplied reason="lost">καὶ</supplied>
+
+<lb xml:id="line_57" n="57"/> <name type="person"><w lemma="γυνή"><supplied reason="lost">γυ</supplied>ναῖκες</w></name> τῆς <name type="authority"><w lemma="γραφή">γραφῆς</w></name> <w lemma="οὗτος">ταύτης</w>, <w lemma="ἐν">ἐν</w> <w lemma="ὅς"><supplied reason="lost">ἧι</supplied></w> <supplied reason="lost">τὰ</supplied> <supplied reason="lost">τοῦ</supplied> <name type="deity" key="generic"><w lemma="θεός"><supplied reason="lost">θεοῦ</supplied></w></name> <name type="authority"><name type="speechAct"><w lemma="παράγγελμα"><supplied reason="lost">παραγγέλ</supplied>
+
+	<lb xml:id="line_58" n="58" break="no"/><supplied reason="lost">μα</supplied>τά</w></name></name> <w lemma="εἰμί">εἰσιν</w> <w lemma="γράφω">γεγραμμένα</w> <w lemma="ἵνα">ἵνα</w> <w lemma="φανερός">φαν<supplied reason="lost">εροὶ</supplied></w> <w lemma="γίγνομαι"><supplied reason="lost">γίνωνται</supplied></w> <supplied reason="lost">οἱ</supplied> <w lemma="κατακολουθέω"><supplied reason="lost">κατα</supplied>
+
+		<lb xml:id="line_59" n="59" break="no"/> <supplied reason="lost">κολου</supplied>θοῦ<supplied reason="lost">ντ</supplied>ες</w> τοῖς <name type="authority"><name type="speechAct"><w lemma="παράγγελμα">παραγγέλ<supplied reason="lost">μασιν</supplied></w></name></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">οἱ</supplied> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <w lemma="κατακολουθέω"><supplied reason="lost">κατακολου</supplied>
+
+			<lb xml:id="line_60" n="60" break="no"/><supplied reason="lost">θοῦν</supplied>τες·</w> "<name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Ζεῦ</supplied></w></name> <name type="epithet"><w lemma="σωτήρ">Σωτή<supplied reason="lost">ρ</supplied></w></name>, τὴν <orig>ΑΦΗ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_61" n="61"/> <w lemma="εὐμενής"><supplied reason="lost">εὐμεν</supplied>ῶς</w> <w lemma="προσδέχομαι">προσδέχου</w> καὶ προ<gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_62" n="62"/> <w lemma="παρέχω"><supplied reason="lost">πάρεχ</supplied>ε</w> <w lemma="ἀγαθός">ἀγαθὰς</w> <w lemma="ἀμοιβή">ἀμοιβάς</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_63" n="63"/><gap reason="lost" extent="unknown" unit="character"/><orig>ν</orig> <w lemma="ἐπί">ἐπὶ</w> <w lemma="γῆ">γῆς</w> καὶ <w lemma="ἐπί">ἐπὶ</w> <w lemma="θάλασσα">θα<supplied reason="lost">λάσσης</supplied></w><gap reason="lost" extent="unknown" unit="character"/>"
+
+<lb xml:id="line_64" n="64"/><gap reason="lost" extent="unknown" unit="character"/>μένοις <w lemma="ὅμοιος">ὁμοίως</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/> </ab>
+			</div>
+
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+
+				<p> With good [fortune]. They have inscribed the [commands] given to Dionysius in his sleep, for health and [common security] and the greatest glory; he gives access (5) to his own house to men [and women], free and slaves. [For altars] have been installed [in it] for Zeus Eumenes ("the Kindly One"), and for Hestia [who sits besides him], and the other Saviour Gods and Eudaimonia and Ploutos and Arete [and Hygieia] and (10) Good Fortune and the Good Daimon and Memory and the Charites and Nike. To him Zeus has given instructions to perform the purifications and the cleansings and [the mysteries (?)] according to the ancestral tradition and as it is [written] now. Those who [enter] (15) into this house, men and women, free and slaves must [swear an oath] not to use any trickery or poison neither towards a man nor towards a woman, or to devise [or perform] any wicked spells against other persons, or a (20) love-charm, or a drug that produces an abortion, or a contraceptive or [anything else that] kills [children]—they should neither use them themselves nor should they advise or [use them together with another person], thereby avoiding to deprive anyone of his kindly disposition towards this house, and if someone does or plots [any of these things], then one should not let this happen and not [keep silent], (25) but one should report it and ward it off. [A man] should not, besides his own wife, corrupt another man's wife, whether she is [free or] a married slave-woman, nor [a boy], nor a virgin, nor advise another man to do so, [but if] he is aware of such a situation, he should point this person out and not [conceal] the (30) man or woman and not remain silent. A man or a woman who [does] any of the above may not [enter into] this house. Because, great gods are established in it and they [observe] these things and they will not tolerate those who transgress the instructions. (35) A free woman must be chaste and not [know] the bed of or [intercourse with] another man except her husband. If she does, such a woman is not to be considered chaste, [but polluted], and full of defilement spreading over her kinsfolk and [as being unworthy of worshipping] this god, for which these rites are established, and she may (40) not be present at [sacrifices] nor watch [...] nor see [the mysteries (?)] being accomplished. If anyone (any woman?) does any of these things, after the commands have come to be transcribed here, dire [curses from the] gods will be the due of the one (the woman?) [who disregards these instructions. Because the god] (45) does not want that to happen in any way, but that people obey. The gods [...] will be kindly to those who [obey the rules] and they will give them [always all good things], as much as gods [give] humans whom they love. [If some people] transgress the rules, [they will hate] them and (50) inflict great punishments upon them. They have entrusted [the instructions] to Agdistis the [purest] guardian and mistress of the house, she who creates good intentions for [free] men and women [and] slaves, so that they obey what is [written] here. (55) During the monthly and [yearly] sacrifices, [men and] women who have confidence [in themselves] should grasp this inscription, on [which the instructions of the god] have been written, so that it becomes manifest [who is obeying] these instructions [and who is not]. (60) "Zeus Soter [... kindly] accept and [provide] good things in exchange [...] on earth and in the sea [...] in the same way [...]" </p>
+			</div>
+
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+
+				<p>À la bonne [fortune]. On a inscrit, en vue de la santé et du [salut commun], et de la plus grande gloire, les [recommandations] qui ont été transmises à Dionysios pendant son sommeil, [donnant l'accès] (5) à sa propre maison pour les hommes [et les femmes], libres et esclaves. [Car y] ont été installés [des autels] de Zeus Eumenès, de sa [parèdre] Hestia et des autres dieux Sauveurs, ainsi que d’Eudaimonia, de Ploutos, d’Aretè, [d’Hygie], (10) de la Bonne Fortune et du Bon [Daimôn], de Mémoire, des Charites et de Nikè. Zeus lui a donné pour recommandations d’accomplir [les] purifications, les lustrations et [les mystères (?)] selon les usages ancestraux et comme il est désormais [inscrit] : (15) les hommes [et les femmes], libres et esclaves qui intègrent cette maison doivent prêter serment à [tous] les dieux de ne connaître ni [d’utiliser] consciemment aucune tromperie à l’égard d’aucun homme ou d’aucune [femme], aucune drogue nuisible aux humains, [ni] de charmes malfaisants, de ne pas utiliser pour soi-même, ni de conseiller ou de transmettre [à quelqu’un d’autre aucun] (20) philtre, potion abortive, contraceptif ou quel qu’autre produit infanticide, ne privant (quiconque) de rien, d’être bienveillant à l’égard de cette maison et, si quelqu’un faisait ou projetait (de faire) [l'une de ces choses], de ne pas (le) tolérer ni [de se taire] à l’avenir, (25) mais de dénoncer et de punir (le coupable). [Qu’un homme] ne séduise pas, [en plus de sa] propre femme, une autre, [libre ou] esclave qui a un mari, [ni un(e) enfant, ni] une vierge, ni ne conseille à un autre (de faire de même), [mais celui] qui en aurait connaissance, [dénoncera] cette (situation), (30) ainsi que l’homme et la femme (concernés), et ne [cachera] ni ne passera cela sous silence; la femme ou l’homme qui [aurait fait ce qui] a été mentionné ci-dessus, ne [doit pas intégrer] cette maison; car de grands dieux y sont établis et [surveillent ces choses], et ils [ne] supporteront [pas] ceux qui transgressent les recommandations; (35) qu’une femme libre soit pure [et ne connaisse] ni la couche, [ni l’union] d’un autre homme que le sien; si elle en faisait l’expérience, que celle-ci ne soit pas pure, [mais souillée] et pleine d’une souillure se répandant sur sa parenté, [indigne d’honorer] ce dieu dont les rites ont été établis, d’approcher [les sacrifices], (40) ni [...] de regarder ni de voir la célébration [des mystères (?)]; si elle fait l'une de ces choses après que les recommandations ont été retranscrites ici, de terribles [malédictions] divines frapperont celle qui [contrevient] à ces instructions; [car le dieu] (45) ne veut nullement que ces choses se produisent, [ni ne le désire], mais que l’on obéisse. Les dieux seront favorables à ceux qui [obéissent] et leur donneront [toujours toutes les] bonnes choses que les dieux [donnent] aux hommes qu’ils aiment; mais ceux [qui] transgressent (les recommandations), ils les [détesteront et] leur infligeront (50) de grands supplices. Ces [recommandations] ont été confiées à Agdistis, [la très pure] gardienne et maîtresse de cette maison; [puisse-t-elle] susciter [de bonnes] intentions chez les hommes et les femmes, [libres et] esclaves, pour qu’ils obéissent à ce qui [est inscrit] ici, [et que, lors] (55) des sacrifices mensuels et [annuels], les [hommes et les] femmes qui sont sûrs d'eux-mêmes touchent cette inscription où sont consignées [les recommandations du dieu], afin qu’[apparaissent] au grand jour [ceux qui obéissent] aux recommandations [et ceux qui n’(y) obéissent pas]. (60) « [Zeus] Soter, reçois [avec bienveillance ... accorde] des bienfaits en échange [...] sur terre et sur mer [...] de même [...] »</p>
+				<p> (traduction S. Lebreton)</p>
+			</div>
+
+			<div type="commentary">
+				<head>Commentary</head>
+
+				<p>This inscription provides a number of general and specific prescriptions to be observed in a cult performed in a house or in a cultic building set up for this purpose (line 5: οἶκον, esp. with the deictic in line 2, τῶι οἴκωι τῶιδε, and <foreign>passim</foreign>). The individual behind the cult, one Dionysios, apparently claimed to have received these rules as commands (παραγγέλμα]τα, lines 3-4 and <foreign>passim</foreign>) from Zeus during a prophetic dream (lines 3-4). These instructions were to be recorded on stone (i.e. on the present stele; cf. lines 42-43 for an allusion to the process of inscribing the divine commands) and to remain on public display for the worshippers to consult and touch (lines 54-58) when visiting the οἶκος for cult. Altars for at least twelve different gods were constructed inside the house (lines 6-11) and the cult included purifications and cleansings (lines 12-13), as well as monthly and yearly (?) sacrifices (line 55). All these rituals were to be accomplished according to ancestral norms (line 14). These prescriptions were not only thought to emanate from Zeus, however, but this god and the other mentioned gods also guaranteed their observance (as is elaborately discussed in the second half of the inscription, from line 33 on). The prescriptions themselves are essentially moral in nature, forbidding such actions as deceipt, magic, and regulating sexual conduct (lines 14-32).</p>
+
+				<p>One of the principal problems posed by this text concerns the character of the cult that was performed at the οἶκος of Dionysios. Whereas some have presumed that this was the cult of a (large) household (Stowers), it has also been suggested that the group behind the rules (though nowhere explicitly mentioned) is a private association, which uses the house of Dionysios as its cult-place (Pleket; Petzl); indeed, it would be odd for a family in an οἶκος to have such encompassing rules welcoming any man or woman who obeys them. Though we perhaps cannot give a conclusive answer to this question, we may note that some of the verbs employed in the regulations seem to imply a collective action (ἀνεγράφησαν, line 2; ἐτέθησαν, line 51), which would tend to confirm the hypothesis of some sort of association. However, it might also be the case that Dionysios' rules represent an anticipatory gesture: they might initially have been enacted by himself and his family, but at the same time open the cult to new prospective participants. Through these public rules, what was perhaps an initially private cult might be in the process of becoming a more open or associational one.</p>
+
+				<p>Another striking aspect of the cult is that it apparently was concerned both with traditional and new cultic practice (κατά τε τὰ πάτρια καὶ ὡς νῦν [...], see below on lines 12-15), as well as with a wide variety of deities (see lines 6-11), whose traditional or innovative character is completely unclear; only perhaps Agdistis seems to be invoked as the customary Anatolian guardian of the household or the cult-site (see below on lines 50-54). For a similar mixture of tradition and innovation in the composition of a familial pantheon, see esp. <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos). The rituals involved in the cult (sacrifices are mentioned obliquely in line 55; a prayer is quoted in lines 60-64) remain murky, and possible references to mysteries (see below on lines 12-15) are particularly enigmatic.</p>
+
+				<p> Lines 1-4: For other cases of divine authority for rules in the present Collection, cp. <ref target="CGRN_24">CGRN 24</ref> (oracle for Praxiergidai at Athens) and <ref target="CGRN_104">CGRN 104</ref> (oracle for a family at Halikarnassos). Cultic prescriptions are occasionally framed as contributing to the health and safety of the community, cp. <ref target="CGRN_132">CGRN 132</ref> (Methymna on Lesbos), lines 17-18; <ref target="CGRN_186">CGRN 186</ref> (Ilion).</p>
+
+				<p> Lines 4-6: Access to the place where rituals are performed is sometimes denied to particular groups, such as women, men, slaves, the uninitiated or strangers. For a discussion of the exclusion of women, cf. for example <ref target="CGRN_33">CGRN 33</ref> (Elateia). By contrast, the cult of Dionysios makes a point of its inclusivity, being open to both men and women, free and servile alike.</p>
+
+				<p> Lines 6-11: The punctuation of this part of the text remains elusive. We do not know if altars have been constructed for each of these deities individually, or for groups of gods. Deities often shared altars: for references to a deity who is σύνναος or σύμβωμος "having the same temple" or "altar" as another god, cf. the discussion at <ref target="CGRN_190">CGRN 190</ref> (Cyrene), lines 19-20. At the very least, the gods mentioned in this list are ἐντεμένιοι "in (i.e. sharing) the (same) precinct" (i.e. the οἶκος in this case); cp. here <ref target="CGRN_100">CGRN 100</ref> (Miletos), line 4, and <ref target="CGRN_129">CGRN 129</ref> (Patara), line 3. For an extensive study of the deities in question, cf. Weinreich. If different gods shared altars, we might perhaps consider some logical pairings or groupings. The first pair is Zeus Eumenes and Hestia. Zeus and Hestia were often worshipped together (for example here in <ref target="CGRN_86">CGRN 86</ref> A, Kos, and <ref target="CGRN_198">CGRN 198</ref>, Megalopolis, lines 42-46). Hestia as goddess of the hearth would be particularly appropriate in this cult that was probably celebrated at an individual's οἶκος. The suggestion that Zeus Eumenes is a reference to the divinised ruler Eumenes II has been widely rejected. Rather, Zeus Eumenes is invoked in his capacity as "the kindly one" (cp. here <ref target="CGRN_13">CGRN 13</ref>, Selinous, line A8). Next, the text refers to "all the other Saviour gods". It is not clear if this implies that the preceding (Zeus and Hestia) are to be seen as θεοί σωτῆρες themselves—this is perhaps possible, since Zeus Soter is invoked in line 60—but it is also not evident whether the remaining gods on the list are further specifications of these "Saviour Gods", or represent yet a further series of gods. The next group of gods includes Plouton, Arete and a third god, perhaps Hygieia (Weinreich) or another personification such as Harmonia or Sophrosyne (Keil - von Premerstein). Agathe Tyche and the Agathos Daimon were often associated; cf. here <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 34-35, and e.g. <bibl type="abbr" n="SEG">SEG</bibl> 47, 210. The Good Daimon is a typical household deity (cf. Stowers, p. 290). An alternative to [Μνή]μη "Memory" is Φήμη (in the positive sense of the word as 'good report' or 'fame'); on the cult of this goddess, cf. <ref target="CGRN_112">CGRN 112</ref> (Kamiros), with commentary. She appears to have represented the power of both human and divine speech, whether in the political sphere or in the realm of oracles and other divine messages. A final pair of gods is comprised of the Charites and Nike. For the cult of the Charites, cf. notably <ref target="CGRN_8">CGRN 8</ref> (Eleusis), line 3, <ref target="CGRN_17">CGRN 17</ref> (Thasos), and <ref target="CGRN_45">CGRN 45</ref> (Athens), fr. 3, lines 81-83.</p>
+
+				<p> Lines 12-15: Wächter summarized the difference between the terms ἁγνισμοί and καθαρμοί in ritual norms as follows (p. 1-2): "Die ἁγνεῖαι bestimmen, daß und wovon man sich vor oder während kultischer Betätigung rein halten müsse; die καθαρμοί geben die im Falle einer Verunreinigung nötigen Reinigungen an". The respective semantics of ἁγνός and καθαρός and the way these terms express the notion of purity have been much discussed; for a brief recent discussion with further references, cf. Peels. Note that the conjunction of ἁγνισμοί (or ἁγνείαι) and καθαρμοί, together with a third missing element, is present in two other important regulations concerning purity: <ref target="CGRN_99">CGRN 99</ref> (Cyrene), lines 2-3, and <ref target="CGRN_148">CGRN 148</ref> (Kos), line 5. Here, the third element has been restored as mysteries (τὰ μυστήρια). This restoration might appear gratuitous, since mysteries are nowhere explicitly mentioned in the text; line 41, however, can be restored as containing the sanction μηδὲ ὁρᾶν ἐπιτελούμ[ενα τὰ μυστήρια, which yields good sense: mysteries often involve a stage of contemplation of sacred objects or rites (cf. the ἐποπτεία at the Eleusinian mysteries). Nevertheless, the mysteric character of Dionysios' cult remains to be confirmed. Zeus has intriguingly given instructions to perform cultic actions "according to tradition" (κατά τε τὰ πάτρια) and "according to how currently as well ..." (καὶ ὡς νῦν [...]—[γέγραπται?]). These phrases may refer to general aspects of the purifications and the sacrificial rituals, which were traditionally performed in a specific way throughout this community.</p>
+
+				<p> Lines 16-25: Upon entering the house, men and women had to swear an oath (holding the stele itself, see below on lines 54-60) not to deceive people, to perform wicked spells or (love) charms or to take any measures for abortion or contraception. As Ogden has explained, abortifacients and contraceptives were often found in magical contexts (p. 277), and so these may have been perceived as belonging to the same category here. On the impurity resulting from abortion, cf. here e.g. <ref target="CGRN_148">CGRN 148</ref> (Kos), lines 23-24 and <ref target="CGRN_155">CGRN 155</ref> (Megalopolis), line 6-8. The phrase μ[ὴ ἄλλο τι παιδο]φόνον, if the restoration is correct, seems to be an extension of the interdiction against measures for abortion and contraception, rather than referring to murder <foreign>stricto sensu</foreign>; possibly gestures such as exposing a child would be covered by this category (for exposure as a source of impurity, cf. here <ref target="CGRN_144">CGRN 144</ref>, Ptolemais, lines 5-7). No person should either do such things themselves, nor advise another person or work together with them, in that way "not depriving anyone of their favourable disposition towards this house" (ἀποστερ[οῦντες δὲ μη]δὲν εὐνοεῖν τῶι οἴκωι τῶιδε) i.e. not corrupting them by helping them do these forbidden things. Anyone who is a witness to any of these things should report it and keep himself away from it. We thus do not follow Ogden in reading in these lines any interdictions against robbery, rape or murder.</p>
+
+				<p> Lines 26-41: The second part of the oath to be sworn concerns the sexual conduct of both men and women. Men should not corrupt other man's wives, boys or virgins (note that a relationship with an unmarried slave woman was not forbidden; and furthermore no rules were laid down for unmarried men; cf. Petzl). Those who know about any such transgressions should report on them. The men and women engaging in these activities cannot enter into the οἶκος, since the gods are established within it, and they do not suffer the violation of the given instructions. The second part of these rules concern married women, who should not know the bed of any man but their own husband. Women who transgress the norm of being faithful to their own husbands are considered to be polluted (μεμιασμένη, the restoration seems highly plausible)—no comparable stipulation is made for men. These women also endanger those around her, since the pollution explicitly spreads (as it usually does). That being said, the scope of the phrase μύσο[υ]ς ἐμφυλίου πλή[ρ]η is not entirely clear. Stowers translated this phrase as "full of defilement affecting the family" (i.e., "the lineage of her <foreign>kurios</foreign> and his <foreign>oikos</foreign>"), which seems to respect the truest sense of ἔμφυλος, but it is perhaps possible that ἐμφύλιος should be taken in a vaguer or wider sense (Pleket). Moreover, these women are also to be excluded from the place where this cult is established and from "being present at" (παρατυγχάνειν), "watching" (προσκόπτειν) and "seeing accomplished" (ὁρᾶν ἐπιτελούμενα) particular rituals, which are likely to be sacrifices and/or mysteries. For a comparable exclusion of women who transgress rules from sacrifices and other rites, cp. <ref target="CGRN_108">CGRN 108</ref> (Gambreion), lines 25-27. Sex is among the main categories of causes for temporary pollution (together with childbirth, and funerary care for dead persons); however, there is usually no overtly "moral." dimension to this impurity. However, one may note that in <ref target="CGRN_71">CGRN 71</ref> (Metropolis) and <ref target="CGRN_212">CGRN 212</ref> (Pergamon), sex with one's own spouse results in a lesser degree of pollution than intercourse with a prostitute or someone else's spouse. These cases, to a much lesser degree than the present inscription, can be seen as instance of morality having a bearing on the notion of purity. For the increasing presence of moral considerations in the conceptualisation of purity, cf. Chaniotis 1997. For the restorations in lines 33-35, compare S. <title>OC</title> 278-279, expressing the same general idea. In Greek literature, gods are often said (or asked) to witness the (im)moral behaviour of mortals, and to punish or reward them accordingly (cf. also E. <title>Hipp.</title> 1363, E. <title>Cyc.</title> 353-355). On this topic, cf. also Chaniotis 2004.</p>
+
+				<p> Lines 41-50: In the next part of the text—in continuation with lines 33-35 and further elaborating these remarks—it is emphasized once more that the gods are concerned with human morality, and will respond to human behaviour, giving good things to obedient worshippers and cursing and punishing transgressors. The participle that has been restored in line 44 is the feminine παρορῶσα, which would tie the passage with the previous section on rules concerning the sexual behaviour of married women, but it also seems possible that the scope of these remarks on divine rewards and punishments is larger and includes all of the aforementioned transgressions (thus, [παρορῶν] is just as likely). The term ἵλαος denotes the gods' benevolent attitudes towards humans, for which they needed to be propitiated; cp. <ref target="CGRN_71">CGRN 71</ref> (Metropolis).</p>
+
+				<p> Lines 50-54: The androgynous Phrygian goddess called A(g)gdistis is appointed as a guardian of the cult and its rules. On the cult of Agdistis, cf. Petzl for further references; she was occasionally conflated with Meter or Kybele, though she clearly also appears distinct from these goddess; for the cult of Meter Phrygie in the present Collection, cf. <ref target="CGRN_175">CGRN 175</ref> (Priene) and <ref target="CGRN_196">CGRN 196</ref> (Iasos).</p>
+
+				<p> Lines 54-60: As these lines relate, an inscription with the divine commands was to be set up, namely the present stele. This inscribing seems destined not only at conveying the rules to potential worshippers coming to the οἶκος, but also to be another way of ensuring obeyance of the rules themselves. Specifically, the rules stipulate that worshippers should grasp (ἁ]πτέσθωσαν, lines 55-56) the stele itself. Such a physical contact with the stone (e.g. of an inscription or altar) was also notably required during some oaths, cp. here <ref target="CGRN_74">CGRN 74</ref> (Athens), lines 75-76 (<bibl type="abbr" n="LSCG">LSCG</bibl> 19 for the full text): καὶ ἐπομνύ|ναι ἐχομένος το̑ βωμο̑. In the present case, the "grasping" of the stele seems to have served an analogous and at least dual function: it made "clear" (φαν[εροὶ]) those who obeyed the commands of Zeus and of the cult, since it served as an oath-like gesture, and at the same time it also performatively served as mechanism for the ritual of prayer to be performed as part of the cult, namely during the monthly and annual (?) sacrifices. Without further introduction, this prayer is the one that is directly quoted in lines 61-64; see immediately below.</p>
+
+				<p> Lines 61-64: The inscription thus ends with a prayer to Zeus Soter, as we may gather from the imperative προσδέχου in the second person singular. The content of this prayer is quite fragmentary, but it seems to concern the reciprocal relationship between humans and the god: the worshippers implore the deity to accept (προσδέχου) the worshippers' offerings and to give benefits to them in return (ἀμοιβάς), which include perhaps the fruitfulness of the land and sea, or the absence of illnesses. For other prayers that ask for prosperity and salvation, cp. <ref target="CGRN_176">CGRN 176</ref> (Priene), lines 18-19; <ref target="CGRN_194">CGRN 194</ref> (Magnesia-on-the-Maiander), lines 21-31 and <ref target="CGRN_200">CGRN 200</ref> (Magnesia-on-the-Maiander), lines 43-49; and <ref target="CGRN_205">CGRN 205</ref> (Antiocheia ad Pyramum), lines 27-31. Other cases in which Zeus Soter is worshipped include <ref target="CGRN_106">CGRN 106</ref> (Kalaureia), line 6, <ref target="CGRN_198">CGRN 198</ref> (Megalopolis), line 11, and <ref target="CGRN_206">CGRN 206</ref> (Pergamon), line 30.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

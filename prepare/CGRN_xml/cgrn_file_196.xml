@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_196" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 196</idno>: <rs type="textType" key="priestly contract">Contract of sale for the priesthood</rs> of the
+Mother of the Gods at Iasos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Limestone <rs type="objectType">stele</rs>, now
+broken into joining fragments. Additionally, the stele is heavily broken below, especially to the lower right. The back is left rough, for posting near a wall.</p>
+			<p><dimensions>
+					<height unit="cm">32.7</height>
+					<width unit="cm">37.5-38</width>
+					<depth unit="cm">13.7</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">10</height> on average,
+though variable.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0225" notAfter="-0200">ca. 225-200 BC</origDate></p>
+			<p><desc>Justification: lettering and style (Maddoli).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Iasos" n="Asia_Minor_and_Anatolia"><ref target="https://pleiades.stoa.org/places/599664" type="external">Iasos</ref></placeName>. Found in a context of reuse during excavations in the Eastern Stoa of the Agora. Now in the storerooms of the Italian mission at Iasos (inv. no. 8364).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 10-10-2016 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Maddoli 2015">Maddoli 2015</bibl>, with ph. figs. 1-3. In line
+15, we print πλευράς instead of πλευρᾶς (Carbon): cf. the Commentary on lines 10-17 below.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Roller 1999">Roller 1999</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    			
+<lb xml:id="line_1" n="1"/><gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">τ</supplied>ῆς <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύν<supplied reason="lost">ης</supplied></w></name> τῆς τῶν <name type="deity" key="generic"><w lemma="θεός">Θ<supplied reason="lost">εῶν</supplied></w></name> <name type="deity" key="Meter"><w lemma="μήτηρ"><supplied reason="lost">Μητ</supplied>ρός</w></name>·
+	    					
+<lb xml:id="line_2" n="2"/><name type="epithet" key="Agathe"><w lemma="ἀγαθός">ἀγαθῆι</w></name> <name type="deity" key="Tyche"><w lemma="τύχη">τύχηι</w></name>, <w lemma="ἐπί">ἐπὶ</w> <name type="title"><w lemma="στεφανηφόρος">στεφανηφόρου</w></name> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλων<supplied reason="lost">ος</supplied></w></name> τ<unclear>ο</unclear>ῦ <w lemma="μετά">μ<unclear>ε</unclear>
+	    					
+<lb xml:id="line_3" n="3" break="no"/>τὰ</w> Ἑκαταῖον, <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Θαργήλια">Θαργηλιῶνος</w></name> <w lemma="ἕκτος">ἕκτηι</w> <w lemma="ἐπί">ἐπὶ</w> <w lemma="δέκα">δέκ<unclear>α</unclear></w>, 
+	    					
+<lb xml:id="line_4" n="4"/><w lemma="κατά">κατὰ</w> <w lemma="ὅδε">τάδε</w> <w lemma="πωλέω">πωλοῦσιν</w> οἱ <name type="personnel"><w lemma="νεωποίης">νεωποῖαι</w></name> οἱ <w lemma="περί">περὶ</w> Λάμ
+	    					
+<lb xml:id="line_5" n="5" break="no"/>πιτον Ἱπποκράτους τὴν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύνην</w></name> τὴν τῶν <name type="deity" key="generic"><w lemma="θεός">Θε
+	    					
+<lb xml:id="line_6" n="6" break="no"/>ῶν</w></name> <name type="deity" key="Meter"><w lemma="μήτηρ">Μητρός</w></name>· ἡ δὲ <w lemma="πρίαμαι">πριαμένη</w> <name type="personnel"><w lemma="ἱεράομαι">ἱερήσεται</w></name> <w lemma="κατά">κατὰ</w> τὸν <name type="authority"><w lemma="νόμος">ν<unclear>ό</unclear>
+	    					
+<lb xml:id="line_7" n="7" break="no"/>μον</w></name> καὶ τὴν <name type="authority"><w lemma="διαγραφή">διαγραφήν</w></name>· <space quantity="2" unit="character"/> <w lemma="κατά">κατὰ</w> <w lemma="ὅδε">τάδε</w> <w lemma="πωλέω">πωλεῖται</w> ἡ
+	    					
+<lb xml:id="line_8" n="8"/><name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱ</supplied>ερεωσύνην</w></name> τῆς τῶν <name type="deity" key="generic"><w lemma="θεός">Θεῶν</w></name> <name type="deity" key="Meter"><w lemma="μήτηρ">Μητρός</w></name> ἡ <w lemma="πρίαμαι">πριαμένη</w> <name type="personnel"><w lemma="ἱεράομαι">ἱερή
+	    					
+<lb xml:id="line_9" n="9" break="no"/>σεται</w></name> <w lemma="ἕως">ἕως</w> <w lemma="ἄν">ἄν</w> <w lemma="ζῶ">ζῆι</w> <w lemma="κατά">κατὰ</w> τὸν <w lemma="ὑπάρχω">ὑπάρχοντα</w> <name type="authority"><w lemma="νόμος">νόμον</w></name>, <name type="personnel"><w lemma="ἱεράομαι">ἱε
+	    					
+<lb xml:id="line_10" n="10" break="no"/>ρήσεται</w></name> δὲ καὶ τῆς <name type="epithet" key="Phrygia"><name type="ethnic" key="Phrygia"><w lemma="Φρύγιος">Φρυγίας</w></name></name> <name type="deity" key="Meter"><w lemma="μήτηρ">Μητρὸς</w></name> ἡ <w lemma="αὐτός">αὐτή</w>· <w lemma="κατά">κατὰ</w> <w lemma="ὅδε">τάδε</w>
+<lb xml:id="line_11" n="11"/><name type="sacrifice"><w lemma="θύω">θύσει</w></name> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ἀληθιών">Ἀληθιῶνος</w></name> <w lemma="τριακάς">τριακάδι</w> καὶ <w lemma="πέμπω">πέμψει</w> τὴμ <w lemma="πομπή">πομ
+	    					
+<lb xml:id="line_12" n="12" break="no"/>πὴν</w> <w lemma="ἐκ">ἐκ</w> τοῦ <name type="structure"><w lemma="πρυτανεῖον">πρυτανείου</w></name>· <name type="portion"><w lemma="λαμβάνω">λήψεται</w></name> δὲ <w lemma="ὅς">ὧν</w> <w lemma="ἄν">ἂν</w> ἡ <name type="group"><w lemma="πόλις">πόλις</w></name> <name type="sacrifice"><w lemma="θύω">θύηι</w></name> <w lemma="εἷς">ἑνὸς</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερε<supplied reason="lost">ί</supplied>
+	    					
+<lb xml:id="line_13" n="13" break="no"/>ου</w></name> <w lemma="ὅς">οὗ</w> <w lemma="ἄν">ἂν</w> <w lemma="βούλομαι">βούληται</w> <name type="portion"><w lemma="σκέλος">σκέλος</w></name> τὸ <name type="quality"><w lemma="δεξιός">δεξιὸν</w></name> καὶ τῆς <name type="portion"><w lemma="κεφαλή">κεφαλῆς</w></name> τὸ <w lemma="ἥμισυς">ἥμι
+	    					
+<lb xml:id="line_14" n="14" break="no"/>συ</w> καὶ <name type="portion"><w lemma="γλῶσσα">γλῶσσαν</w></name> καὶ <name type="portion"><w lemma="ἐγκέφαλος">ἐγκέφ<unclear>α</unclear>λον</w></name> καὶ <name type="portion"><w lemma="τράχηλος">τράχηλον</w></name> καὶ <name type="portion"><w lemma="ὠμοπλάτη">ὠμοπλάτην</w></name>
+	    					
+<lb xml:id="line_15" n="15"/><unclear>κ</unclear>αὶ <name type="portion"><w lemma="πλευρά">πλευρὰς</w></name> <w lemma="ἐπί">ἐπὶ</w> <w lemma="τρεῖς">τρία</w> <name type="portion"><w lemma="ὀστέον">ὀστᾶ</w></name> <name type="quality"><w lemma="δεξιός">δεξιά</w></name>· <w lemma="ὅς">ὧν</w> δ᾽ <w lemma="ἄν">ἂν</w> οἱ <name type="person"><w lemma="ἰδιώτης">ἰδιῶται</w></name> <name type="sacrifice"><w lemma="θύω">θύωσιν</w></name>, <name type="portion"><w lemma="λαμβάνω">λήψ<unclear>ε</unclear>
+	    					
+<lb xml:id="line_16" n="16" break="no"/>ται</w></name> <w lemma="ἀπό">ἀφ᾽</w> <w lemma="εἷς">ἑνὸς</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείου</w></name> <name type="portion"><w lemma="κωλῆ">κωλέα<supplied reason="lost">ν</supplied></w></name>· <name type="portion"><w lemma="λαμβάνω">λήψεται</w></name> δὲ καὶ τὰ <name type="genericOffering"><w lemma="παρατίθημι">παρατιθέμε<supplied reason="lost">να</supplied></w></name>
+	    					
+<lb xml:id="line_17" n="17"/><w lemma="πᾶς">πάντα</w> <w lemma="ἐπί">ἐπὶ</w> τὴν <name type="structure"><w lemma="τράπεζα">τράπεζα<supplied reason="lost">ν</supplied></w></name> ἡ <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name> <w lemma="πλήν">πλὴν</w> <name type="object"><w lemma="χρυσίον">χρυσίου</w></name> ἢ <name type="object"><w lemma="ἀργύριον">ἀργυρ<supplied reason="lost">ίου</supplied></w></name> <supplied reason="lost">ἢ</supplied>
+	    					
+<lb xml:id="line_18" n="18"/><name type="object"><w lemma="ἱματισμός"><supplied reason="lost">ἱ</supplied>ματισμοῦ</w></name>· <w lemma="οὗτος">τοῦτων</w> δὲ ὅ <w lemma=""><supplied reason="lost">τ</supplied><unclear>ι</unclear></w> <w lemma=""><unclear>ἂ</unclear>ν</w> <w lemma="τις"><supplied reason="lost">τ</supplied>ις</w> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνατιθῆι</w></name> <w lemma="ἀπογράφω">ἀπογ<unclear>ραφ</unclear><supplied reason="lost">έτω</supplied></w> <supplied reason="lost">ἡ</supplied> <name type="personnel"><w lemma="ἱέρεια"><supplied reason="lost">ἱέ</supplied>
+	    					
+<lb xml:id="line_19" n="19" break="no"/>ρεια</w></name> <w lemma="πρός">πρὸς</w> τοὺς <name type="personnel"><w lemma="νεωποίης">νεωποίας</w></name> καὶ <w lemma="εἴσω">ε<unclear>ἴ</unclear>σω</w> <name type="genericOffering"><w lemma="παρέχω">παρεχέτ<unclear>ω</unclear></w></name> <supplied reason="lost">τοῦ</supplied> <name type="structure"><w lemma="ναός"><supplied reason="lost">ναοῦ</supplied></w></name><supplied reason="lost">,</supplied> <w lemma="ἕως"><supplied reason="lost">ἕως</supplied></w> <supplied reason="lost">ἡ</supplied> <name type="group"><w lemma="πόλις"><supplied reason="lost">πό</supplied>
+	    					
+<lb xml:id="line_20" n="20" break="no"/><unclear>λ</unclear>ις</w></name> <w lemma="περί">περὶ</w> <w lemma="αὐτός">αὐτῶν</w> <name type="authority"><w lemma="βούλομαι">βουλεύσηται</w></name>· <space quantity="1" unit="character"/> οἱ δὲ <name type="personnel"><w lemma="νεωποίης"><unclear>ν</unclear>εωποῖαι</w></name> <w lemma="καταγράφω"><unclear>κ</unclear><supplied reason="lost">αταγραφέσθων</supplied></w>
+	    					
+<lb xml:id="line_21" n="21"/><supplied reason="lost">κ</supplied>αὶ <w lemma="ἀντιγράφω">ἀντιγραφέσθω</w> ὁ τῆς <name type="group"><w lemma="βουλή"><unclear>β</unclear><supplied reason="lost">ουλ</supplied>ῆς</w></name> <name type="title"><w lemma="γραμματεύς">γραμματε<supplied reason="lost">ὺς</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="δίδωμι"><supplied reason="lost">δοῦναι</supplied></w> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">τοὺς</supplied>
+	    					
+<lb xml:id="line_22" n="22"/><name type="personnel"><w lemma="νεωποίης"><supplied reason="lost">ν</supplied>εωποίας</w></name> τοῖς <name type="title"><w lemma="πρύτανις">πρυτ<unclear>ά</unclear><supplied reason="lost">νεσι</supplied></w></name> <w lemma="εἰς"><supplied reason="lost">εἰ</supplied><unclear>ς</unclear></w> <name type="animal" key="ox"><w lemma="βοῦς"><unclear>β</unclear><supplied reason="lost">οῦ</supplied>ν</w></name> <w lemma="δραχμή"> <unclear>δραχ</unclear><supplied reason="lost">μὰς</supplied></w> <gap reason="lost" quantity="14" unit="character"/>
+	    					
+<lb xml:id="line_23" n="23"/><w lemma="πέντε">πέντε</w> καὶ <w lemma="εἰς">εἰς</w> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <w lemma="δραχμή">δρ<unclear>α</unclear>χμὰς</w> <gap reason="lost" extent="unknown" unit="character"/>
+					
+<lb xml:id="line_24" n="24"/><unclear>κ</unclear>αὶ <w lemma="εἰς">εἰς</w> <name type="bakery"><w lemma="ἔλατρον">ἔλατρα</w></name> <unclear>κα</unclear><supplied reason="lost">ὶ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_25" n="25"/><supplied reason="lost">κ</supplied>αὶ <name type="vegetal"><w lemma="ξύλον">ξύλα</w></name> <w lemma="δραχμή">δρα<unclear>χ</unclear><supplied reason="lost">μὰς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_26" n="26"/><supplied reason="lost">κα</supplied>ὶ τῆι <name type="personnel"><w lemma="ἱέρεια">ἱερ<unclear>ε</unclear><supplied reason="lost">ίαι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    						    					
+<lb xml:id="line_27" n="27"/><w lemma="ἱερός"><supplied reason="lost">ἱ</supplied>ερα<unclear>ν</unclear></w> (?) <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>						
+[...] of the priesthood of the Mother of the [Gods]. With good fortune, in the year of the <foreign>stephanephoros</foreign> Apollo, after Hekataios, on the 16th of the month Thargelion, the <foreign>neopoiai</foreign> working under the authority of Lampitos (5) son of Hippokrates sell the priesthood of the Mother of the Gods according to the following conditions: the woman purchasing will serve as priestess according to the law and to this contract. The priesthood of the Mother of the Gods is sold according to the following conditions: the woman purchasing will serve as priestess as long as she lives, according to the existing law, and the same woman (10) will also serve as priestess of the Meter Phrygie. She will sacrifice on the 30th of the month Alethion according to the following and she will lead the procession from the prytaneion: she will receive the right leg and half of the head and a tongue and the brain and the throat and a shoulder (15) and portions of the side on three right (rib)bones, from one of the animals which she wants among those that the city offers for sacrifice. From the animals which private individuals offer for sacrifice, she will receive a thigh from one of the animals. The priestess will also receive all the portions and objects which are set aside on the table, except if made of gold or silver or of clothing material. When anyone dedicates one of these objects, let the priestess write up (an account of it) for the records of the <foreign>neopoiai</foreign> and let her preserve it inside [the temple until] such times as the (20) city resolves (to do something) concerning these objects. The <foreign>neopoiai</foreign> [are to write this down] and the secretary of the Council is to make a copy. The <foreign>neopoiai</foreign> [are to give] to the <foreign>prytaneis</foreign> [for] an ox [...]five drachmae; and for a goat [...]5 drachmae; and for flat cakes and [...] (25) and wood [...] drachmae [...] and to the priestess [...] sacred (?) [...]      </p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+[...] de la prêtrise de la Mère des [Dieux]. À la bonne fortune, sous la stéphanéphorie d'Apollon, celle après Hekataios, le 16 du mois de Thargelion, les néopes travaillant sous les ordres de Lampitos (5) fils d'Hippocrate vendent la prêtrise de la Mère des Dieux aux conditions suivantes : l'acheteuse sera prêtresse selon la loi et selon ce contrat. La prêtrise de la Mère des Dieux est vendue aux conditions suivantes : l'acheteuse sera prêtresse aussi longtemps qu'elle vivra, selon la loi en vigueur, et la même femme (10) sera aussi prêtresse de la Mère Phrygienne. Elle sacrifiera le 30 du mois d'Alethion selon les consignes suivantes et conduira la procession depuis le prytanée : elle recevra, de l'animal qu'elle souhaite parmi ceux que la cité sacrifie, la patte droite et la moitié de la tête, la langue et la cervelle, le cou et une épaule (15), et des morceaux sur trois côtes à droite. Des animaux offerts par les particuliers, elle recevra une cuisse de l'une des bêtes. Elle
+obtiendra également tout ce qui a été déposé sur la table, sauf s'il s'agit de pièces d'or, d'argent ou de vêtement. Lorsque quelqu'un consacre quelque chose de ce type, que la prêtresse l'enregistre à destination des néopes et qu'elle le conserve à l'intérieur [du temple, jusqu'à ce que] la (20) cité effectue une résolution concernant ces objets. Que les néopes [l'inscrivent] et que le secrétaire du Conseil en fasse une copie. Les néopes [doivent fournir] aux prytanes [pour] un bovin [...]5 drachmes; et pour un caprin [...] drachmes; et pour des gâteaux plats et [...] (25) et du bois [...] drachmes [...] et pour la prêtresse [...] sacrée (?) [...]</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>Though part of its heading is missing (line 1), and the conclusion of the document remains unknown (this may perhaps have contained details about the price obtained and the modalities of payment for the office, such as in instalments), the document is clearly a contract for the sale of a priesthood (see lines 4-6), a common type of document in our Collection, particularly well-attested on Kos (cf. the references below). Intriguingly, the document immediately makes explicit reference to two sources of authority according to which the sale must be conducted: the law (νόμος) and the διαγραφή (lines 6-7). It seems clear that the latter constitutes the main body of the document, inscribed after a short space left empty in line 7 (see also Maddoli for this conclusion): διαγραφή is the typical term used for such contracts for a priestly office on Kos (cf. esp. <ref target="CGRN_147">CGRN 147</ref>, line 131), as well as at Erythrai (cf. <bibl type="abbr" n="IG XII.6">IG XII.6</bibl> 1197,
+line 40) and Priene (cf. e.g. <ref target="CGRN_175">CGRN 175</ref>, line 38) for example, while the νόμος appears to have been a law of the city of Iasos that may have referred to more general aspects of the sale procedure, management of sanctuaries and rules of conduct for priests, valid across priestly contracts. This contract (διαγραφή) contains many of the standard elements of the rules for priestly offices: a description of the length of tenure and the duties of the priestess (lines 8-10) and a list of sacrificial duties and perquisites (lines 10-18); but also, somewhat more unusally, rules are given for the setting up of votive offerings in the sanctuary and the role of the priestess in the matter (lines 18-21). As is occasionally the case (for instance in the detailed contracts of Kos, e.g. again <ref target="CGRN_147">CGRN 147</ref>), the contract extends beyond its specific scope and also discusses the requirements and funding for civic sacrifices in the cult of Meter (lines
+21-25, and perhaps beyond). Returning to the aforementioned νόμος, this is only obliquely referred to as a source of authority in lines 6-7, but the law is again invoked as providing confirmation and no doubt further details concerning the lifetime duration of the priesthood (κατὰ τὸν ὑπάρχοντα νόμον, line 9). As it happens, we have at least one instance of a general decree concerning priesthoods at Iasos which might provide us with some parallel evidence for the sort of law that was meant here: this is <bibl type="abbr" n="I.Iasos">I.Iasos</bibl> 219, whose preamble appears to have considered both general rules for entry into sanctuaries (lines 2-3), and the upkeep and general repair of the sanctuaries which priests and <foreign>neopoiai</foreign> had to provide (lines 6-14); the substance of the decree is now lost, but contained relatively sweeping measures, since it referred to the various priesthoods of many (all?) the gods (lines 14-16: δεδόχθαι τῆι βουλῆι καὶ τῶ[ι | δήμωι· τῶ]ν θεῶν αἱ ἱερωσύναι ἀπὸ τοῦδε το̣ῦ χρό|[νου —). While this probably cannot be the specific law that was meant in the present text—it seems rather to have been a supplementary measure of some sort—it nevertheless demonstrates that Iasos passed large-scale legislation and other measures concerning its priestly offices on several occasions. For a probable case of a general rule concerning sales of priesthoods, see also <ref target="CGRN_39">CGRN 39</ref>, from nearby Miletos. For a much earlier contract for a priesthood at Iasos, though not a sale, see here <ref target="CGRN_42">CGRN 42</ref>. That document also makes reference to a law (νόμος) which concerned the administration of dedications by the <foreign>neopoiai</foreign>; see the commentary there at lines 9-10, and cf. below here at lines 18-21. For a discussion of other sales of priesthood at Iasos, see the discussion in Maddoli, p. 111-112.</p>
+						
+						<p>The Mother of the Gods, specifically Meter Phrygie, is now also attested in a relatively contemporary priesthood sale from Priene: see <ref target="CGRN_175">CGRN 175</ref>. It is striking that this regulation from Priene, more extensively preserved, discusses several aspects of the cult of Meter which are not mentioned in the more fragmentary contract from Iasos. These include, for instance, a discussion of women taking part in the rites, initiations, and collections made by the priestess. It is possible that such details about the cult will have been defined in missing portions of the present διαγραφή or in other documents relating to the cult of Meter and Meter Phrygie at Iasos (the priestess is to officiate in both related cults, see line 10). As at Priene, it is worth underlining that the cult of Meter is strongly framed as a political cult, since its procession departs from the civic prytaneion (cf. lines 10-12, below) and its sacrifice involves high officials such as the <foreign>prytaneis</foreign> (line 22), who appear to have been involved in the purchase and possibly the rearing of sacrificial animals (for the rearing of cattle and other animals in anticipation of sacrifice, as a means of fattening them up and creating more meat for feasting, see also <bibl type="abbr" n="SEG">SEG</bibl> 45, 1508A-B; 50, 1100-1101, Bargylia). This perhaps stands in contrast to the cult of Meter as usually one performed primarily by women (though women were clearly involved in some aspects of the cult at Priene). For the cult of Meter in the Aegean and Asia Minor prior to the Hellenistic period, see here <ref target="CGRN_60">CGRN 60</ref> (Thera) and <ref target="CGRN_71">CGRN 71</ref> (Metropolis); for an extensive discussion of the cult of Meter and its origins, see Roller; see also Maddoli, p. 112-113, noting the earlier testimony of <bibl type="abbr" n="I.Iasos">I.Iasos</bibl> 229, which preserves a fragmentary list of financial contributors for the building of an οἶκος for Meter Phrygie.</p>
+
+<p>Line 1: Maddoli reckons that the missing word at the beginning of the text may have been πώλησις, without any certainty being possible. Though Maddoli excludes this, it may be that the document may have in some form introduced the διαγραφή here, which itself forms the body of the document and explicitly begins in line 7.</p>
+						
+<p>Lines 4-5: The name Λάμπιτος Ἱπποκράτους, head of the <foreign>neopoiai</foreign>, is known from another Iasian inscription, <bibl type="abbr" n="I.Iasos">I.Iasos</bibl> 266, line 13, but this is unlikely to be the same individual, since this other text seems to date to the Hekatomnid period; rather, we should see this earlier homonym as a probable ancestor—in a prominent local family—of the later Lampitos (see Maddoli, p. 114).</p>
+						
+<p>Lines 10-12: The major civic sacrifice to Meter is to take place annually on the 30th of Alethion and to involve a procession led out from the prytaneion to the sanctuary of goddess. It is not specified what animals are or are not suitable for sacrifice: such traditional information may have been widely known in the community (hence there was no need to record it), alternatively, this lack of specificity may imply a free choice of animals. The calendar of Iasos remains poorly understood; on civic processions conducted from the <foreign>prytaneion</foreign>, cp. here <ref target="CGRN_165">CGRN 165</ref> (Kos), lines B12-19, and <ref target="CGRN_205">CGRN 205</ref> (Antiocheia-ad-Pyramum), line 6-9.</p>
+						
+<p>Lines 12-16: While the priestess is to receive only a thigh from a single animal made during private sacrifices, she is to receive a fairly elaborate of perquisites from an animal of her choice during the annual civic sacrifice. For the contrast drawn between perquisites from private vs. civic sacrifices, cp. e.g. <ref target="CGRN_39">CGRN 39</ref> (Miletos). Here, the (exceptional) choice in the case of civic sacrifice, granted to the priestess (οὗ ἂν βούληται, line 13), enabled her not merely to ensure that the animal was healthy (since this was presumed of any sacrificial animal), but would allow her to select one of the largest or most beautiful animals in the procession, thus potentially increasing the size or quality of her share of meat (see below at line 22 for the probable presence of an ox or cow in the civic sacrifice). As is usual, the priestess receives a leg, which is specified here as being the right leg of the animal; for this portion, see esp. <ref target="CGRN_98">CGRN 98</ref> (Erythrai), lines A12-16, and <ref target="CGRN_212">CGRN 212</ref> (Pergamon), lines 10-17. For the half-head, a portion typically granted as a priestly perquisite in Attica, see here esp. <ref target="CGRN_57">CGRN 57</ref> (Aixone), line 4, etc. The following three portions listed are connected to the head and may have been butchered or served with it: the tongue, the brain, and the throat. The tongue is often granted as a priestly portion, cp. the evidence from Chios: e.g. <ref target="CGRN_41">CGRN 41</ref>, line 9. The brain is only more occasionally mentioned: cf. here <ref target="CGRN_180">CGRN 180</ref> (Ialysos), line 2. By contrast, the throat of the animal (τράχηλος) is seldom if ever mentioned explicitly in ritual norms. In a typical sacrifice, the throat of the animal was slit and part of it may have been removed at the same time; here, however, the word probably designates the whole joint of meat forming the neck, which was perhaps severed along with the head during decapitation (before the head was cleaved into two hemispheres). Finally, two other portions are listed coming from the area of the shoulder: the shoulderblade and an unusually detailed portion from the ribcage. The shoulderblade is often the focus of the priestly portion: see esp. here <ref target="CGRN_129">CGRN 129</ref> (Patara), lines 4-5. As Maddoli well notes (p. 110, n. 11), the last portion listed provides a key for understanding the somewhat enigmatic word τρίπλευρον found in other ritual norms: see here <ref target="CGRN_180">CGRN 180</ref> (Ialysos), line 1, and cp. <ref target="CGRN_88">CGRN 88</ref> (Chios), line 7.  Maddoli prints πλευρᾶς ἐπὶ τρία ὀστᾶ δεξιά, but we note that all of the elements in the list are presented in the accusative and that πλευρᾶς cannot be a partitive genitive like τῆς κεφαλῆς. Therefore, we print πλευράς and understand the phrase to mean "portions of the side" (see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. πλευρά 2) on three right bones" (i.e. on three ribs). Thus, the explicit phrase at Iasos provides an elucidation for the specific anatomical range of this portion granted to priests: after the sternum had been severed and the rib cage divided into two halves, a τρίπλευρον consisted of the meat on probably the first three rib-bones (counting down from the clavicle), including also these large bones in the portion. </p>
+						
+<p>Lines 16-21: Concluding the list of perquisites of the priestess, we find a specification that she is to receive all of the offerings set on the table for the goddess, with the exception of objects made of gold, silver or cloth. For the common practice of table-offerings obtained as perquisites by priests, see here e.g. <ref target="CGRN_76">CGRN 76</ref> (Erythrai), lines 14-20; see also Maddoli, p. 115-116 for further discussion. The added exemptions inform us that it was apparently a common practice by worshippers to place dedications of gold, silver or vestments for the goddess directly on the table in the sanctuary. Indeed, the rule which follows in line 18 appears to refer specifically to the consecration of such objects by this process: τούτων (i.e. of these objects) δὲ ὅ [τ]ι ̣ ἂν [τ]ις ἀνατιθῆι. To ensure that the dedications were preserved in good fashion, the priestess was to draw up a list of the objects and conserve them in the temple, until official copies were made and the city was to decide concerning their use (this further seems to imply that the city could, if it decided, "borrow" the money obtained from the dedications for the goddess from her "account" and use these funds for other purposes; cp. <ref target="CGRN_24">CGRN 24</ref>, Athens, lines A6-9). For the administration of dedications by the officials called <foreign>neopoiai</foreign> at Iasos, see here <ref target="CGRN_42">CGRN 42</ref>, lines 9-10.</p>
+						
+<p>Lines 21-25: At least the beginning of these lines appears to contain regulations for the funding of the purchase of the animals for sacrifice. Most conspicuous among these, if the restoration is right, was an ox (or probably a cow), to be purchased and perhaps reared by the presidents of the civic council (<foreign>prytaneis</foreign>) from funds paid by the <foreign>neopoiai</foreign>. Another animal involved in the civic sacrifice was a goat (for a goat offered to Meter, see here <ref target="CGRN_104">CGRN 104</ref>, Halikarnassos, line 38) as well as cakes called ἔλατρα (on these, see <ref target="CGRN_176">CGRN 176</ref>, lines 10-12, in the cult of Dionysus at Priene, and cp. also their use in the sacrifices as part of the cult of Meter in these same lines, in connection with the sheep sacrificed to Meter). Further provisions in lines 25 and perhaps beyond seem to have involved the payment for the wood necessary for the civic sacrifice and other specifications.</p>
+						
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

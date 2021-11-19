@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_78" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 78</idno>:  <rs type="textType" key="decree">Decree</rs> of the deme of Piraeus concerning the Thesmophorion</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> <rs type="objectType">Stele</rs> of white Pentelic marble, broken above.</p>
+		<p><dimensions>
+			<height unit="cm">59</height>
+			<width unit="cm">42</width>
+			<depth unit="cm">9</depth>
+		</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Stoichedon 26. </p>
+			<p>Letters: <height unit="cm">0.7</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0375" notAfter="-0325">mid-4th century BC</origDate></p>
+							
+		<p><desc>Justification: lettering (Kirchner).</desc></p>
+						</origin>
+	<provenance><p><placeName type="ancientFindspot" key="Piraeus" n="Attica"><ref target="http://pleiades.stoa.org/places/580062" type="external">Piraeus</ref></placeName>. Now in the Museum of Piraeus.</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p>Edition here based on Kirchner <bibl type="abbr" n="IG IG II²">IG II²</bibl> 1177.</p>
+	    			
+	    			<p> Other edition: Koehler <bibl type="abbr" n="IG II">IG II</bibl> 573b.</p>
+	    			
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 33; 
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 36; 
+	    				Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 1;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 50, 20.</p>
+	    			
+	    			<p>Further bibliography:
+	    				<bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>;
+	    				<bibl type="author_date" n="Clinton 1996a">Clinton 1996a</bibl>; 
+	    				<bibl type="author_date" n="Robertson 1996">Robertson 1996</bibl>: 347-352;
+	    				<bibl type="author_date" n="Dillon 1997">Dillon 1997</bibl>;
+	    				<bibl type="author_date" n="Casevitz 2004">Casevitz 2004</bibl>;
+	    				<bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>: 270-283 and App. I;
+	    				<bibl type="author_date" n="Casevitz 2006">Casevitz 2006</bibl>;
+	    				<bibl type="author_date" n="Pirenne-Delforge 2008b">Pirenne-Delforge 2008b</bibl>.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	    	
+	    	<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				<lb xml:id="line_1" n="1"/> <w lemma="ἐπιμελέομαι"><supplied reason="lost">ἐπιμελεῖσθαι</supplied></w>  <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὸν</supplied> <name type="title"><w lemma="δήμαρχος"><supplied reason="lost">δήμαρχον</supplied></w></name>
+	    				
+	    				<lb xml:id="line_2" n="2"/> <w lemma="μετά"><supplied reason="lost">μετὰ</supplied></w> τῆς   <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> τὸν <w lemma="ἀεί"><supplied reason="lost">ἀεὶ</supplied></w> <w lemma="δημαρχέω"><supplied reason="lost">δημαρχ</supplied>
+	    					
+	    					<lb xml:id="line_3" n="3" break="no"/> <supplied reason="lost">οῦ</supplied>ντα</w> τοῦ   <name type="structure"><w lemma="Θεσμοφόριον">Θεσμοφορίου</w></name>, <w lemma="ὅπως"><supplied reason="lost">ὅπως</supplied></w> <w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w> <w lemma="μηδείς"><supplied reason="lost">μ</supplied>
+	    						
+	    						<lb xml:id="line_4" n="4" break="no"/> <supplied reason="lost">ηδ</supplied>εὶς</w> <w lemma="ἄφετος">ἀφέτους</w> <w lemma="ἀφίημι">ἀφιεῖ</w> <w lemma="μηδέ">μηδὲ</w> <name type="group"><w lemma="θίασος">θιά<supplied reason="lost">σο</supplied>
+	    							
+	    							<lb xml:id="line_5" n="5" break="no"/> <supplied reason="lost">υς</supplied></w></name> <w lemma="συνάγω">συνάγει</w> <w lemma="μηδέ">μηδὲ</w> <w lemma="ἱερός">ἱερὰ</w> <w lemma="ἐνιδρύω">ἐνιδρεύω<supplied reason="lost">ν</supplied></w>
+	    				
+	    				<lb xml:id="line_6" n="6" break="no"/> <supplied reason="lost">τα</supplied>ι <w lemma="μηδέ">μηδὲ</w> <name type="purification"><w lemma="καθαρμός">καθαρμοὺς</w></name> <w lemma="ποιέω">ποιῶσιν</w> <w lemma="μηδέ">μηδ
+	    					
+	    					<lb xml:id="line_7" n="7" break="no"/> <supplied reason="lost">ὲ</supplied></w> <w lemma="πρός">πρὸς</w> τοὺς <name type="structure"><w lemma="βωμός">βωμοὺς</w></name> <w lemma="μηδέ">μηδὲ</w> τὸ   <name type="structure"> <w lemma="μέγαρον">μέγαρ
+	    						
+	    						<lb xml:id="line_8" n="8" break="no"/> ον</w></name> <w lemma="πρόσειμι">προσίωσιν</w> <w lemma="ἄνευ">ἄνευ</w> τῆς <name type="personnel"><w lemma="ἱέρεια">ἱερέας</w></name> <w lemma="ἄλλος"><supplied reason="lost">ἀ</supplied>λ
+	    							
+	    							<lb xml:id="line_9" n="9" break="no"/> λ’</w> <w lemma="ἤ">ἢ</w> <w lemma="ὅταν">ὅταν</w> ἡ <name type="festival"><w lemma="ἑορτή">ἑορτὴ</w></name> τῶν <name type="festival"><w lemma="θεσμοφόρια">Θεσμοφορίων</w></name>
+	    				
+	    				<lb xml:id="line_10" n="10"/> καὶ   <name type="festival"><w lemma="προηρόσιος">Πληροσίαι</w></name> καὶ <name type="festival"><w lemma="καλαμαῖος">Καλαμαίοις</w></name> κ
+	    				
+	    				<lb xml:id="line_11" n="11" break="no"/> αὶ τὰ <name type="festival"><w lemma="Σκίρα">Σκίρα</w></name> καὶ <w lemma="εἰ">εἴ</w> <w lemma="τις">τινα</w> <w lemma="ἄλλος">ἄλλην</w> <w lemma="ἡμέρα">ἡμε
+	    					
+	    					<lb xml:id="line_12" n="12" break="no"/> ραν</w> <w lemma="συνέρχομαι">συνέρχονται</w> αἱ   <name type="group"><w lemma="γυνή">γυναῖκες</w></name>  <w lemma="κατά">κα
+	    						
+	    						<lb xml:id="line_13" n="13" break="no"/> τὰ</w> τὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name>· <space quantity="1" unit="character"/> <w lemma="ψηφίζω">ἐψηφίσθαι</w>   <name type="ethnic" key="Piraeus"> <name type="group"><w lemma="Πειραιεύς">Πειραι
+	    							
+	    							<lb xml:id="line_14" n="14" break="no"/> εῦσιν</w></name></name>, <w lemma="ἐάν">εἰάν</w> <w lemma="τις">τίς</w> <w lemma="τις">τι</w> <w lemma="οὗτος">τούτων</w> <w lemma="παρά">παρὰ</w> <w lemma="οὗτος">τα
+	    								
+	    								<lb xml:id="line_15" n="15" break="no"/> ῦτα</w> <w lemma="ποιέω">ποεῖ</w>   <name type="punishment"><w lemma="ἐπιβολή">ἐπιβολὴν</w></name> <w lemma="ἐπιβάλλω">ἐπ<supplied reason="lost">ι</supplied>βαλόντα</w> τ
+	    				
+	    				<lb xml:id="line_16" n="16" break="no"/> ὸν   <name type="title"><w lemma="δήμαρχος">δήμαρχον</w></name> <w lemma="εἰσάγω">εἰσάγει<supplied reason="lost">ν</supplied></w> <w lemma="εἰς">εἰσστὸ</w> <w lemma="δικαστήριον">δι
+	    					
+	    					<lb xml:id="line_17" n="17" break="no"/> καστήριον</w> <w lemma="χράω">χρώμενον</w>   <name type="authority">τοῖς <w lemma="νόμος">νόμοι
+	    						
+	    						<lb xml:id="line_18" n="18" break="no"/> ς</w> οἱ <w lemma="κεῖμαι">κεῖνται</w> <w lemma="περί">περὶ</w> <w lemma="οὗτος">τούτων</w></name>· <space quantity="1" unit="character"/> <w lemma="περί">περὶ</w> δ
+	    				
+	    				<lb xml:id="line_19" n="19" break="no"/> ὲ τῆς <name type="vegetal"><w lemma="ὑλασία">ὑλασίας</w></name> τ<supplied reason="lost">ῶ</supplied>ν  <name type="structure"><w lemma="ἱερός">ἱερῶν</w></name> <w lemma="ἐάν">εἰάν</w> <w lemma="τις">τις</w>
+	    				
+	    				<lb xml:id="line_20" n="20"/> <w lemma="ὑλάζομαι">ὑλάζηται</w>,  <name type="authority"><w lemma="κύριος">κυρίους</w></name> <w lemma="εἰμί">εἶναι</w> τοὺς <name type="authority"><w lemma="ἀρχαῖος">ἀρ
+	    					
+	    					<lb xml:id="line_21" n="21" break="no"/> χαίους</w></name> <w lemma="νόμος">νόμους</w> οἱ <w lemma="κεῖμαι">κεῖ<supplied reason="omitted">ν</supplied>ται</w> <w lemma="περί">περὶ</w> <w lemma="οὗτος">το
+	    						
+	    						<lb xml:id="line_22" n="22" break="no"/> ύτων</w>· <w lemma="ἀναγράφω">ἀναγρ<supplied reason="lost">ά</supplied>ψαι</w> δὲ <w lemma="ὅδε">τόδε</w> τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισ
+	    							
+	    							<lb xml:id="line_23" n="23" break="no"/> μα</w></name> τοὺς <name type="title"><w lemma="ὁριστής">ὁριστὰς</w></name> <w lemma="μετά">μετὰ</w> τοῦ <name type="title"><w lemma="δήμαρχος">δημάρχ
+	    								
+	    								<lb xml:id="line_24" n="24" break="no"/> ου</w></name> καὶ <w lemma="ἵστημι">στῆσαι</w> <w lemma="πρός">πρὸς</w> τῆι <w lemma="ἀνάβασις">ἀναβάσει</w>
+	    				
+	    				<lb xml:id="line_25" n="25"/> τοῦ <name type="structure"><w lemma="Θεσμοφόριον">Θεσμοφορίου</w></name>.
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>[... the demarch, who is successively the demarch in office, must take care of] the Thesmophorion together with the priestess, so that no one sets free slaves (or: sacred animals?) or (5) gathers a <foreign>thiasos</foreign> or that sacred objects be installed or that the people carry out purification rites or that they approach either the altars or the <foreign>megaron</foreign> without the priestess at any time except when it is the festival of the Thesmophoria, (10) and at the Plerosia and at the Kalamaia and at the Skira and if there is another day on which the women meet according to the ancestral traditions. The Piraeans have decreed: if someone (15) does any of these things against these regulations, that the demarch, having imposed a penalty, bring him before the court using the laws that are in place with respect to these things. Concerning the gathering of the wood of the sanctuaries, if someone (20) gathers wood, may the old laws be valid, those that are in place with respect to these matters. The <foreign>horistai</foreign> should record this decree together with the demarch and erect it at the road up to (25) the Thesmophorion.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[... que le démarque successivement en fonction ait, avec] la prêtresse, [la surveillance] du Thesmophorion, de sorte que personne n'y affranchisse d'esclaves (ou ne libère d'animaux sacrés ?), (5) n'y réunisse de thiases, n'y installe d'objets sacrés, n'y fasse de purifications et ne s'approche ni des autels ni du <foreign>megaron</foreign> sans la prêtresse, excepté lors de la fête des Thesmophoria, (10) des Plerosia, et des Kalamaia, et des Skira, et tout autre jour où les femmes se rassemblent, conformément aux coutumes ancestrales; qu'il plaise aux gens du Pirée de décréter : si quelqu'un (15) enfreint l'une de ces prescriptions, que le démarque lui inflige une amende et porte l'affaire devant le tribunal en vertu des lois qui existent à ce sujet; pour ce qui est du bois des sanctuaires, si quelqu'un en (20) ramasse, que s'appliquent les anciennes lois qui existent à ce sujet; que les <foreign>horistai</foreign>, de concert avec le démarque, fassent transcrire le présent décret et qu'ils le fassent ériger dans la montée vers (25) le Thesmophorion.</p>
+					<p>(traduction d'après B. Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl>)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>This decree—probably of the deme of Piraeus, see lines 12-13—properly belongs to the sanctuary and precinct of Demeter Thesmophoros in the Piraeus, which should perhaps be identified with the foundations of a rectangular structure found to the north of Mounichia hill (Le Guen-Pollet). The beginning of the regulation (any preamble, for instance) is now missing. The first extant part (lines 1-13) aims at curbing certain ritual activities—illegitimate gatherings and rites—at times when there is no festival occasion, and it resolves to penalize transgressors according to the laws (νόμοι) that are in place with respect to these things (the source and content of which are unknown; see lines 13-18). Another section, lines 18-22 (see below), concerns the protection of wood belonging to the sanctuary. Both rules seem to be aimed at the preservation of general order in the sanctuary and of its good maintenance. Τhe final part of the text is concerned with the inscribing and setting up of the inscription at the Thesmophorion itself by the <foreign>horistai</foreign>, officials of the state that were in charge of boundaries, such as the sacred boundaries of this cult site in Piraeus (lines 22-25).</p>
+						
+<p>Lines 1-3: Τhe function of demarch, the principal magistrate of the deme, rotated annually. For the central role of the demarch in the maintenance of sanctuaries, and especially the performance of rituals, see also here <ref target="CGRN_56">CGRN 56</ref> (Marathonian Tetrapolis), col. II, line 23.</p>
+							
+<p>Lines 4-5: It is not certain whether the term ἄφετος refers here to sacred animals (Ziehen translates: "damit niemand gewithe Tiere freilässt") or to sacred slaves (Le Guen-Pollet: "de sorte que personne n'y affranchisse d'esclaves"); see here a similar uncertainty in the regulations of the deme Phrearrhioi, also intriguingly in the context of rituals in honour of Demeter: <ref target="CGRN_103">CGRN 103</ref>, lines 9-10. The θιάσοι should refer here to cultic groups gathered ad hoc, "ungeordnete Kultgruppen" (Ziehen).</p>
+						
+<p>Lines 5-6: The notion of ἐνιδρυεῖν here implies that ἱερά are concrete objects that could be placed and consecrated in the sanctuary: see Pirenne-Delforge.</p>
+							
+<p>Lines 6-8 : It was not unusual for sanctuaries to be inaccessible for certain periods in the year. For the rule that the priest or priestess should be present, contrast <ref target="CGRN_36">CGRN 36</ref>, lines 7-11, and <ref target="CGRN_50">CGRN 50</ref>, lines 9-14 (both from Chios) in which the worshipper can make sacrifices him/herself in case the priest is absent.</p>
+							
+<p>Lines 8-12: For the festivals mentioned here, cf. Le Guen-Pollet, Mikalson and Parker, with further discussion. The festivals seem perhaps to appear in chronological order in this short list: first, the Thesmophoria in Pyanopsion (month 4); then, the Plerosia and Kalamaia sometime in the Spring and Summer respectively; finally, the Skira in Skirophorion (the last month of the Athenian year). It is not clear whether the Thesmophoria referred to here are a local festival of the deme (so Clinton) or a festival organized on the level of the <foreign>polis</foreign> in which the deme of Piraeus participated. The reference to a <foreign>megaron</foreign> indicates a typical 'pit' used . For the Thesmophoria, cp. also our discussion at on <ref target="http://cgrn.ulg.ac.be/CGRN_97/">CGRN 97</ref> (Mylasa). On the pre-ploughing festival called the Proerosia, cf. Robertson and see here <ref target="http://cgrn.ulg.ac.be/CGRN_25/">CGRN 25</ref> (Paiania). For the Skira, see <ref target="http://cgrn.ulg.ac.be/CGRN_56/">CGRN 56</ref> (Marathonian Tetrapolis), col. II, lines 30, 51.</p>
+								
+<p>Lines 18-22: Rules concerning the protection of sacred wood are prominent in our evidence as well as in this collection; cf. Dillon for a contextual discussion on the 'ecology' of Greek sanctuaries. The reference to ἀρχαίοι νόμοι indicates that there were older, traditional rules in place (orally transmitted or recorded in a document not transmitted to us) about the trees. This is the only place in which this phrase occurs, but it may be compared to other (frequent) appeals to tradition in the ritual norms, for example the injunction to do things κατὰ τὰ πάτρια (e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_24/">CGRN 24</ref>, Athens, fr. A, line 8, <ref target="http://cgrn.ulg.ac.be/CGRN_31/">CGRN 31</ref>, Eleusis, lines 4, 11, 25-26, 34, and <ref target="http://cgrn.ulg.ac.be/CGRN_35/">CGRN 35</ref>, Keos, lines 12-13), καθάπερ τοῦ ἀρχαίου (<bibl type="abbr" n="IG XII.7">IG XII.7</bibl> 68, line 18) or καθότι καὶ πρότερον ἦν (<bibl type="abbr" n="IG II²">IG II²</bibl> 1035). The use of the term ἀρχαῖος is particularly interesting, since, as Casewitz explains, it designates a past that should be considered as linked to the present (as opposed to παλαιός which refers to a past that is already completed). Thus, the term is suitable: it points to tradition as a common way of legitimating why things are done in the way that they are done.</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

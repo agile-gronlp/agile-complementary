@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_192" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 192</idno>: Fragment of a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> from the sanctuary of Zeus and Hera Panamara</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of marble <rs type="objectType">plaque or stele</rs> (?), of which only part of the left side is preserved; otherwise broken on all sides. As Riet van Bremen has convincingly demonstrated, this inscription and another block, with which it has been consistently associated (since the first publication in Hatzfeld, cf. nos. 9a-b; cf. also Sokolowski nos. 67A-B; Şahin nos. 1A-B), do not in fact belong together. The other block is much deeper, and though both inscriptions are often identified as sacrificial calendars (so Sokolowski, Şahin), it is perhaps only the other inscription which might fit this category (on the contents of the present inscription, cf. our Commentary below).</p>
+			<p><dimensions>
+					<height unit="cm">48</height>
+					<width unit="cm">30</width>
+					<depth unit="cm">11</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="cm">1.6</height>. </p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0150" notAfter="-0050">ca. 150-50 BC</origDate></p>
+			<p><desc>Justification: later Hellenistic lettering (van Bremen, on the basis of Cousin's copy). Note also the use of implied <foreign>iota subscriptum</foreign>.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Panamara" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599853" type="external">Panamara</ref></placeName>. Found in the sanctuary of
+Zeus and Hera. Current location unknown, perhaps lost.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-04-2016 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Şahin <bibl type="abbr" n="I.Stratonikeia">I.Stratonikeia</bibl> 1B and 39A.</p>
+					<p>Other edition: <bibl type="author_date" n="Hatzfeld 1927">Hatzfeld 1927</bibl>: 69, no. 9b (cf. no. 9a), on the
+basis of the copy of Cousin.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 67B (cf. A).</p>
+					<p>Further bibliography: <bibl type="author_date" n="van Bremen 2004">van Bremen 2004</bibl>: 224-226.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    								
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb xml:id="line_1" n="1" break="no"/><orig>ει</orig> <name type="animal" key="sheep"><w lemma="πρόβατον">πρόβατον</w></name> <name type="colour1"><w lemma="λευκός">λε<supplied reason="lost">υκὸν</supplied></w></name> <supplied reason="lost">(?)</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_2" n="2"/><name type="animal" key="goat"><name type="gender"><w lemma="τράγος">τράγον</w></name></name>, <name type="animal" key="bird"><w lemma="ἀλεκτρυών">ἀλεκτ<supplied reason="lost">ρυόνα</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3"/><name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλειον</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_4" n="4"/>καὶ <w lemma="ἄλλος">τἆλλα</w> τὰ <name type="authority"><name type="genericOffering"><w lemma="νομίζω">νο<supplied reason="lost">μιζόμενα</supplied></w></name></name> <w lemma="πρός"><supplied reason="lost">πρὸς</supplied></w> <supplied reason="lost">τὰς</supplied>
+	    					
+<lb xml:id="line_5" n="5"/><name type="sacrifice"><w lemma="ἱερουργία">ἱερουργίας</w></name> καὶ τὰ<supplied reason="lost">ς</supplied> <name type="meal"><w lemma="ἑστίασις"><supplied reason="lost">ἑστιάσεις</supplied></w></name> <supplied reason="lost">(?)</supplied>
+	    					    					
+<lb xml:id="line_6" n="6"/><w lemma="ὅταν">ὅταν</w> δὲ <name type="festival"><w lemma="Ἡραῖος">Ἡραῖα</w></name> <w lemma="συντελέω">συν<supplied reason="lost">τελῆται</supplied></w> <w lemma="κατά"><supplied reason="lost">κατὰ</supplied></w>
+	    					
+<lb xml:id="line_7" n="7"/><w lemma="τριετηρίς">τριετηρίδα</w> <name type="month"><w lemma="μείς">μηνὸ<supplied reason="lost">ς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="παρέχω"><supplied reason="lost">παρέ</supplied>
+	    					
+<lb xml:id="line_8" n="8" break="no"/><supplied reason="lost">χειν</supplied></w> <supplied reason="lost">(?)</supplied> <w lemma="εἰς">εἰς</w> <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> τῇ <name type="deity" key="Hera"><w lemma="Ἥρα">Ἥ[ρ]ᾳ</w></name> <name type="animal" key="ox"><name type="gender"><w lemma="δάμαλις">δά<supplied reason="lost">μαλιν</supplied></w></name></name> <supplied reason="lost">καὶ</supplied>
+	    					
+<lb xml:id="line_9" n="9"/><supplied reason="lost">τῷ</supplied> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Δι</supplied>ὶ</w></name> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος">ἔριφον</w></name></name> <name type="gender"><name type="quality"><w lemma="ἐνόρχης">ἐν<supplied reason="lost">ό</supplied>ρχα<supplied reason="lost">ν</supplied></w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_10" n="10"/><w lemma="παρακαλέω"><supplied reason="lost">παρακαλεῖ</supplied></w> <supplied reason="lost">(?)</supplied> ὁ <name type="deity" key="Zeus"><w lemma="θεός">θεὸς</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_11" n="11"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἰς"><supplied reason="lost">εἰ</supplied>ς</w> <supplied reason="lost">τ</supplied>ὸ <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> <orig>ο</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_12" n="12"/><gap reason="lost" extent="unknown" unit="character"/><orig>φλι</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p> [...] a white (?) sheep [...] a he-goat, a cock [...] an adult sacrificial animal [...] and the other customary things [for the] (5) ceremonies and the [banquets (?)]. When the Heraia are celebrated [according to the] biennial cycle during the month [of ... provide (?)] for the sacrifice, to Hera, a heifer [and to Zeus] a non-castrated billy-goat [...] (10) the god [invites (?)] [...] into the sanctuary [...]</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[...] un mouton blanc (?) [...] un bouc, un coq [...] un animal sacrificiel adulte [...] et les autres choses traditionnelles [en vue des] (5) cérémonies et des [banquets (?)]. Lorsque les Heraia sont célébrées [selon le] cycle bisannuel durant le mois [de ... fournir (?)] pour le sacrifice, à Héra, une génisse [et à Zeus] un chevreau non castré [...] (10) le dieu [invite (?)] [...] dans le sanctuaire [...]</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+
+<p>The precise nature of the sacrificial regulations prescribed in this fragmentary document is highly unclear. As preserved, it contained at least two separate sections. The first, lines 1-5, is extremely fragmentary, but apparently preserves a list of sacrificial animals; the animals are quite diverse. A second, more well-defined section of the inscription (lines 6-9, and perhaps beyond), is headed by a temporal indication concerning the biennial festival of Hera, and apparently concerns the sacrifices offered to Hera and Zeus on this occasion. </p> 
+		
+<p> As preserved, the inscription contains no verbs; but according to the not unattractive restorations of Sokolowski in lines 1 and 7-8 (as modified by Şahin), the verbs may have been forms of παρέχω ([παρέχ]|ει and [παρέ|χειν] respectively). This might match well the phrases preserved in lines 4-5 and esp. 8 (εἰς θυσίαν), and in turn, might provide a suitable key to interpreting the document as a whole: it perhaps contained lists of sacrificial animals and other supplies that needed to be provided during major festival occasions, most probably by the cult personnel. For a possibly analogous regulation from Chalketor, also in the region of Karia, see <ref target="CGRN_183">CGRN 183</ref>.</p>
+
+<p>As Sokolowski notes, several festivals are known to have been celebrated at Panamara: the Panamareia, the major festival of Zeus Panamaros; the Komyria, involving rites of maturation for young boys; and the Heraia which are mentioned here. It is possible that one of these other occasions, either the Panamareia or the Komyria, is envisaged in lines 1-5.</p>
+		
+<p>Line 1: The restoration of a colour designation after the sheep is far from assured, though it may be noteworthy that the offering of white ewes to Hera is well attested elsewhere: cf. <ref target="CGRN_6">CGRN 6</ref> (Miletos), line A6; and cp. <ref target="CGRN_14">CGRN 14</ref> (Gortyn), lines 1-3.</p>
+
+<p>Line 2: For the offering of cocks, cf. here <ref target="CGRN_34">CGRN 34</ref>, lines 5 and 24 (to Leto and Asclepius at Epidauros), and <ref target="CGRN_175">CGRN 175</ref> (Priene), line 5 (to Pan?).</p>
+		
+<p>Lines 3-4: The mention of a (generic) adult sacrificial animal after the list of specific animals in these lines is puzzling. For other necessities for the sacrifice that are to be supplied by the cult personnel, cf. <ref target="CGRN_183">CGRN 183</ref> (Chalketor), lines 3-4, and <ref target="CGRN_64">CGRN 64</ref> (Epidauros). Such supplies will have included, <foreign>inter alia</foreign>, liquids for libations and wood for burning the offerings.</p>
+		
+<p>Line 5: The term ἱερουργία is infrequently employed, but its sense of "sacrifice" or "ceremony" is relatively clear (cf. Hdt. 5.83, on the religious ceremonies performed at Epidauros). By the late Hellenistic period, it may have come to be used as a synonym for θυσία; it is unlikely that it points to the existence of (otherwise unknown) officials called ἱερουργοί at Panamara. </p>
+								
+<p>Lines 6-7: The Heraia were introduced at Panamara at some point during the Hellenistic period (see van Bremen, p. 225-226 with n. 65). The month during which this festival occurred remains unknown.</p>
+		
+<p>Lines 8-9: Though not absolutely certain, these lines are fairly confidently restored as specifying sacrifices for Hera and Zeus respectively. The goddess in this case receives a heifer; for this sacrificial animal, see here <ref target="CGRN_109">CGRN 109</ref> (Kamiros), line 7 (Athena Polias); <ref target="CGRN_113">CGRN 113</ref> (Kamiros), line 4 (Muses); <ref target="CGRN_205">CGRN 205</ref> (Antiocheia-ad-Pyramum), line 10 (Athena and Homonoia); and <ref target="CGRN_222">CGRN 222</ref> (Andania), line 34 (unknown goddess part of the Megaloi Theoi). For male sacrificial animals that have not been castrated, see here <ref target="CGRN_40">CGRN 40</ref> (Apollonia), lines B5-6 (rams for Enyalios); <ref target="CGRN_153">CGRN 153</ref> (Kamiros: a ram for the hero Mainyros).</p>
+
+<p>Lines 10-12: These lines have been dissociated by Şahin from the remainder of the inscription as a separate text (a letter of invitation); however, there is no formal basis for this separation on the basis of Cousin's copy and the tenor of these fragmentary lines in any case remains highly unclear.</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

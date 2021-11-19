@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_188" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 188</idno>: <rs type="textType" key="priestly contract">Contract</rs> of sale for a priesthood of Artemis on Kos</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Stéphanie Paul</author>
+				<author>Saskia Peels</author>
+				
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability> <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p> <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc> <msIdentifier> <repository>n/a</repository> </msIdentifier> <physDesc> <objectDesc> <supportDesc> <support> <p> 	<rs type="objectType">Stele</rs> of white marble, broken at the top and the bottom. The 	surface is damaged in the bottom left corner.</p> <p> 	<dimensions> 	<height unit="cm">26</height> 	<width unit="cm">43</width> 	<depth unit="cm">11</depth> 	</dimensions></p> </support> </supportDesc> <layoutDesc> <layout> <p> Letters: <height unit="cm">0.9</height>; space between lines: <height unit="cm">0.4</height></p> </layout> </layoutDesc>
+					
+				</objectDesc> </physDesc> <history> <origin> <p><origDate notBefore="-0100" notAfter="-0001">1st century BC</origDate></p> <p><desc>Justification: lettering (Hallof - Bosnakis)</desc></p> </origin> <provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found in the town of Kos, between the Orthodox and the Catholic cemeteries. Now in the Castle. </p> </provenance> </history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2016 by Z. Pitz </p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				
+				<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 346.</p>
+				<p> Other edition: Segre <bibl type="abbr" n="I.Cos">I.Cos</bibl> ED 236, with ph. pl. 69.</p>
+				
+	<p>Cf. also: <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20346" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+				
+				<p> Further bibliography: 
+<bibl type="author_date" n="Gill 1974">Gill 1974</bibl>; 
+<bibl type="author_date" n="Robertson 1983">Robertson 1983</bibl>; 
+<bibl type="author_date" n="Kearns 1994">Kearns 1994</bibl>; 
+Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 221-222; 
+<bibl type="author_date" n="Ekroth 2009">Ekroth 2009</bibl>; 
+<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 140-145; 
+<bibl type="author_date" n="Peels 2016">Peels 2016</bibl>: 36-37. </p>
+			</div>
+			
+			<div type="edition">
+				<head>Text</head>
+				
+				<ab>
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+					
+<lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τῶν</supplied> <supplied reason="lost">δ</supplied><unclear>ὲ</unclear> <w lemma="ἄλλος">ἄλ<supplied reason="lost">λ</supplied>ων</w> <name type="portion"><w lemma="σκέλος">σκέλος</w></name>· <w lemma="λαμβάνω">λαμβανέτω</w> δὲ καὶ  <orig>ι</orig><gap reason="lost" quantity="3" unit="character"/> 
+
+<lb xml:id="line_2" n="2"/><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">το</supplied><unclear>ῦ</unclear> <w lemma="πῦρ">πυρὸς</w> τὸ <w lemma="τρίτος">τρίτον</w> <name type="portion"><w lemma="μέρος">μέρος</w></name>·  <name type="genericOffering"><w lemma="τίθημι">τιθέντω</w></name> δὲ τοὶ <name type="sacrifice"><w lemma="θύω">θύοντε<supplied reason="lost">ς</supplied></w></name> 
+					
+<lb xml:id="line_3" n="3"/><w lemma="ἐπί">ἐπὶ</w> τὰν <name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name> τᾶι <name type="deity" key="Artemis"><w lemma="θεός">θεῶι</w></name> <name type="bakery"><w lemma="φθόϊς">πθόϊν</w></name> καὶ <name type="portion"><w lemma="σπλάγχνον">σπλάγχνα</w></name>· <w lemma="λαμβάνω">λαμ  
+
+<lb xml:id="line_4" n="4" break="no"/>βανείτω</w> δὲ ἁ <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name> καὶ <w lemma="ἀπό">ἀπὸ</w> τῶν <name type="genericOffering"><w lemma="ἐπιτίθημι">ἐπιτιθεμένων</w></name> <w lemma="ἐπί">ἐπὶ</w> <space extent="unknown" unit="character"/> 
+
+<lb xml:id="line_5" n="5"/>τὴν <name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name> τᾶι <name type="deity" key="Artemis"><w lemma="θεός">θεῶι</w></name> τὰ <w lemma="τέταρτος">τέταρτα</w> <name type="portion"><w lemma="μέρος">μέρηι</w></name>· ἁ <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name> <w lemma="ἀγείρω">ἀγε<supplied reason="lost">ι</supplied> 
+
+<lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">ρ</supplied>έτω</w> <w lemma="ἕκαστος">ἑκάστου</w> <w lemma="ἐνιαυτός">ἐνιαυτοῦ</w> τοῦ <w lemma="μήν">μηνὸς</w> τοῦ <name type="month"><w lemma="Ἀρτεμίσιος">Ἀρταμιτίου</w></name> τᾶ<supplied reason="lost">ι</supplied> 
+
+<lb xml:id="line_7" n="7"/><w lemma="νουμηνία"><unclear>ν</unclear>ουμηνία<unclear>ι</unclear></w> καὶ <w lemma="ἄλλος">τἆλλα</w> <w lemma="συντελέω">συντελείτω</w> τὰ <w lemma="περί">περὶ</w> τὸν <w lemma="ἀγερμός">ἀγερμὸν</w> 
+
+<lb xml:id="line_8" n="8"/><w lemma="καθότι"><supplied reason="lost">κ</supplied>αθ<unclear>ό</unclear>τι</w> <name type="authority"><w lemma="γράφω"><supplied reason="lost">γ</supplied>έγραπται</w></name> καὶ τᾶι <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτάμιτι</w></name> τᾶι <name type="epithet" key="Pergaia"><w lemma="Περγαία">Περγαίαι</w></name>· ἁ <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name> <w lemma="ἕκαστος">ἑκάσ 
+
+<lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">τα</supplied>ς</w> <w lemma="ἡμέρα">ἁμέρας</w> <w lemma="ὅς">αἷς</w> <name type="authority"><w lemma="ὅσιος">ὅσιόν</w></name> <w lemma="εἰμί">ἐστιν</w> <w lemma="ἀνοίγνυμι">ἀνοίγειν</w> τὰ <name type="structure"><w lemma="ἱερός">ἱερά</w></name>, <w lemma="παρέχω">παρεχέτω</w> τὸν 
+
+<lb xml:id="line_10" n="10"/> <name type="structure"><w lemma="ἱερός"><supplied reason="lost">ἱε</supplied>ρὸ<supplied reason="lost">ν</supplied></w></name> <w lemma="ἀνοίγνυμι">ἀνεῳγ̣μένον</w> <w lemma="ἅμα">ἅμα</w> <w lemma="ἥλιος">ἁλίωι</w> <w lemma="ἀνατέλλω">ἀντέλλοντι</w>, καὶ <name type="genericOffering"><w lemma="θυμιάω">θυμιήσθω</w></name> 
+
+<lb xml:id="line_11" n="11"/><name type="vegetal"><w lemma="λιβανωτός">λιβαν<supplied reason="lost">ω</supplied><unclear>τ</unclear>ὸς</w></name> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ναός">ναῶι</w></name>· <w lemma="παρέχω">παρεχέτω</w> δὲ καὶ <w lemma="ἐπί">ἐπὶ</w> τοῦ <name type="structure"><w lemma="βωμός">β<supplied reason="lost">ω</supplied>μοῦ</w></name> <w lemma="φάος">φῶς</w> 
+
+<lb xml:id="line_12" n="12"/><supplied reason="lost">τοῖ</supplied>ς <w lemma="βούλομαι">β<supplied reason="lost">ου</supplied><unclear>λ</unclear><supplied reason="lost">ο</supplied>μέ<unclear>ν</unclear>οι<supplied reason="lost">ς</supplied></w> <name type="vegetal"><w lemma="λιβανωτός">λι<unclear>β</unclear>ανωτὸν</w></name> <name type="genericOffering"><w lemma="ἐπιτίθημι">ἐπιτιθέμεν</w></name>· <w lemma="καθίστημι"><unclear>κ</unclear>ατα<unclear>στ</unclear>ασάτω</w> 
+
+<lb xml:id="line_13" n="13"/>δ<unclear>ὲ</unclear> <gap reason="lost" extent="unknown" unit="character"/>· <w lemma="ὅδε">τόδε</w> καὶ <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶ<supplied reason="lost">ι</supplied></w></name> τῶι <w lemma="ἐν">ἐν</w> <name type="locality"><w lemma="ἄστυ">ἄσ 
+
+<lb xml:id="line_14" n="14" break="no"/><supplied reason="lost">τ</supplied><unclear>ε</unclear><supplied reason="lost">ι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἔρχομαι">ἐλθέ<unclear>μ</unclear><supplied reason="lost">εν</supplied></w> <w lemma="δίδωμι"><unclear>δ</unclear>ιδόντω</w> τὰ <name type="portion"><w lemma="γέρας">γέρηι</w></name> <w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="γράφω">γεγραμ 
+
+<lb xml:id="line_15" n="15" break="no"/><supplied reason="lost">μένα</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/><orig>ι</orig> τ<unclear>ῶν</unclear> <w lemma="ἄλλος"><unclear>ἄ</unclear><supplied reason="lost">λ</supplied>λων</w> τῶν <w lemma="ἐν">ἐν</w> τᾶι <name type="locality"><w lemma="πόλις"><supplied reason="lost">πό</supplied><unclear>λ</unclear>ει</w></name> <w lemma="ἕκαστος">ἕκαστος</w> 
+
+<lb xml:id="line_16" n="16"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="πρός"><supplied reason="lost">πο</supplied><unclear>τ</unclear>ὶ</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="τριάκοντα">τριάκοντα</w> κα<gap reason="lost" quantity="1" unit="character"/> 
+
+<lb xml:id="line_17" n="17"/><gap reason="lost" extent="unknown" unit="character"/><orig>ι</orig> <name type="animal" key="generic"><w lemma="ἱερεῖον"><unclear>ἱ</unclear>ε<unclear>ρε</unclear>ῖον</w></name> <w lemma="πρός">ποτὶ</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="τριάκοντα">τριάκον 
+
+<lb xml:id="line_18" n="18" break="no"/> <supplied reason="lost">τα</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="γίγνομαι">γίνεσθαι</w> τὸς <name type="person"><w lemma="συνοικέω">συνοικ<unclear>ε</unclear>ῦν 
+
+<lb xml:id="line_19" n="19" break="no"/><supplied reason="lost">τ</supplied>ας</w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἄλλος"><supplied reason="lost">ἄ</supplied>λ<unclear>λ</unclear>οις</w> τας <w lemma="δεξιός">δεξιας</w> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_20" n="20"/><gap reason="lost" quantity="2" unit="character"/><orig>νδι</orig><gap reason="lost" extent="unknown" unit="character"/> <lb/><gap reason="lost" extent="unknown" unit="line"/>
+				</ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+<p>[...] of the other (animals), a leg. She will also receive [of ... on/from?] the fire the third part. Those who sacrifice should place on the table for the goddess a round cake and the entrails. The priestess is to obtain the fourth part of those things that have been placed on (5) the table for the goddess. The priestess should make a collection each year on the 1st of the month Artamitios and she is to fulfill all the other tasks concerning the collection as it is written for Artemis Pergaia. On all the days on which it is religiously sanctioned to open the sanctuaries, (10) the priestess is to make sure that the sanctuary is open at dawn, and she is to burn incence in the temple. She is also to provide fire on the altar for those who want to place incense upon it. She should also install [...] the following also in the sanctuary in the city centre [...] to go [...] they are to give the perquisites according to what is (15) written [...] each one of the other people in the city is to [...] for 30 drachmae [...] a sacrificial animal for 30 drachmae [...] those who live together are [...] for the others the right-hand [...]</p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+<p>[... des] autres (animaux), une patte. Qu’elle reçoive également [...] du feu, le tiers. Que les sacrifiants déposent sur la table pour la déesse un gâteau rond et des viscères. Que la prêtresse reçoive aussi le quart de ce qui a été déposé sur (5) la table pour la déesse. Que la prêtresse organise une collecte chaque année le 1er du mois d'Artamitios et qu’elle s’occupe de tout ce qui concerne la collecte comme il a été écrit pour Artémis Pergaia. Que la prêtresse, tous les jours où il est religieusement permis d’ouvrir les lieux sacrés, (10) s'assure que le sanctuaire soit ouvert au lever du soleil, et que de l’encens soit brûlé dans le temple. Qu’elle fournisse aussi le feu pour l’autel pour ceux qui souhaitent déposer de l’encens. Qu’elle installe [...] ceci également dans le sanctuaire du centre-ville [...] aller [...] qu’ils donnent les parts d’honneur conformément à ce qui a été (15) prescrit [...] chacun des autres dans la cité [... pour] 30 drachmes [...] un animal pour 30 drachmes [...] ceux qui habitent ensemble [...] pour les autres à droite [...]</p>
+				
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+<p> This inscription seems to belong to the category of sales of priesthoods (cf. e.g. <ref target="CGRN_147">CGRN 147</ref>, Kos), although it is too fragmentary to be certain. Given the comparison that is made to the way things are done in the cult of Artemis Pergaia (line 8), and the fact that a collection is to be made in the month Artamitios, we may reasonably infer that this regulation deals with another cult of Artemis, perhaps one with another cult-epithet. On the cult of Artemis on Kos, see Paul.</p>
+				
+<p> The preserved part of the inscription seems, perhaps, to consist of two sections: after an unknown number of missing lines, the first describes offerings to be placed on a sacrificial table, the perquisites of the priestess and her duties, probably in relation to an extra-urban sanctuary or one in the demes (lines 1-13; this may be inferred fom the mention of "the sanctuary in the town", lines 13-14); the second, more fragmentary section—of which the end is not preserved—seems to discuss sacrifices concerning a sanctuary in the city (lines 13-20; cf. also esp. line 15: τῶ̣ν̣ ἄ̣[λ]λων τῶν ἐν τᾶι [πό]λ̣ει ἕκαστος). However, the precise structure of the cult or of the regulations themselves remains elusive.</p>
+				
+<p> Lines 1-2: The reference to the—probably sacrificial—fire is somewhat enigmatic here. Segre has earlier thought to read <unclear>σ</unclear>πυρός, i.e. barley, but since we are dealing with a third part, τὸ τρίτον μέρος given to the priestess, the genitive case (σπυροῦ) would be expected. Since there is a sizeable gap of at least six letters in the lacunae in lines 1 and 2, we should probably consider that the reference is to portions burnt on the altar fire. Cp. the equally difficult phrases ἐπὶ τὸ πῦρ in <ref target="CGRN_28">CGRN 28</ref> (Thasos), line 10, and [ἐκ τοῦ] πυρὸς, <ref target="CGRN_169">CGRN 169</ref> (Kallatis), lines 3-4. A possible alternative would be to presume that the priestess receive a third of the incense that was to be or had not yet been consumed by the fire (see on lines 11-12); on Chios, priests typically received θύα ἀφ᾽ ὧν ἂν θύηι, cf. <ref target="CGRN_41">CGRN 41</ref>, line 2.</p>
+				
+<p> Lines 2-5: These lines concern the offerings that are placed on the table (sometimes called τραπεζώματα), on which see Gill and Ekroth, and cp. e.g. <ref target="CGRN_13">CGRN 13</ref> (Selinous), lines 18-20, and <ref target="CGRN_57">CGRN 57</ref> (Attica), lines 3-4, 8, 10-11, 14-15, etc. The explicit granting of a fourth-part to the priestess is somewhat surprising: offerings on the table would by default end up as perquisites of the priest (and perhaps the cult personnel) after they had been consecrated and it is not clear why this is mentioned explicitly. Conversely, if this means that the remaining three quarters should be divided among other cult personnel and participants, the priestess' share was not very sizeable. Yet since the table-offerings in this case consisted primarily of cakes and entrails, it may be worth noting that "a quarter of the entrails" was a typical γέρας for the priestly personnel in nearby Karia: see here <ref target="http://cgrn.ulg.ac.be/CGRN_42/">CGRN 42</ref> (Iasos), line 3; other examples listed there come from the area of Halikarnassos. A recipe for the <foreign>phthoïs</foreign>, a cake made of honey and young cheese and other condiments such as celery, is provided in Athen. 14.647d-e. In our collection, the <foreign>phthoïs</foreign> is also offered in the cult of Zeus Polieus on Kos (<ref target="CGRN_86">CGRN 86</ref> A, lines 31 and 38) and in the cult of Asclepius and Apollo at Erythrai (<ref target="CGRN_76">CGRN 76</ref>, line 22). On the offering of cakes more generally, see Kearns. Note that the same word may also refer to a small pellet or pastille used for fumigation (<bibl type="abbr" n="LSJ">LSJ</bibl>, s.v. A 2).</p>
+				
+<p> Lines 5-8: Collections, whether of cash or kind, occur perhaps predominantly in cultic contexts from Asia Minor and the eastern Aegean which involve priestesses (cf. Robertson); there are, however, other examples that defy this trend. For another example of the ἀγερμός on Kos, cf. the cult of Athena Alseia in <ref target="CGRN_167">CGRN 167</ref>, line 23, which specifies the space to be used for collections. No further details about the ἀγερμός are provided in the present inscription, but the procedure for the cult of Artemis Pergaia on Kos, codified elsewhere (probably in another, earlier sale of priesthood) is to serve as a guideline. At Halikarnassos, the cult of Artemis Pergaia, <ref target="CGRN_118">CGRN 118</ref>, lines 26-28, stipulated that the priestess was not to visiting houses and that she could keep the proceeds of the ἀγερμός for herself; perhaps the rules for Artemis Pergaia on Kos were of a similar character. Note that the collection here is done on one day (the 1st of Artamitios), whereas three days are prescribed for the collections in the cult of Athena Alseia (<ref target="CGRN_167">CGRN 167</ref>).</p>
+				
+<p> Lines 8-10: Comparable expressions are found in other Koan inscriptions in this collection. In <ref target="CGRN_163">CGRN 163</ref>, lines 3-4, individuals who want to sacrifice may offer the "usual" animal on the days "on which it is ὅσιον to do so"; in <ref target="CGRN_142">CGRN 142</ref>, lines 5-7, individuals may sacrifice, whenever they want, "(on) whatever (animals? days?) are ὅσιον to sacrifice" to Adrasteia and Nemesis. The adjective ὅσιος and its cognates evaluate human behaviour that pleases the gods; in the specific context of cult, these terms often describe when and where particular ritual actions are to take place, who should perform them, what should be offered and how particular rituals should be carried out. Such rules would often have been part of the orally transmitted knowledge of a cultic community. On the semantics of ὅσιος, cf. Peels.</p>
+				
+<p> Lines 13-20: The contents of the second section, detailing prescriptions concerning "the sanctuary in the town", are not completely clear. The rules seem to envisage different types of cult participants and detail the appropriate sacrifices and perquisites to be given to the priest in each case. At least one group should follow rules concerning perquisites that have been described elsewhere (lines 14-15, κατὰ τὰ γεγραμμένα, perhaps above in the same inscription). Further on, the text mentions "other (people?) in the city" (lines 15-16) and "the co-inhabitants" (τὸς συνοικεῦντες, lines 18-19); the rules for these groups seemingly concern the purchase of sacrificial animals costing 30 drachmae (lines 16-18) and perhaps priestly perquisites again (in line 19, τας δεξιας might refer to the right part of the thigh or ham, κωλῆ, a rather common priestly prerogative, cf. Lupu for references). The verb συνοικέω ought to be used here to designate members of a group living together in some sort of community (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.). Various inscriptions in our Collection mention other groups such as μέτοικοι (resident aliens or metics; e.g. <ref target="CGRN_19">CGRN 19</ref>, line C8, and <ref target="CGRN_43">CGRN 43</ref>, line 23, both from Athens); περίοικοι ("neighbouring peoples"; <ref target="CGRN_14">CGRN 14</ref>, Gortyn, line 10, and <ref target="CGRN_93">CGRN 93</ref>, Xanthos, lines 27-28); κάτοικοι (<ref target="CGRN_221">CGRN 221</ref>, Kos, line 12); and perhaps πάροικοι (<ref target="CGRN_161">CGRN 161</ref>, Kos, if the restoration τῶν πα[ροικ]εύντω[ν] in line 6 is correct).</p>
+				
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_153" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 153</idno>: <rs type="textType" key="sacrificial regulation">Short sacrificial regulation</rs> (or excerpt?) for Mainyros at Kamiros</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Small <rs type="objectType">block</rs> of Lartian marble.</p>
+			<p><dimensions>
+					<height unit="cm">7.3</height>
+					<width unit="cm">15.5</width>
+					<depth unit="cm">14</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters (lines 1-2): <height unit="cm">1.2</height>; (line 3): <height unit="cm">0.9-1.1</height></p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+		<p><origDate notBefore="-0200" notAfter="-0100">ca. 200-100 BC</origDate></p>
+			<p><desc>Justification: lettering (Blinkenberg).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Kamiros" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589836/" type="external">Kamiros</ref></placeName>. Originally found in the region of Kalavarda, whence the stone found its way on the antiquities market already in 1913. Now on display in the National Museum of Denmark (Copenhagen).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+				  <p>Edition here based on Blinkenberg <bibl type="abbr" n="Lindos II">Lindos II</bibl> 677, with ph.</p>
+				<p> Other edition: Segre - Pugliese-Carratelli <bibl type="abbr" n="Tit.Cam.">Tit.Cam.</bibl> 146.</p>
+<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 98. </p>
+					
+					<p>Further bibliography: <bibl type="author_date" n="Segre 1951">Segre 1951</bibl>: 139 and 150; <bibl type="author_date" n="Parker 2010a">Parker 2010a</bibl>; <bibl type="author_date" n="Ekroth 2014">Ekroth 2014</bibl>.
+</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>	
+	    					
+	    					
+<lb xml:id="line_1" n="1"/><name type="deity" key="Mainyros"><w lemma="Μαινύρος">Μαινύρου</w></name>·
+	    					
+<lb xml:id="line_2" n="2"/><name type="sacrifice"><w lemma="θύω">θύεται</w></name>
+	    			    					
+	<lb xml:id="line_3" n="3"/><name type="animal" key="sheep"><w lemma="κριός">κριὸς</w></name> <name type="quality"><name type="gender"><w lemma="ἐνόρχης">ἐνόρχας</w></name></name>.
+	    							
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>(Altar/cult-site) of Mainyros. An uncastrated ram is sacrificed.</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>(Autel/sanctuaire) de Mainyros. Un bélier non castré est sacrifié.</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    						
+				
+<p>The inscription is extremely brief and recalls some of the short sacrificial prescriptions which tend to be inscribed on an altar or a boundary stone. Beginning with the deity's name in the genitive, they most probably indicate that this is the altar or cult-site of the deity in question, as for example in <ref target="CGRN_72">CGRN 72</ref> (Athens), and cp. the more explicit <ref target="CGRN_9">CGRN 9</ref> (Paros). Given the prevalence of small calendrical regulations or excerpts from sacrificial calendars spread throughout the cities of Rhodes, especially at Kamiros and at Lindos, the text has been tentatively compared with these documents (see Segre; for many examples, see here e.g. <ref target="CGRN_109">CGRN 109</ref> from Kamiros). This comparison is only partially attractive, and the strongest objection to viewing the text as an excerpt from a local calendar is that it simply contains no specification of the date on which the sacrifice is to take place (so also Sokolowski).</p>
+						
+<p>About the identity of the recipient of the sacrifice, apparently a god or hero called Mainyros, we are poorly informed, though Blinkenberg suggested a good hypothesis. This is that the figure may have been the eponymous hero of an association, or perhaps a subdivision of the deme, called the Mainyridai; such a group is in fact attested in an earlier inscription found at Phanes in the territory of Kamiros, <bibl type="abbr" n="Tit.Cam.">Tit.Cam.</bibl> 112a (ca. 250 BC): Μαινυριδᾶν κοινόν (followed by a short list of names).</p>	
+						
+<p>Line 3: For ἐνορχάς (Doric form of the adjective ἐνορχής, -ές, see LSJ s.v. ἐνόρχης 1), cf. here <ref target="CGRN_40">CGRN 40</ref> (Apollonia), lines B5-6 (also of rams). Compare also the sheep termed ἔνορχα (i.e. rams) sacrificed in Hom. <title>Il.</title> 23.147. For the sacrifice of castrated and uncastrated animals in the present Collection, cf. also <ref target="CGRN_83">CGRN 83</ref> (Miletupolis), lines 8-9, and the terminology used for a castrated animal in the inscription of Tlos discussed by Parker. Such a quality is altogether rarely specified in ritual prescriptions, leading to the general supposion that castrated animals (together with juvenile animals) will have been the norm in most sacrifices. The reasons for this may have notably depended on husbandry and economics: castration a few months after birth generally leads to a substantial fattening of male animals and is still practiced today; reproductive males will have been leaner, fewer and essential for the continuity of herds. On castration, with further discussion, see Ekroth.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

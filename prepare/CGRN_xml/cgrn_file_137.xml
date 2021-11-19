@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_137" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 137</idno>: <rs type="textType" key="decree">Decree</rs> concerning the foundation of the cult of Seleukos I and his son Antiochos I at Aigai</title>
+	    			<author>Stefano Caneva</author>
+	    				<author>Jan-Mathieu Carbon</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Tall opisthographic <rs type="objectType">stele</rs>, broken into two joining pieces. Lines 18-35 were almost completely effaced during reuse (see below), the stone is otherwise chipped on the sides and there are two cavities on the front face for fixing doorposts during reuse. The other face contains a closely contemporaneous decree of the Thessalians granting political privileges to the citizens of Aeolis, Kos and Magnesia-on-the-Maeander. This second text appears to have been inscribed a short time later, ca. 280-250 BC; for the date cf. Parker.</p> 
+			<p><dimensions>
+					<height unit="cm">175</height>
+					<width unit="cm">59.8 (above) - 61 (below)</width>
+					<depth unit="cm">15</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Stoichedon 32 for lines 1-15; the <foreign>stoichoi</foreign> often include <foreign>iota</foreign> with the preceding letter, especially in a diphthong; this practice becomes more frequent after lines 15 or 22, thus making the stoichedon length difficult to estimate precisely in the lower portion of the inscription.</p> 
+				<p>Letters: <height unit="mm">8-10</height>.</p> 
+				<p>See Malay and Ricl for further description.</p> 
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0281" notAfter="-0280">ca. 281 BC</origDate></p>
+			<p><desc>Justification: context (see below).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Aigai" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/550404" type="external">Aigai</ref></placeName> in Aeolis. Discovered during excavations, the stele was reused as a threshold in an early-Byzantine church at the site of the city. Currently in the depot at Köseler (Aigai; no inv. no.).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2015 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					
+					<p>Edition here based on <bibl type="author_date" n="Malay - Ricl 2009">Malay - Ricl 2009</bibl>: 39-47, Decree I (front side), with ph. figs. 1-2 and 5. Photos kindly sent by M. Ricl were also used, where possible, to confirm the readings, though further autopsy and photography would be necessary to achieve a better decipherment.</p>
+					
+					<p>Cf. also: 
+						<bibl type="abbr" n="SEG">SEG</bibl> 59, 1406; 
+						Hamon <title>REG</title> 2010 <bibl type="abbr" n="BE">BE</bibl> no. 522.</p>
+					
+					<p>Further bibliography: 
+						<bibl type="author_date" n="Bohn 1889">Bohn 1889</bibl>;
+						<bibl type="author_date" n="Reinach 1891">Reinach 1891</bibl>: 268-275;
+						<bibl type="author_date" n="Robert 1937">Robert 1937</bibl>: 74–89; 
+						<bibl type="author_date" n="Ma 1999">Ma 1999</bibl>: Appendix I; 
+						<bibl type="author_date" n="Iossif 2011">Iossif 2011</bibl>; 
+						<bibl type="author_date" n="Parker 2011b">Parker 2011b</bibl>; 
+						<bibl type="author_date" n="Muccioli 2013">Muccioli 2013</bibl>: chps. 8-9; 
+						<bibl type="author_date" n="Ma 2013">Ma 2013</bibl>: 15-30;
+						<bibl type="author_date" n="Jim 2015">Jim 2015</bibl>;
+						<bibl type="author_date" n="Paul 2016">Paul 2016</bibl>. </p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	   	    				
+<lb xml:id="line_1" n="1"/><gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">κ</supplied>αὶ <w lemma="καλῶς">καλῶ<supplied reason="lost">ς</supplied></w> <gap reason="lost" quantity="7" unit="character"/><orig>ΝΑΙ</orig> <name type="deity" key="Seleukos"><w lemma="Σέλευκος">Σελ<unclear>εύ</unclear>κωι</w></name> <unclear>κ</unclear><supplied reason="lost">αὶ</supplied>
+	    				
+<lb xml:id="line_2" n="2"/><name type="deity" key="Antiochos"><w lemma="Ἀντίοχος"><unclear>Ἀ</unclear>ντι<unclear>όχωι</unclear></w></name> <gap reason="lost" quantity="8" unit="character"/><orig>Ε</orig>· <w lemma="ἵνα">ἵνα</w> δὲ καὶ <w lemma="εἰς">εἰ<unclear>ς</unclear></w> τ<unclear>ὸ</unclear>ν <w lemma="πᾶς"><unclear>π</unclear><supplied reason="lost">ά</supplied>
+	    					
+<lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">ν</supplied>τα</w> <w lemma="χρόνος">χρόνον</w> <gap reason="lost" quantity="1" unit="character"/><orig>Σ</orig> <w lemma="ὑπό">ὑπ᾿</w> <name type="person"><w lemma="ἄνθρωπος">ἀν<supplied reason="lost">θ</supplied><unclear>ρώπων</unclear></w></name> τὴν <w lemma="κατάξιος">κ<supplied reason="lost">α</supplied>ταξία<unclear>ν</unclear></w>
+	    					
+<lb xml:id="line_4" n="4"/><supplied reason="lost">τ</supplied>ῶν <w lemma="ἐυεργέτημα">εὐεργετημάτων</w>, <w lemma="ὅς"><unclear>ἧι</unclear></w> <name type="deity" key="Seleukos"><name type="deity" key="Antiochos"><w lemma="θεός">θε<unclear>οὶ</unclear></w></name></name> <unclear>οἱ</unclear> <name type="epithet" key="Epiphaneis?"><w lemma="ἐπιφαίνω"><unclear>ἐ</unclear><supplied reason="lost">πι</supplied><unclear>φ</unclear>ανέ<supplied reason="lost">ν</supplied>
+	    				
+<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">τε</supplied>ς</w></name> <name type="genericOffering"><w lemma="τιμάω">τιμῶνται</w></name> <name type="deity" key="Seleukos"><w lemma="Σέλευκος">Σέλευκος</w></name> καὶ <name type="deity" key="Antiochos"><w lemma="Ἀντίοχος">Ἀν<unclear>τ</unclear><supplied reason="lost">ίο</supplied>χος</w></name>, <name type="structure"><w lemma="ναός">να
+	    				
+<lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">ό</supplied>ν</w></name> τε <w lemma="οἰκοδομέω">οἰκοδομῆσαι</w> <w lemma="ὡς"><unclear>ὡς</unclear></w> <w lemma="καλός">κάλλιστ<supplied reason="lost">ον</supplied></w> <w lemma="πρός"><unclear>π</unclear>ρὸς</w> τ<unclear>ῶ</unclear>
+	    				
+<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">ι</supplied> <name type="structure"><w lemma="περίβολος">περιβόλωι</w></name> τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνος</w></name> <unclear>κ</unclear>αὶ <name type="locality"><w lemma="τόπος"><supplied reason="lost">τό</supplied>πον</w></name> <name type="structure"><w lemma="περιβάλλω">πε
+	    					
+<lb xml:id="line_8" n="8" break="no"/><supplied reason="lost">ρι</supplied>βαλέσθαι</w></name> καὶ <name type="object"><w lemma="ἄγαλμα">ἀγάλματα</w></name> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνα<unclear>θ</unclear><supplied reason="lost">εῖ</supplied>ναι</w></name> <w lemma="δύο">δύ
+	    					
+<lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">ο</supplied></w> <w lemma="ὡς"><unclear>ὡς</unclear></w> <w lemma="καλός">κάλλιστα</w>, <w lemma="ἐπιγράφω">ἐπιγράψαντας</w> "<name type="deity" key="Seleukos"><w lemma="Σέλευκος">Σέ<supplied reason="lost">λ</supplied>ευκον</w></name>" κ
+	    				
+<lb xml:id="line_10" n="10" break="no"/>αὶ "<name type="deity" key="Antiochos"><w lemma="Ἀντίοχος">Ἀντίοχον</w></name>", καὶ <w lemma="πρό">πρὸ</w> τοῦ <name type="structure"><w lemma="ναός">ναοῦ</w></name> <w lemma="ἵστημι">στῆσαι</w> <name type="object"><w lemma="ἄγαλμα">ἄγ<unclear>α</unclear>
+	    				
+<lb xml:id="line_11" n="11" break="no"/><supplied reason="lost">λ</supplied>μα</w></name> καὶ <name type="structure"><w lemma="βωμός">βωμὸν</w></name> τῆς <name type="deity" key="Soteira"><w lemma="σώτειρα">Σωτείρας</w></name>· <w lemma="ἱδρύω">ἱδρύσασθαι</w>
+	    				
+<lb xml:id="line_12" n="12"/><supplied reason="lost">δ</supplied>ὲ καὶ <name type="structure"><w lemma="βωμός">βωμὸν</w></name> τοῦ <name type="structure"><w lemma="ναός">ναοῦ</w></name> <w lemma="κατεναντίον">κατεναντίον</w> <name type="epithet" key="Soteres"><w lemma="σωτήρ">Σωτ<unclear>ή</unclear>
+	
+<lb xml:id="line_13" n="13" break="no"/><supplied reason="lost">ρ</supplied>ων</w></name> <w lemma="ἐπιγράφω">ἐπιγεγραμμένον</w> "<name type="deity" key="Seleukos"><w lemma="Σέλευκος">Σελεύκου</w></name> καὶ <name type="deity" key="Antiochos"><w lemma="Ἀντίοχος">Ἀντ<unclear>ι</unclear>
+	    					
+<lb xml:id="line_14" n="14" break="no"/><supplied reason="lost">ό</supplied>χ<unclear>ου</unclear></w></name>"· <surplus>Ε</surplus> <w lemma="ἄνειμι"><unclear>ἀ</unclear>νεῖ<unclear>ν</unclear>αι</w> δὲ καὶ <name type="structure"><w lemma="τέμενος">τέμενος</w></name> <w lemma="ὡς">ὡς</w> <w lemma="καλός">κάλλιστ
+	    				
+<lb xml:id="line_15" n="15" break="no"/><supplied reason="lost">ο</supplied>ν</w>· <w lemma="ἀνίημι"><unclear>ἀνιέ</unclear>ναι</w> <unclear>δ</unclear>ὲ καὶ <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταύρους</w></name></name> <w lemma="ἐν">ἐν</w> τῆι <name type="festival"><w lemma="ἑκατόμβη">ἑκατό<unclear>μ</unclear>	    
+	
+<lb xml:id="line_16" n="16" break="no"/><supplied reason="lost">βηι</supplied></w></name> <w lemma="εἰς"><unclear>εἰς</unclear></w> τ<unclear>ὸν</unclear> <name type="structure"><w lemma="περίβολος">περίβολον</w></name> <name type="deity" key="Seleukos"><w lemma="Σέλευκος">Σελεύκωι</w></name> καὶ <name type="deity" key="Antiochos"><w lemma="Ἀντίοχος">Ἀντ<unclear>ι</unclear>
+	
+<lb xml:id="line_17" n="17" break="no"/><supplied reason="lost">όχω</supplied><unclear>ι</unclear></w></name> <name type="epithet" key="Soteres"><w lemma="σωτήρ">σωτῆρσι</w></name> καὶ <name type="sacrifice"><w lemma="θύω">θύει<unclear>ν</unclear></w></name> <w lemma="καθάπερ">καθάπερ</w> καὶ τῶ<unclear>ι</unclear>
+	    				
+<lb xml:id="line_18" n="18"/><name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">Ἀπό</supplied>λλ<supplied reason="lost">ων</supplied>ι</w></name> τὰς <name type="group"><w lemma="λαγχάνω">λαχούσας</w></name> τ<unclear>ῶ</unclear>ν <orig><unclear>ΔΕΙ</unclear>ΚΝΙΩΝ</orig>· <w lemma="ἄγω">ἄ<unclear>γ</unclear>
+	    				
+<lb xml:id="line_19" n="19" break="no"/><supplied reason="lost">ειν</supplied></w> <supplied reason="lost">δὲ</supplied> κα<supplied reason="lost">ὶ</supplied> <w lemma="κατά"><supplied reason="lost">κα</supplied>τὰ</w> <name type="month"><w lemma="μείς">μῆνα</w></name> γ᾿ <w lemma="ἕκαστος"><unclear>ἕκασ</unclear>τ<unclear>ο</unclear>ν</w> <w lemma="δύο">δύο</w> <name type="sacrifice"><w lemma="θυσία">θυσία
+	
+<lb xml:id="line_20" n="20" break="no"/><supplied reason="lost">ς</supplied></w></name> <w lemma="ἐν">ἐν</w> <unclear>ἧ</unclear>ι <w lemma="ἡμέρα">ἡμέραι</w> <w lemma="ἐλεύθερος">ἐλεύθ<supplied reason="lost">ερ</supplied><unclear>οι</unclear></w> <w lemma="γίγνομαι">ἐγενόμεθα</w>· <orig>ΣΕ</orig><gap reason="lost" quantity="1" unit="character"/>
+	    					
+<lb xml:id="line_21" n="21"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΜΕΝΟΣ</orig> <unclear>τῶν</unclear> <w lemma="δυσοργησία">δυ<unclear>σ</unclear>οργησιῶν</w> τῶν <orig>Ε<unclear>Κ</unclear></orig>
+	    				
+<lb xml:id="line_22" n="22"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="διανέμω"><supplied reason="lost">δια</supplied><unclear>νέμειν</unclear></w> <unclear>δὲ</unclear> καὶ τὰς <name type="group"><w lemma="φυλή">φυλὰς</w></name> <w lemma="ὁπηλίκος">ὁ<unclear>π</unclear><supplied reason="lost">η</supplied>
+	    					
+<lb xml:id="line_23" n="23" break="no"/><supplied reason="lost">λίκαι</supplied></w> <w lemma="εἰμί"><supplied reason="lost">εἰσ</supplied>ὶ</w> <w lemma="ὥστε">ὥστε</w> <w lemma="ἕξ">ἓξ</w> <w lemma="ὑπάρχω">ὑπ<unclear>άρξ</unclear>αι</w> <w lemma="ἀντί">ἀντὶ</w> τῶν <w lemma="τέσσαρες">τεσσ<supplied reason="lost">ά</supplied>
+	    					
+<lb xml:id="line_24" n="24" break="no"/><supplied reason="lost">ρων</supplied></w><supplied reason="lost">·</supplied> <w lemma="ὀνομάζω"><supplied reason="lost">ὀνομάσαι</supplied></w> <supplied reason="lost">δὲ</supplied> <name type="group"><w lemma="φυλή"><supplied reason="lost">φυλ</supplied>ὰς</w></name> <w lemma="δύο">δύο</w> <w lemma="Σελεύκις">Σελευκίδα</w> κα<unclear>ὶ</unclear>
+	    				
+<lb xml:id="line_25" n="25"/><w lemma="Ἀντιόχις"><supplied reason="lost">Ἀ</supplied><unclear>ντιοχίδα</unclear></w> <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ΑΙ</unclear></orig> καὶ <w lemma="αὐτός">αὐτὰς</w> καὶ τὰς <orig>Α</orig><gap reason="lost" quantity="1" unit="character"/>
+	    					
+<lb xml:id="line_26" n="26"/><gap reason="lost" extent="unknown" unit="character"/> δὲ καὶ <orig>Ε</orig><gap reason="lost" quantity="4" unit="character"/>
+	    				
+<lb xml:id="line_27" n="27"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">κ</supplied><unclear>αὶ</unclear> <w lemma="ἵστημι">στῆ<unclear>σ</unclear>αι</w> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="πρυτανεῖον">πρυτανεί<unclear>ωι</unclear></w></name>
+	    				
+<lb xml:id="line_28" n="28"/><gap reason="lost" quantity="1" unit="line"/>
+	    				
+<lb xml:id="line_29" n="29"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΝΙ<unclear>Σ</unclear>ΤΗΝ</orig> καὶ <gap reason="lost" quantity="6" unit="character"/>
+	    				
+<lb xml:id="line_30" n="30"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΑΙ</orig> δὲ τὴν <w lemma="unclear">ἀνα<supplied reason="lost">γ</supplied></w>
+	    					
+<lb xml:id="line_31" n="31" break="no"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Σ</unclear>Τ<unclear>Ε</unclear>ΤΟΝ</orig> <w lemma="Ἀπόλλων">Ἀπο<unclear>λ</unclear><supplied reason="lost">λ</supplied></w><gap reason="lost" quantity="1" unit="character"/>
+	    				
+<lb xml:id="line_32" n="32"/><gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Seleukos"><w lemma="Σέλευκος"><unclear>Σέλευκον</unclear></w></name> <unclear>καὶ</unclear> <name type="deity" key="Antiochos"><w lemma="Ἀντίοχος"><unclear>Ἀ</unclear>ντί<unclear>οχον</unclear></w></name> <name type="epithet" key="Soteres"><w lemma="σωτήρ">Σωτῆρας</w></name> <gap reason="lost" quantity="1" unit="character"/>
+	    					    					
+<lb xml:id="line_33" n="33"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐν"><unclear>ἐν</unclear></w> <unclear>τοῖς</unclear> <name type="festival"><name type="deity" key="Dionysus"><w lemma="Διονύσια"><supplied reason="lost">Διον</supplied>υσ<unclear>ί</unclear>οις</w></name></name> καὶ τοῖς
+	    				
+<lb xml:id="line_34" n="34"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Σ</unclear></orig> <name type="title"><w lemma="βασιλεύς"><unclear>βασιλέα</unclear></w></name> <name type="deity" key="Seleukos"><w lemma="Σέλευκος">Σέλευκον</w></name> κ<unclear>α</unclear>ὶ
+	    				
+<lb xml:id="line_35" n="35"/><name type="deity" key="Antiochos"><w lemma="Ἀντίοχος"><supplied reason="lost">Ἀντίοχον</supplied></w></name> <supplied reason="lost">(?)</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱε</supplied><unclear>ρέ</unclear>ας</w></name>· <name type="sacrifice"><w lemma="θύω">θύε<unclear>ιν</unclear></w></name> δ<unclear>ὲ</unclear> κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied>
+	    				
+<lb xml:id="line_36" n="36"/><name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος"><supplied reason="lost">τ</supplied><unclear>αῦρον</unclear></w></name></name> <w lemma="ἐν"><unclear>ἐν</unclear></w> <unclear>τῶι</unclear> <w lemma="μείς">μηνὶ</w> τῶι <name type="month"><w lemma="Σελευκεών">Σελευκεῶνι</w></name> <w lemma="καθάπερ">καθά<unclear>π</unclear>
+	    				
+<lb xml:id="line_37" n="37" break="no"/><supplied reason="lost">ερ</supplied></w> <supplied reason="lost">καὶ τῶι</supplied> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><unclear>Ἀπόλλω</unclear>νι</w></name> <w lemma="ἐν">ἐν</w> τῶι <name type="month"><w lemma="Θαξίος"><unclear>Θ</unclear>αξίωι</w></name>· <w lemma="ἀποδείκνυμι">ἀποδείκνυ
+	    					
+<lb xml:id="line_38" n="38" break="no"/><supplied reason="lost">σθαι</supplied></w> <supplied reason="lost">καὶ</supplied> <name type="personnel"><w lemma="ἱερεύς">ἱερέα</w></name> <w lemma="ἐκ">ἐκ</w> <w lemma="πᾶς">πάντων</w> τῶν <name type="group"><w lemma="πολίτης">πολιτῶν</w></name> <w lemma="κατά">κατ᾿</w> <w lemma="ἐνιαυτός">ἐ
+	    					
+<lb xml:id="line_39" n="39" break="no"/><supplied reason="lost">νιαυτ</supplied>όν</w>, ὃς <name type="adornment"><w lemma="στέφανος">στ<unclear>έφ</unclear>αν<unclear>ό</unclear>ν</w></name> <unclear>τ</unclear>ε <w lemma="φορέω"><unclear>φορή</unclear>σει</w> <name type="vegetal"><w lemma="δάφνη">δάφνης</w></name> <unclear>κ</unclear>
+	    					
+<lb xml:id="line_40" n="40" break="no"/>αὶ <name type="adornment"><w lemma="στρόφιον">στρόφιον</w></name> <unclear>καὶ</unclear> <name type="clothing"><w lemma="ἐσθής">ἐσθῆτα</w></name> <w lemma="ὡς">ὡς</w> <name type="colour2"><w lemma="λαμπρός">λαμπροτάτην</w></name> καὶ <w lemma="μετά"><unclear>μ</unclear>
+	    					
+<lb xml:id="line_41" n="41" break="no"/><supplied reason="lost">ε</supplied>τ<unclear>ὰ</unclear></w> τ<unclear>ῶ</unclear>ν <name type="title"><w lemma="τιμοῦχος">τιμού<unclear>χω</unclear>ν</w></name> <w lemma="ἐν">ἐμ</w> <w lemma="πᾶς">πάσ<unclear>α</unclear>ις</w> τ<unclear>α</unclear>ῖς <name type="sacrifice"><w lemma="θυσία">θυσίαις</w></name> <name type="sacrifice"><w lemma="συνθύω">συν
+	    					
+<lb xml:id="line_42" n="42" break="no"/><supplied reason="lost">θύσε</supplied><unclear>τ</unclear>αι</w></name> <unclear>καὶ</unclear> <w lemma="ἐν"><unclear>ἐν</unclear></w> <unclear>ταῖς</unclear> <name type="group"><w lemma="ἐκκλησία"><unclear>ἐκ</unclear>κλησίαις</w></name> <name type="sacrifice"><w lemma="κατάρχω">κατάρξετ
+	    					
+<lb xml:id="line_43" n="43" break="no"/><supplied reason="lost">αι</supplied></w></name> <w lemma="ἐπί">ἐπὶ</w> τοῦ <name type="structure"><w lemma="βωμός">βωμοῦ</w></name> τῶν <name type="epithet"><w lemma="σωτήρ">Σωτήρων</w></name> <w lemma="καθάπερ">καθάπερ</w> καὶ τοῖς <w lemma="ἄλλος">ἄ
+	    					
+<lb xml:id="line_44" n="44" break="no"/><supplied reason="lost">λ</supplied>λοις</w> <name type="deity" key="generic"><w lemma="θεός"><unclear>θεοῖς</unclear></w></name>· <gap reason="lost" quantity="9" unit="character"/><orig>Α</orig> <w lemma="πᾶς">πάντων</w> τῶν <w lemma="κατά">κατ᾿</w> <w lemma="ἔτος"><unclear>ἔ</unclear><supplied reason="lost">τος</supplied></w>
+	    				
+<lb xml:id="line_45" n="45"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ὁ</unclear> <name type="personnel"><w lemma="ἱεροκῆρυξ">ἱεροκῆρυξ</w></name> <w lemma="ἐν">ἐμ</w> <w lemma="πᾶς">πάσαις</w> ταῖς <name type="sacrifice"><w lemma="θυσία"><unclear>θυ</unclear>
+	    				
+<lb xml:id="line_46" n="46" break="no"/>σ<unclear>ί</unclear>α<unclear>ι</unclear>ς</w></name> ταῖς <name type="group"><w lemma="δημοτελής">δημοτελέσι</w></name> <unclear>το</unclear>ῖς <name type="epithet" key="Soteres"><w lemma="σωτήρ">Σωτῆρσι</w></name> <name type="deity" key="Seleukos"><w lemma="Σέλευκος">Σελε
+	    					
+<lb xml:id="line_47" n="47" break="no"/><supplied reason="lost">ύ</supplied>κωι</w></name> καὶ <name type="deity" key="Antiochos"><w lemma="Ἀντίοχος">Ἀντιόχωι</w></name>· <w lemma="κατά">κατὰ</w> <w lemma="αὐτός">ταὐτὰ</w> δὲ καὶ <w lemma="ὅταν">ὅταν</w> <name type="sacrifice"><name type="liquid"><w lemma="σπονδή">σπον
+	    					
+<lb xml:id="line_48" n="48" break="no"/><supplied reason="lost">δ</supplied>ὰς</w></name></name> <w lemma="ποιέω">ποιῶν<unclear>τ</unclear>αι</w> <w lemma="παρά">παρὰ</w> τοῖς <name type="title"><w lemma="ἄρχων">ἄρχουσι</w></name>, <name type="vegetal"><w lemma="λίβανος">λίβανον</w></name> <name type="sacrifice"><w lemma="ἐπιθύω">ἐπ
+	    					
+<lb xml:id="line_49" n="49" break="no"/><supplied reason="lost">ι</supplied>θῦσαι</w></name> καὶ <name type="invocation"><w lemma="εὔχομαι">εὔχεσθαι</w></name>· <name type="invocation"><w lemma="ἀείδω">ἄιδειν</w></name> δὲ καὶ <name type="invocation"><w lemma="παιάν">παιᾶνα</w></name> <w lemma="ἐπί">ἐ
+	    					
+<lb xml:id="line_50" n="50" break="no"/><unclear>π</unclear>ὶ</w> <name type="sacrifice"><name type="liquid"><w lemma="σπονδή"><unclear>σπονδ</unclear>αῖς</w></name></name> ὃς <unclear>ἂν</unclear> <w lemma="νικάω">νική<unclear>σ</unclear>ηι</w> <w lemma="ἐν">ἐν</w> τῶι <w lemma="ἀγών">ἀγῶνι</w> τῆς <w lemma="μουσικός"><unclear>μ</unclear>ο
+	    					
+<lb xml:id="line_51" n="51" break="no"/>υ<unclear>σικ</unclear>ῆς</w>· <w lemma="ἀνοικοδομέω">ἀνοικοδομῆσαι</w> δὲ καὶ τὸ <name type="structure"><w lemma="πρυτανεῖον">πρυτανεῖον</w></name>
+	    				
+<lb xml:id="line_52" n="52"/>καὶ τὸ <name type="structure"><w lemma="στρατήγιον">στρατήγιον</w></name> καὶ <w lemma="καλέω">καλεῖσθαι</w> τὸ μὲν <name type="structure"><w lemma="πρυτανεῖον">πρ<supplied reason="omitted">υ</supplied>τα
+	    				
+<lb xml:id="line_53" n="53" break="no"/><unclear>νεῖ</unclear>ο<unclear>ν</unclear></w></name> <w lemma="Σελεύκεον">Σελεύκεον</w>, τὸ δὲ <name type="structure"><w lemma="στρατήγιον">στρατήγιον</w></name> <w lemma="Ἀντιόχεον">Ἀντιόχε
+	    					
+<lb xml:id="line_54" n="54" break="no"/><unclear>ο</unclear>ν</w>· <w lemma="ἀποφέρω">ἀπενεῖκαι</w> δὲ τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισμα</w></name> <w lemma="οὗτος">τοῦτο</w> <w lemma="ὅταν">ὅταν</w> ἡ <w lemma="πρῶτος">πρώτ
+	    					
+<lb xml:id="line_55" n="55" break="no"/><unclear>η</unclear></w> <w lemma="πρεσβεία">πρεσβεία</w> <w lemma="ἀποστέλλω">ἀποστέλληται</w> <w lemma="πρός">πρὸς</w> τὸν <name type="title"><w lemma="βασιλεύς">βασιλέα</w></name>
+    				
+<lb xml:id="line_56" n="56"/><name type="deity" key="Seleukos"><w lemma="Σέλευκος"><unclear>Σ</unclear>έλευκον</w></name> καὶ <w lemma="ἐπαινέω">ἐπαινέσαι</w> <w lemma="αὐτός">αὐτὸν</w> καὶ <w lemma="ἀξιάω">ἀξιῶσαι</w> τὴ<unclear>ν</unclear>
+	    				
+<lb xml:id="line_57" n="57"/><w lemma="εὔνοια"><unclear>ε</unclear>ὔνοιαν</w> καὶ τὴν <w lemma="φιλία">φιλίαν</w> <w lemma="διαφυλάσσω">διαφυλάσσειν</w> <name type="invocation"><w lemma="ἀναγγέλλω">ἀναγγέ<unclear>λ</unclear>
+	    					
+<lb xml:id="line_58" n="58" break="no"/><unclear>λ</unclear>οντας</w></name> <w lemma="ὅτι">ὅτι</w> <w lemma="ἀΐμνηστος">ἀΐμνηστον</w> τὴν <w lemma="ἐκεῖνος">ἐκείνου</w> <w lemma="εὐεργεσία">εὐεργε
+	    					
+<lb xml:id="line_59" n="59" break="no"/><supplied reason="lost">σ</supplied>ίαν</w> τοῖς <w lemma="ἐπιγίγνομαι">ἐπιγινομένοις</w> <w lemma="παραδίδωμι">παραδώσομεν</w> κ<unclear>α</unclear>ὶ <w lemma="πᾶς"><unclear>π</unclear>
+	    			
+<lb xml:id="line_60" n="60" break="no"/>ᾶσιν</w> <w lemma="ἄνθρωπος">ἀνθρώποις</w> <name type="invocation"><w lemma="ἀναγγέλλω">ἀναγγελοῦμεν</w></name>, <name type="quality"><w lemma="καλός">καλὸν</w></name> <name type="adornment"><w lemma="στέφανος">στέφαν<supplied reason="lost">ο</supplied>
+	    				
+<lb xml:id="line_61" n="61" break="no"/><supplied reason="lost">ν</supplied></w></name> τῆς <w lemma="εὔκλεια">εὐκλείας</w> <w lemma="περιτίθημι"><unclear>π</unclear>εριτιθέντες</w> <w lemma="αὐτός">αὐτοῖς</w>· τὸ <unclear>δ</unclear>ὲ <name type="authority"><w lemma="ψήφισμα">ψή<unclear>φ</unclear>ι<supplied reason="lost">σ</supplied>
+	    				
+<lb xml:id="line_62" n="62" break="no"/><supplied reason="lost">μ</supplied>α</w></name> <w lemma="οὗτος">τοῦτο</w> <w lemma="ἀναγράφω">ἀναγράψαι</w> <w lemma="εἰς">εἰς</w> <objectType key="stele"><w lemma="στήλη">στήλας</w></objectType> <w lemma="δύο">δύο</w> καὶ <w lemma="ἵστημι">στῆσα<supplied reason="lost">ι</supplied></w>
+	    				
+<lb xml:id="line_63" n="63"/><supplied reason="lost">τὴ</supplied>ν μὲν <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνος</w></name>, τὴν δὲ <w lemma="ἐν">ἐν</w> τῶ<supplied reason="lost">ι</supplied>
+	    			
+<lb xml:id="line_64" n="64"/><supplied reason="lost">τ</supplied>ῆς <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶς</w></name> <w lemma="παρά">παρὰ</w> τὸ<unclear>ν</unclear> <name type="structure"><w lemma="βωμός">βωμὸν</w></name> <unclear>τοῦ</unclear> <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name> τοῦ <name type="epithet" key="Soter"><w lemma="σωτήρ">Σωτῆρο
+	    				
+<lb xml:id="line_65" n="65" break="no"/>ς</w></name>· <w lemma="δείκνυμι">δεῖξαι</w> δὲ καὶ τοὺς <w lemma="ἐπιμελέομαι">ἐπιμελησομένους</w> τῶν <name type="authority"><w lemma="ψηφίζω">ἐψ<unclear>η</unclear>
+	
+<lb xml:id="line_66" n="66" break="no"/><unclear>φ</unclear>ισμένων</w></name> <w lemma="ἤδη"><unclear>ἤδη</unclear></w> <name type="person"><w lemma="ἀνήρ">ἄνδρας</w></name> <w lemma="δέκα">δέκα</w>, <w lemma="ἵνα">ἵνα</w> τὰ <name type="authority"><w lemma="ψηφίζω">ἐψη<supplied reason="lost">φισ</supplied>μένα</w></name>
+	    				
+<lb xml:id="line_67" n="67"/><w lemma="συντελέω">συντελεσ<unclear>θ</unclear>ῆ<supplied reason="omitted">ι</supplied></w> τὴν <w lemma="ταχύς">ταχίστην</w>· <w lemma="ἀποδείκνυμι">ἀπεδείχθη<supplied reason="lost">σα</supplied>ν</w> <name type="person"><w lemma="ἀνήρ">ἄνδρε
+	    				
+<lb xml:id="line_68" n="68" break="no"/>ς</w></name> Πόλλης Ἀπολλοδώρου, Ἀπελλῆς Διονυσίου, Μητρό
+	    					
+<lb xml:id="line_69" n="69" break="no"/><supplied reason="lost">β</supplied>ιος, Πόλλιχος Ἀθηναίου, Ἀθήναιος Ἀπο<supplied reason="lost">λλ</supplied>οδώρου,
+	    				
+<lb xml:id="line_70" n="70"/><supplied reason="lost">Ὑ</supplied>πέρτερος Φαΐτα, Ἄθανος Μύκκου, Κλεομ<supplied reason="lost">έν</supplied>ης Ἑρμ<unclear>α</unclear>
+	    					
+<lb xml:id="line_71" n="71" break="no"/><unclear>γ</unclear>όρου, Ἀρισταγόρας Ἀθηναίου, Ἀπολλωνίδη<supplied reason="lost">ς</supplied> <supplied reason="lost">Κ</supplied>αΐκου.
+	    				
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...] and well (?) [...] for Seleukos and Antiochos [...]. And so that for all time as (?) by men the appropriate (viz. gratitude) for their benefactions (e.g. may be showed), with which Seleukos and Antiochos (5) may be honoured as gods who are manifest, a temple as beautiful as possible is to be built adjacent to the enclosure of Apollo and the place is to be surrounded by a precinct and two statues as beautiful as possible are to be consecrated, identified with inscriptions as "Seleukos" and (10) "Antiochos", and in front of the temple are to be erected a statue and an altar of the Soteira. An altar is also to be installed opposite the temple of the Soteres, inscribed "of Seleukos and Antiochos". There is to be also a precinct as beautiful as a possible. (15) During the Hekatomb (for Apollo), bulls are to be sent into the enclosure for Seleukos and Antichos, and sacrificed in the manner that the women who obtain by lot the [... (unintelligible) ...] do for Apollo. Each month,
+(20) on the day we became free, two sacrifices are to take place [...]. Distribute the tribes, however many (people?) there are (?), so that there be six instead of four. [...]The two (new tribes are to be called) Seleukis and (25) Antiochis [...] and they [...] and erect in the <foreign>prytaneion</foreign> [... (30) ...] the [...] Apollo (?) [...] Seleukos and Antiochos Soteres [...] during the Dionysia and during the [...] king Seleukos and [(35) Antiochos? ...] priests. And sacrifice also a bull in the month Seleukeon just as to Apollo in the month Thaxios. Each year a priest is to be appointed from among all the citizens, who will wear a crown of laurel and (40) a headband and clothes as bright as possible, and who will join in the magistrates in all the sacrifices and will make preliminary offerings during the assemblies on the altars of the Soteres, just as is done for the other gods. [...] of all the annual (45) [...] the sacred herald (is to pray?) to the Soteres Seleukos and
+Antiochos during all the publicly funded sacrifices. In the same way and whenever libations are performed in the presence of the archons, incense is to be sacrificed on the altars and prayers are to be made, (50) and the victor of the musical contest is to sing a paean during the libations. The <foreign>prytaneion</foreign> and the generals' hall are to be revamped, and called respectively Seleukeion and Antiocheon. This decree is to be forwarded whenever the first (55) embassy is sent to King Seleukos, and he is to be praised and his goodwill is to be sought and his friendship ensured, when they proclaim that we will pass on to posterity his never-forgotten beneficence and (60) we will proclaim his beautiful crown of glory to all humankind, after they have crown him for their benefit (?). This decree is to be inscribed on two stelai, the one in the sanctuary of Apollo, the other in the sanctuary of Athena, placed by the altar of Zeus Soter. (65) And appoint ten men who will take care
+of what has already been decreed, so that the decreed matters are fulfilled as expediently as possible. The appointed men are: Polles son of Apollodoros, Apelles son of Dionysios, Metrobios, Pollichos son of Athenaios, Athenaios son of Apollodoros, (70) Hyperteros son of Phaitas, Athanos son of Mykkos, Kleomenes son of Hermagoros, Aristagoras son of Athenaios, Apollonides son of Kaikos. </p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[...] et de façon adéquate (?) [...] pour Séleucos et Antiochos [...]. Et afin que pour l’éternité comme (?) par l’humanité (soit reconnue) la grande valeur de leurs bienfaits, pour laquelle les dieux épiphanes (5) sont honorés, Séleucos et Antiochos, un temple aussi beau que possible sera construit contre le péribole d’Apollon, l’espace sera enclos et deux statues aussi belles que possible seront dédiées, portant les inscriptions « Séleucos » (10) et « Antiochos ». Devant le temple s’élèveront une statue et un autel de la Soteira. Un autel sera établi face au temple des dieux Soteres, portant l’inscription « de Séleucos et d’Antiochos ». De même, il y aura une enceinte la plus belle possible. (15) Pendant l’Hécatombe (pour Apollon), des taureaux seront menés dans le péribole pour Séleucos et Antiochos, et sacrifiés exactement comme celles qui obtiennent par tirage au sort les [... (incompréhensible) ...] le font pour Apollon. De même, chaque mois, (20) le jour où nous avons été
+libérés, on accomplira deux sacrifices [...] des accès de colère des [...]. On répartira également les tribus en fonction du nombre (de gens ?) qu’il y a afin qu’il y en ait six au lieu de quatre. On dénommera les deux tribus Séleukis et (25) Antiochis [...] et elles [...]. Et l’on érigera dans le prytanée [... (30) ...] la [...] Apollon (?) [...] Séleucos et Antiochos Soteres [...] aux Dionysies et aux [...] le roi Séleucos et [(35) Antiochos (?) ...] prêtres. On sacrifiera également un taureau au mois de Seleukeon, juste comme pour Apollon au mois de Thaxios. Chaque année sera désigné parmi tous les citoyens un prêtre qui portera une couronne de laurier et (40) un bandeau, ainsi qu’un vêtement aussi magnifique que possible. Il sacrifiera en compagnie des magistrats lors de tous les sacrifices et il fera les offrandes préliminaires lors des assemblées sur l’autel des Soteres, exactement comme pour les autres dieux. [...] de tous les [...] annuels (45) [...] le héraut sacré (priera ?) lors de tous les sacrifices publics à Séleucos et Antiochos Soteres. De la même manière, lorsque des libations sont accomplies en présence des archontes, il faut faire brûler de l’encens et prier. (50) Celui qui a remporté le concours de musique chantera et entonnera le péan pendant les libations. Le prytanée et le bâtiment des stratèges seront reconstruits et appelés respectivement Seleukeion et Antiocheion. Le présent décret sera transmis quand la première (55) ambassade sera envoyée au roi Séleucos. On prononcera sa louange, on recherchera sa bienveillance et l’on conservera son amitié en proclamant que nous transmettrons à la postérité sa bienfaisance à jamais inscrite dans nos mémoires et que (60) nous proclamerons à tous les hommes la belle couronne de sa gloire dont ils l’auront ceint à leur profit (?). Le présent décret sera transcrit sur deux stèles, dont l’une sera placée dans le sanctuaire d’Apollon, et l’autre dans celui d’Athéna, à côté de l’autel de Zeus Soter. (65) Ceux qui prendront soin des mesures décrétées désigneront dix hommes afin que les décisions soient appliquées le plus rapidement possible. Les hommes désignés sont : Pollès fils d’Apollodoros, Apellès fils de Dionysos, Metrobios, Pollichos fils d’Athenaios, Athenaios fils d’Apollodoros, (70) Hyperteros fils de Phaitas, Athanos fils de Mykkos, Kleomenès fils d’Hermagoros, Aristagoras fils d’Athenaios, Apollonides fils de Kaikos. </p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>The document presents one of the most detailed epigraphic cases for the foundation of a new cult for early Hellenistic rulers; for a helpful overview, see now Paul. For other analogous cases in the present Collection, see esp. <ref target="CGRN_143">CGRN 143</ref> (Laodikeia-on-the-Lykos) and <ref target="CGRN_150">CGRN 150</ref> (Labraunda). The context of the inscription must almost certainly be the year 281 BC, shortly after the battle of the plain of Kouropedion near Sardis in 281, when the Seleucid kings Seleukos I (Nikator) and his son Antiochos I (Soter) were victorious over Lysimachos. Since Seleukos is thought to have spent several months in Asia Minor after the victory (so Iust. 17.2.4, cited by Malay - Ricl, p. 43 n. 9), and he was assassinated after his return to Thrace still in (late) 281, we may therefore think that the decree dates to this short period of about a semester after the battle (it is perhaps also possible that it dates to late 281 or early 280, when news of the death of the king might not yet
+have reached the city). The “liberation” from Lysimachos’ rule, obtained in a victory in relatively close proximity to its territory, was evidently viewed as a great boon by the community. After this,
+Aigai soon fell in the periphery of the early Attalids (see further below), but the inscription which we have here is a decree of the city, passed in order to confer considerable honours on the kings, most particularly to inaugurate a cult of the rulers as gods (see line 4) and “Saviours” (Σωτῆρες, their recurring epithets in the text). A series of inscriptions point to the continuing involvement of the Seleucids in the affairs of Aigai and its territory: <bibl type="abbr" n="SEG">SEG</bibl> 33, 1034 (from Maldan, 5 km southeast of Aigai) is a royal document stipulating the <foreign>dorea</foreign> that must be paid from royal lands and administering these properties—this inscription is almost certainly correctly dated by Malay to the early reign of Antiochos I, as the style and letterforms are virtually identical with the present decree of Aigai (perhaps ca. 280-275 BC?); see also see also <bibl type="abbr" n="SEG">SEG</bibl> 19, 720 (from Çamlica koyu near Aigai, dated probably under Antiochos II, ca. 261-246 BC).</p>
+						
+<p>Regrettably, part of this text on the stele is highly weathered and has been incompletely deciphered. While some phrases remain of doubtful interpretation, particularly in lines 1-4 or the fragmentary passages from lines 20-35, the editors Malay and Ricl are to be commended for having so expediently published and commented on this important text. The editors estimate that perhaps no more than 10 lines are missing from the fragmentary top of the stone;  probably the whole of a preamble is now missing. At any rate, it is relatively clear that lines 2-5 introduce or reprise some considerations of the decree, while the following lines list the decisions of the decree as commands in the infinitive. More specifically, the sections of the text discuss: the construction of a sanctuary for the Kings as new gods, along with the erection of statues and altars (lines 5-15); the performance and definition of new sacrifices (lines 15-20); a difficult passage though clearly involving the
+reordering of the tribes at Aigai to include two new eponymous tribes in honour of the rulers (lines 21-25); further specifications concerning sacrifices (lines 33(?)-37); the appointment of a priest of the new gods and his duties (lines 37-44); the addition of rituals to the new gods during specific civic celebrations (lines 45-51), as well as the refurbishing and renaming of public buildings in their honour (lines 51-53). The decree concludes with clauses concerning its realisation: a copy is to be sent during the first embassy to King Seleukos, along with various forms of praise, no doubt to notify the king and to negotiate further favours from him; the copying of the decree is stipulated (lines 61-65); and finally the appointment of a board of ten men to take care of the enacted resolutions of the decree in the future, with their names appended (lines 65-71). The back of the large stele was inscribed with another inscription, which must assuredly belong to a slightly later later date (ca. 280-250 BC). This document, much better preserved because it was reused face-down, is a decree of the Thessalian <foreign>koinon</foreign> (in local dialect) granting <foreign>ateleia</foreign>, <foreign>politeia</foreign>, and <foreign>epigramia</foreign> to the Aiolians, as well as to the citizens Kos and of Magnesia-on-the-Maiander; on this text, see now Parker.</p>
+							
+<p>Beyond its date and wider historical context, the inscription is highly informative about its local context. As may be seen from its conclusion (lines 61-65), two copies were inscribed: one in the sanctuary of Athena at Aigai itself, beside the altar of Zeus Soter, another in the sanctuary of Apollo—in all likelihood, this must designate Apollo Chresterios, who was based in an oracular sanctuary near  the city of Aigai (see below). The present copy must therefore be the one originally situated near the altar of Zeus Soter, on the Akropolis of Aigai, reused in Byzantine churches and structures located in this area. On the finds at Aigai, see still Bohn; Robert. The ongoing Turkish work at the site continues to produce interesting advances in our knowledge about the city, though little is known about the Archaic and Classical periods (Herodotus, for instance, mentions, 1.149, that Aigai was part of the Aiolian Dodecapolis). A few inscriptions in the Aeolic dialect are known from the
+region before the coming of Seleucids and Attalids: cf. esp. Reinach (editing a text from Olympos/Yenice, ca. 300 BC). In the present text, we find the use of standard Hellenistic <foreign>koine</foreign> (along with a stoichedon style), as in many other documents of the kings found in the region, whether Attalid or Seleucid. Noteworthy is how uniquely and richly detailed this inscription is regarding the cultic honours passed by the city, and especially how these honours are reflected in the religious and civic institutions of Aigai. They include notably public buildings which are renamed in honour of the kings (lines 51-54), new tribes which are added to the existing ones (lines 22-25), a quite general inclusion of the new gods in public sacrifices (lines 45-51), and also close interactions with the cultic framework of the community, more specifically the sanctuary of Apollo Chresterios in the countryside.</p>
+							
+						
+<p>Apollo, widely worshipped in Asia Minor, is recognised as a deity particularly favoured by the Seleucids, and in fact was presented as the <foreign>archegetes</foreign> of this dynasty. Cf. esp. <bibl type="abbr" n="I.Ilion">I.Ilion</bibl> 31, lines 13-14: [ἐν ἧι δ’ ἡμέραι ἡ θυσία συν]τ̣ελεῖται τοῦ ἀρχηγοῦ τοῦ [γένους αὐτοῦ Ἀπόλλωνος]; this inscription is most probably contemporaneous with the present one (ca. 281 BC), but some debate exists concerning this (see Ma, favouring the following decades, under the rule of Antiochos I). See also the sources collected by Malay and Ricl (p. 44-45) and below at lines 45-51; for coins illustrating the close connection between Apollo and the Seleucids, see Iossif. It is unclear how the special significance of this god for the dynasty came into play: was this perhaps influenced by the honours decreed by many cities, such as at Aigai or Ilion? The second copy of the decree (lines 61-65 again) was indeed to be set up in the sanctuary of Apollo
+Chresterios, a famous oracular site in the region, and the cult of the new gods was closely connected with this: the new sanctuary is to be adjacent to the enclosure of Apollo (lines 7-8), the new sacrifices are to be modelled on existing though enigmatic rites for Apollo (lines 16-18; perhaps more clearly, in lines 35-37), while other ritual performed for Seleukos and Antiochos also closely associate them with Apollo (e.g. the paian sung at lines 49-51). The temple of Apollo Chresterios has never been properly excavated (it is located Jund Dağ,  a plateau in a bend of the Pythicus river ca. 3 km east of Aigai); remains of buildings at the site, including a temple, are very similar to Attalid structures at Pergamon, and seem to date principally from the mid-Hellenistic or Roman period. Attalid benefactions are particularly conspicuous at the site: <bibl type="abbr" n="OGIS">OGIS</bibl> 312 is a dedication by Philetairos dating to ca. 281-263; while boundary stones, <bibl type="abbr" n="SEG">SEG</bibl> 36, 1110 (also dating to Philetairos; from Atçilar) and <bibl type="abbr" n="SEG">SEG</bibl> 49, 1746 (dating to the reign of Eumenes I, 263-241 BC), point to the consecration of lands surrounding the sanctuary to Apollo by the Attalids.</p>
+								
+<p>Lines 1-5: The syntax of these lines is difficult to parse; cf. Hamon for some criticism  about the establishment of the text and a few suggestions. The general sense of these considerations of the decree, however, are relatively clear: concerned that the benefactions of the rulers find their due reward (τὴν καταξίαν, with the adjective perhaps used as a substantive) in perpetuity (“for all time”), Seleukos and Antiochos are to be honoured as “gods who have manifested themselves” (θε<unclear>οὶ</unclear> <unclear>οἱ</unclear> <unclear>ἐ</unclear><supplied reason="lost">πι</supplied><unclear>φ</unclear>ανέ<supplied reason="lost">ν</supplied><supplied reason="lost">τε</supplied>ς). For the concept of Hellenistic rulers as Theoi Epiphaneis, see now Muccioli. For a relatively concrete reference to the benefactions of the kings, cf. line 20, where the day of their victory and/or the specific granting of freedom to the city is involved.</p>
+									
+<p>Lines 5-15: These lines present the principal gestures taken by the city to fulfill this desire to honour the kings. First and foremost, we find the construction of a temple for the kings as new gods, next to the precinct of Apollo. This is to be surrounded with a precinct of its own, and furnished with two statues of the kings as gods (ἀγάλματα), each identified by an inscription (these were presumably erected inside the temple, by contrast with that of Soteira; see below). Note how only the names of the sovereigns are indicated in these inscriptions: the absence of their title as “Kings” points to their supra-mortal and divine status in these representations (contrast lines 34-35 and esp. lines 55-56 for Seleukos in his role as King), while the absence of a qualifications as “Soter” is perhaps more unusual (this epithet is more explicitly mentioned in lines 12-13, 16-17, 46-47). There is no reason to think that the two inscriptions on the statue-bases and the altars respectively
+are not present as direct quotations: heroic and divine statues would oftenbe labelled in the accusative as well as the nominative (see Ma, on the grammar of honours); altars would naturally be labelled in the genitive. Contrast <bibl type="abbr" n="I.Ilion">I.Ilion</bibl> 31 (ca. 281 BC or somewhat later), lines 5-7,
+were an inscribed altar was set up in the Agora for “King” Seleukos: ἱδρύσ]ασθαι δὲ καὶ βωμὸν ἐν τῆι | [ἀγορᾶι ὡς κάλλιστον ἐφ’ ὧ]ι ἐπιγράψαι· βασιλέως Σε|[λεύκου Νικάτορος] (cf. also <bibl type="abbr" n="I.Herakleia Latmia">I.Herakleia Latmia</bibl> 10 and 19). However, the aspect of “Safety” or “Salvation” is nonetheless clearly expressed: a personification called Σωτεῖρα is also to be represented by a statue, set up in front of the temple of the “Soteres” as they are called (for this epithet, see also Muccioli). It is not necessary to think of identifying this goddess with a specific deity, such as Athena for instance (also perhaps qualified with the epithet Soteira at Aigai it would seem; see line 64). On the concept of this personification and its specific manifestations, see now Jim. For the importance of Theoi Soteres in the worldview of the Seleucid kings, particular attention must be paid to the dedications known to have been consecrated by Seleukos I at Didyma already in 286/5 BC, <bibl type="abbr" n="OGIS">OGIS</bibl> 214, lines 43-49: κέρας ἐπιγεγραμμένον "Διὶ Σωτῆρι" ἕν | ὁλκὴ δραχμαὶ ἑκατὸν ἑβδομήκοντα τρεῖς | τρεῖς ὁβολοί· οἰνοχόα θεῶν Σωτήρων μία | ὁλκὴ δραχμαὶ τριακόσιαι ὀγδοήκοντα ἕχξ· | ψυκτὴρ βαρβαρικὸς λιθόκολλος ἐπιγεγραμ|μένος "Σωτείρας" εἷς, ἔχων ἀποπεπτωκότα κάρυα ἑπτά... Along with honours paid to Apollo by Seleukos, these dedications, made around the time of the events of 286/5 BC (the defeat of Demetrius Poliorketes in Asia Minor and Cilicia in particular), testify to the centrality of the figures of Theoi Soteires and of Soteira in the cultic framework of the early Seleucids and their military victories (cf. also Malay - Ricl, p. 45, for honours passed by Lemnos after the victory in 281 BC). In addition to the precinct surrounding the temple, a τέμενος is to be created and framed as beautifully as possible, perhaps with trees or other plants in order to produce useful revenues for the sanctuary; on the consecration of sacred lands to Apollo Chresterios by the Attalids, see above.</p>
+									
+<p>Lines 15-20: New sacrifices are inaugurated for Seleukos and Antiochos as Soteres. An  unknown number of bulls (Hamon plausibly suggests two, one for each honorand; see also the “two sacrifices” mentioned below) are to be sent forth (ἀνιέναι) in the precinct during the Hekatomb, which presumably was an existing festival for Apollo Chresterios that involved a large procession and a mass of oxen or sacrificial animals sacrificed to the god (on the perhaps analogous Hekatomb for Apollo at Didyma, see here <ref target="CGRN_201">CGRN 201</ref>, lines 19 and 23-31; cp. also <ref target="CGRN_29">CGRN 29</ref>, lines 25-29, at Delphi). The Hekatomb is quite probably the ritual for Apollo which took place in the month Thaxios and which is alluded to again as a point of comparison in lines 35-37, also involving the offering of a bull. The local framework of these rituals for Apollo is rather enigmatic, however. A group of women (τὰς λαχούσας) clearly served Apollo during the Hekatomb and performed the sacrifices; priestess are not unusual for the god (<foreign>pace</foreign> Hamon). The office or objects which they obtained (λαγχάνω + gen.), however, is now unclear. For the prevalence of bulls in the cults of Hellenistic rulers and heroes, cf. e.g. the honours awarded to Olympichos by Mylasa, <ref target="CGRN_150">CGRN 150</ref> (Labraunda). The second clause of this passage specifies a monthly sacrifice which is to take place “on the day when we became free”. This clearly refers to the liberation of the community, possibly from the rule of Lysimachos (Malay - Ricl; see also above), or simply as a result of a grant of autonomy by the Seleucid rulers. Two sacrifices are to be offered on this unspecified day of the month, one each to Seleukos and Antiochos presumably. The particle γ᾿= γε read by the editors in line 19 is unusual and to be cautioned (cf. Hamon).</p>
+									
+<p>Lines 20-25: The presence of the word δυσοργησιῶν, “acts of negative passion” or “anger”, in the beginning of this fragmentary passage is perplexing (cf. also Hamon) and perhaps needs to be revised. The sense of the following lines is clearer: from four tribes consisting the citizen body, Aigai proposes to change this to six, adding two in honour of the kings, named Seleukis and Antiochis respectively. The members of these groups were to be redistributed accordingly, making the tribes equal in constitution: [δια]νέμειν... followed perhaps by ὁ<unclear>π</unclear>[ηλίκαι εἰσ]ί. For new tribes added in Greek cities in honour of Hellenistic kings, cf. Malay - Ricl (p. 45 with n. 18), and the tribes Antigonis and Demetrias (307/6 BC; cf. Plut. <title>Dem.</title> 9-10), Ptolemais and Berenikis (224/3 BC), in Athens.</p>	
+									
+<p>Line 27: If this fragmentary passage is correctly interpreted by Malay and Ricl, statues of Seleukos and Antiochos, or perhaps only one of Seleukos, were to be set up in the <foreign>prytaneion</foreign> (which would now be called Σελεύκεον, cf. lines 52-53 below). Malay and Ricl aptly compare the ἄγαλμα of Antiochos III which was to be set up in the bouleuterion at Teos; cf. <bibl type="abbr" n="SEG">SEG</bibl> 41, 1003 II.</p>
+									
+<p>Lines 32-35: This fragmentary passage is difficult to interpret, but seems to have mentioned the occasion of the local Dionysia at Aigai as well as another, now missing festival. Perhaps crowns or other honours were to be proclaimed for the kings there, or the new gods were associated with the preliminary rituals of these celebrations (see at lines 45-51).</p>
+									
+<p>Lines 35-37: This reprises the discussion of new sacrifices to be inaugurated. One bull is to be offered in the month Σελευκεών, “exactly in the same way” as a sacrifice was made to Apollo in the month Θάξιος (this month is known in Aiolis, at Kyme, <bibl type="abbr" n="I.Kyme">I.Kyme</bibl> 13 / <bibl type="abbr" n="SEG">SEG</bibl> 33, 1041, line 57). The one bull in this case was no doubt intended for the eponym of the new name for the month, Seleukos himself. For a month Seleukeon also replacing one of the existing calendar months at Ilion, cf. again <bibl type="abbr" n="I.Ilion">I.Ilion</bibl> 31, lines 11-12; <bibl type="abbr" n="I.Ilion">I.Ilion</bibl> 10 (also from ca. 281 BC or shortly after); cp. <bibl type="abbr" n="I.Laodikeia">I.Laodikeia</bibl> 4 (206 av. J.C.) for a month Antiocheon. It is unclear if one of the fragmentary passages of the decree discussed the implementation of this new name for one of the months of the calendar of Aigai.</p>
+									
+<p>Lines 37-44: These lines specify the appointment of an annual priest for the cult of the Soteres. The priest is to be a citizen and wear clothes as white as possible (for similar requirements, cf. e.g. <ref target="CGRN_163">CGRN 163</ref>, Kos, lines 8-12). The priest is also to wear a στρόφιον, a headband, and a crown of laurels, which were particularly associated with Apollo; for the headband worn by priests, see also <ref target="CGRN_124">CGRN 124</ref>, lines 2-3 (white <foreign>chlamys</foreign> and ταινίδιον) in an Attalid cult at Pergamon; cp. <ref target="CGRN_124">CGRN 124</ref> (Priene), lines 2-4. The priest is either to jointly sacrifice (συν[θύσε]τ̣αι according to Malay and Ricl) with the other magistrates (τιμοῦχοι) or perhaps instead to have the privilege of dining with these officials (συν[έσ]τ̣αι or συν[εστιάσε]τ̣αι according to the plausible alternatives suggested by Hamon). Other than this, one of the main duties of this priest is to perform first-offerings (καταρξέτ[αι]) on the altar of the Soteres during the assemblies of the citizen-body (ἐκκλησίαι), just as is done for the other gods (the final fragmentary phrase in line 44 is perhaps also to be taken with this passage rather than with lines 46ff. which describe the duties of the sacred herald, see below). In other words, first-offerings were performed on the altars of several gods before assemblies of the <foreign>demos</foreign> at Aigai. But this raises some questions: the only altar of the Soteres explicitly mentioned in our text is the  one in the new sanctuary built near the extra-urban cult-site of Apollo (Apollo Chresterios, see lines 5-15 above). It seems unlikely that the priest travelled there to perform a small offering before the assemblies and thus seems more plausible that there was another altar of the Soteres at Aigai itself, perhaps in proximity to where the assembly would meet (the theatre? or should one envisage another sanctuary of Apollo in the city?).</p>
+									
+<p>Lines 45-51: This short passage describes first the duties of the sacred herald at Aigai in connection with the new cult, and then some further general specifications concerning rituals, linked perhaps both to the new priest and the herald. At the beginning of line 45, Hamon attractively proposes to restore the needed verb as [εὔχεσθαι δέ] (see also at line 49); the herald would thus have performed prayed and invocations to Seleukos and Antiochos as Soteres at all the public sacrifices. When rites of libation are celebrated (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. ποιέω II.3 for the middle voice used here; the third person plural might be generic or indicate that the priest and herald are concenred) in the presence of the archons of Aigai (perhaps during meetings of a city council (Boule) rather than the ἐκκλησία mentioned earlier, see lines 37-44), incense is to be sacrificed and prayers are also to be made. More specifically, the victor at the musical contests of the city is to sing a paian for the Soteres. It is unknown when these contests took place, perhaps most plausibly during the Dionysia mentioned earlier (cf. lines 32-35; Malay and Ricl think of new contests in honour of the Kings; Hamon of ones in honour of Apollo); cp. at <bibl type="abbr" n="SEG">SEG</bibl> 41, 1003 II (Teos), where the victors of the stephanitic contests are ordered to crown the ἄγαλμα of Antiochos III and to offer a sacrifice in the <foreign>bouleuterion</foreign>. This paian is closely connected to the cult of Apollo. Remains of a hymn of this sort are attested at Erythrai, where they were appended to a paian in honour of Apollo and Asclepius, cf. the commentary at <ref target="CGRN_76">CGRN 76</ref>, with lines 74-75 only reprised here: ὑμνεῖτ᾽ ἐπὶ σπονδαῖς Ἀπόλλωνος κυανοπλοκάμου | παῖδα Σέλευκον, ὃν αὐτὸς γείνατο χρυ[σ]ολύρας.</p>
+									
+<p>Lines 51-54: The prytaneion and <foreign>strategion</foreign> of Aigai are also to be renamed in honour of Seleukos and Antiochos respectively. Malay and Ricl take  ἀνοικοδομῆσαι to mean “rebuild”, implying that these buildings had fallen into disarray; this is possible, but the verb could also be taken in a milder sense to mean that the existing edifices were simply to be augmented and magnified in some ways, notably through this renaming. On these buildings as centres of power of the city of Aigai, see briefly Hamon.</p>
+					
+					
+					</div>
+			</body>
+    	</text>
+	</TEI>

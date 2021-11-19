@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_55" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 55</idno>: <rs type="textType" key="sacrificial calendar">Sacrificial calendar</rs> from the deme of Teithras in Attica</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of an opisthographic <rs type="objectType" key="stele">stele</rs> (two Faces, A and B). A part of the left side is preserved, otherwise broken on all sides.</p>
+				<p><dimensions>
+					<height unit="cm">17</height>
+					<width unit="cm">16.5</width>
+					<depth unit="cm">7.5</depth>
+					</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Face A is stoichedon, but of uncertain length. B is "of inferior workmanship" (Pollitt) and more badly deteriorated.</p> 
+<p>Letters: <height unit="mm">6</height> on average.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0350">ca. 400-350 BC</origDate></p>
+			<p><desc>Justification: lettering and style (Pollitt); the lettering on face A form the primary dating given here; it appears earlier than face B, which may date in the Hellenistic period.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Teithras" n="Attica"><ref target="http://pleiades.stoa.org/places/579885/" type="external">Teithras</ref></placeName> in Attica. Found in the village of Pikermi near a stream bed about 200 m north of the Metamorphosis Church. Now in the Epigraphical Museum in Athens.</p> 
+		</provenance>
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+		<p>Edition here based on <bibl type="author_date" n="Pollitt  1961">Pollitt 1961</bibl>: 293-296, with ph. pl. 62.</p>
+		<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 21, 542; Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 132.</p>
+			<p>Further bibliography: <bibl type="author_date" n="Papazarkadas 2007">Papazarkadas 2007</bibl>: 155-160 nos. D1a-b; <bibl type="author_date" n="Pirenne-Delforge - Pironti 2016">Pirenne-Delforge - Pironti 2016</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="Face" n="A">Face A				
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    
+<lb xml:id="line_A1" n="A1"/><num value="7">U+10143<unclear>U+10142U+10142</unclear></num>
+<space quantity="3" unit="character"/> <name type="month"><w lemma="Βοηδρομιών">Βοηδ<supplied reason="lost">ρομιῶνος</supplied></w></name>
+	    					
+<lb xml:id="line_A2" n="A2"/><space quantity="5" unit="character"/> <w lemma="τετράς">τετ<unclear>ρ</unclear><supplied reason="lost">άδι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_A3" n="A3"/><space quantity="5" unit="character"/> <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <pc>∶</pc> <w lemma="unclear">ἐν<unclear>τ</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A4" n="A4"/><num value="17">ΔU+10143U+10142U+10142</num> <space quantity="3" unit="character"/> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <pc>∶</pc> <name type="gender"><w lemma="ἄρσην">ἄρρεν</w></name> 
+	    				
+<lb xml:id="line_A5" n="A5"/><num value="1.2">U+10142ΙΙ</num> <space quantity="3" unit="character"/> <name type="personnel"><w lemma="ἱερώσυνος">ἱερειώσυνα</w></name>
+	    				
+<lb xml:id="line_A6" n="A6"/><w lemma="τετράς">τετράδι</w> <w lemma="φθίω">φθ<supplied reason="lost">ίνοντος</supplied></w>
+	    				
+<lb xml:id="line_A7" n="A7"/><num value="4">U+10142U+10142U+10142U+10142</num> <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_A8" n="A8"/><space quantity="4" unit="character"/> <name type="deity" key="Zeus"><w lemma="Ζεύς">Διί</w></name> <pc>∶</pc> <name type="sacrifice"><w lemma="πρόθυμα">προθύ<supplied reason="lost">ματα</supplied></w></name>
+	    					
+<lb xml:id="line_A9" n="A9"/><gap reason="lost" quantity="2" unit="character"/> <name type="animal" key="swine"><w lemma="χοῖρος">χοῖρον</w></name> <name type="age"><w lemma="γαλαθηνός">γα<supplied reason="lost">λαθηνόν</supplied></w></name>,
+	    					
+<lb xml:id="line_A10" n="A10"/><gap reason="lost" quantity="2" unit="character"/> <name type="personnel"><w lemma="ἱερώσυνος"><supplied reason="lost">ἱ</supplied>ερεώσυ<supplied reason="lost">να</supplied></w></name>
+	    					
+<lb xml:id="line_A11" n="A11"/><gap reason="lost" quantity="2" unit="character"/><orig>εσθη</orig><gap reason="lost" extent="unknown" unit="character"/>
+	   	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    				<ab subtype="Face" n="B">Face B
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_B1" n="B1"/><orig>α</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_B2" n="B2"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_B3" n="B3"/><gap reason="lost" extent="unknown" unit="character"/><orig>αθα</orig><gap reason="lost" quantity="1" unit="character"/><orig>ευει</orig>
+	    				
+<lb xml:id="line_B4" n="B4"/><gap reason="lost" extent="unknown" unit="character"/><orig>υ</orig> <w lemma="δραχμή">δραχμῶν</w>
+	    					
+<lb xml:id="line_B5" n="B5"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="δέκα"><supplied reason="lost">δ</supplied>έκα</w>
+	    				
+<lb xml:id="line_B6" n="B6"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_B7" n="B7"/><gap reason="lost" extent="unknown" unit="character"/> <name type="age"><name type="gender"><w lemma="τέλειος"><supplied reason="lost">τ</supplied><unclear>έλ</unclear>εον</w></name></name>
+	    					
+<lb xml:id="line_B8" n="B8"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_B9" n="B9"/><gap reason="lost" extent="unknown" unit="character"/> <name type="age"> <name type="gender"><w lemma="τέλειος"><supplied reason="lost">τ</supplied>ελέαν</w></name></name>
+	    					
+<lb xml:id="line_B10" n="B10"/><gap reason="lost" extent="unknown" unit="character"/><orig>τος</orig>
+	    					<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					</ab>
+	    				</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					
+					<p>Face A</p>
+<p>[...] 7 drachmae [...]</p>
+<p>On 4 Boedromion [...], to Zeus [...], a male sheep, 17 dr.; priestly perquisites, 1 dr., 2 obols.</p>
+<p>On the 27th, to Athena, a sheep [...] 4 dr.; to Zeus, preliminary [offerings], a suckling piglet (price missing); priestly perquisites (price missing). [...]</p>
+<p>Face B</p>
+<p>[...] 10 dr. [...] an adult male animal [...] an adult female animal [...]</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction française</head>
+					
+					<p>Face A</p>
+					<p>[7 drachmes]</p>
+					<p>En Boedromion, le 4 [...], à Zeus [...], un mouton mâle, 17 dr.; émoluments du prêtre, 1 dr., 2 obols.</p>
+					<p>Le 27, à Athéna, un mouton [...] 4 dr.; à Zeus, [offrandes] préliminaires, un porcelet de lait (prix manquant); émoluments du prêtre (prix manquant). [...]</p>
+					<p>Face B</p>
+					<p>[...] 10 dr. [...] un mâle adulte [...] une femelle adulte [...]</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>As preserved, the calendar of the deme of Teithras regrettably pales in comparison with other examples from Attica. The extant fragment only contains (probably the majority of) the entries for Boedromion, the third month in the Attic calendar. The reverse side, face B, probably inscribed later, may be a similar text, perhaps representing additions to or another copy of the deme calendar. It only preserves very few mentions of sacrificial animals and one price of ten drachmae (written out, rather than the column of acrophonic numerals used for the purposes of accounting on face A). For other, better preserved sacrificial calendars of Attic demes in the present Collection, see esp. <ref target="CGRN_32">CGRN 32</ref> (Thorikos), <ref target="CGRN_52">CGRN 52</ref> (Erchia), and <ref target="CGRN_56">CGRN 56</ref> (Marathonian Tetrapolis).</p>
+
+<p>Lines A1: 7 drachmae is the price for a lamb in the contemporaneous calendar of Erchia: cf. <ref target="CGRN_52">CGRN 52</ref>, col. Α, lines 9-11; col. Β, lines 16-20. It is possible that such a specimen is also to be restored here, though the gender and other qualities of the animal would nevertheless remain unknown.</p>
+						
+<p>Lines A1-2: On the date of 4 Boedromion, we know of a sacrifice to Basile at Erchia, see <ref target="CGRN_52">CGRN 52</ref> col. Β, lines 14-20. Since Basile may have been connected to Hera (Hera Basileia is well attested; and Hera is sometimes invoked just as "Basileia"), a connection with the sacrifice of Zeus here at Teithras is perhaps possible, though it remains elusive (see now Pirenne-Delforge - Pironti, p. 189-194). After the date, τετράδι, line 2 may have been left empty; otherwise, there would perhaps have been the word [ἱστάμενο].</p> 
+		
+						<p> Lines A3-4: As Sokolowski comments, the traces after the name of Zeus and the dicolon punctuation might be interpreted as ἐν τῶι τέμενει, or one might even suggest the epithet Entemenios. For a precinct of Zeus at Teithras, see the documents reedited in Papazarkadas. However, it should be remarked that the punctuation may point against such an interpretation; cp. line A9 where we find preliminary offerings after the name of Zeus and the dicolon punctuation, in addition to a piglet offered to the god. We might then think of other offerings for Zeus, and these further offerings might also have been included in the price listed: the price of the male sheep is 17 drachmae here, while it is 12 drachmae at Erchia and also in the Marathonian Tetrapolis: <ref target="CGRN_52">CGRN 52</ref>, col. Α, lines 5, 30, 40-43; col. Β, lines 25, 43-44, 54, etc., and <ref target="CGRN_56">CGRN 56</ref>, col. I, lines 8, 10, 11, 22, etc. Since we would have expected animals to have their own price specification, we might expect an offering to Zeus to be an object in this case: a tentative possibility may be ἔντ[εα], "trappings".</p>
+
+<p> Lines A5-6: For ἱερεώσυνα as financial compensation or a form of priestly salary, see here <ref target="CGRN_57">CGRN 57</ref> (Aixone), among others.</p>	
+						
+						<p>Lines A7-11: The other significant sacrificial occasion for the deme takes place on 27 Boedromion, with offerings to Athena and Zeus. See again the calendar of Erchia, <ref target="CGRN_52">CGRN 52</ref>, col. Α, lines 12-16; col. Β, lines 21-25; col. Γ, lines 26-30; col. Δ, lines 24-27; col. Ε, lines 16-21, for a major sacrificial occasion on this day, though any connection to the sacrifice at Teithras is unclear since the deities honoured are different. As Sokolowski rightly notes, given the price of 4 dr., the offering to Athena may have been of a young sheep, perhaps a lamb or οἶν [λειπογνώμονα], though such animals are worth 7 drachmae at Erchia (see above on line A1). For preliminary offerings (προθύματα), see here <ref target="CGRN_46">CGRN 46</ref> (Piraeus) and <ref target="CGRN_64">CGRN 64</ref> (Epidauros).</p>		
+					</div>
+			</body>
+    	</text>
+	</TEI>

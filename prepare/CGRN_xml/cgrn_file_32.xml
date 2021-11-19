@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_32" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title>
+                    <idno type="filename">CGRN 32</idno>: <rs type="textType" key="sacrificial calendar">Sacrificial calendar</rs> of the deme of Thorikos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc>
+                                <support>
+		<p> A <rs type="objectType" key="stele">stele</rs>, inscribed on a polished front face. The upper left corner has been broken off during reuse. There are frequent marginalia (non-stoichedon) on the left and right sides, here included as Left Face and Right Face. The marginalia on the left face (with older letterforms and unique tricolon punctuation) are incomplete (e.g. –ωνι in line 31, apparently finishing the name of a deity (Ποσειδ-, Ἀπωλλ-?). These almost certainly belonged to an earlier version of the calendar, inscribed on what is now the back of the stele. The marginalia on the right, which are complete words, might be treated as part of the extant calendar or this preceding one. The back of the stele is now sheared off and worn, so that the presumed earlier version of the calendar may now be irrecoverable.</p>	
+	<p>
+                                        <dimensions>
+		<height unit="cm">131.2</height>
+		<width unit="cm">55.5</width>
+		<depth unit="cm">17.4.-19.5</depth>
+	</dimensions>
+                                    </p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc>
+                                <layout>
+			
+			<p>Stoichedon 30 on the front face. See Lupu for a detailed description. The dicolon (:) is used as a punctuation mark and appears between the <foreign>stoichoi</foreign>.</p>
+			<p>Letters: <height unit="mm">12-13</height>; round letters: <height unit="mm">10-11</height>.</p>
+			
+	</layout>
+                            </layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+			<p>
+                                <origDate notBefore="-0440" notAfter="-0375">ca. 440-430 BC (or ca. 380-375 BC)</origDate>
+                            </p>
+							
+							<p>
+                                <desc>Justification: for the earlier dating, lettering and style (Lewis). The dating remains uncertain and continues to cause some difficulties: Lewis' authority ought to be trusted and has been followed (e.g. by Jameson), but others still prefer to see the inscription as dating to the early fourth century BC, after the calendar reform of Nicomachus (cf. <ref target="http://cgrn.ulg.ac.be/CGRN_45">CGRN 45</ref>; so Lupu p. 124-125, who also presents both options). A possible solution might be to see the probable earlier calendar on the back (see below on Support and Layout) as dating to the second half of the fifth century, while the reinscribing or newer inscription on the extant face (in archaising style and formulary) would date to the early fourth century BC (cf. also Lupu, p. 125-126, though rather hypersceptically).</desc>
+                            </p>
+						</origin>
+	<provenance>
+                            <p>
+                                <placeName type="ancientFindspot" key="Thorikos" n="Attica">
+                                    <ref target="http://pleiades.stoa.org/places/580119" type="external">Thorikos</ref>
+                                </placeName> in Attica. The precise findspot is unknown. The stele is now in the Epigraphical Museum in Athens (inv. no. 13537).</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc>
+            <p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by J.M. Carbon and S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by JM Carbon in 6.2020.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile>
+        <graphic url="x"/>
+    </facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p>Edition here based on Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 1, with ph. figs. 3-7. Lupu provide a full bibliographic lemma, but see the Further Bibliography for some complements. For the reading in line 6R, see Jameson (below). For the suggested restoration in line 38, see the commentary ad loc. For the restoration now adopted at lines 40-41 (Μονυχ[ίασι τέλ]|εον rather than Μονυχ[ίαι τέλε]|{ε}ον), we are grateful to S. Lebreton (per ep.), who aims to publish a separate note on this.</p>
+	    			
+	    			<p>Other edition: <bibl type="author_date" n="Daux 1983">Daux 1983</bibl>, with French translation.</p>
+	    			
+	    			<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 26, 136; <bibl type="abbr" n="SEG">SEG</bibl> 33, 147; <ref target="https://www.atticinscriptions.com/inscription/LupuNGSL/1" type="external">AIO</ref>, with another translation and commentary.</p>
+	    			
+	    			<p>Further bibliography: 
+	    				<bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>, on the Athenian calendar; 
+	    				<bibl type="author_date" n="Lewis 1985">Lewis 1985</bibl>: 108 n. 3; 
+	    				<bibl type="author_date" n="Parker 1987">Parker 1987</bibl>; 
+	    				<bibl type="author_date" n="Gill 1991">Gill 1991</bibl>: 10; 
+	    				<bibl type="author_date" n="Jameson 1998">Jameson 1998</bibl>: 328-331;
+	    				<bibl type="author_date" n="Ekroth 2002">Ekroth 2002</bibl>; 
+	    				<bibl type="author_date" n="Pirenne-Delforge 2004">Pirenne-Delforge 2004</bibl>; 
+	    				<bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>; 
+	    				<bibl type="author_date" n="Paga 2010">Paga 2010</bibl>; 
+	    				<bibl type="author_date" n="Wilson 2010">Wilson 2010</bibl>; 
+	    				<bibl type="author_date" n="Georgoudi 2011">Georgoudi 2011</bibl>.</p>
+	    		</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				<ab subtype="face" n="Front">Main face				
+	    					<lb xml:id="line_1" n="1"/>
+                    <gap reason="lost" quantity="19" unit="character"/> <name type="month">
+                        <w lemma="Ἑκατομβαιών">
+                            <supplied reason="lost">Ἑκ</supplied>ατομβαιῶν
+	    						
+	    						<lb xml:id="line_2" n="2" break="no"/>
+                            <supplied reason="lost">ος</supplied>
+                        </w>
+                    </name> <gap reason="lost" quantity="19" unit="character"/>
+                    <orig>ΑΚΙ</orig> καὶ τοῖ
+	    					
+	    					<lb xml:id="line_3" n="3" break="no"/>
+                    <supplied reason="lost">ς</supplied> <gap reason="lost" quantity="18" unit="character"/> <name type="meal">
+                        <w lemma="ἄριστον">
+                            <supplied reason="lost">ἄ</supplied>ριστομ</w>
+                    </name> <w lemma="παρέχω">παρέ
+	    						
+	    						<lb xml:id="line_4" n="4" break="no"/>
+                        <supplied reason="lost">χεν</supplied>
+                    </w> <gap reason="lost" quantity="14" unit="character"/> <w lemma="δραχμή">
+                        <supplied reason="lost">δρα</supplied>χμὴν</w> <w lemma="ἑκάτερος"/>ἑκατέ<unclear>ρ</unclear>
+	    					
+	    					<lb xml:id="line_5" n="5" break="no"/>
+                    <supplied reason="lost">ο</supplied>
+                    <gap reason="lost" quantity="19" unit="character"/>
+                    <orig>ΑΙ</orig> τὴν <name type="festival">
+                        <name type="quality">
+                            <w lemma="προηρόσιος">πρηρο<supplied reason="lost">σ</supplied>
+	    						
+	    						<lb xml:id="line_6" n="6" break="no"/>
+                                <supplied reason="lost">ίαν</supplied>
+                            </w>
+                        </name>
+                    </name> <gap reason="lost" quantity="14" unit="character"/>
+                    <name type="structure">
+                        <name type="epithet" key="Delphinios">
+                            <w lemma="Δελφίνιον">
+                                <supplied reason="lost">Δελ</supplied>φίνιον</w>
+                        </name>
+                    </name> <name type="animal" key="goat">
+                        <w lemma="αἴξ">αἶγ<supplied reason="lost">α</supplied>
+                        </w>
+                    </name>
+	    					
+	    					<lb xml:id="line_7" n="7"/>
+                    <gap reason="lost" quantity="20" unit="character"/>
+                    <orig>ΕΑΙ</orig> <name type="deity" key="Hekate">
+                        <w lemma="Ἑκάτη">Ἑκάτηι</w>
+                    </name> <gap reason="lost" quantity="19" unit="character"/> 
+	    					
+	    					<lb xml:id="line_8" n="8"/>
+                    <gap reason="lost" quantity="22" unit="character"/>
+                    <orig>ΗΝΟΣΑΤΗ</orig>
+                    <gap reason="lost" quantity="1" unit="character"/>
+	    					
+	    					<lb xml:id="line_9" n="9"/>
+                    <gap reason="lost" quantity="20" unit="character"/> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τέλε<unclear>ο</unclear>μ</w>
+                        </name>
+                    </name> <name type="quality">
+                        <w lemma="πρατέος">πρατό<supplied reason="lost">ν</supplied>
+                        </w>
+                    </name>.
+	    					
+	    					<lb xml:id="line_10" n="10"/>
+                    <name type="month">
+                        <w lemma="Μεταγειτνιών">
+                            <supplied reason="lost">Μεταγειτνιῶνος</supplied>
+                        </w>
+                    </name>
+                    <supplied reason="lost">,</supplied> <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">
+                            <supplied reason="lost">Διὶ</supplied>
+                        </w>
+                    </name> <name type="epithet" key="Kataibates">
+                        <w lemma="καταιβάτης">
+                            <supplied reason="lost">Κατ</supplied>αιβάτηι</w>
+                    </name> <w lemma="ἐν">
+                        <unclear>ἐν</unclear>
+                    </w> <unclear>τ</unclear>
+	    					
+	    					<lb xml:id="line_11" n="11" break="no"/>ῶι <name type="structure">
+                        <w lemma="σηκός">σηκῶι</w>
+                    </name> <w lemma="παρά">
+                        <unclear>π</unclear>
+                        <supplied reason="lost">αρ</supplied>ὰ</w> τὸ <name type="structure">
+                        <name type="epithet" key="Delphinios">
+                            <w lemma="Δελφίνιον">
+                                <supplied reason="lost">Δελφίνι</supplied>ον</w>
+                        </name>
+                    </name> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τέλεον</w>
+                        </name>
+                    </name> <name type="quality">
+                        <w lemma="πρατέος">πρ
+	    						
+	    						<lb xml:id="line_12" n="12" break="no"/>ατόν</w>
+                    </name> <pc>∶</pc> <name type="sacrifice">
+                        <name type="animal" key="generic">
+                            <w lemma="ὁρκωμόσια">ὁρκωμόσιον</w>
+                        </name>
+                    </name> <w lemma="παρέχω">
+                        <unclear>πα</unclear>
+                        <supplied reason="lost">ρέ</supplied>χεν</w> <w lemma="εἰς">ἐς</w> <w lemma="εὔθυνα">εὐθύνας</w>.
+	    					
+	    					<lb xml:id="line_13" n="13"/>
+                    <name type="month">
+                        <w lemma="Βοηδρομιών">Βοηδρομιῶνος</w>
+                    </name>, <name type="festival">
+                        <w lemma="Πρηρόσια">Πρηρόσια</w>
+                    </name> <pc>∶</pc> <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Διὶ</w>
+                    </name> <name type="epithet" key="Polieus">
+                        <w lemma="Πολιεύς">Πολιεῖ</w>
+                    </name> <name type="quality">
+                        <w lemma="κριτός">κρ
+	    						
+	    						<lb xml:id="line_14" n="14" break="no"/>ιτὸν</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name> <pc>∶</pc> <name type="animal" key="swine">
+                        <name type="age">
+                            <w lemma="χοῖρος">χοῖρον</w>
+                        </name>
+                    </name> <name type="quality">
+                        <name type="gender">
+                            <w lemma="κριτός">κριτόν</w>
+                        </name>
+                    </name>, <w lemma="ἐπί">ἐπ᾽</w> <placeName key="Automenai">
+                        <w lemma="Αὐτομεναι">Αὐτομενας</w>
+                    </placeName>,
+	    						
+	    						<lb xml:id="line_15" n="15"/>
+                    <name type="animal" key="swine">
+                        <name type="age">
+                            <w lemma="χοῖρος">χοῖρον</w>
+                        </name>
+                    </name> <name type="quality">
+                        <name type="gender">
+                            <w lemma="ὠνητός">ὠνητὸν</w>
+                        </name>
+                    </name> <name type="sacrifice">
+                        <w lemma="ὁλόκαυτος">ὁλόκαυτον</w>
+                    </name>, τῶι <name type="personnel">
+                        <w lemma="ἀκόλουθος">ἀκολου
+	    							
+	    							<lb xml:id="line_16" n="16" break="no"/>θο̑ντι</w>
+                    </name> <name type="meal">
+                        <w lemma="ἄριστον">ἄριστομ</w>
+                    </name> <w lemma="παρέχω">παρέχεν</w> τὸν <name type="personnel">
+                        <w lemma="ἱερεύς">ἱερέα</w>
+                    </name> <pc>∶</pc> <name type="deity" key="Kephalos">
+                        <w lemma="Κέφαλος">Κεφ
+	    								
+	    								<lb xml:id="line_17" n="17" break="no"/>άλωι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name> <name type="quality">
+                        <w lemma="κριτός">κριτόν</w>
+                    </name> <pc>∶</pc> <name type="deity" key="Prokris">
+                        <w lemma="Πρόκρις">Πρόκριδι</w>
+                    </name> <name type="structure">
+                        <w lemma="τράπεζα">τράπεζαν</w>
+                    </name>· <space quantity="1" unit="character"/>
+	    						
+	    						<lb xml:id="line_18" n="18"/>
+                    <name type="deity" key="Thorikos">
+                        <w lemma="θορικός">Θορίκωι</w>
+                    </name> <name type="quality">
+                        <w lemma="κριτός">κριτὸν</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name> <pc>∶</pc> <name type="deity" key="Heroines">
+                        <w lemma="ἡρωίνη">Ἡρωΐνησι</w>
+                    </name> <placeName key="Thorikos">
+                        <w lemma="θορικός">Θορίκο</w>
+                    </placeName>
+	    						
+	    						<lb xml:id="line_19" n="19"/>
+                    <name type="structure">
+                        <w lemma="τράπεζα">τράπεζαν</w>
+                    </name> <pc>∶</pc> <w lemma="ἐπί">ἐπὶ</w> <placeName key="Sounion">
+                        <w lemma="Σούνιον">Σούνιον</w>
+                    </placeName> <name type="deity" key="Poseidon">
+                        <w lemma="Ποσειδῶν">Ποσειδῶνι</w>
+                    </name> <name type="animal" key="sheep">
+                        <name type="age">
+<name type="gender">
+                                <w lemma="ἀμνός">ἀμν
+	    							
+	<lb xml:id="line_20" n="20" break="no"/>ὸν</w>
+                            </name>
+                        </name>
+                    </name> <name type="quality">
+                        <w lemma="κριτός">κριτόν</w>
+                    </name> <pc>∶</pc> <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">Ἀπόλλωνι</w>
+                    </name> <name type="animal" key="goat">
+                        <name type="age">
+                            <name type="gender">
+                                <w lemma="χίμαρος">χίμαρον</w>
+                            </name>
+                        </name>
+                    </name> <name type="quality">
+                        <w lemma="κριτός">κριτόν</w>
+                    </name>, <name type="deity" key="Kourotrophos">
+                        <w lemma="Κουροτρόφος">Κ
+	    								
+	    								<lb xml:id="line_21" n="21" break="no"/>οροτρόφωι</w>
+                    </name> <name type="animal" key="swine">
+                        <name type="age">
+                            <w lemma="χοῖρος">χοῖρον</w>
+                        </name>
+                    </name> <name type="quality">
+                        <name type="gender">
+                            <w lemma="κριτός">κριτήν</w>
+                        </name>
+                    </name> <pc>∶</pc> <name type="deity" key="Demeter">
+                        <w lemma="Δημήτηρ">Δήμητρι</w>
+                    </name> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τέλ<supplied reason="lost">εο</supplied>
+	    									
+<lb xml:id="line_22" n="22" break="no"/>
+                                <supplied reason="lost">ν</supplied>
+                            </w>
+                        </name>
+                    </name>, <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Διὶ</w>
+                    </name> <name type="epithet" key="Herkeios">
+                        <w lemma="ἑρκεῖος">Ἑρκείωι</w>
+                    </name> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τέλεον</w>
+                        </name>
+                    </name>, <name type="deity" key="Kourotrophos">
+                        <w lemma="Κουροτρόφος">Κοροτρόφωι</w>
+                    </name> <name type="animal" key="swine">
+                        <name type="age">
+                            <w lemma="χοῖρος">χοῖρ<supplied reason="lost">ον</supplied>
+                            </w>
+                        </name>
+                    </name>,
+	    					
+<lb xml:id="line_23" n="23"/>
+                    <add place="overstrike">
+                        <name type="deity" key="Athena">
+                            <w lemma="Ἀθήνη">Ἀθηναίαι</w>
+                        </name> <name type="animal" key="sheep">
+                            <w lemma="ὄϊς">οἶν</w>
+                        </name> <name type="quality">
+                            <name type="gender">
+                                <w lemma="πρατέος">πρατὸν</w>
+                            </name>
+                        </name>
+                    </add> <w lemma="ἐπί">ἐφ’</w> <name type="locality">
+                        <w lemma="ἁλή">ἁλῆι</w>
+                    </name> <pc>∶</pc> <name type="deity" key="Poseidon">
+                        <w lemma="Ποσειδῶν">Ποσ<supplied reason="lost">ειδῶνι</supplied>
+                        </w>
+                    </name>
+	    					
+	    						<lb xml:id="line_24" n="24"/>
+                    <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τέλεον</w>
+                        </name>
+                    </name>, <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">Ἀπόλλωνι</w>
+                    </name> <name type="animal" key="swine">
+                        <name type="age">
+                            <w lemma="χοῖρος">χοῖρον</w>
+                        </name>
+                    </name>. <space quantity="10" unit="character"/>
+	    					
+	    					<lb xml:id="line_25" n="25"/>
+                    <name type="month">
+                        <w lemma="Πυανοψιών">Πυανοψιῶνος</w>
+                    </name>, <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Διὶ</w>
+                    </name> <name type="epithet" key="Kataibates">
+                        <w lemma="καταιβάτης">Καταιβάτηι</w>
+                    </name> <w lemma="ἐν">ἐ<unclear>μ</unclear>
+                    </w> <name type="group">
+                        <placeName key="Philomelidai?">
+                            <w lemma="Φιλομηλίδαι">
+                                <supplied reason="lost">Φιλομ</supplied>
+	    						
+	    						<lb xml:id="line_26" n="26" break="no"/>η<choice>
+                                    <corr>λ</corr>
+                                    <sic>μ</sic>
+                                </choice>ιδῶν</w>
+                        </placeName>
+                    </name> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τέλεον</w>
+                        </name>
+                    </name> <name type="quality">
+                        <w lemma="πρατέος">πρατόν</w>
+                    </name>, <w lemma="ἕκτος">ἕκτηι</w> <w lemma="ἐπί">ἐ<supplied reason="lost">πὶ</supplied>
+                    </w> <w lemma="δέκα">
+                        <supplied reason="lost">δέκα</supplied>
+                    </w>·
+	    					
+	    					<lb xml:id="line_27" n="27"/>
+                    <name type="deity" key="Neanias">
+                        <w lemma="νεανίας">Νεανίαι</w>
+                    </name> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τέλεον</w>
+                        </name>
+                    </name>, <name type="festival">
+                        <w lemma="Πυανόψια">Πυανοψίοις</w>
+                    </name>, <orig>Π</orig>
+                    <gap reason="lost" quantity="6" unit="character"/>
+	    					
+	    					<lb xml:id="line_28" n="28"/>
+                    <name type="month">
+                        <w lemma="Μαιμακτηριών">Μαιμακτηριῶνος</w>
+                    </name>, <name type="deity">
+                        <w lemma="θορικός">Θορίκωι</w>
+                    </name> <name type="animal" key="ox">
+                        <w lemma="βοῦς">βοῦ<supplied reason="lost">ν</supplied>
+                        </w>
+                    </name> <w lemma="μή">
+                        <w lemma="ἐλάσσων"/>
+                        <supplied reason="lost">μἤλατ</supplied>
+	    						
+	    						<lb xml:id="line_29" n="29" break="no"/>τον</w>  ἢ <w lemma="τεσσαράκοντα">τετταράκοντα</w> <w lemma="δραχμή">δραχμῶν</w> <w lemma="μέχρι">
+                        <supplied reason="lost">μέχρι</supplied>
+                    </w> <w lemma="πεντήκοντα">
+                        <supplied reason="lost">πε</supplied>
+	    							
+	    							<lb xml:id="line_30" n="30" break="no"/>ντήκοντα</w>, <name type="deity" key="Heroines">
+                        <w lemma="ἡρωίνη">Ἡρωΐνησι</w>
+                    </name> <placeName key="Thorikos">
+                        <w lemma="θορικός">Θορίκο</w>
+                    </placeName> <name type="structure">
+                        <w lemma="τράπεζα">τ<supplied reason="lost">ράπεζαν</supplied>
+                        </w>
+                    </name>.
+	    					
+	    					<lb xml:id="line_31" n="31"/>
+                    <name type="month">
+                        <w lemma="Ποσιδηϊών">Ποσιδειῶνος</w>
+                    </name>, <name type="festival">
+                        <w lemma="Διονύσια">Διονύσια</w>
+                    </name>. <space quantity="11" unit="character"/>
+	    					
+<lb xml:id="line_32" n="32"/>
+                    <name type="month">
+                        <w lemma="Γαμηλιών">Γαμηλιῶνος</w>
+                    </name>, <name type="deity" key="Hera">
+                        <w lemma="Ἥρα">Ἥραι</w>
+                    </name>, <name type="festival"/>
+                    <w lemma="ἱερός">Ἱερῶι</w> <w lemma="γάμος">Γάμωι</w> <gap reason="lost" quantity="7" unit="character"/>. 
+	    					
+<lb xml:id="line_33" n="33"/>
+                    <name type="month">
+                        <w lemma="Ἀνθεστηριών">Ἀνθεστηριῶνος</w>
+                    </name>, <name type="deity">
+                        <w lemma="Διόνυσος">Διονύσωι</w>
+                    </name>, <w lemma="δωδέκατος">δω<supplied reason="lost">δεκάτηι</supplied>
+                    </w>,
+	    					
+<lb xml:id="line_34" n="34"/>
+                    <name type="animal" key="goat">
+                        <w lemma="αἴξ">αἶγα</w>
+                    </name> <name type="age">
+                        <w lemma="λειπογνώμων">λειπεγνώμονα</w>
+                    </name> <name type="colour1">
+                        <w lemma="πυρρός">πυρρὸν</w>
+                    </name> ἢ <name type="colour1">
+                        <w lemma="μέλας">
+                            <supplied reason="lost">μέλανα</supplied>
+                        </w>
+                    </name>
+                    <supplied reason="lost">,</supplied> <name type="festival">
+                        <w lemma="Διάσια">
+                            <supplied reason="lost">Δ</supplied>
+	    						
+<lb xml:id="line_35" n="35" break="no"/>ιασίοις</w>
+                    </name>, <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Διὶ</w>
+                    </name> <name type="epithet" key="Meilichios">
+                        <w lemma="μειλίχιος">Μιλιχίωι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name> <name type="quality">
+                        <w lemma="πρατέος">πρα<supplied reason="lost">τόν</supplied>
+                        </w>
+                    </name> <supplied reason="lost">
+                        <space quantity="6" unit="character"/>
+                    </supplied>
+	    					
+<lb xml:id="line_36" n="36"/>
+                    <name type="month">
+                        <w lemma="Ἐλαφηβολιών">Ἐλαφηβολιῶνος</w>
+                    </name>, <name type="deity" key="Herakleidai">
+                        <w lemma="Ἡρακλεῖδαι">Ἡρακλείδα<supplied reason="lost">ις</supplied>
+                        </w>
+                    </name> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">
+                                <supplied reason="lost">τέλεον</supplied>
+                            </w>
+                        </name>
+                    </name>
+	    					
+<lb xml:id="line_37" n="37"/>
+                    <name type="deity" key="Alkmene">
+                        <w lemma="Ἀλκμήνη">Ἀλκμήνηι</w>
+                    </name> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τέλεον</w>
+                        </name>
+                    </name>, <name type="deity" key="Anakes">
+                        <w lemma="ἄναξ">Ἀνάκοιν</w>
+                    </name> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τ<supplied reason="lost">έλεον</supplied>
+                            </w>
+                        </name>
+                    </name>
+                    <supplied reason="lost">,</supplied> <name type="deity" key="Helen">
+                        <w lemma="Ἑλένη">
+                            <supplied reason="lost">Ἑλέ</supplied>
+	    						
+<lb xml:id="line_38" n="38" break="no"/>νηι</w>
+                    </name> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τέλεον</w>
+                        </name>
+                    </name>, <name type="deity" key="Demeter">
+                        <w lemma="Δημήτηρ">Δήμητρι</w>
+                    </name>, τὴν <name type="festival">
+                        <name type="quality">
+                            <w lemma="χλόϊα">χλο</w>
+                            <supplied reason="lost">ΐαν</supplied>
+                        </name>
+                    </name>
+                    <supplied reason="lost">,</supplied> <name type="animal" key="swine">
+                        <w lemma="ὗς">
+                            <supplied reason="lost">σῦν</supplied>
+                        </w>
+                    </name> <name type="quality">
+                        <w lemma="κριτός">
+                            <supplied reason="lost">κρ</supplied>
+	    							
+<lb xml:id="line_39" n="39" break="no"/>ιτὴν</w>
+                    </name> <name type="quality">
+                        <name type="gender">
+                            <w lemma="κύω">κυο̑σαν</w>
+                        </name>
+                    </name>, <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Δὶ</w>
+                    </name> <name type="animal" key="sheep">
+                        <name type="age">
+                            <w lemma="ἀρήν">ἄρνα</w>
+                        </name>
+                    </name> <name type="quality">
+                        <name type="gender">
+                            <w lemma="κριτός">κριτόν</w>
+                        </name>
+                    </name>. <space quantity="8" unit="character"/>
+	    					
+<lb xml:id="line_40" n="40"/>
+                    <name type="month">
+                        <w lemma="Μουνυχιών">Μονυχιῶνος</w>
+                    </name>, <name type="deity" key="Artemis">
+                        <w lemma="Ἄρτεμις">Ἀρτέμιδι</w>
+                    </name> <name type="epithet" key="Mounychia">
+                        <placeName key="Mounychia">
+                            <w lemma="Μουνυχία">Μονυχ<supplied reason="lost">ίασι</supplied>
+                            </w>
+                        </placeName>
+                    </name> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">
+                                <supplied reason="lost">τέλ</supplied>
+	    						
+<lb xml:id="line_41" n="41" break="no"/>εον</w>
+                        </name>
+                    </name>, <w lemma="εἰς">ἐς</w> <name type="epithet" key="Pythios">
+                        <w lemma="Πύθιος">Πυθίο</w>
+                    </name> <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">Ἀπόλλωνος</w>
+                    </name> <name type="animal" key="ox">
+                        <name type="animal" key="swine">
+                            <name type="animal" key="sheep">
+                                <w lemma="τριττύα">τρίτ<supplied reason="lost">τοαν</supplied>
+                                </w>
+                            </name>
+                        </name>
+                    </name>
+                    <supplied reason="lost">,</supplied> <name type="deity" key="Kourotrophos">
+                        <w lemma="Κουροτρόφος">
+                            <supplied reason="lost">Κορ</supplied>
+	    							
+<lb xml:id="line_42" n="42" break="no"/>οτρόφωι</w>
+                    </name> <name type="animal" key="swine">
+                        <name type="age">
+                            <w lemma="χοῖρος">χοῖρον</w>
+                        </name>
+                    </name>, <name type="deity" key="Leto">
+                        <w lemma="Λητώ">Λητοῖ</w>
+                    </name> <name type="animal" key="goat">
+                        <w lemma="αἴξ">αἶγα</w>
+                    </name>, <name type="deity" key="Artemis">
+                        <w lemma="Ἄρτεμις">Ἀ<supplied reason="lost">ρτέμιδι</supplied>
+                        </w>
+                    </name>
+	    					
+<lb xml:id="line_43" n="43"/>
+                    <name type="animal" key="goat">
+                        <w lemma="αἴξ">αἶγα</w>
+                    </name>, <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">Ἀπόλλωνι</w>
+                    </name> <name type="animal" key="goat">
+                        <w lemma="αἴξ">αἶγα</w>
+                    </name> <name type="age">
+                        <w lemma="λειπογνώμων">λειπογνώ<supplied reason="lost">μονα</supplied>
+                        </w>
+                    </name>
+                    <supplied reason="lost">,</supplied> <name type="deity" key="Demeter">
+                        <w lemma="Δημήτηρ">
+                            <supplied reason="lost">Δή</supplied>
+	    						
+<lb xml:id="line_44" n="44" break="no"/>μητρι</w>
+                    </name> <pc>∶</pc> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name> <name type="quality">
+                        <name type="gender">
+                            <w lemma="κύω">κυο̑σαν</w>
+                        </name>
+                    </name> <name type="quality">
+                        <name type="festival">
+                            <w lemma="ἄνθειος">ἄνθειαν</w>
+                        </name>
+                    </name>, <name type="deity" key="Philonis">
+                        <w lemma="Φιλώνις">Φιλ<supplied reason="lost">ωνίδι</supplied>
+                        </w>
+                    </name> <name type="structure"/>
+                    <w lemma="τράπεζα"/>
+                    <supplied reason="lost">τρ</supplied>
+	    					
+<lb xml:id="line_45" n="45" break="no"/>άπεζαν, <name type="deity" key="Dionysus">
+                        <w lemma="Διόνυσος">Διονύσωι</w>
+                    </name>, <w lemma="ἐπί">ἐπὶ</w> <placeName key="Mykenos">
+                        <w lemma="Μυκήνος">Μυκηνον</w>
+                    </placeName>, <name type="animal" key="goat">
+                        <name type="gender">
+                            <w lemma="τράγος">
+                                <supplied reason="lost">τράγον</supplied>
+                            </w>
+                        </name>
+                    </name>
+	    					
+<lb xml:id="line_46" n="46"/>
+                    <name type="colour1">
+                        <w lemma="πυρρός">πυρρὸν</w>
+                    </name> ἢ <name type="colour1">
+                        <w lemma="μέλας">μέλανα</w>
+                    </name>. <space quantity="17" unit="character"/>
+	    				
+<lb xml:id="line_47" n="47"/>
+                    <name type="month">
+                        <w lemma="Θαργήλια">Θαργηλιῶνος</w>
+                    </name>, <name type="deity">
+                        <w lemma="Ζεύς">Διὶ</w>
+                    </name> <w lemma="ἐπί">ἐπ᾽</w> <placeName key="Automenai">
+                        <w lemma="Αὐτομεναι">Αὐτομενας</w>
+                    </placeName>, <name type="quality">
+                        <name type="gender">
+                            <w lemma="κριτός">
+                                <supplied reason="lost">κριτὸν</supplied>
+                            </w>
+                        </name>
+                    </name>
+	    					
+<lb xml:id="line_48" n="48"/>
+                    <name type="animal" key="sheep">
+                        <name type="age">
+                            <w lemma="ἀρήν">ἄρνα</w>
+                        </name>
+                    </name>, <name type="epithet" key="Hyperpedios">
+                        <w lemma="Ὑπερπήδιος">Ὑπερπεδίωι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name>, <name type="deity" key="Heroines">
+                        <w lemma="ἡρωίνη">Ἡρωΐνησ<unclear>ι</unclear>
+                            <supplied reason="lost">ν</supplied>
+                        </w>
+                    </name> <name type="epithet" key="Hyperpedios">
+                        <w lemma="Ὑπερπήδιος">
+                            <supplied reason="lost">Ὑπερ</supplied>
+	    						
+<lb xml:id="line_49" n="49" break="no"/>πεδίο</w>
+                    </name> <name type="structure">
+                        <w lemma="τράπεζα">τράπεζαν</w>
+                    </name>, <name type="deity" key="Nisos">
+                        <w lemma="Νίσος">Νίσωι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name>, <name type="deity" key="Thrasykles?">
+                        <w lemma="unclear">Θρασ<supplied reason="lost">υκλεῖ (?)</supplied>
+                        </w>
+                    </name>
+	    					
+<lb xml:id="line_50" n="50"/>
+                    <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name>, <name type="deity" key="Sosineos">
+                        <w lemma="Σωσινέος">Σωσινέωι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name>, <name type="deity" key="Rhogios">
+                        <w lemma="Ῥογίος">Ῥογίωι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name>, <name type="deity" key="Pylochos">
+                        <w lemma="Πυλόχος">Πυ<supplied reason="lost">λόχωι</supplied>
+                        </w>
+                    </name>
+	    					
+<lb xml:id="line_51" n="51"/>
+                    <name type="animal" key="swine">
+                        <name type="age">
+                            <w lemma="χοῖρος">χοῖρον</w>
+                        </name>
+                    </name>, <name type="deity" key="Heroines">
+                        <w lemma="ἡρωίνη">Ἡρωΐνησι</w>
+                    </name> <name type="epithet" key="Pylochides">
+                        <w lemma="Πυλοχίδες">Πυλοχίσι</w>
+                    </name> <name type="structure">
+                        <w lemma="τράπεζα">τρά<supplied reason="lost">πεζαν</supplied>
+                        </w>
+                    </name>
+	    					
+<lb xml:id="line_52" n="52"/>
+                    <name type="month">
+                        <w lemma="Σκιροφοριών">Σκιροφοριῶνος</w>
+                    </name>, <name type="sacrifice">
+                        <name type="animal" key="generic">
+                            <w lemma="ὁρκωμόσια">ὁρκωμόσιον</w>
+                        </name>
+                    </name> <w lemma="">
+                        <add>π</add>αρ<supplied reason="lost">έχεν</supplied>
+                    </w>
+                    <supplied reason="lost">,</supplied> <name type="festival">
+                        <w lemma="Πλυντήρια">
+                            <supplied reason="lost">Π</supplied>
+	    						
+<lb xml:id="line_53" n="53" break="no"/>λυντηρίοις</w>
+                    </name> <name type="deity">
+                        <w lemma="Ἀθήνη">Ἀθηναίαι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name> <name type="quality">
+                        <w lemma="κριτός">κρι<supplied reason="lost">τόν</supplied>
+                        </w>
+                    </name>
+                    <supplied reason="lost">,</supplied> <name type="deity" key="Aglauros">
+                        <w lemma="ἄγλαυρος">
+                            <supplied reason="lost">Ἀγλ</supplied>
+	    							
+<lb xml:id="line_54" n="54" break="no"/>αύρωι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name>, <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">Ἀθηναίαι</w>
+                    </name> <name type="animal" key="sheep">
+                        <name type="age">
+                            <w lemma="ἀρήν">ἄρνα</w>
+                        </name>
+                    </name> <name type="quality">
+                        <name type="gender">
+                            <w lemma="κριτός">κριτ<supplied reason="lost">όν</supplied>
+                            </w>
+                        </name>
+                    </name>
+                    <supplied reason="lost">,</supplied> <name type="deity" key="Kephalos">
+                        <w lemma="Κέφαλος">
+                            <supplied reason="lost">Κεφά</supplied>
+	    								
+<lb xml:id="line_55" n="55" break="no"/>λωι</w>
+                    </name> <name type="animal" key="ox">
+                        <w lemma="βοῦς">βοῦν</w>
+                    </name> <w lemma="μή">
+                        <w lemma="ἐλάσσων">μἠλάττονος</w>
+                    </w> ἢ <w lemma="τεσσαράκοντα">τεττα<supplied reason="lost">ράκοντα</supplied>
+                    </w>
+	    					
+<lb xml:id="line_56" n="56"/>
+                    <w lemma="δραχμή">δραχμῶν</w> <w lemma="μέχρι">μέχρι</w> <w lemma="πεντήκοντα">πεντήκοντα</w>, <name type="deity" key="Poseidon">
+                        <w lemma="Ποσειδῶν">Π<supplied reason="lost">οσειδῶνι</supplied>
+                        </w>
+                    </name>
+	    					
+<lb xml:id="line_57" n="57"/>
+                    <name type="animal" key="sheep"/>
+                    <w lemma="ὄϊς"/>οἶ<num value="20">ΔΔ</num>ν <pc>∶</pc> τὸν δ’ <name type="title">
+                        <w lemma="εὔθυνος">εὔθυνον</w>
+                    </name> <name type="invocation">
+                        <w lemma="ὄμνυμι">ὀμόσαι</w>
+                    </name> καὶ τ<supplied reason="lost">ὸς</supplied> <name type="title">
+                        <w lemma="πάρεδρος">
+                            <supplied reason="lost">παρέδ</supplied>
+	    						
+<lb xml:id="line_58" n="58" break="no"/>ρος</w>
+                    </name> <w lemma="εὐθύνω">εὐθυνῶ</w> τὴν <w lemma="ἀρχή">ἀρχὴν</w> ἣν <w lemma="λαγχάνω">ἔλαχ<supplied reason="lost">ον</supplied>
+                    </w> <w lemma="εὐθύνω"/>
+                    <supplied reason="lost">εὐθύν</supplied>
+	    					
+<lb xml:id="line_59" n="59" break="no"/>εν <w lemma="κατά">κατὰ</w> τὰ <name type="authority">
+                        <w lemma="ψήφισμα">ψηφίσματα</w>
+                    </name> <w lemma="ἐπί">ἐφ’</w> οἷς <w lemma="καθίστημι">ἐ<supplied reason="lost">καθέστ</supplied>
+	    						
+<lb xml:id="line_60" n="60" break="no"/>
+                        <unclear>ηκ</unclear>εν</w> ἡ <w lemma="ἀρχή">ἀρχή</w>, <name type="invocation">
+                        <w lemma="ὄμνυμι">ὀμνύναι</w>
+                    </name> <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Δία</w>
+                    </name>, <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">Ἀπόλ<unclear>λ</unclear>
+                            <supplied reason="lost">ω</supplied>
+                        </w>
+                    </name>
+                    <supplied reason="lost">,</supplied> <name type="deity" key="Demeter">
+                        <w lemma="Δημήτηρ">
+                            <supplied reason="lost">Δήμητρ</supplied>
+	    							
+<lb xml:id="line_61" n="61" break="no"/>α</w>
+                    </name> <w lemma="ἐξώλεια">ἐξώλειαν</w> <name type="invocation">
+                        <w lemma="ἐπαράομαι">ἐπαρώμενον</w>
+                    </name>, καὶ <unclear>τ</unclear>
+                    <supplied reason="lost">ὸς</supplied> <name type="title">
+                        <w lemma="πάρεδρος">
+                            <supplied reason="lost">παρέδ</supplied>
+	    								
+<lb xml:id="line_62" n="62" break="no"/>ρος</w>
+                    </name> <w lemma="κατά">κατὰ</w> <w lemma="αὐτός">ταὐτά</w>, <w lemma="ἀναγράφω">ἀναγρά<surplus>ι</surplus>ψαι</w> <supplied reason="lost">δὲ τὸν</supplied> <name type="invocation">
+                        <w lemma="ὅρκος">
+                            <supplied reason="lost">ὅρκ</supplied>
+	    									
+<lb xml:id="line_63" n="63" break="no"/>
+                            <supplied reason="lost">ο</supplied>ν</w>
+                    </name> <objectType key="stele">
+                        <w lemma="εἰς">
+                            <w lemma="στήλη">ἐστήληι</w>
+                        </w>
+                    </objectType> καὶ <w lemma="κατατίθημι">καταθε̑ναι</w> <w lemma="παρά">π<supplied reason="lost">αρὰ</supplied>
+                    </w> <supplied reason="lost">τὸ</supplied> <name type="structure">
+                        <name type="epithet" key="Delphinios">
+                            <w lemma="Δελφίνιον">
+                                <supplied reason="lost">Δελφί</supplied>
+	    										
+<lb xml:id="line_64" n="64" break="no"/>
+                                <supplied reason="lost">ν</supplied>ιον</w>
+                        </name>
+                    </name>, <w lemma="ὅσος">ὅσαι</w> δ’ ἂν <w lemma="ἀρχή">ἀρχαὶ</w> <w lemma="αἱρέω">αἱρεθῶ- <supplied reason="lost">
+                            <space quantity="8" unit="character"/>
+                        </supplied> 
+	    											
+<lb xml:id="line_65" n="65"/>σιν</w> <w lemma="ὑπεύθυνος">ὑπευθύνος</w> <w lemma="εἰμί">ἐ̑ναι</w> <w lemma="ἅπας">ἁπάσα<supplied reason="lost">ς</supplied>
+                    </w>. <space quantity="8" unit="character"/>
+	    					
+<lb/>
+                    <space extent="unknown" unit="line"/>
+	    				</ab>
+	    				<ab subtype="face" n="Left">Left face, lines 31-32
+	    					
+<lb xml:id="line_31L" n="31L"/>-ωνι <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τέλεον</w>
+                        </name>
+                    </name> <name type="festival">
+                        <w lemma="Πυανόψια">Π<unclear>υ</unclear>
+
+<lb xml:id="line_32L" n="32L" break="no"/>ανοψίοις</w>
+                    </name>
+	    				</ab>
+	    				
+	    				<ab subtype="face" n="Left">Left face, line 42
+<lb xml:id="line_42L" n="42L"/>
+                    <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">
+                            <supplied reason="lost">Δι</supplied>
+                            <unclear>ὶ</unclear>
+                        </w>
+                    </name> <name type="epithet">
+                        <w lemma="ἑρκεῖος">Ἑρκείωι</w>
+                    </name> <pc>⋮</pc> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name>
+	    				</ab>
+	    				
+	    				<ab subtype="face" n="Left">Left face, line 58
+<lb xml:id="line_58L" n="58L"/>
+                    <name type="deity" key="Heroines">
+                        <w lemma="ἡρωίνη">
+                            <supplied reason="lost">Ἡ</supplied>ρωΐνησιν</w>
+                    </name> <name type="group">
+                        <name type="ethnic" key="Koroneus?">
+                            <w lemma="κορώνεως?">Κορωνέων</w>
+                        </name>
+                    </name> <pc>⋮</pc> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name>
+	    				</ab>
+	    				
+	    				<ab subtype="face" n="Right">Right face, lines 4-6
+<lb xml:id="line_4R" n="4R" break="no"/>
+                    <orig>Ι</orig> <placeName key="Mykenos">
+                        <w lemma="Μυκήνος">Μυκην<unclear>ο</unclear>
+                            <supplied reason="lost">ν</supplied>
+                        </w>
+                    </placeName> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_5R" n="5R"/>
+                    <gap reason="lost" quantity="1" unit="character"/>
+                    <orig>ΑΝ</orig> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name>
+                    <gap reason="lost" quantity="2" unit="character"/> <orig>Ν</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_6R" n="6R" break="no"/>
+                    <name type="quality">
+                        <w lemma="πρατέος">πρατόν</w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				</ab>
+	    				
+	    				<ab subtype="face" n="Right">Right face, line 12
+<lb xml:id="line_12R" n="12R"/>
+                    <name type="deity" key="Phoinix">
+                        <w lemma="Φοῖνιξ">Φοίνικι</w>
+                    </name> <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">τέλ<supplied reason="lost">εον</supplied>
+                            </w>
+                        </name>
+                    </name>
+	    				</ab>
+	    				
+	    				<ab subtype="face" n="Right">Right face, line 44
+<lb xml:id="line_44R" n="44R"/>
+                    <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">
+                            <supplied reason="lost">Διὶ</supplied>
+                        </w>
+                    </name> <name type="epithet" key="Herkeios">
+                        <w lemma="ἑρκεῖος">
+                            <supplied reason="lost">Ἑ</supplied>ρκείωι</w>
+                    </name> <pc>⋮</pc> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name>
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...] In Hekatombaion for [...] and for [..] provide a lunch [...] a drachma each [...] for (x) (5) as the Prerosia offering [...] (at the) Delphinion a goat [...] to Hekate [...] an adult animal, available for sale.</p> 
+					
+<p>(10) [In Metageitnion:] to Zeus Kataibates in the sacred enclosure at the Delphinion an adult animal, available for sale. An oath-sacrifice shall be provided for the public examinations (of the officials).</p> 
+					
+<p>In Boedromion: the Prerosia; for Zeus Polieus, a selected male sheep, a selected piglet, at Automenai (?) (15) a piglet purchased, to be burnt whole; the priest is to provide a lunch for the attendant; to Kephalos, a selected male sheep; to Prokris, a table; to Thorikos, a selected male sheep; for the Heroines of Thorikos, a table; at Sounion, for Poseidon, a choice male lamb; (20) to Apollo, a selected winter-old he-goat; to Kourotrophos, a selected female piglet; to Demeter, an adult animal; to Zeus Herkeios; an adult animal; to Kourotrophos, a piglet; to Athena, a male sheep available for sale; at the salt-works, for Poseidon, an adult animal; to Apollo, a piglet.</p>
+					
+<p>(25) In Pyanopsion: to Zeus Kataibates, on the land of the Philomelidai (?), an adult animal, available for sale; on the 16th, to Neanias (Young-man), an adult animal; at the Pyanopsia [...].</p>
+					
+<p>In Maimakterion: to Thorikos, an ox worth between 40 and 50 drachmae; (30) to the Heroines of Thorikos, a table.</p>
+					
+<p>In Posideon: the Dionysia.</p>
+					
+<p>In Gamelion: to Hera, at the Hieros Gamos [...].</p>
+					
+<p>In Anthesterion: to Dionysus [on the twelfth], a tawny or [black] he-goat, having lost its milk-teeth; at the (35) Diasia, for Zeus Meilichios, a (male) sheep available for sale.</p>
+					
+<p>In Elaphebolion: to the Herakleidai [an adult animal]; to Alkmene, an adult animal; to the Anakes, [an adult animal]; to Helen, an adult animal; to Demeter, as the Chloia offering, a selected pregnant [sow]; to Zeus, a selected male lamb. </p>
+					
+<p>(40) In Mounychion: to Artemis at Mounychia, [an adult animal]; at the sanctuary of Apollo Pythios, a triple sacrifice; to Kourotrophos, a piglet; to Leto, a goat; to Artemis, a goat; to Apollo, a goat having lost its milk-teeth; to Demeter, a pregnant ewe as the Antheia offering; to Philonis, a (45) table; to Dionysus at Mykenos, a tawny or black [he-goat].</p>
+					
+<p>In Thargelion: to Zeus, at Automenai (?), a [selected male] lamb; to Hyperpedios, a sheep; to the Heroines of Hyperpedios, a table; to Nisos, a sheep; to Thras[ykles?], (50) a sheep; to Sosineos, a sheep; to Rhogios, a sheep; to Pylochos, a piglet; to the Pylochian Heroines, a table.</p>
+					
+<p>In Skirophorion: an oath-sacrifice is to be provided; at the Plynteria, for Athena a selected male (?) sheep; for Aglauros, a sheep; for Athena, a selected male (?) lamb; for Kephalus (55), an ox worth between 40 and 50 drachmae; for [Poseidon], a sheep (costing) 20 drachmae.</p>
+					
+<p>The examiner and his assistants are to take (the following) oath: "I shall scrutinise the office which was allotted to me for scrutiny in accordance with the decrees by which this (60) office was instituted." He is to swear by Zeus, Apollo and Demeter, invoking utter destruction, and the assistants (are to swear) the same way. The [oath] shall be inscribed on a stele and placed [beside the Delphinion]. All offices for which officials are elected shall be (65) subject to scrutiny. </p>
+					
+<p>Left face, lines 31-32</p>
+
+<p>(to Apollo? or Poseidon?) an adult animal during the Pyanopsia.</p>
+					
+<p>Left face, line 42</p>
+							
+<p>(to Zeus) Herkeios, a sheep.</p>
+					
+<p>Left face, line 58</p>
+								
+<p>(to Her)oines of the Koroneis, a sheep.</p>
+									
+<p>Right face, lines 4-6</p>
+										
+<p>[...] at Mykenos [...] a male sheep [...] available for sale.</p>
+					
+<p>Right face, line 12</p>
+
+<p>To Phoinix, an adult animal.</p>
+					
+<p>Right face, line 44</p>
+
+<p>[To Zeus] Herkeios, a sheep.</p>
+										</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>En Hekatombaion [...] et pour ceux [...] fournir le déjeuner [...] une drachme à chacun [...] (5) comme offrande des Prerosia [...] (au) Delphinion un caprin [...] pour Hécate [...] un animal adulte disponible à la vente.</p>
+						
+<p>(10) [En  Metageitnion], pour Zeus Kataibatès, dans l'enclos sacré à côté du Delphinion, un animal adulte disponible à la vente. Procéder au sacrifice relatif au serment en vue de l’examen public (des fonctionnaires).</p>
+						
+<p>En Boedromion, Prerosia; pour Zeus Polieus, un mouton mâle sélectionné, un porcelet mâle sélectionné, à Automenai (?), (15) un porcelet mâle acheté pour être brûlé en entier; que le prêtre fournisse le déjeuner à l’assistant; pour Kephalos, un mouton mâle sélectionné; pour Prokris, une table; pour Thorikos, un mouton mâle sélectionné; pour les Héroïnes de Thorikos, une table; à Sounion, pour Poséidon, un agneau (20) sélectionné; pour Apollon, un chevreau âgé d'un hiver sélectionné; pour Kourotrophos, un porcelet femelle sélectionné; pour Déméter, un animal adulte; pour Zeus Herkeios, un animal adulte; pour Kourotrophos, un porcelet; pour Athéna, un mouton mâle disponible à la vente; aux salines, pour Poséidon, un animal adulte; pour Apollon, un porcelet.</p>
+						
+<p>(25) En  Pyanopsion, pour Zeus Kataibatès, chez les Philomelidai (?), un animal adulte disponible à la vente; le 16, pour Néanias, un animal adulte; aux Pyanopsia [...]</p>
+						
+<p>En  Maimakterion, pour Thorikos, un boeuf d’une valeur entre 40 et 50 drachmes; (30) pour les Héroïnes de Thorikos, une table.</p>
+						
+<p>En Posideon, les Dionysia.</p>
+						
+<p>En Gamelion, pour Héra, au Hieros Gamos [...]</p>
+						
+<p>En Anthesterion, pour Dionysos, [le 12], un caprin mâle de couleur fauve ou [noire], qui a perdu ses dents de lait; aux (35) Diasia, pour Zeus Meilichios, un mouton mâle disponible à la vente.</p>
+						
+<p>En Elaphebolion, pour les Heraklidai, [un animal adulte]; pour Alcmène, un animal adulte; pour les Anakes, [un animal adulte]; pour Hélène, un animal adulte; pour Déméter, en guise d’offrande pour les Chloia, une [truie] pleine sélectionnée; pour Zeus, un agneau sélectionné.</p>
+						
+<p>(40) En Mounychion, pour Artémis à Mounychia, [un animal adulte]; au sanctuaire d’Apollon Pythios, un triple sacrifice; pour Kourotrophos un porcelet; pour Léto, un caprin; pour Artémis, un caprin; pour Apollon, un caprin qui a perdu ses dents de lait; pour Déméter, une brebis pleine en guise d’offrande pour les Antheia; pour Philonis, une (45) table; pour Dionysos, à Mykenos, un [bouc] de couleur fauve ou noire.</p>
+						
+<p>En Thargelion, pour Zeus, à Automenai (?), un agneau [sélectionné]; pour Hyperpedios, un mouton; pour les Héroïnes d’Hyperpedios, une table; pour Nisos, un mouton; pour Thras[yklès ?], (50) un mouton; pour Sosineos, un mouton; pour Rhogios, un mouton; pour Pylochos, un porcelet; pour les Héroïnes de Pylochos, une table.</p>
+						
+<p>En Skirophorion, fournir l’animal pour le sacrifice du serment; aux Plynteria, pour Athéna, un mouton sélectionné; pour Aglauros, un mouton; pour Athéna, un agneau sélectionné; pour Kephalos, (55) un boeuf d’une valeur entre 40 et 50 drachmes; pour [Poséidon], un mouton de 20 drachmes.</p>
+						
+<p>Que l’examinateur et ses assistants prononcent le serment (suivant) : « J’exercerai la charge d’examinateur qui m’est échue conformément aux décrets en vertu desquels la charge a été instaurée. » (60) Qu’il jure par Zeus, Apollon, Déméter, en invoquant la destruction complète, et que ses assistants prononcent le même serment. Que l’on inscrive [le serment] sur une stèle et qu’on la place [à côté du Delphinion]. Que toutes les charges électives [...] soient (65) soumises à l’examen.</p>
+						
+<p>Marge du côté gauche, lignes 31-32</p> 
+
+<p>[Pour Apollon ? pour Poséidon ?], un animal adulte durant les Pyanopsia.</p>
+					
+<p>Marge du côté gauche, ligne 42</p> 
+
+<p>[Pour Zeus] Herkeios, un mouton.</p>
+
+<p>Marge du côté gauche, ligne 58</p> 
+
+<p>Pour les Héroïnes des Koroneis, un mouton.</p>
+						
+<p>Marge du côté droit, lignes 4-6</p> 
+
+<p>[...] à Mykenos [...] un bélier [...] disponible à la vente.</p>
+
+<p>Marge du côté droit, ligne 12</p>
+
+<p>Pour Phoinix, un animal adulte.</p>
+
+<p>Marge du côté droit, ligne 44</p>
+
+<p>[Pour Zeus] Herkeios, un mouton.</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>Given the findspot and the regular mentions of the hero Thorikos (lines 18, 28) and the toponym ("the Heroines of Thorikos", lines 18, 30), this sacrificial calendar is almost certainly that of the deme of Thorikos. With all months (except Metageitnion, which is plausibly restored in line 10) being preserved in their standard Athenian order, this is a very good example of a sacrificial calendar (cp. also <ref target="http://cgrn.ulg.ac.be/CGRN_52">CGRN 52</ref>, Erchia). For other deme calendars in the present Collection, see <ref target="http://cgrn.ulg.ac.be/CGRN_55">CGRN 55</ref> (Teithras) and cf. also the sacrificial accounts published by still further demes, <ref target="http://cgrn.ulg.ac.be/CGRN_25">CGRN 25</ref> (Paiania). The entries of the different months differ considerably in length: in Boedromion, many sacrifices are prescribed, but for some of the winter months there are very few rites (Posideon, Gamelion; the situation was similar at Athens itself, cf. Mikalson). As with the other deme calendars, there is a distinctive mixture of unusual or specific local rites, along with the celebration of festivals applying to Athens and wider Attica. Compared with the precise situation of rites at Erchia, it is often unclear whether the sacrifices from the present calendar take place at Thorikos itself, or represent contributions and participation to activities located in the city. It seems noteworthy that there are two types of references to festivals. The references in Boedromion to the Proerosia (line 13) and in Posideon to the Dionysia (line 31) occur in the nominative, and no sacrifices are specified. By contrast, mentions of other festival occasions occur in the dative: the Pyanopsia (line 27), the Hieros Gamos (line 32), the Diasia (lines 34-35) and the Plynteria (lines 52-53). One or more sacrifices seem specified at the occasion of the Plynteria (see below) and perhaps for the Diasia (a sheep for Zeus Meilichios, a sacrifice which certainly belongs with this entry). There were perhaps sacrifices specified in the lacunae following the Pyanopsia at line 27 and the Hieros Gamos at line 32, though this is not absolutely certain (see below).</p>
+						
+<p>The context for the inscribing of the calendar is not completely clear, and it appears to have been reinscribed (see above on Support and Date) or to have been inscribed on the opposite side of another calendar altogether (see below). It is possible that line 1, which begins with a few words before the month name Hekatombaion, may have contained a comment about the character of the calendar, but the space is probably too small: a short title or enacting formula for the text seems likelier. What is also conspicuous is how the calendar concludes with a substantial section concerning the scrutiny which a (deme) official called the <foreign>euthynos</foreign> (lines 57-65) and his assistants must exercise. This (perhaps new?) addendum to the calendar formed an integral part of it. Accordingly, it might be presumed that this clarification of the oath and role of the <foreign>euthynos</foreign> was meant to insure that he would not only examine the conduct of deme officials (including the <foreign>demarchos</foreign> and other publicly appointed priests), but also thereby scrutinise the accounts for rites performed in the deme. A primary motivation for the inscribing of fourth century BC calendars in Attica indeed appears to have been the financing and balancing of costs for rites (most conspicuously in the deme of Erchia, <ref target="http://cgrn.ulg.ac.be/CGRN_52">CGRN 52</ref>; at Thorikos, the prices for offerings remain rather vague except in a few cases, see below). Two mentions of oath-sacrifices are made near the bookends of the year, in the months Metageitnion and Skirophorion, at lines 12 and 52 respectively. In Skirophorion, at the end of the year, this ὁρκωμόσιον (probably a sacrificial animal) is presumed to be for the oath sworn by the <foreign>euthynos</foreign> and his assistants. The short intervening time (1-2 months) before Metageitnion in a new year will have allowed them to conduct their investigations and then proceed to the "scrutiny", when a further ὁρκωμόσιον was provided by the deme (line 12). See further Lupu p. 124 for further discussion of the provenance and his comm. at p. 147-148 on the <foreign>euthynos</foreign>.</p>
+						
+<p>To facilitate consultation, the calendar is inscribed in clear letters and with a specific layout. With the exception of line 1, each month name occurs at the start of the left margin (where necessary, empty space concludes a paragraph concerning a month, cf. lines 24, 31, 39, 46). That being said, the entries preserved under each month are sometimes difficult to interpret. The basic components of a typical calendrical entry would be a date, followed by a recipient or deity in the dative, and finally an offering (cf. <ref target="http://cgrn.ulg.ac.be/CGRN_1">CGRN 1</ref>, Corinth, for discussion). But in this calendar, specific dates are seldom mentioned (cf. lines 26, and probably 33 where the date occurs, but after the mention of the deity). In addition, various locations in and around the deme are mentioned, many of which remain obscure (see also below). Though the punctuation can sometimes be helpful, it is used sporadically and the mention of an occasion or sanctuary is often difficult to link with a specific sacrifice listed under a month-rubric (for further discussion, see below, in the commentary on Mounychion, lines 40-46 and Skirophorion, lines 52-65).</p>
+					
+<p> Lines 1-9: The entry for the first month, Hekatombaion (July/August), is only very partially preserved and thus little comment can be made concerning it. It is considerable in length (if the restoration of Metageitnion is in the correct place at line 10), though not quite as long at the entry of Boedromion, the longest preserved entry. Since Hekatombaion was an important month in the Athenian calendar, including both the Synoikia on the 16th and the Panathenaia at the end of the month, as well as other festivals, the level of detail need not be surprising. These festivals are not mentioned in the preserved text, but may have appeared in one of the many lacunas. At lines 5-6, an animal appears to be designated as a "Proerosia offering" (τὴν πρηροσίαν), and cf. also the similar designations τὴν χλο[ΐαν] (line 39) and ἄνθειαν (45), all of which qualify the female animal offered (nevertheless they clearly allude to the festival in question). All three of these animals were probably offered to Demeter, as is probably to be assumed here in line 5; at any rate, they certainly relate to festivals of this goddess. It is noteworthy and remains somewhat enigmatic how this offering anticipates by as much as two months the celebration of the festival itself in Boedromion (September/October, line 14). For the flexible order of the festivals of Demeter in the Attic demes, see especially Parker 2005a: 195-198; more briefly, Lupu. At Thorikos, we find these rituals connected to ploughing in the summer and early fall, followed by a festival related to verdant spring (again τὴν χλο[ΐαν], line 39, in Elaphebolion, March/April) and a festival on the occasion of the blooming of barley and wheat (ἄνθειαν, line 45, April/May). For the pre-ploughing festival of the Proerosia and other agricultural festivals of Demeter, see also here <ref target="http://cgrn.ulg.ac.be/CGRN_25">CGRN 25</ref> (Paiania). At line 6, the ritual appears to center around a sanctuary of Apollo Delphinios in Thorikos (cf. also line 11 and the inscribing clause of the oath in lines 62-64). A Delphinion is also attested at Erchia, though its function appears to be much more occasional: <ref target="http://cgrn.ulg.ac.be/CGRN_52">CGRN 52</ref>, col. Α, lines 23-20.</p>
+							
+<p> Lines 10-12: We follow Lupu and others in restoring the second month, Metageitnion, in this suitable space (12 <foreign>stoichoi</foreign>), though it could also be supplied earlier. As it stands, this entry was perhaps short and little detailed. If the inference concerning the procedure of the <foreign>euthyna</foreign> discussed above is correct, it may be that the month was taken up by many administrative duties and new elections in the deme (along with further oath-taking). Two sacrifices are attested. The first concerns Zeus Kataibates, a god who was worshipped in places struck by lightning. It can be inferred that lightning had at one time struck an area of the precinct in the Delphinion. See Lupu for further comparanda, and for a short regulation relating to this manifestation of Zeus, cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_11/">CGRN 11</ref> (Thalamai). The word πρατόν is probably a verbal adjective (from πέρνημι), signifying that something "sold" or is "capable of being sold". But the qualifier is translated by Lupu as "to be sold" and likewise interpreted by Jameson, who thinks that its inclusion is analogous to the frequent provisions in other calendars stipulating that meat was to be consumed on the spot or, alternatively, that it could sometimes be carried away or sold. According to this interpretation, the qualifier πρατόν would refer to the end state of the animal, after the sacrifice: its meat could be sold. For sales of meat in the agora of a deme, cp. <ref target="http://cgrn.ulg.ac.be/CGRN_19">CGRN 19</ref> (deme of the Skambonidai); for the more common phrase "no take-away", οὐκ ἀποφορά vel sim., see <ref target="http://cgrn.ulg.ac.be/CGRN_59/">CGRN 59</ref> (Thera); <ref target="http://cgrn.ulg.ac.be/CGRN_85/">CGRN 85</ref> (Kos), lines 5, 7; <ref target="http://cgrn.ulg.ac.be/CGRN_128/">CGRN 128</ref> (Lissa), line 4. Since it is unusual for the sale of sacrificial meat to be stipulated explicitly in calendars (rather than the more common dichotomy φόρα / οὐ φόρα), another interpretation is possible. In this calendar, a firm distinction appears to be operating between animals which have been selected for sacrifice (for example, by priests, or in a competition amongst the demesmen) and which are qualified as κριτός in the calendar, and those which have been purchased (cf. also the prices listed in lines 28-30; 55-56, 57). No κριτός animal is found with a price or notion of sale (and vice versa, no πρατόν animal explicitly underwent a κρίσις). For the selection of sacrificial animals, cf. esp. <ref target="http://cgrn.ulg.ac.be/CGRN_86">CGRN 86</ref> A (Kos), lines 1-20; for the absence of selection in a single case, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_146">CGRN 146</ref> (Kos, deme of Phyxa), lines 8-9. Both πρατέος and another qualifier, ὠνητός "bought" are unique to this Attic calendar. The term ὠνητὸν occurs only once, for a piglet, listed in line 16, which is ὠνητὸν ὁλόκαυτον, presumably implying that it was both "bought" and is intended to be "burned whole”. Perhaps both ὠνητὸν and πρατόν, though superficially conveying opposite senses, refer to the action of the purchase of animals (as opposed to obtaining them by a process of selection): both qualifiers would give two sides of the same medal when referring to an animal that is "to be sold" and "bought" on the market, and thus "available for purchase" or "for sale" to the deme.</p>
+							
+<p> Lines 13-24: Several sacrifices are attested in Boedromion. The Proerosia are only briefly mentioned, perhaps because they were also discussed earlier (see above at lines 1-9), though this remains highly unusual. The occasion is probably to be dissociated from the two sacrifices to Zeus Polieus which follow, as well as the other sacrifices in the month. At line 14, it would seem that the recurrent letters ΕΠΑΥΤΟΜΕΝΑΣ are most probably to be interpreted as a phrase referring to an unknown toponym: ἐπ᾽ Αὐτομενας. See Lupu for further commentary, discussing other, less likely possibilities. Cp. the phrase ἐπὶ Μυκηνον at line 45 and line R4, also an unidentified location, presumably in the area of the deme. In both cases, we would have expected the preposition ἐπὶ with the dative as a designation of the place where the sacrifice is to be made, while ἐπί + accusative typically suggests movement. If we presume that both places referred to hills or promontories—cp. ἐπὶ Σουνιον at line
+19—, then the directionality of ἐπί + accusative ("onto", "upon") would make good sense. The notion of ἐπ᾽ Αὐτομενας as indicating a location makes it likely that there were two sacrifices to Zeus Polieus, one in the deme, perhaps on its Acropolis, the other at this enigmatic site (so Daux, cited by Lupu). For the intendant called an ἀκολουθῶν, perhaps here appointed to serve the site "at Automenai", cf. also a possible mention of a similar official at <ref target="http://cgrn.ulg.ac.be/CGRN_77">CGRN 77</ref> (Piraeus). A series of relatively obscure local heroes are then mentioned: Kephalos, a hero from Thorikos and his wife Prokris, who was Erechtheus' daughter, along with the eponymous Thorikos himself and his accompanying heroines (see Lupu for sources). The mention of a table does not necessarily appear to designate a physical object (which in any case may have been a fixed structure <foreign>in situ</foreign>), but rather the dressing and placing of food upon it as a meal for the
+recipient, i.e. a <foreign>theoxenia</foreign> (cf. Gill and cp. <ref target="http://cgrn.ulg.ac.be/CGRN_13">CGRN 13</ref>, face A). Sounion was a neighbouring deme to the south of Thorikos, and the deme appears to have made a visit in order to offer a sacrifice in the sanctuary of Poseidon there. The offering of piglets to Kourotrophos is well-attested here (cf. also lines 22, 41-42), as well as at Erchia (cf. <ref target="http://cgrn.ulg.ac.be/CGRN_52">CGRN 52</ref>, col. Α, lines 25-27, 59-61; col. Β, lines 7-10, 33-36; col. Γ, lines 3-6; col. Δ, lines 3-6). At Erchia in particular, these sacrifices are assumed to be preliminary to other rites, though the role and inclusion of Kourotrophos was essential; for a more detailed exploration of the cult, see Pirenne-Delforge. For the cult of Demeter at Thorikos, see the sources gathered in Lupu, who points to a possible sanctuary. It is interesting to note that Zeus Herkeios, whose epithet denotes the household precinct, and Demeter are
+similar juxtaposed in the sacrificial calendar of Athens, along with Themis and other Eleusinian gods, during rites which are also perhaps to be situated in Boedromion or in Pyanopsion: <ref target="http://cgrn.ulg.ac.be/CGRN_45">CGRN 45</ref>, Face A, fr. 3. Another point of note is the fact that Zeus Herkeios is twice honoured in the marginalia with the sacrifice of a sheep (rather than an adult animal as here): cf. lines L42 and R44. If both of these indications belong to an earlier calendar on the back, they would tend to indicate that Zeus Herkeios was honoured at other (later?) points of the year. A salt-works is suitably fits the geographical context of coastal Thorikos; cp. the multiple mentions of a "Hero at the Salt-Works" in the calendar of the <foreign>genos</foreign> of the Salaminioi, <ref target="http://cgrn.ulg.ac.be/CGRN_84">CGRN 84</ref>, lines 17, 38, 54, 86 (see also Lupu for further discussion; he aptly associates the cult here with Poseidon, rather than Athena who precedes the mention of the location, but this choice remains unclear).</p>
+							
+<p>Lines 25-27: As Lupu summarises, there is much uncertainty about how to read this entry for the month Pyanopsion. At first glance at least, it does not appear to respect a strict chronological order, since a date of the 16th occurs on line 26, while the Pyanopsia are only mentioned later, and these occurred on 7 Pyanopsion in the city of Athens (cf. Mikalson). Parker (1987: 142, 146) proposes that these are local Pyanopsia at Thorikos, which perhaps occurred later in the month (cf. the discussion of the Prerosia and other 'mobile' feasts, lines 1-9 above); Lupu lists the few alternatives. The offering or divinity honoured after the mention of the festival (if indeed related to it) has now been lost; Jameson proposed the eponymous π[ύανα], beans (2 letters short, but this would be possible at the end of the month rubric). A further potential reading would be Π[οσειδῶνι], which might match the traces of the marginalia in L31-32, where the divine name ends in -ωνι. However, there are various problems with this line of reasoning: Π[οσειδῶνι] appears to be 2 letters too long for the available lacuna; Apollo is more expected than Poseidon and the honorand of L31-32 explicitly receives an adult animal (for which there is no room here). At any rate, we are thus forced to conclude that the marginalia in L31-32 (and possibly the earlier calendar on the back) did not exactly match the calendar on the extant face of the stele. A similar conclusion is stimulated by also remarking that further deities included in the margins, the "Heroines of the Koroneis" (unattested), who are not mentioned on the main preserved face (cp. also possibly the hero Phoinix at line R12, if this indeed belonged to the other calendar). Another divinity honoured, apparently in connection with the date of the 16th, is a hero called Neanias, who receives an adult animal. Neanias, "Young-Man", is an enigmatic figure, who possessed a shrine (unlocated but perhaps in the city: cf. <bibl type="abbr" n="Agora XIX">Agora XIX</bibl> L6.141), and who is honoured with an animal sacrifice in the calendar of the Marathonian Tetrapolis (<ref target="http://cgrn.ulg.ac.be/CGRN_56">CGRN 56</ref>, col. II, line 21). For Zeus Kataibates, see above lines 10-12; the reference to Philomelidai is unknown, but the name points to a local group (a family or <foreign>genos</foreign>) in the area of the deme, or to a toponym (both are also possible).</p>
+							
+<p>Lines 28-30: Despite the brevity of this entry, the winter month of Maimakterion (November/December) again contains an important sacrificial occasion: the sacrifice of male ox to the eponymous hero of the deme, Thorikos. As Lupu acutely observes, "the strict limit put on the price is noteworthy": it would seem that the deme is concerned to purchase an ox but not an overly expensive one. Bovines are valued as much as 90 drachmae in the calendar of the Marathonian Tetrapolis, <ref target="http://cgrn.ulg.ac.be/CGRN_56">CGRN 56</ref>, col. II, lines 9, 20, 21, etc.; in the state calendar of Athens, young adult oxen are valued at 50 dr., cf. <ref target="http://cgrn.ulg.ac.be/CGRN_45">CGRN 45</ref>. The local hero Kephalos receives a similarly valuable (but also carefully priced) ox later in the calendar, see below lines 54-57.</p>
+							
+<p>Line 31: The extremely brief month entry for Posideon simply mentions the Dionysia without any further qualifications. The Rural Dionysia are known to have occurred during this month, at an uncertain date; cf. Mikalson. It is intriguing that several festivals mentioned in the calendar are not described in any detail: so too the Prerosia above (line 13, unless this was detailed partly in Hekatombaion, cf. lines 1-9), and perhaps other celebrations which are very briefly mentioned (the Pyanopsia, lines 25-27; the Hieros Gamos, below in line 32). Does this signify that the participation of Thorikos in these occasions was highly limited, or does it imply that these were local celebrations at Thorikos which were perhaps detailed elsewhere (e.g. in other documents)? Parker (1987: 142) appears to favour the latter option. A recent study of the Dionysia by Paga supports this view and concludes that the Rural Dionysia was the affair of the <foreign>trittyes</foreign> rather than the demes. A third option is raised by Wilson, who observes that <foreign>choregiai</foreign> and other private contributions served to finance the Rural Dionysia in the demes. In both cases, independent organisation by <foreign>trittyes</foreign> or independent financing at Thorikos would explain why no specific sacrifices needed to be specified on this occasion and purchased by the deme. As convincing as these explanations may be, we simply note that they fail to explain why the same brevity and lack of detail might apply to the Prerosia in line 13 (a deme affair) and possibly to a few other occasions (listed above). We may instead be dealing with rites which were specified in somewhat more detail on the earlier calendar inscribed at the back (as is the case for the Pyanopsia for instance, in lines 25-27 and L31-32).</p>
+							
+<p>Line 32: The entry for the month Gamelion is equally brief as that for Posideon, mentioning honours for Hera during an important festival in Athens. The Hieros Gamos or Theogamia (taking place on 27 Gamelion) was a celebration in honour of the marriage of Hera with Zeus; cf. Mikalson and Parker (2005a) for the sources. Local rites during this occasion are treated in more detail in the calendar of Erchia, <ref target="http://cgrn.ulg.ac.be/CGRN_52">CGRN 52</ref>, col. Β, lines 32-39 + col. Γ, lines 38-41 + col. Δ, lines 28-32, where Hera and Zeus Teleios are honoured with sacrifices, accompanied by Kourotrophos and Poseidon. Cf. also what appears to be the same celebration, involving Zeus Heraios, mentioned in the calendar of a <foreign>genos</foreign> (?) at Athens, <ref target="http://cgrn.ulg.ac.be/CGRN_21">CGRN 21</ref>, lines 21-22. The content of the lacuna at the end of the line is unclear. It most probably mentioned a sacrificial animal for Hera, but it may simply have been left empty, conforming to the pithy mention of the Prerosia in line 13 and the Dionysia in line 31 (see above).</p>
+							
+<p>Lines 33-35: The restoration of a date after the mention of the god Dionysus in Anthesterion is again perplexing in terms of word order (but not atypical of the rest of the calendar; see line 32 above where the occasion, the Hieros Gamos, occurs after the mention of the relevant deity, Hera). The date of the twelfth is made highly plausible by the fact that the middle day of the Anthesteria, the Choes, took place at this time; cf. Mikalson and Parker (2005a: 290-303) for the festival. Dionysus is honoured with a mature he-goat, an animal which the god often received, but which here is additionally qualified as having a dark colour: either tawny or black, πυρρὸν ἢ [μέλανα] (the same phrase is found of a sacrifice of an adult he-goat to Dionysus in lines 45-46). The notion of colour is seldom explicitly found in the current collection as an additional requirement for sacrificial animals; it may often have been left implicit. The idea here appears to be that Dionysus should receive a darker animal during the Choes, which were sometimes reckoned to be a sombre affair (but not solely, cf. Parker 2005a: 290-303). Interestingly, in <ref target="http://cgrn.ulg.ac.be/CGRN_110">CGRN 110</ref> (Kamiros), line 4, and <ref target="http://cgrn.ulg.ac.be/CGRN_117">CGRN 117</ref> (Lindos), line 5-6, we find alternatives for the colours of sacrificial animals specified as "tawny" and “white”, not "tawny" and “black”.</p>
+						
+<p>The second major celebration in the month are the Diasia in honour of Zeus Meilichios, which is known to have been celebrated at Agrai on the 23rd of Anthesterion (cf. the summaries in Mikalson, Lupu). Parker (1987: 140) supposes a contribution of the deme of Thorikos to the celebration at Agrai, which Lupu cautions given the absence of a geographic designation in the entry at Thorikos. For sacrifices to Zeus Meilichios sent from Erchia to Agrai, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_52">CGRN 52</ref>, col. Α, lines 37-43, and on the god outside of Athens, cf. also <ref target="http://cgrn.ulg.ac.be/CGRN_13">CGRN 13</ref> (Selinous).</p> 
+							
+<p>Lines 36-39: The Herakleidai are associated with Alkmene (mother of Heracles, along with his wife Hebe) at Aixone as well: <bibl type="abbr" n="IG II²">IG II²</bibl> 1199, lines 22-25. Alkmene receives the sacrifice of a sheep in Mounychion in the calendar of the <foreign>genos</foreign> of the Salaminioi, <ref target="http://cgrn.ulg.ac.be/CGRN_84">CGRN 84</ref>, and thus appears to have been particularly honoured around the springtime in Attica. In this spring month of Elaphebolion, Demeter is also honoured with an offering (Chloia, lit. "verdant"), belonging to the eponymous Chloia festival celebrating the new green shoots of spring, cf. the commentary on lines 1-9 above. This offering probably consisted of a pregnant sow (as in the reading of Lupu following Daux, a ewe, [οἶν], is also possible; Robertson, cited in Lupu, already suggested the alternative [ὗν]); for a pregnant sow in this context, cp. esp. <ref target="http://cgrn.ulg.ac.be/CGRN_56">CGRN 56</ref> (Marathonian Tetrapolis),
+col. II, lines 48-50 ([Demeter] Eleusinia and Chloe in Anthesterion), and the sacrifice to Demeter Chloe at Mykonos, <ref target="http://cgrn.ulg.ac.be/CGRN_156">CGRN 156</ref>, line 11 (12 Posideon). For the Chloia, cf. Parker (2005a: 195-198), and above lines 1-9; the dates for this celebration varied considerably within the city and the rest of Attica (see also Georgoudi). We are probably justified in assuming that the sacrifice here coincided with the local celebration of the festival.</p>
+							
+<p>Lines 40-46: With Lebreton's new restoration, the offering to Artemis in the month Mounychion can be restored as taking place at Mounychia (a harbour near Piraeus with a famous sanctuary of Artemis), rather than implying a sanctuary of Artemis Mounychia in Thorikos (the earlier reading). Despite the considerable distance involved, this offering would thus seem to imply the participation of the deme of Thorikos in the important celebration of the goddess at Mounychia itself—the eponymous festival of the Mounychia—celebrated on the 16th day of Mounychion (cf. Mikalson, Lupu). The next few entries which follow under this month are probably (but not absolutely certainly) to be distinguished from the Mounychia. At any rate, they appear to form a coherent group. If the restoration in line 41 is correct, which cannot be confirmed, there would be a mention of the most significant offering extant in the calendar, a triple-offering or <foreign>trittoa</foreign>. This is the sacrifice of an ox, pig and sheep; on this sacrifice, see <ref target="http://cgrn.ulg.ac.be/CGRN_8">CGRN 8</ref> (Eleusis), line 5. The triple sacrifice is to be led into the sanctuary of Pythian Apollo (perhaps the one at Daphne, see Lupu). Additionally, Leto, Artemis and Apollo are also the recipients of sacrifices of goats: whether these gods were honoured in the same Pythian sanctuary or at Thorikos itself is unclear. It may be interesting to note that the Delphinia (a festival for Apollo Delphinios) in Athens were celebrated on 6 (and perhaps 7) Mounychion, though whether we are dealing with an analogous and roughly contemporaneous celebration at Thorikos is uncertain. For the sacrifice of the Antheia offering to Demeter, again representing a (poorly attested) agricultural festival for the goddess, see Parker (1985: 195-198), and above lines 1-9. For the mythological sources potentially connecting the figure of Philonis with Thorikos, see Lupu.</p>
+							
+<p>Lines 47-51: The majority of the heroes listed here as honorands in Thargelion are completely unknown and some of the names can only be tentatively restored. Nisos is an exception to this, being attested in several sources, and having potential connections with Kephalos and Prokris and their children (see lines 13-24 above, and Lupu for a summary).</p>
+							
+<p>Lines 52-65: The Plynteria, mentioned here in Skirophorion, point again to a local celebration in the deme, using somewhat flexible dating; in Athens, this festival took place near the end of the preceding month, on 25 Thargelion. For the rites performed by the genos of the Praxiergidai at the Plynteria ("Washing"), see here <ref target="http://cgrn.ulg.ac.be/CGRN_24">CGRN 24</ref>. At Thorikos, it is unclear if the festival is to be taken as a self-standing reference (such as we found e.g. above for the Dionysia, line 31) or if it is to be connected with one or both sacrifices to Athena which follow. As discussed above, it may be significant that the Dionysia are mentioned in the nominative case (as a self-standing reference, merely communicating the occurrence of this festival in this month, without further obligations for the deme), but the Plynteria are given in the dative, so as to introduce an entry of what sacrifice needs to be provided "during the Plynteria...". Thus, it is perhaps most probable that at least the first of the two different sacrifices to Athena in the following list is to be connected with the Plynteria. For the sacrifice of a single ewe to Athena during this festival by an unknown Athenian group, and presumably taking place on the Acropolis at the appropriate time (immediately before Skirophorion), see <ref target="http://cgrn.ulg.ac.be/CGRN_20">CGRN 20</ref>, face C, lines 9-10. Aglauros has a direct connection to the Plynteria: cf. Parker (2005a: 381; mourning the heroine may have been involved: the vestments of Athena were left unwashed for a year after her death). The second sacrifice to Athena listed under Skirophorion might be connected with the Arrhephoria, which also manifestly involved the figure of Aglauros. For rites almost certainly connected to this festival on 3 Skirophorion at Erchia, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_52">CGRN 52</ref> (Erchia), col. Α, lines 57-65 + col. Β, lines 55-59 + col. Γ, lines 60-64 + col. Δ, lines 56-60. The sacrifices there involve Kourotrophos, Athena Polias and Zeus Polieus, Aglauros, and Poseidon, all of whom are honoured on the Acropolis in Athens. But, here too, it remains the case that we do not know precisely where the rites of the calendar of Thorikos took place. At line 57, Lupu records that Parker and others have objected to the price of 20 drachmae being too high for an otherwise unqualified sheep, but notes that a price nonetheless seems the most plausible interpretation for the numerals. Remarkly, the cutter inserted the cost of the animal inside the word itself; what motivated this insertion remains open.</p>
+
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

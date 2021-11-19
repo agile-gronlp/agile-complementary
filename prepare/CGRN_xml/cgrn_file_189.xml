@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_189" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 189</idno>: <rs type="textType" key="purity regulation">Purity regulation</rs> from Lykosoura</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>Fragment (bottom left corner) of a limestone <rs type="objectType" key="stele">stele</rs>.</p>
+                        <p><dimensions>
+                                <height unit="cm">40</height>
+                                <width unit="cm">42</width>
+                                <depth unit="cm">14</depth>
+                        </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Letters: 
+                            <height unit="cm">1.5</height>; space between lines:
+                            <height unit="cm">1</height>.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0200" notAfter="-0100">2nd century BC</origDate></p>
+                        <p><desc>Justification: lettering (Matthaiou - Pikoulas) </desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Lykosoura" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570444" type="external">Lykosoura</ref></placeName>. Built into the chapel of Hagios Elias, 200m east of the site.</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by S. Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                
+                <p> Edition here based on Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 8.
+                </p>
+                <p> Other edition:                   
+                    
+                    <bibl type="author_date" n="Matthaiou - Pikoulas 1986">Matthaiou - Pikoulas 1986</bibl>, with ph.
+                     pls. 10 and 12.	
+                </p>
+                
+                <p> Cf. also:
+                   
+                    <bibl type="abbr" n="SEG">SEG</bibl> 36, 376.
+                </p>
+                
+                <p> Further bibliography: <bibl type="author_date" n="Loucas - Loucas 1994">Loucas - Loucas 1994</bibl>; <bibl type="author_date" n="Jost 2008">Jost 2008</bibl>. </p>
+            </div>
+            
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+                    
+<lb xml:id="line_1" n="1"/> <orig><unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Despoina"><w lemma="δέσποινα"><supplied reason="lost">Δεσπ</supplied>
+                    
+    <lb xml:id="line_2" n="2" break="no"/> οίναι</w></name>· <name type="person"><w lemma="ἴδιος">ἰδίοι</w></name> μὲν <w lemma="δέκα">δέκα</w> <w lemma="ἡμέρα"><unclear>ἁμ</unclear><supplied reason="lost">έρας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <name type="person"><w lemma="γυνή"><supplied reason="lost">γυναικὶ</supplied></w></name>
+                    
+<lb xml:id="line_3" n="3"/> δὲ <name type="childbirth"><w lemma="λέχος">λεχοῖ</w></name> <w lemma="ἄποθι">ἄποθι</w> <w lemma="εἰμί">ἔμεν</w> <orig>Α<unclear>Ν</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                    
+<lb xml:id="line_4" n="4"/> <w lemma="δέκα">δέκα</w> <w lemma="ἡμέρα">ἀμέρας</w>· <name type="person"><w lemma="ἀλλότριος">ἀλλοτρίοι</w></name> δ<unclear>ὲ</unclear> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="πέντε"><supplied reason="lost">πέν</supplied>
+                    
+<lb xml:id="line_5" n="5" break="no"/> τε</w> <w lemma="ἡμέρα">ἁμέρας</w>· τὰ δὲ <w lemma="λοιπός">λοιπὰ</w> <orig>ΕΥ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    
+<lb xml:id="line_6" n="6"/> <name type="sacrifice"><w lemma="θύω">θύην</w></name> <w lemma="καθώς">καθὼς</w> <w lemma="ἄν">ἂν</w> ὁ <name type="authority"><name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name></name> <w lemma="λέγω"><supplied reason="lost">εἴπηι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    
+<lb xml:id="line_7" n="7"/> <space extent="unknown" unit="character"/>
+ 
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    [...] for Despoina. For a family member ten days [...] be away from childbirth [...] ten days. For a non-family member [...] five days. For the rest [...] sacrifice as the priests [says] [...].
+                    
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>
+                    [...] pour Despoina. Pour un familier, dix jours [...] se tenir à l'écart d'un accouchement [...] dix jours. Pour un non familier [...] cinq jours. Pour le reste [...] sacrifier comme le prêtre [l'indique] [...].
+                </p>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+<p>This is the second set of ritual norms found in Lykosoura, the other (more elaborate) one being the slightly earlier <ref target="CGRN_126">CGRN 126</ref>. Here we clearly have a fragment of cathartic regulations specifying different causes of impurity and the prescribed waiting time for entrance to the sanctuary or perhaps (less likely) initiation. The last line of the document perhaps refers to other cases of impurity that could be resolved by making a sacrifice under the guidance of the priest. Loucas and Loucas found it remarkable that the Lykosourians would publish this ritual norm so soon after the previous one. However, the subject matter of this regulation seems to be quite different from that of <ref target="CGRN_126">CGRN 126</ref>, the focus here being on ritual purity rather than on simplicity of attire, initiation into the mysteries, and precise sacrificial rules. Cf. Lupu for details of dialect.</p>
+                
+<p>Lines 2-5: At least three causes of impurity with a delay of five or ten days before entering the sanctuary are specified. λέχος 'bed' has been uniformly interpreted as referring to childbirth (Sokolowski, Matthaiou - Pikoulas, Lupu, Loucas - Loucas). Cp. a purity regulation from Kos (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 1 349, 2nd century BC). which named childbirth, miscarriage and sexual intercourse as sources of pollution: ἀπὸ λεχοῦς καὶ ἐγ δια<supplied reason="omitted">φθ</supplied>ορᾶς ἁμέρας δέκα, ἀπὸ γυναικὸς τρεῖ<supplied reason="lost">ς</supplied>. The contrast between ἴδιος and ἄλλοτριος is used in other cathartic regulations to differentiate between the gravity of pollution caused by a) contact with a corpse among one's own family members vs. that of another person (<ref target="CGRN_181">CGRN 181</ref>, Eresos, lines 3-5, 2nd century BC; <ref target="CGRN_144">CGRN 144</ref>, Ptolemais, line 3, 1st century BC) and b) sexual intercourse with one's own spouse vs. sex with another person (<ref target="CGRN_212">CGRN 212</ref>, Pergamon, lines 4-6). ἴδιος and ἄλλοτριος may express similar contrasts (probably explained in the lacunae) here, though we cannot be sure whether there is a reference to death or sex or both.</p>
+                
+<p>Line 5: For τὰ δὲ λοιπὰ, cp. a purity regulation from Miletos (<ref target="CGRN_214">CGRN 214</ref>, lines 10-13), which list a number of causes of pollution (funerals, childbirth, dogs giving birth) with a number of days after which one can re-enter the sanctuary, and then states one can enter on the same day ἀπὸ δὲ τῶν λοιπῶν. These other potentially polluting factors (the most obvious ones being sexual intercourse or menstruation) were apparently known to the worshippers.</p>
+                
+<p>Line 6: This is the clearest part of the regulation, which instructs the worshipper to 'sacrifice as the priest ...', probably as far as the 'τὰ λοιπὰ' are concerned. We expect a verb such as λέγω, or more strongly, (προ-)ἀγορεύω 'proclaim', or ἐξηγέομαι 'expound'. The requirements would have been part of orally transmitted knowledge of the community (and at least the priest could be expected to be aware of the rules). It is perhaps noteworthy that the regulation here does not refer to a previously published regulation found at Lykosoura (e.g. as "τὰ γεγραμμένα" or "the stele") which contained details of sacrificial rules (viz. <ref target="CGRN_126">CGRN 126</ref>).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

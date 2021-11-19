@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_164" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 164</idno>: <rs type="textType" key="priestly contract">Contract of sale for the priesthood</rs> of Eumenes II on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Stéphanie Paul</author>
+	    			<author>Saskia Peels</author>
+	    		
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Upper part of a grey marble <rs type="objectType">stele</rs> broken in three fragments, with a <foreign>kymation</foreign> on top which has now been removed.</p>
+			
+			<p> <dimensions>
+				<height unit="cm">36</height>
+				<width unit="cm">51</width>
+				<depth unit="cm">18</depth>
+			</dimensions></p>
+			
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p> Some words have been erased (lines 4, 14 and 16).</p>
+			<p> Letters: <height unit="cm">0.9-1.1</height>; space between lines: <height unit="cm">0.5</height>.</p> 	
+		</layout></layoutDesc>
+		
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0200" notAfter="-0150">ca. 200-150 BC</origDate></p>
+		<p><desc>Justification: prosopography (Hallof - Bosnakis); see also Commentary below.</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found on an unknown location. Now in the new storage (inv. no. E 346). </p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-04-2016 by V. Pirenne-Delforge </p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 306.</p>	
+	    			<p> Other edition:                   
+	    	<bibl type="author_date" n="Bosnakis - Hallof 2005">Bosnakis - Hallof 2005</bibl> no. 23.</p>
+	    			
+	    			<p> Cf. also:
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 55, 926; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20306" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+	    			
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Wiemer 2003">Wiemer 2003</bibl>;
+	    				<bibl type="author_date" n="Wilgaux 2009">Wilgaux 2009</bibl>.</p>
+	    		</div>
+
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	 	    		   
+<lb xml:id="line_1" n="1"/> <name type="epithet" key="Agathe"><w lemma="ἀγαθός">ἀγαθᾶι</w></name> <name type="deity" key="Tyche"><w lemma="τύχη">τύχαι</w></name>· <w lemma="ὅδε">τάδε</w> τοὶ <name type="person"><w lemma="ἀνήρ">ἄνδρες</w></name> <w lemma="συγγράφω">συνέγραψαν</w> τοὶ <w lemma="αἱρέω">αἱρεθέ<supplied reason="lost">ν</supplied>
+	    		
+<lb xml:id="line_2" n="2" break="no"/><unclear>τ</unclear>ες</w> <w lemma="περί">περὶ</w> τᾶν <name type="sacrifice"><w lemma="θυσία">θυσιᾶν</w></name> καὶ τᾶν <w lemma="ἄλλος">ἀλλᾶν</w> <w lemma="τιμή">τιμᾶν</w> αἳ <w lemma="συντελέω">συντελεῦν
+	    		
+<lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">τ</supplied><unclear>αι</unclear></w> <name type="title"><w lemma="βασιλεύς">βασιλεῖ</w></name> Εὐμένει καὶ <w lemma="ἐπί">ἐφ᾿</w> οἷς <w lemma="δεῖ">δεῖ</w> τὰν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύναν</w></name> <w lemma="πέρνημι">πραθῆμε<supplied reason="lost">ν</supplied></w>, 
+	    				    	
+<lb xml:id="line_4" n="4"/> Λεωνίδας Διοσκου<unclear>ρ</unclear>ίδα, Διδύμαρχος Σωστράτου, Μακαρῖνος 
+	    	
+<lb xml:id="line_5" n="5"/>Ἀρι<unclear>σ</unclear><supplied reason="lost">τ</supplied><unclear>ά</unclear><supplied reason="lost">ρ</supplied>χου· ὁ <w lemma="πρίαμαι">πριάμεν<unclear>ο</unclear>ς</w> τὰν <name type="personnel"><w lemma="ἱερωσύνη"><unclear>ἱερ</unclear><supplied reason="lost">ω</supplied>σύ<unclear>ν</unclear>α<supplied reason="lost">ν</supplied></w></name> <name type="title"><w lemma="βασιλεύς">βασιλέως</w></name> Εὐμ<unclear>έ</unclear> 
+	    				
+<lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">ν</supplied>ο<supplied reason="lost">υ</supplied><unclear>ς</unclear> <w lemma="εἰμί">ἔστω</w> <w lemma="ὁλόκληρος">ὁλόκλαρος</w> καὶ <w lemma="ὑγιής">ὑγιὴς</w> καὶ <w lemma="μή">μὴ</w> <w lemma="νέος">νεώτερος</w> <w lemma="ἔτος">ἐτῶν</w> <w lemma="ὀκτώ">ὀ<unclear>κ</unclear><supplied reason="lost">τώ</supplied></w>· 
+	    				
+<lb xml:id="line_7" n="7"/><w lemma="λαμβάνω"><supplied reason="lost">λ</supplied><unclear>α</unclear>μβανέ<supplied reason="lost">τω</supplied></w> δὲ <name type="portion"><w lemma="γέρας">γέρη</w></name> <w lemma="πᾶς">πάντων</w> <supplied reason="lost">τῶ</supplied><unclear>ν</unclear> <name type="sacrifice"><w lemma="θύω">θυομένων</w></name> <name type="portion"><w lemma="δέρμα">δέρ<unclear>μα</unclear></w></name>, <unclear>τ</unclear><supplied reason="lost">ῶν</supplied>
+	    				
+<lb xml:id="line_8" n="8"/><name type="animal" key="generic"><name type="age"><w lemma="ἔταλον"><supplied reason="lost">ἐ</supplied><unclear>τ</unclear>έλων</w></name></name> <supplied reason="lost">δὲ κ</supplied>α<unclear>ὶ</unclear> <name type="portion"><w lemma="σκέλος">σκ<unclear>έ</unclear>λος</w></name>· <name type="sacrifice"><w lemma="ἐπιτίθημι">ἐ<unclear>π</unclear>ι<unclear>τιθ</unclear>έτω</w></name> δὲ τὰ <name type="animal" key="generic"><w lemma="ἱερός">ἱε<supplied reason="lost">ρὰ</supplied></w></name> <unclear>π</unclear>ᾶσι <supplied reason="lost">το</supplied>ῖς <name type="sacrifice"><w lemma="θύω">θύ
+	    				
+<lb xml:id="line_9" n="9" break="no"/>ουσιν</w></name>· <name type="adornment"><w lemma="στεφανηφορέω">στεφαν<unclear>α</unclear><supplied reason="lost">φορ</supplied>ε<supplied reason="lost">ί</supplied>τ<supplied reason="lost">ω</supplied></w></name> δὲ <w lemma="ἐπί">ἐπὶ</w> τᾶν <name type="sacrifice"><w lemma="θυσία"><unclear>θ</unclear>υσιᾶν</w></name> καὶ τ<supplied reason="lost">ᾶ</supplied>ν <name type="festival"><w lemma="τιμή">τ<unclear>ι</unclear>μᾶν</w></name> καὶ τῶ
+	    				
+<lb xml:id="line_10" n="10" break="no"/><supplied reason="lost">ν</supplied> <name type="festival"><w lemma="ἀγών">ἀγώνων</w></name> τῶν <w lemma="συντελέω">συ<supplied reason="lost">ν</supplied><unclear>τ</unclear>ελευμένων</w> <name type="title"><w lemma="βασιλεύς">βασιλεῖ</w></name> Εὐ<unclear>μ</unclear>ένει· <name type="sacrifice"><name type="liquid"><w lemma="σπένδω">σπενδέτ<supplied reason="lost">ω</supplied></w></name></name>
+	    				
+<lb xml:id="line_11" n="11"/><w lemma="ἐν">ἐν</w> τοῖς <unclear>ἄ</unclear><supplied reason="lost">λλοις</supplied> <name type="festival"><w lemma="ἀγών"><supplied reason="lost">ἀγ</supplied>ῶσιν</w></name> <w lemma="πᾶς">πᾶσιν</w> <name type="authority"><w lemma="καθάπερ">καθάπερ</w></name> καὶ <unclear>τ</unclear>οὶ <w lemma="ἄλλος">ἄλλο<supplied reason="lost">ι</supplied></w> <name type="personnel"><w lemma="ἱερεύς"><unclear>ἱ</unclear>ερεῖς</w></name> καὶ 
+	    				
+<lb xml:id="line_12" n="12"/><supplied reason="lost">ἐ</supplied><unclear>μ</unclear> <w lemma="προεδρία">π<supplied reason="lost">ροεδρίαι</supplied></w> <w lemma="καθίστημι"><unclear>κ</unclear>αθήσθω</w>· <w lemma="ἀφίημι">ἀφείσθω</w> δὲ καὶ τᾶν <w lemma="λειτουργία">λ<supplied reason="lost">ε</supplied><unclear>ι</unclear>τουργιᾶν</w> <w lemma="πᾶς">πασᾶν</w>
+	    				
+<lb xml:id="line_13" n="13"/><w lemma="χωρίς"><supplied reason="lost">χωρὶ</supplied>ς</w> <w lemma="τριηραρχία">τ<supplied reason="lost">ρ</supplied>ιηρα<unclear>ρ</unclear>χίας</w>· τοὶ <name type="title"><w lemma="πωλητής">πωληταὶ</w></name> <w lemma="ἀποδίδωμι">ἀποδό<unclear>σ</unclear><supplied reason="lost">θ</supplied>ων</w> τὰν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύναν</w></name>
+	    				
+<lb xml:id="line_14" n="14"/><name type="title"><w lemma="βασιλεύς"><supplied reason="lost">βασ</supplied><unclear>ι</unclear>λέως</w></name> Εὐμένους <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Πεδαγείτνυος">Πετα<supplied reason="lost">γ</supplied>ετνέου</w></name> τοῦ <w lemma="μετά">μετὰ</w> <name type="title"><w lemma="μόναρχος">μόναρχ<supplied reason="lost">ον</supplied></w></name><supplied reason="lost">·</supplied> 
+	    				
+<lb xml:id="line_15" n="15"/><supplied reason="lost">τὰ</supplied>ν <w lemma="τιμή">τιμὰν</w> <w lemma="καταβάλλω">καταβαλεῖ</w> <w lemma="ἐπί">ἐπὶ</w> τὸς <name type="title"><w lemma="ταμίας">ταμ<supplied reason="lost">ί</supplied>ας</w></name>· <w lemma="καταβολή">καταβολὰς</w> <w lemma="ποιέω">ποιη<unclear>σ</unclear><supplied reason="lost">εῖ</supplied>
+	    				
+<lb xml:id="line_16" n="16" break="no"/><supplied reason="lost">τ</supplied><unclear>αι</unclear></w> <w lemma="τρεῖς">τρεῖς</w>, τὰν μὲν <w lemma="πρότερος">πράταν</w> <w lemma="ἐν">ἐμ</w> <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Κηφίσιος">Καφισίωι</w></name> τῶι <w lemma="μετά">μετὰ</w> <name type="title"><w lemma="μόναρχος">μ<supplied reason="lost">όναρχον</supplied></w></name>
+	    				
+	    	<lb xml:id="line_17" n="17"/><gap reason="lost" extent="unknown" unit="line"/>
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>With good fortune, the men who have been chosen have written down the following with respect to the sacrifices and the other honours that they accomplish for the king Eumeneus and the conditions of sale of the priesthood. Leonidas, son of Dioskouridas, Didymarchos, son of Sostratos, Makarinos, son of (5) Aristarchos. The one who buys the priesthood of king Eumenes should be physically complete and in good health and not younger than eight years. He is to take as perquisites, from all the animals sacrificed, the skin, and from one-year old animals, also a leg. He is to place the offerings (upon the altar) for all those who offer a sacrifice. He is to wear a crown during the sacrifices, the honorific ceremonies and the (10) games performed for king Eumenes. He is to make a libation at all the other games precisely as the other priests do and to sit in the first row. He is to be exempt from all liturgies except the <foreign>trierarchia</foreign>. The <foreign>poletai</foreign> are to sell the priesthood of king Eumenes in the month Petageitnios after the next <foreign>monarchos</foreign>.(The buyer) pays (15) the price to the treasurers. He will pay three instalments, the first in the month Kaphisios after the next <foreign>monarchos</foreign> [...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p> À la bonne fortune. Les hommes qui ont été choisis ont rédigé ce contrat à propos des sacrifices et des autres honneurs accomplis pour le roi Eumène et concernant les termes de la mise en vente de la prêtrise : Leonidas, fils de Dioskouridas, Didymarchos, fils de Sostratos, Makarinos, fils (5) d’Aristarchos. Que l’acquéreur de la prêtrise du roi Eumène soit d’une totale intégrité physique et en bonne santé, et qu’il ne soit pas plus jeune que huit ans. Qu’il reçoive comme parts d’honneur de tous les animaux sacrifiés la peau et, des animaux d’un an, une patte en plus. Qu’il dépose les offrandes (sur l'autel) pour tous les sacrifiants. Qu’il porte une couronne lors des sacrifices, des cérémonies d'hommage et des (10) concours accomplis pour le roi Eumène. Qu’il verse les libations lors de tous les autres concours de la même manière que les autres prêtres et qu’il s’asseye au premier rang. Qu’il soit exempt de toutes les liturgies sauf la triérarchie. Que les polètes mettent en vente la prêtrise du roi Eumène au mois de Petageitnyos de la prochaine monarchie. (L’acquéreur) en versera (15) le prix aux trésoriers; il fera trois versements, le premier au mois de Kaphisios de la prochaine monarchie [...].</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head> 
+				
+	<p> This inscription belongs to the category of sales of priesthoods (cf. e.g. <ref target="CGRN_147">CGRN 147</ref> from Kos), although the object of the present contract is formulated in a slightly different way than usual, as it concerns “the sacrifices, the other honours for king Eumenes, and the terms of the sale of the priesthood” (lines 2-3). Perhaps the duty of the committee of selected men (lines 1-2)  was also to organise a new cult for the king, as suggested by Bosnakis and Hallof (p. 254); it is unclear if the details of this would have been included below the fragmentary sale of priesthood now preserved on the stele or in a separate inscription. The extant document contains standard elements of a sale of priesthood. The preserved sections mainly concern the sacrificial prerequisites, along with a description of the benefits of the priesthood (lines 5-13), before perhaps concluding with the modalities of payment for the office (lines 13-16).</p>
+						
+<p> The Pergamene king in question has been identified with Eumenes II (regnal years, 197-159 BC). It is noteworthy that the priesthood of the king is also attested to have been in the charge of a woman called Kallistrate, known from an honorary inscription on a statue-base (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 978, 190-160 BC); women are not explicitly excluded from the priesthood sold here, though the masculine forms in lines 5-6ff. suggest that it was primarily men who were expected to hold the office. Cult for a king Eumenes, probably the same ruler, is otherwise attested in the mid-second-century-BC calendar of the gymnasium on Kos, which prescribes the organisation of a procession on the 6th of the month Artamitios (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 281, line 27, 158-138 BC).</p>
+						
+<p> Lines 5-6: For a collection and discussion of ritual norms that comment on the health and physical integrity of a priest, cf. Wilgaux. This is a recurrent element in Koan sales of priesthood, cp. <ref target="CGRN_147">CGRN 147</ref>, line 5, <ref target="CGRN_221">CGRN 221</ref>, lines 15-16, and <ref target="CGRN_167">CGRN 167</ref>, lines 8-9. Prescriptions concerning the minimum age to hold the priesthood are not infrequent in Koan <foreign>diagraphai</foreign>: e.g. <ref target="CGRN_221">CGRN 221</ref>, line 16, and <ref target="CGRN_167">CGRN 167</ref>, line 9. Eight years is the lowest minimum age attested, on which cf. Wiemer, p. 283. Presumably, the father or the trustee of the child would have bought the office in his or her stead.</p>
+	
+<p> Lines 7-9: On placement of <foreign>hiera</foreign> on the altar and the semantics of the word in this context, cf. Paul, p. 340-344; the term τὰ ἱερά may refer to meat or other offerings. In Koan sales of priesthood, the priest was sometimes responsible for placing <foreign>hiera</foreign> on the altar (e.g. <ref target="CGRN_147">CGRN 147</ref>, lines 10-11), as opposed to the placement of offerings on the cult table, which was done by the worshippers themselves. The priestly portion on Kos typically consisted of the skin and a leg (Paul, p. 358). In this <foreign>diagraphe</foreign>, only the skin is allocated to the priest, but in the case of younger animals a leg is added to compensate for the lower value of the hide of the animal. On the use of the term ἔτελον as "yearling" on Kos, see also <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 304, line 33.</p>
+						
+<p> Lines 9-10: The wearing of a crown by priests as an honorific attribute is specified in many sales of priesthoods. Most often, as here, the priest was to wear his crown during special occasions (cp. e.g. <ref target="CGRN_119">CGRN 119</ref>, Theangela, lines 14-15, crown worn during a festival of Zeus; <ref target="CGRN_120">CGRN 120</ref>, Sinope, lines 8-13, crown worn during two festival occasions and civic contest; <ref target="CGRN_123">CGRN 123</ref>, Tomis, lines 7-10, crown worn during all meetings and celebrations of the cult-group, during which the priest served as priest). In other cases, priests were apparently to wear the crown continuously: cf. <ref target="CGRN_206">CGRN 206</ref> (Pergamon), lines 11-12.</p> 
+	
+<p> Line 12: In the sales of the priesthoods of Hermes Enagonios and of Zeus Alseios (<ref target="CGRN_147">CGRN 147</ref>, line 8, and <ref target="CGRN_167">CGRN 167</ref>, lines A11-12, respectively), the priest also had to make a libation during the principal festival and he was allowed to sit in the front rows during contests. On the prerogative of προεδρία, sitting in the front rows, cp. also e.g. <ref target="CGRN_206">CGRN 206</ref> (Pergamon), line 23, among many other examples.</p>
+						
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

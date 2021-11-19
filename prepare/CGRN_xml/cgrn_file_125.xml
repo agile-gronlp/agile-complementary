@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_125" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 125</idno>: <rs type="textType" key="sacrificial regulation">Regulation</rs> concerning sacrificial tariffs at Olbia</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>
+                            <rs type="objectType">Plaque</rs> of white marble.</p>
+                            <p><dimensions>
+                                <height unit="cm">35</height>
+                                <width unit="cm">31</width>
+                                <depth unit="cm">9.5</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Letters: 
+                            <height unit="cm">1.1</height>.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0250" notAfter="-0225">ca. 230 BC</origDate></p>
+                        <p><desc>Justification: letterforms and context (Dubois). See also esp. line 1, and below on lines 4-10 for a possible onomastic identification.</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Olbia" n="Black_Sea"><ref target="http://pleiades.stoa.org/places/226546" type="external">Olbia</ref></placeName>. Formerly located in the Museum of Moscow; current location unknown.</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by S. Peels.</p>
+            
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                <p> Edition here based on Dubois <bibl type="abbr" n="IGDO">IGDO</bibl> 88, with further refs.
+                </p>  
+                <p> Cf. also:
+                    Ziehen <bibl type="abbr" n="LGS I">LGS I</bibl> 85; 
+                    Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 88. 
+                </p>
+                <p> Further bibliography:
+                    <bibl type="author_date" n="Lupu 2003b">Lupu 2003b</bibl>.</p>
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+
+<lb xml:id="line_1" n="1"/> <name type="title"><w lemma="ἑπταδεύω">ἑπταδεύσαντες</w></name>
+                    
+<lb xml:id="line_2" n="2"/> <name type="personnel"><w lemma="ἐπιμελέομαι">ἐπεμελήθησαν</w></name> τοῦ
+                    
+                    <lb xml:id="line_3" n="3"/> <name type="structure"><w lemma="θησαυρός">θησαυροῦ</w></name>·
+                    
+                    <lb xml:id="line_4" n="4"/> Ἡρόδοτος Παντακλέους,
+                    <lb xml:id="line_5" n="5"/> Ἐπιχάρης Διονυσοφάνους,
+                    <lb xml:id="line_6" n="6"/> Ποσειδώνιος Εὐκράτους,
+                    <lb xml:id="line_7" n="7"/> Ἀδείμαντος Ἀπατουρίου,
+                    <lb xml:id="line_8" n="8"/> Ἱστίκων Μητροδώρου,
+                    <lb xml:id="line_9" n="9"/> Λεοντομένης Ἡροσῶντος,
+                    <lb xml:id="line_10" n="10"/> Ἡρακλείδης Εὐβίου.
+                    
+                    <lb xml:id="line_11" n="11"/> τοὺς <name type="sacrifice"><w lemma="θύω">θύοντας</w></name> <name type="genericOffering"><w lemma="ἀπάρχομαι">ἀπάρχεσθαι</w></name>
+                    
+                    <lb xml:id="line_12" n="12"/> <w lemma="εἰς"><supplied reason="lost">ε</supplied></w>ἰς τὸν <name type="structure"><w lemma="θησαυρός">θησαυρόν</w></name>·
+                    
+                    <lb xml:id="line_13" n="13"/> <name type="animal" key="ox"><w lemma="βοῦς">βοὸς</w></name> μὲν <w lemma="χίλιοι">χιλίους</w> <w lemma="διακόσιοι">διακοσίους</w>,
+                    
+                    <lb xml:id="line_14" n="14"/> <name type="animal" key="sheep"><w lemma="ἱερεῖον">ἱερείου</w></name> δὲ καὶ <name type="animal" key="goat"><w lemma="αἴξ">αἰγὸς</w></name> <w lemma="τριακόσιοι">τριακοσίους</w>,
+                    
+                    <lb xml:id="line_15" n="15"/> <name type="animal" key="swine"><w lemma="δέλφος"><supplied reason="lost">δ</supplied>έ<supplied reason="lost">λφ</supplied>ους</w></name> δὲ <w lemma="ἑξήκοντα">ἑξήκοντα</w>.
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    Having been part of the council of Seven, the following have taken care of the money-box: Herodotos son of Pantakles, (5) Epichares son of Dionysophanes, Poseidonios son of Eukrates, Adeimantos son of Apatourios, Histikon son of Metrodorus, Leontomenes son of Heroson, (10) Herakleides son of Eubios.Those who sacrifice make an offering into the money-box: for an ox, 1200, for a sheep or a goat, 300, (15) for a piglet, 60.
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>
+                    Après avoir fait partie du collège des Sept, ont pris soin du tronc à offrandes : Herodotos, fils de Pantaclès, (5) Epicharès, fils de Dionysophanès, Poseidonios, fils d’Eucratès, Adeimantos, fils d’Apatourios, Histikon, fils de Metrodoros, Leontomenès, fils de Heroson, (10) Herakleidès, fils d’Eubios. Que ceux qui sacrifient fassent une offrande dans le tronc; pour un bovin, 1200, pour un mouton et un caprin, 300; (15) pour un porcelet, 60.</p>
+                <p>(traduction adaptée de L. Dubois <bibl type="abbr" n="IGDO">IGDO</bibl>)</p>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+<p>The short regulation in this inscription (lines 11-15) is prefaced by a list of seven officials who, having served on a 'College of Seven' and having been discharged from this office, have now occupied themselves with the caretaking of a sacred treasury. It seems like the second duty of <foreign>epimeleia</foreign> over this treasury was a (necessary or concomitant?) consequence of their office as the 'Seven'. The cult over whose treasury the 'former Seven' had jurisdiction remains unknown. It had long been assumed to be that of Zeus in Olbia (so Sokolowski), but recently Roussiaiéva has proposed that it is the cult of the assembled gods honoured on the acropolis of Olbia (this is tentatively followed by Dubois). We suggest the alternative that the sacred treasury in question is one that was directly associated with the Heptadeion, a building where the 'Seven' must have presided; cf. <bibl type="abbr" n="SEG">SEG</bibl> 34, 758, lines 50-52 (τόδε τὸ ψή]φισμ[α] | γραφῆναι ε̣ἰς τε̣[λαμῶνα λίθινον καὶ στα]θῆναι | ἐν τῶι ἑπταδείωι). But the sacral character of that structure, though probable, remains unclear (<bibl type="abbr" n="SEG">SEG</bibl> 34, 758, lines 53-54, also seems to mention another sanctuary).</p>
+                
+<p>Very probably, it is at the end of their tenure in this office that the seven officials took it upon themselves to inscribe a short regulation for future use. What motivated their concern is unclear, though inconsistent sacrificial tariffs or a lack of contributions to the treasury is a possibility. Much about the regulation also remains enigmatic: why do the tariffs appear so substantial when they are clearly envisaged only as first offerings (ἀπάρχεσθαι, line 11) and thus presumably as small contributions? Indeed, we would expect the amounts to be in the range of obols or small amounts of drachmae: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_64/">CGRN 64</ref> (Epidauros) and <ref target="http://cgrn.ulg.ac.be/CGRN_70/">CGRN 70</ref> (Oropos) for other examples of sacrificial tariffs in the present Collection.</p>
+                
+    <p>Line 1: A variant of this verb, ἑπταδείω, is attested in another Olbian decree (<bibl type="abbr">SEG</bibl> 34, 758, lines 3 and 47; 250-225 BC), but not elsewhere. For other attestations of the 'College of Seven' in this region, always with the formula οἱ ἄρχοντες καὶ οἱ ἑπτὰ εἶπαν, cf. Dubois. The men apparently served an important political function together with the ἄρχοντες.</p>
+                    
+<p>Lines 4-10: Leontomenes son of Heroson is perhaps the brother of a Protogenes son of Heroson, who is attested in <bibl type="abbr" n="IOSPE I²">IOSPE I²</bibl> 32 (ca. 230-215 BC, from the historical context: king Saitapharnes). The name Heroson is relatively rare (<bibl type="abbr" n="LGPN">LGPN</bibl> IV and Va have six instances each). If this identification is correct, it would give the inscription a <foreign>terminus post quem</foreign> of ca. 200 BC.</p>
+                    
+<p>Lines 11-12: As Dubois mentions, we find the identical formula in <bibl type="abbr" n="LSS">LSS</bibl> 72 A2 (regulation for the cult of Theogenes on Thasos). The verb ἀπάρχεσθαι, as with ἐμβάλλειν, in this context refers to deposing money in the money-box, but frames that action as an offering (cf. Lupu, p. 338).</p>
+                    
+<p>Lines 13-15: As noted above, the amounts prescribed are extremely large. Dubois supposes that they refer to payments for given sacrificial animals; upon payment of this sum, the temple officials would provide the requested sacrificial animal from a sacred herd. However, if the amounts are in drachmae, they appear exceedingly high for the price of oxen and other animals: cp. the prices in late Classical Athens e.g. in <ref target="http://cgrn.ulg.ac.be/CGRN_45/">CGRN 45</ref> (oxen at 50-100 drachmae; sheep at 15 drachmae), or the analogous and fairly standard prices found on Hellenistic Delos, <ref target="http://cgrn.ulg.ac.be/CGRN_199/">CGRN 199</ref>. An alternative might be to suppose that these contributions represent the desired total annual contributions, but in this case the regulation would lose some of its immediate impact: the precise individual contributions making up these totals would be quite unclear. The precise economic calculus at play remains to be
+    satisfactorily explained. The generic word ἱερεῖον is almost certainly used for a sheep in line 14 (so Dubois; Lupu, p. 336 n. 84). If we look at the relative proportions of the sacrificial tariffs (1:5:20), with the ox and sheep or goat as the two larger sacrifices, it becomes very likely that the smallest sacrifice is that of a pig, and especially a piglet or χοῖρος (so rightly Dubois, with parallels). The traces [.]ε[..]ους led Hiller von Gaertringen (<bibl type="abbr" n="SIG³">SIG³</bibl> 1039) to propose a genitive δέλφους from an unattested variant of δέλφαξ, namely δέλφος; the referent is usually a grown pig, but sometimes a weanling piglet (δελφάκιον; for this term, see again <ref target="CGRN_199">CGRN 199</ref>, line 3).
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

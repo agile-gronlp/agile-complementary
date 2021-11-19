@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_82" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 82</idno>: Two excerpts from <rs type="textType" n="dossier of regulations">the dossier of regulations</rs> of the Labyadai at Delphi</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    			<author>Vinciane Pirenne-Delforge</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>				
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>A tall, quadrangular <objectType key="cippus">cippus</objectType> made of local Delphic limestone, broken above, but otherwise intact. The stone is inscribed on four faces (A-D).</p>
+				<p><dimensions>
+					<height unit="cm">111.5</height>
+					<width unit="cm">39</width>
+					<depth unit="cm">36</depth>
+				</dimensions> </p>
+
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The text is inscribed in stoichedon 20 on faces A and C; stoichedon 18 on face B; stoichedon 19 on face D.</p>
+ <p>Letters: <height unit="cm">1-1.5</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0350">ca. 400-350 BC</origDate></p>
+			<p><desc>Justification: lettering (Jacquemin - Mulliez - Rougemont).</desc></p>
+		</origin>	
+			<provenance><p><placeName type="ancientFindspot" key="Delphi" n="Central_and_Northern_Greece"><ref target="http://pleiades.stoa.org/places/540726" type="external">Delphi</ref></placeName>. Found reused in the retaining wall of the Stoa of the Athenians. Now in the Museum of Delphi (inv. no. 31).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 25-02-2014 by J.-M. Carbon</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					
+					<p>Edition here based on Rougemont <bibl type="abbr" n="CID I">CID I</bibl> 9. Here, we only include two partial sides of the cippus: faces C, lines 19-52, and face D. We adopt a more precise text in lines D28-32, on the basis of the text in <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl> and the copy at Panopeus/Phanoteus published by Rousset et al.</p>
+					
+					<p>Cf. also: 
+						Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 74; 
+						Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 77; 
+						<bibl type="author_date" n="Frisone 2000">Frisone 2000</bibl>: 103-126 (face C); 
+						Rhodes - Osborne <bibl type="abbr" n="GHI">GHI</bibl> 1; 
+						Jacquemin - Mulliez - Rougemont <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl> 30.</p>
+
+					<p>Further bibliography: 
+						<bibl type="author_date" n="Amandry 1939">Amandry 1939</bibl>: 211; 
+						<bibl type="author_date" n="Amandry 1944-1945">Amandry 1944-1945</bibl>: 415 and n. 1; 
+						<bibl type="author_date" n="Camp et al. 1997">Camp et al. 1997</bibl>; 
+						<bibl type="author_date" n="Rousset et al. 2015">Rousset et al. 2015</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+
+	    				<ab subtype="face" n="C">Face C
+	    					
+	    					
+<lb xml:id="line_C19" n="C19"/>(. . .) <space quantity="2" unit="character"/> <w lemma="ὅσδε">hόδ’</w> ὁ <name type="authority"><w lemma="θεσμός">τεθμὸς</w></name> <w lemma="περί">πὲρ</w> τῶ
+	    					    					
+<lb xml:id="line_C20" n="C20" break="no"/>ν <name type="death"><w lemma="ἐντοφήϊα">ἐντοφήιων</w></name>· <w lemma="μή">μὴ</w> <w lemma="πολύς">πλέον</w> <w lemma="πέντε">πέ<unclear>ν</unclear></w>
+	    					
+<lb xml:id="line_C21" n="C21" break="no"/>τε καὶ <w lemma="τριάκοντα">τριάκοντα</w> <w lemma="δραχμή">δραχμ<supplied reason="lost">ᾶ</supplied>
+	    					
+<lb xml:id="line_C22" n="C22" break="no"/>ν</w> <w lemma="ἐντίθημι">ἐνθέμεν</w>, <w lemma="μήτε">μήτε</w> <w lemma="πρίαμαι">πριάμενο
+	    					
+<lb xml:id="line_C23" n="C23" break="no"/>ν</w> <w lemma="μήτε">μήτε</w> <name type="structure"><w lemma="οἶκος">ϝοίκω</w></name>· τὰν δὲ <name type="quality"><w lemma="παχύς">παχεῖ
+	    					
+<lb xml:id="line_C24" n="C24" break="no"/><unclear>α</unclear>ν</w></name> <name type="clothing"><w lemma="χλαῖνα">χλαῖναν</w></name> <name type="colour2"><w lemma="φαιός">φαωτὰν</w></name> <w lemma="εἰμί">εἶμεν</w>·
+	    					
+<lb xml:id="line_C25" n="C25"/><w lemma="εἰ"><supplied reason="lost">α</supplied>ἰ</w> δέ <w lemma="τις">τι</w> <w lemma="οὗτος">τούτων</w> <w lemma="παραβάλλω">παρβάλλο
+	    				
+<lb xml:id="line_C26" n="C26" break="no"/><supplied reason="lost">ι</supplied>το</w>, <name type="punishment"><w lemma="ἀποτίνω">ἀποτεισάτω</w></name> <w lemma="πεντήκοντα">πεντήκο
+	    					
+<lb xml:id="line_C27" n="C27" break="no"/>ντα</w> <w lemma="δραχμή">δραχμάς</w>, <w lemma="εἰ">αἴ</w> κα <w lemma="μή">μὴ</w> <name type="invocation"><w lemma="ἐξόμνυμι">ἐξομ
+	    					
+<lb xml:id="line_C28" n="C28" break="no"/>όσηι</w></name> <w lemma="ἐπί">ἐπὶ</w> τῶι <name type="structure"><w lemma="σῆμα">σάματι</w></name> <w lemma="μή">μὴ</w> <w lemma="πολύς">πλ
+	    					
+<lb xml:id="line_C29" n="C29" break="no"/>έον</w> <w lemma="ἐντίθημι">ἐνθέμεν</w>· <name type="object"><w lemma="στρῶμα">στρῶμα</w></name> δὲ <w lemma="εἷς">hὲ
+	    				
+<lb xml:id="line_C30" n="C30" break="no"/>ν</w> <w lemma="ὑποβάλλω">hυποβαλέτω</w> καὶ <name type="object"><w lemma="προσκεφάλαιον">ποικεφ
+	    				
+<lb xml:id="line_C31" n="C31" break="no"/>άλαιον</w></name> <w lemma="εἷς">hὲν</w> <w lemma="προστίθημι">ποτθέτω</w>· τὸν δ
+	    					
+<lb xml:id="line_C32" n="C32" break="no"/>ὲ <name type="death"><w lemma="νεκρός">νεκρὸν</w></name> <name type="adornment"><w lemma="καλύπτω">κεκαλυμμένον</w></name> <w lemma="φέρω">φ
+	    					
+<lb xml:id="line_C33" n="C33" break="no"/>ερέτω</w> <name type="invocation"><w lemma="σιγή">σιγᾶι</w></name> <w lemma="ἐν">κἠν</w> ταῖς <name type="locality"><w lemma="στροφή">στρ
+	    					
+<lb xml:id="line_C34" n="C34" break="no"/>οφαῖς</w></name> <w lemma="μή">μὴ</w> <w lemma="κατατίθημι">καττιθέντων</w> <w lemma="μηδαμεῖ">μη
+	    					
+<lb xml:id="line_C35" n="C35" break="no"/><supplied reason="lost">δ</supplied>αμεῖ</w>, <w lemma="μηδέ">μηδ’</w> <name type="invocation"><w lemma="ὀτοτύζω">ὀτοτυζόντων</w></name> <w lemma="ἐχθός">ἐ
+	    					
+<lb xml:id="line_C36" n="C36" break="no"/><supplied reason="lost">χ</supplied>θὸς</w> τᾶς <name type="structure"><w lemma="οἰκία">ϝοικίας</w></name> <w lemma="πρίν">πρίγ</w> κ’ <w lemma="ἐπί">ἐ
+	    					
+<lb xml:id="line_C37" n="C37" break="no"/>πὶ</w> τὸ <name type="structure"><w lemma="σῆμα">σᾶμα</w></name> <w lemma="ἵκω">hίκωντι</w>, <w lemma="τηνεῖ">τηνεῖ</w>
+	    					
+<lb xml:id="line_C38" n="C38"/><orig>ΔΕΝΑΤΟΣ</orig> <w lemma="εἰμί">ἔστω</w>, <w lemma="ἕντε">hέντε</w> κα hα
+	    					
+<lb xml:id="line_C39" n="C39"/><orig>ΟΙΓΑΝΑ</orig> <w lemma="προστίθημι">ποτθεθῆι</w>· τῶν δὲ <w lemma="πρόσθεν">π
+	    					
+<lb xml:id="line_C40" n="C40" break="no"/><supplied reason="lost">ρ</supplied>όστα</w> <name type="death"><w lemma="θνῄσκω">τεθνακότων</w></name> <w lemma="ἐν">ἐν</w> τοῖς
+	    					
+<lb xml:id="line_C41" n="C41"/><name type="structure"><w lemma="σῆμα">σαμάτεσσι</w></name> <w lemma="μή">μὴ</w> <name type="invocation"><w lemma="θρήνω">θρηνεῖν</w></name> <w lemma="μηδέ">μ<unclear>η</unclear>
+	    					
+<lb xml:id="line_C42" n="C42" break="no"/>δ’</w> <name type="invocation"><w lemma="ὀτοτύζω">ὀτοτύζεν</w></name>, ἀλλ’ <w lemma="ἄπειμι">ἀπίμεν</w> <name type="structure"><w lemma="οἴκαδε">ϝο
+	    					
+<lb xml:id="line_C43" n="C43" break="no"/>ίκαδε</w></name> <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ἔχθω">ἔχθω</w> <name type="person"><w lemma="ὁμέστιος"><add>h</add>ομε
+	
+<lb xml:id="line_C44" n="C44" break="no"/>στίων</w></name> καὶ <name type="person"><w lemma="πατραδελφεός">πατραδελφεῶ<unclear>ν</unclear></w></name>    
+
+<lb xml:id="line_C45" n="C45"/>καὶ <name type="person"><w lemma="πενθερός">πενθερῶν</w></name> <name type="person"><w lemma="ἔγγονος">κἠσγόνων</w></name> <supplied reason="lost">κ</supplied>
+	    					
+<lb xml:id="line_C46" n="C46" break="no"/>αὶ <name type="person"><w lemma="γαμβρός">γαμβρῶν</w></name>· <w lemma="μηδέ">μηδὲ</w> τᾶι <w lemma="ὑστεραῖος">hυσ<supplied reason="lost">τ</supplied>
+	    					
+<lb xml:id="line_C47" n="C47" break="no"/>εραία<add>ι</add></w> <w lemma="μηδέ">μηδ’</w> <w lemma="ἐν">ἐν</w> ταῖς <w lemma="δέκατος">δεκά<unclear>τ</unclear><supplied reason="lost">α</supplied>
+	    					
+<lb xml:id="line_C48" n="C48" break="no"/>ις</w> <w lemma="μηδέ">μηδ’</w> <w lemma="ἐν">ἐν</w> τοῖς <w lemma="ἐνιαυτός">ἐνιαυτοῖ<supplied reason="lost">ς</supplied></w>
+	    					
+<lb xml:id="line_C49" n="C49"/><w lemma="μήτε"><supplied reason="lost">μ</supplied>ήτ’</w> <name type="invocation"><w lemma="οἰμώζω">οἰμώζεν</w></name> <w lemma="μήτε">μήτ’</w> <name type="invocation"><w lemma="ὀτοτύζω">ὀτοτύ<supplied reason="lost">ζε</supplied>
+	    					
+<lb xml:id="line_C50" n="C50" break="no"/><supplied reason="lost">ν</supplied></w></name>· <w lemma="εἰ">αἰ</w> δέ <w lemma="τις">τι</w> <w lemma="οὗτος">τούτων</w> <w lemma="παραβάλλω">παρβ
+	    				
+<lb xml:id="line_C51" n="C51" break="no"/><unclear>άλ</unclear>λοιτο</w> τῶν <w lemma="γράφω">γεγραμ
+	    					
+<lb xml:id="line_C52" n="C52" break="no"/>μένων</w>  <space quantity="1" unit="line"/>
+	    				</ab>
+	    				<ab subtype="Face" n="D">Face D
+ 
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb xml:id="line_D1" n="D1"/><gap reason="lost" quantity="7" unit="character"/> <name type="punishment"><w lemma="δραχμή"><supplied reason="lost">δρ</supplied><unclear>α</unclear>χ<unclear>μ</unclear>αν</w></name> <orig>ΚΑ<unclear>Ι</unclear>ΛΕ</orig>
+	    				
+<lb xml:id="line_D2" n="D2" break="no"/><gap reason="lost" quantity="7" unit="character"/> <name type="festival"><name type="meal"><w lemma="θοίνη">θοῖναι</w></name></name> δὲ <w lemma="ὅσδε">ταίδ
+	    					
+<lb xml:id="line_D3" n="D3" break="no"/><supplied reason="lost">ε</supplied></w> <name type="authority"><w lemma="νόμιμος"><supplied reason="lost">νόμι</supplied>μοι</w></name>· <name type="festival"><name type="deity" key="Apollo"><w lemma="ἀπελλαῖα">Ἀπέλλαι</w></name></name> καὶ <name type="festival"><name type="month"><w lemma="Βουκάτιος">Β
+	    					
+<lb xml:id="line_D4" n="D4" break="no"/>ουκάτια</w></name></name>, <name type="deity" key="Hera"><name type="festival"><w lemma="Ἡραῖος">hηραῖα</w></name></name>, <name type="festival"><name type="month"><w lemma="Δᾳδαφόρια">Δαιδαφ	    			
+	    					
+<lb xml:id="line_D5" n="D5" break="no"/><supplied reason="lost">ό</supplied>ρια</w></name></name>, <name type="festival"><name type="month"><w lemma="Ποιτρόπιος">Ποιτρόπια</w></name></name>, <name type="month"><w lemma="Βυσίος">Βυσίου</w></name>
+	    				
+<lb xml:id="line_D6" n="D6"/><name type="month"><w lemma="μείς"><supplied reason="lost">μην</supplied>ὸς</w></name> τὰν <w lemma="ἕβδομος">hεβδέμαν</w> καὶ
+	    				
+<lb xml:id="line_D7" n="D7"/><supplied reason="lost">τ</supplied>ὰν <w lemma="ἔνατος">hενάταν</w> <name type="festival"><w lemma="εὔκλεια">κηὔκλει<supplied reason="lost">α</supplied></w></name> <name type="festival"><name type="deity" key="Artemis"><w lemma="Ἀρτεμίσιον"><supplied reason="lost">κ</supplied>
+	    					
+<lb xml:id="line_D8" n="D8" break="no"/>ἀρταμίτια</w></name></name> καὶ <name type="festival"><name type="epithet" key="Laphria"><w lemma="Λάφριος">Λάφρι<supplied reason="lost">α</supplied></w></name></name> <supplied reason="lost">κ</supplied>
+	    					
+<lb xml:id="line_D9" n="D9" break="no"/>αὶ <name type="festival"><w lemma="θεοξένιος">Θεοξένια</w></name> καὶ <name type="festival"><name type="epithet" key="Telchinios"><w lemma="Τελχίς">Τελχ<supplied reason="lost">ίν</supplied>
+	    				
+<lb xml:id="line_D10" n="D10" break="no"/>ια</w></name></name> καὶ <name type="festival"><name type="deity" key="Dioskouroi"><w lemma="Διοσκόριος">Διοσκουρῆια</w></name></name>, <name type="festival"><name type="epithet" key="Megalartia"><w lemma="μεγαλάρτια">Με<unclear>γ</unclear>
+	    					
+<lb xml:id="line_D11" n="D11" break="no"/>αλάρτια</w></name></name> καὶ <name type="festival"><name type="deity" key="Heracles"><w lemma="Ἡρακλέης">hηράκλει<supplied reason="lost">α</supplied></w></name></name>
+	    					
+<lb xml:id="line_D12" n="D12"/><w lemma="εἰ">καἴ</w> κ’ <w lemma="αὐτός">αὐτὸς</w> <name type="sacrifice"><w lemma="θύω">θύηι</w></name> <name type="animal" key="unclear"><w lemma="ἱερεῖον">hιαρῆ<supplied reason="lost">ι</supplied>
+	    					
+<lb xml:id="line_D13" n="D13" break="no"/>ον</w></name>, <w lemma="εἰ">καἴ</w> κα <name type="person"><w lemma="λεχώ">λεκχοῖ</w></name> <w lemma="πάρειμι">παρῆι</w>, <w lemma="εἰ"><unclear>κ</unclear>
+	    					
+<lb xml:id="line_D14" n="D14" break="no"/>αἴ</w> κα <name type="person"><w lemma="ξένος">ξένοι</w></name> ϝοι <w lemma="πάρειμι">παρέωντ	    					    				
+<lb xml:id="line_D15" n="D15" break="no"/>ι</w> <name type="animal"><w lemma="ἱερεῖον">hιαρῆια</w></name> <name type="sacrifice"><w lemma="θύω">θύοντες</w></name> <w lemma="εἰ">καἴ</w> κ
+	    					
+<lb xml:id="line_D16" n="D16" break="no"/>α <name type="title"><w lemma="πενταμαριτεύω">πενταμαριτεύων</w></name> <w lemma="τυγχάνω">τύχη	    					
+	    					
+<lb xml:id="line_D17" n="D17" break="no"/>ι</w>· <w lemma="εἰ">αἰ</w> δέ <w lemma="τις">τι</w> <w lemma="οὗτος">τούτων</w> <w lemma="παραβάλλω">παρβάλ
+	    					
+<lb xml:id="line_D18" n="D18" break="no"/>λοιτο</w> τῶν <w lemma="γράφω">γεγραμμένων</w>,
+	    					
+<lb xml:id="line_D19" n="D19"/><name type="punishment"><w lemma="θωάζω"><unclear>θ</unclear>ωεόντων</w></name> τοί τε <name type="title"><w lemma="δημιουργός">δαμιορ
+	    					
+<lb xml:id="line_D20" n="D20" break="no"/>γοὶ</w></name> καὶ τοὶ <w lemma="ἄλλος">ἄλλοι</w> <w lemma="πᾶς">πάντε
+	    					
+<lb xml:id="line_D21" n="D21" break="no"/>ς</w> <name type="group"><w lemma="Λαβυάδαι">Λαβυάδαι</w></name>, <w lemma="πράσσω">πρασσόντων</w>
+	    					
+<lb xml:id="line_D22" n="D22"/>δὲ τοὶ <name type="title"><w lemma="πεντεκαίδεκα">Πεντεκαίδεκα</w></name>· <w lemma="εἰ">α<supplied reason="lost">ἰ</supplied></w>
+	    					
+<lb xml:id="line_D23" n="D23"/>δέ κα <w lemma="ἀμφιλέγω">ἀμφιλλέγηι</w> τᾶς <name type="punishment"><w lemma="θωίασις">θω
+	    					
+<lb xml:id="line_D24" n="D24" break="no"/>ιάσιος</w></name>, <name type="invocation"><w lemma="ἐξόμνυμι">ἐξομόσας</w></name> τὸν <name type="authority"><w lemma="νόμιμος">νό
+	    					
+<lb xml:id="line_D25" n="D25" break="no"/><supplied reason="lost">μιμ</supplied>ον</w></name> <name type="invocation"><w lemma="ὅρκος">hόρκον</w></name> <w lemma="λύω">λελύσθω</w>· <w lemma="εἰ">α
+	    					
+<lb xml:id="line_D26" n="D26" break="no"/><supplied reason="lost">ἰ</supplied></w> <supplied reason="lost">δ’</supplied> <name type="group"><w lemma="ἁλία"><supplied reason="lost">ἀ</supplied>λίαν</w></name> <w lemma="ποιέω">ποιόντων</w> <w lemma="ἀρχός">ἀρχῶ
+	    					
+<lb xml:id="line_D27" n="D27" break="no"/><supplied reason="lost">ν</supplied></w> <w lemma="ἄπειμι"><supplied reason="lost">ἀ</supplied>πείη</w>, <name type="punishment"><w lemma="ἀποτίνω">ἀποτεισάτω</w></name> <w lemma="ὀβολός">ὀδε
+	    					
+<lb xml:id="line_D28" n="D28" break="no"/>λόν</w>, καἰ <w lemma="συγχέω">συγχέοι</w>, <name type="punishment"><w lemma="ἀποτίνω">ἀποτει	    					
+	    					
+<lb xml:id="line_D29" n="D29" break="no"/>σάτω</w></name> <w lemma="ὀβολός">ὀδελόν</w>. <w lemma="τοιόσδε">τοιάδε</w> <w lemma="ἐν">κἠμ</w>
+	    					
+<lb xml:id="line_D30" n="D30"/><placeName key="Phanateus/Phanoteus"><w lemma="Φανατεύς">Φανατεῖ</w></placeName> <w lemma="γράφω">γέγραπται</w> <w lemma="ἐν">ἐν</w> τ
+	    					
+<lb xml:id="line_D31" n="D31" break="no"/>ᾶι <name type="locality"><w lemma="πέτρα">πέτραι</w></name> <w lemma="ἔνδω">ἔνδω</w>· <w lemma="ὅσδε">τάδε</w> <unclear>Φ</unclear>ά<supplied reason="lost">ν</supplied>
+	    					
+<lb xml:id="line_D32" n="D32" break="no"/>οτος <w lemma="ἐπιδίδωμι">ἐπέδωκε</w> τᾶι <name type="person"><w lemma="θυγάτηρ">θυγατ
+	    					
+<lb xml:id="line_D33" n="D33" break="no"/>ρὶ</w></name> Βουπύγαι· τὰ <name type="animal" key="sheep"><w lemma="ἑμιρρίνιον?">hεμιρρ<unclear>ή</unclear>
+	    				
+<lb xml:id="line_D34" n="D34" break="no"/>νια</w></name> <w lemma="ἐκ">κἠκ</w> τᾶς <name type="sacrifice"><w lemma="δυωδεκαΐς">δυωδεκαΐδ<supplied reason="lost">ο</supplied>
+	    					
+<lb xml:id="line_D35" n="D35" break="no"/>ς</w></name> <name type="animal" key="goat"><name type="gender"><w lemma="χίμαιρα">χίμαιραν</w></name></name> καὶ <w lemma="ἐν">τἠμ</w> <name type="epithet" key="Pronaia"><w lemma="πρόναος">Προν
+	    					
+<lb xml:id="line_D36" n="D36" break="no"/>αίαν</w></name> <name type="portion"><w lemma="δέρμα">δάρματα</w></name> καὶ τὰ τῶι
+	    					
+<lb xml:id="line_D37" n="D37"/><name type="epithet" key="Lykeios"><w lemma="Λύκειος">Λυκείωι</w></name> <name type="portion"><w lemma="δέρμα">δάρματα</w></name> καὶ τὰ
+	    						    					
+<lb xml:id="line_D38" n="D38" break="no"/>ν <name type="quality"><name type="gender"><w lemma="ἀγαῖος">ἀγαίαν</w></name></name> <name type="animal" key="ox"><name type="age"><w lemma="μόσχος">μόσχον</w></name></name>· <w lemma="πᾶς">πάντων</w>
+	    					
+<lb xml:id="line_D39" n="D39"/>καὶ <name type="person"><w lemma="ἴδιος">ϝιδίων</w></name> καὶ <name type="group"><w lemma="δημόσιος">δαμοσίω	    					
+	    					
+<lb xml:id="line_D40" n="D40" break="no"/>ν</w></name> τὸμ <name type="sacrifice"><w lemma="προθύω">προθύοντα</w></name> καὶ <name type="oracle"><w lemma="προμαντεύω">προ	    					
+	    					
+<lb xml:id="line_D41" n="D41" break="no"/>μαντευόμενον</w></name> <w lemma="παρέχω">παρέχεν</w>
+	    					
+<lb xml:id="line_D42" n="D42"/>τὰ <w lemma="γράφω">γεγραμμένα</w> <name type="group"><w lemma="Λαβυάδαι">Λαβυάδα
+	    				
+<lb xml:id="line_D43" n="D43" break="no"/>ις</w></name>. <w lemma="ὅσδε">ταίδε</w> <name type="sacrifice"><w lemma="θυσία">θυσίαι</w></name> <name type="group"><w lemma="Λαβυάδαι">Λαβυαδ
+	    					
+<lb xml:id="line_D44" n="D44" break="no"/>ᾶν</w></name>· <name type="month"><w lemma="Ἀπελλαῖος">τὠπελλαίου</w></name> <w lemma="μείς">μηνὸς</w> τῶ	    				
+	    				
+<lb xml:id="line_D45" n="D45" break="no"/><add>ι</add> <name type="deity"><w lemma="Διόνυσος">Διονύσωι</w></name>, <name type="festival"><w lemma="Βουκάτιος">Βουκατίοις</w></name>
+	    					
+<lb xml:id="line_D46" n="D46"/>τῶι <name type="deity" key="Zeus"><w lemma="Ζεύς">Δὶ</w></name> <name type="epithet" key="Patroios"><w lemma="πατρῷος">Πατρώιωι</w></name> καὶ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">τὠπ	    					
+	    					
+<lb xml:id="line_D47" n="D47" break="no"/>πόλλωνι</w></name> τὰν <name type="sacrifice"><w lemma="ἀκροθίνιον">ἀκρόθινα</w></name> κα	    					
+	    					
+<lb xml:id="line_D48" n="D48" break="no"/>ὶ <w lemma="συμπίνω">συμπιπίσκεν</w> <w lemma="ἅμα">hαμεῖ</w> το	    						
+	    					
+<lb xml:id="line_D49" n="D49" break="no"/>ὺς <name type="group"><w lemma="Λαβυάδαι">Λαβυάδας</w></name>· τὰς δ’ <w lemma="ἄλλος">ἄλλας</w>
+	    					
+<lb xml:id="line_D50" n="D50"/><name type="meal"><w lemma="θοίνη">θοίνας</w></name> <w lemma="κατά">κὰτ</w> τὰν <w lemma="ὥρα">hώραν</w> <surplus>αγ</surplus>   			
+	    					
+<lb xml:id="line_D51" n="51"/><w lemma="ἄγω">ἄγεσθαι</w>. <space quantity="1" unit="line"/>	    							
+	    				
+	    				</ab>
+	    
+	    			</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>Face C</p>
+<p>(...) This is the law concerning (20) funerary matters: do not put in (the tomb) more than 30 drachmae's worth, whether (objects) bought or (brought from) home. The broad shroud is to be grey (or dark). (25) If one contravenes any of these rules, he will pay 50 drachmes, unless he swears on the tomb that he did not put anything more. Let one place only one mattress underneath (the deceased) and (30) place only one pillow. The covered corpse will be carried in silence and nowhere set down in the bends (of the road), (35) and no lamentations will be made outside the house before they arrive at the tomb; there,  [...] let it be until the [...] is placed. (40) On the tombs of the previously deceased there is to be no dirge or lamentation, but each is to head back home except those who shared the hearth of the deceased and his paternal uncles, (45) his parents-in-law, his descendants and his sons-in-law. No wailing or lamentation will take place on the next day, the tenth day or the year anniversary. (50) If one contravenes any of these written rules, [...]</p>
+				
+<p>Face D</p>
+<p>[...] drachma [...] The following (occasions for) banquets are customary (legal): Apellai, Boukatia, Heraia, Dadaphoria, (5) Poitropia, 7th and 9th of Bysios, Eukleia, Artamitia, Laphria, Theoxenia, Telchinia, (10) Dioskoureia, Megalartia, Herakleia, and even if he himself sacrifices an animal, and if he assists a new mother (for a sacrifice), and if he is present with a stranger and (15) they sacrifice animals, and if he happens to be serving in the five-day office (?). If one contravenes any of these written rules, the <foreign>damiourgoi</foreign> (20) and all the other Labyadai are to fine (him), and the Fifteen are to exact the fine. If he contests the fine, having sworn the (25) customary oath, let he be acquitted. If he is absent when the magistrates call an assembly, let him pay one obol; and if he causes a disturbance (at the assembly), let him pay one obol.</p>
+				
+<p>The following is also written at (30) Phanateus in the rock, inside: "Phanotos gave to following as a dowry to his daughter Boupyga:" the half-sheep, (35) (the) winter-old she-goat from the twelve-animal sacrifice, the skins (of the sacrifices) for Pronaia, the skins for Lykeios, the female leading (?) calf.</p>
+				
+<p>For any circumstance, whether private or public, (40) the person making preliminary sacrifices or consulting the oracle (?) is to provide what is written to the Labyadai. The following are the sacrifices of the Labyadai: in the month of Apellaios, (45) to Dionysus, during the Boukatia to Zeus Patroos and to Apollo the first-offering and the Labyadai are to hold a symposion together. The other (50) banquets take place in their proper time.
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Face C</p>
+<p>(...) Ceci est la réglementation (20) en matière funéraire. On ne mettra pas (dans la tombe) pour plus de 35 drachmes, tant en achats qu'(en objets pris) à la maison. La couverture épaisse sera brune. (25) Si l'on transgresse l'une de ces dispositions, on paiera 50 drachmes d'amende, à moins de jurer sur la tombe qu'on n'y a pas mis davantage. On placera (sous le mort) un seul matelas et (30) on ajoutera un seul oreiller. On portera le mort emballé, en silence. On ne le déposera nulle part aux tournants de chemin (?) (35) et on ne se lamentera pas hors de la maison avant d'arriver au tombeau; là [...] qu'il soit jusqu'à [...] est placé. (40) Sur les tombeaux des morts plus anciens, on ne fera pas de thrène ni de lamentation: on rentrera chacun chez soi, excepté ceux qui vivaient au foyer du mort, ainsi que ses oncles paternels, (45) beaux-parents, descendants et gendres. Ni le lendemain, ni le dixième jour, ni les jours anniversaires, on ne gémira ni se lamentera. (50) Si l'on transgresse l'une de ces dispositions [...]</p>
+				
+<p>Face D</p>
+<p>[...] drachme [...] Les banquets suivants sont obligatoires : Apellai, Boukatia, Heraia, Dadaphoria, (5) Poitropia, 7 et 9 Bysios, Eukleia, Artamitia, Laphria, Theoxenia, Telchinia, (10) Dioskoureia, Megalartia, Herakleia — cela même si l'on sacrifie soi-même un animal, même si l'on assite une accouchée (pour un sacrifice), même si l'on a auprès de soi des hôtes (15) qui sacrifient un animal, même si l'on se trouve en fonction de cinq jours (?). Si l'on transgresse une de ces dispositions, que les damiurges (20) et tous les autres Labyades mettent le contrevenant à l'amende et que les Quinze procèdent au recouvrement. S'il conteste la mise à l'amende, qu'il prête le (25) serment de règle et il sera tenu quitte. Si les magistrats convoquent une assemblée et qu'on y manque, on paiera une obole d'amende. Et si on la trouble, on paiera une obole d'amende.</p>
+				
+<p>Inscription gravée aussi à (30) Phanateus, sur le rocher, en dedans : « Dot constituée par Phanotos à sa fille Boupyga » : les demi-moutons, (35) (la) chevrette âgée d'un hiver prélevée sur la dodékaïde, les peaux (des sacrifices) pour la Pronaia, les peaux pour le Lykeios et la velle de tête (?).</p> 
+				
+<p>Quiconque, soit à titre privé, soit à titre public, (40) offre le sacrifice préliminaire et consulte l'oracle (?) doit fournir aux Labyades les articles énumérés. Sacrifices des Labyades : au mois d'Apellaios, (45) à Dionysos, le jour des Boukatia à Zeus Patroos, et l'on consacre alors les prémices à Apollo; et les Labyades tiennent ensemble un symposion. Les (50) autres banquets se tiendront en leur temps.</p>
+
+<p>(traduction adaptée de A. Jacquemin - D. Mulliez - G. Rougemont <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl>) </p>
+				</div>
+
+				<div type="commentary">    
+						<head>Commentary</head>   
+					
+<p>It has long been proposed that the character of the group Labyadai known from this inscription and another partial, though much earlier copy at Delphi (cf. <bibl type="abbr" n="CID I">CID I</bibl> 9bis, ca. 500 BC, preserving only a part of lines D12-25), is to be interpreted as gentilicial; see Jacquemin et al., p. 67, for useful summary, and who rightly avoid applying a label to the group (such as phratry). For other groups with a patronymic ending, -δης or -δαι, cf. here the phratry of the Demotionidai, <ref target="CGRN_74">CGRN 74</ref>, or see the Klytidai of Chios, <bibl type="abbr" n="LSCG">LSCG</bibl> 118. Such groups, <foreign>gene</foreign> or the like, are indeed known to have collected documents relating to their official and cultic activities on a single stele, such as the cippus we have here from Delphi. Our knowledge about the Labyadai is expanding, though they nonetheless remain enigmatic and their precise role in the city of Delphi is still unclear. Recently, three rock-cut inscriptions were discovered at the fortified site of Panopeus/Phanoteus, on the large rocks forming the southern boundary of the upper city. The settlement of Panopeus/Phanoteus itself lies on the border between Phokis and Boiotia, next to the road travelling from the south (notably from Athens) to Delphi (see Rousset et al., p. 451, with n. 46). Published by a group of American and French scholars, the new inscriptions affirm the apparent link of the Labyadai with this site. One of the inscriptions is remarkably the same text (with a few variants) as the one quoted on the Delphic cippus reprised here, face D, lines 29-43 (see below on these lines for further discussion). This original rupestral inscription from the Late Archaic period (Rousset et al.: no. 1, late 6th century BC) may begin to reveal how the Labyadai constructed an aetiology for their privileges in the sanctuary of Delphi during the Classical period, by adding a copy of this inscription from Panopeus/Phanoteus to their dossier and claiming ancestral privileges from the hero Phanotos himself. Yet except from this older inscription and the present copy on the larger cippus and dossier of regulations at Delphi, the Labyadai are otherwise unattested and their evolution as a gentilicial group remains to be clarified. Another inscription found at the site (Rousset et al.: no. 2) in fact demonstrates that the inhabitants were known as Phanoteans, from this eponymous hero. Rousset al. (p.453) hypothesise that locating the activities of the group not only at Delphi, but also at Panopeus/Phanoteus on the route to Delphi has some implications, albeit ones that warrant further substantiating: the dossier of inscriptions together begin to paint a picture of cultic connections, specifically of "a precedent and a model for those who, coming from Phanoteus or passing by there, went on to Delphi by way of Athena Pronaia and Apollo Lykeios" (p. 453). It remains to be seen just how the Labyadai appropriated this link with Panopeus/Phanoteus, when on the surface we would have expected them to have had a stronger link with an eponym *Labys or *Labyas; another crux remains the question of how large and varied the dossier of the group was in ca. 500 BC (cf. again the very partial <bibl type="abbr" n="CID I">CID I</bibl> 9bis).</p>
+
+<p>As we have it, the dossier of regulations of the Labyadai preserved on the cippus at Delphi is thus a composite document, formed from many sources. It contains reinscribed copies, for instance of the Panopeus/Phanoteus rupestral inscription, and perhaps other copies too, such as decrees and other documents belonging to the group. Face A is essentially concerned with the office of ταγός, apparently the chief magistrate of the group and appointed annually. As the fragmentary beginning of this side state, his official was to respect both the laws of the city of Delphi and the laws and customs of Labyadai; he was to swear an oath to Zeus Patroos (lines A13-18); there follows also a lengthy decree of the Labyadai which is concerned with the duties and responsabilities of the ταγός, which especially include the annual bringing and receiving of <foreign>apellaia</foreign> and <foreign>daratai</foreign>. For Apellai and the animal offerings called <foreign>apellaia</foreign>, see below; the <foreign>daratai</foreign> were apparently types of bread offered during the ceremonies of the group, see Rougemont, p. 45, and <bibl type="abbr">LSJ</bibl> s.v. δάρατος. Face B probably contains the continuation of this decree, discussing notably the (probably many) annual assemblies of the group, where these offerings known as <foreign>apellaia</foreign> and <foreign>daratai</foreign> would be brought, and where the number of those present could not be inferior to 101 (lines B4-10; this gives us an idea of the number of males in the group and its overall relative size); the remainder is taken up by lengthy sanctions against a ταγός that contravenes the rules, such as fines or even exclusion from the group. Included in the rules (lines B35-37) are also mentions of the rites for introducing new members: <foreign>paideia</foreign>, in the case of children (esp. sons), <foreign>gamela</foreign> in cases of marriage, both apparently subcategories of <foreign>daratai</foreign> (for the former, cp. again the regulations of the phratry of the Demotionidai at Athens, <ref target="CGRN_74">CGRN 74</ref>; for both, see also the regulations of the family of Diomedon on Kos, <ref target="CGRN_96">CGRN 96</ref>). It is likely that the decree continue even on the beginning of face C, lines 1-19, where the juridical aspects of the office of the ταγός are discussed (as Jacquemin et al. note, the group may have had its own law-courts). The responsabilities of the other officials mentioned in connection with the group, known as the Fifteen and the <foreign>damiourgoi</foreign> (lines D19-22), are less clear.</p>
+					
+<p>The portion of face C included here, lines 19-52, is a self-standing section of the inscription, probably continuing to lines D 1-2. It is headed as a "Law concerning the offerings for the dead", i.e. concerning funerals and other funerary rites. We find Jacquemin et al.'s translation of the word ἐντόφια as "mobilier funéraire" rather reductive; cp. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. ἐντάφιος (2), who note that the adjective could be used as a neuter plural substantive to designate all manner of offerings for the dead or funerary rituals (i.e. τὰ ἐνταφία ἱερὰ). Indeed, though this law of the Labyadai does discuss the limited materials to be used in the funerary rites (lines C20-31), it is not exclusively a sumptuary law (as Jacquemin et al. also note, p. 66), since it goes on to treat the proper conduct necessary during the funerary procession (lines 31-39), as well as the rituals which may be undertaken for those who have long passed away (lines 39-50; this was apparently followed by sanctions and fines for transgressors in lines C50-52, continued on D1-2). Overall, the regulations in this law are marked by their strongly proscriptive character concerning norms of human behaviour. There is a perceptible intention not only to ensure modest burials for members of the group, but also to preserve decorum and to curb lamentations or excessive mourning (cf. e.g. ὀτοτύζειν or θρήνειν, lines C35, 41, and 49). For other funerary laws in the present Collection, cf. <ref target="CGRN_35">CGRN 35</ref> (Iulis) and <ref target="CGRN_108">CGRN 108</ref> (Gambreion); see generally Frisone.</p>
+					
+<p>Face D is the most subdivided facet of the dossier. After the concluding lines continuing from face C, a substantial section (lines D2-29) begins with the heading "The following are the customary (normative) feasts" of the Labyadai. What essentially follows (lines D3-17) is a list of all the occasions on which the Labyadai needed to gather, which appears to preserve a chronological order according to the calendar of Delphi (for a helpful overview, cf. esp. Rougemont, p. 58). Participation in these feasts or festivals seems to have been obligatory for all members, even if they wished to have their own individual sacrifices or even during special circumstances (lines D12-17); failure to comply with this enforced participation, also in assemblies of the group, resulted in a fine (lines 17-29). Another section of this face transcribes, according to its heading, "The inscription written at Phanoteus, on the rock, inside" (see above; and below, lines D29-43); to the copy of the inscription is appended a rule confirming or appropriating the privileges granted by it in favour of the Labyadai. Finally, a further section entitled "The sacrifices of the Labyadai" (lines D43-51) concludes the inscription, reprising some of the content of the first section on face D, but adding a few further precisions concerning the sacrifices undertaken by the group during festivals taking place at Delphi.</p>
+					
+<p>Lines C20-24 and C29-31: For the objects placed in the tomb and for the στρῶμα as a cloth placed underneath the corpse, see here <ref target="CGRN_35">CGRN 35</ref> (Iulis), lines 2-4. For the light-coloured or white cloths used in funerary rituals, see again the text from Iulis.</p>						
+				
+<p>Lines C31-39: As noted above, the emphasis in the regulations here is strikingly on the silence (σιγᾶι) necessary during the funerary procession, until the tomb is reached. An interesting passage is lines 33-35, where it is stated that the bier for carrying the corpse may not be set down "on any of the bends" or "turns" of the road. In the general context of the regulation, this clause may have sought to prevent the participants from stopping anywhere along their path, thus leading to a corresponding loss of decorum, i.e. a possible occasion for lamentation. Alternatively or even additionally, the clause may be viewed as seeking to prevent the possible spread of <foreign>miasma</foreign> from the corpse within the wider community. For regulations concerning proper road access during funerals, see <bibl type="abbr" n="IC IV">IC IV</bibl> 46B (Gortyn), lines 6-14, and here <ref target="CGRN_108">CGRN 108</ref> (Gambreion), lines 13-17. The final clause in this passage contains two words whose traces are difficult to interpret with any assurance: see Rougemont p. 54-56 for a detailed discussion, listing the various proposals.</p>
+					
+<p>Lines C39-50: This passage concerns rites for the dead after the funeral has already taken place. For the close circle of kinship participating in funerary rites, cf. here <ref target="CGRN_35">CGRN 35</ref> (Iulis), lines 18-27, and cp. the apocryphal (but nonetheless plausible) law cited in [Dem.] 43.62-63. For commemorative rites following the funeral, subsequently occuring here on the next day, the tenth day, and other anniversaries, see again <ref target="CGRN_35">CGRN 35</ref> (Iulis), face B, and <ref target="CGRN_108">CGRN 108</ref> (Gambreion), lines 9-11 (there they must be accomplished within a deadline of three months).</p>
+
+<p>Line D3: Apellaios is the first month of the calendar of Delphi and the Apellai, in honour of Apollo (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. Ἀπέλλων for the Dorian form; cf. here <ref target="CGRN_2">CGRN 2</ref>, Gortyn, line 2), appropriately occur first here. As mentioned above in the discussion of faces A-C, the Apellai were clearly one of the principal occasions for sacrifice and assembly in the group of the Labyadai, and in fact sources gloss the verb ἀπελλάζω as a Spartan or Doric verb meaning "to hold an assembly" (see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.). The ἀπελλαῖα mentioned on faces A-B (see above) must however clearly have been sacrificial animals as they are led (ἄγεν) for this specific occasion. Regrettably, the sources do not inform us much further about the rituals undertaken during this great gathering or on what date Apollo was honoured. The 7th day of Apellaios is a good possibility, given the predilection for rites in honour of the god on that day; see here lines D5-7 on 7 Bysios and cp. also 7 Hekatombaion in Athens, to which this date may roughly correspond: <ref target="CGRN_56">CGRN 56</ref> (Marathonian Tetrapolis), col. I, lines 24-26. For a sacrifice to Dionysus also taking place during this festival, see below lines D43-51.</p>
+
+<p>Line D4: Following Dittenberger, Rougemont (p. 58) notes that the Boukatia will almost certainly have fallen on 10 Boukatios, the second month of the local calendar, since an assembly of the group is attested on this specific date (lines A19-21 in the preamble of the decree; cp. A41-42; 9 Boukatios, the day preceding the meeting, is also possible). As is clear from lines D43-51, the group offered sacrifices to Zeus Patroos and Apollo on this day, perhaps including oxen given the name of the festival, but notably featuring, according to lines D43-51, an offering of first-offerings (τὰν ἀκροθίνα) and a symposion for collective drinking. For the cult of gods called by the epithet "ancestral", i.e. <foreign>patrooi</foreign>, see here e.g. <ref target="CGRN_18">CGRN 18</ref> (Thasos); for first-offerings, probably of agricultural produce, cp. here <ref target="CGRN_60">CGRN 60</ref> (Thera), lines 13-15, and <ref target="CGRN_61">CGRN 61</ref> (Athens), line 1. As Rougemont notes (p. 59 with n. 186), the date of the Pythia at Delphi was also in the month Boukatios, but the occasion celebrated by the Labyadai in this case was almost certainly a distinct festival. The festival of Hera, the Heraia, fell in the fourth month at Delphi, Heraios (the third month, Boathoos, perhaps corresponding to Athenian Boedromion, was thus skipped); virtually nothing is known about these rites (but see below line D9 on the Telchinia). The Daidaphoria, literally "carrying of torches", fell in the fifth month, the eponymous Daidaphorios. Again, nothing specific is known about the rituals, though an attempt has been made to link them with Dionysus (see Rougemont, p. 59, citing Homolle and Nilsson); perhaps Artemis (or Hekate) may be thought a likelier candidate, given her epithets Daidouchos and Phosphoros (see e.g. schol. to Theocr. 2.11-12c; on Artemis, see below lines D7-8). For the carrying of torches during nighttime festivities, see here <ref target="CGRN_97">CGRN 97</ref> (Mylasa), line 4.</p>
+
+<p>Lines D5-7: The Poitropia took place in the following month, the eponymous Poitropios. Again, almost nothing is known about these rites (cp. Rougemont), though the name of the month suggests that it had a connection with rites of purification (ποιτρόπιος = προστρόπαιος, and see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.). The epithet Prostropaios may be envisaged (e.g. for Zeus or Apollo, both occasionally known as Apotropaioi) and, even more interestingly, a celebration of a rite called Prostrope occurs in a list of festivals (on which judiciary proceedings of forbidden) from Thasos: <bibl type="abbr" n="LSS">LSS</bibl> 69 (4th century BC), line 2 (immediately before the Thesmophoria; cited by Rougemont, p. 59 with n. 191, who thinks this parallel is "sans force"; for the purifications performed prior to the Thesmophoria, see here <ref target="CGRN_108">CGRN 108</ref>, Gambreion, lines 17-20). Two occasions on the next month, 7 and 9 Bysios (month 8), are then alluded to. The first of these is perhaps to be understood as a celebration in honour of Apollo and his birth; in the legend of Delphi, the only day on which one was traditionally allowed to consult the oracle: see Rougemont p. 59 with n. 192 (citing Plu. <title>Mor.</title> 292e-f). The 9th of the month remains more murky, though it may have had some connection with Dionysus (cf. again Rougemont). Both days, not explicitly specified as festivals, may have constituted specific religious and administrative meetings of the group.</p>
+					
+<p>Lines D7-8: A series of three festivals of Artemis are mentioned here: Eukleia, Artamitia and Laphria (see again Rougemont, p. 59, with refs.). For Eukleia, a common epithet for the goddess, see possibly here <ref target="CGRN_107">CGRN 107</ref> (Kalaureia), lines 1-10. Note however that the Laphria are not necessarily tied to Artemis: Laphrios is notably found as an epithet of Apollo, e.g. Str. 10.2.21 and <bibl type="abbr" n="IG IX.1²">IG IX.1²</bibl> 149 (Kalydon). Given the chronological sequence of the list in these lines, these must have fallen after 9 Bysios, either in that month, or during the following month of Theoxenios (this corresponded roughly to Athenian Anthesterion-Elaphebolion).</p>
+
+<p>Line D9: The festival of the Theoxenia took place in Theoxenios (month 9). This was a major celebration, probably in honour of several gods, in the sanctuary of Delphi: see Amandry 1939 and 1944-1945 for the sources, across a broad chronological spectrum. For the ritual of  <foreign>theoxenia</foreign>, the hosting of the gods, cf. also here <ref target="CGRN_13">CGRN 13</ref> (Selinous), lines A9-10. The Telchinia, together with the Dioskoureia and the Megalartia (see immediately below), fell between the Theoxenia in Theoxenios and the eponymous Herakleia in Herakleios (month 11). Thus, they occurred over the course of 2-3 months (Endyspoitropios, month 10, fell in between). For the Telchinia, Rougemont (p. 59-60) rightly notes that Telchinios could be an epithet for a wide range of deities, thus making the attribution here quite uncertain; for Hera Thelchinia in the present Collection, see <ref target="CGRN_52">CGRN 52</ref> (Erchia), col. Α, lines 7-11 (20 Metageitnion, a timing which could be compared with Delphic Boukatios/Boathoos instead).</p>
+
+<p>Lines D10-11: As mentioned above, the Dioskoureia and Megalartia fell after the Telchinia, in the period between the Theoxenia (month 9) and the Herakleia (month 11). The Dioskoureia are otherwise unknown. The Megalartia were an agricultural festival in honour of Demeter with this epithet, literally Demeter "of the Big Breads". The same festival probably occurs in the sacrificial calendar of the city of Eleutherna <ref target="CGRN_210">CGRN 210</ref>, line B3, where the goddess receives "small cakes" (no doubt with a wish to make them "grow"). The Herakleia and the cult of Heracles are of course perfectly at home in Delphi, and the festival is attested in another inscription of the third century BC, <bibl type="abbr" n="SGDI">SGDI</bibl> 2607. Note also that the rupestral inscriptions at Phanoteus/Panopeus (Camp et al. 1997) feature several dedications attesting to a cult of Heracles in the western area of the boundary of the upper city (one was made by an Athenian).</p>								
+					
+<p>Lines D12-17: This part of the regulations of the Labyadai is particularly noteworthy: the group apparently defined stringent conditions to ensure the mandatory participation of the members in the feasts of the group, even if they opt to perform rites as private individuals. The latter might include offering a separate sacrifice, assisting a woman who has given birth (and wishes to offer a sacrifice) or a foreigner who offers a sacrifice (see again Rougemont, p. 60-61 for discussion).</p>
+															
+<p>Lines D29-43: The inscription of Phanateus/Panopeus transcribed here, is presented as a bequest or a dowry by one Phanotos to his daughter Boupyga. For the original inscription inscribed on a rock face (though not "inside", mysteriously) at Panopeus/Phanoteus, see now Rousset et al.: no. 1, with a detailed discussion. Rousset et al. rightly underline the uniqueness of a dowry list which consisted of sacrificial portions, and raise the possibility that we are dealing here with a sort of legendary gift, by the local eponym, Phanotos, which provided a mythical justification for the sacrificial portions awarded to the descendants of Phanotos, and thence to the group of the Labyadai. The portions listed were long thought obscure, and some remain so, despite the detailed attempts at elucidation of Rousset et al. First, come <foreign>hemirrhenia</foreign> (hεμιρρίνια on the rock-cut inscription), which have most widely been interpreted as "half-sheeps"; Rousset et al. investigate the many possibilities for the interpretation of the word, which remains to a large degree uncertain, though they plausibly suggest half-carcasses from the animals; for halved anatomical portions, cf. here <ref target="CGRN_57">CGRN 57</ref> (Aixone, on half-heads). As the rock-cut inscription at Panopeus/Phanoteus now makes clear (Rousset et al.: no.1), the animal described here on the cippus as "a winter-old she-goat" from the <foreign>dodekais</foreign> (perhaps poorly copied from this original text and/or the older copy at Delphi), is rather to be understood, more specifically, as a she-goat born in the last winter, τὰν χίμαιραν as the Panopeus/Phanoteus inscription reads. On the <foreign>dodekais</foreign>, a sacrifice of twelve animals at during <foreign>theoria</foreign> at Delphi which must thus have include a single she-goat among the twelve, cf. here <ref target="CGRN_30">CGRN 30</ref>, line A6. Presumably the carcass from this animal was expected to be given in its entirety to the Labyadai by each delegation that performed this twelvefold sacrifice. Preliminary sacrifice when visiting Delphi would be made both to Athena Pronaia (in her temple) and also apparently to Apollo Lykeios; the skins from these animals were demanded as their due by the Labyadai. Finally, another more enigmatic offering is to be granted: a heifer qualified as ἀγαία. Jacquemin et al. and Rousset et al. all take ἀγαία as an adjective qualifying "the most beautiful sheep", the former deriving ἀγαῖος from ἄγω, i.e. the sheep leading the procession, the latter from ἀγα-, an intensifying prefix indicating superiority (see also <bibl type="abbr" n="LSJ">LSJ</bibl> s.v., though with some hesitation). We cannot be sure, but the first sense may be more suitable, if we suppose that this animal also belonged to the <foreign>dodekais</foreign> (Rougemont, p. 71, following Baunack, collects the refs. attesting to this multiple sacrifice being called βούπρῳρος and πρωτοβοία). A final clause added by the Labyadai to the citation of the inscription appropriates these rights to the group and confirms their wide application: the portions must be granted both during civic and private sacrifices, in the context of both <foreign>prothysis</foreign> (cp. here <ref target="CGRN_54">CGRN 54</ref>, Piraeus) and <foreign>promanteia</foreign> (sacrifice before consultation of the oracle).
+</p>
+					
+<p>Lines D43-51: Two further specifications on sacrificials occasions are listed here, apparently underlining private sacrifices held by the group during larger festivals at Delphi: sacrifices to Dionysus in month Apellaios; sacrifices at the Boukatia to Zeus Patroos and to Apollo (see above at line D4). For Dionysus, cp. also a Hellenistic dedication to the god inscribed at Phanoteus/Panopeus (Rousset et al.: no. 3). Lines D49-51 essentially refer back to the chronological list of the feasts of the Labyadai in lines D2-11. </p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

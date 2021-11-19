@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_175" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 175</idno>: <rs type="textType" key="priestly contract">Contract of sale for the priesthood</rs> of Meter Phrygie at Priene</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Sylvain Lebreton</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc>
+                            <support>
+                                <p>Marble stele with a (broken) ledge on top and roughly cut on the back; damaged on the left side and broken on the right lower corner.</p>
+                               <p><dimensions>
+                                <height unit="cm">87</height>
+                                <width unit="cm">37-40.5</width>
+                                <depth unit="cm">10-13</depth>
+                            </dimensions></p>
+                            </support>
+                        </supportDesc>
+                        <layoutDesc><layout>
+                            <p>Lettering quite regular, with some spaces at the end of the lines.</p>
+                            <p>Letters: <height unit="cm">0.7-1.1</height> (lines 1-40). Letters: <height unit="cm">1-1.3</height> (lines 41-42). Space between letters: <height unit="cm">0.7</height> (lines 1-40); <height unit="cm">0.9</height> (lines 41-42). </p>
+
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0200" notAfter="-0100">2nd century BC</origDate></p>
+
+                        <p><desc>Justification: lettering and orthography (Wiemer - Kah, followed by Blümel - Merkelbach)
+                            </desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Priene" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599905" type="external">Priene</ref></placeName>. Found reused in a wall of the “byzantinische Hauptkirche” (the Byzantine basilica north of the “Athenaterrasse”). Today in the storerooms at Priene/Güllübahçe (inv. no. PR 09 I4).</p>
+                    </provenance>
+
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 14-09-2015 by S.G. Caneva.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Last revised by XX in 20XX.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"/></facsimile>
+    <text>
+        <body>
+            <div type="bibliography">
+                <head>Bibliography</head>
+
+                <p> Edition here based on Blümel - Merkelbach <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 145, with ph. tab. 120-121. We adopt the restoration of Hamon in line 32.
+                </p>
+                <p> Other edition:
+                    <bibl type="author_date" n="Wiemer - Kah 2011">Wiemer - Kah 2011</bibl>, with ph.
+               </p>
+
+                <p>Further bibliography: <bibl type="author_date" n="Pirenne-Delforge 2005">Pirenne-Delforge 2005</bibl>: 65-67; <bibl type="author_date" n="Brulé - Touzé 2008">Brulé - Touzé 2008</bibl>; Hamon <title>REG</title> 2012 <bibl type="abbr" n="BE">BE</bibl> no. 364.
+                </p>
+            </div>
+            <div type="edition">
+                <head>Text</head>
+
+                <ab>
+
+                    <lb xml:id="line_1" n="1"/>ἡ <w lemma="πρίαμαι">πρ<unclear>ιαμέ</unclear>νη</w> τὴν <name type="personnel"><w lemma="ἱερωσύνη">ἱερεωσύνην</w></name> τῆς <name type="deity" key="Meter"><w lemma="μήτηρ">Μητρὸς</w></name> τῆς
+
+                    <lb xml:id="line_2" n="2"/><name type="epithet" key="Phrygia"><name type="ethnic" key="Phrygia"><w lemma="Φρύγιος">Φρυγίης</w></name></name> <w lemma="ἱεράομαι">ἱερήσεται</w> τὸν <w lemma="βίος">βίον</w> τὸν <w lemma="ἑαυτοῦ">αὑτῆς</w> <w lemma="ἀτελής">ἀτελὴς</w>
+
+                    <lb xml:id="line_3" n="3"/><w lemma="εἰμί">οὖσα</w> τοῦ <w lemma="σῶμα">σώματος</w> καὶ <w lemma="ἀνδράποδον">ἀνδραπόδου</w> <w lemma="εἷς">ἑνός</w>· <w lemma="παρέχω">παρέξε
+
+                        <lb xml:id="line_4" n="4" break="no"/>ται</w> δὲ ἡ <name type="group"><w lemma="πόλις">πόλις</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> τῆι μὲν <name type="deity" key="Meter"><w lemma="μήτηρ">Μητρὶ</w></name> <name type="animal" key="sheep"><w lemma="πρόβατον">πρόβατον</w></name>,
+
+                    <lb xml:id="line_5" n="5"/><name type="deity" key="Pan"><w lemma="Πάν"><supplied reason="lost">Παν</supplied>ὶ</w></name> δὲ <name type="animal" key="bird"><name type="gender"><w lemma="ἀλέκτωρ">ἀλέκτορα</w></name></name>, <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">῾Ερμῇ</w></name> δὲ καὶ <name type="deity" key="Zeus"><w lemma="Ζεύς">Ζανὶ</w></name> <name type="animal" key="sheep"><name type="age"><w lemma="ἀρήν">ἄρνας</w></name></name> <w lemma="δύο">δύο</w>·
+
+                    <lb xml:id="line_6" n="6"/><w lemma="λαμβάνω"><unclear>λή</unclear>ψεται</w> δὲ <w lemma="παρά">παρὰ</w> τῆς <name type="group"><w lemma="πόλις">πόλεως</w></name> <w lemma="εἰς">εἰς</w> τὰ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> ἡ <name type="personnel"><w lemma="ἱέρεια">ἱερῆ</w></name>
+
+                    <lb xml:id="line_7" n="7"/><w lemma="δραχμή">δραχμὰς</w> <w lemma="τεσσαράκοντα">τεσσεράκοντα</w> τοῦ <w lemma="μείς">μηνὸς</w> τοῦ <name type="month"><w lemma="Ἀρτεμισιών">Ἀρτε
+
+                    <lb xml:id="line_8" n="8" break="no"/>μισιῶ<unclear>ν</unclear>ος</w></name> τῆι <w lemma="νουμηνία">νουμηνίαι</w>· <w lemma="λαμβάνω">λήψεται</w> δὲ τῶν <name type="sacrifice"><w lemma="θύω">θυομέ
+
+                        <lb xml:id="line_9" n="9" break="no"/><unclear>ν</unclear>ω<unclear>ν</unclear></w></name> <name type="portion"><w lemma="δέρμα"><unclear>δέ</unclear>ρ<unclear>μ</unclear>ατα</w></name> καὶ <name type="portion"> τῶν <w lemma="γέρας">γερῶν</w></name> τὰ <w lemma="ἥμισυς">ἡμίση</w>· τὰ δὲ <w lemma="ἥμισυς">ἡμί
+
+                    <lb xml:id="line_10" n="10" break="no"/><unclear>ση</unclear></w> <unclear>τ</unclear>ῶ<unclear>ν</unclear> <name type="portion"><w lemma="γέρας">γ̣ερῶν</w></name> καὶ τὰ <w lemma="λοιπός">λοιπὰ</w> <name type="portion"><w lemma="κρέας">κρέα</w></name> <name type="portion"><w lemma="διανέμω">διανεῖμαι</w></name> ταῖς <name type="group"><w lemma="παραγίγνομαι">πα
+
+                        <lb xml:id="line_11" n="11" break="no"/><supplied reason="lost">ρ</supplied><unclear>α</unclear><unclear>γ</unclear>ε<supplied reason="lost">νο</supplied><unclear>μ</unclear>έναις</w></name>· <w lemma="παρέχω">παρέξεται</w> δὲ <name type="animal" key="sheep"><w lemma="πρόβατον">προβάτωι</w></name> <name type="bakery"><w lemma="ἔλατρον">ἔλατρα</w></name> <w lemma="ἐκ">ἐξ</w> <w lemma="ἡμίεκτον">ἡ
+
+                    <lb xml:id="line_12" n="12" break="no"/><unclear>μι</unclear>έ<unclear>κτ</unclear>ου</w>, <name type="animal" key="sheep"><name type="age"><w lemma="γαλαθηνός">γαλαθην<unclear>ῶ</unclear>ι</w></name></name> <w lemma="χοῖνιξ">χοινίκων</w> <w lemma="δύο">δύο</w>, τ<unclear>ῶ</unclear>ι <name type="animal" key="bird"><name type="gender"><w lemma="ἀλέκτωρ">ἀλεκτόρι</w></name></name> <w lemma="χοῖνιξ">χοί
+
+                        <lb xml:id="line_13" n="13" break="no"/>νικος</w>, <name type="genericOffering"><name type="vegetal"><w lemma="θύος">θύον</w></name></name>, <name type="vegetal"><w lemma="οὐλαί">οὐλάς</w></name>, <name type="vegetal"><w lemma="λιβανωτός">λιβανωτόν</w></name>, <w lemma="ὅς">ὧν</w> δ' <w lemma="ἄν">ἂν</w> οἱ <name type="group"><w lemma="ἰδιώτης">ἰδιῶται</w></name> <name type="sacrifice"><w lemma="θύω">θύω
+
+                    <lb xml:id="line_14" n="14" break="no"/><unclear>σιν</unclear></w></name>, <w lemma="λαμβάνω"><unclear>λή</unclear>ψετα<unclear>ι</unclear></w> τῶν <name type="portion"><w lemma="γέρας">γερῶν</w></name>
+                    τῶν <w lemma="παρατίθημι">παρατιθεμένων</w> <w lemma="τρίτος">τρί
+
+                    <lb xml:id="line_15" n="15" break="no"/>τον</w> <name type="portion"><w lemma="μέρος">μέρος</w></name>· <name type="person"><w lemma="ὅσος">ὅσαι</w></name> δ' <w lemma="ἄν">ἂν</w> <w type="θέλω">θέλωσιν</w> <w lemma="τελέω">τελεῖσθαι</w>, <w lemma="τελέω">τελείσθ<supplied reason="lost">ω</supplied>
+
+                    <lb xml:id="line_16" n="16" break="no"/>σαν</w> <w lemma="παρά">παρὰ</w> τῇ <name type="personnel"><w lemma="ἱέρεια">ἱερῇ</w></name> τῆι <name type="group"><w lemma="δημόσιος">δημοσίῃ</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείωι</w></name> <name type="age"><w lemma="τέλειος">τελείωι</w></name>· <w lemma="δίδωμι">διδό
+
+                    <lb xml:id="line_17" n="17" break="no"/><unclear>τ</unclear>ω</w> δ<unclear>ὲ</unclear>
+                    <unclear>ἡ</unclear> <name type="person"><w lemma="τελέω">τ<unclear>ε</unclear>λου<unclear>μ</unclear>ένη</w></name> τῇ <name type="personnel"><w lemma="ἱέρεια">ἱερῇ</w></name>
+                    τῶν <name type="portion"><w lemma="γέρας">γερῶν</w></name> τῶν παρα
+
+                    <lb xml:id="line_18" n="18" break="no"/>τ<unclear>ι</unclear>θεμέ<unclear>ν</unclear>ω<unclear>ν</unclear> <w lemma="τρίτος">τρίτον</w> <name type="portion"><w lemma="μέρος">μέρος</w></name> καὶ <name type="portion"><w lemma="δέρμα">δέρμα</w></name>· <w lemma="ἄλλος">ἄλλο</w> δὲ <w lemma="μηδείς">μηθὲν</w>
+
+                    <lb xml:id="line_19" n="19"/><w lemma="δίδωμι">διδόσ<unclear>θ</unclear><supplied reason="lost">ω</supplied></w><supplied reason="lost">,</supplied> <supplied reason="lost">μη</supplied>δὲ ἡ <name type="personnel"><w lemma="ἱέρεια">ἱερῆ</w></name>
+                    <w lemma="λαμβάνω">λαμβανέτω</w>· τὴν δὲ <name type="sacrifice"><w lemma="θυσία">θυσίην</w></name> <w lemma="εἰμί">εἶν<unclear>α</unclear>ι</w>
+
+                    <lb xml:id="line_20" n="20"/>τοῦ <w lemma="μείς">μη̣νὸς</w> τοῦ <name type="month"><w lemma="Ἀρτεμισιών">Ἀρτεμισιῶνος</w></name> τῆι <w lemma="δωδέκατος">δωδεκάτῃ</w> καὶ
+
+                    <lb xml:id="line_21" n="21"/><w lemma="συντελέω">συ<unclear>ντ</unclear>ελείτω</w> ἡ <name type="personnel"><w lemma="ἱέρεια">ἱερῆ</w></name> καθότι <name type="authority"><w lemma="γράφω">γέγραπται</w></name>· <name type="structure"><w lemma="τέμενος">τέμενος</w></name>
+
+                    <lb xml:id="line_22" n="22"/><w lemma="ὑπάρχω"><unclear>ὑ</unclear>π<unclear>ά</unclear>ρ̣χειν</w> τῆι <name type="deity" key="Meter"><w lemma="θεός">θεῶι</w></name> τὸ <w lemma="πρός">πρὸς</w> τῶι <name type="colour2"><w lemma="λευκός">λευκῶι</w></name> καὶ <name type="colour2"><w lemma="μέλας">μέλα<unclear>νι</unclear></w></name>·
+
+                    <lb xml:id="line_23" n="23"/><w lemma="ἀποκαθίστημι">ἀπο<unclear>κατα</unclear>στῆσαι</w> <unclear>δ</unclear>ὲ τὰς <name type="object"><name type="structure"><w lemma="θαλάμη">θαλάμας</w></name></name> τοὺς <name type="group"><w lemma="ἰδιώτης">ἰδιώτας</w></name> <w lemma="εἰς">εἰ<unclear>ς</unclear></w>
+
+                    <lb xml:id="line_24" n="24"/>τὸ <w lemma="ἀποδείκνυμι">ἀποδεδειγμένον</w> <name type="structure"><w lemma="τέμενος">τέμενος</w></name>· ἐὰν δὲ μὴ <w lemma="ἀποκαθίστημι">ἀποκατασ<unclear>τ</unclear><supplied reason="lost">ή</supplied>
+
+                    <lb xml:id="line_25" n="25" break="no"/>σωσιν</w> <w lemma="ἐπί">ἐπὶ</w> <unclear>Λ</unclear>υκωνίδου, <name type="punishment"><w lemma="ὀφείλω"><unclear>ὀ</unclear>φείλειν</w></name> <w lemma="ἕκαστος">ἕκαστον</w> τῆι <name type="group"><w lemma="πόλις">πόλε<unclear>ι</unclear></w></name> <w lemma="δραχμή"><unclear>δ</unclear><supplied reason="lost">ρα</supplied>
+
+                       <lb xml:id="line_26" n="26" break="no"/>χμὰς</w> <w lemma="ἑκατόν">ἐκατόν</w>· <w lemma="φαίνω">φαινέτω</w> δὲ ὁ <w lemma="βούλομαι">βουλόμενος</w> <w lemma="ἐπί">ἐπὶ</w> τῶι <w lemma="ἥμισυς"><unclear>ἡ</unclear><supplied reason="lost">μί</supplied>
+
+                    <lb xml:id="line_27" n="27" break="no"/><unclear>σ</unclear>ει</w> <w lemma="πρός">πρὸς</w> τοὺς <name type="title"><w lemma="νομοφύλαξ">νομοφύλακας</w></name>· <w lemma="ἀγείρω">ἀγειρέτω</w> δὲ ἡ <name type="personnel"><w lemma="ἱέρεια">ἱερῆ</w></name> <supplied reason="lost">καὶ</supplied>
+
+                    <lb xml:id="line_28" n="28"/>αἱ <name type="group"><w lemma="λοιπός">λοιπαὶ</w></name> <w lemma="συναγείρω">συναγειρέτωσαν</w> <w lemma="τετράς">τετράδι</w> <w lemma="ἵστημι">ἱσταμένο<supplied reason="lost">υ</supplied></w> <supplied reason="lost">τοῦ</supplied>
+
+                    <lb xml:id="line_29" n="29"/><w lemma="μείς">μη̣νὸς</w> τοῦ <name type="month"><w lemma="Ἀρτεμισιών">Ἀρτεμισιῶνος</w></name>· <w lemma="ἕτερος">ἑτέρῃ</w> δὲ <w lemma="ἡμέρα">ἡμέρῃ</w> μὴ <w lemma="ἀγείρω"><unclear>ἀ</unclear><supplied reason="lost">γει</supplied>
+
+                    <lb xml:id="line_30" n="30" break="no"/>ρέτω</w> <w lemma="μηδείς">μηθείς</w>· ἢν δὲ τις <w lemma="ἀγείρω">ἀγείρῃ</w>, <w lemma="κωλύω">κωλυέτωσαν</w> οἱ <name type="title"><w lemma="τιμοῦχος"><unclear>τ</unclear><supplied reason="lost">ι</supplied>
+
+                    <lb xml:id="line_31" n="31" break="no"/><unclear>μ</unclear>οῦχοι</w></name> ἢ̣
+                    <name type="punishment"><w lemma="ἀποτίνω"><unclear>ἀπ</unclear>οτινέτωσαν</w></name> <w lemma="δραχμή">δραχμὰς</w> <w lemma="ἑκατόν">ἑκατόν</w>· ἢ<unclear>ν</unclear> <supplied reason="lost">δὲ</supplied>
+
+                    <lb xml:id="line_32" n="32"/><unclear>τ</unclear>ις <w lemma="ἀγείρω">ἀγε<unclear>ί</unclear>ρῃ</w>, <name type="punishment"><w lemma="ὀφείλω">ὀφειλέτω</w></name> <w lemma="δραχμή">δραχμὰς</w> <w lemma="ἑκατόν">ἑκατόν</w>· εἰσαγέ<supplied reason="lost">σθω</supplied>
+
+                    <lb xml:id="line_33" n="33"/>δὲ ἡ <name type="personnel"><w lemma="ἱέρεια">ἱερῆ</w></name> <w lemma="εἰς">εἰς</w> τὸ <name type="structure"><w lemma="πρυτανεῖον">πρυτανεῖον</w></name>· <w lemma="τίθημι">τιθέτω</w> δὲ ἡ <name type="group"><w lemma="πόλις">πόλις</w></name> <gap reason="lost" quantity="4" unit="character"/>
+
+                    <lb xml:id="line_34" n="34" break="no"/> <w lemma="unclear">ματα</w> <name type="vegetal"><w lemma="πυρός">πυρῶν</w></name> <w lemma="μέδιμνος">μέδιμνον</w>, <name type="vegetal"><w lemma="κριθή">κριθῶν</w></name> <w lemma="μέδιμνος">μέδιμνον</w>, <name type="liquid"><w lemma="μέλι">μέλ<supplied reason="lost">ιτος</supplied></w></name>
+
+                    <lb xml:id="line_35" n="35"/><w lemma="κοτύλη">κοτύλην</w>, <name type="liquid"><w lemma="ἔλαιον">ἐλαίου</w></name> <w lemma="κοτύλη">κοτύλην</w>, <name type="dairy"><w lemma="τυρός">τυρὸν</w></name> <name type="quality"><w lemma="ἁγνός">ἁγνόν</w></name>· ταῦ<unclear>τ</unclear><supplied reason="lost">α μὴ</supplied>
+
+                    <lb xml:id="line_36" n="36"/><name type="portion"><w lemma="λαμβάνω"><unclear>λ</unclear>αμβα<unclear>ν</unclear>έτω</w></name> ἡ <name type="personnel"><w lemma="ἱέρεια"><supplied reason="omitted">ἱ</supplied>ερῆ</w></name>· <w lemma="τελέω">τελεσθήσεται</w> <w lemma="τέλος">τέλεσι</w> τοῖς <w lemma="ἑαυτοῦ">α<supplied reason="lost">ὑτῆς</supplied></w>·
+
+                    <lb xml:id="line_37" n="37"/>τὴν <w lemma="τιμή">τιμὴν</w> <w lemma="καταβάλλω">καταβαλεῖ</w>
+                    <w lemma="μείς">μη̣νὸς</w> <name type="month"><w lemma="Μεταγειτνιών">Μεταγειτνιῶνο<supplied reason="lost">ς</supplied></w></name> <supplied reason="lost" precision="low"><w lemma="ἕκτος">ἕκτῃ</w></supplied>
+
+                    <lb xml:id="line_38" n="38"/><w lemma="ἵστημι">ἱσταμένου</w>· τὴν δὲ <w lemma="διαγραφή">διαγραφὴν</w> <w lemma="ἀναγράφω">ἀναγραψάτωσα<supplied reason="lost">ν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/><w lemma="unclear">
+
+                    <lb xml:id="line_39" n="39" break="no"/>αγραφεῖς</w> <w lemma="τέλος">τέλεσι</w> τοῖς τῆς <name type="personnel"><w lemma="ἱέρεια">ἱερῆς</w></name>· <objectType key="stele"><w lemma="στήλη">στήλην</w></objectType> δὲ <w lemma="δίδωμι">δό<supplied reason="lost">τω</supplied></w> <supplied reason="lost">ὁ</supplied> <supplied reason="lost"><w lemma="ἐπί">ἐπὶ</w></supplied>
+
+                    <lb xml:id="line_40" n="40"/>τῆς <w lemma="διοίκησις">διοι<unclear>κ</unclear>ήσεως</w> τῶν <w lemma="ὑπάρχω">ὑπαρχουσῶν</w> ἐν τῶι <name type="structure"><w lemma="ἱερόν">ἱερῶ<supplied reason="lost">ι</supplied></w></name>·
+
+                    <lb xml:id="line_41" n="41"/><w lemma="πρίαμαι">ἐπρίατο</w> Φιλιτὶς ᾿Αριστέα <w lemma="δραχμή">δραχμῶν</w> <w lemma="σύν">σὺ<unclear>ν</unclear></w> <supplied reason="lost">τῶι</supplied> <w lemma="δέκατος"><supplied reason="lost">δε</supplied>
+
+                     <lb xml:id="line_42" n="42" break="no"/>κάτωι</w> <w type="τριακόσιοι">τετρακοσιῶν</w>
+                    <w lemma="τριάκοντα">τριάκοντα</w>.
+
+                </ab>
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>The purchaser of the priesthood of Meter Phrygie shall hold the priesthood for life, being exempt of personal taxation and of (tax on owning) one slave. The city shall provide as a sacrificial animal: for Meter, a sheep, (5) for [Pan] a cock, for Hermes and Zeus, two lambs. The priestess shall receive from the city 40 drachmae for these animals, on the first of the month of Artemision; she shall receive the skins of the sacrificed (animals) and half of the perquisites; (the other) half (10) of the perquisites and the remaining meats shall be distributed to the women who are present. It will be provided: for the offering of a sheep, cakes made from a half-<foreign>hekteus</foreign> (of grain); for a lamb, (cakes made) of two <foreign>choinikes</foreign> (of grain); for the cock, (cakes made) of a <foreign>choinix</foreign> (of grain), incence, barley-groats, frankincense. From what private people sacrifice, she shall receive the third (15) part of the offered perquisites. Women who wish to be initiated, shall be initiated by the public priestess with (the sacrifice of) an adult sacrificial animal; the initiate shall give to the priestess the third part of the perquisites set aside and the skin; nothing else shall be given, nor shall the priestess receive anything else. The sacrifice shall be (20) on the 12th of the month Artemision and the priestess shall perform it as it is written. The precinct near the (place called) White-and-Black shall exist for the goddess; private individuals shall construct (or re-erect) the shrines in the designated precinct; if they do not do so (25) (in the year of the <foreign>stephanephoros</foreign>) Lykonides, each of them shall owe 100 drachmae to the city; he who wishes shall denounce (them) for half (of the fine) before the nomophylakes. The priestess shall make a collection and the other women shall assist her, on the 4th of the month of Artemision; nobody shall make a collection on any other day; (30) if anyone attempts an (illegal) collection, the <foreign>timouchoi</foreign> shall prevent him/her, or else they shall pay 100 drachmae; if anyone makes an (illegal) collection, he/she shall owe 100 drachmae. The priestess shall be introduced into the prytaneion; the city shall deposit as [...] a <foreign>medimnos</foreign> of wheat, a <foreign>medimnos</foreign> of barley, a <foreign>kotyle</foreign> of honey (35), a <foreign>kotyle</foreign> of oil, a pure cheese; the priestess shall [not] take them. She shall be initiated at her own expense; she shall give the money (for the priesthood) on the [6th?] of the month of Metageitnion; the [...]inscribers shall inscribe the contract of sale at the expense of the priestess; [the agent in charge] (40) of the financial administration shall give the stele (taking it) from those which are already in the sanctuary. Philitis daughter of Aristeas bought (the priesthood) for 430 drachmae, including [the] tenth.</p>
+            </div>
+
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>L'acheteuse de la prêtrise de la Mère Phrygienne exercera la prêtrise sa vie durant, étant exempte d'imposition personnelle et de (la taxe sur la détention) d'un esclave. La cité fournira comme animal sacrificiel : pour la Mère, un mouton, (5) pour [Pan] un coq, pour Hermès et Zeus deux agneaux. La prêtresse recevra de la cité, pour les animaux, 40 drachmes, le premier du mois d'Artemision; elle recevra les peaux des (animaux) sacrifiés et la moitié des parts d'honneur; la moitié (10) des parts d'honneur et les viandes restantes seront distribuées aux participantes. Elle fournira pour un mouton des gâteaux d'un demi-setier (de froment), pour un agneau de lait deux chénices (de froment), pour le coq un chénice (de froment), les substances pour la fumigation, les grains d’orge, l’encens. De ce que les particuliers sacrifient, elle recevra la tierce (15) partie des parts d'honneur déposées. Que celles qui veulent être initiées soient initiées par la prêtresse publique avec un animal adulte; que l'initiée donne à la prêtresse la tierce partie des parts d'honneur déposées et la peau; que rien d'autre ne soit donné et que la prêtresse ne reçoive rien d'autre. Le sacrifice doit avoir lieu (20) le 12 du mois d'Artemision et que la prêtresse l'accomplisse comme cela est écrit. L'enceinte près du (lieu-dit) Blanc-et-Noir doit être à la disposition de la déesse; les particuliers doivent restituer les bâtiments à l'enceinte en question; s'ils ne (les) restituent pas (25) (l'année de la stéphanéphorie) de Lykonidès, ils seront redevables à la cité de 100 drachmes chacun. Que celui qui le souhaite (les) dénonce pour la moitié (de l'amende) auprès des nomophylakes. Que la prêtresse fasse la quête et que les autres (participantes) la fassent avec elle le 4 du mois d'Artemision; que personne ne fasse la quête un autre jour; (30) si quelqu'un la fait, que les timouques l'en empêchent ou qu'ils payent 100 drachmes; si quelqu'un fait la quête, qu'il soit redevable de 100 drachmes. Que la prêtresse soit introduite au prytanée; que la cité dépose en [...] un médimne de blé, un médimne d'orge, un kotyle de miel (35), un kotyle d'huile, un fromage pur; que la prêtresse [ne] les prenne [pas]. Elle sera consacrée à ses propres frais; elle versera la somme le [6 ?] du mois de Metageitnion; que les [...]scripteurs transcrivent l'acte de vente aux frais de la prêtresse; que [le préposé] (40) à l'administration financière fournisse la stèle (en la prenant) parmi celles qui se trouvent déjà dans le sanctuaire. Philitis fille d'Aristeas a acheté (la prêtrise) pour 430 drachmes, [le] dixième inclus.</p>
+
+            </div>
+
+            <div type="commentary">
+                <head>Commentary</head>
+
+<p>This recently published contract (διαγραφή) for the sale of the priesthood of the Meter Phrygie is part of a group of similar and contemporary inscriptions from Priene (<ref target="CGRN_176">CGRN 176</ref> and <ref target="CGRN_177">CGRN 177</ref>). After a brief mention of the (fiscal) privileges of the priestess (lines 2-3), more detail is given about her duties and prerogatives during the principal sacrifice of the 12th of Artemision (lines 19-21). This annual ceremony seems to have included both publicly funded sacrifices to the main gods in the cult (lines 3-8) and also private ones (the latter might also occur at other times, of course). In this context, the contribution of the priestess is also specified (various complements in the form of cakes, grain and incense), as is the distribution of portions between herself and the other women taking part in the rites (lines 8-15). Initiations, apparently exclusively concerning women, are also discussed (lines 15-19). The precinct of the goddess is designated and constructions are erected within it (lines 21-27). The contract also discusses collections (lines 27-32), the entry into office and consecration of the priestess (lines 32-37), the act of purchase itself and the publication of the <foreign>diagraphe</foreign> (lines 37-42). For the cult of the Meter Phrygie in Priene, cf. <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 204 (dedication to Meter Phrygie) and 410 (to Meter Theon), with the extensive discussion of Wiemer - Kah, p. 21-33.</p>
+
+<p>In comparison to <ref target="CGRN_176">CGRN 176</ref> (priest of Dionysus Phleos) and <ref target="CGRN_177">CGRN 177</ref>  (Poseidon Helikonios), this contract of sale bears witness to a greater control by the city on this cult and its agents (notably through fines and magistrates). In this sense, its content is closer to that of the regulation of the cult of Sarapis and Isis at Priene: cf. <ref target="CGRN_157">CGRN 157</ref>. One might explain this by the fact that certain priesthoods at Priene, particularly those dealing with foreign or other highly specific cults, such as the female initatory cult of Meter here, necessitated a closer integration with the standard framework of the Greek <foreign>polis</foreign>. From a different point of view, it could more simply be said that the male adult citizens (from the social elite) responsible for these priestly contracts placed a greater emphasis on civic regulation in such contexts. For other analogous regulations concerning priestesses in the Hellenistic period, cf. e.g. <ref target="CGRN_118">CGRN 118</ref> (Halikarnassos) and <ref target="CGRN_138">CGRN 138</ref> (Miletos).</p>
+
+<p>Lines 2-3: For the exemption from personal taxation, ἀτέλεια τοῦ σώματος, cf. <ref target="CGRN_176">CGRN 176</ref>, line 6. The other exemption implies that the city of Priene collected tax on slaves owned; see Blümel - Merkelbach and cf. esp. <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 30, lines 5-6), for slaves as 'passive', taxed capital.</p>
+
+<p>Lines 3-1 : On the first of Artemision, i.e. 11 days before the ceremony, the city will give 40 drachmae to the priestess, who is in charge to buy the animals for the sacrifice. This amount should thus be roughly equivalent to the sum of the prices of the four animals: the sheep for Meter will have been the most expensive offering, probably costing around 20 drachmae (by comparison with Attic evidence), with the other three animals (especially the cock) comprising the rest (but costing less). The rest of the supplies are provided at the expense of the priestess (lines 11-13; cp. <ref target="CGRN_176">CGRN 176</ref>, lines 10-13). She receives the skins, and half of the portions from the public sacrifices, but only a third of the usual perquisites from private ones.</p>
+
+<p>Line 5: For the restoration of the god Pan (rather than e.g. Attis) here, cf. Wiemer - Kah, p. 5-6. The god had an altar in Priene (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 200, 3rd century BC, from the Asklepieion) and, as Arogos, received an ox-sacrifice together with Zeus Olympios, Hera, Athena Polias (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 64  cf. also <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 55). The Zeus mentioned could be identified with the Zeus Keraunios who also received a sacrifice on this same date, the 12th of Artemision, at Priene (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 69, lines 80-84, ca. 84 BC).</p>
+
+ <p>Lines 11-13: This list of complementary supplies for the sacrifice, to be provided by the priestess, is similar to the one found in the cult of Dionysus in Priene, cf. <ref target="CGRN_176">CGRN 176</ref>, lines 10-12. </p>
+
+<p>Lines 15-19: Cf. <ref target="CGRN_138">CGRN 138</ref> (cult of Dionysus at Miletos), lines 18-20, for an other regulation concerning female initiations.</p>
+
+ <p>Line 16: On the sense of τέλειος as 'adult', and sacrificial animals reaching their maturity or full development (τελείωσις), cf. Brulé - Touzé.</p>
+
+<p>Lines 21-27: By virtue of this decision, the city appears to reassign the precinct of the goddess, but it is difficult to know if it was previously located in the same place or somewhere else. The place in question is known, probably locally, as the “White-and-Black”; any 'magical' connotations of this toponym (Wiemer - Kah, followed by Blümel - Merkelbach) seem dubious. The θαλαμαί, which private people shall re-erect in the sanctuary in an expedient manner (within the year), under penalty of a fine, are dedicated other structures previously kept in the sanctuary, possibly <foreign>naiskoi</foreign> and other similar monuments (Wiemer - Kah).</p>
+
+<p>Line 27: On <foreign>nomophylakes</foreign> (“keepers of the law”) at Priene, cf. Blümel - Merkelbach, at <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 16.</p>
+
+<p>Lines 27-32: On collections, cf. esp. <ref target="CGRN_118">CGRN 118</ref> (Halikarnassos), lines 26-28. Here, the collection is limited to a single yearly occasion, namely the 4th of Artemision, i.e. 8 days before the sacrifice to the goddess.</p>
+
+<p>Lines 30-32: About the <foreign>timouchoi</foreign> in Priene, cf. Blümel - Merkelbach, at <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 7; for their possible role as guarantors of the respect due to religious regulations, cf. <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 6, lines 33-35.</p>
+
+<p>Lines 32-36: Since this clause apparently refers to the “introduction” of the priestess into the prytaneion, perhaps a form of official introduction into the wider body of civic magistrates, the passive εἰσαγέ[σθω] (Hamon) is more suitable than εἰσαγέ[τω] (Wiemer - Kah, followed by Blümel - Merkelbach). The precise character of this ceremony remains to be elucidated, but it is in any case distinct from the consecration or "initiation" of the priestess (line 36); on the latter, see Pirenne-Delforge and cf. here e.g. <ref target="CGRN_85">CGRN 85</ref> (Kos), line 1. In lines 33-34, Wiemer - Kah restore [ἀναλώ]ματα, “expenditures” (followed by Blümel - Merkelbach). As Hamon points out, it would seem unusual that the polis "places expenditures" in the form of offerings for the "introduction" of the priestess into the prytaneion. However, Hamon's suggestion, [τραπεζώ]ματα, is too long for the space available in the lacuna. We might suggest instead, without any certainty being possible, [προθύ]|ματα or [ἐπάργ]|ματα, both meaning "preliminary" or "first offerings". In lines 35-36, we could alternatively restore that the priestess obtained all of these offerings as her due: ταῦτ̣[α δὲ] | λ̣αμβαν̣έτω ...</p>
+
+ <p>Line 35: For 'pure' cheese, cf. the discussion at <ref target="CGRN_6">CGRN 6</ref> (Miletos), line 4.</p>
+
+<p>Line 37 : Since there is not much room left on the stone, [ἕκτῃ] was tentatively suggested as the shortest possibility by Wiemer - Kah, p. 13.</p>
+
+<p>Lines 39-40: For the official called <foreign>epi tes dioikeseos</foreign> in Priene, cf. Wiemer - Kah, p. 17-18. There is no actual example of a reused stele in Priene (Wiemer - Kah, p. 14), but some in nearby Thebes-on-the-Mykale are known (cf. <ref target="CGRN_81">CGRN 81</ref>, Commentary). The sanctuary in question is probably Athena's, where public inscriptions were displayed, rather than the Meter's (so Blümel - Merkelbach).</p>
+
+ <p>Lines 41-42: The price obtained is thus 391 dr. (the selling price) + 39 dr. (for the tenth); cf. Wiemer - Kah, p. 20. Compare this to the 12002 dr. + 1200 dr. 1 ob. 3 ch., obtained for the sale of the priesthood of Dionysus Phleos. About the tenth or tithe, and other modalities of payment at Priene, cf. <ref target="CGRN_176">CGRN 176</ref>, lines 30-35.</p>
+
+               </div>
+        </body>
+    </text>
+</TEI>

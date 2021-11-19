@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_93" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 93</idno>: <rs type="textType" key="decree">Decree</rs> of Xanthos concerning the "foundation" of the cult of Basileus Kaunios</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Tall limestone pillar or <rs type="objectType">stele</rs> virtually intact, with broken mouldings at the top and base (or sockets at the bottom). The stele is trilingual. Two larger faces, each preserve a Greek and a Lycian text (41 lines for the latter, which are not included here). One of the narrower sides has an Aramaic version of the document (27 lines, also not included here); the other short side was left uninscribed.</p>
+				<p><dimensions>
+					<height unit="cm">135</height>
+					<width unit="cm">57.5</width>
+					<depth unit="cm">30</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">10-13</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0337" notAfter="-0336">337/6 BC</origDate></p>
+			<p><desc>Justification: satrap Pixodaros and his rule over Lycia; Achaemenid regnal date on the Aramaic side of the stele.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Xanthos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/638958" type="external">Xanthos</ref></placeName>. Found at the sanctuary of the Letoon, during the clearing of the terrace of the Doric temple B in 1973, which also confirms the fourth century BC context. But the exact location of the publication of the stele remains unclear. Current location unknown.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Metzger et al. 1979">Metzger et al. 1979</bibl>: esp. 32-42 (Metzger) on the Greek text, with ph. pl. 13, but with extensive commentary on all the faces of the stele in the remainder of the volume.</p>
+					
+<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 27, 942; <bibl type="author_date" n="Hornblower 1982">Hornblower 1982</bibl>: 150-151, 220-221, and for the text, 366-367 no. M9; Rhodes - Osborne <bibl type="abbr" n="GHI">GHI</bibl> 78.</p>
+
+	<p>Further bibliography: <bibl type="author_date" n="Debord 1982">Debord 1982</bibl>; <bibl type="author_date" n="Papazoglou 1997">Papazoglou 1997</bibl>; <bibl type="author_date" n="Darmezin 1999">Darmezin 1999</bibl>; <bibl type="author_date" n="Marek 2000">Marek 2000</bibl>; <bibl type="author_date" n="Thonemann 2013">Thonemann 2012</bibl>: 33-36; <bibl type="author_date" n="Ecochard et al. 2013">Ecochard et al. 2013</bibl>: 271-279.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    				
+<lb xml:id="line_1" n="1"/><w lemma="ἐπεί">ἐπεὶ</w> <placeName key="Lycia"><w lemma="Λυκία">Λυκίας</w></placeName> <name type="title"><w lemma="σατράπης">ξαδράπης</w></name> <w lemma="γίγνομαι">ἐγένετο</w> Π
+	
+<lb xml:id="line_2" n="2" break="no"/>ιξώδαρος῾Εκατόμνω <w lemma="υἱός">ὑός</w> <w lemma="καθίστημι">κατέστη
+	    					
+<lb xml:id="line_3" n="3" break="no"/>σε</w> <name type="title"><w lemma="ἄρχων">ἄρχοντας</w></name> <placeName key="Lycia"><w lemma="Λυκία">Λυκίας</w></placeName> ῾Ιέρωνα καὶ ᾽Α
+	    						
+<lb xml:id="line_4" n="4" break="no"/>πολλόδοτον καὶ Ξάνθου <name type="title"><w lemma="ἐπιμελητής">ἐπιμελη
+	    						
+<lb xml:id="line_5" n="5" break="no"/>τὴν</w></name> Ἀρτεμηλιν· <w lemma="δοκέω">ἔδοξε</w> δὴ <name type="ethnic" key="Xanthos"><w lemma="ξανθός">Ξανθίοι</w></name>
+	    						
+<lb xml:id="line_6" n="6" break="no"/>ς καὶ τοῖς <name type="group"><w lemma="περίοικος">περιοίκοις</w></name> <w lemma="ἱδρύω">ἱδρύσαστ
+	    						
+<lb xml:id="line_7" n="7" break="no"/>αι</w> <name type="structure"><w lemma="βωμός">βωμὸν</w></name> <name type="deity" key="Basileus"><w lemma="βασιλεύς">Βασιλεῖ</w></name> <name type="epithet" key="Kaunios"><name type="ethnic" key="Kaunios"><w lemma="Καύνιος">Καυνίωι</w></name></name> καὶ <name type="deity" key="Arkesimas"><w lemma="Ἀρκεσιμας">Ἀρ
+	    						
+<lb xml:id="line_8" n="8" break="no"/>κεσιμαι</w></name> καὶ <w lemma="αἱρέω">εἵλοντο</w> <name type="personnel"><w lemma="ἱερεύς">ἱερέα</w></name> Σίμι
+	    						
+<lb xml:id="line_9" n="9" break="no"/>αν Κονδορασιος <w lemma="υἱός">ὑόν</w> καὶ ὅς ἂν Σιμ
+	    						
+<lb xml:id="line_10" n="10" break="no"/>ίαι <w lemma="ἔγγυος">ἐγγύτατος</w> <w lemma="εἰμί">ἦι</w> τὸν <w lemma="ἅπας">ἅπαντα</w> <w lemma="χρόνος">χρό
+	    						
+<lb xml:id="line_11" n="11" break="no"/>νον</w> καὶ <w lemma="δίδωμι">ἔδοσαν</w> <w lemma="αὐτός">αὐτῶι</w> <w lemma="ἀτέλεια">ἀτέλειαν</w> τ
+	    						
+<lb xml:id="line_12" n="12" break="no"/>ῶν <w lemma="εἰμί">ὄντων</w> καὶ <w lemma="δίδωμι">ἔδωκαν</w> ἡ <name type="group"><w lemma="πόλις">πόλις</w></name> <name type="locality"><w lemma="ἀγρός">ἀγρὸ
+	    						
+<lb xml:id="line_13" n="13" break="no"/>ν</w></name> ὃγ Κεσινδηλις καὶ Πιγρης <w lemma="κατεργάζομαι">κατη
+	    						
+<lb xml:id="line_14" n="14" break="no"/>ργάσατο</w> καὶ <w lemma="ὅσος">ὅσον</w> <w lemma="πρός">πρὸς</w> τῶι <name type="locality"><w lemma="ἀγρός">ἀγρῶι</w></name> 
+	    						
+<lb xml:id="line_15" n="15"/>καὶ τὰ <name type="structure"><w lemma="οἴκημα">οἰκήματα</w></name> <w lemma="εἰμί">εἶναι</w> <name type="deity" key="Basileus"><w lemma="βασιλεύς">Βασιλέως</w></name>
+	    						
+<lb xml:id="line_16" n="16"/><name type="epithet" key="Kaunios"><name type="ethnic" key="Kaunios"><w lemma="Καύνιος">Καυνίου</w></name></name> καὶ <name type="deity" key="Arkesimas"><w lemma="Ἀρκεσιμας">Ἀρκεσιμα</w></name> καὶ <w lemma="δίδωμι">δίδοτ
+	    						
+<lb xml:id="line_17" n="17" break="no"/>αι</w> <w lemma="κατά">κατ'</w> <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <w lemma="τρεῖς">τρία</w> <w lemma="ἡμιμναῖον">ἡμ
+	    						
+<lb xml:id="line_18" n="18" break="no"/>ιμναῖα</w> <w lemma="παρά">παρὰ</w> τῆς <name type="group"><w lemma="πόλις">πόλεως</w></name> καὶ <w lemma="ὅσος">ὅσοι</w>  
+	    						
+<lb xml:id="line_19" n="19"/>ἂν <name type="group"><w lemma="ἀπελεύθερος">ἀπελεύθεροι</w></name> <w lemma="γίγνομαι">γένωνται</w> <w lemma="ἀποτίνω">ἀποτί
+	    					
+<lb xml:id="line_20" n="20" break="no"/>νειν</w> τῶι <name type="deity" key="Basileus"><w lemma="θεός">θεῶι</w></name> <w lemma="δύο">δύο</w> <w lemma="δραχμή">δραχμάς</w> καὶ <w lemma="">ὅσ
+	    						
+<lb xml:id="line_21" n="21" break="no"/>α</w> <w lemma="ἐν">ἐν</w> τῆι <objectType key="stele"><name type="authority"><w lemma="στήλη">στήληι</w></name></objectType> <w lemma="ἐγγράφω">ἐνγέγραπται</w> <name type="genericOffering"><w lemma="καθιερόω">κατ
+	    						
+<lb xml:id="line_22" n="22" break="no"/>ιερώθη</w></name> <w lemma="πᾶς">πάντα</w> <w lemma="εἰμί">εἶναι</w> <name type="deity" key="Basileus"><w lemma="βασιλεύς">Βασιλέως</w></name> <name type="epithet" key="Kaunios"><name type="ethnic" key="Kaunios"><w lemma="Καύνιος">Κα
+	    						
+<lb xml:id="line_23" n="23" break="no"/>υνίου</w></name></name> καὶ <name type="deity" key="Arkesimas"><w lemma="Ἀρκεσιμας">Ἀρκεσιμα</w></name> καὶ ὅ τι ἄν <w lemma="ἐκφόριον">ἐχ
+	    						
+<lb xml:id="line_24" n="24" break="no"/>ϕόριον</w> <w lemma="ἐκ">ἐκ</w> <w lemma="οὗτος">τούτων</w> <w lemma="γίγνομαι">γίνηται</w> <name type="sacrifice"><w lemma="θύω">θύειν</w></name> 
+	    						
+<lb xml:id="line_25" n="25"/><w lemma="κατά">κατ'</w> <w lemma="ἕκαστος">ἑκάστην</w> <w lemma="νουμηνία">νουμηνίαν</w> <name type="animal" key="sheep"><w lemma="ἱερεῖον">ἱερεῖον</w></name> 
+	    						
+<lb xml:id="line_26" n="26"/>καὶ <w lemma="κατά">κατ'</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <name type="animal" key="ox"><w lemma="βοῦς">βοῦν</w></name> καὶ <w lemma="ποιέω">ἐποιή
+	    						
+	<lb xml:id="line_27" n="27" break="no"/>σαντο</w> <name type="invocation"><w lemma="ὅρκος">ὅρκους</w></name> <name type="ethnic"><w lemma="ξανθός">Ξάνθιοι</w></name> καὶ οἱ <name type="group"><w lemma="περίοικος">περ
+	    						
+<lb xml:id="line_28" n="28" break="no"/>ίοικοι</w></name> <w lemma="ὅσος">ὅσα</w> <w lemma="ἐν">ἐν</w> τῆι <objectType key="stele"><name type="authority"><w lemma="στήλη">στήληι</w></name></objectType> <w lemma="ἐγγράφω">ἐγγέγρ
+	    						
+<lb xml:id="line_29" n="29" break="no"/>απται</w> <w lemma="ποιέω">ποιήσειν</w> <w lemma="ἐντελής">ἐντελῆ</w> τοῖς <name type="deity" key="Basileus"><name type="deity" key="Arkesimas"><w lemma="θεός">θεο
+	    					
+<lb xml:id="line_30" n="30" break="no"/>ῖς</w></name></name> <w lemma="οὗτος">τούτοις</w> καὶ τῶι <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> καὶ <w lemma="μή">μὴ</w> <w lemma="μετακινέω">μ
+	    						
+<lb xml:id="line_31" n="31" break="no"/>ετακινήσειν</w> <w lemma="μηδαμά">μηδαμὰ</w> <w lemma="μηδέ">μηδ'</w> <w lemma="ἄλλος">ἄλλωι</w> <w lemma="ἐπιτρέπω">ἐ
+	    						
+<lb xml:id="line_32" n="32" break="no"/>πιτρέψειν</w>· ἂν δέ <w lemma="τις">τις</w> <w lemma="μετακινέω">μετακινήση
+	    						
+<lb xml:id="line_33" n="33" break="no"/>ι</w> <name type="punishment"><w lemma="ἁμαρτωλός">ἁμαρτωλὸς</w></name> <w lemma="εἰμί"><choice><corr>ἔ</corr><sic>ξ</sic></choice>στω</w> τῶν <name type="deity" key="Basileus"><name type="deity" key="Arkesimas"><w lemma="θεός">θεῶν</w></name></name> <w lemma="οὗτος">τούτων</w>
+	    								    					
+<lb xml:id="line_34" n="34"/>καὶ <name type="deity" key="Leto"><w lemma="Λητώ">Λητοῦς</w></name> καὶ <name type="deity" key="Apollo"><name type="deity" key="Artemis"><w lemma="ἔγγονος">ἐγγόνων</w></name></name> καὶ <name type="deity" key="Nymphs"><w lemma="νύμφη">Νυμϕῶν</w></name>· 
+
+<lb xml:id="line_35" n="35"/>Πιξόταρος δὲ <name type="authority"><w lemma="κύριος">κύριος</w></name> <w lemma="εἰμί">ἔστω</w>.
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						When Pixodaros the son of Hekatomnos became the satrap of Lycia, he appointed as archons of Lycia, Hieron and Apollodotos, (5) and Artemelis as the administrator of Xanthos. It was resolved by the Xanthians and their neighbours to erect an altar to Basileus Kaunios and Arkesimas, and they chose as priest Simias son of Kondorasis, and (10) Simias' closest relative (or: descendant) for all time, and they granted him (the priest) exemption from the existing (obligations). And the city also gave a field which Kesindelis and Pigres previously worked, together with all that abuts this field (15) and the buildings, to Basileus Kaunios and Arkesimas. And three half-<foreign>minai</foreign> are to be given each year by the city and those who have become manumitted are to pay (20) two drachmae to the god. And everything that is written on the stele is to be consecrated as (the property) of Basileus Kaunios and Arkesimas. And from whatever proceeds which arise from these, a sacrificial animal is to be sacrificed (25) on each new moon, and an ox every year. And the Xanthians and their neighbours have sworn oaths that they will carry out everything exactly as written on the stele, both for these gods (30) and for their priest, and neither to change anything nor to allow anyone to do so. If anyone changes (anything from these dispositions), let him be guilty (in the eyes) of these gods (i.e. Basileus Kaunios and Arkesimas), of Leto and her children, and of the Nymphs; (35) Pixodaros is to be the master (in charge of all these things).  
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+						Lorsque Pixodaros, fils d'Hekatomnos, est devenu satrape de Lycie, il a établi comme archontes de Lycie, Hiéron et Apollodotos, (5) et Artemelis comme administrateur de Xanthos. Il a paru bon aux Xanthiens et à leur voisins d'élever un autel en l'honneur de Basileus Kaunios et d'Arkesimas, et ils ont choisi comme prêtre Simias, fils de Kondorasis, (10) et à l'avenir, celui qui sera le plus proche familier (ou descendant) de Simias, et ils lui ont accordé l'exemption des (obligations) existantes. Et la ville a donné un terrain qu'avaient exploité Kesindelis et Pigrès, et tout ce qui jouxte ce terrain (15) et les habitations pour être la propriété de Basileus Kaunios et d'Arkesimas. Et trois demi-mines seront versées chaque année de la part de la ville et tous ceux qui seront affranchis paieront (20) au dieu deux drachmes. Et tout ce qui est inscrit sur la stèle a été consacré pour appartenir en totalité à Basileus Kaunios et à Arkesimas et, sur toutes les ressources qui en
+découleront, on sacrifiera (25) à chaque nouvelle lune un animal sacrificiel et chaque année un bovin. Et les Xanthiens et leurs voisins ont fait serment d'accomplir exactement pour ces dieux (30) et pour leur prêtre, tout ce qui est consigné sur la stèle, de n'en rien changer et de ne permettre à personne de le faire. Si quelqu'un change (quoi que ce soit à ces dispositions), qu'il soit coupable (aux yeux de) ces dieux (c'est-à-dire Basileus Kaunios et Arkesimas), de Léto et de ses enfants, et des Nymphes. Que Pixodaros soit investi de l'autorité (en ces matières).
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+	<p>This pillar-stele is included in the present Collection as a representative example of the authority of pre-Hellenistic rulers and dynasts to effect measures that have an impact on the development of cults and ritual practice in Greek cities. Specifically, in this case, we have a measure passed by the Xanthians and their neighbours, but clearly under the direct and domineering authority of the Achaemenid satrap of Lycia and Karia, Pixodaros (lines 1-2 and 35). Pixodaros was the third son of Hekatomnos to rule in this capacity (ca. 341/0-336/5 BC), having succeeded his older brothers Mausolus and Idrieus, as well as some of his sisters. On the Hekatomnids, see still esp. Hornblower, and cf. also here <ref target="CGRN_150">CGRN 150</ref> (Labraunda), with line 10. For a partially analogous, later measure from an Attalid king or official, who may have founded a cult, or at least specified the terms for a priesthood, see here <ref target="CGRN_124">CGRN 124</ref> (Pergamon).</p>
+
+	<p>As described above (see Support), the tall pillar (referred to as a stele throughout the text, lines 21 and 28) is a complex, multilingual monument. The two principal and larger faces each preserve one text: one in Greek (the only one included here), and one Lycian; a smaller side includes a shorter Aramaic text also. The Lycian and Aramaic copies of the inscription, more or less versions of the same document, reflect interesting nuances and differences in translation. See Metzger et al. for further details. Other Achaemenid era documents from Asia Minor were presented in multiple languages, often with a copy in Aramaic or another local Anatolian language; for the famous Xanthian "obelisk" as an example of such a multi-lingual document erected in the Letoon, see <bibl type="abbr" n="TAM I">TAM I</bibl> 44 (end of 5th century BC); for another decree of Pixodaros inscribed at Xanthos, more explicitly a measure by the satrap, granting tax-exemptions to the citizens of Xanthos, Tlos, Pinara, and others, see <bibl type="abbr" n="TAM I">TAM I</bibl> 45 (bilingual Lycian-Greek).</p> 
+
+<p>After the preamble of the decree, listing the officials in charge of Lycia and the administrator of Xanthos under the satrapy of Pixodaros (lines 1-6), the content of the Greek inscription is presented as a paratactic series of clauses (i.e. each linked by καὶ ... καὶ), binding rules which are affirmed alternatively in the past tense or in the infinitive. The subjects discussed are, in order: the erection of an altar for Basileus Kaunios and Arkesimas (lines 6-8); the selection of a priest for life, along with his closest male relative (lines 8-12); the grant of landed property and of an annual sum of money from the city in order to provide capital and regular funds for the cult (lines 12-18; explicitly consecrated in lines 20-23); in addition to this, a fee to be paid by slaves manumitted in the sanctuary (lines 18-20); monthly and annual sacrifices organised from the proceeds of the consecrations for the gods (lines 23-26); finally, clauses concerning oaths to be sworn by the Xanthians and their neighbours concerning the rules enacted and a penalty clause for those contravening the oath or the rules (lines 26-34 + 35).</p>
+
+<p>The god called here Basileus Kaunios, literally "Kaunian King", was known more simply as Βασιλεύς ὁ θεός ("King the God") at Kaunos itself (cf. e.g. <bibl type="abbr" n="I.Kaunos">I.Kaunos</bibl> 35, lines C17 and E4; 142, lines 6-7). Cf. Marek for a recent discussion, who proposes an (unconvincing) identification of the god with Apollo. The god is more probably Semitic in origin, cp. for instance Baal, whose name means "Lord" or "Master"; the coins of Kaunos, depicting a baetyl (a sacred stone common in Semitic and Near Eastern cult), as well as several other elements (e.g. Hdt. 1.142 on the presence of foreign gods at Kaunos), may corroborate such an origin for the god. The figure of Arkesimas, perhaps some sort of πάρεδρος of the god, is only attested here in Greek sources; the figure is also attested with the title "King" or "Ruler" on the Lycian side of the stele. This deity otherwise remains enigmatic. What is perhaps most remarkable is that the cult was not introduced to Xanthos by Pixodaros or by the enactment of the present inscription. Indeed,
+there is perhaps evidence for the cult of Basileus Kaunios in a sanctuary at Xanthos earlier, during the Classical period: cf. again <bibl type="abbr" n="TAM I">TAM I</bibl> 44, lines C7-9 (though it remains unclear if the passage really speaks of sanctuary at Xanthos or one at Kaunos itself, cf. the Lycian phrase <foreign>se Xbide</foreign> in line C7). Perhaps tellingly then, the measure enacted here only proposed to erect an altar for the god and to consecrate various properties to the god. Though we cannot be sure, the Xanthians' action, under Pixodaros' rulership, may thus have represented a form of "refoundation" or revitalisation of the cult at Xanthos. In any case, the propagation or development of the cult may have been especially favoured by the Hekatomnids. In the Hekatomnid sphere of influence, evidence for the cult of the god is also known at Erythrai (<bibl type="abbr" n="SEG">SEG</bibl> 37, 921, lines 6-7, with the suggestion of Pleket—early 4th century BC), and later in the Hellenistic
+period on Kos (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 547). For the dissemination of the cult of another Karian god in Lycia, cf. here the case of Zeus Labraundos at Patara, <ref target="CGRN_129">CGRN 129</ref>.
+</p>
+
+<p>The city of Xanthos regularly inscribed decrees in the Letoon, a nearby sanctuary of Leto, Apollo and Artemis (but also the Nymphs and other gods), originally located on an island near the mainland. On the site, see Metzger et al. and now Écochard et al. The measure also involved the περιοίκοι, i.e. people who were not officially Xanthian citizens, but rather lived in the surrounding countryside, the nearby unincorporated villages and communities; they probably constituted a strongly Lycian-speaking population group. On περιοίκοι and related local communities in Asia Minor, the bibliography is vast, but see esp. Debord (also on the structure and function of local sanctuaries in Anatolia), Papazoglou, or more recently, e.g. Thonemann (on the Pedieis, "people of the plain" at Priene); cp. also here <ref target="CGRN_14">CGRN 14</ref>, lines 9-12 (but from Gortyn in Crete).</p>
+							
+<p>Lines 8-12: For lifetime priesthoods, affirmed in perpetuity to the eldest male relative or descendant, see  here <ref target="CGRN_96">CGRN 96</ref> (Kos), lines 24-25, and <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 19-20. On tax exemptions granted to priestly personnel, see here e.g. <ref target="CGRN_124">CGRN 124</ref> (Pergamon), lines 15-16, and <ref target="CGRN_176">CGRN 176</ref> (Priene), line 6.</p>
+						
+<p>Lines 12-18 (and 20-23): For the consecration of landed property and other revenues during the act of foundation (or refoundation) of a cult, see again  <ref target="CGRN_96">CGRN 96</ref> (Kos), lines 2-5, and <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 15-18.</p>
+
+<p>Lines 18-20: On manumissions, which typically took place under the auspices of a divine figure, see Darmezin. The measure of a small fee to be paid to the god's treasury here seems designed to provide a regular supply of income, on top of the sizeable half-<foreign>mina</foreign> contributed annually by the city of Xanthos. No records of manumission are currently attested from the Letoon at Xanthos.</p>
+
+<p>Lines 23-26: Sacrifices at the beginning of every month were organised in honour of the joint cult of Basileus Kaunios and Arkesimas: this apparently consisted in only a single animal (probably an adult sheep) for both gods. Regrettably, little is otherwise known about the modalities of the cult for Basileus Kaunios. Once a year, but at an uncertain date (perhaps a special festival?), an ox was also sacrificed for both gods.</p>
+
+<p>Lines 26-34: The final clauses of the decree are concerned with affirming binding oaths that have already been sworn by the Xanthians and their neighbours concerning the rules enacted. To this is added a penalty clause for those contravening the oath or the rules, or even allowing someone else to subvert the rules. For similar "curse" clauses, invoking divine punishment on those who transgress the rules of the cult, and which are especially common in regulations from Asia Minor, see here <ref target="CGRN_71">CGRN 71</ref> (Metropolis), lines 11-14, and <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 51-52.</p>
+
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

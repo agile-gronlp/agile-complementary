@@ -1,0 +1,2489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_45" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+                    <idno type="filename">CGRN 45</idno>: Fragments of the civic <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> of Athens</title>
+				<author>Jan-Mathieu Carbon</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+	<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+	<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+	<msIdentifier>
+		<repository>n/a</repository>
+	</msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc>
+				<support>
+                                    <p>Thirteen fragments from a series of <rs type="objectType" key="stele">stelai</rs>, all quite badly preserved. Where it is possible to confirm this, all appear to be inscribed on both faces. For a full description, see Lambert (358-362) and Gawlinski (for fr. 5).</p>
+				</support>
+			</supportDesc>
+			<layoutDesc>
+				<layout>
+                                    <p>Face A is inscribed in the Ionic alphabet and, usually, in a precise stoichedon. Letters: <height unit="cm">1</height> on average.</p>
+					<p>Face B is in the earlier Attic alphabet and what Lambert describes as "rough stoichedon". Letters: <height unit="mm">7</height>.</p>
+					<p>For punctuation and paragraph markers on the stele, cf. Lambert, 395-396.</p>
+				</layout>
+			</layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p>Face A: <origDate notBefore="-0403" notAfter="-0399">403/2-400/399 BC</origDate>
+                            </p>
+			<p>Face B: <origDate notBefore="-0410" notAfter="-0404">ca. 410-404 BC</origDate>
+                            </p>
+			<desc>Justification: context and lettering (Lambert). The later face (A) must date shortly after the reform of Eukleides in 403/2 BC, when the Ionic script was adopted in Athens; for further details, see also Commentary.</desc>
+		</origin>
+		<provenance>
+                            <p>
+                                <placeName type="ancientFindspot" key="Athens" n="Attica">
+                                    <ref target="http://pleiades.stoa.org/places/579885/" type="external">Athens</ref>
+                                </placeName>. The fragments have all been found in or around the Agora. The stelai are thought to have been displayed in the Stoa Basileios, but a publication concerning the precise archaeological context and possible reconstruction of a monument of which the stelai may have formed a part is still forthcoming (by T.L. Shear; see also Commentary below). Consult Lambert and Gawlinksi for the full available details, also on the current locations of the fragments.</p>
+		</provenance>
+	</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2017 by JM Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+
+<p>Edition here based on <bibl type="author_date" n="Lambert 2002">Lambert 2002</bibl>, with a comprehensive study and phs. A further fragment (here included as Faces A-B, fragment 5) was subsequently published by <bibl type="author_date" n="Gawlinski 2007">Gawlinski 2007</bibl> (we follow this text except in Face B, fr. 5, line 11a, where we adopt the reading of Lambert in AIO). Face A is conventionally used to designate the more recent face in the Ionic alphabet and face B the older face in Attic script; we retain this numbering for the sake of coherence. We do not reproduce columns where only a few minor traces are preserved (such as e.g. Face, Fr. 5 and 6, col. II; or Face B, fr. 8). However, we also include the lines of Face B, fragment 4, which have been preliminary published by <bibl type="author_date" n="Clinton 1994">Clinton 1994</bibl>, and still remain to be fully published.</p>
+
+<p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 15-16; Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 9, for fr. 10 + 11; Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 10, for fr. 3 + 8; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 17 for fr. 1+6; <bibl type="author_date" n="Rutherford 2013">Rutherford 2013</bibl>: 375-377 B7 (on Face A, fr. 1, cols. 1-3, below the line); Lambert, AIO <ref target="https://www.atticinscriptions.com/inscription/CGRN/45a" type="external">Face A</ref> and <ref target="https://www.atticinscriptions.com/inscription/CGRN/45b" type="external">Face B</ref>, with another English translation and commentary.</p>
+
+<p>Further bibliography: <bibl type="author_date" n="Dow 1941">Dow 1941</bibl>; 
+<bibl type="author_date" n="Dow 1960">Dow 1960</bibl>; 
+<bibl type="author_date" n="Dow 1961">Dow 1961</bibl>; 
+<bibl type="author_date" n="Ruschenbusch 1966">Ruschenbusch 1966</bibl>; 
+<bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>; 
+<bibl type="author_date" n="Healey 1984">Healey 1984</bibl>; 
+<bibl type="author_date" n="Georgoudi 1988b">Georgoudi 1988b</bibl>; 
+<bibl type="author_date" n="Rhodes 1991">Rhodes 1991</bibl>; 
+<bibl type="author_date" n="Parker 1996">Parker 1996</bibl>; 
+<bibl type="author_date" n="Pirenne-Delforge 2004">Pirenne-Delforge 2004</bibl>; 
+<bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>; 
+<bibl type="author_date" n="Rigsby 2010">Rigsby 2010</bibl>; 
+<bibl type="author_date" n="Shear 2011">Shear 2011</bibl>; 
+<bibl type="author_date" n="Papazarkadas 2011">Papazarkadas 2011</bibl>;
+<bibl type="author_date" n="Lebreton 2015">Lebreton 2015</bibl>; 
+<bibl type="author_date" n="Leão - Rhodes 2015">Leão - Rhodes 2015</bibl>; 
+<bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>; 
+<bibl type="author_date" n=" Canevaro - Harris 2018">Canevaro - Harris 2018</bibl>: 41-44.</p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+
+<ab subtype="Face" n="A.1.3">Face A, Fragment 1, Column 3 (above the line) 
+<lb/>
+                    <add rend="blank" quantity="30"/> <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_A.1.3.1" n="A.1.3.1"/>
+                    <add rend="blank" quantity="30"/> <gap reason="lost" unit="character" quantity="4"/>
+                    <orig>η</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.1.3.2" n="A.1.3.2"/>
+                    <gap reason="lost" unit="character" quantity="3"/>Δ<gap reason="lost" unit="character" quantity="1"/>U+10142 <add rend="blank" quantity="14"/>
+                    <orig>Σε</orig>
+                    <gap reason="lost" quantity="7" unit="character" precision="low"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.1.3.3" n="A.1.3.3"/>
+                    <add rend="blank" quantity="29"/>
+                    <w lemma="πέμπτος">πέμπτηι</w> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.1.3.4" n="A.1.3.4"/>
+                    <add rend="blank" quantity="29"/>
+                    <w lemma="ἐκ">ἐκ</w> τῶν <w lemma="κατά">κατὰ</w> <name type="month">
+                        <w lemma="μείς">μ<unclear>ῆ</unclear>να</w>
+                    </name> 
+
+<lb xml:id="line_A.1.3.5" n="A.1.3.5"/>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <add rend="blank" quantity="22"/> <name type="deity" key="Erechtheus">
+                        <w lemma="Ἐρεχθεύς">Ἐρεχθεῖ</w>
+                    </name> <name type="animal" key="sheep">
+                        <name type="age">
+                            <name type="gender">
+                                <w lemma="ἀρνειός">ἀρνεὼς</w>
+                            </name>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_A.1.3.6" n="A.1.3.6"/>
+                    <add rend="blank" quantity="29"/>
+                    <w lemma="ἐκ">ἐκ</w> τῶν <name type="personnel">
+                        <w lemma="φυλοβασιλικά">φυλο 
+
+<lb xml:id="line_A.1.3.7" n="A.1.3.7" break="no"/>
+                            <add rend="blank" quantity="29"/>βασιλικῶν</w>
+                    </name> 
+
+<lb xml:id="line_A.1.3.8" n="A.1.3.8"/>
+                    <add rend="blank" quantity="32"/>
+                    <name type="personnel">
+                        <w lemma="φυλοβασιλεύς">φυλοβασιλ<unclear>εῦσ</unclear>ι</w>
+                    </name> 
+
+<lb xml:id="line_A.1.3.9" n="A.1.3.9"/>
+                    <add rend="blank" quantity="32"/>
+                    <gap reason="lost" unit="character" quantity="6"/>
+                    <orig>
+                        <unclear>Ι</unclear>
+                    </orig>
+                    <gap reason="lost" quantity="3" unit="character" precision="low"/> 
+
+<lb xml:id="line_A.1.3.10" n="A.1.3.10"/>
+                    <gap reason="lost" unit="character" extent="unknown"/> <add rend="blank" quantity="24"/>
+                    <name type="sacrifice">
+                        <w lemma="νηφάλιος">
+                            <supplied reason="lost">νηφά</supplied>
+                            <unclear>λιο</unclear>ν</w>
+                    </name> <space extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.1.3.11" n="A.1.3.11"/>
+                    <gap reason="lost" unit="character" extent="unknown"/> <add rend="blank" quantity="24"/>
+                    <gap reason="lost" unit="character" quantity="2"/> <name type="quality">
+                        <w lemma="ἡμεδαπός">
+                            <supplied reason="lost">ἡμεδαπῶ</supplied>
+                            <unclear>ν</unclear>
+                        </w>
+                    </name> (?) <name type="animal" key="swine">
+                        <w lemma="ὗς">
+                            <unclear>ὗς</unclear>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.1.3.12" n="A.1.3.12"/>
+                    <gap reason="lost" unit="character" quantity="2"/>|<gap reason="lost" unit="character" extent="unknown"/> <add rend="blank" quantity="17"/>
+                    <gap reason="lost" unit="character" quantity="7"/>
+                    <gap reason="lost" unit="character" extent="unknown"/> 
+
+<lb xml:id="line_A.1.3.13" n="A.1.3.13"/>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <add rend="blank" quantity="24"/> <gap reason="lost" unit="character" quantity="2"/> <name type="quality">
+                        <w lemma="ἡμεδαπός">
+                            <supplied reason="lost">ἡμε</supplied>
+                            <unclear>δ</unclear>απ<unclear>ῶ</unclear>ν</w>
+                    </name> <name type="animal" key="swine">
+                        <w lemma="ὗς">ὗς</w>
+                    </name> 
+
+<lb xml:id="line_A.1.3.14" n="A.1.3.14"/>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <add rend="blank" quantity="24"/> <gap reason="lost" unit="character" extent="unknown"/> 
+
+<lb xml:id="line_A.1.3.15" n="A.1.3.15"/>
+                    <gap reason="lost" unit="character" extent="unknown"/>
+                    <add rend="blank" quantity="24"/> <gap reason="lost" unit="character" quantity="8"/>
+                    <orig>Ι</orig>
+                    <gap reason="lost" unit="character" extent="unknown"/> 
+
+<lb xml:id="line_A.1.3.16" n="A.1.3.16"/>
+                    <gap reason="lost" unit="character" extent="unknown"/> <add rend="blank" quantity="24"/>
+                    <gap reason="lost" unit="character" quantity="7"/>
+                    <orig>Σ</orig> <space extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.1.3.17" n="A.1.3.17"/>
+                    <space extent="unknown" unit="character"/> <add rend="blank" quantity="24"/>
+                    <gap reason="lost" unit="character" quantity="8"/>
+                    <orig>Λ</orig>
+                    <gap reason="lost" unit="character" extent="unknown"/> 
+
+<lb xml:id="line_A.1.3.18" n="A.1.3.18"/>
+                    <gap reason="lost" quantity="2" unit="character"/>
+                    <num value="0.5">U+10141</num> <add rend="blank" quantity="24"/>
+                    <gap reason="lost" unit="character" extent="unknown"/> 
+
+<lb xml:id="line_A.1.3.19" n="A.1.3.19"/>
+                    <gap reason="lost" unit="character" extent="unknown"/> <add rend="blank" quantity="24"/>
+                    <gap reason="lost" unit="character" extent="unknown"/> 
+
+<lb xml:id="line_A.1.3.20" n="A.1.3.20"/>
+                    <gap reason="lost" unit="character" extent="unknown"/> <add rend="blank" quantity="24"/>
+                    <gap reason="lost" unit="character" quantity="5"/> <supplied reason="lost">π</supplied>εντ<gap reason="lost" unit="character" extent="unknown"/> 
+
+<lb xml:id="line_A.1.3.21" n="A.1.3.21"/>
+                    <gap reason="lost" unit="character" quantity="2"/>
+                    <num value="0.5">U+10141</num> <add rend="blank" quantity="24"/>
+                    <gap reason="lost" unit="character" quantity="7" precision="low"/>
+                    <space extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.1.3.22" n="A.1.3.22"/>
+                    <num value="1">U+10142</num> <add rend="blank" quantity="27"/>
+                    <name type="liquid">
+                        <w lemma="οἶνος">οἴνο</w>
+                    </name> <w lemma="unclear">πεντή<unclear>κ</unclear>
+                    </w>
+                    <gap reason="lost" unit="character" extent="unknown"/> 
+
+<lb xml:id="line_A.1.3.23" n="A.1.3.23"/> <add rend="blank" quantity="29"/>
+                    <w lemma="ἕκτος">ἕκτηι</w> <space extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.1.3.24" n="A.1.3.24"/> <add rend="blank" quantity="30"/>
+                    <w lemma="ἐκ">ἐκ</w> τῶν <w lemma="μή">μὴ</w> <name type="authority">
+                        <w lemma="ῥητός">ῥητῆι</w>
+                    </name> <space extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.1.3.25" n="A.1.3.25"/> <add rend="blank" quantity="32"/>
+                    <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">Ἀθηναίαι</w>
+                    </name> <space extent="unknown" unit="character"/> 
+
+<lb/>
+                    <add rend="blank" quantity="31"/> <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="A.1.1-3">Face A, Fragment 1, Columns 1-2 and Column 3, lines 26-30 (below the line) 
+
+<lb xml:id="line_A.1.1-2.26" n="A.1.1-2.26"/>
+                    <gap reason="lost" quantity="2" unit="character" precision="low"/> <w lemma="σημαίνω">
+                        <unclear>σ</unclear>η<unclear>μ</unclear>αίν</w>
+                    <gap reason="lost" quantity="4" unit="character"/> <w lemma="κατά">
+                        <unclear>κ</unclear>ατὰ</w> τὴ<unclear>ν</unclear> 
+
+<lb xml:id="line_A.1.1-2.27" n="A.1.1-2.27"/>
+                    <gap reason="lost" quantity="2" unit="character" precision="low"/>
+                    <orig>Η</orig>
+                    <gap reason="lost" unit="character" quantity="1"/>
+                    <unclear>Ι</unclear>Ν<gap reason="lost" quantity="5" unit="character" precision="low"/> <name type="locality">
+                        <w lemma="ἅρμα">
+                            <supplied reason="lost">Ἅ</supplied>ρματος</w>
+                    </name> 
+
+<lb/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_A.1.3.26" n="A.1.3.26"/> <add rend="blank" quantity="32"/>
+                    <gap reason="lost" unit="character" quantity="3" precision="low"/> <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">
+                            <supplied reason="lost">Ἀπό</supplied>
+                            <unclear>λ</unclear>λωνι</w>
+                    </name> 
+
+<lb xml:id="line_A.1.3.27" n="A.1.3.27"/> <add rend="blank" quantity="32"/>
+                    <w lemma="ὅδε">τάδε</w> <w lemma="ἕπομαι">ἕπεσθαι</w> τῶι <name type="object">
+                        <w lemma="κάνεον">καν<supplied reason="lost">ῶι</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.1.3.28" n="A.1.3.28"/> <add rend="blank" quantity="32"/>
+                    <name type="object">
+                        <w lemma="τρίπους">τρίποδα</w>
+                    </name>, <name type="object">
+                        <w lemma="ἐπιτοξίς">ἐπιτοξίδας</w>
+                    </name>, 
+
+<lb xml:id="line_A.1.3.29" n="A.1.3.29"/> <add rend="blank" quantity="32"/>
+                    <name type="object">
+                        <w lemma="στέμμα">στέμμα</w>
+                    </name>, <name type="object">
+                        <w lemma="προγόνιος">προγόνιο<unclear>ν</unclear>
+                        </w>
+                    </name>, 
+
+<lb xml:id="line_A.1.3.30" n="A.1.3.30"/> <add rend="blank" quantity="32"/>
+                    <name type="object">
+                        <w lemma="λημνίσκος">
+                            <supplied reason="lost">λημν</supplied>ίσκον</w>
+                    </name> (?), <name type="object">
+                        <w lemma="σφαῖρα">σφαῖρ<unclear>α</unclear>
+                            <supplied reason="lost">ν</supplied>
+                        </w>
+                    </name> (?) 
+
+<lb/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="A, fr. 2">Face A, Fragment 2 
+
+<lb xml:id="line_A.2.1" n="A.2.1"/>
+                    <w lemma="ὅδε">
+                        <supplied reason="lost">τάδε</supplied>
+                    </w> <supplied reason="lost">τὸ</supplied> <w lemma="ἕτερος">
+                        <supplied reason="lost">ἕτερον</supplied>
+                    </w> <w lemma="ἔτος">
+                        <supplied reason="lost">ἔτος</supplied>
+                    </w> <name type="sacrifice">
+                        <w lemma="θύω">
+                            <supplied reason="lost">θ</supplied>
+                            <unclear>υ</unclear>έτ<supplied reason="lost">αι</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.2.2" n="A.2.2"/>
+                    <add rend="blank" quantity="26"/> <gap reason="lost" unit="character" quantity="2"/> <w lemma="unclear">
+                        <unclear>δ</unclear>εκάτ<supplied reason="lost">ηι</supplied>
+                    </w> 
+
+<lb xml:id="line_A.2.3" n="A.2.3"/>
+                    <add rend="blank" quantity="28"/> <w lemma="ἐκ">
+                        <supplied reason="lost">ἐκ (?)</supplied>
+                    </w> <w lemma="νέος">νέων</w> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.4" n="A.2.4"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="26"/> <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">
+                            <supplied reason="lost">Ἀ</supplied>πό<unclear>λ</unclear>
+                            <supplied reason="lost">λωνι</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.5" n="A.2.5"/>
+                    <add rend="blank" quantity="35"/>
+                    <name type="deity" key="Leto">
+                        <w lemma="Λητώ">
+                            <supplied reason="lost">Λη</supplied>
+                            <unclear>τ</unclear>ο<supplied reason="lost">ῖ</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.6" n="A.2.6"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="27"/>
+                    <name type="animal" key="generic">
+                        <name type="quality">
+                            <name type="gender">
+                                <w lemma="κριτός">
+                                    <supplied reason="lost">κρ</supplied>ιτ<supplied reason="lost">ήν (?)</supplied>
+                                </w>
+                            </name>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_A.2.7" n="A.2.7"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="27"/>
+                    <name type="deity" key="Kourotrophos">
+                        <w lemma="κουροτρόφος">Κορο<supplied reason="lost">τρόφωι</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.8" n="A.2.8"/>
+                    <add rend="blank" quantity="35"/>
+                    <gap reason="lost" unit="character" quantity="2"/>
+                    <orig>
+                        <unclear>σ</unclear>τ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.9" n="A.2.9"/>
+                    <add rend="blank" quantity="35"/>
+                    <gap reason="lost" unit="character" quantity="3"/>
+                    <orig>α<unclear>τ</unclear>
+                    </orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.10" n="A.2.10"/>
+                    <add rend="blank" quantity="35"/>
+                    <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">
+                            <supplied reason="lost">Δ</supplied>ιὶ</w>
+                    </name> <name type="epithet" key="Nemeios">
+                        <w lemma="Νεμέα">Νε<supplied reason="lost">μέωι (?)</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.2.11" n="A.2.11"/>
+                    <num value="17">
+                        <supplied reason="lost">ΔU+10143U+10142U+10142 (?)</supplied>
+                    </num> <add rend="blank" quantity="14"/>
+                    <name type="animal" key="sheep">
+                        <name type="gender">
+                            <w lemma="κριός">
+                                <supplied reason="lost">κ</supplied>
+                                <unclear>ρι</unclear>ὸ<supplied reason="lost">ς</supplied>
+                            </w>
+                        </name>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.12" n="A.2.12"/>
+                    <add rend="blank" quantity="35"/>
+                    <gap reason="lost" unit="character" quantity="2"/>
+                    <orig>
+                        <unclear>ε</unclear>τ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.13" n="A.2.13"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="26"/> <supplied reason="lost">τ</supplied>ῶν <orig>ν</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.14" n="A.2.14"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="27"/>
+                    <name type="liquid">
+                        <w lemma="μέλι">
+                            <unclear>μ</unclear>έλι<unclear>τ</unclear>
+                            <supplied reason="lost">ος</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.15" n="A.2.15"/>
+                    <add rend="blank" quantity="35"/>
+                    <gap reason="lost" unit="character" quantity="2"/>
+                    <orig>ΣΚ<unclear>Ω</unclear>
+                    </orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.16" n="A.2.16"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="28"/>
+                    <name type="liquid">
+                        <w lemma="ἔλαιον">
+                            <supplied reason="lost">ἐ</supplied>λα<unclear>ί</unclear>
+                            <supplied reason="lost">ο</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.17" n="A.2.17"/>
+                    <add rend="blank" quantity="35"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.18" n="A.2.18"/>
+                    <add rend="blank" quantity="35"/>
+                    <gap reason="lost" unit="character" quantity="1"/>
+                    <orig>
+                        <unclear>Ε</unclear>
+                    </orig>
+                    <gap reason="lost" unit="character" quantity="1"/>
+                    <orig>
+                        <unclear>Γ</unclear>
+                    </orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.19" n="A.2.19"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="26"/> <unclear>πε</unclear>ντ<gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.20" n="A.2.20"/>
+                    <add rend="blank" quantity="35"/>
+                    <gap reason="lost" unit="character" quantity="2"/>
+                    <orig>νδ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.21" n="A.2.21"/>
+                    <add rend="blank" quantity="35"/>
+                    <gap reason="lost" unit="character" quantity="2"/>
+                    <orig>
+                        <unclear>εγ</unclear>
+                    </orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.2.22" n="A.2.22"/>
+                    <add rend="blank" quantity="35"/>
+                    <gap reason="lost" quantity="3" unit="character"/>
+                    <orig>
+                        <unclear>μ</unclear>
+                    </orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/>
+                    <add rend="blank" quantity="35"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab> <ab subtype="Face" n="A, fr. 3">Face A, Fragment 3, Columns 1-3 
+
+<lb xml:id="line_A.3.1" n="A.3.1"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="6"/> <name type="liquid">
+                        <w lemma="οἶνος">
+                            <supplied reason="lost">οἴνο</supplied>
+                        </w>
+                    </name> <w lemma="ἕξ">ἓξ</w> <w lemma="χοῦς">χόες</w> 
+
+<lb xml:id="line_A.3.2" n="A.3.2"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="6"/> <name type="liquid">
+                        <w lemma="ἔλαιον">
+                            <supplied reason="lost">ἐλαί</supplied>
+                            <unclear>ο</unclear>
+                        </w>
+                    </name> <w lemma="χοῦς">χο̑ς</w> 
+
+<lb xml:id="line_A.3.3" n="A.3.3"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="5"/> <name type="liquid">
+                        <w lemma="μέλι">
+                            <supplied reason="lost">μέλι</supplied>
+                            <unclear>τ</unclear>ο<unclear>ς</unclear>
+                        </w>
+                    </name> <w lemma="ἡμίχοον">ἡμίχον</w> 
+
+<lb xml:id="line_A.3.4" n="A.3.4"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="6"/> <name type="personnel">
+                        <w lemma="ἱερώσυνος">
+                            <supplied reason="lost">ἱερεώ</supplied>
+                            <unclear>σ</unclear>υνα</w>
+                    </name> 
+
+<lb xml:id="line_A.3.5" n="A.3.5"/>
+                    <add rend="blank" quantity="14"/>
+                    <w lemma="δεύτερος">
+                        <supplied reason="lost">δευτέραι</supplied>
+                    </w> <w lemma="φθίω">φθίνοντος</w> 
+
+<lb xml:id="line_A.3.6" n="A.3.6"/>
+                    <add rend="blank" quantity="18"/>
+                    <w lemma="ἐκ">
+                        <supplied reason="lost">ἐκ</supplied>
+                    </w> <supplied reason="lost">τῶν</supplied> <w lemma="κατά">
+                        <supplied reason="lost">κα</supplied>τὰ</w> <name type="month">
+                        <w lemma="μείς">μῆνα</w>
+                    </name> 
+
+<lb xml:id="line_A.3.7" n="A.3.7"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="12"/> <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">
+                            <supplied reason="lost">Ἀθηνά</supplied>αι</w>
+                    </name> <name type="object">
+                        <w lemma="φᾶρος">φᾶρος</w>
+                    </name> 
+
+<lb xml:id="line_A.3.8" n="A.3.8"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="12"/> <name type="portion">
+                        <w lemma="ἔριον">
+                            <supplied reason="lost">ἐρίων (?)</supplied>
+                        </w>
+                    </name> <name type="purification">
+                        <w lemma="καθαρός">καθαρῶν</w>
+                    </name> 
+
+<lb xml:id="line_A.3.9" n="A.3.9"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="12"/> <gap reason="lost" unit="character" quantity="5"/>ρες 
+
+<lb xml:id="line_A.3.10" n="A.3.10"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="12"/> <gap reason="lost" unit="character" quantity="5"/>ρες 
+
+<lb xml:id="line_A.3.11" n="A.3.11"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="12"/> <gap reason="lost" unit="character" quantity="5"/>ιον 
+
+<lb xml:id="line_A.3.12" n="A.3.12"/>
+                    <add rend="blank" quantity="20"/>
+                    <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">
+                            <supplied reason="lost">Ἀθηνα</supplied>ίαι</w>
+                    </name> 
+
+<lb xml:id="line_A.3.13" n="A.3.13"/>
+                    <num value="12">
+                        <supplied reason="lost">ΔU+10142U+10142</supplied>
+                    </num> <add rend="blank" quantity="8"/>
+                    <name type="epithet" key="Ergane">
+                        <w lemma="ἐργάνη">
+                            <supplied reason="lost">Ἐργάν</supplied>ηι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶς</w>
+                    </name> 
+
+<lb xml:id="line_A.3.14" n="A.3.14"/>
+                    <add rend="blank" quantity="20"/>
+                    <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">
+                            <supplied reason="lost">Ἀθηνά</supplied>αι</w>
+                    </name> (?) <w lemma="πρός">πρὸς</w> 
+
+<lb xml:id="line_A.3.15" n="A.3.15"/>
+                    <num value="12">
+                        <supplied reason="lost">ΔU+10142U+10142</supplied>
+                    </num> <add rend="blank" quantity="8"/>
+                    <gap reason="lost" quantity="4" unit="character"/>ον <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶς</w>
+                    </name> 
+
+<lb xml:id="line_A.3.16" n="A.3.16"/>
+                    <add rend="blank" quantity="20"/>
+                    <w lemma="κεφάλαιος">
+                        <supplied reason="lost">κεφάλ</supplied>
+                        <unclear>α</unclear>ιον</w> 
+
+<lb xml:id="line_A.3.17" n="A.3.17"/>
+                    <add rend="blank" quantity="20"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <num value="1.2">U+10142ΙΙ</num> 
+
+<lb xml:id="line_A.3.18" n="A.3.18"/>
+                    <add rend="blank" quantity="20"/> <space quantity="1" unit="line"/> 
+
+<lb xml:id="line_A.3.19" n="A.3.19"/>
+                    <add rend="blank" quantity="20"/>
+                    <name type="month">
+                        <w lemma="Σκιροφοριών">
+                            <supplied reason="lost">Σκιροφορι</supplied>ῶνος</w>
+                    </name> 
+
+<lb xml:id="line_A.3.20" n="A.3.20"/>
+                    <add rend="blank" quantity="20"/>
+                    <gap reason="lost" quantity="7" unit="character"/> <w lemma="ἵστημι">
+                        <supplied reason="lost">ἱ</supplied>σταμένο</w> 
+
+<lb xml:id="line_A.3.21" n="A.3.21"/>
+                    <add rend="blank" quantity="20"/>
+                    <w lemma="ἐκ">
+                        <supplied reason="lost">ἐκ</supplied>
+                    </w> <supplied reason="lost">τῶν</supplied> <w lemma="κατά">
+                        <supplied reason="lost">κα</supplied>τὰ</w> <name type="month">
+                        <w lemma="μείς">μῆνα</w>
+                    </name> 
+
+<lb xml:id="line_A.3.22" n="A.3.22"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">
+                            <supplied reason="lost">Ἀθηνά</supplied>αι</w>
+                    </name> <name type="animal" key="ox">
+                        <w lemma="βοῦς">βο̑ς</w>
+                    </name> <name type="quality">
+                        <name type="gender">
+                            <w lemma="κριτός">κρι<unclear>τ</unclear>ή</w>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_A.3.23" n="A.3.23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="11"/> <name type="personnel">
+                        <w lemma="ἱερώσυνος">
+                            <supplied reason="lost">ἱερε</supplied>
+                            <unclear>ώ</unclear>συνα</w>
+                    </name> 
+
+<lb xml:id="line_A.3.24" n="A.3.24"/>
+                    <num value="3">
+                        <supplied reason="lost">U+10142U+10142U+10142</supplied>
+                    </num> <add rend="blank" quantity="8"/>
+                    <name type="deity" key="Kourotrophos">
+                        <w lemma="κουροτρόφος">
+                            <supplied reason="lost">Κοροτ</supplied>ρό<unclear>φ</unclear>ωι</w>
+                    </name> <name type="animal" key="swine">
+                        <name type="age">
+                            <w lemma="χοῖρος">χοῖρος</w>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_A.3.25" n="A.3.25"/>
+                    <add rend="blank" quantity="20"/>
+                    <gap reason="lost" quantity="4" unit="character"/>ρωι <name type="vegetal">
+                        <w lemma="κριθή">κριθῶν</w>
+                    </name> 
+
+<lb xml:id="line_A.3.26" n="A.3.26"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="12"/> <w lemma="μέδιμνος">
+                        <supplied reason="lost">μέδι</supplied>
+                        <unclear>μ</unclear>νος</w> 
+
+<lb xml:id="line_A.3.27" n="A.3.27"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="11"/> <name type="liquid">
+                        <w lemma="οἶνος">
+                            <supplied reason="lost">οἴνο</supplied>
+                        </w>
+                    </name> <w lemma="ἀμφορεύς">
+                        <supplied reason="lost">ἀ</supplied>
+                        <unclear>μ</unclear>φορεύς</w> 
+
+<lb xml:id="line_A.3.28" n="A.3.28"/>
+                    <add rend="blank" quantity="20"/>
+                    <gap reason="lost" quantity="5" unit="character" precision="low"/> <w lemma="ἵστημι">
+                        <supplied reason="lost">ἱστα</supplied>μένο</w> 
+
+<lb xml:id="line_A.3.29" n="A.3.29"/>
+                    <add rend="blank" quantity="20"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_A.3.30" n="A.3.30"/>(cols. 2-3) <add rend="blank" quantity="2"/>
+                    <w lemma="ὅδε">τάδε</w> τὸ <w lemma="ἕτερος">ἕτερον</w> <w lemma="ἔτος">ἔτος</w> <w lemma="θύω">θυέται</w> <orig>Α</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.3.31" n="A.3.31"/>
+                    <add rend="blank" quantity="20"/>
+                    <name type="month">
+                        <w lemma="Ἑκατομβαιών">Ἑκατομβαιῶνος</w>
+                    </name> 
+
+<lb xml:id="line_A.3.32" n="A.3.32"/>
+                    <add rend="blank" quantity="21"/>
+                    <w lemma="πέμπτος">πέμπτηι</w> <w lemma="ἐπί">ἐπὶ</w> <w lemma="δέκα">δέκα</w> 
+
+<lb xml:id="line_A.3.33" n="A.3.33"/>
+                    <add rend="blank" quantity="21"/>
+                    <w lemma="ἐκ">ἐκ</w> τῶν <name type="personnel">
+                        <w lemma="φυλοβασιλικά">φυλο 
+
+<lb xml:id="line_A.3.34" n="A.3.34" break="no"/>
+                            <add rend="blank" quantity="21"/>βασιλικῶν</w>
+                    </name> 
+
+<lb xml:id="line_A.3.35" n="A.3.35"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="group">
+                        <w lemma="Γελέοντες">Γλεόντων</w>
+                    </name> <name type="group">
+                        <w lemma="φυλή">φυλῆι</w>
+                    </name> 
+
+<lb xml:id="line_A.3.36" n="A.3.36"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="group">
+                        <w lemma="λευκοταινίος">Λευκοταινίων</w>
+                    </name> 
+
+<lb xml:id="line_A.3.37" n="A.3.37"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="group">
+                        <w lemma="τριττύς">τριττύϊ</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name> 
+
+<lb xml:id="line_A.3.38" n="A.3.38"/>
+                    <num value="4">U+10142U+10142U+10142U+10142</num> <add rend="blank" quantity="9"/>
+                    <name type="age">
+                        <w lemma="λειπογνώμων"/>λειπογνώμονα</name>
+
+<lb xml:id="line_A.3.39" n="A.3.39"/>
+                    <num value="4.2">U+10142U+10142U+10142U+10142ΙΙ</num> <add rend="blank" quantity="7"/>
+                    <name type="personnel">
+                        <w lemma="ἱερώσυνος">ἱερεώ<unclear>σ</unclear>υνα</w>
+                    </name> 
+
+<lb xml:id="line_A.3.40" n="A.3.40"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="personnel">
+                        <w lemma="φυλοβασιλεύς">φυλοβ<supplied reason="lost">α</supplied>σιλεῦσι</w>
+                    </name> 
+
+<lb xml:id="line_A.3.41" n="A.3.41"/>
+                    <num value="1">U+10142</num> <add rend="blank" quantity="18"/>
+                    <name type="portion">
+                        <w lemma="νῶτον">νώτο</w>
+                    </name> 
+
+<lb xml:id="line_A.3.42" n="A.3.42"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="personnel">
+                        <w lemma="κῆρυξ">κήρυκι</w>
+                    </name> <name type="portion">
+                        <w lemma="ὦμος">ὤμο</w>
+                    </name> 
+
+<lb xml:id="line_A.3.43" n="A.3.43"/>
+                    <num value="4">ΙΙΙΙ</num> <add rend="blank" quantity="15"/>
+                    <name type="portion">
+                        <w lemma="πούς">ποδῶν</w>
+                    </name> <name type="portion">
+                        <w lemma="κεφαλή">κεφαλῆς</w>
+                    </name> 
+
+<lb xml:id="line_A.3.44" n="A.3.44"/>
+                    <add rend="blank" quantity="17"/>
+                    <w lemma="ἕκτος">ἕκτηι</w> <w lemma="ἐπί">ἐπὶ</w> <w lemma="δέκα">δέκα</w> 
+
+<lb xml:id="line_A.3.45" n="A.3.45"/>
+                    <add rend="blank" quantity="19"/>
+                    <w lemma="ἐκ">ἐκ</w> τῶν <name type="personnel">
+                        <w lemma="φυλοβασιλικά">φυλο 
+
+<lb xml:id="line_A.3.46" n="A.3.46" break="no"/>
+                            <add rend="blank" quantity="19"/>βασιλικῶν</w>
+                    </name> 
+
+<lb xml:id="line_A.3.47" n="A.3.47"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="group">
+                        <w lemma="Γελέοντες">Γλεόντων</w>
+                    </name> <name type="group">
+                        <w lemma="φυλή">φυλῆι</w>
+                    </name> 
+
+<lb xml:id="line_A.3.48" n="A.3.48"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Διὶ</w>
+                    </name> <name type="epithet" key="Phratrios">
+                        <w lemma="φράτριος">Φρατρίωι</w>
+                    </name> καὶ 
+
+<lb xml:id="line_A.3.49" n="A.3.49"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">Ἀθηναίαι</w>
+                    </name> <name type="epithet" key="Phratria">
+                        <w lemma="φράτριος">Φρα 
+
+<lb xml:id="line_A.3.50" n="A.3.50" break="no"/>
+                            <add rend="blank" quantity="21"/>τρίαι</w>
+                    </name> <name type="animal" key="ox">
+                        <w lemma="βοῦς">βόε</w>
+                    </name> <w lemma="δύο">δύο</w> 
+
+<lb xml:id="line_A.3.51" n="A.3.51"/>
+                    <num value="50">U+10144</num> <add rend="blank" quantity="18"/>
+                    <name type="age">
+                        <w lemma="λειπογνώμων">
+                            <supplied reason="lost">λ</supplied>ειπογνώμονα</w>
+                    </name> 
+
+<lb xml:id="line_A.3.52" n="A.3.52"/>
+                    <pc>:</pc>
+                    <num value="16">ΔU+10143U+10142</num> <add rend="blank" quantity="11"/>
+                    <name type="personnel">
+                        <w lemma="ἱερώσυνος">ἱερεώσυνα</w>
+                    </name> 
+
+<lb xml:id="line_A.3.53" n="A.3.53"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="personnel">
+                        <w lemma="φυλοβασιλεύς">φυλοβασιλεῖ</w>
+                    </name> 
+
+<lb xml:id="line_A.3.54" n="A.3.54"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="portion">
+                        <w lemma="σκέλος">σκέλος</w>
+                    </name> 
+
+<lb xml:id="line_A.3.55" n="A.3.55"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="personnel">
+                        <w lemma="κῆρυξ">κήρυ<supplied reason="lost">κ</supplied>ι</w>
+                    </name> <name type="portion">
+                        <w lemma="χέλυς">
+                            <unclear>χ</unclear>έλυος</w>
+                    </name> 
+
+<lb xml:id="line_A.3.56" n="A.3.56"/>
+                    <num value="2.3">U+10142U+10142ΙΙΙ</num> <add rend="blank" quantity="11"/>
+                    <name type="portion">
+                        <w lemma="πούς">ποδ<supplied reason="lost">ῶν</supplied>
+                        </w>
+                    </name> <name type="portion">
+                        <w lemma="κεφαλή">κεφαλῆς</w>
+                    </name> 
+
+<lb xml:id="line_A.3.57" n="A.3.57"/>
+                    <add rend="blank" quantity="21"/>τ<gap reason="lost" quantity="4" unit="character"/>ει <name type="vegetal">
+                        <w lemma="κριθή">κριθῶν</w>
+                    </name> 
+
+<lb xml:id="line_A.3.58" n="A.3.58"/>
+                    <space quantity="8" unit="character"/>
+                    <add rend="blank" quantity="13"/> <w lemma="μέδιμνος">μ<supplied reason="lost">έδιμ</supplied>
+                        <unclear>νο</unclear>
+                    </w>
+                    <gap reason="lost" quantity="1" unit="character"/> 
+
+<lb xml:id="line_A.3.59" n="A.3.59"/>
+                    <add rend="blank" quantity="21"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_A.3.60" n="A.3.60"/>
+                    <num value="12">ΔU+10142U+10142</num> <add rend="blank" quantity="12"/>
+                    <name type="deity" key="Themis">
+                        <w lemma="θέμις">Θέμιδι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶς</w>
+                    </name> 
+
+<lb xml:id="line_A.3.61" n="A.3.61"/>
+                    <num value="15">ΔU+10143</num> <add rend="blank" quantity="14"/>
+                    <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Διὶ</w>
+                    </name> <name type="epithet">
+                        <w lemma="ἑρκεῖος">Ἑρκείωι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">ο<supplied reason="lost">ἶς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.62" n="A.3.62"/>
+                    <num value="12">ΔU+10142U+10142</num> <add rend="blank" quantity="12"/>
+                    <name type="deity" key="Demeter">
+                        <w lemma="Δημήτηρ">Δήμητρι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶς</w>
+                    </name> 
+
+<lb xml:id="line_A.3.63" n="A.3.63"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="deity" key="Persephone">
+                        <w lemma="Περσεφόνη">Φερρεφάττ<unclear>η</unclear>
+                            <supplied reason="lost">ι</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.64" n="A.3.64"/>
+                    <num value="17">ΔU+10143U+10142U+10142</num> <add rend="blank" quantity="9"/>
+                    <name type="animal" key="sheep">
+                        <name type="gender">
+                            <w lemma="κριός">κριός</w>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_A.3.65" n="A.3.65"/>
+                    <num value="15">ΔU+10143</num> <add rend="blank" quantity="14"/>
+                    <name type="deity" key="Eumolpos">
+                        <w lemma="εὔμολπος">Εὐμόλπωι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">
+                            <unclear>ο</unclear>
+                            <supplied reason="lost">ἶς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.66" n="A.3.66"/>
+                    <num value="15">ΔU+10143</num> <add rend="blank" quantity="14"/>
+                    <name type="deity" key="Melichos">
+                        <w lemma="Μέλιχος">Μελίχωι</w>
+                    </name> <name type="deity" key="Hero">
+                        <w lemma="ἥρως">ἥ<supplied reason="lost">ρωϊ</supplied>
+                        </w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">
+                            <supplied reason="lost">οἶς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.67" n="A.3.67"/>
+                    <num value="15">ΔU+10143</num> <add rend="blank" quantity="14"/>
+                    <name type="deity" key="Archegetes">
+                        <w lemma="ἀρχηγέτης">Ἀρχηγέτ<unclear>η</unclear>
+                            <supplied reason="lost">ι</supplied>
+                        </w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">
+                            <supplied reason="lost">οἶς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.68" n="A.3.68"/>
+                    <num value="15">ΔU+10143</num> <add rend="blank" quantity="14"/>
+                    <name type="deity" key="Polyxenos">
+                        <w lemma="πολύξενος">Πολυξέν<supplied reason="lost">ωι</supplied>
+                        </w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">
+                            <supplied reason="lost">οἶς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.69" n="A.3.69"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="deity" key="Threptos">
+                        <w lemma="θρεπτός">Θρεπτῶι</w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.3.70" n="A.3.70"/>
+                    <num value="17">ΔU+10143U+10142U+10142</num> <add rend="blank" quantity="9"/>
+                    <name type="quality">
+                        <name type="gender">
+                            <w lemma="κριτός">κριτός</w>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_A.3.71" n="A.3.71"/>
+                    <num value="15">ΔU+10143</num> <add rend="blank" quantity="14"/>
+                    <name type="deity" key="Dioklos">
+                        <w lemma="Δίοκλος">Διόκ<unclear>λ</unclear>ω<supplied reason="lost">ι</supplied>
+                        </w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">
+                            <supplied reason="lost">οἶς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.72" n="A.3.72"/>
+                    <num value="15">ΔU+10143</num> <add rend="blank" quantity="14"/>
+                    <name type="deity" key="Keleios">
+                        <w lemma="κελεός?">Κελεῶι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">
+                            <supplied reason="lost">οἶς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.73" n="A.3.73"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="group">
+                        <w lemma="Εὐμολπίδης">Εὐμολπ<supplied reason="lost">ίδαι</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.74" n="A.3.74"/>
+                    <add rend="blank" quantity="21"/>
+                    <w lemma="οὗτος">ταῦτα</w> <name type="sacrifice">
+                        <w lemma="θύω">
+                            <supplied reason="lost">θύοσιν (?)</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.75" n="A.3.75"/>
+                    <add rend="blank" quantity="21"/>
+                    <name type="personnel">
+                        <w lemma="ἱερεύς">ἱερέα<supplied reason="lost">ι</supplied>
+                        </w>
+                    </name> <name type="deity" key="Demeter">
+                        <w lemma="Δημήτηρ">
+                            <supplied reason="lost">Δήμητρος</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.76" n="A.3.76"/>
+                    <num value="100">Η</num> <add rend="blank" quantity="17"/>
+                    <name type="personnel">
+                        <w lemma="ἀπόμετρον">ἀπόμε<supplied reason="lost">τρα</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.77" n="A.3.77"/>
+                    <add rend="blank" quantity="18"/>
+                    <w lemma="ἐκ">ἐκ</w> τῶν <name type="object">
+                        <name type="authority">
+                            <w lemma="στήλη">σ<unclear>τ</unclear>
+                                <supplied reason="lost">ηλῶν</supplied>
+                            </w>
+                        </name>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.3.78" n="A.3.78"/>
+                    <num value="3">
+                        <supplied reason="omitted">U+10142</supplied>U+10142U+10142</num> <add rend="blank" quantity="9"/>
+                    <name type="animal" key="swine">
+                        <w lemma="χοῖρος">χοῖρ<supplied reason="lost">ος</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.79" n="A.3.79"/>
+                    <num value="12">ΔU+10142U+10142</num> <add rend="blank" quantity="11"/>
+                    <name type="deity" key="Hestia">
+                        <w lemma="ἑστία">Ἑστ<unclear>ί</unclear>
+                            <supplied reason="lost">αι</supplied>
+                        </w>
+                    </name> <name type="animal" key="swine">
+                        <w lemma="ὄϊς">οἶς</w>
+                    </name> 
+
+<lb xml:id="line_A.3.80" n="A.3.80"/>
+                    <num value="12">ΔU+10142U+10142</num> <add rend="blank" quantity="11"/>
+                    <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">Ἀθη<unclear>ν</unclear>
+                            <supplied reason="lost">αίαι</supplied>
+                        </w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">
+                            <supplied reason="lost">οἶς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.81" n="A.3.81"/>
+                    <num value="10">Δ</num> <add rend="blank" quantity="16"/>
+                    <name type="deity" key="Charites">
+                        <w lemma="χάρις">Χά<supplied reason="lost">ρισιν</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.3.82" n="A.3.82"/>
+                    <add rend="blank" quantity="20"/>
+                    <name type="deity" key="Hermes">
+                        <w lemma="Ἑρμῆς">Ἑρ<supplied reason="lost">μῆι</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.83" n="A.3.83"/>
+                    <num value="15">ΔU+10143</num> <add rend="blank" quantity="13"/>
+                    <name type="epithet" key="Enagonios">
+                        <w lemma="ἐναγώνιος">Ἐν<supplied reason="lost">αγωνίωι</supplied>
+                        </w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">
+                            <supplied reason="lost">οἷς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.84" n="A.3.84"/>
+                    <num value="10">Δ</num> <add rend="blank" quantity="16"/>
+                    <orig>Ε</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.3.85" n="A.3.85"/>
+                    <num value="15">ΔU+10143</num> <add rend="blank" quantity="13"/>
+                    <orig>Η</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">
+                            <supplied reason="lost">οἶς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.3.86" n="A.3.86"/>
+                    <num value="15">ΔU+10143</num> <add rend="blank" quantity="13"/>
+                    <orig>Δ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">
+                            <supplied reason="lost">οἶς</supplied>
+                        </w>
+                    </name> 
+
+<lb/>
+                    <space quantity="8" unit="character"/>
+                    <add rend="blank" quantity="12"/> <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="A, fr. 4">Face A, Fragment 4 
+
+<lb/>Face unpublished.</ab>
+ <ab subtype="Face" n="A, fr. 5">Face A, Fragment 5, Column 1 
+
+<lb xml:id="line_A.5.1" n="A.5.1"/>
+                    <add rend="blank" quantity="20"/>
+                    <gap reason="lost" unit="character" quantity="12" precision="low"/> 
+
+<lb xml:id="line_A.5.2" n="A.5.2"/>
+                    <add rend="blank" quantity="20"/>
+                    <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">
+                            <supplied reason="lost">Ἀπόλλωνι</supplied>
+                        </w>
+                    </name> <name type="epithet" key="Prostaterios">
+                        <w lemma="προστατήριος">
+                            <supplied reason="lost">Προστ</supplied>ατηρίωι</w>
+                    </name> 
+
+<lb xml:id="line_A.5.3" n="A.5.3"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <name type="animal" key="generic">
+                        <w lemma="ἱερός">
+                            <supplied reason="lost">ἱερὸν</supplied>
+                        </w>
+                    </name> <name type="age">
+                        <w lemma="τέλειος">
+                            <supplied reason="lost">τέλεο</supplied>ν</w>
+                    </name> (?) 
+
+<lb xml:id="line_A.5.4" n="A.5.4"/>
+                    <add rend="blank" quantity="20"/>
+                    <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">
+                            <supplied reason="lost">Ἀπόλλωνι</supplied>
+                        </w>
+                    </name> <name type="epithet" key="Hypo Makrais">
+                        <w lemma="ὑπό">
+                            <supplied reason="lost">Ὑπὸ</supplied>
+                        </w>
+                    </name> <name type="locality">
+                        <w lemma="μακρός">
+                            <unclear>Μ</unclear>ακραῖς</w>
+                    </name> 
+
+<lb xml:id="line_A.5.5" n="A.5.5"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <name type="animal" key="generic">
+                        <w lemma="ἱερός">
+                            <supplied reason="lost">ἱερὸν</supplied>
+                        </w>
+                    </name> <name type="age">
+                        <w lemma="τέλειος">
+                            <supplied reason="lost">τέλε</supplied>
+                            <unclear>ο</unclear>ν</w>
+                    </name> (?) 
+
+<lb xml:id="line_A.5.6" n="A.5.6"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <name type="personnel">
+                        <w lemma="ἱερώσυνος">
+                            <supplied reason="lost">ἱερεώσυνα</supplied>
+                        </w>
+                    </name> (?) 
+
+<lb xml:id="line_A.5.7" n="A.5.7"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <name type="deity" key="Demeter">
+                        <w lemma="Δημήτηρ">Δήμητρι</w>
+                    </name> <name type="epithet" key="En Astei">
+                        <w lemma="ἐν">ἐν</w>
+                    </name> <name type="locality">
+                        <w lemma="ἄστυ">ἄστει</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">ο<unclear>ἶ</unclear>
+                            <supplied reason="lost">ς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.5.8" n="A.5.8"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <name type="deity" key="Persephone">
+                        <w lemma="Περσεφόνη">
+                            <supplied reason="lost">Φερρεφάττ</supplied>ηι</w>
+                    </name> <name type="animal" key="sheep">
+                        <name type="gender">
+                            <w lemma="κριός">κριός</w>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_A.5.9" n="A.5.9"/>
+                    <add rend="blank" quantity="20"/>
+                    <gap reason="lost" quantity="10" unit="character" precision="low"/> <w lemma="ἐπί">ἐπὶ</w> <name type="structure">
+                        <name type="deity" key="Apollo">
+                            <name type="epithet" key="Pythios">
+                                <w lemma="Πύθιον">Πυ<unclear>θ</unclear>ίωι</w>
+                            </name>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_A.5.10" n="A.5.10"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <name type="animal" key="generic">
+                        <w lemma="ἱερός">
+                            <supplied reason="lost">ἱερὸν (?)</supplied>
+                        </w>
+                    </name> <name type="age">
+                        <w lemma="τέλειος">
+                            <supplied reason="lost">τέ</supplied>λεον</w>
+                    </name> 
+
+<lb xml:id="line_A.5.11" n="A.5.11"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <name type="personnel">
+                        <w lemma="ἱερώσυνος">ἱερεώσυν<supplied reason="omitted">α</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.5.12" n="A.5.12"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">
+                            <supplied reason="lost">Ἀθηναίαι</supplied>
+                        </w>
+                    </name> <name type="epithet" key="Itonia">
+                        <w lemma="Ἰτώνιος">
+                            <supplied reason="lost">Ἰτ</supplied>ωνίαι</w>
+                    </name> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἷ<supplied reason="lost">ς</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.5.13" n="A.5.13"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <name type="personnel">
+                        <w lemma="ἱερώσυνος">
+                            <supplied reason="lost">ἱερεώσυν</supplied>α</w>
+                    </name> 
+
+<lb xml:id="line_A.5.14" n="A.5.14"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <name type="deity" key="Demeter">
+                        <w lemma="Δημήτηρ">
+                            <supplied reason="lost">Δήμητρι</supplied>
+                        </w>
+                    </name> <placeName key="Eleusis">
+                        <w lemma="Ἐλευσίς">
+                            <supplied reason="lost">Ἐ</supplied>
+                            <unclear>λ</unclear>ευσῖνι</w>
+                    </placeName> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">
+                            <unclear>οἶς</unclear>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.5.15" n="A.5.15"/>
+                    <add rend="blank" quantity="19"/> <name type="deity" key="Persephone">
+                        <w lemma="Περσεφόνη">
+                            <supplied reason="lost">Φερρεφάττ</supplied>
+                            <unclear>η</unclear>ι</w>
+                    </name> 
+
+<lb xml:id="line_A.5.16" n="A.5.16"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="12"/>
+                    <placeName key="Eleusis">
+                        <w lemma="Ἐλευσίς">Ἐλευσῖνι</w>
+                    </placeName> <name type="animal" key="sheep">
+                        <name type="gender">
+                            <w lemma="κριός">
+                                <supplied reason="lost">κρ</supplied>
+                                <unclear>ιός</unclear>
+                            </w>
+                        </name>
+                    </name> 
+
+<lb/>
+                    <add rend="blank" quantity="20"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="A, fr. 6">Face A, Fragment 6 
+
+<lb/>
+                    <add rend="blank" quantity="22"/> <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_A.6.1" n="A.6.1"/> <add rend="blank" quantity="22"/> <name type="personnel">
+                        <w lemma="ἱέρεια">
+                            <unclear>ἱ</unclear>ερέαι</w>
+                    </name> <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">Ἀθηναί 
+
+<lb xml:id="line_A.6.2" n="A.6.2" break="no"/>
+                            <add rend="blank" quantity="23"/>ας</w>
+                    </name> <name type="epithet" key="Polias">
+                        <w lemma="Πολιάς">Πολιάδος</w>
+                    </name> 
+
+<lb xml:id="line_A.6.3" n="A.6.3"/>
+                    <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <unclear>Δ</unclear>Δ <add rend="blank" quantity="12"/>
+                    <name type="portion">
+                        <w lemma="ἀπόμετρον">ἀπόμετρα</w>
+                    </name> 
+
+<lb xml:id="line_A.6.4" n="A.6.4"/>
+                    <add rend="blank" quantity="22"/> <name type="deity" key="Hermes">
+                        <w lemma="Ἑρμῆς">Ἑρμῆι</w>
+                    </name> <w lemma="ἐν">ἐλ</w> <name type="deity" key="Apollo">
+                        <name type="epithet" key="Lykeios">
+                            <name type="structure">
+                                <w lemma="Λύκειον">
+                                    <unclear>Λ</unclear>υκείο</w>
+                            </name>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_A.6.5" n="A.6.5"/>
+                    <gap reason="lost" unit="character" quantity="2" precision="low"/>U+10142<gap reason="lost" unit="character" quantity="1" precision="low"/> <add rend="blank" quantity="11"/>
+                    <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶς</w>
+                    </name> 
+
+<lb xml:id="line_A.6.6" n="A.6.6"/>
+                    <num value="4.2">
+                        <supplied reason="lost">U+10142U+10142U+10142U+10142</supplied>ΙΙ (?)</num> <add rend="blank" quantity="1"/>
+                    <name type="personnel">
+                        <w lemma="ἱερώσυνος">ἱερεώσυνα</w>
+                    </name> 
+
+<lb xml:id="line_A.6.7" n="A.6.7"/>
+                    <add rend="blank" quantity="16"/>
+                    <w lemma="ἕβδομος">
+                        <supplied reason="lost">ἑ</supplied>βδόμηι</w> <w lemma="ἵστημι">ἱστα<unclear>μ</unclear>ένο</w> 
+
+<lb xml:id="line_A.6.8" n="A.6.8"/>
+                    <add rend="blank" quantity="23"/>
+                    <w lemma="εἰς">ἐς</w> <name type="festival">
+                        <w lemma="ἑβδομαῖος">ἑβδομ<unclear/>αῖ<unclear>ο</unclear>ν</w>
+                    </name> 
+
+<lb xml:id="line_A.6.9" n="A.6.9"/> <add rend="blank" quantity="23"/>
+                    <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶς</w>
+                    </name> <name type="age">
+                        <w lemma="λειπογνώμων">λειπο</w>
+                    </name> 
+
+<lb xml:id="line_A.6.10" n="A.6.10" break="no"/>
+                    <num value="4">
+                        <supplied reason="lost">U+10142U+10142U+10142U+10142</supplied>
+                    </num> <add rend="blank" quantity="9"/>γνώμων 
+
+<lb xml:id="line_A.6.11" n="A.6.11"/>
+                    <add rend="blank" quantity="23"/>
+                    <name type="group">
+                        <w lemma="Πυθαϊστής">Πυθαϊσ<unclear>τ</unclear>
+                            <supplied reason="lost">α</supplied>ῖς</w>
+                    </name> θυ<gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.6.12" n="A.6.12" break="no"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="16"/>ων κ<unclear>α</unclear>ὶ <orig>σ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="A, fr. 7">Face A, Fragment 7 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_A.7.1" n="A.7.1"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" quantity="6" unit="character"/> <w lemma="ἵστημι">ἱσ<supplied reason="lost">ταμένο</supplied>
+                    </w> 
+
+<lb xml:id="line_A.7.2" n="A.7.2"/>
+                    <add rend="blank" quantity="23"/>
+                    <w lemma="ἐκ">
+                        <supplied reason="lost">ἐκ</supplied>
+                    </w> <supplied reason="lost">τ</supplied>ῶν <name type="personnel">
+                        <w lemma="φυλοβασιλικά">φ<supplied reason="lost">υλο</supplied> 
+
+<lb xml:id="line_A.7.3" n="A.7.3" break="no"/>
+                            <add rend="blank" quantity="23"/>
+                            <supplied reason="lost">β</supplied>
+                            <unclear>ασιλ</unclear>ι<supplied reason="lost">κῶν</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.7.4" n="A.7.4"/> <add rend="blank" quantity="23"/>
+                    <name type="personnel">
+                        <w lemma="φυλοβασιλεύς">
+                            <unclear>φ</unclear>
+                            <supplied reason="lost">υ</supplied>
+                            <unclear>λ</unclear>ο<unclear>β</unclear>
+                            <supplied reason="lost">ασιλεῦσι</supplied>
+                        </w>
+                    </name> 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="A, fr. 8">Face A, Fragment 8, Column 2 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_A.8.1" n="A.8.1"/>
+                    <num value="11">ΔU+10142</num> <add rend="blank" quantity="16"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.8.2" n="A.8.2"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.8.3" n="A.8.3"/>
+                    <num value="12">ΔU+10142U+10142</num> <add rend="blank" quantity="14"/>
+                    <name type="animal" key="generic">
+                        <w lemma="ἱερός">
+                            <unclear>ἱ</unclear>
+                            <supplied reason="lost">ερὸν</supplied>
+                        </w>
+                    </name> <name type="age">
+                        <w lemma="τέλειος">
+                            <supplied reason="lost">τέλεον (?)</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.8.4" n="A.8.4"/>
+                    <add rend="blank" quantity="23"/>
+                    <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">
+                            <unclear>Ἀπ</unclear>
+                            <supplied reason="lost">ό</supplied>
+                            <unclear>λ</unclear>
+                            <supplied reason="lost">λωνι</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.8.5" n="A.8.5"/>
+                    <num value="12">ΔU+10142U+10142</num> <add rend="blank" quantity="14"/>
+                    <name type="animal" key="generic">
+                        <w lemma="ἱερός">ἱερὸν</w>
+                    </name> <name type="age">
+                        <w lemma="τέλειος">τέ<supplied reason="lost">λεον</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.8.6" n="A.8.6"/>
+                    <add rend="blank" quantity="18"/>
+                    <w lemma="ἐν">ἐν</w> <placeName key="Delos">
+                        <w lemma="Δῆλος">Δήλωι</w>
+                    </placeName> <orig>τα<unclear>λ</unclear>
+                    </orig>
+                    <gap reason="lost" unit="character" extent="unknown"/>   
+
+<lb xml:id="line_A.8.7" n="A.8.7"/> <add rend="blank" quantity="23"/>
+                    <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">Ἀπόλλωνι</w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.8.8" n="A.8.8"/>
+                    <supplied reason="lost">
+                        <num value="12">ΔU+10142U+10142</num>
+                    </supplied> <add rend="blank" quantity="11"/>
+                    <name type="animal">
+                        <w lemma="ἱερός">ἱερὸν</w>
+                    </name> <name type="age">
+                        <w lemma="τέλειος">τέ<unclear>λ</unclear>
+                            <supplied reason="lost">εον</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.8.9" n="A.8.9"/>
+                    <add rend="blank" quantity="23"/>
+                    <name type="deity" key="Poseidon">
+                        <w lemma="Ποσειδῶν">Ποσειδῶν<supplied reason="lost">ι</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.8.10" n="A.8.10"/>
+                    <supplied reason="lost">
+                        <num value="17">ΔU+10143U+10142U+10142</num>
+                    </supplied> <add rend="blank" quantity="8"/>
+                    <name type="animal" key="sheep">
+                        <name type="gender">
+                            <w lemma="κριός">κριός</w>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_A.8.11" n="A.8.11"/>
+                    <add rend="blank" quantity="23"/>
+                    <name type="deity" key="Leto">
+                        <w lemma="Λητώ">
+                            <supplied reason="lost">Λ</supplied>
+                            <unclear>η</unclear>το<supplied reason="lost">ῖ</supplied>
+                        </w>
+                    </name> <name type="animal" key="generic">
+                        <w lemma="ἱερός">ἱε<unclear>ρ</unclear>
+                            <supplied reason="lost">ὸν</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.8.12" n="A.8.12"/>
+                    <supplied reason="lost">
+                        <num value="12">ΔU+10142U+10142</num>
+                    </supplied> <add rend="blank" quantity="11"/>
+                    <name type="animal" key="generic">
+                        <name type="age">
+                            <w lemma="τέλειος">
+                                <supplied reason="lost">τέλεον</supplied>
+                            </w>
+                        </name>
+                    </name> 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab>
+
+ <ab subtype="Face" n="A, fr. 9">Face A, Fragment 9, Column 1 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_A.9.1" n="A.9.1"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" quantity="14" unit="character" precision="low"/>
+                    <orig>
+                        <unclear>ς</unclear>
+                    </orig> 
+
+<lb xml:id="line_A.9.2" n="A.9.2"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" quantity="10" unit="character" precision="low"/>
+                    <orig>ν</orig> 
+
+<lb xml:id="line_A.9.3" n="A.9.3"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <gap reason="lost" quantity="7" unit="character" precision="low"/> <w lemma="τρίτος">
+                        <supplied reason="lost">τ</supplied>ριτὴ</w> (?) <w lemma="χοῦς">χοῶς</w> 
+
+<lb xml:id="line_A.9.4" n="A.9.4"/>
+                    <add rend="blank" quantity="23"/>
+                    <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">
+                            <supplied reason="lost">Ἀπόλλω</supplied>νι</w>
+                    </name> (?) 
+
+<lb xml:id="line_A.9.5" n="A.9.5"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="15"/> <gap reason="lost" quantity="6" unit="character" precision="low"/>
+                    <orig>
+                        <unclear>Ι</unclear>νητο</orig> 
+
+<lb/>
+                    <space quantity="4" unit="line"/> </ab>
+ <ab subtype="Face" n="A, fr. 12">Face A, Fragment 12 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/>      
+
+<lb xml:id="line_A.12.1" n="A.12.1"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" quantity="2" unit="character"/>
+                    <orig>ΡΟΔΡΑΔΙ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/>      
+
+<lb xml:id="line_A.12.2" n="A.12.2"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" quantity="1" unit="character"/> <name type="personnel">
+                        <w lemma="κῆρυξ">κηρύ<unclear>κ</unclear>οιν</w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/>      
+
+<lb xml:id="line_A.12.3" n="A.12.3"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="16"/>
+                    <orig>Ο</orig> <placeName key="Eleusis">
+                        <w lemma="unclear">Ἐλευσιν</w>
+                    </placeName>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.12.4" n="A.12.4"/> <add rend="blank" quantity="23"/>
+                    <placeName key="Oinoe">
+                        <w lemma="Οἰνόη">Οἰνόησι</w>
+                    </placeName> <name type="deity" key="Artemis">
+                        <w lemma="Ἄρτεμις">Ἀρτ<supplied reason="lost">έμιδι</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_A.12.5" n="A.12.5"/>
+                    <num value="130">ΗΔΔΔ</num> <add rend="blank" quantity="9"/>
+                    <name type="sacrifice">
+                        <w lemma="τριττύα">τρίττοι<unclear>α</unclear>
+                            <supplied reason="lost">ν</supplied>
+                        </w>
+                    </name> <name type="animal" key="ox">
+                        <name type="animal" key="swine">
+                            <name type="animal" key="sheep">
+                                <w lemma="βόαρχος">β<supplied reason="lost">όαρχον</supplied>
+                                </w>
+                            </name>
+                        </name>
+                    </name>      
+
+<lb xml:id="line_A.12.6" n="A.12.6"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="16"/>
+                    <orig>ΜΕΙΞΕΥ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/>      
+
+<lb xml:id="line_A.12.7" n="A.12.7"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <name type="personnel">
+                        <w lemma="ἱέρεια">ἱερέαι</w>
+                    </name> <name type="portion">
+                        <w lemma="ἀπόμετρον">ἀπό<choice> <corr>μ</corr> <sic>λλ</sic> </choice>
+                            <supplied reason="lost">ετρα (?)</supplied>
+                        </w>
+                    </name>      
+
+<lb xml:id="line_A.12.8" n="A.12.8"/>
+                    <add rend="blank" quantity="23"/>
+                    <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Δ<choice> <corr>ιὶ</corr> <sic>η</sic> </choice>
+                        </w>
+                    </name> <name type="epithet" key="Morios">
+                        <w lemma="Μόριος">Μορίω<supplied reason="omitted">ι</supplied>
+                        </w>
+                    </name> <name type="sacrifice">
+                        <w lemma="τριττύα">τρ<supplied reason="lost">ίττοιαν</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_A.12.9" n="A.12.9"/>
+                    <supplied reason="lost">
+                        <num value="130">ΗΔΔΔ (?)</num>
+                    </supplied> <add rend="blank" quantity="1"/>
+                    <name type="animal" key="ox">
+                        <name type="animal" key="swine">
+                            <name type="animal" key="sheep">
+                                <w lemma="βόαρχος">βόαρχον </w>
+                            </name>
+                        </name>
+                    </name>     
+
+<lb xml:id="line_A.12.10" n="A.12.10"/>
+                    <add rend="blank" quantity="23"/>
+                    <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">Ἀθεναίαι</w>
+                    </name> <name type="epithet" key="Oinaia?">
+                        <w lemma="Οἰναίη?">Οἰ<supplied reason="lost">ναίαι</supplied>
+                        </w>
+                    </name> <supplied reason="lost">(?)</supplied> <supplied reason="lost">τ</supplied>      
+
+<lb xml:id="line_A.12.11" n="A.12.11" break="no"/>
+                    <supplied reason="lost">
+                        <num value="130">ΗΔΔΔ</num>
+                    </supplied> <add rend="blank" quantity="6"/>
+                    <name type="sacrifice">
+                        <w lemma="τριττύα">
+                            <unclear>ρ</unclear>ίτ<supplied reason="lost">τοι</supplied>α<unclear>ν</unclear>
+                        </w>
+                    </name> <name type="animal" key="ox">
+                        <name type="animal" key="swine">
+                            <name type="animal" key="sheep">
+                                <w lemma="βόαρχος">
+                                    <supplied reason="lost">βόαρχον</supplied>
+                                </w>
+                            </name>
+                        </name>
+                    </name>      
+
+<lb xml:id="line_A.12.12" n="A.12.12"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" quantity="1" unit="character"/>
+                    <orig>ν<unclear>ο</unclear>
+                    </orig>
+                    <gap reason="lost" extent="unknown" unit="character"/>     
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab>
+
+ <ab subtype="Face" n="B, fr. 1, col. 1">Face B, Fragment 1, Columns 1-2 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_B.1.1" n="B.1.1"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <name type="vegetal">
+                        <w lemma="κριθή">
+                            <supplied reason="lost">κ</supplied>ριθο͂ν</w>
+                    </name> <w lemma="μέδιμνος">μέδιμνος</w> 
+
+<lb xml:id="line_B.1.2" n="B.1.2"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">
+                            <supplied reason="lost">Ἀπ</supplied>
+                            <unclear>ό</unclear>λλονι</w>
+                    </name> 
+
+<lb xml:id="line_B.1.3" n="B.1.3"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.1.4" n="B.1.4"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.1.5" n="B.1.5"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <name type="object">
+                        <w lemma="κεραμίδιον">
+                            <supplied reason="lost">κ</supplied>ερ<supplied reason="lost">α</supplied>
+                            <unclear>μ</unclear>ίδ<supplied reason="lost">ι</supplied>ον</w>
+                    </name> <name type="liquid">
+                        <w lemma="ὄϊς">οἴν<supplied reason="lost">ο (?)</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_B.1.6" n="B.1.6"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <name type="vegetal">
+                        <w lemma="κριθή">κριθο͂ν</w>
+                    </name> <w lemma="μέδιμνος">μέδιμνος</w> 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_B.1.7" n="B.1.7"/>(col. II) <add rend="blank" quantity="4"/>  <supplied reason="lost">το͂ν</supplied> <name type="animal" key="ox">
+                        <w lemma="βοῦς">
+                            <supplied reason="lost">βοο͂ν (?)</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_B.1.8" n="B.1.8"/>
+                    <add rend="blank" quantity="23"/>
+                    <w lemma="ἀπό">ἀπὸ</w> τε͂ς <name type="locality">
+                        <w lemma="περιέλασις">περ<unclear>ιε</unclear>
+                            <supplied reason="lost">λάσεος (?)</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_B.1.9" n="B.1.9"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="14"/> το͂ν <w lemma="ἕξ">hὲχς</w> το͂ν <w lemma="πρότερος">προτέ<supplied reason="lost">ρον (?)</supplied>
+                    </w> 
+
+<lb xml:id="line_B.1.10" n="B.1.10"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <name type="personnel">
+                        <w lemma="ἱέρεια">hιερέαι</w>
+                    </name> <name type="portion">
+                        <w lemma="ἀπόμετρον">ἀπόμετρα</w>
+                    </name>  
+
+<lb xml:id="line_B.1.11" n="B.1.11"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="15"/> το͂ν <name type="animal" key="swine">
+                        <name type="age">
+                            <w lemma="χοῖρος">χοίρον</w>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_B.1.12" n="B.1.12"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="15"/> <name type="vegetal">
+                        <w lemma="ξύλον">χσύλον</w>
+                    </name> 
+
+<lb xml:id="line_B.1.13" n="B.1.13"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="15"/> <name type="genericOffering">
+                        <w lemma="ἱερός">hιερο͂ν</w>
+                    </name> 
+
+<lb xml:id="line_B.1.14" n="B.1.14"/>
+                    <add rend="blank" quantity="22"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="personnel">
+                        <w lemma="κῆρυξ">κέρ<unclear>υ</unclear>χσιν</w>
+                    </name> hοὶ <name type="festival">
+                        <name type="deity" key="Zeus">
+                            <name type="epithet" key="Polieus">
+                                <w lemma="Διπολίεια">Διπολ<unclear>ι</unclear>ε<unclear>ί</unclear>
+                                    <supplied reason="lost">ο</supplied>
+                                    <unclear>ι</unclear>
+                                    <supplied reason="lost">ς</supplied>
+                                </w>
+                            </name>
+                        </name>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/>
+                    <add rend="blank" quantity="22"/> <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="B, fr. 4, col. 2">Face B, Fragment 4, Column 2 
+
+<lb/>(14 lines unpublished) 
+
+<lb xml:id="line_B.4.15" n="B.4.15"/> <space quantity="8" unit="character"/> <add rend="blank" quantity="14"/>
+                    <name type="festival">
+                        <w lemma="Ἐπιδαυρία">Ἐπιδ<unclear>α</unclear>
+                            <supplied reason="lost">υρίοις</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.4.16" n="B.1.16"/>
+                    <num value="100">Η</num> <add rend="blank" quantity="17"/>
+                    <name type="deity" key="Demeter">
+                        <w lemma="Δημήτηρ">Δέμε<supplied reason="lost">τρ</supplied>
+                        </w>
+                    </name>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.4.17" n="B.4.17"/>
+                    <num value="240">ΗΗΔΔΔΔ</num> <add rend="blank" quantity="1"/>
+                    <w lemma="unclear">hιε<unclear>ρ</unclear>
+                    </w>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.4.18" n="B.4.18"/>
+                    <num value="100">Η</num> <add rend="blank" quantity="17"/>
+                    <w lemma="unclear">ἀκο</w>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.4.19" n="B.4.19"/>
+                    <num value="100">Η</num> <add rend="blank" quantity="17"/>
+                    <w lemma="unclear">
+                        <add place="overstrike">φ</add>
+                        <unclear>ρ</unclear>
+                    </w>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/>
+                    <space quantity="8" unit="character"/>
+                    <add rend="blank" quantity="14"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> </ab>
+ <ab subtype="Face" n="B, fr. 5">Face B, Fragment 5 
+
+<lb/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_B.5.1" n="B.5.1"/>
+                    <gap reason="lost" quantity="7" unit="character"/>
+                    <orig>Ο</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.5.2" n="B.5.2"/>
+                    <gap reason="lost" quantity="8" unit="character"/>
+                    <orig>Δ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.5.3" n="B.5.3"/>
+                    <gap reason="lost" quantity="8" unit="character"/>
+                    <orig>Ο</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.5.4" n="B.5.4"/>
+                    <gap reason="lost" quantity="5" unit="character"/>
+                    <orig>Ο</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.5.5" n="B.5.5"/>
+                    <gap reason="lost" quantity="9" unit="character"/>
+                    <orig>Δ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.5.6" n="B.5.6"/>
+                    <gap reason="lost" quantity="5" unit="character"/> <name type="animal" key="generic">
+                        <w lemma="ἱερός">
+                            <supplied reason="lost">hιε</supplied>ρὸ<supplied reason="lost">ν</supplied>
+                        </w>
+                    </name> <name type="age">
+                        <w lemma="τέλειος">
+                            <supplied reason="lost">τέλεον</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_B.5.7" n="B.5.7"/>
+                    <supplied reason="lost">
+                        <space quantity="4" unit="character"/>
+                    </supplied> <name type="deity" key="Heracles">
+                        <w lemma="Ἡρακλέης">
+                            <supplied reason="lost">hερ</supplied>
+                            <unclear>α</unclear>κλ<supplied reason="lost">εῖ</supplied>
+                        </w>
+                    </name> <name type="animal" key="generic">
+                        <w lemma="ἱερός">
+                            <supplied reason="lost">hιερόν</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_B.5.8" n="B.5.8"/>
+                    <gap reason="lost" quantity="5" unit="character"/> <name type="age">
+                        <w lemma="τέλειος">
+                            <unclear>τ</unclear>έλεο<supplied reason="lost">ν</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_B.5.9" n="B.5.9"/>
+                    <gap reason="lost" quantity="2" unit="character"/>U+10142<gap reason="lost" quantity="3" unit="character"/>
+                    <orig>Ο</orig>
+                    <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <orig>ΕΟ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.5.10" n="B.5.10"/>
+                    <gap reason="lost" quantity="4" unit="character"/> <name type="deity" key="Heroes">
+                        <w lemma="ἥρως">h<supplied reason="lost">έ</supplied>ρ<unclear>ο</unclear>σι</w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/>
+                    <space quantity="1" unit="line"/> 
+
+<lb xml:id="line_B.5.11" n="B.5.11"/>
+                    <gap reason="lost" quantity="2" unit="character"/> <w lemma="ἔνατος">
+                        <supplied reason="lost">ἐ</supplied>
+                        <unclear>νάτει</unclear>
+                    </w> <name type="deity" key="Heracles">
+                        <name type="festival">
+                            <w lemma="Ἡρακλέης">Ἡρακ</w>
+                        </name>
+                    </name>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.5.11a" n="B.5.11a"/>
+                    <add rend="blank" quantity="20"/>
+                    <unclear>ι</unclear>ς<gap reason="lost" quantity="1" unit="character"/> 
+
+<lb xml:id="line_B.5.12" n="B.5.12"/>
+                    <num value="8">U+10143U+10142U+10142U+10142</num> <add rend="blank" quantity="5"/>
+                    <name type="deity" key="Tritopatreis">
+                        <w lemma="Τριτοπατρῆς">Τριτοπ<supplied reason="lost">ατρεῦσι</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.5.13" n="B.5.13"/>
+                    <gap reason="lost" quantity="1" unit="character"/>U+10142U+10142 <space quantity="2" unit="character"/> <add rend="blank" quantity="4"/>
+                    <name type="personnel">
+                        <w lemma="ἱερώσυνος">hιερε<supplied reason="lost">όσυνα</supplied>
+                        </w>
+                    </name> <supplied reason="lost">(?)</supplied> 
+
+<lb xml:id="line_B.5.14" n="B.5.14"/>
+                    <num value="26">ΔΔU+10143U+10142</num> <add rend="blank" quantity="4"/>
+                    <name type="deity" key="Pankoi...?">
+                        <w lemma="unclear">Παγκοι<gap reason="lost" extent="unknown" unit="character"/>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_B.5.15" n="B.5.15"/>
+                    <num value="3">U+10142U+10142U+10142</num> <space quantity="2" unit="character"/>
+                    <add rend="blank" quantity="8"/>
+                    <name type="personnel">
+                        <w lemma="ἱερώσυνος">hιερεόσυνα</w>
+                    </name> 
+
+<lb xml:id="line_B.5.16" n="B.5.16"/>
+                    <supplied reason="lost">
+                        <space quantity="1" unit="character"/>
+                    </supplied>
+                    <space quantity="3" unit="character"/> <add rend="blank" quantity="2"/>
+                    <name type="deity" key="Hyakinthides">
+                        <w lemma="Ὑακίνθια">hυακιν<supplied reason="lost">θίσι</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_B.5.17" n="B.5.17"/>
+                    <gap reason="lost" quantity="4" unit="character"/>
+                    <space quantity="1" unit="character"/> <add rend="blank" quantity="3"/>
+                    <name type="purification">
+                        <w lemma="καθαρμός">καθαρ<unclear>μ</unclear>
+                            <supplied reason="lost">όν</supplied>
+                        </w>
+                    </name> 
+
+<lb xml:id="line_B.5.18" n="B.5.18"/>
+                    <gap reason="lost" quantity="7" unit="character"/>
+                    <orig>ΝΑΣΤ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.5.19" n="B.5.19"/>
+                    <gap reason="lost" quantity="10" unit="character"/>
+                    <orig>Ο</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="B, fr. 9, col. 1">Face B, Fragment 9, Columns 1-2 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_B.9.1" n="B.9.1"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <orig>
+                        <unclear>ει</unclear>
+                    </orig> 
+
+<lb xml:id="line_B.9.2" n="B.9.2"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.9.3" n="B.9.3"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.9.4" n="B.9.4"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.9.5" n="B.9.5"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <orig>ον</orig> 
+
+<lb xml:id="line_B.9.6" n="B.9.6"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.9.7" n="B.9.7"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.9.8" n="B.9.8"/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <orig>
+                        <unclear>ο</unclear>ς</orig> 
+
+<lb xml:id="line_B.9.9" n="B.9.9"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="16"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <orig>ν</orig> <name type="gender">
+                        <w lemma="θῆλυς">θελείαν</w>
+                    </name> 
+
+<lb xml:id="line_B.9.10" n="B.9.10"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <name type="gender">
+                        <name type="quality">
+                            <w lemma="κριτός">
+                                <supplied reason="lost">κρι</supplied>τέν</w>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_B.9.11" n="B.9.11"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="16"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <name type="sacrifice">
+                        <w lemma="ἑκατόμβη">
+                            <supplied reason="lost">hεκατό</supplied>μβεν</w>
+                    </name>, <name type="object">
+                        <name type="portion">
+                            <w lemma="ὅπλον">hόπ 
+
+<lb xml:id="line_B.9.12" n="B.9.12" break="no"/>
+                                <gap reason="lost" extent="unknown" unit="character"/>
+                                <add rend="blank" quantity="16"/>
+                                <supplied reason="lost">λα (?)</supplied>
+                            </w>
+                        </name>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/> 
+
+<lb/>
+                    <add rend="blank" quantity="23"/> <space extent="unknown" unit="line"/> 
+
+<lb/>(col. 2) <add rend="blank" quantity="10"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_B.9.13" n="B.9.13"/>
+                    <add rend="blank" quantity="23"/>
+                    <orig>τ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.9.14" n="B.9.14"/>
+                    <add rend="blank" quantity="23"/>
+                    <orig>ον</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.9.15" n="B.9.15"/>
+                    <add rend="blank" quantity="23"/>
+                    <orig>τιμ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.9.16" n="B.9.16"/>
+                    <add rend="blank" quantity="23"/>
+                    <orig>εστε</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.9.17" n="B.9.17"/>
+                    <add rend="blank" quantity="23"/>
+                    <orig>τουτο</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.9.18" n="B.9.18"/>
+                    <add rend="blank" quantity="23"/>τὸς <name type="group">
+                        <w lemma="πολίτης">πολ<unclear>ί</unclear>
+                            <supplied reason="lost">τας (?)</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.9.19" n="B.9.19"/>
+                    <add rend="blank" quantity="23"/>
+                    <w lemma="ἐννέα">ἐννέα</w> <name type="title">
+                        <w lemma="ἄρχων">ἄρ<supplied reason="lost">χοντας (?)</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="B, fr. 10">Face B, Fragment 10 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_B.10.1" n="B.10.1"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="16"/>
+                    <orig>
+                        <unclear>ΟΙΛ</unclear>
+                    </orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.10.2" n="B.10.2"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <w lemma="unclear">Παν</w>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.10.3" n="B.10.3"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">
+                            <unclear>Δ</unclear>ιὶ</w>
+                    </name> <name type="epithet" key="Kataibates">
+                        <w lemma="καταιβάτης">Κα<supplied reason="lost">ταιβάτει</supplied>
+                        </w>
+                    </name> <supplied reason="lost">(?)</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="B, fr. 11">Face B, Fragment 11 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_B.11.1" n="B.11.1"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="16"/>
+                    <orig>
+                        <unclear>Α</unclear>ΧΕ<unclear>Ι</unclear>
+                    </orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.11.2" n="B.11.2"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <name type="animal" key="swine">
+                        <w lemma="ὗς">hῦν</w>
+                    </name> <name type="quality">
+                        <name type="gender">
+                            <w lemma="κριτός">κριτέ<supplied reason="lost">ν</supplied>
+                            </w>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_B.11.3" n="B.11.3"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <add rend="blank" quantity="15"/> <name type="animal" key="sheep">
+                        <w lemma="ὄϊς">οἶν</w>
+                    </name> <name type="quality">
+                        <name type="gender">
+                            <w lemma="κριτός">κριτέν</w>
+                        </name>
+                    </name> 
+
+<lb xml:id="line_B.11.4" n="B.11.4"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <unclear>U+10142</unclear>U+10141 <add rend="blank" quantity="11"/>
+                    <name type="deity" key="Kourotrophos">
+                        <w lemma="κουροτρόφος">Κοροτρόφ<unclear>ο</unclear>
+                            <supplied reason="lost">ι</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.11.5" n="B.11.5"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <unclear>U+10142</unclear>U+10142 <add rend="blank" quantity="10"/>
+                    <name type="deity" key="Leto">
+                        <w lemma="Λητώ">Λετο͂ι</w>
+                    </name> <pc>∶</pc> <w lemma="ἐν">ἐμ</w> <name type="structure">
+                        <name type="deity" key="Apollo">
+                            <name type="epithet" key="Pythios">
+                                <w lemma="Πύθιον">Π<supplied reason="lost">υθίο</supplied>
+                                </w>
+                            </name>
+                        </name>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.11.6" n="B.11.6"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">Ἀθενάα<supplied reason="lost">ι</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.11.7" n="B.11.7"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <add rend="blank" quantity="15"/>
+                    <name type="deity" key="Athena">
+                        <w lemma="Ἀθήνη">Ἀθεν<supplied reason="lost">άαι</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.11.8" n="B.11.8"/> <add rend="blank" quantity="23"/>
+                    <orig>
+                        <unclear>Μ</unclear>
+                    </orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/>
+                    <add rend="blank" quantity="23"/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="B, fr. 12">Face B, Fragment 12 
+
+<lb/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_B.12.1" n="B.12.1"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="7" unit="character"/>
+                    <orig>ΕΒhΕΝΙ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.12.2" n="B.12.2"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="2" unit="character"/> <w lemma="ἀνάλωμα">
+                        <supplied reason="lost">ἀναλ</supplied>ομάτον</w> (?) <orig>ΛΙΕ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.12.3" n="B.12.3"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="6" unit="character"/> <w lemma="ἐπί">ἐφ’</w> <name type="genericOffering">
+                        <w lemma="ἱερός">ἱεροῖς</w>
+                    </name> <w lemma="unclear">ἀν</w>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.12.4" n="B.12.4"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <w lemma="κατά">
+                        <supplied reason="lost">κατὰ (?)</supplied>
+                    </w> <supplied reason="lost">τ</supplied>ὰς <name type="authority">
+                        <w lemma="συγγραφή">χσυγγραφὰ<supplied reason="lost">ς</supplied>
+                        </w>
+                    </name> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.12.5" n="B.12.5"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="5" unit="character"/> <name type="structure">
+                        <w lemma="τράπεζα">τραπέζας</w>
+                    </name> <w lemma="εἰς">ἐς</w> <orig>ε</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.12.6" n="B.12.6"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <gap reason="lost" quantity="4" unit="character"/>
+                    <orig>ν</orig> <name type="object">
+                        <w lemma="σκάφη">σκάφες</w>
+                    </name> <w lemma="ἕκαστος">hεκά<supplied reason="lost">στες</supplied>
+                    </w> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.12.7" n="B.12.7"/>
+                    <gap reason="lost" extent="unknown" unit="character"/> <gap reason="lost" quantity="5" unit="character"/>
+                    <orig>αιο</orig>
+                    <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <orig>υλ</orig>
+                    <gap reason="lost" quantity="2" unit="character"/>
+                    <orig>να</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.12.8" n="B.12.8"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="6" unit="character"/>h<orig>ο</orig>
+                    <gap reason="lost" quantity="1" unit="character"/>
+                    <orig>νανδ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.12.9" n="B.12.9"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="6" unit="character"/>
+                    <orig>ενε</orig>
+                    <gap reason="lost" quantity="1" unit="character"/> καὶ <orig>τ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.12.10" n="B.12.10"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="6" unit="character"/>
+                    <w lemma="unclear">λονειον</w> <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.12.11" n="B.12.11"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="7" unit="character"/>
+                    <orig>τος</orig> <orig>π</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/>
+                    <gap reason="lost" extent="unknown" unit="line"/> </ab>
+ <ab subtype="Face" n="B, fr. 13">Face B, Fragment 13 
+
+<lb/>
+                    <gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_B.13.1" n="B.13.1"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="8" unit="character"/>
+                    <orig>Μ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.13.2" n="B.13.2"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="6" unit="character"/> <w lemma="τρεῖς">τρε͂ς</w> <pc>∶</pc> <orig>Τ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.13.3" n="B.13.3"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="4" unit="character"/> <name type="sacrifice">
+                        <w lemma="πρόθυμα">
+                            <supplied reason="lost">π</supplied>ρόθυμα</w>
+                    </name>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.13.4" n="B.13.4"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="4" unit="character"/>
+                    <orig>ΤΟΝΤΕΣΙ</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.13.5" n="B.13.5"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="3" unit="character"/> <w lemma="σκευάζω">
+                        <supplied reason="lost">σ</supplied>κευαζοσ</w>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_B.13.6" n="B.13.6"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="5" unit="character"/>
+                    <orig>τανε</orig>
+                    <gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb/>
+                    <gap reason="lost" extent="unknown" unit="line"/>
+				</ab>
+			</div>
+
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+
+<p>(Instead of a translation of the often difficult fragments, we offer a detailed commentary; for a translation see that of S. Lambert, AIO, for <ref target="https://www.atticinscriptions.com/inscription/CGRN/45a" type="external">Face A</ref> and <ref target="https://www.atticinscriptions.com/inscription/CGRN/45b" type="external">Face B</ref>.)</p>
+			</div>
+
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+
+<p>(Au lieu d'une traduction, nous offrons un commentaire détaillé des fragments.)</p>
+			</div>
+
+			<div type="commentary">
+				<head>Commentary</head>
+
+<p>The widely accepted and generally convincing view is that this rather disparate group of fragmentary stelai, excavated for the most part during the still ongoing excavations of the Agora, constitute parts of the law code of Athens. A revision of this set of laws seems to have taken place in two key stages in the history of democratic Athens: 1) after the Council of Four Hundred was overthrown at the end of the Peloponnesian war, for a duration of six years in ca. 410-404 BC (= Face B), and 2), after the regime of the Thirty, in ca. 403-399 BC (= Face A). About this process of revision, we are particularly well, albeit tendentiously, informed by Lysias' speech against one of the members of the commission tasked to write up the laws, Nikomachos (Lys. 30, ca. 399 BC; for discussion, see Dow 1960; Rhodes 1991). Though, as Lambert writes (p. 354), the accusations against this man are "predictable", namely that he had omitted ancestral sacrifices and inserted new ones, the speech nonetheless provides us with some glimpses into the purpose of the commission: it was to ensure that "the sacrifices from the <foreign>kyrbeis</foreign> and from the stelai be performed according to the official instructions", as the city had decreed (Lys. 30.17: ὡς χρὴ θύειν τὰς θυσίας τὰς ἐκ τῶν κύρβεων καὶ τῶν στηλῶν κατὰ τὰς συγγραφάς, ὅτι καὶ τῆς πόλεως κατηγορεῖ· ταῦτα γὰρ ὑμεῖς ἐψηφίσασθε); the instructions (συγγραφαί) mentioned appear to have been formal orders to the commission (see Lambert; Parker 1996: 44-45). The <foreign>kyrbeis</foreign> which provided one of the sources of authority for the laws were thought to be the code of Solon, which was notably concerned with sacrifices. For the <foreign>kyrbeis</foreign> cited as a form of authority for sacrifices and their financing, see also the dossier of the <foreign>genos</foreign> of the Salaminioi, <ref target="CGRN_84">CGRN 84</ref>, 363/2 BC, lines 85-88; for the identification of a fragment from the Solonian code concerning a type of sacrificial animal, see here <ref target="CGRN_21">CGRN 21</ref>, commentary at lines 12-13; for other fragments of Solon dealing notably with the pricing of sacrificial animals and with festivals, see Ruschenbusch, fr. 77 and 81-92; Leão - Rhodes, fr. 80-92. The other sources were stelai, containing official enactments of the city of Athens. As they are preserved, the fragments on Face A indeed contain explicit references to these sources of authority: one of the many rubrics of the documents is ἐκ τῶν στ̣[ηλῶν], Face A, fr. 3, cols. 1-2, line 77 (cf. also Face A, fr. 2, line 8; but no such rubrics as yet appear on Face B). Perhaps the same phrase as in Lysias, [κατὰ?] τὰς συγγραφάς, appears to be invoked on Face B, fr. 12, line 4. As currently preserved, the fragments are primarily concerned with accounting for sacrifices, as part of the sacrificial calendar of Athens; it should be noted, however, that Face B of fr. 4, not included here, is inscribed with a law about the trierarchy (<bibl type="abbr" n="IG I³">IG I³</bibl> 236A; for other revisions or excerption of Athenian laws, see "Drako's law", <bibl type="abbr" n="IG I³">IG I³</bibl> 104, as well as <bibl type="abbr" n="IG I³">IG I³</bibl> 105). </p>
+
+<p>To a degree, discussion remains open about the unity of the thirteen fragments presented by Lambert. This is a degree of uncertainty for which he himself makes careful allowances (Lambert, p. 354 n. 8 and 355; see below on frs. 12 and 13). For recent criticism of the overall coherence of the fragments, see Canevaro - Harris (writing, p. 41, “nothing compels us to accept this attribution”, i.e. to the revision of the Solonian laws). Yet the unity of most of the fragments appears difficult to doubt: first, on the basis of the consistency of the letterforms employed by the cutters of each face (see Lambert, p. 360); second, because of the form of the stelai themselves: the thicknesses of frs. 1-3, 5, and 7 (cf. Lambert's "group A"), are perfectly coherent (ca. 12 cm), those of frs. 8-9 equally so (ca. 9 cm; cf. Lambert's "group B", and p. 361-362; see also Gawlinski, p. 39); finally, and perhaps most importantly, due to their format (two faces in Attic and Ionic script, respectively), content, and formulary. Concerning the presence of the two faces, Lambert argues (p. 355) that the "simplest hypothesis" is that face B contains remains of the work of the commission including Nikomachos in ca. 410-404 BC; this may later have been set against a wall to obscure the text; face A seems to be inscribed (perhaps over erased text) and therefore contains the revision of the sacrificial calendar in the second term of the commission (ca. 403-399 BC). In terms of their form, as frs. 2-3 reveal—the only ones with the top partly preserved—, the stelai show “clamps in the top” (Lambert, p. 355); and where sides are preserved, they show anathyrosis. Therefore, some kind of attachment between the different stelai was intended, not necessarily constituting the hypothesised "stele-wall" (cf. Dow 1961) as Canevaro - Harris rightly criticise, but nevertheless a form of structural organisation of the stelai for publication must be presumed. As a comparandum, cf. the four month-stelai of the sacrificial calendar of the city of Kos (<ref target="CGRN_86">CGRN 86</ref>, ca. 350 BC), which probably formed a unified monument. The case is usually made that this version of the Athenian law code was published in or near the Stoa Basileios in the Agora (see Lambert, p. 356 with n. 18, for full details, and also Gawlinski on the findspot of fr. 5, very close by; on th wider context of displaying this and other laws in the Agora, cf. now Shear 2011: 85-96, 243-247). Some uncertainty perhaps remains (it should be recalled that in Pausanias’ time the laws of Solon were said to be displayed in the Prytaneion, Paus. 1.18.3, and a cluster of the fragments, frs. 3, 8-11, were indeed found in this area).</p>
+
+<p>Prices were listed in a separate column to the left of each column of text (on face B, female sheep always costed 12 dr., male wethers, 15 dr., rams, 17 dr.; other prices varied or are only for rarely attested animals: see Lambert, p. 396-397). Totals were counted for each month (see Face A, fr. 3, col. I, lines 16-17). Yet, though its focus was clearly on the accounting of the expenses of festivals and other celebrations (see Lambert; Canevaro - Harris), the document overall takes the form of a sacrificial calendar. Indeed, most Attic calendars from ca. 400 BC onward (if not earlier; see above on 'Solon') were accounting documents, containing specifications of the prices of sacrificial animals and other necessities (for an excellent example, cf. <ref target="CGRN_52">CGRN 52</ref>, from the deme of Erchia; for an exception, see the perhaps earlier calendar of the deme of Thorikos: <ref target="CGRN_32">CGRN 32</ref>). In its later face (A), the state calendar was organised, like that of the Marathonian Tetrapolis (cf. <ref target="CGRN_56">CGRN 56</ref>), in different periods or sequences: there was an annual sequence, "followed by two biennial sequences for items funded by the state in alternate years" (Lambert, p. 356; see below on the headings of Face A, fr. 2, and fr. 3, cols. 2-3); other sequences (quadrennial, etc.) will also have been included but now appear lost. As part of these sequences, other headings provided the month and date of different occasions. Lambert claims that festivals as a general rule seem to have remained unnamed in the calendar, which may indeed have been a general principle of composition for Face A (cf. fr. 8 for an apparent exception, which is probably to be discarded). But there seem to be numerous exceptions as far as Face B seems to be concerned: frs. 1, 4, 5. On Face A, rubrics specified the sources of authority for the sacrifices listed: ἐκ τῶν φυλοβασιλικῶν (from the <foreign>phylobasileis</foreign>), ἐκ τῶν κατὰ μῆνα (by month), ἐκ τῶν μὴ ῥητῆι (unspecified, i.e. moveable, days), which possibly "were subdivisions of 'Solon's calendar'/the <foreign>kyrbeis</foreign>" (Lambert, p. 357). Also, the rubric "from the stelai" is "likely to relate to the newer, 'post-Solonian' sacrifices", which the appointed commission needed to integrate in the revision of the laws (ibid.). The organisation of Face B, by contrast, containing an earlier attempt at codifying the calendar, is less certain and Lambert (ibid.) finds that it "generally makes an impression of less rigorous drafting"; however, the inclusion of festivals as dated rubrics on this face (see above) remains noteworthy.</p>
+
+<p>Face A</p>
+<p>Fragment 1, col. 3, lines 1-25 (4-6 Boedromion?): The interpretation of lines 1-2 remains unclear (see Lambert for some possibilities). The rituals falling on the date of the fifth (line 3) in this column have been identified by Dow as belonging to the festival of the Genesia (see Lambert for full details, who assigns this fragment to the annual sequence of the calendar). This was a civic festival falling on the date of 5 Boedromion and it appropriately appears to have been cited in the <foreign>axones</foreign> of Solon (Ruschenbusch, fr. 84 / Leão - Rhodes, fr. 84). On the date and the character of the celebration, see also Mikalson, p. 49, Georgoudi, and Parker 2005a: 27-28, 470. Hsch. s.v. is the prime source for interpreting it as a festival held in commemoration of the dead; he also mentions sacrifices to Ge on this occasion. At Erchia, the date is also known and appears to have involved sacrifices to ancestral heroes (Epops), <ref target="CGRN_52">CGRN 52</ref>, lines Δ18-23 + Ε9-15. This also seems to have been the case in the state calendar, where Erechtheus is the focus of the rites. Erechtheus here receives an ἀρνειός (Att. ἀρνεώς), a relatively young male sheep or young ram, but apparently older than a lamb, ἀρήν (Hsch. s.v. calls it a τριετὴς κριός); such an offering for Erechtheus is already mentioned in H. <title>Il.</title> 2.550-551. For another sacrifice to Erechtheus in an uncertain context, see here <ref target="CGRN_7">CGRN 7</ref>, line A50. The sacrifice here derives from the source of authority of the <foreign>phylobasileis</foreign>, who were the heads of the obsolete Ionian tribes in Athens; these figures, as repeated in the dative in line 8, seem to have received one or more perquisites from the sacrifice to Erechtheus. For the regular sacrifices of the new tribe Erechtheis to their eponymous hero, see <bibl type="abbr" n="IG II²">IG II²</bibl> 1165, line 6. For the <foreign>phylobasileis</foreign>, see also below on Face A, fr. 3, col. 2; cf. also <ref target="CGRN_7">CGRN 7</ref>, lines A43-44. In line 10, Lambert connects the wineless offering with the context of the Genesia; on wineless offerings, see here <ref target="CGRN_9">CGRN 9</ref>, Paros, lines 3-4. In lines 11 and 13, Lambert reads and interprets the swine as coming "from those which are native", ἐξ or ἀφ᾽ ἡμεδαπῶν, which again may relate to the Genesia as a rite of ancestral commemoration. On the sixth (lines 23-24), an offering was prescribed to Athena, but this is now lost at the top of col. 4 to the right (traces of which are not included here). Since the source of authority for this sacrifice points to an "unspecified", i.e. a floating or movable, day (ἐκ τῶν μὴ ῥητῆι; see above), it would seem that this sacrifice was later assigned to a specific date by the commission drafting the calendar. The date of 6 Boedromion was marked by a celebration of the battle of Marathon and a festival of Artemis Agrotera (cf. Mikalson, p. 50), but it is not clear how this relates here; cf. Lambert in AIO: "one wonders if a "floating" offering to Athens was anchored to this date after the battle".</p>
+
+<p>Fragment 1, cols. 1-3 (below the line, unspecified period?): Below a horizontal line that has been incised across the face of the stele is what appears to be a separate and probably continuous section of text across three columns, but of uncertain relation to the text above as well as perhaps of a different character (it does not appear to contain any accounting of expenses, though this may have come in a missing passage). Lambert (p. 370) attractively hypothesises that, "since it relates to an irregular event which only took place when lightning was sighted above Harma, it could not readily be accommodated in the regular annual" sequence above the line. Though the first passage is highly fragmentary, it has been convincingly interpreted by Lambert (with further refs.) as referring to the possibility of the sign that was awaited by the Pythaistai, as prescribed by an oracle, before undertaking the journey to Delphi; this took the form of rare or occasional lightning falling over Harma (the mountaintop fortress at the northwestern boundary of Attica near Phyle); cf. Str. 9.2.11. For the Pythaistai, who were required to maintain watch for this sign of lightning for three consecutive months, cf. here their role in the calendar of Erchia <ref target="CGRN_52">CGRN 52</ref>, lines Α23-36 + Γ31-37 + Ε31-46 (7-8 Gamelion) and lines Α52-56 + Β45-54 + Γ54-58 + Δ47-52 + Ε47-58 (Thargelion 4), and cf. also their presence, as ritual agents or participants, in Face A, fr. 6, below. Despite the intervening lacuna, the text in column 3 supports an unified view of this passage, mentioning Apollo as well as a list of offerings which are said to "follow the ritual basket (κανοῦν)", perhaps in the procession during the Pythais (for the κανοῦν in a different context, see also here <ref target="CGRN_94">CGRN 94</ref>, line A28). As Lambert comments, the items here are "more or less characteristically Apolline", including notably a tripod and some sort of components of a bow (ἐπιτοξίδας). A crown is also mentioned and there is also to be an animal as part of this procession, since προγόνιον here must designate a newborn lamb (cf. <ref target="CGRN_94">CGRN 94</ref>, lines A10-15). The last two items are less clear: perhaps ribbons or fillets for the newborn animal (the restoration of Ziehen which is adopted here; though Lambert does not think this may match the traces on the stone) and apparently a sphere. For both crowns and fillets, see here <ref target="CGRN_146">CGRN 146</ref>, Phyxa, lines 12-19, and cf. <ref target="CGRN_64">CGRN 64</ref>, Epidauros, lines 6-7; for spheres as a ritual object, see also here <ref target="CGRN_15">CGRN 15</ref>, Gortyn, line 4. For the Athenian Pythais, see now Rutherford, p. 222-230.</p>
+
+<p>Fragment 2 (11 or 12 of unknown month): Line 1, in larger lettering also separated by a horizontal dividing line running the preserved width of the face, must constitute a heading, probably indicating a biennial sequence to the rituals (compare on fr. 3 below; see Lambert for further details). In line 2, the date should be the 11th or the 12th, [ἑνδ]ε̣κάτ[ηι] or [δωδ]ε̣κάτ[ηι], not attributed to a month; Lambert (2002) originally suggested that the month concerned was Metageitnion; he now (AIO) views 12 Hekatombaion as a possibility, thinking of a connection with the Kronia ("though there is no obvious thematic connection"). In line 3, a form of authority for the sacrifices may have followed, but this remains unclear. For possible identifications of the festival concerned, involving Apollo, Leto (perhaps receiving a selected female animal, line 6, though this is not certain), Kourotrophos, and Zeus, see Lambert (with further refs.), who tentatively compares the sacrifice on 12 Metageitnion at Erchia, <ref target="CGRN_52">CGRN 52</ref>, lines Α1-5 + Β1-6 + Γ13-18 + Δ13-17. It is particularly the epithet of Zeus, beginning in Ne[---], and thus plausibly to be identified as Nemeios (so Lambert), which makes a contextual identification of the rituals possible. The Nemea were biennial (see also now the Games Dial of the Antikythera mechanism, Iversen, p. 142), which can be seen to match particularly well the periodicity of the rituals in the calendar of Athens here. Iversen (p. 142-143 n. 54, 174-175 with n. 174), however, considers that Lambert's restoration can be doubted since he argues that the Nemea must have been celebrated in Argive Panamos (= Athenian Hekatombaion). Indeed, this would either entail that the restoration of Zeus Nemeios should indicate that the month here is probably Hekatombaion (so now Lambert, AIO) or that, as Iversen proposes, Dow's restoration Zeus Ne[anias] should be rehabilitated (comparing the sacrifice to Neanias on 16 Pyanopsion at Thorikos, <ref target="CGRN_32">CGRN 32</ref>, lines 25-27—but he was worshipped in Mounychion in the Tetrapolis, <ref target="http://cgrn.ulg.ac.be/CGRN_56">CGRN 56</ref>, col. II, line 21) and thus the sacrifice in the state calendar will have fallen in Pyanopsion. See Lambert and Iversen for further details about this debate.</p>
+
+<p>Fragment 3, col. 1, lines 1-17 (end of Thargelion): As Lambert has reconstructed it, this column preserves the end of the month Thargelion and then the last month of the year, Skirophorion. This should also form a part of a biennial sequence, preceding the one found in cols. 2-3 of the same fragment (cf. Lambert). Lines 1-4 contains the end of a list of elements belonging to a ritual before the one falling on line 5 (perhaps 25 Thargelion, see Lambert). From the mention of a φᾶρος (line 7), a large piece of cloth or a mantle, as well as of pure or clean wool (?, cf. line 8), it is inferred that the rituals falling in this dated rubric (beginning in line 5) must, according to Lambert, have belonged to the state Plynteria. This is a festival which is alternatively dated to 25 or 29 Thargelion; see Mikalson, p. 160-163, for the sources. Lambert argues that both dates may be meaningful: the removal of adornment and clothes on the old statue of Athena Polias may have taken place on 25 Thargelion, which was an ἡμέρα ἀποφράς (day on which no official business could be conducted); perhaps over the following days (in which no political meetings are attested) and on the 29th in particular, the statue would be washed at Phaleron and redressed with the φᾶρος which is mentioned here. For the debate about these dates and the role of the <foreign>genos</foreign> of the Praxiergidai during the rituals (washing, clothing, etc.), cf. here <ref target="CGRN_24">CGRN 24</ref> (for a local celebration connected to Plynteria at Thorikos falling even later, in Skirophorion, see <ref target="CGRN_32">CGRN 32</ref>, lines 52-65). On the whole, it seems to us likelier that the Plynteria took place on the 25th of Thargelion (so Mikalson, Parker 2005a: 478) and that the ritual mentioned here may be that of the Kallynteria. Though it must have fallen in the last part of Thargelion, the date of the Kallynteria remains unclear, since the dates found in Photius s.v. Καλλυντήρια καὶ Πλυντήρια are manifestly wrong (cf. again Parker 2005a: 474-475). The etymology of this celebration suggests that the statue of Athena was 'beautified', no doubt after being washed during the Plynteria. Athena Ergane (lines 12-13) seems to have been particularly invoked here in her capacity as patron of textile working and in connection with the offering of the new φᾶρος for Athena (Polias), rather than in a rite preliminary to washing.</p>
+
+<p>Fragment 3, col. 2, lines 19-28 (beginning of Skirophorion): As part of these rituals, which must fall in the period of 2-9 Skirophorion (the two dates in lines 20 and 28 are said to be ἱσταμένο), Athena in the first instance receives a select cow and is accompanied by Kourotrophos, who receives a piglet. Lambert (with refs.) compares other known sacrifices in early Skirophorion but concludes that any connection with the state calendar is "obscure". The strongest possibility, as Lambert seems to admit, is of a connection with the Arrhephoria. This festival, which appears to have fallen on or around 3 Skirophorion, involved sacrifices "in the city" to Athena Polias, Kourotrophos, but also Aglauros, Zeus Polieus and Poseidon, according to the calendar of Erchia: cf. <ref target="CGRN_52">CGRN 52</ref>, lines Α57-65 + Β55-59 + Γ59-64 + Δ56-60. For the demesmen of Erchia, the sacrifice was of a female sheep "instead of a bovine": i.e. a cow was expected, as we find here; the ancillary Kourotrophos also received a piglet, as is usual (on the goddess, see Pirenne-Delforge). However, see Lambert for a discussion of the probable dates which fit in the lacuna of line 19 (τρίται appears too short, so that the date of the state Arrephoria may have been prior to or later than the date which is found at Erchia).</p>
+
+<p>Fragment 3, col. 2, lines 30-58 (15-16 Hekatombaion): A heading in line 30 is inscribed above a horizontal line incised on the face of the stele. As it makes clear, the rites belong to one of two biennial sequences. Running continuously for over 25 lines, this is one of the best preserved passages from the whole of the state calendar (the other, in col. 3, is discussed immediately below). The dates are fully preserved and 16 Hekatombaion is known as the date of the annual festival of the Synoikia, which commemorated the mythical unification of Attica into the city of Athens (see Lambert, with further refs.; Mikalson, p. 29-31; Parker 2005a: 480-481). Since the festival seems to have been annual, it is not clear why it is found as part of a biennial rubric. The day before the Synoikia, 15 Hekatombaion, records the offering of a sheep having lost its milk-teeth for the <foreign>trittys</foreign> of the Leukotainiai; this group was a member of the Geleontes, one of the four old (pre-Cleisthenic/pre-508 BC) Ionian tribes (the divine recipient is not explicitly specified, but the offering may have been made at the shrine of this group in the Agora; cf. again Parker). Priestly perquisites (ἱερεώσυνα) were assigned in cash, while meaty prerogatives to be given to the <foreign>phylobasileis</foreign> and to the herald were also compensated for in cash (1 dr. and 4 obols respectively). These traditionally appear to have consisted of the rich and meaty back of the animal for the <foreign>phylobasileis</foreign>, and of the shoulder, feet and the head of the animal for the herald. On these payments to cult personnel, cf. Lambert, p. 398-399. During the main event on the 16th, the sacrifice, consisting of a pair of oxen which had lost their milk-teeth, was performed to Zeus Phratrios and Athena Phratria for the old Ionian tribe of the G(e)leontes. For Zeus Phratrios and Athena Phratria, the patron of phratries, which regulated the Athenians' ancestral rights to citizenship and other privileges, see here <ref target="CGRN_74">CGRN 74</ref> (phratry of the Demotionidai). Priestly perquisites were again assigned in cash, and the herald was given money in lieu of the traditional prerogatives of a ribcage, the feet and the head (a total of 2 dr., 3 obols?). In the absence of a sum listed to the left in the case of the leg (σκέλος) given to the <foreign>phylobasileus</foreign> of the G(e)leontes, it remains unclear whether this was a portion in kind or compensated for in cash (part of the total for the herald?); the former seems a more plausible conclusion (see Lambert, p. 395). The leg was the priestly perquisite par excellence. For portions of the back (of an ox), given to various recipients, including the herald, during the sacrifice to Zeus Polieus on Kos, see <ref target="CGRN_86">CGRN 86</ref> A, lines 50-55; half the ribcage is also mentioned as the priestly perquisite in this context. For the head and the feet of the animal awarded to priests and other cult officials, cf. here e.g. <ref target="CGRN_193">CGRN 193</ref> (Hyllarima), lines Ab16-18 and B17-21 (priests) and <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), line 44 (<foreign>epimenioi</foreign>).</p>
+
+<p>Fragment 3, col. 3, lines 60-86 (Eleusinia?, unknown date after Hekatombaion): This elaborate series of sacrifices, to many gods which demonstrate a connection with Eleusis (Demeter, Persephone, Eumolpos, etc.), and which must be sacrificed by the cult agents of the <foreign>genos</foreign> of the Eumolpidai (lines 73-74). Clinton attractively suggests that the second set of rituals in this column, lines 76ff., were to be performed by the <foreign>genos</foreign> of the Kerykes, but it may simply be that they came from the stelai (line 77) and therefore not 'ancestral'. The sacrifices may have taken place at Eleusis, "but the city Eleusinion or other city locations cannot be ruled out" (Lambert, p. 377). The generally accepted view is that the rituals are those of the Eleusinia, an agonistic festival which is thought to have fallen in Metageitnion; an earlier view was that they concerned the mysteries in Boedromion (see Lambert for full refs.). A similar uncertainty hovers over the inscription from Eleusis which has been argued to substantially overlap with the list of deities found here in the state calendar: <ref target="CGRN_8">CGRN 8</ref>, with the opposing views of Healey (Eleusinia) and Clinton (mysteries; <bibl type="abbr" n="IE">IE</bibl> 13). Hermes Enagonios and the Charites are mentioned in both texts, as are of course the Eleusinian goddesses; other figures such as Artemis, Telesidromos, and Triptolemos, which are present in the decree at Eleusis, are either missing here or were not included. Hermes Enagonios is a god manifestly connected with an agonistic context, cf. <ref target="CGRN_147">CGRN 147</ref> (Kos), and so his role in a festival such as the Eleusinia, which included contests, remains more suitable. For a debate about the date of the Eleusinia, see Rigsby and now Iversen (p. 174-175 n. 174). For the household god Zeus Herkeios, here apparently worshipped as an ancestral deity, in the company of Themis, by the Eumolpidai, see here <ref target="CGRN_32">CGRN 32</ref>, lines 13-24 (Thorikos, also juxtaposed with Demeter during rites in Boedromion). For the sacrifice of rams to Persephone (Kore), see here <ref target="CGRN_56">CGRN 56</ref> (Marathonian Tetrapolis), lines 39-55. As Healey noted, the seven heroic figures included here in the list match four of those in the list of θεμιστοπόλοι βασιλεῖς in the <foreign>h.Cer.</foreign> 153-155 and 473-475 (Eumolpos, the ancestral hero of the Eumolpidai; Polyxenos; Diokles; and Keleos). The figure of Melichos, perhaps here called a hero, may suggest a connection with the better known figure of Milichios or Zeus Meilichios; however, this is far from certain and the form Μελίχιος is unusual in Attica (see Lambert for discussion). The Archegetes was Hippothoon, the eponym of the tribe Hippothontis, to which Eleusis belonged. Threptos might be Triptolemos or "perhaps more likely" Demophon, the nursling of Demeter in the <foreign>h.Cer.</foreign> (see again Healey, and Lambert with further refs.). For the possible roles of Hestia and Athena in these Eleusinian circles, see the summary of the discussion in Lambert. </p>
+
+<p>Fragment 5, col. 1 (unknown month): This fragment also contain a thin horizontal line inscribed across the width of the face. Gawlinski (p. 42) argues that this represents a line dividing this section of the calendar from another one, now essentially lost, above (compare the division of the text through such a line on this face, fr. 1, above); another possibility would be a heading indicating the periodicity of the rituals (cf. Face A, frs. 2 and 3 above). Gawlinski's argument is based on the appearance of the stone and, more compellingly, on the fact that the text here is not inscribed stoichedon, as is the text below the line on fr. 1. But since amounts appear to be missing for this section, she concludes that "the reason for setting apart this section of the text is not readily apparent". Though all indications of date are missing from this piece of the calendar, Gawlinski remarks that Apollo is particularly prominent (2 or 3 attestations). In line 2, the god appears as Prostaterios; together with Artemis Boulaia, he received a customary sacrifice by the Athenian Boule (the location of the sanctuary is unknown; see Gawlinski). In line 4, Apollo appears as Ὑπὸ Μακραῖς ("Under the Long Rocks"), in which guise the god was worshipped in a cave on the north slope of the Acropolis. Gawlinski discusses the cult, well noting its frequent appearance also in Eur. <title>Ion</title>, esp. 10-13, for this cave where Apollo raped Creusa and conceived Ion (ἔνθα προσβόρρους πέτρας | Παλλάδος ὑπ᾽ ὄχθῳ τῆς Ἀθηναίων χθονὸς | Μακρὰς καλοῦσι γῆς ἄνακτες Ἀτθίδος; cf. also 283-288, 492-506, 936-938). Gawlinski additionally suggests that Apollo may be the divine name to restore in line 9, attesting to worship of a figure "by the Pythion". However, the name may be too long and Gawlinski also discusses the unusual phrase ἐπὶ Πυθίωι (implying cult near but outside the sanctuary, cf. <bibl type="abbr" n="LSS">LSS</bibl> 74, lines 53-54?) or the possibility of reading an epithet Ἐπιπυθίωι. Gawlinski well remarks that, as in fragment 8, Apollo appears to consistently receive a full-grown animal (ἱερὸν τέλεον). In line 12, Athena Itonia is included, but though the goddess, originating in Thessaly, was worshipped in Athens (see Gawlinski, with refs.), her presence in the list here is not easily explained. The remainder of the fragment contains two pairs of sacrifices to Demeter and Persephone (restored, but receiving a ram as above, see fr. 3, lines 63-64): one (lines 7-8) took place "in the city" (i.e. the City Eleusinion), the other at Eleusis (lines 14-16). Comparing again <bibl type="abbr" n="LSS">LSS</bibl> 74 (129/8 BC), which involves Eleusinian officials in the Thargelia, Gawlinski tentatively proposes an identification of this set of rituals with this festival on 7 Thargelion (perhaps as part of an annual sequence), but much caution remains warranted (cf. Lambert in AIO: "The impression is of a miscellaneous jumble").</p>
+
+<p>Fragment 6 (until the 7th of an unknown month): This fragment preserves two fragmentary dated rubrics. Line 7 identifies the date as the 7th of an unknown month. Lines 1-6 must therefore have concerned an earlier date in the month (see Lambert for possibilities). On this occasion, it is clear that the priestess of Athena Polias received emoluments from a sacrifice which must have concerned this goddess; the entry then concludes with the offering of a sheep to Hermes in the Lykeion, which was a gymnasion and military exercise area (on this sanctuary, see Lambert; for sacrifices to Hermes as a god frequently associated with the gymnasion, compare here again <ref target="CGRN_147">CGRN 147</ref>, Kos). In the next entry, on the 7th, though Apollo is not specified by name, it is clear that he is the god concerned by the rituals. A sheep having lost its milk-teeth is to be sacrificed "as a seventh day offering", while perhaps parts of the animal or other ritual necessities were to be provided to the Pythaistai. Though a "seventh day offering" is not otherwise attested in Attica, it is found elsewhere (cf. here the Hebdomaia at Miletos, <ref target="CGRN_201">CGRN 201</ref>, lines 4-6) and the association of Apollo with the seventh day of the month is remarkably widespread in the ancient Greek world (for some discussion and Attic examples, cf. here e.g. <ref target="CGRN_52">CGRN 52</ref>, Erchia, lines Α23-36 + Γ31-37 + Ε31-46 (7-8 Gamelion), and <ref target="CGRN_84">CGRN 84</ref>, Salaminioi, lines 89-90 (7 Metageitnion)). The cult of Apollo Hebdomaios is also attested in Athens (see Lambert). For the Pythaistai, the ritual agents involved in the official pilgrimage to Delphi, see above on fr. 1, cols. 1-3, lines 26-30.</p>
+
+<p>Fragment 7 (unknown date): This small fragment first preserves part of a date in the first decad of an unknown month (see Lambert for possibilities). Its source of authority was the part of the code dealing with the <foreign>phylobasileis</foreign> and apparently one or more of these officials, head of the old Ionian tribes, was the recipient of a stipend or sacrificial prerogatives on this occasion (line 4); on the <foreign>phylobasileis</foreign>, see at Fr. 1, col. 3, lines 1-25, and further above.</p>
+
+<p>Fragment 8, col. 2 (Delia, unknown period): The traces fragmentarily preserved in an earlier column to the left (col. 1) are not included here; they were probably connected with those found in the better preserved column 2 (so Lambert, with further details). The latter are identified with the Delia, since a sacrifice is explicitly mentioned as taking place "on Delos" in line 6; the remainder of the line could be restored as mentioning the festival itself, either τὰ Δ̣[ήλια] or perhaps τὰ Ἀ̣[πολλώνια], but this may also have been the usual heading τάδ̣[ε θύεται] (see Lambert). The Delia took place in the local month of Hieros, which corresponds to Attic Anthesterion. Unfortunately, the periodicity of the rituals in the state sacrificial calendar is uncertain, but the Delia are known to have taken place annually, as well as quadrennially (but only since 426/5 BC, see Thuc. 3.104.2; <title>Ath. Pol.</title> 54.7) and sexennially; see Lambert for further refs. and cf. also Parker 2005a: 80-82. Since the offerings presented here are rather modest—generic sacrificial animals, a ram (Lambert aptly compares those listed in the accounts of the Delian Amphictyony for the quadrennial festival in 374 BC<bibl type="abbr" n="ID">ID</bibl> 374)—, it is possible that they relate to the annual <foreign>theoria</foreign> of Athens to Delos for the Delia. The sacrifices partly preserved in lines 3-5 have been viewed as those performed (to Apollo and at least one other figure) in the Delion in Athens before the theoric mission set out (for the Delion, see below on Face A, fr. 12). The remainder, to Apollo, Poseidon, Leto, and probably others, will have been performed on arrival in Delos by the <foreign>theoroi</foreign> (for Poseidon and the Posidea on Delos, see also here <ref target="CGRN_199">CGRN 199</ref>).</p>
+
+<p>Fragment 9, col. 1 (unknown date): This small fragment preserves the conclusion of a list of offerings (a measure of the third portion of a <foreign>chous</foreign>), followed probably by a sacrifice to Apollo. Nothing can really be said about the context of these offerings; see Lambert for further details on this fragment, also its second, fragmentary column which is not included here.</p>
+
+<p>Fragment 12 (unknown date): Lambert raises two possibilities for the interpretation of this fragment: 1) it concerns sacrifices in the area of Eleusis (cf. line 3; Oinoe, lines 4 and perhaps 10, would then be the little known deme in Hippothontis); 2) it concerns the Marathonian Tetrapolis (Oinoe will then be one of the four consistuent members or "cities" of the Tetrapolis; see also Lambert in AIO). On balance, Lambert seems inclined to view a connection with the Tetrapolis ("but certainty is impossible"), as indeed are we; see below. The “two heralds” who are cited here (line 2), probably as the recipients of a stipend or perquisite, are perhaps those of the <foreign>genos</foreign> of the Kerykes, mentioned in a fragment of the <foreign>kyrbeis</foreign> of Solon "concerning the Deliastai" and as having "the right to dine publicly (παρασίτειν) in the Delion for the year" (cf. Ruschenbusch, fr. 88 / Leão - Rhodes, fr. 88); for the Deliastai and the Delia, see above fr. 8, col. 2. Eleusis or something Eleusinian is mentioned in the immediately following line (3). The two heralds might be identified with the two principal officials of the Kerykes: the main herald (later ἱεροκῆρυξ) and a herald of Pythian Apollo (cf. Lambert). Lambert additionally hypothesises that the Delion mentioned in the Solonian law may have been one at Marathon (cf. Philochoros, <bibl type="abbr" n="FGrH">FGrH</bibl> 328 F 75), which would imply that the heralds also exercised ritual functions there. Moreover, both Artemis and Athena demonstrate connections with the Oinoe of the Tetrapolis: Artemis at Oinoe (line 4) appears to be Artemis Oinaia whose priestess had a place in the theatre of Dionysos, next to Demeter Achaia (<bibl type="abbr" n="IG II²">IG II²</bibl> 5116), and was perhaps the recipient of perquisites in <ref target="CGRN_26">CGRN 26</ref>, lines B16-19, if that text is indeed to be tied to the Tetrapolis; Athena Oinaia, if correctly restored, may point us in the same direction, though it is unclear if she can be set in parallel to the distinctive Athena Hellotis known from the sacrificial calendar of the Tetrapolis, cf. <ref target="CGRN_56">CGRN 56</ref>, col. II, lines 34-38 (etc.). In apparent association to these figures, but as part of a celebration that remains wholly obscure, Zeus Morios is also convoked. This was the god who protected the sacred olive trees in Attica (cf. S. <title>OC</title> 705, with schol.; Papazarkadas, p. 278-279). The sacrifices were clearly of a high caliber and importance; for the sacrifice of the <foreign>trittoa boarchos</foreign>, cf. here <foreign>inter alia</foreign> <ref target="CGRN_8">CGRN 8</ref>, Eleusis, line 5.</p>
+
+<p>Face B</p>
+
+<p>Fragment 1, cols. 1-2 (the latter: Dipolieia, 14 Skirophorion): It may appear that Face B in this fragment contains the original material, of which Face A is the revised version (see Lambert, p. 355 n. 14). The very fragmentary first column cannot be reconstructed with any certainty. Since column 2 appears to date to mid-Skirophorion (see below), Lambert raises the possibilities that the sacrifice to Apollo in line 2 could be connected with the Delphinia (6 Mounychion) or the Thargelia (7 Thargelion). As Lambert reconstructs and discusses it (with further refs.), the beginning of column 2 appears to make provisions for the city’s contribution to the Dipolieia (a festival which is explicitly mentioned in line 14). The date of this festival was 14 Skirophorion (see Mikalson, p. 171) and it seems to have been annual. It was an archaic festival of Zeus, taking place on the Acropolis, which involved the driving of bovines around the sacrificial table and prominently featured the sacrificial knife in the ritual (the main source is late: Porph. <title>Abst.</title> 2.30). Here, remarkably, it would seem that the city financed the price "of the first six [oxen] from the driving around", i.e. what seems to be intended is the ritual driving of these bovines (and others, from other sources) around the altar of Zeus Polieus on the Acropolis. For the contribution of the deme Skambonidai to the Dipolieia, cf. <ref target="CGRN_19">CGRN 19</ref>, lines A15-21 (see Lambert for other possibilties). On the Dipolieia, see Lebreton; for a βουτύπος mentioned in connection with festivals at the City Eleusinion, cf. also <ref target="CGRN_7">CGRN 7</ref>, lines A24-25; for a reform of this festival in the period of Lycurgus, cf. <bibl type="abbr" n="IG II³">IG II³</bibl> 551. Compare also the sacrifice of Zeus Polieus on Kos, involving an elaborate process of selection among oxen "driven" into the agora, <ref target="CGRN_86">CGRN 86</ref> A. The process implied here may have been similar, as Lambert attractively suggests. The officials involved appear to be a group of heralds, perhaps from the <foreign>genos</foreign> of the Kentriadai, as well as a priestess, probably that of Athena Polias though that is not specified (see Lambert). Piglets, wood, and ἱερά were also supplied for the occasion; the latter may here have the sense of "sacrificial complements", which is also found on Kos (see the discussion in the commentary at <ref target="CGRN_86">CGRN 86</ref> A).</p>
+
+<p>Fragment 4 (Epidauria, 17 Boedromion): As yet not fully published, this fragment contains the remains of 14 lines before the apparent mention of a festival and some of its characteristics. In the restoration of Clinton adopted by Lambert, this is the Epidauria (line 15), a festival which took place during the Eleusinian mysteries (on 17 Boedromion, cf. Clinton) and commemorated the arrival of Asclepius in Athens in 420 BC and his "initiation" into the Great Mysteries of Eleusis, cf. <bibl type="abbr" n="SEG">SEG</bibl> 47, 232 (ca. 400 BC): [ἀ]νελθὼν̣ Ζ̣εόθ̣[ε|ν Μυστηρί]ο̣ις τοῖς μεγά̣|[λοις κατ]ή̣γετο ἐς τὸ Ἐλ̣|[ευσίνιο]ν. It is clear that the Epidauria must have been part of the newer festivals included as part of the calendar (perhaps qualified as "new", on Face A, fr. 2, line 3; or "from the stelai"). The list of sacrifices (Lambert) or perquisites (Clinton) which follows in the fragment is difficult to interpret with certainty. Appropriately, Demeter was the recipient of an offering (Lambert) or her priestess was compensated (Clinton) on this occasion, which formed a part of the mysteries at Eleusis; for possible restorations in lines 17-19, see the extensive discussion of Lambert.</p>
+
+<p>Fragment 5 (until the 9th of an unknown month? Herakleia?): This part of a column is inscribed stoichedon (of a length of 20 or 21 stoichoi according to Gawlinski's calculations) and preserves parts of the lists for two days in an unknown month. Lines 1-10 includes parts of a dated entry earlier in the month, while line 11 introduces the date of the 9th of the month for a set of sacrifices (running probably over lines 11-19; Lambert, AIO, suggests that the tenth of the month is also a possible reading). One commonality between both entries is the inclusion of sacrifices to Heracles (lines 7-8 and 11-11a; for sacrifices to this god in Attica, cf. Gawlinski who collects the evidence). In the second case, after the date, we find the letters ΗΡΑΚ inscribed out of stoichedon and above the line register; this is also written in an Ionic rather than the expected Attic spelling (hερακ-); and some letters inscribed below the line and above the next (here line 11a) below appear to supplement what needed to be inscribed. Gawlinski observes that the cutter has made some mistakes, but comes to a different conclusion, thinking of a "deliberate" spelling of the theonym Heracles, followed by an offering perhaps squeezed into the lacuna to the right. An attractive alternative that lines 11-11a may represent a heading, since no offering or price seems to be possible in these lines, is suggested by Lambert, AIO. Lambert reads lines 11-11a as Ἡρακ[λείο]|ι̣ς. However, he admits that this "makes it difficult to explain the overrun of the lines" (see AIO for other possible restorations), and moreover, that there are at present no grounds for identifying this Herakleia with any of the multiple festivals known by this name in Attica (Parker 2005a: 472-473). In the first case, Heracles is accompanied by heroes (line 10); in the second, during the Herakleia, if correctly restored, by the Tritopatreis (line 12), by an unknown figure in line 14 (see Gawlinski for some possibilities), and by the Hyakinthides. For the Tritopatreis, see here <ref target="http://cgrn.ulg.ac.be/CGRN_13/">CGRN 13</ref>, Selinous, face A; in Attica, <ref target="CGRN_52">CGRN 52</ref>, lines Δ41-46, and <ref target="CGRN_56">CGRN 56</ref>, col. II, lines 32 and 53). As for the Hyakinthides, they are to be identified with a mythical group of sisters who were sacrificed for the benefit of Athens: one source makes them the daughters of Erechtheus, another of a Spartan called Hyakinthos (see Gawlinski for full refs.); they had a shrine in Athens (cf. <bibl type="abbr" n="IG II²">IG II²</bibl> 1035, line 62) and received annual cult in the form of apparently elaborate sacrifices (Eur. <title>Erechtheus</title> fr. 65, lines 78-79: ἐνιαυσίαις... | θυσίαισι τιμᾶν καὶ σφαγαῖσι [βουκ]τόνοις). This last fact might indicate the periodicity of the rituals here, but it is notable that the Hyakinthides are to receive what is called a καθαρμόν (this is unique in the state calendar, as preserved). This (preliminary?) purificatory offering should surely be viewed as significant for interpreting not only the status of the Hyakinthides as heroic and potentially impure figures, but also the character of this series of rites as a whole. The general sense perceived from this fragment is thus that the occasion (the Herakleia?) was concerned with the worship of heroes and perhaps more particularly with the propitiation or appeasement of potentially dangerous ancestral figures (the Tritopatreis and Hyakinthides).</p>
+
+<p>Fragment 9, cols. 1-2 (Great Panathenaia?, 28 Hekatombaion): Lambert has associated this fragment, containing a highly fragmentary list of offerings and other specifications, with the penteteric "Great" Panathenaia. One of the key elements for this hypothesis is the citation of a hekatomb, line 11, which Lambert argues was specially associated with this quadrennial iteration of the festival (cf. <bibl type="abbr" n="IG I³">IG I³</bibl> 375, line 7). The ὅπλα mentioned immediately afterward may have been "military gear for participants in the Panathenaic procession or more likely 'nautical' gear for the Panathenaic ship" (cf. Lambert, with refs.). Running over a second column in Lambert's view, the provisions will then have made reference to citizens (line 7) as well as to the nine archons (line 8; these are also restored as the recipients of perquisites during the annual, "Little" Panathenaia, cf. <ref target="CGRN_92">CGRN 92</ref>, lines 12-13).</p>
+
+<p>Fragment 10: This small fragment contains but a few traces. The traces in line 1 are unclear and there are many possible restorations for the apparent beginning of a theonym in line 2 (see Lambert). In line 3, the restoration of Zeus as Kataibates remains the most likely. The god was honored where lightning struck (on the topic, see here <ref target="CGRN_11">CGRN 11</ref>, Thalamai) and is attested in many places in Attica, cf. here <ref target="CGRN_32">CGRN 32</ref>, lines 10 and 25 (and see Lambert for others).</p>
+
+<p>Fragment 11: This other small fragment begins with the fragmentary offering of a selected sow and a selected ewe; the recipient cannot absolutely be determined, though she is likely to have been a goddess. This was followed by a sacrifice to Kourotrophos (very likely a small offering, such as a piglet; on this goddess, see above Face A, fr. 2), as well as others to Leto, in the Pythion, and in two separate cases to Athena. On the possibilities for an identification of the rituals concerned, see Lambert, though as he is the first to admit, none are compelling.</p>
+
+<p>Fragment 12: As Lambert details, the attribution of this fragment to the sacrificial calendar remains uncertain, since "neither the vocabulary nor the arrangement of the text corresponds". It must therefore have either been a non-calendrical section of text (cf. Face A, fr. 1, cols. 1-3, below the line) or it belongs to a religious law from the Solonian code which was reinscribed alongside the calendar. That being said, a connection with the revision of the law remains palpable: the fragment seems both to refer to expenditures (line 2) and to the instructions provided by the commission for reinscribing the Solonian laws (the συγγραφαί, line 4). However, the latter term remains common (see Rhodes) and is probably to be viewed with caution (see Lambert). Other references in the passage concern cultic apparatus: cult tables, σκάφαι or trays for carrying and presenting offerings (see the sources collected in Lambert, notably in connection with the Panathenaia, and cf. now here <ref target="CGRN_225">CGRN 225</ref> A, Marmarini, lines 29-39).</p>
+
+<p>Fragment 13: This is again a fragment which is only tentatively assigned to the sacrificial calendar (see Lambert for past and current identifications): it may have been from a non-calendrical section of the text (cf. again Face A, fr. 1, cols. 1-3, below the line) or it may belong to a law codified alongside the calendar. For the preliminary sacrifice, πρόθυμα, apparently alluded to in line 3, compare here <ref target="CGRN_46">CGRN 46</ref> and <ref target="CGRN_54">CGRN 54</ref> (Piraeus, in the cult of Asclepius), as well as the offering to Zeus in the calendar of Teithras, <ref target="CGRN_46">CGRN 46</ref>, lines A3-4; for other possible readings of this fragment, consult Lambert.</p>
+
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_166" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 166</idno>: Fragmentary <rs type="textType" key="purity regulation">regulations concerning purity</rs> from Lato</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Fourteen fragments, seemingly belonging to two <rs type="objectType">stelai</rs>. Fragments I-III belong to one stele, which is inscribed one one face. The stele has a tenon for insertion into a base. Fragment IV is part of another stele, inscribed on three faces.</p>
+
+	<p> Fragments I-II: complete on the right, not much is missing to the left of fragment II, which originally would have had an approximative length of 31 letters.
+		<dimensions>
+	<height unit="cm">31</height>
+	<width unit="cm">31</width>
+	<depth unit="cm">unknown</depth>
+	</dimensions></p>
+
+	<p> Fragment III: complete on the left and below.<dimensions>
+	<height unit="cm">17</height>
+	<width unit="cm">30</width>
+	<depth unit="cm">14</depth>
+	</dimensions></p>
+
+	<p> Fragment IV: face A: very incomplete on the left; face B, complete on the left, on the right and below; face C: very imcomplete on the right.<dimensions>
+			<height unit="cm">11</height>
+			<width unit="cm">15</width>
+			<depth unit="cm">12.8</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+		<p>Letters</p>
+		<p> Fragments I-II: <height unit="cm">0.9 - 1.0</height></p>
+		<p> Fragments III: <height unit="cm">1.0</height></p>
+		<p> Fragments IV, Faces A-C: <height unit="cm">unknown</height></p>
+		</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0200" notAfter="-0100">ca. 200-100 BC</origDate></p>
+
+		<p><desc>Justification: lettering (Guarducci). </desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Lato" n="Crete"><ref target="http://pleiades.stoa.org/places/589899" type="external">Lato</ref></placeName>. Found in a cistern in the agora.</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Guarducci <bibl type="abbr" n="IC I">IC I</bibl> xvi, 6.</p>
+	    			<p> Other edition: <bibl type="author_date" n="Demargne 1903">Demargne 1903</bibl>.</p>
+	    			<p> Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 112.</p>
+	    			<p> Further bibliography: <bibl type="author_date" n="Guarducci 1931">Guarducci 1931</bibl>: 31-43; <bibl type="author_date" n="Parker 1983">Parker 1983</bibl>: 112;  <bibl type="author_date" n="Bultrighini 1993">Bultrighini 1993</bibl>: 107-113.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				<ab subtype="fragment" n="I-III">Fragments I-III
+
+<lb/>(9 very fragmentary lines)
+<lb xml:id="line_A10" n="A10"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="παραχρῆμα"><supplied reason="lost">παρα</supplied>χρῆμα</w> <w lemma="ἤ">ἢ</w> <w lemma="ἕλκος">ἕλ
+
+<lb xml:id="line_A11" n="A11" break="no"/><supplied reason="lost">κος</supplied></w> <w lemma="ἔχω"><supplied reason="lost">ἔχων</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="μηδείς"><supplied reason="lost">μη</supplied>θ<supplied reason="lost">ὲ</supplied>
+
+<lb xml:id="line_A12" n="A12" break="no"/><supplied reason="lost">ν</supplied></w> <w lemma="ἐπικωλύω"><supplied reason="lost">ἐπικωλύεσ</supplied>θ<supplied reason="lost">α</supplied>ι</w> <w lemma="ἀλλά">ἀλλὰ</w> <name type="purification"><w lemma="καθαρός"><supplied reason="omitted">κα</supplied>θαρὸν</w></name> <w lemma="εἰμί">ἦμεν</w>. <w lemma="εἰ">αἴ</w> <w lemma="τις">τίς</w> <w lemma="τις">τινα</w> <w lemma="εἰς">ἐς</w> <supplied reason="lost">τὸ</supplied>
+
+<lb xml:id="line_A13" n="A13"/> <w lemma="πῦρ"><supplied reason="lost">πῦρ</supplied></w> <w lemma="ἀέκων"><supplied reason="lost">ἄκων</supplied></w> <w lemma="βάλλω"><supplied reason="lost">βά</supplied>λοι</w> <supplied reason="lost">κ</supplied>αὶ <w lemma="πάσχω">πάθοι</w> <w lemma="τις">τι</w> ὁ <name type="person"><w lemma="ἄνθρωπος"><supplied reason="lost">ἄ</supplied>νθρωπος</w></name> ὁ <w lemma="εἰς">ἐς</w> τὸ <w lemma="πῦρ">πῦρ</w>
+
+<lb xml:id="line_A14" n="A14"/> <w lemma="πίπτω"><supplied reason="lost">πεσὼν</supplied></w> <w lemma="ἤ"><supplied reason="lost">ἢ</supplied></w> <w lemma="παραχρῆμα"><supplied reason="lost">παραχρ</supplied>ῆμα</w> <w lemma="ἤ">ἢ</w> <w lemma="ὕστερος">ὕστερον</w> <w lemma="ἕλκος">ἕλκος</w> <w lemma="ἔχω">ἔ<supplied reason="lost">χ</supplied>ων</w> <name type="purification"><w lemma="καθαρός">καθαρὸ<supplied reason="lost">ν</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">ἦ</supplied>
+
+<lb xml:id="line_A15" n="A15" break="no"/><supplied reason="lost">μεν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐκ"><supplied reason="lost">ἐ</supplied>κ</w> τοῦ <w lemma="πῦρ">πυρὸς</w> καὶ <name type="speechAct"><w lemma="ἐπιβοάω">ἐπιβο<unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/></w></name>
+
+<lb xml:id="line_A16" n="A16"/> <gap reason="lost" extent="unknown" unit="character"/><orig>σ</orig> <name type="personnel"><w lemma="ἐφίστημι">ἐπεστακ<supplied reason="omitted">ὼ</supplied>ς</w></name> <w lemma="αὐτός">αὐτός</w>. <w lemma="εἰ">αἰ</w> δὲ τοῦ <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_A17" n="A17"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἤ">ἢ</w> <w lemma="καταχέω">καταχέαι</w> τὸ <surplus>το</surplus> <name type="liquid"><w lemma="ὕδωρ">ὕδωρ</w></name> καὶ <name type="death"><w lemma="ἀποθνήσκω">ἀποθάν
+
+<lb xml:id="line_A18" n="A18" break="no"/>οι</w> <w lemma="ἤ">ἢ</w></name> <w lemma="παραχρῆμα">παραχρῆ<supplied reason="lost">μα</supplied></w> <w lemma="ἤ"><supplied reason="lost">ἢ</supplied></w> <w lemma="ὕστερος"><supplied reason="lost">ὕ</supplied>στερον</w> <w lemma="ἕλκος">ἕλκος</w> <w lemma="ἔχω">ἔ<supplied reason="lost">χ</supplied>ων</w>, τὸν <w lemma="ἐφίστημι">ἐπιστάσα
+
+	<lb xml:id="line_A19" n="A19" break="no"/>ντα</w> <w lemma="ἤ">ἢ</w> τὸ <name type="liquid"><w lemma="ἑψητός">ἑψη<supplied reason="omitted">τ</supplied>ὸν</w></name> <w lemma="ἤ">ἢ</w> <orig>τ</orig><gap reason="lost" extent="unknown" unit="character"/> <w lemma="μηδείς"><supplied reason="lost">μηθὲν</supplied></w> <w lemma="ἐπικωλύω"><supplied reason="lost">ἐ</supplied>
+
+	    								<lb xml:id="line_A20" n="A20" break="no"/>πικωλύεσθαι</w> <w lemma="ἀλλά">ἀλλὰ</w> <name type="purification"><w lemma="καθαρός">καθαρὸ<supplied reason="lost">ν</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">ἦμεν</supplied></w><supplied reason="lost">.</supplied> <w lemma="εἰ"><supplied reason="lost">αἴ</supplied></w> <w lemma="τις"><supplied reason="lost">τις</supplied></w> <w lemma="ἄκων"><supplied reason="lost">ἀκόντως</supplied></w>
+
+	    					<lb xml:id="line_A21" n="A21"/> <w lemma="καταχέω">καταχέαι</w> <w lemma="τις">τινὶ</w> <name type="liquid"><w lemma="ὕδωρ">ὕδωρ</w></name> <w lemma="ζέω">ζέον</w> <w lemma="ἤ">ἢ</w> <w lemma="πῦρ">πυρὶ</w> <w lemma="καίω">καί<supplied reason="lost">οι</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="ἀποθνήσκω"><supplied reason="lost">ἀποθάνοι</supplied></w> <w lemma="κατακαίω"><supplied reason="lost">κα</supplied>
+
+	    						<lb xml:id="line_A22" n="A22" break="no"/>τακαυθὲς</w> <w lemma="ἤ">ἢ</w> <w lemma="παραχρῆμα">παραχρῆμα</w> <w lemma="ἤ">ἢ</w> <w lemma="ὕστερος">ὕστερον</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_A23" n="A23"/> <name type="purification"><w lemma="καθαρός">καθαρὸν</w></name> <w lemma="εἰμί">ἦμεν</w> τὸν <w lemma="καταχέω">καταχέαντ<supplied reason="lost">α</supplied></w> <w lemma="ἤ"><supplied reason="lost">ἢ</supplied></w> <supplied reason="lost">τὸν</supplied> <w lemma="κατακαίω"><supplied reason="lost">κατακαύσαν</supplied>
+
+	    						<lb xml:id="line_A24" n="A24" break="no"/>τα</w>. <w lemma="εἰ">αἴ</w> <w lemma="τις">τις</w> <name type="person"><w lemma="ἄνθρωπος">ἄνθρωπον</w></name> <w lemma="μαδαρόω">μαδαρ<supplied reason="lost">ώσαι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    				</ab>
+
+	    				<ab subtype="fragment" n="IVa">Fragment IVa
+
+	    					<lb xml:id="line_B1" n="B1"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_B2" n="B2"/> <gap reason="lost" extent="unknown" unit="character"/><orig>α</orig> <name type="invocation"><w lemma="ἀρά">ἀρὰν</w></name> <orig>αρ</orig>
+
+	    					<lb xml:id="line_B3" n="B3" break="no"/> <gap reason="lost" extent="unknown" unit="character"/>ηι <w lemma="εἰ">αἴ</w> <w lemma="τις">τίς</w> <w lemma="κα">κα</w>
+
+	    					<lb xml:id="line_B4" n="B4"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="μή">μὴ</w> <w lemma="ἐφίστημι">ἐπεστάκηι</w>
+
+	    					<lb xml:id="line_B5" n="B5"/> <gap reason="lost" extent="unknown" unit="character"/>σηι <name type="deity" key="Ares"><w lemma="Ἄρης">Ἄρεα</w></name> οἱ <name type="personnel"><w lemma="ἱερεύς">ἱερεῖς</w></name>
+
+	    					<lb xml:id="line_B6" n="B6"/> <gap reason="lost" extent="unknown" unit="character"/>ου <w lemma="ἄλπαρ">ἄλπαρ</w> <w lemma="αὐτεῖ">αὐτεῖ</w> <orig>το</orig>
+
+	    					<lb xml:id="line_B7" n="B7"/> <gap reason="lost" extent="unknown" unit="character"/>εαι ὑπο<gap reason="lost" extent="unknown" unit="character"/><orig>π</orig>
+
+	    					<lb xml:id="line_B8" n="B8" break="no"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    				</ab>
+	    				<ab subtype="fragment" n="IVb">Fragment IVb
+
+	    					<lb xml:id="line_C1" n="C1"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_C2" n="C2"/> <name type="deity" key="Zeus"><w lemma="Ζεύς">Δ<unclear>ιὶ</unclear></w></name> καὶ <orig>επα</orig><gap reason="lost" extent="unknown" unit="character"/> <name type="purification"><w lemma="ἁγνός"><supplied reason="lost">ἁγ</supplied>
+
+	    						<lb xml:id="line_C3" n="C3" break="no"/>νὸς</w></name> <w lemma="εἰμί">ἔστω</w>. <w lemma="εἰ">αἴ</w> <w lemma="τις">τι<supplied reason="lost">να</supplied></w> <name type="animal" key="other"><w lemma="κύων">κύω
+
+	    							<lb xml:id="line_C4" n="C4" break="no"/>ν</w></name> <w lemma="δάκνω">δάκοι</w>, <w lemma="εἰ">αἴ</w> <w lemma="κα">κα</w> <w lemma="ἄλλως">ἄλλως</w> <w lemma="μόνος">μ
+
+	    								<lb xml:id="line_C5" n="C5" break="no"/>όνον</w> <w lemma="δυνατός">δυνατὸς</w> <w lemma="εἰμί">ἦι</w>, <w lemma="μηδείς">μηθὲ<supplied reason="lost">ν</supplied></w>
+
+	    					<lb xml:id="line_C6" n="C6"/> <w lemma="ἐπικωλύω"><supplied reason="lost">ἐπ</supplied>ικωλύεσθαι</w> <w lemma="κατά">κατὰ</w>
+
+	    					<lb xml:id="line_C7" n="C7"/> <name type="authority"><w lemma="ὁσία"><supplied reason="lost">ὁ</supplied>σίαν</w></name> <w lemma="μηδείς">μηδεμίαν</w>. <space extent="unknown" unit="character"/>
+
+	    				</ab>
+
+	    				<ab subtype="fragment" n="IVc">Fragment IVc
+
+	    					<lb xml:id="line_D1" n="D1"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_D2" n="D2"/> <orig>ενα<unclear>ι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_D3" n="D3"/> <w lemma="κλίνη">κλίναις</w> <orig><unclear>μ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_D4" n="D4" break="no"/>νηι <w lemma="πρός">πρὸς</w> τὰν <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_D5" n="D5"/> <w lemma="ἐγκαθεύδω">ἐγκαθεύδοντα</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_D6" n="D6" break="no"/> <orig>δον</orig> <w lemma="πάσχω">πάθηι</w> <w lemma="τις">τι</w> τοῦ <w lemma="">κλιν</w><gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_D7" n="D7" break="no"/> ν. <w lemma="ὅς">ὅς</w> <w lemma="κα">κα</w> <w lemma="μή">μὴ</w> <w lemma="ἐπκοιτάζομαι">ἐ<supplied reason="lost">π</supplied>ικοιτά<supplied reason="lost">ζηται</supplied> <gap reason="lost" extent="unknown" unit="character"/></w>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p> Fragments I-III</p>
+					<p> [Nine very fragmentary lines... (10) ...] on the spot or having a [wound ... do not forbid him anything] but let him be (considered) pure. If anyone involuntarily [throws] someone [into the fire] and if the man [having fallen into the fire] suffers something, [either] on the spot, or later having a wound, [let him be] pure. (15) [...] out of the fire and he should cry out [...] the responsible official (or: the bystander?). And if [...] or if he pours the water and if he dies either on the spot or later, being wounded, the person in authority (or: the bystander?) or the boiled substance (?) or [... do not] (20) forbid him anything but [let him be] (considered) pure. [If someone involuntarily] throws boiling water over someone or sets him on fire [and if] the burnt person [dies] either on the spot or later, [...] let him be pure, the one pouring the water [or setting the other on fire]. If a man [...]</p>
+
+					<p> Fragment IV, Face A</p>
+					<p>[...] imprecation [...]. If someone [...] did not oversee (?) [...] Ares, the priests [...] propitiation (?) there [...]</p>
+
+					<p> Fragment IV, Face B</p>
+					<p> [...] for Zeus (?) and [...] let him be considered pure. If a dog bites someone, only if he is healthy otherwise, do not forbid him anything not according to any religious rule.</p>
+
+					<p> Fragment IV, Face C</p>
+					<p> [...] in the beds [...] he who incubates [...] is injured [...] of the bed [...] the one who has not spent the night [...]</p>
+
+
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+
+					<p> Fragments I-III</p>
+						<p> [... (10) ...] sur le champ soit à cause de la blessure reportée [...] [qu’il ne subisse aucune interdiction], mais qu’il soit (considéré comme) pur. Si quelqu’un [involontairement fait] tomber un tel [dans le feu] et que l’homme qui est [tombé] dans le feu en est atteint soit sur le champ soit par la suite à cause de la blessure, qu’il soit (considéré comme) pur. (15) [...] en dehors du feu et qu’il crie [...] le responsable  (ou le témoin?). Si de [...] ou s’il verse de l’eau, et qu’il meurt soit sur le champ soit par la suite, à cause de la blessure, celui qui est responsable (ou le témoin?) ou de la substance bouillante ou [...] qu’il [ne] (20) subisse aucune interdiction, mais qu’il soit (considéré comme) pur. [Si quelqu’un involontairement] verse sur quelqu’un de l’eau bouillante ou qu’il le [brûle] avec du feu et que la personne brûlée [en meurt] soit sur le champ soit par la suite [...], que celui qui a versé l’eau [ou qui a brûlé] soit (considéré comme) pur. Si quelqu’un [...] un homme
+[...]</p>
+
+					<p> Fragment IV, Face A</p>
+						<p>[...] imprécation solennelle [...]. Si quelqu’un [...] n’a pas surveillé (?) [...] Arès les prêtres [...] (5) propitiation  (?) là même [...] par [...]</p>
+
+					<p> Fragment IV, Face B</p>
+						<p> Pour Zeus (?) et [...] qu’il soit (considéré comme) [pur]. Si un chien mord quelqu’un, seulement s’il est par ailleurs en bonne santé, qu’il ne (5) soit interdit d’aucun rite [...]</p>
+
+					<p> Fragment IV, Face C</p>
+						<p> [...] sur les lits [...] pour la [...] dormant  [et celui qui dort] (5) en soit blessé [...] du lit. Celui qui n’était pas couché [...]</p>
+					<p>(traduction G. Pironti)</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p> These are fragments from two stelai, found in a cistern in the agora of Lato (Goular). Demargne connected the cultic rules to the sanctuary at the agora of Lato, and hypothesized that the stelai were originally set up at the entrance of the sanctuary. This is possible, but remains to be confirmed: the regulations appear to cover a distinctive but fairly wide range of subjects. The first three fragments deal with involuntary crimes and generally stipulate that the person who has committed this sort of offence should be considered pure. It is difficult to determine the subject matter and coherence of the three faces of fragment 4. Face B seems to refer to ritual purity after being bitten by a dog and face C mentions the ritual of incubation, but the content of face A eludes us. Other small fragments, not included here, contain even more frustrating scraps of text.</p>
+
+<p> Fragments I-III describe the consequences of injuring or even killing another person by unintentionally throwing hot water over the person or burning them with fire. It is unclear why such accidents are envisaged with such urgency that regulations are deemed necessary and the points under consideration are exceptional in the current evidence. One hypothesis is that perhaps bathing complexes or rites involving fire and water are being alluded to. In the aforementioned cases, the regulations stipulate that the offender is 'pure' and should not be forbidden 'anything'. This probably refers to entrance into the sanctuary and participation in cultic activities. If the sanctuary was a healing sanctuary (cf. the discussion at fragment IV, face C), the involuntary offender may have taken an injured person to the sanctuary to incubate; but the rules could also be about incubation and accidents more generally. We know from other texts that involuntary murderers were sometimes barred from the sacred places and the agora (Aristote, <title>Ath. Pol.</title> 57), and yet the opposite legislation, in which the one committing involuntary manslaughter is to be considered pure, is also mentioned by Plato <title>Leg.</title> 865a: εἴ τις ἐν ἀγῶνι καὶ ἄθλοις δημοσίοις ἄκων, εἴτε παραχρῆμα εἴτε καὶ ἐν ὑστέροις χρόνοις ἐκ τῶν πληγῶν, ἀπέκτεινέν τινα φίλιον, [...] περὶ τούτων νόμον ἔστω καθαρός (note the similarity in phrasing and terminology). For discussion, cf. Parker.</p>
+
+<p> Given its fragmentary character, the structure of the text is not completely clear, but it appears to parallel other purity regulations in the present Collection. These generally employ a casuistic form, outlining different cases and scenarios for potential impurity, usually beginning αἴ κα (vel sim.) and ending with καθαρὸν ἦμεν (vel sim.): cf. e.g. <ref target="CGRN_3">CGRN 3</ref> (Kleonai) or <ref target="CGRN_13">CGRN 13</ref>, face B (Selinous). In the missing part until line 12, in lines 12-16 and in lines 16-20, three different situations seem to be described (the first one being fragmentary). A fourth clause starting with αἴ τις states that someone who has involuntarily caused death through fire and boiling water (lines 20-24) is to be considered καθαρός. Perhaps the new and significant information here is the fact of the death of the sacrificial animal, whereas previous clauses seemed to refer to non-lethal wounds or ills caused by the fire (πάθοι τι, line 13, ἕλκος ἔχων, line 14) and injuries or death caused by boiling water (ἀποθάνοι, line 17, ἔλκος ἔχων, line 18). The text may continue with yet another case starting in line 24. There are traces of similar casuistic constructions in the other fragments, though they are more difficult to interpret: cf. fr. IVa, line 3; fr. IVb, lines 2-3; and the subjunctive forms in fr. IVd, lines 6-7.</p>
+
+	<p> Fragments I-III</p>
+
+	<p> Lines 10-12: Since all the other measures describe the situation in which a person is wounded or dies ἢ παραχρῆμα ἢ ὕστερον "either on the spot or later", it seems that the phrase ἢ ὕστερον is missing here. The regulation seem to cover all effects of the relevant action, whether immediate or more durative; cp. the phrasing of the passage in Plato's <title>Laws</title> quoted above.</p>
+
+	<p> Lines 15: It is unclear to what the phrase ἐκ τοῦ πυρὸς καὶ ἐπιβοα "out of the fire and (he should?) shout" refers. Possibly the state of purity of the offender may be dependent upon any efforts he makes to drag the animal out of the fire and call for help (cf. LSJ s.v. ἐπιβοάω AII).</p>
+
+	<p> Line 16: The person who is ἐπεστακ[ώ]ς "himself" could refer to a supervisor of the sanctuary, someone "appointed" to oversee the cult. Alternatively, since we also find the participle ἐπιστάσαντα in lines 18-19, presumably as someone who may be the source of impurity, it may be that the word might designate a bystander, who "stood near" the accident in question. Perhaps this person, if he did nothing to help (see above line 15), would be held responsible in some way.</p>
+
+	<p>Lines 18-20: As with lines 15-16, the sense is difficult or elusive. The grammatical construction of τὸν ἐπιστάσαντα ἢ τὸ ἑψη<supplied reason="omitted">τ</supplied>ὸν eludes us. We would expect these accusatives, coming after the end of the protasis and at the beginning of the apodosis, to be the objects concerned by the purity rule, specifically the phrase in lines 19-20: μὴ ἐπικωλύεσθαι ἀλλὰ καθαρὸν ἦμεν. This makes relatively good sense if τὸν ἐπιστάσαντα is an official or a bystander (see above on line 16). However, it is difficult to reconcile τὸ ἑψη<supplied reason="omitted">τ</supplied>ὸν, "the boiled substance" in this context: why would this object need to be "prevented" or "deemed pure"? Perhaps we might think an accusative of respect with a missing word like ἕλκος, "having a wound, concerning the boiling water"; more likely, the reading is corrupt (indeed, the inscribing of the stone is not without errors).</p>
+
+	<p> Line 24: The traces μαδαρ- seem to suggest the (rare) verb μαδαρόω "to make bald", but the precise sense in this context eludes us. Another possibility, continuing the theme of water, would the adjective μαδαρός which refers to what is "wet" or "watery".</p>
+
+	<p> Fragment IV is part of a stele that is inscribed on three faces. The precise connection between the fragments, and any connection with fragments I-III cannot be determined. It is very difficult to understand the fragment of face A. According to Guarducci, ἄλπαρ may be a substantivized form of the adjective ἀλπνός "soft", and could refer to μειλίγματα, propitiatory offerings. If correct, it remains impossible to interpret the coherence between such offerings and the reference to an imprecation, the god Ares, and to priests.</p>
+
+	<p>Fragment IVb: The text seems to discuss two situations. The first situation is lost, but in conclusion it is stipulated that the person is to be considered ἁγνός "pure". In this context, the god Zeus may be mentioned, but this is not certain. The second circumstance concerns a person being bitten by a dog: this does not impact his participation in cultic life, if he is otherwise healthy. Perhaps this refers the situation in which the wound stays localised, not causing rabies. </p>
+
+	<p>Fragment IVc: the references to beds and sleeping on this face (κλίναις, ἐγκαθεύδοντα, κλιν-, ἐπκοιτάζομαι) suggest a ritual of incubation, perhaps linked to a healing cult of Asclepius (Bultrighini). Guarducci has objected that the mention of good health in fragment IVb precludes this possibility, but a person who has received a dog's bite may obviously be in need of recovery, even if he or she was otherwise healthy before the accident.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

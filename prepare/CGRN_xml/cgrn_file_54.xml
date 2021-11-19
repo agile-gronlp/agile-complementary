@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_54" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <idno type="filename">CGRN 54</idno>: <rs type="TextType" key="sacrificial regulation">Sacrificial regulation</rs> concerning preliminary offerings to various deities associated with Asclepius in Piraeus</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                               <availability>
+                                   <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                                   <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>
+                            <rs type="objectType">Tabella</rs> of pentelic marble broken at the lower part.
+                            The stone is inscribed on all four faces. Face D is not polished.</p>
+                            <p><dimensions>
+                                <height unit="cm">52</height>
+                                <width unit="cm">21</width>
+                                <depth unit="cm">11</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Lines 1-10 are stoichedon 17, the rest is non stoichedon.</p>
+                        <p>Letters:
+                            line 1: <height unit="mm">13</height>;
+                            lines 2-10: <height unit="mm">8</height>;
+                            lines 11-12: <height unit="mm">18</height>;
+                            lines 13-18: <height unit="mm">12</height>.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0400" notAfter="-0350">ca. 400-350 BC</origDate></p>
+                        <p><desc>Justification: overall lettering (Curbera). Face A: lines 1-10 are not much later than the beginning of the fourth century (Koehler, lettering). Lines 11-18 are written in a different hand, perhaps contemporaneously (Koehler), perhaps somewhat later (Ziehen, Sokolowski). The texts on faces B, C and D are still more recent.</desc></p>
+                       
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Piraeus" n="Attica"><ref target="http://pleiades.stoa.org/places/580062" type="external">Piraeus</ref></placeName>. Now in the Museum of Piraeus.</p></provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 30-06-2014 by S. Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by J.-M. Carbon in 05.2018.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+               
+                    <p>Edition here based on Kirchner <bibl type="abbr" n="IG II²">IG II²</bibl> 4962.</p>
+                <p> Other editions: Koehler <bibl type="abbr" n="IG II">IG II</bibl> 1651; Curbera <bibl type="abbr" n="IG II³">IG II³</bibl> 4, 1773.</p>
+                    <p> Cf. also:
+                        Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 18; 
+                        Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 21.  
+                    </p>
+                    <p> Further bibliography:
+                        <bibl type="author_date" n="Herzog 1931">Herzog 1931</bibl>;
+                        <bibl type="author_date" n="Wilamowitz 1931-1932">Wilamowitz 1931-1932</bibl>;
+                        <bibl type="author_date" n="Edelstein - Edelstein 1945">Edelstein - Edelstein 1945</bibl>;
+                        <bibl type="author_date" n="Kearns 1994">Kearns 1994</bibl>;
+                        <bibl type="author_date" n="Parker 1996">Parker 1996</bibl>;
+                        <bibl type="author_date" n="Bruit Zaidman 2005">Bruit Zaidman 2005</bibl>;
+                        <bibl type="author_date" n="Pirenne-Delforge 2011">Pirenne-Delforge 2011</bibl>.
+                    </p>
+                </div>
+            <div type="edition">
+                <head>Text</head>
+           
+                
+                    <ab subtype="face" n="A">Face A
+                        <lb xml:id="line_A1" n="A1"/> <name type="deity" key="generic"><w lemma="θεός">θεοί</w></name>.
+                        
+                        <lb xml:id="line_A2" n="A2"/> <w lemma="κατά">κατὰ</w> <w lemma="ὅδε">τάδε</w> <name type="sacrifice"><w lemma="προθύω">προθύεσθα
+                            
+                            <lb xml:id="line_A3" n="A3" break="no"/> ι</w></name>· <name type="deity" key="Maleatas"><w lemma="Μαλέατας">Μαλεάτηι</w></name> <name type="bakery"><w lemma="πόπανον">πόπανα</w></name> <w lemma="τρεῖς">τρ
+                                
+                                <lb xml:id="line_A4" n="A4" break="no"/> ία</w>· <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name>  <name type="bakery"><w lemma="πόπανον">πόπανα</w></name>   <w lemma="τρεῖς">τ
+                                    
+                                    <lb xml:id="line_A5" n="A5" break="no"/> ρία</w>·  <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμῆι</w></name>   <name type="bakery"><w lemma="πόπανον">πόπανα</w></name> <w lemma="τρεῖς">τρί
+                                        
+                                        <lb xml:id="line_A6" n="A6" break="no"/> α</w>·   <name type="deity" key="Iaso"><w lemma="Ἰασώ">Ἰασοῖ</w></name>   <name type="bakery"><w lemma="πόπανον">πόπανα</w></name>  <w lemma="τρεῖς">τρία</w>·   <name type="deity" key="Akeso"><w lemma="Ἀκεσώ">Ἀ
+                                            
+                                            <lb xml:id="line_A7" n="A7" break="no"/>  κεσοῖ</w></name>   <name type="bakery"><w lemma="πόπανον">πόπανα</w></name> <w lemma="τρεῖς">τρία</w>·   <name type="deity" key="Panakeia"><w lemma="Πανάκεια">Πα
+                                                
+                                                <lb xml:id="line_A8" n="A8" break="no"/> νακείαι</w></name>   <name type="bakery"><w lemma="πόπανον">πόπανα</w></name> <w lemma="τρεῖς">τρία</w>·
+                                        
+                        <lb xml:id="line_A9" n="A9"/>   <name type="deity" key="Kynes"><w lemma="κύων">Κυσὶν</w></name> <name type="bakery"><w lemma="πόπανον">πόπανα</w></name>   <w lemma="τρεῖς">τρία</w>·   <name type="deity" key="Kynegetai"><w lemma="κυνηγέτης">Κυ
+                                            
+                                                <lb xml:id="line_A10" n="A10" break="no"/> νηγέταις</w></name>
+                        <name type="bakery"><w lemma="πόπανον">πόπανα</w></name> <w lemma="τρεῖς">τρί(α)</w>.
+                                         
+                    <lb/> <space quantity="1" unit="line"/> 
+                    <lb xml:id="line_A11" n="A11"/>  Εὐθύδημος
+                                        
+                        <lb xml:id="line_A12" n="A12"/>   <name type="ethnic" key="Eleusis"><w lemma="Ἐλευσίνιος">Ἐλευσίνιος</w></name>
+                                        
+                        <lb xml:id="line_A13" n="A13"/>    <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name>   <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκληπιο̑</w></name>
+              
+                        <lb xml:id="line_A14" n="A14"/> τὰς   <objectType key="stele"><w lemma="στήλη">στήλας</w></objectType>  <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνέθηκ<supplied reason="lost">ε</supplied></w></name>
+                                        
+                        <lb xml:id="line_A15" n="A15"/>   τὰς   <w lemma="πρός">πρὸς</w>  τοῖς  <name type="structure"><w lemma="βωμός">βωμοῖς</w></name>
+                                        
+                        <lb xml:id="line_A16" n="A16"/>  <w lemma="ἐν">ἐν</w>  <w lemma="ὅς">αἷς</w>  τὰ   <name type="bakery"><w lemma="πόπανον">πόπανα</w></name>  <w lemma="πρότερος">πρότερος</w>
+                                        
+                        <lb xml:id="line_A17" n="A17"/>   <w lemma="ἐξεικάζω">ἐξηικάσατο</w> <w lemma="ὅς">ἃ</w>  <w lemma="χράω">χρὴ</w>   <name type="sacrifice"><w lemma="προθύω">πρ<supplied reason="lost">ο</supplied>
+                                            
+                    <lb xml:id="line_A18" n="A18" break="no"/>  θύεσθ<supplied reason="lost">αι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                        
+                </ab>
+                <lb/> <space quantity="1" unit="line"/> 
+                <ab subtype="face" n="B">Face B
+                    <lb xml:id="line_B1" n="B1"/>   <name type="deity" key="Helios"><w lemma="ἥλιος">Ἡλίωι</w></name>
+                    
+                    <lb xml:id="line_B2" n="B2"/>   <name type="bakery"><w lemma="ἀρεστήρ">ἀρεστῆρ<supplied reason="lost">α</supplied>
+</w></name>
+                    
+                    <lb xml:id="line_B3" n="B3"/>  <name type="liquid"><w lemma="κηρίον">κηρίον</w></name>.
+                    <lb xml:id="line_B4" n="B4"/>  <name type="deity" key="Mnemosyne"><w lemma="Μνημοσύνη">Μνημο
+                    <lb xml:id="line_B5" n="B5" break="no"/>σύνηι</w></name>
+                    <lb xml:id="line_B6" n="B6"/>  <name type="bakery"><w lemma="ἀρεστήρ">ἀρεσ<supplied reason="lost">τῆ</supplied>
+                    <lb xml:id="line_B7" n="B7" break="no"/> ρα</w></name>
+                    <lb xml:id="line_B8" n="B8"/>  <name type="liquid"><w lemma="κηρίον">κηρίον</w></name>.
+                    <lb xml:id="line_B9" n="B9"/>  <name type="liquid"><w lemma="νηφάλιος">νηφάλ<supplied reason="lost">ι</supplied>
+                        <lb xml:id="line_B10" n="B10" break="no"/> οι</w></name> <w lemma="τρεῖς">τρε̑ς</w>
+                    <lb xml:id="line_B11" n="B11"/>  <name type="structure"><w lemma="βωμός">βωμοί</w></name>.         
+                </ab>
+                
+                <ab subtype="face" n="C">Face C
+                    <lb xml:id="line_C1" n="C1"/>  <name type="liquid"><w lemma="νηφάλιος"><supplied reason="lost">νη</supplied>φάλιοι</w></name>
+                    <lb xml:id="line_C2" n="C2"/> <w lemma="τρεῖς">τρε̑ς</w>
+                    <lb xml:id="line_C3" n="C3"/>  <name type="structure"><w lemma="βωμός">βωμοί</w></name>.
+                </ab>   
+                <lb/> <space quantity="1" unit="line"/> 
+               <ab subtype="face" n="D">Face D
+                   <lb xml:id="line_D1" n="D1"/>  <name type="liquid"><w lemma="νηφάλιος">νηφάλιοι</w></name>.
+               </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                                  
+                <p>Face A</p> 
+                <p>Gods. Make preliminary sacrifices according to the following: to Maleatas, three round cakes; to Apollo, three round cakes; (5) to Hermes, three round cakes; to Iaso, three round cakes; to Akeso, three round cakes; to Panakeia, three round cakes; to Dogs, three round cakes; (10) to the Hunters with Dogs, three round cakes.</p> 
+                <p>Euthydemos of Eleusis the priest of Asclepius has erected the steles by the (15) altars on which he first put a semblance of the round cakes that need to be preliminarily sacrificed.</p>
+                    
+                <p>Face B</p> 
+                <p>To Helios, a cake, a honeycomb; (5) to Mnemosyne, a cake; a honeycomb; (10) three wineless altars.</p>
+                    
+                <p>Face C</p>
+                <p>Three wineless altars.</p>
+                    
+                <p>Face D</p>
+                <p>Wineless (altars).</p>
+                  
+                    
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction </head>
+                <p>Face A</p>
+                <p>Dieux. Faire des sacrifices préliminaires conformément à ceci : au Maleatas, trois gâteaux ronds; à Apollon, trois gâteaux ronds; (5) à Hermès, trois gâteaux ronds; à Iaso, trois gâteaux ronds; à Akeso, trois gâteaux ronds; à Panacée, trois gâteaux ronds; aux Chiens, trois gâteaux ronds; (10) aux Chasseurs avec chiens, trois gâteaux ronds.</p> 
+                <p>Euthydemos d'Éleusis prêtre d'Asclépios a érigé les stèles auprès des (15) autels sur lesquels, le premier, il a placé une représentation des gâteaux qu'il convient d'offrir en sacrifice préliminaire.</p>
+                    
+                <p>Face B</p> 
+                <p>À Helios, un gâteau, un rayon de miel; à Mnémosyne, un gâteau, un rayon de miel; trois autels sans vin.</p>
+                    
+                <p>Face C</p>
+                <p>Trois autels sans vin.</p>
+                    
+                <p>Face D</p>
+                <p>(Autels) sans vin.</p>
+                
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                
+<p>This stele, found at Piraeus and inscribed at different times during the fourth century, prescribes the preliminary offering of cakes to diverse gods associated with Asclepius. The precise context of the offerings is not well understood. Perhaps the offerings are made 'prior' to incubation, perhaps the text refers to an animal sacrifice to Asclepius (for references to the scholarly discussion, cf. Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 64). The document is part of a group of mostly short inscriptions found in Piraeus ((<ref target="http://cgrn.ulg.ac.be/CGRN_53">CGRN 53</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_77">CGRN 77</ref>), elsewhere in Attica (<ref target="http://cgrn.ulg.ac.be/CGRN_73">CGRN 73</ref>, Halimous) and in the city (<ref target="http://cgrn.ulg.ac.be/CGRN_95">CGRN 95</ref>, some of them coming from the Asklepieion on the south slope of the Acropolis: <ref target="http://cgrn.ulg.ac.be/CGRN_72">CGRN 72</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_133">CGRN 133</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_134">CGRN 134</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_135">CGRN 135</ref>), which prescribe the (preliminary) offering of cakes to various divinities.</p>
+
+<p>Face A was inscribed at the beginning of the fourth century; face B was inscribed somewhat later. The regulation starts with the injunction to make a preliminary sacrifice (προθυέσθαι) of round cakes (πόπανα) to various deities. </p> 
+                    
+<p>Face A</p>
+                
+<p>Lines 3-4: Apollo and Maleatas are two separate gods here. The name Maleatas on its own is not attested elsewhere in Attica (save some uncertain references, cf. Parker, p. 182 n. 105). For the role of the god Apollo Maleatas at Epidauros, and his association with Asclepius: Herzog, p. 46.</p>
+                    
+<p>Line 5: Hermes was associated with Asclepius and the incubation ritual, because he was the bringer of dreams (Wilamowitz, II, p. 227).</p>
+                    
+<p>Lines 6-8: The goddesses Akeso, Iaso, Panakeia (Parker: 'Curer, Healer and All-heal') were the daughters of Asclepius, personifications having to do with the healing process. As Edelstein and Edelstein explain, when the cult for the god Asclepius was still relatively new and not yet considered all-powerful, other gods were included in the ritual, in order to strengthen the profile of the god (II 186). Here, 'Iaso, Aceso and Panacea symbolized this extension and intensification of the might of the hero of old' (II 89).</p>
+                    
+<p>Lines 9-10: According to Wilamowitz, these 'dogs' were infernal powers (II, p. 390). Farnell thought that they were sacred dogs kept in the temple, and that the priest had proposed a wild and savage thing in expounding sacrifice to them, a 'sacerdotal silliness' mocked in a comic fragment (p. 144). More credibly, this sacrifice should be linked to a Hellenistic myth (cf. Apollodorus, Jacoby <bibl type="abbr" n="FGrH">FGrH</bibl> 244 F 138, Paus. 2.26.3-5, cf. Edelstein - Edelstein, p. 72-73, 227). According to this story, Asclepius was exposed as a baby, suckled or guarded by a dog, until a group of hunters with dogs found him (Edelstein - Edelstein, p. 227 n. 7; Parker, p. 181-183). A figurative representation of this story by the Meidias painter (<bibl type="abbr" n="LIMC">LIMC</bibl>  s.v. Asklepios 868 no. 1) shows that the myth was already circulating in Athens by the late fifth century.</p>
+
+<p>Lines 11-18: It is unclear whether these lines were inscribed slightly later than lines 1-10. Apparently, some uncertainty concerning the nature of the πόπανα to be sacrificed had arisen. These lines record the dedication of a set of stelae by the priest of Asclepius, Euthydemos of Eleusis, and which were placed at the altars. These stelae apparently contained a graphic image (εἰκών) of the appropriately shaped and sized πόπανα. For the priest Euthydemos, cf. also <ref target="http://cgrn.ulg.ac.be/CGRN_46">CGRN 46</ref>, a decree of Athens which also cites his authority concerning προθύματα in the cult of Asclepius in Piraeus.</p>
+                    
+<p>Face B</p>
+                
+<p>Lines 1-8: According to Sokolowski, Helios and Mnemosyne can be mentioned in relation to incubation cults, though in what capacity they are invoked here is not clear. The offerings of the cake ἀρεστήρ and honeycomb often go together: <ref target="http://cgrn.ulg.ac.be/CGRN_53">CGRN 53</ref>, found at Piraeus, prescibes ἀρεστῆρας and κηρία for the Moirai; <ref target="http://cgrn.ulg.ac.be/CGRN_95">CGRN 95</ref>, found at Athens, prescibes an ἀρεσ[τῆ-]ρα and a κηρίον for Mnemosyne; <ref target="http://cgrn.ulg.ac.be/CGRN_87">CGRN 87</ref> found on Samos, prescribes ἀρεστῆρας and κηρία for Kourotrophos and Hermes. The name of the cake called ἀρεστήρ is derived from the verb ἀρέσκω "to appease, conciliate" and should be seen as a propitiatory gesture. Bruit Zaidman, p. 38 explains that honey has an 'appeasing' function too.</p>
+                    
+                <p>Lines 9-12: The adjective νηφάλιος 'unmixed with wine' is combined with various nouns (e.g. κρατήρ, θυσίαι, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. νηφάλιος) to refer an offering of this type. In this case the βωμοί are metonymically referred to as νηφάλιοι. Τhree wineless altars are mentioned, cp. Polemon Hist. 42: Ἀθηναῖοι ... νηφάλια μὲν ἱερὰ θύουσι Μνημοσύνῃ, Μούσῃ, Ἠοῖ, Ἡλίῳ, Σελήνῃ, Νύμφαις, Ἀφροδίτῃ Οὐρανίᾳ. Perhaps the third god (besides Helios and Mnemosyne) is to be found among these candidates. On offerings called νηφάλια, see Pirenne-Delforge.</p>
+                    
+<p>Faces C and D are later than face A, but the relative dates of engraving of C-D with respect to B cannot be reconstructed. On faces C and D we find brief and elusive iterations of the prescription of 'wineless' (altars).</p>    
+                    
+            </div>
+        </body>
+    </text>
+</TEI>

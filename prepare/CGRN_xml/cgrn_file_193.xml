@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_193" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+<title>
+                    <idno type="filename">CGRN 193</idno>: Two records of <rs type="textType" key="priestly contract">sales of priesthoods</rs> at Hyllarima</title>
+<author>Jan-Mathieu Carbon</author>
+<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+<availability>
+	<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+	<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+</availability>
+			</publicationStmt>
+			<sourceDesc>
+<msDesc>
+	<msIdentifier>
+		<repository>n/a</repository>
+	</msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc>
+<support>
+                                    <p>Large <rs type="objectType">stele</rs>, inscribed on three faces (A-C).</p>
+	<p> The major face, A, was divided into relatively equal columns (a and b), by a deep incised line running vertically down the face of the inscription, a feature which was probably made at an early stage of inscribing. The left column (a) contains five successive Karian inscriptions and an inscription in Greek, which is a list of priests (not reproduced here). The right column (b) contains a brief Karian text and a list of priests of four lines of the fourth century (not reproduced here), followed by a sale of a priesthood of ca. 197 BC (printed here as "Face Ab").</p>
+	<p> Side B, the short side of the stele to the left, contains the text printed here as "Face B". which was followed by another brief text concerning the lease of land not reproduced here.</p>
+	<p> Side C, the right short side, contains another document concerning leases of land, not reproduced here. The back was left rough and uninscribed.</p>
+	<p> For a more elaborate description of the texts inscribed on the stele, see also below, Commentary. For a discussion of the reconstructed measurements of the stele, see Adiego et al., p. 602. The measurement given below are approximative given this reconstruction:</p>
+	<p>
+                                        <dimensions>
+		<height unit="cm">ca. 80</height>
+		<width unit="cm">ca. 50</width>
+		<depth unit="cm">18</depth>
+	</dimensions>
+                                    </p>
+</support>
+			</supportDesc>
+			<layoutDesc>
+<layout>
+                                    <p>Regrettably no detailed description of the letters and their precise measurements has been provided by any of the editors.</p>
+	<p>Letters: <height unit="cm">1-1.3</height>.</p>
+</layout>
+			</layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p>
+                                <origDate notBefore="-0197" notAfter="-0196">July/August 196 BC</origDate>
+                            </p>
+			<p>
+                                <desc>Justification: date of the Rhodian eponym Agloumbrotos, priest of Helios (see Adiego et al. p. 629; Badoud) in 197/6 BC, month of Panamos.</desc>
+                            </p>
+		</origin>
+		<provenance>
+                            <p>
+                                <placeName type="ancientFindspot" key="Hyllarima" n="Asia_Minor_and_Anatolia">
+                                    <ref target="http://pleiades.stoa.org/places/599659" type="external">Hyllarima</ref>
+                                </placeName>. Two joining fragments found in different periods (1933, by Alfred Laumonier; and 1999) at the site of the village of Mesevle, below the site of the city (the early acropolis site of Asarcıktepe is nearby (see Adiego et al.). The fragment discovered earlier is presumed lost; the new fragment is now in the Museum of Muğla.</p>
+		</provenance>
+	</history>
+</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2016 by J.M. Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+<language ident="eng">English</language>
+<language ident="grc">Ancient Greek</language>
+<language ident="lat">Latin</language>
+<language ident="fre">French</language>
+<language ident="ger">German</language>
+<language ident="gre">Modern Greek</language>
+<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by J.-M. Carbon in 06.06.2018.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+<head>Bibliography</head>
+<p>Edition here based on <bibl type="author_date" n="Adiego et al. 2005">Adiego et al. 2005</bibl> (Adiego - Debord - Varinlioğlu), with ph. fig. 1. As given here, face B contains improved readings on the basis of the published ph. (Carbon), though these do not affect any of the restorations. The restoration of line Ab5 is discussed in the Commentary below (established by Carbon on the basis of a squeeze, Fonds Louis Robert, FLR Carie 2366). The restoration in lines B14-15, suggested by Debord and Varinlioğlu, is here adopted in the text.</p>
+
+<p>Other editions: 
+	<bibl type="author_date" n="Laumonier 1934">Laumonier 1934</bibl>: 345-376 no. 39 (face Ab only), with ph.; 
+	<bibl type="author_date" n="Debord - Varinlioğlu 2018">Debord - Varinlioğlu 2018</bibl>: 36-48 nos. 10-11; 
+	Blümel <bibl type="abbr" n="I.Nordkarien">I.Nordkarien </bibl> 458-459.</p>
+
+<p>Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 56 (face Ab only); 
+	<bibl type="abbr" n="SEG">SEG</bibl> 55, 1113; 
+	<bibl type="author_date" n="Adiego 2007">Adiego 2007</bibl>: 135-137 no. C.Hy (for the Karian inscriptions).</p>
+
+<p>Further bibliography: 
+	<bibl type="author_date" n="Ma 1999">Ma 1999</bibl>: 84-85; 
+	<bibl type="author_date" n="Pirenne-Delforge 2005">Pirenne-Delforge 2005</bibl>;  
+	<bibl type="author_date" n="Badoud 2015">Badoud 2015</bibl>: 165.</p>
+
+			</div>
+			<div type="edition">
+<head>Text</head>
+<ab subtype="face" n="Ab">Face Ab 
+	
+<lb xml:id="line_Ab1" n="Ab1"/>
+                    <name type="epithet" key="Agathe">
+                        <w lemma="ἀγαθός">ἀγαθῆι</w>
+                    </name> <name type="deity" key="Tyche">
+                        <w lemma="τύχη">τύχηι</w>
+                    </name>· <w lemma="ἐπί">ἐπ’</w> <name type="personnel">
+                        <w lemma="ἱερεύς">ἰερέως</w>
+                    </name> 
+	
+<lb xml:id="line_Ab2" n="Ab2"/>Ἀγλουμβρότου, <name type="month">
+                        <w lemma="Πάναμος">Πανάμου</w>
+                    </name> <w lemma="εἰκάς">εἰ 
+		
+<lb xml:id="line_Ab3" n="Ab3" break="no"/>κάδι</w>· <w lemma="ἐπί">ἐπὶ</w> <w lemma="ὅδε">τοῖσδε</w> <w lemma="πρίαμαι">ἐπρίατο</w> τὴν 
+	
+<lb xml:id="line_Ab4" n="Ab4"/>
+                    <name type="personnel">
+                        <w lemma="ἱερωσύνη">ἱερωσύνην</w>
+                    </name> Λέων Θευδώρου 
+	
+<lb xml:id="line_Ab5" n="Ab5"/>
+                    <w lemma="παρά">παρὰ</w> <name type="ethnic" key="Hyllarima">
+                        <w lemma="Ὑλλαριμεύς">Ὑλλαριμέων</w>
+                    </name>, <w lemma="διά">διὰ</w> <w lemma="βίος">βίου</w>, <w lemma="δραχμή">δρα<unclear>χμ</unclear>
+                        <supplied reason="lost">ῶν (?)</supplied>
+                    </w> 
+	
+	<lb xml:id="line_Ab6" n="Ab6"/>
+                    <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Διὸς</w>
+                    </name> <name type="epithet" key="Thaloinos?">
+                        <w lemma="θαλλοίνος?">
+                            <unclear>Ο</unclear>αλοίνου</w>
+                    </name>, <name type="deity" key="Heracles">
+                        <w lemma="Ἡρακλέης">Ἡρακλείους</w>
+                    </name>, <name type="deity" key="Ge">
+                        <w lemma="γῆ">Γῆς</w>
+                    </name>, 
+	
+	<lb xml:id="line_Ab7" n="Ab7"/>
+                    <name type="deity" key="Kanebos">
+                        <w lemma="Κάνηβος">Κανήβου</w>
+                    </name>, <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Διὸς</w>
+                    </name> <name type="epithet" key="Katharsios">
+                        <w lemma="καθάρσιος">Καθαρσίου</w>
+                    </name>, 
+	
+	<lb xml:id="line_Ab8" n="Ab8"/>
+                    <name type="deity" key="Apollo">
+                        <w lemma="Ἀπόλλων">Ἀπόλλωνος</w>
+                    </name> <name type="epithet" key="Apotropaios">
+                        <w lemma="ἀποτρόπαιος">Ἀποτροπαίου</w>
+                    </name>, 
+	
+	<lb xml:id="line_Ab9" n="Ab9"/>
+                    <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Διὸς</w>
+                    </name> <name type="epithet" key="Akraios">
+                        <w lemma="ἀκραῖος">Ἀκραίου</w>
+                    </name>, <name type="deity" key="Ares">
+                        <w lemma="Ἄρης">Ἀρέως</w>
+                    </name>, <name type="deity" key="Hermes">
+                        <w lemma="Ἑρμῆς">Ἑρμοῦ</w>
+                    </name>, 
+	
+	<lb xml:id="line_Ab10" n="Ab10"/>
+                    <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Διὸς</w>
+                    </name> <name type="epithet" key="Ondoureus">
+                        <w lemma="Ὀνδουρεύς">Ὀνδουρέως</w>
+                    </name>, <name type="deity" key="Zeus">
+                        <w lemma="Ζεύς">Διὸς</w>
+                    </name> <name type="epithet" key="Soter">
+                        <w lemma="σωτήρ">Σωτῆ 
+		
+		<lb xml:id="line_Ab11" n="Ab11" break="no"/>ρος</w>
+                    </name> καὶ τοῦ <name type="ethnic" key="Rhodes">
+                        <w lemma="Ῥόδιος">Ῥοδίων</w>
+                    </name> <name type="deity" key="Demos">
+                        <w lemma="δῆμος">Δήμου</w>
+                    </name> καὶ <name type="deity" key="Daimon">
+                        <w lemma="δαίμων">δαι 
+			
+			<lb xml:id="line_Ab12" n="Ab12" break="no"/>μόνων</w>
+                    </name> Ἀρρισσιος τοῦ Ἴμβρασι, 
+	
+	<lb xml:id="line_Ab13" n="Ab13"/>Ἑρμίου τοῦ Ἀρρισσιος καὶ <w lemma="ἄν">ἄν</w> <w lemma="τις">τι 
+		
+		<lb xml:id="line_Ab14" n="Ab14" break="no"/>νι</w> <name type="ethnic" key="Hyllarima">
+                        <w lemma="Ὑλλαριμεύς">Ὑλλαριμεῖς</w>
+                    </name> <name type="sacrifice">
+                        <w lemma="θύω">θύωσιν</w>
+                    </name> <w lemma="χωρίς">χωρὶ</w> τῶ<unclear>ν</unclear> 
+	
+	<lb xml:id="line_Ab15" n="Ab15"/>
+                    <w lemma="προπρίαμαι">προπεπραμένων</w> <name type="personnel">
+                        <w lemma="ἱερατεία">ἱερατειῶν</w>
+                    </name>· 
+	
+	<lb xml:id="line_Ab16" n="Ab16"/>
+                    <name type="portion">
+                        <w lemma="λαμβάνω">λήψεται</w>
+                    </name> δὲ <name type="portion">
+                        <w lemma="γέρας">γέρα</w>
+                    </name> τῶν <name type="sacrifice">
+                        <w lemma="θύω">θυομέ 
+		
+		<lb xml:id="line_Ab17" n="Ab17" break="no"/>νων</w>
+                    </name> <w lemma="ὑπό">ὑπὸ</w> τοῦ <name type="group">
+                        <w lemma="κοινός">κοινοῦ</w>
+                    </name> <name type="portion">
+                        <w lemma="κεφαλή">κεφαλὰς</w>
+                    </name> 
+	
+	<lb xml:id="line_Ab18" n="Ab18"/>κα<supplied reason="lost">ὶ</supplied> <name type="portion">
+                        <w lemma="πούς">
+                            <supplied reason="lost">πόδας</supplied>
+                        </w>
+                    </name>
+                    <supplied reason="lost">·</supplied> <w lemma="εἰμί">
+                        <supplied reason="lost">ἔ</supplied>σται</w> δὲ <w lemma="ἀλειτούργητος">ἀλειτούρ 
+		
+		<lb xml:id="line_Ab19" n="Ab19" break="no"/>
+                        <supplied reason="lost">γητος</supplied>
+                    </w> <w lemma="πᾶς">
+                        <supplied reason="lost">πάσης</supplied>
+                    </w> <w lemma="λειτουργία">
+                        <supplied reason="lost">λειτουργίας</supplied>
+                    </w> <supplied reason="lost">καὶ</supplied> 
+	
+	<lb xml:id="line_Ab20" n="Ab20"/>
+                    <w lemma="ἀνείσφορος">
+                        <supplied reason="lost">ἀνείσφορος</supplied>
+                    </w> <w lemma="πᾶς">
+                        <supplied reason="lost">πάσης</supplied>
+                    </w> <w lemma="εἰσφορά">
+                        <supplied reason="lost">εἰσφορᾶς</supplied>
+                    </w>. 
+	
+	<lb/>
+                    <gap reason="lost" extent="unknown" unit="line"/>
+</ab>
+<ab subtype="face" n="B">Face B 
+	
+	<lb xml:id="line_B1" n="B1"/>
+                    <name type="epithet" key="Agathe">
+                        <w lemma="ἀγαθός">
+                            <supplied reason="lost">ἀγ</supplied>
+                            <unclear>α</unclear>θῆι</w>
+                    </name> <name type="deity" key="Tyche">
+                        <w lemma="τύχη">τύχ<unclear>η</unclear>
+                            <supplied reason="lost">ι</supplied>
+                        </w>
+                    </name>· 
+	
+	<lb xml:id="line_B2" n="B2"/>
+                    <w lemma="ἐπί">
+                        <supplied reason="lost">ἐ</supplied>πὶ</w> <name type="personnel">
+                        <w lemma="ἱερεύς">ἰερέω<unclear>ς</unclear>
+                        </w>
+                    </name> 
+	
+	<lb xml:id="line_B3" n="B3"/>
+                    <supplied reason="lost">Ἀ</supplied>γλουμβρ 
+	
+	<lb xml:id="line_B4" n="B4" break="no"/>
+                    <unclear>ότ</unclear>ου, <name type="month">
+                        <w lemma="Πάναμος">Πανάμ<unclear>ο</unclear> 
+		
+		<lb xml:id="line_B5" n="B5" break="no"/>
+                            <supplied reason="lost">υ</supplied>
+                        </w>
+                    </name> <w lemma="εἰκάς">
+                        <supplied reason="lost">ε</supplied>
+                        <unclear>ἰ</unclear>κάδι</w>· <w lemma="ἐπί">ἐπὶ</w> <w lemma="ὅδε">τ<unclear>ο</unclear> 
+			
+			<lb xml:id="line_B6" n="B6" break="no"/>
+                        <supplied reason="lost">ῖσδ</supplied>
+                        <unclear>ε</unclear>
+                    </w> <w lemma="πρίαμαι">
+                        <unclear>ἐ</unclear>πρίατο</w> 
+	
+	<lb xml:id="line_B7" n="B7"/>
+                    <supplied reason="lost">τ</supplied>
+                    <unclear>ὴ</unclear>ν <name type="personnel">
+                        <w lemma="ἱερωσύνη">ἱερωσύ 
+		
+		<lb xml:id="line_B8" n="B8" break="no"/>
+                            <supplied reason="lost">ν</supplied>
+                            <unclear>η</unclear>ν</w>
+                    </name> Ἑρμίας Ἀ 
+	
+	<lb xml:id="line_B9" n="B9" break="no"/>
+                    <supplied reason="lost">ρι</supplied>στοκλείου 
+	
+	<lb xml:id="line_B10" n="B10" break="no"/>
+                    <supplied reason="lost">ς</supplied> <w lemma="παρά">
+                        <supplied reason="lost">π</supplied>
+                        <unclear>α</unclear>ρὰ</w> <name type="ethnic" key="Hyllarima">
+                        <w lemma="Ὑλλαριμεύς">Ὑλλα 
+		
+		<lb xml:id="line_B11" n="B11" break="no"/>
+                            <supplied reason="lost">ρι</supplied>
+                            <unclear>μέ</unclear>ων</w>
+                    </name>, <w lemma="διά">διὰ</w> <w lemma="βίος">βί 
+			
+			<lb xml:id="line_B12" n="B12" break="no"/>
+                        <supplied reason="lost">ου</supplied>
+                    </w>
+                    <supplied reason="lost">,</supplied> <w lemma="δραχμή">
+                        <supplied reason="lost">δ</supplied>
+                        <unclear>ρ</unclear>αχμῶν</w> 
+	
+	<lb xml:id="line_B13" n="B13"/>
+                    <gap reason="lost" quantity="2" unit="character"/>
+                    <orig>
+                        <unclear>Υ</unclear>ΝΕΡΙ<unclear>ΛΙ</unclear>
+                    </orig> 
+	
+	<lb xml:id="line_B14" n="B14"/>
+                    <gap reason="lost" quantity="2" unit="character"/>
+                    <unclear>Ε</unclear>ΡΙΣ καὶ <name type="deity" key="Hekate">
+                        <w lemma="Ἑκάτη">Ἑ<unclear>κ</unclear>
+                            <supplied reason="lost">ά</supplied> 
+		
+		<lb xml:id="line_B15" n="B15" break="no"/>
+                            <supplied reason="lost">τ</supplied>
+                            <unclear>η</unclear>ς</w>
+                    </name> <name type="epithet" key="Kyreia">
+                        <w lemma="κυρεία">Κυρεί<unclear>α</unclear>
+                            <supplied reason="lost">ς</supplied>
+                        </w>
+                    </name> 
+	
+	<lb xml:id="line_B16" n="B16"/>
+                    <w lemma="ἐν">
+                        <supplied reason="lost">ἐν</supplied>
+                    </w> <unclear>τ</unclear>ῶι <name type="structure">
+                        <w lemma="τέμενος">τεμέν<unclear>ε</unclear>
+                            <supplied reason="lost">ι</supplied>
+                        </w>
+                    </name>· 
+	
+	<lb xml:id="line_B17" n="B17"/>
+                    <name type="portion">
+                        <w lemma="λαμβάνω">
+                            <supplied reason="lost">λή</supplied>
+                            <unclear>ψ</unclear>εται</w>
+                    </name> δὲ <name type="portion">
+                        <w lemma="γέρας">γ<unclear>έ</unclear> 
+		
+		<lb xml:id="line_B18" n="B18" break="no"/>
+                            <supplied reason="lost">ρα</supplied>
+                        </w>
+                    </name> <unclear>τ</unclear>ῶν <name type="sacrifice">
+                        <w lemma="θύω">θυομέ 
+			
+			<lb xml:id="line_B19" n="B19" break="no"/>
+                            <supplied reason="lost">ν</supplied>
+                            <unclear>ω</unclear>ν</w>
+                    </name> <w lemma="ὑπό">ὑπὸ</w> το <name type="group">
+                        <w lemma="δῆμος">δ<unclear>ή</unclear> 
+
+<lb xml:id="line_B20" n="B20" break="no"/>
+                            <supplied reason="lost">μ</supplied>
+                            <unclear>ο</unclear>υ</w>
+                    </name> <name type="portion">
+                        <w lemma="κεφαλή">κεφαλὰς</w>
+                    </name> 
+	
+	<lb xml:id="line_B21" n="B21"/>
+                    <supplied reason="lost">κ</supplied>
+                    <unclear>αὶ</unclear> <name type="portion">
+                        <w lemma="πούς">πόδας</w>
+                    </name>· <w lemma="εἰμί">ἔσ<unclear>τ</unclear> 
+		
+		<lb xml:id="line_B22" n="B22" break="no"/>
+                        <supplied reason="lost">αι</supplied>
+                    </w> δὲ <w lemma="ἀλειτούργητος">ἀλειτ<unclear>ού</unclear> 
+			
+			<lb xml:id="line_B23" n="B23" break="no"/>
+                        <supplied reason="lost">ργ</supplied>
+                        <unclear>η</unclear>τος</w> <w lemma="πᾶς">πάση<supplied reason="lost">ς</supplied>
+                    </w> 
+	
+	<lb xml:id="line_B24" n="B24"/>
+                    <w lemma="λειτουργία">
+                        <supplied reason="lost">λ</supplied>
+                        <unclear>ειτ</unclear>ουργίας</w> <unclear>κ</unclear> 
+	
+	<lb xml:id="line_B25" n="B25" break="no"/>
+                    <supplied reason="lost">αὶ</supplied> <w lemma="ἀνείσφορος">
+                        <supplied reason="lost">ἀ</supplied>νείσφο 
+		
+		<lb xml:id="line_B26" n="B26" break="no"/>
+                        <supplied reason="lost">ρο</supplied>ς</w> <w lemma="πᾶς">πάσης</w> 
+	
+	<lb xml:id="line_B27" n="B27"/>
+                    <w lemma="εἰσφορά">
+                        <supplied reason="lost">εἰ</supplied>σφορᾶς</w>. 
+	
+	<lb/>
+                    <space quantity="1" unit="line"/>
+</ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+<head>Translation</head>
+<p>Face Ab </p>
+<p>With good fortune. In the year of the priest Agloumbrotos, on the 20th of Panamos. Leon son of Theudoros bought the priesthood from the Hyllarimeis on the following conditions: for life, for the price of [...] drachmae, of Zeus Thaloinos (?), Heracles, Ge, Kanebos; of Zeus Katharsios, Apollo Apotropaios; of Zeus Akraios, Ares, Hermes; of Zeus Ondoureus; of Zeus Soter and the Rhodian Demos and the <foreign>daimones</foreign> of Arissis son of Imbrasis and Hermias son of Arrissis and to whichever (other deity) the Hyllarimeis offer sacrifice, except the priesthoods sold previously. He will take as perquisites from animals sacrificed by the community: the heads and [feet]. He is to be exempt [from any liturgy and not liable to any taxation].</p>
+
+<p>Face B</p>
+<p>With good fortune. In the year of the priest Agloumbrotos, on the 20th of Panamos: Hermias son of Aristokles bought the priesthood from the Hyllarimeis on the following conditions: for life, for the price of [...] dr., of [...] and of Hekate Kyreia in the precinct. He will take as perquisites from animals sacrificed by the people: the heads and feet. He is to be exempt from any liturgy and not liable to any taxation.</p>
+
+			</div>
+			<div type="translation" xml:lang="fre">
+<head>Traduction</head>
+<p>Face Ab</p>
+<p>À la bonne fortune. Sous la prêtrise d'Agloumbrotos, le 20 Panamos. Léon fils de Theudoros a acheté la prêtrise des Hyllarimeis aux conditions suivantes : à vie, pour le prix de [...] drachmes, de Zeus Thaloinos (?), d'Héraclès, de Gè, de Kanébos; de Zeus Katharsios, d'Apollon Apotropaios; de Zeus Akraios, d'Arès, d'Hermès; de Zeus Ondoureus; de Zeus Sôter et du Démos rhodien et des <foreign>daimones</foreign> d'Arissis fils d'Imbrasis et d'Hermias fils d'Arrissis et à quelque (autre dieu) à qui les Hyllarimeis offrent des sacrifices, à part les prêtrises qui ont été vendues auparavant. Il recevra comme parts d'honneur des animaux sacrifiés par la communauté : les têtes et [les pieds]. Il sera exempté [de toute liturgie et de toute taxe].</p>
+
+<p>Face B</p>
+<p>À la bonne fortune. Sous la prêtrise d'Agloumbrotos, le 20 Panamos. Léon fils de Theudoros a acheté la prêtrise des Hyllarimeis aux conditions suivantes : à vie, pour le prix de [...] drachmes, de [...] et d'Hécate Kyreia dans l'enceinte. Il recevra comme parts d'honneur des animaux sacrifiés par la communauté : les têtes et les pieds. Il sera exempté de toute liturgie et de toute taxe.</p> 	</div>
+			<div type="commentary">
+<head>Commentary</head>
+
+
+<p>These two documents come from the same large stele, on which a variety of documents were inscribed (see also above on Support). The large front face is divided into two columns, containing late Classical or early Hellenistic inscriptions inscribed in several distinct phases. At the top of column Aa are five successive inscriptions in the Karian script, which may introduce a list of priests, probably of an Anatolian god called Armotrokondas (Armo-Tarhunt), and thereafter preserve a total of five Karian personal names followed by father's names and usually by papponyms also (see Adiego 2007 for detailed commentary). At the bottom of column Aa is a further, Greek inscription, another list of priests, whose inception is dated precisely to the Seleucid era, in 263/2 BC (again, here, names of priests were probably inscribed in succession over the course of several decades). To the right, in column Ab, are successively a two-line Karian text and four lines of Greek text inscribed in two successive phases. It is possible that the Karian text, occurring first, is a translation of the Greek (or vice versa), since it appears to introduce a list of "priest of the Hyllarimean gods". The late Classical-early Hellenistic Greek texts in Ab are: ἱερεῖες θεῶν πάντων· Ἑρμίας | Φανέω Ἑρμίαδος; and: ἱερεὺς θεῶν πάντων· | Ὑσσωλλος Ἀρρισσιος. For the cult of the Theoi Pantes, cp. also here <ref target="CGRN_186">CGRN 186</ref> (Ilion), line 1. These immediately precede the text reprised here in column Ab. In other words, it would seem that this stele's original function, probably over the course of several centuries, was to serve as a place to inscribe lists of priests. Two Karian lists of priests were probably introduced in separate columns. Column Ab became a column with lists of priests "of all the gods"; while column Aa eventually contained a list of priests of Apollo at Hyllarima, whose connection with the earlier cult of Armo-Tarhunt is tentative and improbable. The stele thus probably served as a monument for record-keeping, no doubt at the early site of Classical Hyllarima in Asarcıktepe (see above on Provenance; cf. Adiego et al., Debord - Varinlioğlu, and Blümel for further discussion). Little else is known about the site during these early periods.</p>
+
+<p>The inscriptions collected here testify to the continued utility of this stele as a record-keeping monument. The text in Ab is inscribed directly beneath the Karian and two Greek texts in that column, and represents a singularly large-scale sale of various priesthoods. It may be tempting to view this as in some ways a continuation of the notion of a priesthood that was called "of all the gods" at Hyllarima. Indeed, the priesthood is so capacious as to include "any other god to whom the Hyllarimeis sacrifice, except those that have been sold beforehand" (lines Ab13-15). However, it is also worth recalling that this portion of column Ab was the only remaining section of the front face of the stele available for further inscribing, and so it may simply have been practical to inscribe this fairly lengthy text here. In any case, the list may be organised by including small groupings of gods which appear to belong together, nearly each beginning with a manifestation of Zeus (see the commentary on individual lines below). This was clearly an almost miscellaneous priesthood, which included many of the gods and oversaw many of the small sanctuaries of Hyllarima, with only a few exceptions. Side B contains a nearly identically formulated, but much more specific priesthood of two or maybe three gods: at least one divine name has more or less disappeared in lines B13-14, but the name of the goddess Hekate seems reasonably secure (see below for some discussion).</p>
+
+<p>Both inscriptions date to the early second century BC, and specifically to the period immediately surrounding the conquest of Asia Minor by the Seleucid king Antiochos III. At this specific juncture (197/6 BC), the Rhodians intervened militarily in Karia and notably received the territory of Stratonikeia, and Hyllarima as this inscription attests (on these events, see Ma); after the treaty of Apamea (188 BC), Hyllarima was again granted to Rhodes for a few decades, as part of its extended territory or Peraia (for further discussion, including consideration of the specific date, see Adiego et al. and Badoud). Accordingly, the two documents, both sales of priesthoods, are headed by and dated according to the eponymous Rhodian priest of Helios, and in the Rhodian month of Panamos (the last month of the year, in July/August). Other features such as the psilosis in ἐπὶ ἰερέως, line Ab1, and the form χωρί, line Aa14, belong to the Rhodian dialect (cf. Blümel). Taken together, these aspects seem to indicate the authority of the Rhodian state behind the promulgation of these sales of priesthoods at Hyllarima. Sales of priesthoods are unknown on Rhodes and in its "integrated" Peraia, but were rather common elsewhere in Karia, cf. here <ref target="CGRN_118">CGRN 118</ref> (Halikarnassos), <ref target="CGRN_119">CGRN 119</ref> (Theangela), <ref target="CGRN_184">CGRN 184</ref> (Kasossos), <ref target="CGRN_196">CGRN 196</ref> (Iasos), as well as in other regions of Asia Minor. Nevertheless, it may be presumed that the Rhodian takeover of Hyllarima during this critical juncture was a catalyst for the sales: the sale in Ab, as noted, is particularly capacious and may simply represent an effort to ensure these priesthoods changed hands, that the priesthood of the Rhodian Demos formed a part of these duties (cf. line Ab11), and that the city of Hyllarima was adequately compensated as a result. The other two documents inscribed almost certainly contemporanously with the sales (one at the bottom of column B; the other at the top of column C; see Adiego et al. for a discussion of the letterforms) seem to substantiate this interpretation: both are leases of various sacred lands (in the case of the text on side C, these are lands notably belonging to Apollo and Artemis, as well as to the Karian god Sinuri). The effort to raise funds for the community--and the Rhodian state--seems palpable. However, the Rhodian occupation was short-lived and Hyllarima reverted to Roman rule in 167 BC.</p>
+
+<p>Line Ab4: The name Leon is well-attested in Karia, but his father's name in the spelling Theudoros, is poorly evidenced. Since the spelling is more prevalent on Rhodes and in the Peraia (though admittedly also on Kos and in some parts of coastal Asia Minor), we may reasonably suppose that the individual was, if not a Rhodian himself, an inhabitant of Hyllarima with some degree of kinship with the island. The same cannot be said of the purchaser of the priesthood in column B, whose names (Hermias, and father Aristokles) are much more widespread.</p>
+
+<p>Line Ab5 (and cf. B12): In both cases, the specific price obtained for the priesthood has apparently dropped out or was left uninscribed by the cutter. At the end of B12, we clearly have <supplied reason="lost">δ</supplied>
+                    <unclear>ρ</unclear>αχμῶν, with no space available after this word for an amount (contrary to what Adiego et al. print); the amount could only have been inscribed at the beginning of B13, but only little space is available there. In Ab5, Laumonier (and still Adiego et al.) read δρα(χμῶν) <unclear>ξρ′</unclear>, an amount with two numerals strangely in the reverse order (60 + 100 dr.). This can perhaps remain possible, but autopsy of a squeeze (see Bibliography above), shows that the traces of the two letters after δρα should be read as <foreign>chi</foreign> and <foreign>mu</foreign> instead. Since a few more letter spaces are available in this line, there is thus no reason to suppose that we do not have the same reading as in B12, without an abbreviation of δραχμῶν, and with the precise amount still mysteriously elusive.</p>
+
+<p>Lines Ab6-7: The first mentioned god is a Zeus literally called Oaloinos, which could be an Anatolian epithet of unknown origin and meaning: see most recently Blümel for a cautious discussion of the evidence (p. 237, "eine eindeutige Entscheidung ist nicht möglich"), who however does not exclude an etymological connection with Indo-European words for wine, raised contemporaneously by Debord - Varinlioğlu (p. 152-153). Possibly the first letter could be read as a <foreign>theta</foreign> left incomplete by the cutter (see also Adiego et al., who raise this possibility). This would make the epithet Thaloinos (θαλλός, θάλος + οἶνος), perhaps meaning "the vine-branch" (cf. Hom. <title>Od.</title> 5.69) or the "gift of the vine" (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. θαλλός III), and presumably refer to the action of the god in making vines grow (compare also the poetic epithet θέοινος [<bibl type="abbr" n="LSJ">LSJ</bibl> s.v.]). At any rate, a connection of the god with wine would make good sense, since Zeus ᾿Αμπελίτης ("of the vine") is commonly found in Asia Minor, cf. e.g. <bibl type="abbr" n="SEG">SEG</bibl> 29, 1392-1393 (Dorylaion); 49, 1805 (Appia in Phrygia), etc. A fragmentary inscription from Hyllarima itself, <bibl type="abbr" n="LSAM">LSAM</bibl> 57, testifies to the cult of a Zeus called ὁ ΑΜ[...] at the site; as Adiego et al. have noted, it thus possible that this was another manifestation of a Zeus connected with viticulture. The probable association of the land and agricultural goddess Ge with this Zeus would accordingly seem appropriate, while Heracles would warrant further elucidation. A Karian god called Kanebos is also mentioned here in the next line. Little is known with any assurance about the figure, except that he was worshipped at the nearby site of Kys and a dedication to this god was found at Lagina in the same region (see Adiego et al. for discussion).</p>
+
+<p>Lines Ab7-9: Zeus Katharsios and Apollo Apotropaios form a pair connected with the ritual sphere of purification. For Zeus Katharsios, see here <ref target="CGRN_68">CGRN 68</ref> (Thasos), line 4; for Apollo Apotropaios, see <ref target="CGRN_52">CGRN 52</ref> (Erchia), col. Α, lines 24-37 + col. Γ, lines 32-38 + col. Ε, lines 32-47, <ref target="CGRN_56">CGRN 56</ref> (Marathonian Tetrapolis), col. I, line 26, <ref target="CGRN_99">CGRN 99</ref> (Cyrene), lines 6-7. The cults of Zeus Akraios, Ares and Hermes are not otherwise attested in the specific region of Hyllarima; but the evidence for Zeus Akraios in Halikarnassos in Karia and its vicinity is rich, and a cult for these three gods is known at Halikarnassos (see <bibl type="abbr" n="LBW">LBW</bibl> 501). For Ares and Hermes at Halikarnassos: cf. Vitr. 2.11 (presented as Mars and Mercury in this Latin text, of course).</p>
+
+<p>Lines Ab10-11: The priesthood of Zeus Ondoureus is not otherwise attested and seems to appear on its own; the epithet seems to derive from an (unattested) Karian toponym Ondoura, presumably in the vicinity of Hyllarima. The priesthood of Zeus Soter is connected by καὶ with that of the Rhodian Demos (as well as the priesthoods that follow in lines Ab11-12), perhaps indicating that these two cults in some measure belong together as a pair. This might tentatively suggest that Zeus Soter (whatever the antiquity of the cult at Hyllarima) was envisaged to some degree in a political capacity as connected with the "saving" of the community during recent wars or changes of rulership. For Zeus Soter, see esp. here <ref target="CGRN_198">CGRN 198</ref> (Megalopolis), lines 10-11 and <ref target="CGRN_206">CGRN 206</ref> (Pergamon), line 30. The cult of the Rhodian Demos may be attested elsewhere in the Peraia and in Rhodian territories (restored at <bibl type="abbr" n="I.Peraia">I.Peraia</bibl> 505, Physkos; and for the nymph Rhodos, cf. <bibl type="abbr" n="I.Stratonikeia">I.Stratonikeia</bibl> 504, Lagina), as well as in Priene, where the Rhodian Demos received sacrifice (<bibl type="abbr" n="I.Priene">I.Priene</bibl> 124.4) The cult prefigures the later cult of Roma, and especially of the Roman Demos, by dependent communities of the Republic, see esp. <bibl type="abbr" n="LSAM">LSAM</bibl> 49 (Miletos, ca. 130 BC); for the personification as a god or goddess, see also here <ref target="CGRN_150">CGRN 150</ref> (Labraunda), lines 5-6.</p>
+
+<p>Lines Ab11-12: The two cults listed near the end of this partial snapshot of the pantheon of Hyllarima are particularly evocative of Karian cults: these appear to be the δαίμονες, i.e. the two daimonic (divinised or heroic) spirits of two deceased individuals. The two individuals, Arissis son of Imbrasis and Hermias son of Arissis, are not attested as such, their names perhaps suggest a familial link. Despite the fact that the names may have been relatively common, it is also noteworthy that one of the Karian names in the list of priests of Armo-Tarhunt in Aa is Imbrasi son of Arrissis son of Imbrasi; recall also the names in the Greek lists of priests of the Theoi Pantes in Aa (see above) which share several commonalities with the individuals whose δαίμονες were worshipped (the names Hermias and Arissis appear here too). It thus seems possible that the δαίμονες were those of individuals who had some connection with the stele at Hyllarima and with the past of the community; for the cult of δαίμονες in this inscription and more broadly in Karia, cf. the commentary in Laumonier, p. 366-370; see also here <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 9-10, 35.</p>
+
+<p>Lines Ab13-15: For the expression, Blümel well compares the ca. 14-15 AD sale of the priesthood of Asklepios at Miletos, <bibl type="abbr" n="Milet I.7">Milet I.7</bibl> 204 / <bibl type="abbr" n="LSAM">LSAM</bibl> 12, where one reads lines 5-9: πω|λοῦντες ἱερωσύνην Ἀσκληπιοῦ πρὸ πόλε|ως καὶ τῶν ἐντεμενίων αὐτοῦ θεῶν πάν|των, χωρὶς εἴ τι προπέπραται ὑπὸ τοῦ δή|μου; the priesthood of Asklepios at Miletos would thus also concern itself with all other deities included in the sanctuary, unless their priesthoods had been sold separately. At Hyllarima, however, the priesthood was more capacious, apparently including cults of gods in different groupings and very likely in different sanctuaries or cult-sites; see also above for a discussion of the priesthood of the Theoi Pantes at Hyllarima.</p>
+
+<p> Lines Ab16-18 and B17-21: Both the heads and feet of sacrificial portions were common priestly pregoratives, perhaps more the second than the first however. For both, cf. here <ref target="CGRN_85">CGRN 85</ref> (Kos); for these portions granted to the cult personnel called <foreign>epimenioi</foreign>, lines 58-59: κεφαλ[άς]|πόδας καὶ τὰ δέρματα, cf. <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), line 44: τὰς δὲ κεφαλὰς καὶ τοὺς πόδας αὐτοὶ ἐχόντων. Laumonier has restored δέρματα instead of πόδας, a solution that cannot be excluded, but since πόδας is secure in B21, this seems unlikely. It is highly unclear (and perhaps implausible) that a systematic distinction is being operated between the two documents, where Hyllarima is on the one hand referred to as a δῆμος, and on the other, as a κοινόν. As both sales are contemporaneous, this might tentatively reflect some uncertainty about the precise political status of the community (was it still a full-fledged city?); alternatively, this just may be a form of <foreign>variatio</foreign> about how the community chose to present itself (on variatio in the use of δημοτελής, δημόσιος and κοινός, cf. Pirenne-Delforge). See also Adiego et al. for further discussion of this "problem".</p>
+
+<p>Lines Ab18-20 and B21-27: The restorations for the text in Ab are virtually assured from the text on face B. Exemptions from taxation and/or liturgies (here, both are explicitly specified) were commonly granted as part of purchasing a priesthood: cf. here e.g. <ref target="CGRN_122">CGRN 122</ref> (Thebes-on-the-Mykale), lines 7-8, and <ref target="CGRN_124">CGRN 124</ref> (Pergamon), lines 15-16.</p>
+
+<p>Lines B13-16: The traces of one or more deities in lines 13-14 are difficult to reconstruct. Given the probable appearance of Hekate in the following lines, it may be suggested that the first deity alluded to was Apollo: it is known that they were worshipped together at the newer site of Hyllarima, where an architrave dedicated to the pair was found; cf. Laumonier, p. 378, no. 41, line 1: [Ἀπόλλω]νι καὶ Ἑκάτηι καὶ τοῖς συννάοις [θεοῖς ...]. The phrase in line 16 ([ἐν] τῶι τεμένε̣[ι]) may simply have reinforced the fact that the two deities shared a common precinct, perhaps with other "associated" gods as in this other inscription. The epithet Kyreia is seldom explicitly found of Hekate, though it does not seem implausible, since she is occasionally called Δέσποινα or Βασιλεία. It is also possible that [ἐν] τῶι τεμένε̣[ι] qualifies Κυρείας: Hekate is mistress of the precinct (Adiego et al.)</p>
+
+			</div>
+		</body>
+	</text>
+</TEI>

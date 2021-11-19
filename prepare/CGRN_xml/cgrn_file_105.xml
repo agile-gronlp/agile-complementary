@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_105" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 105</idno>: Law containing a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> from Koresia (?) on Keos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+
+		<supportDesc><support>
+			<p><rs type="objectType">Stele</rs> of white marble. According to van Minnen (p. 212), local marble at Keos "tends to have blue veins", therefore the block of stone may have come from Athens. This finds further support in the inscribing of the document by an Athenian cutter (see Date).</p>
+			<p>
+				<dimensions>
+					<height unit="cm">43</height>
+					<width unit="cm">112</width>
+					<depth unit="cm">12</depth>
+				</dimensions></p>
+
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p> Height of letters: <height unit="cm">unknown</height></p>
+		</layout></layoutDesc>
+
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0205" notAfter="-0180">ca. 205-180 BC</origDate></p>
+
+		<p><desc>Justification: letterforms. The letterforms were identified as belonging to the early third century BC by Hiller von Gaertringen. However, Tracy has identified the cutter of the inscription as an Athenian one, active in the years 224/3-188/7 BC. As Koresia (explicitly mentioned in line 11) was renamed Arsinoe from ca. 266 until at least 206/5 BC (see Robert, Bagnall), the date of the inscription should be assigned to the very end of the third century BC or the first decades of the second. For further discussion of the historical context of this inscription, see below Commentary and at lines 10-11. </desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Iulis" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/570314" type="external">Iulis</ref></placeName>, on Keos. Now in the National Museum at Athens. </p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2016 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by JM Carbon on 30.01.2019.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Hiller von Gaertringen, <bibl type="abbr" n="IG XII,5">IG XII.5</bibl> 647, except in line 1 (see Commentary ad loc.). NB that we only include lines 1-20 of the inscription. See Ziehen for a different reading of the difficult lines 1-4 (provided by von Prott).</p>
+	    			<p> Cf. also:
+	    				Dittenberger <bibl type="abbr" n="SIG³">SIG³</bibl> 958;
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 94;
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 98;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 59, 2057.
+	    			</p>
+	    			<p> Further bibliography:
+	    		<bibl type="author_date" n="Robert 1960">Robert 1960</bibl>: 146-155;
+	    		<bibl type="author_date" n="Bagnall 1976">Bagnall 1976</bibl>: 141-145;
+	    		<bibl type="author_date" n="Osborne 1987">Osborne 1987</bibl>;
+	    		<bibl type="author_date" n="Tracy 1990">Tracy 1990</bibl>: 66;
+	    		<bibl type="author_date" n="Trümpy 1997">Trümpy 1997</bibl>: 55-60;
+	    		<bibl type="author_date" n="Reger 1998">Reger 1998</bibl>;
+	    		<bibl type="author_date" n="Feyel 2006">Feyel 2006</bibl>;
+	    		<bibl type="author_date" n="Walser 2009">Walser 2009</bibl>: 145-148;
+	    		<bibl type="author_date" n="van Minnen 2010">van Minnen 2010</bibl>;
+	    		<bibl type="author_date" n="Chankowski 2010">Chankowski 2010</bibl>: 210-214;
+	    		<bibl type="author_date" n="Wijma 2014">Wijma 2014</bibl>;
+	    		Chaniotis <title>Kernos</title> 2014 <bibl type="abbr" n="EBGR">EBGR</bibl> no. 127.
+
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+
+<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/><orig>εις</orig> <w lemma="εἰμί">εἰσίν</w>· τὸν δὲ <name type="authority"><w lemma="νόμος">νόμο<supplied reason="lost">ν</supplied></w></name> <gap reason="lost" quantity="5" unit="character"/> <w lemma="ὅς"><supplied reason="lost">ὃν</supplied></w>
+
+<lb xml:id="line_2" n="2"/> <w lemma="λέγω"><supplied reason="lost">εἶπεν (?)</supplied></w> <w lemma="περί"><supplied reason="lost">περὶ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>πά<supplied reason="lost">λ</supplied>ης Πολυπείθης, τοὺς <supplied reason="lost">δὲ</supplied> <name type="title"><w lemma="πρόβουλος"><supplied reason="lost">προβού</supplied>
+
+<lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">λ</supplied>ους</w></name> τ<supplied reason="lost">οὺς</supplied> <w lemma="ἀεί"><supplied reason="lost">ἀεὶ</supplied></w> <w lemma="εἰμί"><supplied reason="lost">ὄντας</supplied></w> <w lemma="ἐκδίδωμι"><supplied reason="lost">ἐγ</supplied>διδόναι</w> <w lemma="ἐν">ἐν</w> τῶι <name type="month"><w lemma="Μαιμακτηριών">Μαιμακτηρ<supplied reason="lost">ιῶνι</supplied></w></name> <w lemma="μείς"><supplied reason="lost">μη</supplied>
+
+<lb xml:id="line_4" n="4" break="no"/>νὶ</w> τὴμ <orig>μησ</orig><gap reason="lost" quantity="5" unit="character"/> <w lemma="ἔνατος"><supplied reason="lost">ἐνά</supplied>τηι</w> <w lemma="ἄπειμι">ἀπιόντος</w> καὶ <w lemma="δίδωμι">διδόναι</w> τῶι <name type="title"><w lemma="ἐκλαμβάνω">ἐγλ<supplied reason="lost">αβόν</supplied>
+
+<lb xml:id="line_5" n="5" break="no"/>τι</w></name> <w lemma="εἰς">εἰς</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> <num value="150">ΗU+10144</num>
+<w lemma="δραχμή">δραχμάς</w>· τὸν δ’ <w lemma="ἐκλαμβάνω">ἐγλαβόντα</w> <w lemma="ἔγγυος">ἔγγυον</w> <w lemma="καθίστημι">καταστ<supplied reason="lost">ῆ</supplied>
+
+<lb xml:id="line_6" n="6" break="no"/>σαι</w>, <w lemma="ὅς">ὃν</w> <w lemma="ἄν">ἂν</w> <w lemma="δέχομαι">δέχωνται</w> οἱ <name type="title"><w lemma="πρόβουλος">πρόβουλοι</w></name> <name type="meal"><w lemma="ἑστιάω">ἑστιάσειν</w></name> <w lemma="κατά">κατὰ</w> τὸν <name type="authority"><w lemma="νόμος">νό
+
+<lb xml:id="line_7" n="7" break="no"/>μον</w></name>· <name type="sacrifice"><w lemma="θύω">θύειν</w></name> δὲ τὸμ μὲμ <name type="animal" key="ox"><w lemma="βοῦς">βοῦν</w></name>	 <name type="age"><name type="gender"><w lemma="βάλλω">βεβληκότα</w></name></name>, τὴν δὲ <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <name type="gender"><name type="age"><w lemma="βάλλω">βεβληκυῖαν</w></name></name>·
+
+<lb xml:id="line_8" n="8"/> <w lemma="ἄν">ἂν</w> δέ <w lemma="τις">τι</w> καὶ <name type="animal" key="swine"><w lemma="ὑάμινος">ὑάμινον</w></name> <name type="sacrifice"><w lemma="θύω">θύηι</w></name>, <w lemma="μή">μὴ</w> <name type="age"><w lemma="πρέσβυς">πρεσβύτερον</w></name> <w lemma="ἐνιαύσιος">ἐνιαυσίου</w> καὶ <w lemma="ἔκμηνος">ἑγμ<supplied reason="lost">ή</supplied>
+
+<lb xml:id="line_9" n="9" break="no"/>νου</w>· <name type="meal"><w lemma="ἑστιάω">ἑστιᾶν</w></name> δὲ τούς τε <name type="group"><w lemma="πολίτης">πολίτας</w></name> καὶ <w lemma="ὅς">οὓς</w> ἡ <name type="group"><w lemma="πόλις">πόλις</w></name> <w lemma="καλέω">κέκληκεν</w>
+
+<lb xml:id="line_10" n="10"/> καὶ τοὺς <name type="group"><w lemma="μέτοικος">μετοίκους</w></name> καὶ τοὺς <name type="group"><w lemma="ἀπελεύθερος">ἀπελευθέρους</w></name> <w lemma="ὅσος">ὅσοι</w> τὰ <w lemma="τέλος">τέλη</w>
+
+<lb xml:id="line_11" n="11"/> <w lemma="φέρω">φέρουσιν</w> <w lemma="εἰς">εἰς</w> <placeName key="Koresia">Κορησίαν</placeName>· <w lemma="παρέχω">παρέχειν</w> δὲ καὶ <name type="meal"><w lemma="δεῖπνον">δεῖπνον</w></name> καὶ <name type="liquid"><w lemma="οἶνος">οἶνον</w></name> καὶ
+
+<lb xml:id="line_12" n="12"/> <name type="vegetal"><w lemma="τρωγάλια">τρωγάλια</w></name> καὶ <w lemma="ἄλλος">τἄλλα</w> <w lemma="πᾶς">πάντα</w> <w lemma="καλός">καλῶς</w> καὶ <name type="portion"><w lemma="κρέας">κρεῶν</w></name> <w lemma="σταθμός">σταθ<supplied reason="lost">μ</supplied>ὸν</w> <w lemma="κατά">κατὰ</w>
+
+<lb xml:id="line_13" n="13"/> τὸν <name type="person"><w lemma="ἀνήρ">ἄνδρα</w></name> <name type="quality"><w lemma="ὠμός">ὠμὰ</w></name> <w lemma="ἵστημι">ἱστάντα</w> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἔλαττον</w> <num value="2">ΜΜ</num> καὶ <w lemma="ἐκ">ἐκ</w> τῶν <name type="portion"><w lemma="ἐγκοίλιος">ἐγκοι
+
+<lb xml:id="line_14" n="14" break="no"/>λίων</w></name> <w lemma="ὅσος">ὅσα</w> <w lemma="ἄν">ἂν</w> <w lemma="ἔχω">ἔχηι</w> τὰ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name>, <w lemma="δοκιμάζω">δοκιμάζειν</w> δὲ τὰ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> τοὺς <name type="title"><w lemma="πρόβουλος">προβούλους</w></name>
+
+<lb xml:id="line_15" n="15"/> καὶ τὸν <name type="title"><w lemma="ταμίας">ταμίαν</w></name> καὶ τὸγ <name type="title"><w lemma="κῆρυξ">κήρυκα</w></name>, καὶ <w lemma="ἀφίστημι">ἀφίστασθαι</w> τὰ <name type="portion"><w lemma="κρέας">κρέα</w></name> καὶ τῶν <name type="genericOffering"><w lemma="ἱερός">ἱε
+
+<lb xml:id="line_16" n="16" break="no"/>ρῶν</w></name> <w lemma="προΐστημι">προΐστασθαι</w>, <w lemma="ἀποδίδωμι">ἀποδιδόναι</w> δὲ τὸ <name type="meal"><w lemma="δεῖπνον">δεῖπνον</w></name> <w lemma="δέκα">δέκα</w> <w lemma="πούς">ποδῶν</w> καὶ <name type="liquid"><w lemma="οἶνος">οἶνο<supplied reason="lost">ν</supplied></w></name>
+
+<lb xml:id="line_17" n="17"/> <w lemma="παρέχω">παρέχειν</w> <w lemma="ἀρεστός">ἀρεστὸν</w> <w lemma="μέχρι">μέχρις</w> <w lemma="ἄν">ἂν</w> <w lemma="ἥλιος">ἥλιος</w> <w lemma="δύο">δύηι</w>· <w lemma="ἐάν"><supplied reason="lost">ἐ</supplied>ὰν</w> δὲ <w lemma="δοκιμάζω">δοκιμασθῆι</w> ἡ <name type="meal"><w lemma="ἑστίασις">ἑ<supplied reason="lost">σ</supplied>
+
+<lb xml:id="line_18" n="18" break="no"/>τίασις</w></name>, <w lemma="ἀποδίδωμι">ἀποδοῦναι</w> τῆι <w lemma="ὑστεραῖος">ὑστεραίαι</w> τὸ <w lemma="ἀργύριον">ἀργύριον</w> τὸ <w lemma="λοιπός">λοιπὸν</w> τὸν <name type="title"><w lemma="ταμίας">ταμί
+
+<lb xml:id="line_19" n="19" break="no"/>αν</w></name> <w lemma="ὅς">οὗ</w> <w lemma="ἄν">ἂν</w> <w lemma="ἐκλαμβάνω">ἐγλάβηι</w>· <w lemma="ἄν">ἂν</w> δὲ <w lemma="μή">μή</w>, <w lemma="ἄπειμι">ἀπεῖναι</w> <w lemma="αὐτός">αὐτῶι</w> τῆς <w lemma="ἐκλαβή">ἐγλαβῆς</w> τὸ <w lemma="πέμπτος">πέμ
+
+<lb xml:id="line_20" n="20" break="no"/>πτομ</w> <w lemma="μέρος">μέρος</w>· κτλ.
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p> [...] are [...] the law [... that] Polypeithes [proposed concerning (?) ...]. The [<foreign>probouloi</foreign> who are in office at a given time] are to make a contract in the month Maimakterion [...] on the 22nd (?), and pay 150 drachmae to the person who has received the contract (5) for sacrificial animals. He who takes on the duty is to provide a surety acceptable to the <foreign>probouloi</foreign> that he will give the feast as prescribed by the law. The sacrifice is to consist on the one hand of an ox that has shed (its first teeth), on the other, of a female sheep that has shed (its first teeth). If he sacrifices anything of the pig, it must not be older than one and a half years. He has to provide a feast for the citizens, for those invited by the city, (10) for the resident foreigners and all freedmen who pay their taxes to Koresia. He is to provide a meal and wine as well as snacks and all the rest in a suitable manner, and a weight of meat for each man, being weighed raw, of no less than two <foreign>minai</foreign>, and from the belly, all that the sacrificial beasts have. The <foreign>probouloi</foreign> (15) and the treasurer and the herald must examine the beasts and weigh the meat and preside at the rites. He should serve the evening meal "at ten feet" and provide sufficient wine until sunset. If the feast is formally approved, the treasurer is to give on the following day the rest of the money for which he undertook the contract. If not, then one fifth of the sum of his contract is to be deducted.</p>
+
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[...] sont [...] la loi [... que] Polypeithès [propose à propos de ...]. Les [<foreign>probouloi</foreign> en charge] doivent faire un appel d'offre au mois de Maimakterion [...] le 22 (?) et payer 150 drachmes à celui qui a reçu le contrat (5) pour les animaux sacrificiels. Le contractant doit fournir l'assurance, escomptée par les <foreign>probouloi</foreign>, qu'il organisera la fête selon la loi. Qu'il sacrifie d'une part le boeuf qui a perdu ses dents de lait et d'autre part la brebis qui a perdu ses dents de lait. S'il sacrifie quelque porc, il ne sera pas plus âgé qu'un an et demi. Qu'il organise une fête pour les citoyens, pour ceux que la cité invite, (10) pour les résidents étrangers et les affranchis qui paient les taxes à Koresia. Qu'il fournisse un repas, du vin et des snacks, ainsi que tout le reste de manière adéquate, et une portion de viande par personne, pesée crue, de pas moins de deux mines et, hors de l'abdomen, tout ce que les animaux pourraient offrir. Que les <foreign>probouloi</foreign> (15) et le trésorier, ainsi que le héraut examinent les bêtes, pèsent la viande et président aux rites. Que l'on serve le repas "à dix pieds" et que l'on fournisse assez de vin jusqu'au coucher du soleil. Si la réception est approuvée, que le trésorier donne le jour suivant le reste de l'argent prévu par contrat. Sinon, qu'un cinquième de la somme du contrat soit déduite. </p>
+
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+
+<p>Two of the main foci of the discussion about this inscription concern the historical context of the document and the type of text that it represents. First and foremost, it is clear that it must represent a new proposal for law (νόμος, line 1). Yet, despite its apparent provenance in the area of ancient Iulis, it remains unclear if the law may be said to have been issued by this city. The only explicit reference to a community is that of Koresia on the coast below Iulis: Koresia appears in this case as the locus, and presumably the authority, for the exaction of taxes (cf. lines 10-11; see Ziehen for a discussion of earlier scholarship on the matter). It is therefore likely that the law is one of Koresia. As the inscription must belong to a relatively narrow chronological bracket at the end of the third or in the early decades of the second century BC (see Date), it could fall during a shortlived period of independence of this city, when it apparently sought to augment one of
+its festivals and particularly its ephebic military training. Alternatively, the inscription could belong already to
+a time when Koresia was incorporated into Iulis—its population was moved (cf. Str. 10.5.6) and there perhaps remained only a population of freedmen and slaves in the port and its sanctuaries. In any case, the exact date of the incorporation of Koresia remains unknown; for a discussion of the historical context of the incorporation of Koresia into Iulis, see Reger as well as Walser (p. 146 with n. 53: "ein terminus ante quem nicht festmachen lässt").</p>
+
+<p>The new law involves principally a board of <title>probouloi</title> who must have represented the authority of the people and/or the <foreign>boule</foreign> of the city. The text as we have it preserved the proposition for the law in question (cf. again probably lines 1-2), but the fact that it was inscribed in a sanctuary in the community (lines 41-42: ἂν δὲ δόξει ὁ νόμος, ἀναγράψαι εἰς στήλην καὶ στῆσαι εἰς τὸ τέμενος) demonstrates that the measure was in fact adopted and enacted. Regrettably, the first lines, which may have clarified the context of the document, are now highly fragmentary (lines 1-2—line 1 is clearly the beginning of the text on the stone). After these traces of a preamble, the inscription consists primarily of rules for a new feast (lines 2-20), followed by rules concerning the setting up of contests during "the festival" (τῆι ἑορτῆι, lines 20 and 23) by the <title>probouloi</title> (lines 20-41), including the annual appointment of a (special?) gymnasiarch for the purpose of training youths for this occasion (lines 21-25). </p>
+
+<p>Focussing recently on the first part of this text, van Minnen has interpreted the verbs ἐκλαμβάνω and ἐκδίδωμι (lines 3-5) as technical terms for contracting out public services, and argued convincingly that the text prescribes the drawing up a contract with a caterer, who is to provide meat and other foodstuffs for a dinner. But according to van Minnen, this dinner has nothing to do with any religious occasion at which animals are sacrificed. In van Minnen's reading, the text is therefore not a 'ritual norm' at all, but belongs instead in the category of "administrative law". As the inclusion of the text in the current Collection shows, we take a different view.</p>
+
+<p>A valid argument made by van Minnen is that neither the festival occasion nor the deity in question is explicitly mentioned (p. 217), which would seem to be essential information if this were a religious ritual. However, we do not know the circumstances of publication of this text: it may have been published alongside other documents (now lost) that discussed its context (cf. also Chaniotis). Crucial, furthermore, is the interpretation of the words ἱερεῖα (lines 5, 14, 15-16) and θύειν (lines 7 and 8). Van Minnen has argued that neither has anything to do with sacrifice here, and that the text refers simply to "animals" that will be "slaughtered (in a ritual way)". Indeed, the verb θύειν is used to refer to slaughter of animals outside the context of sacrifice (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. A I 2 b, cf. Hdt. 1.126, Ar. <title>Lys.</title> 1062), although infrequently. However, it is uncertain whether the lexeme ἱερεῖα is ever used without activation of the notion of
+sacrifice. Though the reading "cattle slaughtered for food" is mentioned in <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. A II, the examples cited there are not fully convincing. In X. <title>Cyr.</title> 1.4.17, a ἱερεῖον is used to refer to game that is to be hunted and captured for a wedding celebration. However, since marriage ceremonies included sacrifices, the speaker may well have had in mind the procurement of sacrificial animals. In [Hipp.] <title>Aff.</title> 52, it is explained how the meat of animals can be good or bad for particular people, and how meats of different animals possess various characteristics. Perhaps the word ἱερεῖον is used here since sacrifice would be one of the main occasions (though not the only) on which people would actually eat meat. When used together, the lexemes θύειν and ἱερεῖον definitely activate the semantic field of sacrifice for any language user. Moreover, it is particularly clear from the phrase καὶ τῶν ἱε|ρῶν προΐστασθαι in lines 15-16, that
+the overall context of the rites must be a sacrificial one: the <title>probouloi</title>, the <title>tamias</title> and the herald of Iulis are to jointly manage and to preside at the rites; it could therefore be supposed that they acted as the principal sacrificial agents on this occasion (rather than a priest). Furthermore, the games to be set up in the second part of the inscription seem to form a pendant to the feast which was to be contract out; these are explicitly mentioned as occuring "during the festival" (τῆι ἑορτῆι, lines 21-23). To conclude, though van Minnen's interpretation seems difficult to maintain. Instead, we should probably view the new law from Koresia as having provided either newly specific rules or complementary provisions for an established festival: the large civic banquet that was to be held on this occasion was to be contracted out; similarly, rules concerning games during the festival were codified.</p>
+
+<p>The second half of the inscription (20-42), not reprised here, describes the various games to be organized and the prizes to be given. These prizes are in most cases a sum of money or an object such as a helmet or a shield. However, the boys who win the archery contest and javelin-throwing contest respectively are to receive "a share in the meat" (κρεῶν μερίδα), presumably the same type of share that is more fully defined in lines 14-15. As Osborne (p. 181) has remarked, by letting young victors share in the meat, they temporarily became part of the citizen body. A share in the sacrificial meat is also to be given to the rhapsode (lines 32-36). Selling one's prizes was not allowed (lines 38-39), thus enforcing commensality of the sacrificial meat. For further discussion, see also Chankowski.</p>
+
+<p>Line 1: As with Ziehen, we do not follow Hiller von Gaertringen's hesitant restoration τὸν δὲ νόμο[ν λῦσαι (?)], since there is no good reason to assume the current regulation represents a break with previously enacted rules. Rather, this line and the next must have formed an explanatory preamble for the new legal measure.</p>
+
+<p> Line 2-3: The <foreign>probouloi</foreign> are probably a kind of executive committee elected annually among the members of the <foreign>boule</foreign>. At Koresia, and probably on Keos generally, Maikmakterion was the last month of the year (see Trümpy, p. 56). The significance of this date in our text is probably not to be tied with any occasion for the enigmatic religious festival in question (cf. also Ziehen). Rather, it merely indicates that the contract for the feast is to be made at the very end of the civic year: this was in actuality near the beginning of the new administrative or political cycle, when, for instance, the <title>probouloi</title> for the closely coming year would have already been chosen.</p>
+
+<p> Lines 7-9: The participle qualifying the animals refers to their having "shed" (sc. the milk-teeth), cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. βάλλω (A 3). In other words, this was a minimum-age qualifier for the animals, referring to an ox or a sheep of one and a half to two years old (at least). The loss of the milk-teeth was a very important indication of age. Cf. Feyel, p. 44-45 and cp. the adjective λειπογνώμων, "having lost its milk-teeth": <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref> (Thorikos), lines 34 and 43, and <bibl type="abbr" n="IG II²">IG II²</bibl> 1357. We follow Osborne rather than van Minnen (p. 213: "any ox and any female sheep he slaughters has to be mature") in thinking that the text does prescribe the sacrifice of one ox and one sheep. This perhaps seems to be a better way to interpret the clause that "on the one hand", a male ox is to be sacrificed; while "on the other" a female sheep is to be offered (were there perhaps two intended recipients for the offerings, one male and one female?); the specification of the gender of the animals is particularly telling in this regard, as is the sum of 150 drachmae, which would seem to be an appropriate sum for purchase one ox (costing at least 100 dr.) and a female sheep (cp. e.g. the prices at <ref target="http://cgrn.ulg.ac.be/CGRN_56/">CGRN 56</ref>, Marathonian Tetrapolis). The clauses in lines 8-9 might support van Minnen's argument, since it suggests that swine could also be sacrificed or at least their meat could be offered as part of the sacrifice (ὑάμινον, so <bibl type="abbr" n="LSJ">LSJ</bibl>; perhaps to be accentuated ὑαμινόν as in Ziehen and Sokolowski). But this is presented as facultative rather than normative: in other words, the use of pork may simply have been additional, to complement the sacrifices at the contractor's discretion.</p>
+
+<p> Lines 10-11: On the participation of metics (resident foreigners) in the religious life of Greek cities, cf. now Wijma. The distribution of meat to metics is stipulated e.g. in <ref target="CGRN_19">CGRN 19</ref>, line C8, and <ref target="CGRN_43">CGRN 43</ref>, line 23 (both from Athens). The explicit inclusion of freedmen in the sharing of the sacrificial meat here is noteworthy. It perhaps matches a general trend for the increased participation of people of servile status in rituals during the Hellenistic period (see here e.g. <ref target="CGRN_200">CGRN 200</ref>, Magnesia-on-the-Maiander, lines 30-31), but in any case, the freedmen in question clearly paid taxes, and so were no doubt reckoned to be of a status between that of citizens and slaves. The clause stipulating that these freedmen paid their taxes "in Koresia" (ὅσοι τὰ τέλη φέρουσιν εἰς Κορησίαν) is particularly intriguing for interpreting the historical context of the law. This self-reference appears to confirm that
+the document was issued by the city of Koresia, which collected the relevant taxes. In the alternative that the law was issued by Iulis, we would have to assume that taxes were gathered in the port by the authorities of that city.</p>
+
+<p> Line 12: τρωγάλια are snacks, principally dried fruits or nuts; compare τραγήματα. Both terms are relatively rare in Greek inscriptions.</p>
+
+<p> Line 13: Portions weighing not less that 2 minai of raw meat per person were to be provided: this was equal to about 860 gr per person, and thus constituted a sizeable amount of meat. Compare the meat distribution of the deme of the Skambonidai at Athens (<ref target="CGRN_19">CGRN 19</ref>), where probably much modest portions of an unknown amount of obols were distributed (2 minai = 200 drachmae = 1200 obols). To further put this in perspective, however, the priest at Kasossos (<ref target="CGRN_184">CGRN 184</ref>, lines 6-7) receives a leg from an ox weighing no less than 10 minai. All in all, it is not entirely clear how the caterer would have estimated in advance how many guests would be present at the feast and festival. If the prescribed sacrifice did indeed consist of an ox and a female sheep (cf. above, line 7), then this would have provided for a substantial amount of meat, but not always perhaps a sufficient one for the whole citizen body and other participants. This might account for the fact that the contractor could supplement the primary sacrifice with meat from other animals, such as pigs (cf. again lines 8-9), for which he would also later be compensated by the agreed-upon price for the contract (see lines 17-19). We do not know what the price of each annual contract may have been (the general law does not stipulate this), and this must have been adjusted in consequence of the number of participants and other factors.</p>
+
+<p>Lines 13-14: The entrails (ἐγκοίλιοι) were also to be distributed amongst the recipients of portions of meat. Often the innards (most usually referred to as τὰ σπλάγχνα) were the perquisites of the priest, for example in <ref target="CGRN_36">CGRN 36</ref> (Chios), line 4, and <ref target="CGRN_39">CGRN 39</ref> (Miletos), lines 4-5, or were given to other special participants, such as the guards in <ref target="CGRN_34">CGRN 34</ref> (Epidauros), lines 16-17, 34-35, or the officials making the distribution in <ref target="CGRN_183">CGRN 183</ref> (Chalketor), lines 7-8. The reference here is either general in this sense, or it may be more specifically to the intestines and tripe of the animals, rather than to their other viscera.</p>
+
+<p> Line 14: On the procedure of δοκιμασία, namely the examination of the suitability of sacrificial animals, cf. Feyel. Here, the procedure primarily seems to concern the minimal age and weight of the animals.</p>
+
+<p>Lines 16-17: As Dittenberger and Ziehen (following Boeckh) explain, the phrase "at ten feet" refers to the length of the shadow which the sundial casts at a particular time of the day: namely, the hour for the main meal. The distribution of wine was thus to last from the late afternoon/early evening to the sunset.</p>
+
+<p> Lines 17-20: Apart from the 150 drachmae advanced for the sacrificial animals (lines 4-5), the remaining payment for the contract was to be made on the day following the feast. This was conditional on an official examination (δοκιμασία, cf. line 14) of the quality of the feast itself: if anything was found lacking—such as a lack of sufficient meat (see above, line 13)—a penalty of a fifth of the total sum for the contract was to be deducted.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

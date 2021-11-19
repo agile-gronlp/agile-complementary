@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_216" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 216</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> from Delos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Cylindrical <rs type="objectType">altar</rs> of white marble. </p>
+
+	<p><dimensions>
+	<height unit="cm">65</height>
+		<width unit="cm">(diameter) 55</width>
+
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p> The altar is inscribed with the same dedication on both sides and has a fringe above and below. The small regulation that is given here is inscribed at 3.5 cm below the dedications, but is visible only on one side.</p>
+			<p>Letters: <height unit="cm">1.5</height>. Space between lines: <height unit="cm">0.5</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0125" notAfter="-0075">ca. 100 BC</origDate></p>
+							<p><desc>Justification: lettering (Marcadé).</desc></p>			</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Delos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599588" type="external">Delos</ref></placeName>. Found on the slope below the sanctuary of the Ascalonite deities on Mount Cynthos. Now placed back in the same location. </p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+<p> Edition here based on <bibl type="author_date" n="Marcadé 1949">Marcadé 1949</bibl>: 152-155, with ph. fig. 1.
+
+	    			</p>
+	    			<p> Other edition:
+	    				Roussel <bibl type="abbr" n="ID">ID</bibl> 1720 (without only a few letter-traces).</p>
+
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 58;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 23, 507.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    			<ab>
+<lb xml:id="line_1" n="1"/> Φιλόστρατος Φιλοστράτου
+
+<lb xml:id="line_2" n="2"/> <name type="ethnic" key="Askalon"><name type="group"><w lemma="Ἀσκαλωνίτης">Ἀσκαλωνίτης</w></name></name> <w lemma="τραπεζιτεύω">τραπ<supplied reason="lost">εζιτεύων</supplied></w>
+
+<lb xml:id="line_3" n="3"/> <w lemma="ἐν">ἐν</w> <placeName key="Delos"><w lemma="Δῆλος">Δήλωι</w></placeName>, <w lemma="ὑπέρ">ὑπὲρ</w> τ<supplied reason="lost">ῆς</supplied> <name type="ethnic" key="Askalon"><name type="group"><w lemma="Ἀσκαλωνίτης"><supplied reason="lost">Ἀσκα</supplied>λ<supplied reason="lost">ωνι</supplied>
+
+<lb xml:id="line_4" n="4" break="no"/>τῶν</w></name></name> <name type="group"><w lemma="πόλις">πόλεως</w></name> καὶ <w lemma="γυνή">γυ
+
+<lb xml:id="line_5" n="5" break="no"/>ναικὸς</w> καὶ <w lemma="τέκνον">τέκν<supplied reason="lost">ων</supplied></w>
+
+<lb xml:id="line_6" n="6"/> <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν">Ποσειδῶνι</w></name> <name type="epithet" key="Askalonites"><w lemma="Ἀσκαλωνίτης">Ἀσκαλ<supplied reason="lost">ωνίτῃ</supplied></w></name>.
+
+<lb xml:id="line_7" n="7"/> <space quantity="1" unit="line"/>
+
+<lb xml:id="line_8" n="8"/> <name type="animal" key="swine"><w lemma="ὑϊκός"><unclear>ὑ</unclear>ικὰ</w></name> <w lemma="μή">μ<unclear>ὴ</unclear></w> <name type="sacrifice"><w lemma="θύω">θύει<unclear>ν</unclear></w></name>
+
+<lb xml:id="line_9" n="9"/>  <w lemma="μηδέ"><unclear>μ</unclear>ηδ<supplied reason="lost">ὲ</supplied></w> <name type="animal" key="goat"><w lemma="αἴγειος"><unclear>α</unclear>ἴ<supplied reason="lost">γ</supplied>ει<supplied reason="lost">α</supplied></w></name>.
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>  Philostatros son of Philostratos, Ascalonite, banker on Delos, on behalf of the city of the Ascalonites and (5) his wife and children, to Poseidon of Ascalon. Do not sacrifice any swine (products) or any goat (products).</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Philostratos fils de Philostratos, Ascalonite, banquier à Délos, pour la cité des Ascalonites, (5) son épouse et ses enfants, au Poséidon d'Ascalon. Ne sacrifier ni du porc ni de la chèvre.</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p> This small regulation (lines 8-9) is inscribed below a dedication by a banker from Ascalon, Philostatros son of Philostratos (lines 1-6). He dedicated the altar to Poseidon of Ascalon and it may be presumed that the regulation also pertains to this cult.</p>
+
+<p>Interdictions against goat and pig occur with some regularity on Delos, these are especially connected to oriental cults. Goats were not allowed in the cult of Heracles and Haurona (<ref target="http://cgrn.ulg.ac.be/CGRN_174">CGRN 174</ref>, line 12); a purity regulation found in the sanctuary of Syrian deities (<ref target="http://cgrn.ulg.ac.be/CGRN_217">CGRN 217</ref>, line 3) states that one has to wash oneself after eating porc products. In a sacrificial regulation dedicated to Zeus Ourios, Astarte and Aphrodite Ourania, by another citizen of Ascalon—and probably belonging to the same sanctuary as the present inscription—goat, swine and cow are forbidden (<ref target="http://cgrn.ulg.ac.be/CGRN_171">CGRN 171</ref>, lines 6-7).</p>
+
+<p>Looking beyond Delos, on Thasos goats were not allowed in the cult of Hera (<ref target="http://cgrn.ulg.ac.be/CGRN_23">CGRN 23</ref>). In the cults of Heracles (<ref target="http://cgrn.ulg.ac.be/CGRN_27">CGRN 27</ref>) and of Peitho (<ref target="http://cgrn.ulg.ac.be/CGRN_178">CGRN 178</ref>) on Thasos both goats and pigs are forbidden.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

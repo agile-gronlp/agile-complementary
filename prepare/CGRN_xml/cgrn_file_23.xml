@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_23" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title>	<idno type="filename">CGRN 23</idno>: Short <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for Hera Epilimenia on Thasos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p><rs type="objectType">Block</rs> of marble, coming from a larger structure: an altar originally with curved horns (cf. Bon - Seyrig, p. 333-336 for a full description).</p>
+				<p><dimensions>
+					<height unit="cm">12</height>
+					<width unit="cm">58.5</width>
+					<depth unit="cm">41</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="cm">1.5</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0475" notAfter="-0425">ca. 450 BC</origDate> (original copy; actual and later copy: Hellenistic?)</p>
+			<p><desc>Justification: Parian alphabet and Ionic dialect of the Classical period; but the lettering is Hellenistic or later, and once employs <foreign>iota subscriptum</foreign> (line 1; cf. Bon - Seyrig).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thasos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/501634" type="external">Thasos</ref></placeName>. Found south of the gate of the sanctuary of Poseidon by the harbour.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+				<p>Edition here based on <bibl type="author_date" n="Bon - Seyrig 1929">Bon - Seyrig 1929</bibl>: 345-347 no. 6. The readings are uncontroversial.</p>
+					
+				<p> Other edition: 
+					Hiller von Gaetringen <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> 409.</p>
+					
+				<p>Cf. also:  
+					Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 74.</p>
+					
+				<p>Further bibliography: 
+					<bibl type="author_date" n="Seyrig 1927">Seyrig 1927</bibl>: 185-198.</p>
+				</div>
+	    		
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+
+	   <lb xml:id="line_1" n="1"/><name type="deity" key="Hera"><w lemma="Ἥρα">Ἥρηι</w></name> <name type="epithet" key="Epilimenia"><w lemma="ἐπιλιμένιος">Ἐπιλιμενίῃ</w></name>
+	    					
+	    <lb xml:id="line_2" n="2"/><name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <w lemma="οὐ">ὦ</w> <name type="authority"><w lemma="θέμις">θέμις</w></name>.
+	    					
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>To Hera Epilimenia (at the harbour), a goat is not permitted.</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>À Héra Epilimenia (au port), un caprin n'est pas permis.</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This short text is a sacrificial interdiction of a type regularly found on Thasos (cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_17/">CGRN 17</ref>). Seyrig's pioneering work on this subject has proposed that interdictions of the οὐ θέμις type can be seen to indicate or reveal deviations from standard practice. In this case, one would expect Hera Epilimenia to have habitually received a goat in other rituals, an offering which was here forbidden. That is certainly possible, but it is hardly probable: it should be underlined that no sacrifices of goats to any manifestation of Hera are in fact attested in the epigraphic evidence (the goddess principally receives a female sheep: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_2/">CGRN 2</ref>, Gortyn; and <ref target="http://cgrn.ulg.ac.be/CGRN_2/">CGRN 6</ref>, Miletos). Pausanias (3.15.9) reports on the unique Hera Aigophagos of the Lacedemonians, whose singularity would also tend to underline the exceptional character of offerings of goats to the goddess. The precise motivations for inscribing the text thus remain somewhat murky: why did Hera Epilimenia not like goats? Most probably, this reflected a local custom, since on Thasos, the sacrifice of a goat is often prohibited: cf. here e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_17/">CGRN 17</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_27/">CGRN 27</ref>. What is clear is that the text provided some useful ritual information to worshippers and prevented them from committing an apparent ritual <foreign>faux pas</foreign>.</p>
+						
+<p>Indeed, the text was clearly deemed sufficiently important to be reinscribed, probably during the Hellenistic period and on the basis of a Classical copy (see above on the Date). The epithet of Hera indicates that she was worshipped in her situation and her capacity as a goddess "by the harbour" (for gods of the harbour, cf. <bibl type="abbr" n="IG IV².2">IG IV².2</bibl> 1005, a Classical attestation of Aphrodite Epilemenia at Aigina; cf. also <bibl type="abbr" n="SEG">SEG</bibl> 23, 270 and <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. λιμένιος and λιμενίτης; cp. Ἐπιλίμνιος used of Poseidon "by the lake", in Hsch. s.v., unless the lemma is a corruption of Ἐπιλιμ*έ*νιος). Bon and Seyrig admirably adduce parallels for a statue of the goddess "by the harbour" on Delos (<bibl type="abbr" n="ID">ID</bibl> 1426, B, col. II, line 26) and for a priesthood of Hera Ellimenia in Athens (<bibl type="abbr" n="IG II²">IG II²</bibl> 5148; seat in the theatre of Dionysus). The cult on Thasos was situated in the larger sanctuary of Poseidon, but its precise modalities are otherwise unknown.
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

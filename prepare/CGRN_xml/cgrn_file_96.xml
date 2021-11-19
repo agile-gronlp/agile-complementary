@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_96" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 96</idno>: <rs type="textType" key="dossier of regulations">Dossier</rs> of the familial cult
+of Diomedon on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p><rs type="objectType">Pillar</rs> of white marble, inscribed on the four sides, nearly intact, but a portion containing the end of face C has
+been broken off. Face A is also badly weathered, especially to the left side.</p>
+		<p> <dimensions>
+			<height unit="cm">65</height>
+			<width unit="cm">34</width>
+			<depth unit="cm">24</depth>
+		</dimensions></p>
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+<p>Three cutters are distinguishable, marking three separate texts in the dossier (I-III). The columns run continuously from A-B (text I, up to line 55 of face B); text II is short and contained in the second part of face B (lines 56-68); the final text (III), begins at the bottom of face B (line 69) and runs over the whole of the columns in faces C-D, though strict continuity of the text between faces C and D is not assured. As Hallof and Bosnakis remark, the cutter of text I used simple letters, and a mixture of Doric dialect with <foreign>koine</foreign>; text II is more elegantly inscribed; finally, text III is more eratically inscribed, though with the preservation of syllabic division, again using a mixture of Doric dialect with <foreign>koine</foreign>.</p>
+		    <p>	Letters: text I: <height unit="cm">1.1-1.3</height>, with round letters <height unit="cm">0.7</height>; 
+			text II: <height unit="cm">1.2</height>;
+			text III: <height unit="cm">0.8</height>.</p>
+		</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+<p><origDate notBefore="-0325" notAfter="-0300">ca. 325-300 BC</origDate> (text I).
+	Text II dates to ca. 300 BC, while text III dates a bit later, at the beginning of the third century BC. </p>
+							
+		<p><desc>Justification: lettering (Hallof - Bosnakis).</desc></p>
+						</origin>
+	<provenance><p>
+		<placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos.</ref></placeName>. Found in the suburbs of the town by Ross in 1843, reused in staircase. Now stored in the castle of Kos (inv. no. E386).</p></provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 by S. Peels and J.-M. Carbon</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 348. </p>
+	    			
+	    			<p> Other editions: 
+	    				Paton - Hicks <bibl type="abbr" n="PH">PH</bibl> 36; 
+	    				Herzog <bibl type="abbr" n="HGK">HGK</bibl> 10. </p>
+	    			
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 144; 
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 177; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20348" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+	    			
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Jameson 1994">Jameson 1994</bibl>; 
+	    				<bibl type="author_date" n="Darmezin 1999">Darmezin 1999</bibl>: 159-160 no. 195; 
+	    				<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 108-116; 
+	    				<bibl type="author_date" n="Carbon - Pirenne-Delforge 2013">Carbon - Pirenne-Delforge 2013</bibl>.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				<ab subtype="face" n="A">Face A
+	    	
+<lb xml:id="line_1" n="1"/> <unclear>Δ</unclear><supplied reason="lost">ιομέδων</supplied> <name type="genericOffering"><w lemma="ἀνατίθημι"><supplied reason="lost">ἀνέθηκ</supplied>ε</w></name> τὸ <name type="structure"><w lemma="τέμενος"><unclear>τ</unclear>έ<unclear>με</unclear>νος̣</w></name> <w lemma="ὅδε"><supplied reason="lost">τόδε</supplied></w>
+                    
+<lb xml:id="line_2" n="2"/> <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρ<unclear>α</unclear>κλεῖ</w></name> <name type="epithet" key="Diomedonteios"><w lemma="Διομεδόντειος"> <unclear>Δ</unclear><supplied reason="lost">ιομε</supplied><unclear>δ</unclear>οντείωι</w></name>, <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνέθηκε</w></name> δ<supplied reason="lost">ὲ</supplied>
+                                        
+<lb xml:id="line_3" n="3"/> καὶ τοὺς <name type="structure"><w lemma="ξενών">ξενῶνας</w></name> τοὺς <w lemma="ἐν">ἐν</w> τῶι <name type="locality"><w lemma="κῆπος">κάπωι</w></name>
+                                        
+<lb xml:id="line_4" n="4"/> καὶ τὰ <name type="structure"><w lemma="οἰκημάτιον">οἰκημάτια</w></name> καὶ Λίβυν καὶ τὰ <name type="person"><w lemma="ἔκγονος">ἔγγο
+                    
+                        
+<lb xml:id="line_5" n="5" break="no"/> να </w></name> <w lemma="αὐτός">αὐτοῦ</w>· <w lemma="εἰμί">ἐόντω</w> δὲ <w lemma="ἐλεύθερος">ἐλεύθερ<unclear>ο</unclear><supplied reason="lost">ι</supplied></w> <w lemma="ποιέω">ποιοῦντε
+                    
+                            
+<lb xml:id="line_6" n="6" break="no"/> ς</w> <name type="authority">τὰ <w lemma="συντάσσω">συντεταγμένα</w></name>· <w lemma="ἐπιμελέομαι">ἐπιμελέσθων</w> <unclear>δ</unclear>ὲ <w lemma="αὐτός">α         
+                                
+                                
+<lb xml:id="line_7" n="7" break="no"/> ὐτῶν</w> τ<unclear>οὶ</unclear> τῶν <name type="genericOffering"><w lemma="ἱερός">ἱερῶν</w></name> <name type="group"><w lemma="κοινωνέω">κοινωνεῦντες</w></name> <w lemma="ὅπως">ὅπω<unclear>ς</unclear></w>
+                    
+                    
+<lb xml:id="line_8" n="8"/> <w lemma="ἐλεύθερος">ἐλεύθεροι</w> <w lemma="εἰμί">ὄντες</w> <w lemma="διατελέω">διατελέωντι</w> καὶ <w lemma="μηθείς">μηθ<unclear>ε</unclear><supplied reason="lost">ὶ</supplied>
+                    
+                        
+<lb xml:id="line_9" n="9" break="no"/> <unclear>ς</unclear></w> <w lemma="αὐτός">αὐτοὺς</w> <w lemma="ἀδικέω">ἀδικῆι</w>· <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> δὲ τὰ <name type="sacrifice"><w lemma="ἱερός">ἱερὰ</w></name> τοὶ <w lemma="ἐκ">ἐ<unclear>γ</unclear></w> <supplied reason="lost">Δι</supplied>
+                    
+                    
+<lb xml:id="line_10" n="10" break="no"/> <supplied reason="lost">ο</supplied>μέδον<del rend="erasure">δον</del>τος καὶ <w lemma="ἀεί">ἀεὶ</w> τοὶ <w lemma="ἐκ">ἐξ</w> <w lemma="αὐτός">αὐτῶ<unclear>ν</unclear></w> <w lemma="γίγνομαι">γε
+                                            
+<lb xml:id="line_11" n="11" break="no"/> ν<supplied reason="lost">ό</supplied>μενοι</w>· <w lemma="ἔχω">ἐχέτω</w> δὲ Λίβυς καὶ τοὶ <w lemma="ἐκ">ἐγ</w> <w lemma="Λίβυς">Λίβυο
+                    
+                            
+<lb xml:id="line_12" n="12" break="no"/> <unclear>ς</unclear></w> <w lemma="μισθός"><unclear>μι</unclear>σθοῦ</w> τὸν <name type="locality"><w lemma="κῆπος">κᾶπον</w></name> <del rend="erasure"><unclear>Μ</unclear> <gap reason="lost" extent="unknown" unit="character"/></del>
+                                                    
+<lb xml:id="line_13" n="13"/> <del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del> <w lemma="ὅσος">ὅσου</w> <w lemma="κα">κα</w> <w lemma="δοκέω">δοκῆι</w> <w lemma="καλός"><supplied reason="lost">κα</supplied><unclear>λ</unclear>ῶς</w> <w lemma="ἔχω">ἔ
+                                                        
+<lb xml:id="line_14" n="14" break="no"/> <supplied reason="lost">χειν</supplied></w><supplied reason="lost">,</supplied> <supplied reason="lost">τὸ</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="μίσθωμα"><supplied reason="lost">μίσθωμ</supplied><unclear>α</unclear></w> <w lemma="ἀποδίδωμι">ἀποδιδόντω</w> <name type="month"><w lemma="θεοδαίσια">Θευδ<unclear>α</unclear>
+                                                        
+<lb xml:id="line_15" n="15" break="no"/> <supplied reason="lost">ισίου </supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">αι</supplied><supplied reason="lost">,</supplied> <w lemma="ὥστε"><supplied reason="lost">ὥστ</supplied>ε</w> <w lemma="ὑπάρχω">ὑπάρχειν</w> <w lemma="εἰς">ἐς</w> τὰν <name type="sacrifice"><w lemma="θυσία">θυ
+                    
+<lb xml:id="line_16" n="16" break="no"/> <supplied reason="lost">σίαν</supplied></w></name> <name type="month"><w lemma="Πεδαγείτνυος"><supplied reason="lost">Πεταγειτ</supplied>νύ<unclear>ο</unclear>υ</w></name> <w lemma="ἑκκαιδέκατος">ἑκκαιδεκάται</w> <unclear>κ</unclear><supplied reason="lost">αὶ</supplied>
+                    
+<lb xml:id="line_17" n="17"/> <w lemma="ἑπτακαιδέκατος"><supplied reason="lost">ἑπτακαιδεκάται</supplied></w><supplied reason="lost">·</supplied> <name type="object"><w lemma="στρῶμα"><supplied reason="lost">σ</supplied>τρώματα</w></name> δὲ <w lemma="παρέχω">παρε
+                                                           
+ <lb xml:id="line_18" n="18" break="no"/> <supplied reason="lost">χόντω</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Heracles"> <w lemma="Ἡρακλέης">Ἡρακλεῖ</w></name> καὶ τᾶι
+                                                       
+<lb xml:id="line_19" n="19"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τα</supplied><unclear>ῖς</unclear> <w lemma="νουμηνία">νευμηνίαις</w>
+                                                        
+<lb xml:id="line_20" n="20"/><name type="purification"> <w lemma="καθαίρω"><supplied reason="lost">καθαιρόντω</supplied></w></name> <supplied reason="lost">δὲ (?)</supplied> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὰς</supplied> <name type="object"><w lemma="εἰκών"><unclear>ε</unclear>ἰκόνας</w></name> τὰς τ
+                                                        
+<lb xml:id="line_21" n="21" break="no"/> <supplied reason="lost">ῶν</supplied> <name type="person"><w lemma="πρόγονος"><supplied reason="lost">προγόνων</supplied></w></name> <supplied reason="lost">τῶν</supplied> <supplied reason="lost">Διομέ</supplied>δοντος καὶ <name type="adornment"><w lemma="στεφανόω">στ<supplied reason="lost">ε</supplied>
+                                                     
+<lb xml:id="line_22" n="22" break="no"/> <supplied reason="lost">φανούντω</supplied></w></name> <w lemma="ἕκαστος"><supplied reason="lost">ἑκάσταν</supplied></w> <w lemma="αὐτός"><supplied reason="lost">αὐ</supplied><unclear>τ</unclear><supplied reason="lost">ᾶ</supplied>ν</w> <w lemma="ἐπεί">ἐπεί</w> <w lemma="κα">κα</w> <name type="festival"><w lemma="πανήγυρις">πανά<supplied reason="lost">γ</supplied>
+                                                                
+<lb xml:id="line_23" n="23" break="no"/> <supplied reason="lost">υρις</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">ἦι</supplied></w><supplied reason="lost">·</supplied> <name type="personnel"><w lemma="ἱεράομαι"><supplied reason="lost">ἱεράσθω</supplied></w></name> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">τοῦ</supplied> <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλεῦς</w></name> <w lemma="νῦν">νῦν</w>
+                                            
+<lb xml:id="line_24" n="24"/> <supplied reason="lost">μὲν</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὸ</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="λοιπός"><supplied reason="lost">λοιπ</supplied><unclear>ὸν</unclear></w> <w lemma="ἀεί">ἀεὶ</w> ὁ <w lemma="πρέσβυς">πρεσ<supplied reason="omitted">β</supplied>ύτ
+                                                            
+<lb xml:id="line_25" n="25" break="no"/> <supplied reason="lost">ατος </supplied></w> <supplied reason="lost">τῶν</supplied> <supplied reason="lost">Διομέδοντος</supplied> <name type="person"><w lemma="ἔγγονος"><supplied reason="lost">ἐγγό</supplied><unclear>νω</unclear>ν</w></name>· <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> δὲ
+                                                                   
+<lb xml:id="line_26" n="26"/> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Heracles"><w lemma="Ἡρακλέης"><supplied reason="lost">Ἡρακλεῖ</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="deity" key="Diomedon"><w lemma="Διομέδων"><supplied reason="lost">Διομέδ</supplied><unclear>ο</unclear><supplied reason="lost">ν</supplied>τι</w></name> <name type="animal" key="ox"><name type="age"><w lemma="μόσχος">μόσχον</w></name></name> <w lemma="ἤ"><supplied reason="lost">ἢ</supplied></w>
+                    
+<lb xml:id="line_27" n="27"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τῶι</supplied> <supplied reason="lost">δὲ</supplied> <name type="deity" key="Dionysus"><w lemma="Διόνυσος"><supplied reason="lost">Διον</supplied>ύσωι</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <w lemma="ἤ">ἢ</w>
+                    
+<lb xml:id="line_28" n="28"/> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος"><supplied reason="lost">ἔριφον</supplied></w></name></name><supplied reason="lost">,</supplied> <supplied reason="lost">τᾶι</supplied> <supplied reason="lost">δὲ</supplied> <name type="deity" key="Hera"><w lemma="Ἥρα"><supplied reason="lost">Ἥραι (?)</supplied></w></name> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος"><supplied reason="lost">ἔριφ</supplied>ον</w></name></name> <w lemma="ἤ">ἢ</w> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name>, τοῖς
+                    
+ 
+<lb xml:id="line_29" n="29"/> <supplied reason="lost">δὲ</supplied> <w lemma="ἄλλος"><supplied reason="lost">ἄλλοις</supplied></w> <name type="deity" key="generic"><w lemma="θεός"><supplied reason="lost">θεοῖς</supplied></w></name> <w lemma="πᾶς"><supplied reason="lost">πᾶσι</supplied></w><supplied reason="lost">,</supplied> <w lemma="ὅς"><supplied reason="lost">ὧν</supplied></w> <unclear>το</unclear>ὶ <name type="structure"><w lemma="βωμός">βωμοὶ</w></name> <w lemma="ἐν">ἐν</w> τ
+                                                              
+<lb xml:id="line_30" n="30" break="no"/> <supplied reason="lost">ᾶι</supplied> <name type="structure"><w lemma="οἰκία"><supplied reason="lost">οἰκιαι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>, τᾶι δὲ <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδί<supplied reason="lost">τ</supplied>
+                                                            
+<lb xml:id="line_31" n="31" break="no"/> <supplied reason="lost">αι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/><orig>νγ</orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ο</unclear>τλτεσ</orig><gap reason="lost" quantity="1" unit="character"/> 
+                                                                   
+ <lb xml:id="line_32" n="32"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="goat"><w lemma="αἴξ"><supplied reason="lost">αἶγ</supplied>α</w></name> <w lemma="ἤ">ἢ</w> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοῖρον</w></name></name>, τῶι
+                                                                    
+<lb xml:id="line_33" n="33"/> <supplied reason="lost">δὲ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="sacrifice"><name type="liquid"><w lemma="σπονδή"><supplied reason="lost">σπονδ</supplied>ὰν</w></name></name> (?) δ’ <w lemma="εἰμί">ἦμεν</w>
+                                                             
+<lb xml:id="line_34" n="34"/> <gap reason="lost" extent="unknown" unit="character"/>  <supplied reason="lost">τ</supplied>ῶι <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλ
+                                                            
+<lb xml:id="line_35" n="35" break="no"/> <supplied reason="lost">εῖ </supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>ν δὲ ταῖς <w lemma="ἄλλος">ἄ<supplied reason="lost">λ</supplied>
+                                                                
+<lb xml:id="line_36" n="36" break="no"/> <supplied reason="lost">λαις</supplied></w> <name type="deity" key="generic"><w lemma="θεά"><supplied reason="lost">θεαῖς</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="deity" key="Diomedon"><w lemma="Διομέδων"><supplied reason="lost">Διομέ</supplied><unclear>δ</unclear>οντι</w></name>· <name type="genericOffering"><w lemma="ἱερός">ἱερ<supplied reason="lost">ὰ</supplied></w></name>
+                                                                    
+<lb xml:id="line_37" n="37"/> <supplied reason="lost">δὲ</supplied> <w lemma="παρέχω"><supplied reason="lost">παρεχέτω</supplied></w> <name type="bakery"><w lemma="ἄρτος"><supplied reason="lost">ἄρτον</supplied></w></name> <w lemma="πρός"><supplied reason="lost">ποτὶ</supplied></w> <supplied reason="lost">τ</supplied>ὰν <name type="meal"><w lemma="ἀρτοφαγία"> ἀ<unclear>ρτ</unclear>οφαγ<supplied reason="lost">ί</supplied>
+                    
+<lb xml:id="line_38" n="38" break="no"/> <supplied reason="lost">αν</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="liquid"><w lemma="οἶνος"><supplied reason="lost">οἶνον</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="liquid"><w lemma="μέλι"><supplied reason="lost">μέλι (?)</supplied></w></name> <w lemma="πρός"><supplied reason="lost">ποτὶ</supplied></w> <supplied reason="lost">τὰ</supplied><unclear>ν</unclear> <name type="sacrifice"><w lemma="σπονδή"><unclear>σ</unclear>πονδ<unclear>ὰ</unclear><supplied reason="lost">ν</supplied></w></name>
+                            
+                  
+	    			</ab>
+	    				<ab subtype="face" n="B"> Face B
+                                                                        
+<lb xml:id="line_39" n="39"/> <supplied reason="lost">κ</supplied>αὶ <name type="vegetal"><w lemma="ξύλον">ξύλα</w></name> <w lemma="πρός">ποτὶ</w> τὰν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name>· <name type="portion"><w lemma="γέρας"><unclear>γ</unclear><supplied reason="lost">έ</supplied>
+                                                                        
+<lb xml:id="line_40" n="40" break="no"/> ρη</w></name> δὲ <w lemma="λαμβάνω">λαμβανέτω</w> τοῦ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερέ<unclear>ο</unclear><supplied reason="lost">υ</supplied></w></name>
+                                                                      
+  <lb xml:id="line_41" n="41"/> <w lemma="ἕκαστος">ἑκάστου</w> <name type="portion"><w lemma="σκέλος">σκέλος</w></name> καὶ τὸ <name type="portion"><w lemma="δέρμα">δέρμα</w></name>·
+                                                                     
+   <lb xml:id="line_42" n="42"/> <w lemma="ποιέω">ποιεῖν</w> δὲ καὶ τὰν <name type="animal" key="fish"><name type="sacrifice"><w lemma="ἀποπυρίς">ἀποπυρίδα</w></name></name>                    
+                                                                 
+<lb xml:id="line_43" n="43"/> <w lemma="κατά"><unclear>κ</unclear>ατὰ</w> τὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name>· <w lemma="μή">μὴ</w> <w lemma="ἔξειμι">ἐξῆμεν</w> <supplied reason="lost">δὲ</supplied>
+                                                                        
+<lb xml:id="line_44" n="44"/> <w lemma="μηθείς">μηθενὶ</w> τὰ <name type="structure"><w lemma="οἴκημα">οἰκήματα</w></name> τὰ <w lemma="πρός">πο<unclear>τ</unclear><supplied reason="lost">ὶ</supplied></w>
+                                                                        
+<lb xml:id="line_45" n="45"/> τῶι <name type="structure"><w lemma="τέμενος">τεμένει</w></name> <w lemma="μηδέ">μηδὲ</w> τὸ <name type="structure"><w lemma="τέμενος">τέμε<supplied reason="lost">ν</supplied>
+                                                                            
+<lb xml:id="line_46" n="46" break="no"/> ος</w></name> <w lemma="ἐξιδιάζομαι">ἐξ<del rend="erasure">ε</del>ιδιάζεσθαι</w> <w lemma="μηδέ">μηδὲ</w> <w lemma="πολέω">πωλ<supplied reason="lost">ε</supplied>
+                                                                                
+	<lb xml:id="line_47" n="47" break="no"/> ῖν</w> <w lemma="μηδέ">μηδὲ</w> <w lemma="ὑποτίθημι">ὑποτιθέμεν</w>· <w lemma="εἰ">αἰ</w> δέ <w lemma="κα">κά</w> <w lemma="τις"><unclear>τ</unclear><supplied reason="lost">ι</supplied></w>
+                                                                            
+<lb xml:id="line_48" n="48"/> <w lemma="δέω"><unclear>δ</unclear>έηι</w> τῶν <name type="structure"><w lemma="οἴκημα">οἰκημάτων</w></name> <w lemma="ἤ">ἢ</w> τοῦ <name type="structure"><w lemma="τέμενος"><supplied reason="lost">τ</supplied>
+                                                            
+<lb xml:id="line_49" n="49" break="no"/> εμένευς</w></name> <w lemma="θεραπεία">θεραπείας</w>, <w lemma="ἐπισκευάζω">ἐπισκ<supplied reason="lost">ε</supplied>
+                                                               
+ <lb xml:id="line_50" n="50" break="no"/> υαζόντων </w> <w lemma="ἐκ">ἐκ</w> τᾶς <w lemma="πρόσοδος">ποθόδο<unclear>υ</unclear></w>
+                    
+                                   
+ <lb xml:id="line_51" n="51"/> <w lemma="ἕκαστος">ἕκαστα</w>· <w lemma="εἰσαγώγιον">εἰσαγώγιον</w> δὲ <w lemma="δίδωμι">διδό
+                    
+                                        
+<lb xml:id="line_52" n="52" break="no"/> τω</w> <w lemma="ὅς">ὧι</w> <w lemma="κα">κα</w> <w lemma="γίγνομαι">γένηται</w> <name type="person"><w lemma="παιδίον">παιδίον</w></name>, <name type="person"><w lemma="ὅς">οἷ<supplied reason="lost">ς</supplied></w>
+                    
+                                            
+<lb xml:id="line_53" n="53"/> <name type="group"><w lemma="μέτειμι">μέτεστι</w></name> τῶν <del rend="erasure">των</del> <name type="sacrifice"><w lemma="ἱερός">ἱερῶν</w></name></name>, <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χο<supplied reason="lost">ῖ</supplied>
+                    
+                                                
+<lb xml:id="line_54" n="54" break="no"/> <unclear>ρ</unclear>ον</w></name></name>, <name type="genericOffering"><w lemma="ἱερός">ἱερά</w></name>,<name type="vegetal"> <w lemma="λιβανωτός">λιβανωτόν</w></name>, <name type="sacrifice"><name type="liquid"><w lemma="σπονδή">σπονδ
+                                                                        
+<lb xml:id="line_55" n="55" break="no"/> άν</w></name></name>, <name type="adornment"><w lemma="στέφανος">στέφανον</w></name>. <space extent="unknown" unit="character"/>
+                    
+                                            
+<lb xml:id="line_56" n="56"/> τὰ δὲ <name type="object"><w lemma="ἄγαλμα">ἀγάλματα</w></name> καὶ τὰ <name type="object"><w lemma="ἀνάθημα">ἀνα
+                    
+                                                
+<lb xml:id="line_57" n="57" break="no"/> θήματα</w></name> <w lemma="εἰμί">ἔστω</w> <w lemma="ἐν">ἐν</w> τᾶι <name type="structure"><w lemma="οἰκία">οἰκία<supplied reason="lost">ι</supplied></w></name>
+                                                        
+<lb xml:id="line_58" n="58"/> <w lemma="κατά"><unclear>κ</unclear>ατὰ</w> <w lemma="χώρα">χώραν</w> <w lemma="ὥσπερ">ὥσπερ</w> καὶ <w lemma="νῦν">νῦ<unclear>ν</unclear></w>
+                                                               
+	    					<lb xml:id="line_59" n="59"/> <w lemma="ἔχω">ἔχει</w>· <name type="sacrifice"><w lemma="θύω">θύεν</w></name> δὲ <w lemma="ἑκκαιδέκατος">ἑκκαιδεκάται</w>
+                                                                                               
+ <lb xml:id="line_60" n="60"/> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Πεδαγείτνυος">Πεταγειτνύου</w></name> κα<supplied reason="lost">ὶ</supplied>
+                                                                
+<lb xml:id="line_61" n="61"/> τὸν <name type="genericOffering"><name type="meal"><w lemma="ξενισμός">ξενισμὸν</w></name></name> <w lemma="ποιέω">ποιεῖν</w> τῶ<supplied reason="lost">ι</supplied>
+                               
+<lb xml:id="line_62" n="62"/> <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλεῖ</w></name>, τὰν δ’ <name type="animal" key="fish"><name type="sacrifice"><w lemma="ἀποπυρίς">ἀποπυρίδα</w></name></name>
+                    
+<lb xml:id="line_63" n="63"/> <w lemma="ἑπτακαιδέκατος">ἑπτακαιδεκάται</w>· <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμηνί
+                    
+<lb xml:id="line_64" n="64" break="no"/> ους</w></name> δ’ <w lemma="αἱρέω">αἱρεῖσθαι</w> <w lemma="τρεῖς">τρεῖς</w> <w lemma="κατά">κατ’</w> <w lemma="ἐνιαυτός">ἐ
+                    
+<lb xml:id="line_65" n="65" break="no"/> νιαυτόν</w>, <w lemma="ὅστις">οἵτινες</w> <name type="sacrifice"><w lemma="ἐκθύω">ἐχθυσεῦ<unclear>ν</unclear>
+                    
+<lb xml:id="line_66" n="66" break="no"/> ται</w></name> τὰ <name type="sacrifice"><w lemma="ἱερός">ἱερὰ</w></name> <w lemma="μετά">μετὰ</w> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name>· <w lemma="ἐπιμελέομαι">ἐπι
+                    
+<lb xml:id="line_67" n="67" break="no"/> μελέσθων</w> δὲ τοὶ <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμήνιοι
+                    
+<lb xml:id="line_68" n="68"/> ὧγ</w></name> <w lemma="κα">κα</w> <w lemma="δέω">δέηι</w> <w lemma="πρός">ποτὶ</w> τὰν <name type="genericOffering"><name type="meal"><w lemma="δέξις">δέξ<supplied reason="lost">ιν</supplied></w></name></name>·
+
+<lb xml:id="line_69" n="69"/> <w lemma="ἄν">ἄν</w> δέ <w lemma="τις">τι</w> <w lemma="δέω">δέηι</w> <w lemma="ἐπισκευή">ἐπισκευ<supplied reason="lost">ῆς</supplied></w>
+                    
+<lb xml:id="line_70" n="70"/> <w lemma="ἤ"><supplied reason="lost">ἢ</supplied></w> <supplied reason="lost">τὸ</supplied> <name type="structure"><w lemma="τέμενος">τέμενος</w></name> <w lemma="ἤ">ἢ</w> ὁ <name type="locality"><w lemma="κῆπος">κῆπ<supplied reason="lost">ος</supplied></w></name>
+                    
+<lb xml:id="line_71" n="71"/> <w lemma="ἤ"><supplied reason="lost">ἢ</supplied></w> <supplied reason="lost">οἱ</supplied> <name type="structure"><w lemma="ξενών"><supplied reason="lost">ξ</supplied>ενῶνες</w></name> <w lemma="ἤ">ἢ</w> τὸ <name type="structure"><w lemma="οἰκημάτιον"><supplied reason="lost">οἰκη</supplied>
+                    
+<lb xml:id="line_72" n="72" break="no"/> <supplied reason="lost">μάτιο</supplied>ν</w></name> <w lemma="ἤ">ἢ</w> <supplied reason="omitted">ἡ</supplied> <name type="structure"><w lemma="οἰκία">οἰκία</w></name> <w lemma="ἤ">ἢ</w> <supplied reason="lost">καὶ</supplied>
+                    
+	    				</ab>
+	    				<ab subtype="face" n="C"> Face C
+                        
+<lb xml:id="line_73" n="73"/> <w lemma="ἄλλος"><supplied reason="lost">ἄλλο</supplied></w> <w lemma="τις"><supplied reason="lost">τι</supplied></w> <w lemma="δέω"><supplied reason="lost">δέηι</supplied></w> <w lemma="θεραπεία"><supplied reason="lost">θ</supplied><unclear>ε</unclear>ραπε<supplied reason="lost">ίας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    
+<lb xml:id="line_74" n="74" break="no"/> <gap reason="lost" quantity="2" unit="character"/>ς <w lemma="ἀργύριον">ἀ<unclear>ργ</unclear>ύριον</w> <w lemma="ἀπό">ἀπὸ</w> τῶν <w lemma="πρόσοδος">προσό<unclear>δ</unclear>ων</w> <supplied reason="lost">τῶν</supplied> <w lemma="ἀεί"><supplied reason="lost">ἀεί</supplied></w>
+                                           
+ <lb xml:id="line_75" n="75"/> <w lemma="πίπτω"><supplied reason="lost">πιπτο</supplied><unclear>υσ</unclear>ῶν</w> <w lemma="ἀπό">ἀπὸ</w> τοῦ <name type="structure"><w lemma="τέμενος">τεμένε<unclear>υς</unclear></w></name> καὶ τοῦ
+                                            
+<lb xml:id="line_76" n="76"/> <name type="locality"><w lemma="κῆπος"><supplied reason="lost">κήπου</supplied></w></name> καὶ τῶν <name type="structure"><w lemma="ξενών">ξενώνων</w></name> <w lemma="ὅσος">ὅσ<unclear>ον</unclear></w> <w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w> <w lemma="φαίνω"><supplied reason="lost">φαίνη</supplied>
+                                                                    
+<lb xml:id="line_77" n="77" break="no"/> <supplied reason="lost">ται</supplied></w> <w lemma="ἱκανός"><supplied reason="lost">ἱ</supplied>κανὸν</w> <w lemma="εἰμί">εἶναι</w>· τὸ δὲ <w lemma="κατάλοιπος">κατάλοι<supplied reason="lost">πον</supplied></w>
+                                                        
+<lb xml:id="line_78" n="78"/> <w lemma="ἀργύριον"><supplied reason="lost">ἀργ</supplied>ύριον</w> καὶ τὰ <w lemma="ἐξαίρημα">ἐξαιρήματα</w> <w lemma="διαιρέω">δια<supplied reason="lost">ιρεῖν</supplied></w>
+                    
+<lb xml:id="line_79" n="79"/> <w lemma="κατά"><supplied reason="lost">κα</supplied><unclear>τ</unclear>ὰ</w> <w lemma="μέρος">μέρη</w>, <w lemma="εἰς">εἰς</w> <w lemma="ἕκαστος">ἑκάστην</w> δὲ <name type="sacrifice"><w lemma="θυσία">θυσί<supplied reason="lost">αν</supplied></w></name> <supplied reason="lost">τῶι</supplied>
+                                                                    
+<lb xml:id="line_80" n="80"/> <w lemma="ἐπιβάλλω">ἐπιβάλλοντι</w> <w lemma="μέρος">μέρει</w> <w lemma="χράω"><unclear>χ</unclear>ρᾶσθαι</w>· <w lemma="μή">μὴ</w> <w lemma="ἔξεστι">ἐξέ<unclear>σ</unclear>
+                    
+<lb xml:id="line_81" n="81" break="no"/> στω</w> δὲ τοῖς <name type="group"><w lemma="κοινωνέω">κοινωνοῦσι</w></name> τῶν <name type="sacrifice"><w lemma="ἱερός">ἱερῶγ</w></name> <w lemma="γεωργέω"><supplied reason="lost">γε</supplied>
+                                                        
+<lb xml:id="line_82" n="82" break="no"/> ωργεῖν</w> τὰ <name type="structure"><w lemma="τέμενος">τεμένη</w></name> <w lemma="μηδέ">μηδ’</w> <w lemma="ἐν">ἐν</w> τοῖς <name type="structure"><w lemma="ξενών">ξ<unclear>ε</unclear><supplied reason="lost">νῶσι</supplied></w></name>
+                        
+<lb xml:id="line_83" n="83"/> <w lemma="ἐνοικέω">ἐνοικεῖν</w> <w lemma="μηδέ">μηδ’</w> <w lemma="ἐν">ἐν</w> τῆι <name type="structure"><w lemma="οἰκία">οἰκίαι</w></name> τῆι <w lemma="ἐπί">ἐπὶ</w> <unclear>τ</unclear><supplied reason="lost">οῦ</supplied> <name type="structure"><w lemma="τέμενος"><supplied reason="lost">τε</supplied>
+                            
+<lb xml:id="line_84" n="84" break="no"/> μένευς</w></name> <w lemma="μηδέ">μηδὲ</w> <name type="structure"><w lemma="ἀποθήκη">ἀποθήκηι</w></name> <w lemma="χράω">χρᾶσθαι</w> τ<unclear>ῆ</unclear><supplied reason="lost">ι</supplied> <name type="structure"><w lemma="λέσχη"><supplied reason="lost">λέσ</supplied>
+                                                
+<lb xml:id="line_85" n="85" break="no"/> <unclear>χ</unclear>ηι</w></name> τῆι <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερόν">ἱερῶι</w></name> <w lemma="μηδέ">μηδὲ<surplus>ν</surplus></w> τῶι <name type="structure"><w lemma="περίπατος">περιπάτω<supplied reason="lost">ι</supplied></w></name>
+                                        
+	    					<lb xml:id="line_86" n="86"/> <w lemma="ἄν">ἂμ</w> <w lemma="μή">μὴ</w> <w lemma="πόλεμος">πόλεμος</w> <w lemma="εἰμί">ἦι</w>· <w lemma="ἄν">ἂν</w> δέ
+<w lemma="τις">τι<supplied reason="lost">ς</supplied></w> <unclear>τ</unclear>ῶν <w lemma="κατά"><supplied reason="lost">κα</supplied>τ’</w> <name type="group"><w lemma="ἀνδρογένεια">ἀ<unclear>ν</unclear>
+                        
+<lb xml:id="line_87" n="87" break="no"/> δρογένειαν</w></name> <w lemma="δοκέω">δόξηι</w> τοῖς <name type="group"><w lemma="κοινωνέω">κο<supplied reason="lost">ιν</supplied><unclear>ω</unclear>ν<unclear>ο</unclear><supplied reason="lost">ῦσι</supplied></w></name> <supplied reason="lost">τῶν</supplied>
+                            
+<lb xml:id="line_88" n="88"/> <name type="sacrifice"><w lemma="ἱερός">ἱερῶν</w></name> <w lemma="ἐνδεής">ἐνδειὴς</w> <w lemma="εἰμί">εἶναι</w> τοῖ<unclear>ς</unclear> <w lemma="ἴδιος">ἰδί<supplied reason="lost">οι</supplied>ς</w> <w lemma="ἐπάν"><unclear>ἐ</unclear><supplied reason="lost">πὰν</supplied></w> <w lemma="γάμος"><supplied reason="lost">γάμος</supplied></w>
+                        
+<lb xml:id="line_89" n="89"/> <w lemma="συντελέω">συντελῆται</w>, <w lemma="ποιέω">ποείτω</w> τὸγ <w lemma="γάμος"><supplied reason="lost">γά</supplied><unclear>μ</unclear>ον</w> <w lemma="μείς"><supplied reason="lost">μηνὸς</supplied></w>
+                    
+<lb xml:id="line_90" n="90"/> <name type="month"><w lemma="Πεδαγείτνυος"><supplied reason="lost">Π</supplied>εταγειτνύου</w></name>, <w lemma="ἑκκαιδέκατος">ἑκκαιδεκάτηι</w> μὲ<supplied reason="lost">ν</supplied> <name type="meal"><w lemma="σύνδειπνον"><supplied reason="lost">συν</supplied>
+                        
+<lb xml:id="line_91" n="91" break="no"/> αιγλίαν</w></name>, <w lemma="ἑπτακαιδέκατος">ἑπτακαιδεκάτηι</w> δὲ <name type="portion"><w lemma="διανομή">δια<unclear>ν</unclear><supplied reason="lost">ομήν</supplied></w></name>,
+                    
+<lb xml:id="line_92" n="92"/> <w lemma="ἵνα">ἵνα</w> ἡ <name type="sacrifice"><w lemma="θυσία">θυσία</w></name> τῶι <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλεῖ</w></name> <w lemma="συντελέω">συντελ<supplied reason="lost">ῆται</supplied></w> <w lemma="κατά"><supplied reason="lost">κα</supplied>
+                    
+<lb xml:id="line_93" n="93" break="no"/> τὰ</w> τὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name>, <w lemma="ὀκτοκαιδέκατος">ὀκτωκαιδεκάτηι</w> δ<supplied reason="lost">ὲ</supplied> <supplied reason="lost">ἡ</supplied> <w lemma="συναγωγή"><supplied reason="lost">συνα</supplied>
+                    
+<lb xml:id="line_94" n="94" break="no"/> γωγή</w>, καὶ <w lemma="ἐν">ἐν</w> ταῖς <w lemma="λοιπός">λοιπαῖς</w> <w lemma="ἡμέρα">ἡμέρ<supplied reason="lost">αις</supplied></w> <w lemma="συντελέω"><supplied reason="lost">συντε</supplied>
+                    
+<lb xml:id="line_95" n="95" break="no"/> <unclear>λ</unclear>είσθω</w> ὁ <w lemma="γάμος">γάμος</w>· ἡ δὲ <name type="object"><w lemma="στρωμνή">στρω<unclear>μ</unclear>ν<supplied reason="lost">ὴ</supplied></w></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὰ</supplied>
+                    
+<lb xml:id="line_96" n="96"/> <name type="object"><w lemma="ἄγαλμα"><supplied reason="lost">ἀ</supplied>γάλματα</w></name> τῶι <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλεῖ</w></name> <w lemma="εἰμί">ἔστω</w> <w lemma="κατά"><supplied reason="lost">κατὰ</supplied></w> <w lemma="χώρα"><supplied reason="lost">χώ</supplied>
+                    
+   <lb xml:id="line_97" n="97" break="no"/> <supplied reason="lost">ρ</supplied><unclear>α</unclear>ν</w> <w lemma="ὑράρχω">ὑπάρχοντα</w>, <w lemma="ἔστε">ἔστ’</w> <w lemma="ἄν">ἂν</w> ὁ <w lemma="γάμος">γά<unclear>μ</unclear><supplied reason="lost">ος</supplied></w> <w lemma="συντελέω"><supplied reason="lost">συντε</supplied>
+                    
+<lb xml:id="line_98" n="98" break="no"/> <supplied reason="lost">λε</supplied>σθῆι</w>· <name type="portion"><w lemma="ἀφαιρέω">ἀφαιρεῖν</w></name> δὲ <w lemma="ἀπό">ἀπὸ</w> τῶν <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερε<supplied reason="lost">ίων</supplied></w></name> <w lemma="ὅς"><supplied reason="lost">ἃ</supplied></w> <w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w>
+                    
+<lb xml:id="line_99" n="99"/> <w lemma="δοκέω"><supplied reason="lost">δοκ</supplied>ῆι</w> <w lemma="καλός">καλῶς</w> <w lemma="ἔχω">ἔχειν</w> <w lemma="ἐπί">ἐπὶ</w> τὴν <name type="object"><w lemma="τράπεζα">τράπεζ<supplied reason="lost">αν</supplied></w></name> <supplied reason="lost">τῶι</supplied>
+                    
+<lb xml:id="line_100" n="100"/> <name type="deity" key="Heracles"><w lemma="θεός"><supplied reason="lost">θεῶ</supplied>ι</w></name>, τοῖς δὲ <name type="portion"><w lemma="λοιπός">λοιποῖς</w></name> <w lemma="πᾶς">πᾶσι</w>, <w lemma="ὅσος">ὅσα</w> <w lemma="εἰς">ἐς</w> <name type="genericOffering"><name type="meal"><w lemma="ξενισμός"><unclear>ξε</unclear><supplied reason="lost">νισμὸν</supplied></w></name></name>
+                        
+<lb xml:id="line_101" n="101"/> <name type="group"><w lemma="οἰκεῖος"><supplied reason="lost">οἰκ</supplied>ε<unclear>ί</unclear>ων</w></name>, <w lemma="χράω">χράσθω</w> ὁ τὸν <w lemma="γάμος">γάμον</w> <w lemma="ποιέω">ποιῶν</w>· <w lemma="ἐφίημι"><unclear>ἐ</unclear><supplied reason="lost">φιέτω</supplied></w>
+                                                                        
+<lb xml:id="line_102" n="102"/> <supplied reason="lost">δὲ</supplied> καὶ ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> <w lemma="εἰς">εἰς</w> τοὺς <w lemma="γάμος">γάμους</w> τὰ <name type="portion"><w lemma="γέρας">γέ<unclear>ρ</unclear><supplied reason="lost">η</supplied></w></name> <supplied reason="lost">τῶι</supplied>
+                    
+<lb xml:id="line_103" n="103"/> <supplied reason="lost">τὸ</supplied>ν <w lemma="γάμος">γάμον</w> <w lemma="ποιέω">ποιοῦντι</w>, <w lemma="λαμβάνω">λαβὼν</w> <w lemma="ὀκτώ">ὀκτὼ</w> <w lemma="δραχμή">δραχ<supplied reason="lost">μὰς</supplied></w>
+                                                
+<lb xml:id="line_104" n="104"/> <w lemma="ἐκ"><supplied reason="lost">ἐ</supplied>κ</w> τῆς <w lemma="πρόσοδος">προσόδου</w>, καὶ οἱ τὰς <name type="structure"><w lemma="οἰκία">οἰκίας</w></name> <w lemma="κτάομαι">ἐκτ<supplied reason="lost">η</supplied>
+                        
+<lb xml:id="line_105" n="105" break="no"/>μένοι</w> τήν τε <name type="person"><w lemma="ἀνδρεῖος">ἀνδρείαν</w></name> καὶ τὴν <name type="person"><w lemma="γυναικεῖος">γυναικ<supplied reason="lost">εί</supplied>
+                        
+<lb xml:id="line_106" n="106" break="no"/> αν</w></name> <w lemma="παρέχω">παρεχόντω</w> <w lemma="εἰς">εἰς</w> τοὺς <w lemma="γάμος">γάμους</w> τὰς <name type="structure"><w lemma="οἰκία">οἰκ<supplied reason="lost">ί</supplied>
+                        
+<lb xml:id="line_107" n="107" break="no"/> ας</w></name> <w lemma="παρεξαιρέω">παρεξελόμενοι</w> <name type="structure"><w lemma="οἴκημα">οἰκήματα</w></name> <w lemma="εἰς">εἰς</w> <w lemma="ἀπόθεσις">ἀπόθε
+                        
+<lb xml:id="line_108" n="108" break="no"/> <unclear>σ</unclear>ιν</w> τῶν <name type="object"><w lemma="σκευή">σκευῶν</w></name>, ὁ δὲ τὴν <name type="person"><w lemma="ἀνδρεία">ἀνδρείαν</w></name> <w lemma="ἔχω">ἔχων</w>
+                        
+<lb xml:id="line_109" n="109"/><w lemma="παρέχω"><supplied reason="lost">π</supplied><unclear>α</unclear>ρεχέτω</w> τὴν <name type="structure"><w lemma="οἰκία">οἰκίαν</w></name> καὶ <w lemma="εἰς">εἰς</w> τὴν <name type="sacrifice"><w lemma="θυσία">θυσί
+                        
+<lb xml:id="line_110" n="110" break="no"/> <supplied reason="lost">αν </supplied></w></name> <supplied reason="lost">κα</supplied>ὶ τὸν <name type="genericOffering"><name type="meal"><w lemma="ξενισμός">ξενισμὸν</w></name></name> τοῦ <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλ<supplied reason="lost">εῦς</supplied></w></name> <w lemma="πᾶς"><supplied reason="lost">πά</supplied>
+                        
+<lb xml:id="line_111" n="111" break="no"/> <supplied reason="lost">σας</supplied></w> <w lemma="ἡμέρα"><supplied reason="lost">ἡμ</supplied>έρας</w>· <w lemma="οὗτος">τούτων</w> δὲ <w lemma="ἐπιμελέομαι"><supplied reason="lost">ἐπιμελέσθων</supplied></w> <supplied reason="lost">οἱ</supplied>
+                        
+<lb xml:id="line_112" n="112"/> <name type="personnel"><w lemma="ἐπιμήνιος"><supplied reason="lost">ἐπιμήνιοι</supplied></w></name> <w lemma="ὅπως"><supplied reason="lost">ὅπως</supplied></w> <supplied reason="lost">οἵ</supplied> <supplied reason="lost">τε</supplied> <w lemma="γάμος"><supplied reason="lost">γάμοι</supplied></w> <w lemma="μετά"><supplied reason="lost">μετὰ</supplied></w> <w lemma="πᾶς"><supplied reason="lost">πάσης</supplied></w>
+                        
+<lb xml:id="line_113" n="113"/> <w lemma="εὐκοσμία"><supplied reason="lost">εὐκοσμίας</supplied></w> <w lemma="συντελέω"><supplied reason="lost">συντελεσθήσονται</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="ὅπως"><supplied reason="lost">ὅπως</supplied></w>
+
+<lb/><gap reason="lost" extent="unknown" unit="character"/>
+                        
+	    				</ab>
+	    				<ab subtype="face" n="D">Face D
+	    					
+<lb xml:id="line_114" n="114"/> <supplied reason="lost">το</supplied>ῖς <name type="person"><w lemma="τέκνον">τέκνοις</w></name> <w lemma="πᾶς">πάν<unclear>τ</unclear>α</w> τὰ <w lemma="δέω">δέον
+                        
+<lb xml:id="line_115" n="115" break="no"/> <supplied reason="lost">τ</supplied><unclear>α</unclear></w> <w lemma="παρασκευάζω">παρασκευᾶτε</w>· τοῖς δὲ <w lemma="ἐπιμελέομαι">ἐπι
+                        
+<lb xml:id="line_116" n="116" break="no"/> <supplied reason="lost">μ</supplied><unclear>ε</unclear>λομένοις</w> <w lemma="ὅπως">ὅπως</w> <w lemma="ἕκαστος">ἕκαστα</w> <w lemma="συντελέω">σ<unclear>υ</unclear><supplied reason="lost">ν</supplied>
+                        
+<lb xml:id="line_117" n="117" break="no"/>  <supplied reason="lost">τε</supplied>λῆται</w> <w lemma="κατά">καθὰ</w> <name type="authority"><w lemma="διαγράφω">διαγέγραπται</w></name>
+                        
+<lb xml:id="line_118" n="118"/> <w lemma="εἰς"><supplied reason="lost">εἰ</supplied>ς</w> <w lemma="δύναμις">δύναμιν</w> <w lemma="εἰμί">εἶναι</w> <w lemma="εὖ">εὖ</w> <w lemma="εἰμί">εἴη</w> καὶ <w lemma="αὐτός">αὐ
+                        
+<lb xml:id="line_119" n="119" break="no"/> <supplied reason="lost">τ</supplied>οῖς</w> καὶ τοῖς <name type="person"><w lemma="ἔγγονος">ἐγγόνοις</w></name> <w lemma="αὐτός">αὐτῶν</w>.
+                        
+<lb xml:id="line_120" n="120"/> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνέθηκα</w></name> δὲ καὶ <name type="object"><w lemma="λυχνία">λυχνίας</w></name> <w lemma="δύο">δύο</w> κα<supplied reason="lost">ὶ</supplied>
+                        
+<lb xml:id="line_121" n="121"/> <name type="object"><w lemma="λύχνος">λύχνους</w></name> <w lemma="χαλκοῦς">χαλκοῦς</w> <w lemma="ἑπτάπυρος">ἑπταπύ
+
+<lb xml:id="line_122" n="122" break="no"/> ρους</w> <w lemma="δύο">δύο</w> καὶ <name type="object"><w lemma="ἐσχάρα">ἐσχάραν</w></name> <w lemma="τετράγωνος">τετράγω
+                        
+<lb xml:id="line_123" n="123" break="no"/> <supplied reason="lost">ν</supplied>ον</w> καὶ <name type="object"><w lemma="κρατήρ">κρατῆρα</w></name> καὶ <name type="object"><w lemma="τάπης">τάπητα</w></name>
+                        
+<lb xml:id="line_124" n="124"/> καὶ <name type="object"><w lemma="τράπεζα">τράπεζαν</w></name> καὶ <name type="object"><w lemma="στεφανίσκος">στεφανίσκου<unclear>ς</unclear></w></name>
+                        
+<lb xml:id="line_125" n="125"/> <w lemma="πέντε">πέντε</w> τοῖς <name type="object"><w lemma="ἄγαλμα">ἀγάλμασιν</w></name> <w lemma="χρυσός">χρυσοῦς</w>
+                        
+<lb xml:id="line_126" n="126"/> <unclear>κ</unclear>αὶ <name type="object"><w lemma="ῥόπαλον"><unclear>ῥ</unclear>όπαλα</w></name> <w lemma="δύο">δύο</w> καὶ <name type="object"><w lemma="θυμιατήριον">θυμιατήρι<unclear>α</unclear></w></name>
+                        
+<lb xml:id="line_127" n="127"/> <w lemma="τρεῖς">τρία</w> <w lemma="κατάχρυσος">κατάχρυσα</w> καὶ <name type="object"><w lemma="κλίνη">κλίνην</w></name>, <w lemma="ὥστε">ὥσ
+                        
+<lb xml:id="line_128" n="128" break="no"/> τε</w> <w lemma="πᾶς">πάντα</w> <w lemma="οὗτος">ταῦτα</w> <name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name> <w lemma="εἰμί">εἶναι</w> τοῦ
+                        
+<lb xml:id="line_129" n="129"/> <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλεῦς</w></name>, καὶ <name type="object"><w lemma="βάθρον">βάθρον</w> τῆς <w lemma="κλίνη">κλί
+                
+	<lb xml:id="line_130" n="130" break="no"/> νης</w></name> καὶ <name type="object"><w lemma="κύκλος">κύκλον</w></name> <w lemma="χαλκοῦς">χαλκοῦν</w>· <w lemma="εἰ">εἰ</w> <w lemma="ἄν">ὰ<supplied reason="lost">ν</supplied></w>
+                        
+<lb xml:id="line_131" n="131"/> δέ <w lemma="τις">τις</w> <w lemma="τολμάω">τολμήσηι</w> <w lemma="καταλύω">καταλύειν</w> <w lemma="τις">τ<supplied reason="lost">ι</supplied></w>
+                        
+<lb xml:id="line_132" n="132"/> <supplied reason="lost">τ</supplied>ῶν <w lemma="ὑπό">ὑπὸ</w> Διομέδοντος <name type="authority"><w lemma="συντάσσω">συν
+                        
+<lb xml:id="line_133" n="133" break="no"/> <supplied reason="lost">τ</supplied><unclear>ε</unclear>ταγμένων</w></name> <w lemma="ἀδικέω">ἀδικῶν</w> τὰ
+<name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name>
+                        
+<lb xml:id="line_134" n="134"/> <supplied reason="lost">κα</supplied>ὶ τοὺς <w lemma="πρόγονος">προγόνους</w> <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="ὅς">ὧ<supplied reason="lost">ν</supplied></w>
+                        
+<lb xml:id="line_135" n="135"/><name type="authority"><w lemma="γράφω"><supplied reason="lost">γέ</supplied>γραπται</w></name> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="βωμός">βωμῶι</w></name> καὶ <w lemma="ἐν">ἐ<supplied reason="lost">ν</supplied></w>
+                        
+<lb xml:id="line_136" n="136"/> <supplied reason="lost">τ</supplied><unclear>ῆ</unclear>ι <objectType key="stele"><w lemma="στήλη">στήληι</w></objectType>, <w lemma="μή">μὴ</w> <w lemma="ἐπιτρέπω">ἐπιτρέπειν</w> τοὺ<supplied reason="lost">ς</supplied>
+                        
+<lb xml:id="line_137" n="137"/> <w lemma="ἐν"><supplied reason="lost">ἐ</supplied>γ</w> Διομέδοντος <del rend="erasure"><orig>ι</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ω</orig><gap reason="lost" quantity="1" unit="character"/></del>
+                        
+<lb xml:id="line_138" n="138"/> <w lemma="γίγνομαι"><supplied reason="lost">γ</supplied>εγενημένους</w> καὶ τοὺς <name type="person"><w lemma="ἔγγονος">ἐγγ<supplied reason="lost">ό</supplied>
+                        
+<lb xml:id="line_139" n="139" break="no"/> <supplied reason="lost">ν</supplied>ους</w></name> <w lemma="αὐτός">αὐτῶν</w>, <w lemma="ἀλλά">ἀλλὰ</w> <w lemma="βοηθέω">βοηθεῖν</w>
+                                                                        
+<lb xml:id="line_140" n="140"/>  <supplied reason="lost">τ</supplied>οῖς <name type="genericOffering"><w lemma="ἱερός">ἱεροῖς</w></name> καὶ τοῖς
+	    					<name type="person"><w lemma="πρόγονος">προγόνοι<supplied reason="lost">ς</supplied></w></name>·
+                                                    
+<lb xml:id="line_141" n="141"/> <w lemma="συνάγω"><supplied reason="lost">συ</supplied>νάγειν</w> δὲ τοὺς <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμηνί
+                                                                            
+<lb xml:id="line_142" n="142" break="no"/> <supplied reason="lost">ου</supplied>ς</w></name> καὶ <w lemma="εἰς">εἰς</w> τὴν <w lemma="αὔριον">αὔριον</w> <w lemma="παραλαμβάνω">παρα
+                                                                                
+<lb xml:id="line_143" n="143" break="no"/> <supplied reason="lost">λ</supplied>αμβάνοντας</w> <w lemma="ὅς">οὓς</w> <w lemma="ἄν">ἂν</w> <w lemma="αὐτός">αὐ
+                        
+<lb xml:id="line_144" n="144" break="no"/> <supplied reason="lost">τ</supplied>οῖς</w> <w lemma="δοκέω">δοκῆι</w>· <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμηνίους</w></name> δὲ <w lemma="αἱρέω">αἱρεῖσθ<supplied reason="lost">αι</supplied></w>
+                        
+<lb xml:id="line_145" n="145"/> <supplied reason="lost">τ</supplied>οὺς <w lemma="ἐν">ἐγ</w> Διομέδοντος καὶ τοὺς <name type="person"><w lemma="ἔγγονος">ἐγγ<supplied reason="lost">ό</supplied>
+                        
+<lb xml:id="line_146" n="146" break="no"/> <supplied reason="lost">ν</supplied>ους</w></name> <w lemma="αὐτός">αὐτῶν</w>· <w lemma="ἄν">ἂν</w> δέ <w lemma="τις">τις</w> <name type="person"><w lemma="νόθος">νόθος</w></name> <w lemma="εἰμί">ὢν</w> <w lemma="κρίνω">κρ<supplied reason="lost">ι</supplied>
+                        
+<lb xml:id="line_147" n="147" break="no"/> <supplied reason="lost">θ</supplied>εὶς</w> <w lemma="γιγνώσκω">γνωσθῆι</w> <w lemma="μετέχω">μετέχειν</w> τῶν <name type="sacrifice"><name type="genericOffering"><w lemma="ἱερός">ἱερῶ<supplied reason="lost">ν</supplied></w></name></name>,
+                        
+<lb xml:id="line_148" n="148"/> <w lemma="μή"><unclear>μ</unclear>ὴ</w> <w lemma="ἔξεστι">ἐξέστω</w> <w lemma="αὐτός">αὐτῶι</w> <w lemma="μετέχω">μετέχειν</w> τῶν
+                        
+<lb xml:id="line_149" n="149"/> <name type="personnel"><name type="portion"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱ</supplied>ερωσυνῶν</w></name></name>. <w lemma="λαμβάνω">λαμβάνετε</w> δὲ <w lemma="ἀπό">ἀπ<supplied reason="lost">ὸ</supplied></w>
+                        
+<lb xml:id="line_150" n="150"/> τῆς <w lemma="πρόσοδος">προσόδου</w> <w lemma="ὥστε">ὥστε</w> τῶι <name type="deity" key="Zeus"><name type="epithet" key="Pasios"><w lemma="Πάσιος">Πασίω<supplied reason="lost">ι</supplied></w></name></name>
+                        
+  <lb xml:id="line_151" n="151"/> <w lemma="εἰς"><unclear>ε</unclear>ἰς</w> <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> <w lemma="δραχμή">δραχμὰς</w> <w lemma="πεντήκοντα">πεντήκο<supplied reason="lost">ν</supplied>
+                        
+<lb xml:id="line_152" n="152" break="no"/> τα</w>, ταῖς δὲ <name type="deity" key="Moirai"><w lemma="μοῖρα">Μοίραις</w></name> <w lemma="τεσσαράκοντα">τεσσαράκο<supplied reason="lost">ν</supplied>
+                        
+<lb xml:id="line_153" n="153" break="no"/> τα</w>· <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> δὲ τῶι <name type="deity" key="Zeus"><name type="epithet" key="Pasios"><w lemma="Πάσιος">Πασίωι</w></name></name> κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied>
+                        
+<lb xml:id="line_154" n="154"/> ταῖς <name type="deity" key="Moirai"><w lemma="μοῖρα">Μοίραις</w></name> οἱ <w lemma="κατά">κατ’</w> <name type="group"><w lemma="ἀνδρογένεια">ἀνδρογένε<supplied reason="lost">ι</supplied>
+                        
+		<lb xml:id="line_155" n="155" break="no"/> <supplied reason="lost">α</supplied>ν</w></name>· <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνέθηκα</w></name> δὲ καὶ <w lemma="ὑάλινος">ὑαλίνας</w>
+                        
+<lb xml:id="line_156" n="156"/> <name type="object"><w lemma="φιάλη"><supplied reason="lost">φιά</supplied>λας</w></name> <w lemma="τέσσαρες">τέσσαρας</w> καὶ <name type="object"><w lemma="χλανίς">χλανίδ<supplied reason="lost">α</supplied></w></name>
+                        
+<lb xml:id="line_157" n="157"/> <name type="colour2"><w lemma="ἁλουργής"><supplied reason="lost">ἁλο</supplied>υργάν</w></name>. <w lemma="δίδωμι">διδόναι</w> δὲ τοῖς <name type="festival"><w lemma="Ἡράκλειος">Ἡ
+                        
+<lb xml:id="line_158" n="158" break="no"/> <supplied reason="lost">ρακλ</supplied>έοις</w></name> <name type="portion"><w lemma="μερίς">μερίδας</w></name> τοῖς <name type="group"><w lemma="συμπομπεύω">συ<supplied reason="lost">μ</supplied>
+                        
+ <lb xml:id="line_159" n="159" break="no"/> <supplied reason="lost">πομπε</supplied><unclear>ύ</unclear>ουσι</w></name>. <space extent="unknown" unit="character"/>
+                        
+<lb/> <space extent="unknown" unit="character"/>
+	    	</ab>
+	    			
+				</div>
+				<div type="translation" xml:lang="eng">
+		
+			<head>Translation</head>
+<p> Text I</p> 
+<p> Face A</p>
+<p> [Diomedon has consecrated] this precinct to Heracles Diomedonteios, and he has also dedicated the guest-chambers, those in the garden, and the small buildings and Libys and his descendants: (5) let them be free, if they do what has been prescribed. Those who share in the cult should take care that they will continue to be free and that no one does them injustice. The children of (10) Diomedon and always their descendants should perform the sacrifices. Libys and the children of Libys should have the garden for hire [... (erasure) ...] as much as seems good; they should pay [the rent] on the [...] of Theudaisios (15) so that (the money) is available for the sacrifice on the 16th and [17th] of Petageitnyos. They should provide bed-cushions [...] for Heracles and [...] on the first days (20) they should also wash the portraits of the [ancestors of] Diomedon and they should crown [each of them] when there is a festival. Now [... should be priest of] Heracles [and in the future] always the eldest (25) [of the descendants of Diomedon]. Let him sacrifice [to Heracles and Diomedon] a calf or [...]; to Dionysus a goat or [a kid, and to Hera (?) a kid] or a goat and to [all the other gods of whom there] are altars in (30) [the building...] and to Aphrodite [...] a goat or a piglet, and to [...] there is to be [a libation (?) ...] for Heracles (35) [... and for all the other goddesses and] Diomedon. [Let him provide] offerings, [bread for] the bread-meal [and wine and honey (?) for the] libation (.../...),</p> 
+					
+<p> Face B</p> 
+<p>(.../...) and firewood for the sacrifice. (40) Let him receive as perquisites from each sacrificial animal, a leg and the skin. A sacrifice of fish is also to be made, according to the ancestral customs. It shall not be permitted to anyone to (45) appropriate for themselves the buildings at the precinct or the precinct itself, or to sell them or to mortgage them. If some aspect of the buildings or the precinct is in need of maintenance, (50) they should make each reparation from the income. If one of the cult members has a child, he should give as an entrance fee: a piglet, offerings, frankincense, a libation, (55) a crown.</p>  
+					
+<p> Text II (still on face B)</p> 
+<p>The statues and the votive offerings should be in the building in the place where they are now. A sacrifice is to be made on the 16th of (60) the month Petageitnyos and hold the guest-meal for Heracles, and the sacrifice of fish on the 17th. Each year three <foreign>epimenioi</foreign> are to be  selected (65), who will fulfill the sacrifices together with the priest. The <foreign>epimenioi</foreign> should take care of all that is necessary for the reception.</p>  
+					
+<p> Text III (still on face B)</p> 
+<p>If [the] (70) precinct or the garden [or the] guestrooms or the [small building] or the building is in need of repair (continued) </p> 
+					
+<p> Face C </p>
+<p>[or anything else needs] maintenance, [...] money from the income [that (75) continuously accrues] from the precinct [and the garden] and the guest-rooms as much as [seems] enough. The rest of the money and the sum that is set apart should be divided into parts, and use for each sacrifice (80) the corresponding share. And let it not be allowed to those who take part in the cult to cultivate the land in the precinct or to live in the guest-rooms or the house in the precinct nor to use (85) the meeting-place, the one in the temple, as a storeroom, or the covered walk, except when there is a war. If one of the descendants in the male line seems to the members of the cult to be lacking in [private means, when] he is about to celebrate [his marriage], let him organise the marriage in the [month] of (90) Petageitnyos, the banquet on the 16th, the distribution on the 17th, so that the sacrifice for Heracles is accomplished according to the ancestral customs, on the 18th, the assembly, and on the remaining days (95) the marriage is to be celebrated. The prepared couch and the statues for Heracles should remain [in place], until the marriage is celebrated. Take from the sacrificial animals [what] seems good for the table [for the (100) god], and the one who is getting married should use all the remaining (meat), for the guest-meal of his relatives. Let the priest [give up] his perquisites for the marriages to the person who is getting married, taking 8 drachmae from the income, and those who possess houses should furnish (105) the men's house and the women's house for the marriages, after having set aside rooms for the storage of their furniture, and the person who owns the men's house should also provide the house every day, both for the sacrifice (110) and for the entertainment of Heracles. [The <foreign>epimenioi</foreign> should take care] of these things [so that the marriages will be concluded with all good order and so that ...] (.../...)</p> 
+					
+<p> Face D</p> 
+<p>(.../...) you will provide all the necessary things (115) for the children. May things go well for them and for their descendants, who take care that everything is accomplished as it is prescribed, as far as possible (for them). (120) I have also consecrated two lamps and two bronze lamps with seven flames, and a square brazier and a mixing vessel and a carpet and a table and (125) five small golden wreaths for the statues and two staffs and three gilded vessels for fumigation and a couch, so that all these be consecrated to Heracles, and a base for the couch (130) and a bronze circular platter. If someone dares to dissolve any of what has been ordained by Diomedon, doing injustice to the cult and the ancestors on behalf of which (135) an inscription has been made on the altar and on the stele, the children of Diomedon [(erasure)] and their descendants should not allow it but come to the rescue (140) of the cult and the ancestors. The <foreign>epimenioi</foreign> are to assemble them and on the next day invite those who seem good to them. (145) The children of Diomedon and their descendants should choose <foreign>epimenioi</foreign>. If anyone, being a bastard, having been examined, is judged to have the right to take part in the cult, let it not be allowed to him to take part in the priestly offices. You should take from the income (150) 50 drachmae for the sacrifice to (Zeus) Pasios, and (for the sacrifice) to the Moirai, 40 drachmae. The descendants in the male line should sacrifice to (Zeus) Pasios and the Moirai. (155) I have consecrated also four glass <foreign>phialai</foreign> and a [purple] mantle. During the [festival of Heracles], give portions to the participants in the procession. </p>
+				
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Texte I</p>
+<p>Face A</p>
+<p>[Diomédon a consacré] cette enceinte à Héraclès Diomedonteios, et il a également consacré les chambres d’hôtes du jardin, les petits bâtiments, ainsi que Libys et ses descendants. (5) Qu’ils soient libres s’ils font ce qui est prescrit. Que la communauté cultuelle veille à ce qu’ils restent libres et à ce que personne ne les traite injustement. Que les enfants de (10) Diomédon et leurs descendants par la suite accomplissent les sacrifices. Que Libys et les enfants de Libys aient le jardin en location [... <foreign>rasura</foreign> ...] autant qu’il semblera bon; qu’ils paient [le loyer] le [...] Theudasios, (15) de sorte que (l’argent) soit disponible pour le sacrifice du 16 et [du 17] Petageitnyos. Qu’ils fournissent des coussins [...] pour Héraclès et [...] les premiers jours (20) [qu’ils nettoient également les portraits des [ancêtres de] Diomédon et qu’ils [couronnent chacune d’entre elles] quand se tient une fête. Que maintenant [... soit prêtre] d’Héraclès [et à l’avenir] toujours le fils aîné (25) [des descendants de Diomédon]. Qu’il sacrifie [à Héraclès et à Diomédon] un veau [ou ...] ; à Dionysos, un caprin ou [un chevreau ; à Héra (?), un chevreau] ou un caprin; à [tous les autres dieux] dont les autels [...] dans (30) [les bâtiments ...] ; à Aphrodite, [...] un caprin ou un porcelet ; à [...] qu’il y ait [une libation (?) ...] à Héraclès (35) [...] et aux [autres déesses et à Diomé]don. [Qu’il fournisse des] offrandes, [du pain pour] le repas fait de pain, [du vin, du miel (?) pour la] libation (.../...) </p>
+					
+<p>Face B</p>
+<p>(.../...) et du bois pour le sacrifice. (40) Qu’il reçoive comme part d’honneur sur chaque animal sacrificiel une patte et la peau. Faire également un sacrifice de poisson selon la coutume ancestrale. Qu’on ne laisse personne (45) s’approprier quoi que ce soit des bâtiments de l’enceinte ou de l’enceinte elle-même, ni les vendre ni les mettre en gage. Si un entretien doit être effectué dans les bâtiments ou l’enceinte, (50) qu’on fasse les réparations sur le revenu. Que celui des membres de la communauté cultuelle qui a un enfant donne en droit d’entrée un porcelet, des offrandes, de l’encens, une libation, (55) une couronne.</p>
+					
+<p>Texte II (toujours sur la face B)</p>
+<p>Que les statues et les offrandes dédicatoires restent dans le bâtiment à la place qu’elles occupent à présent. Sacrifier le 16 (60) du mois de Petageitnyos et organiser la réception pour Héraclès, et le sacrifice de poisson le 17. Choisir chaque année trois <foreign>epimenioi</foreign> (65), qui accompliront les sacrifices avec le prêtre. Que les <foreign>epimenioi</foreign> s’occupent de tout ce qui est nécessaire à la réception.</p>
+						
+<p>Texte III (toujours sur la face B)</p>
+<p>Si quelque chose doit être réparé (70) à l’enceinte, au jardin, aux chambres d’hôtes, au [petit bâtiment], au bâtiment (.../...) </p>
+						
+<p>Face C</p>
+<p>(.../...) [ou à tout autre chose qui nécessite un] entretien [...] l’argent des revenus [qui (75) s’accroissent continûment] sur l’enceinte, le [jardin] et les chambres d’hôtes, autant [qu’il paraît] suffisant. Diviser en parts le reste de l’argent et les prélèvements, et utiliser pour chaque sacrifice la (80) part correspondante. Qu’il ne soit permis aux membres de la communauté cultuelle ni de cultiver l’enceinte ni d’habiter les chambres d’hôtes et la maison de l’enceinte ni d’utiliser (85) le lieu de rassemblement dans le sanctuaire et l’allée couverte comme espace de rangement, sauf en cas de guerre. S’il apparaît aux membres de la communauté cultuelle que l’un des descendants côté mâle manque de [moyens personnels] au moment de se marier, qu’il célèbre le mariage [au mois de] (90) Petageitnyos, le banquet le 16, la distribution le 17, afin que le sacrifice pour Héraclès soit accompli selon les coutumes ancestrales, le 18 la réunion, et les jours restants (95), que le mariage soit célébré. Que la couche et les statues pour Héraclès restent [en place] jusqu’à la célébration du mariage. Prélever sur les animaux sacrificiels ce qui paraît adéquat pour la table [en l’honneur du (100) dieu] et tout le reste, que le marié en ait l’usage pour la réception de ses familiers. Que le prêtre [laisse] les parts d’honneur sur les mariages au marié, en prélevant 8 drachmes du revenu. Et que ceux qui possèdent les bâtiments (105) mettent celui pour les hommes et celui pour les femmes à disposition pour les mariages, après avoir débarrassé des pièces pour le rangement de leurs affaires. Que celui qui possède le bâtiment pour les hommes le mette également à disposition chaque jour, à la fois pour le sacrifice (110) et pour la réception d’Héraclès. [Que les <foreign>epimenioi</foreign> prennent soient] de cela [afin que les mariages soient célébrés en toute harmonie et que ...] (.../...)</p>
+						
+<p>Face D</p>
+<p>(.../...) (115) vous fournirez tout ce qui est nécessaire aux enfants. Pour ceux qui veillent à ce que tout soit accompli selon ce qui est prescrit, que tout aille bien et pour eux et pour leurs descendants, autant qu’il est possible. (120) J’ai également dédié deux lampes, deux lampes en bronze à sept flammes, un brasier quadrangulaire, un cratère, un tapis, une table, (125) cinq petites couronnes en or pour les statues, deux massues, trois encensoirs dorés, et une couche, afin que tout cela soit la propriété sacrée d’Héraclès, ainsi qu’une base pour la couche (130) et un plat rond en bronze. Si quelqu’un entreprenait de mettre à mal l’une des prescriptions de Diomédon, en agissant injustement à l’égard du culte et des ancêtres au nom desquels (135) l’autel et la stèle ont été inscrits, les enfants de Diomédon [<foreign>rasura</foreign>] et leurs descendants ne laisseront pas faire et voleront au secours (140) du culte et des ancêtres. Les <foreign>epimenioi</foreign> les
+rassembleront et, le jour suivant, inviteront ceux qu’il leur semblera bon. (145) Que les enfants de Diomédon et leurs descendants choisissent des <foreign>epimenioi</foreign>. Si un bâtard, après avoir été sélectionné, se voit reconnaître le droit de participer au culte, qu’il ne lui soit pas permis d’assumer les fonctions sacerdotales. Du revenu, prenez (150) 50 drachmes pour le sacrifice à (Zeus) Pasios et, (pour le sacrifice) aux Moires, 40 drachmes. Que les descendants côté mâle sacrifient à (Zeus) Pasios et aux Moires. (155) J’ai consacré également quatre phiales en verre et un manteau [pourpre]. Pendant la [fête d’Héraclès], donner des portions aux participants à la procession.</p>
+						
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>The inscription is a paradigmatic case-study for the development of private familial cults in the early Hellenistic period; it somewhat antedates an analogous case from Halikarnassos, the cult elaborated by Poseidonios, cf. here <ref target="CGRN_104">CGRN 104</ref>. As in this other case, the documents in question have come down to us as a varied dossier of regulations. Here, we have a pillar inscribed on four sides, in three different hands, with apparently a variety of texts; this monument seems to be identical with the stele mentioned later in the inscription itself, cf. lines 135-137; this passage also intriguingly makes it clear that a further text was inscribed on the altar used in the cult. Generally speaking, it would seem that text I was inscribed first and aimed at conveying an essential number of rules in the cult. To this, shortly after, was appended a short clarification (text II). Finally, a long text was inscribed on the remaining faces (text III). However, this overall, gradual picture may well be too simplistic and it remains difficult to fully understand the complicated textual history of the documents. For instance, it is impossible to tell when corrections and erasures were made to the documents, as seems to be the case in several passages (cf. lines 4, 11-13, 51, 137); similarly, it is clear that the documents inscribed, even in one hand, may come from different sources: text I is presented in a mixture of dialects but perhaps generally in the third person (e.g. ἀνέθηκε, and imperatives or infinitives), while text III contains a comparable mixture of dialects, not to mention a variety of imperatives, second person plural forms (see lines 115 and 149), and also first-person forms that speak in the person of Diomedon himself (ἀνέθηκα, cf. lines 120 and 155); elements of text III, particularly the first- and second-person forms may seem to speak more immediately in Diomedon's voice. It thus probable that the documents were pieced together from different sources: some derived from Diomedon during his act of establishment of the cult and its rules; others were added, either by Diomedon himself (so Hallof - Bosnakis on text III) or by the family from an original document(s) produced by Diomedon; still further elements of the rules no doubt stemmed from the family itself. At any rate, the complex dossier also reflects the varied concerns of the cult and its multiple rules, presented in a rather miscellaneous fashion.</p> 
+						
+<p>The act behind the installation of the cult is defined as a consecration (ἀνέθηκε, see also below on line 1, etc.) by Diomedon, rather than a bequest in the case of Poseidonios (<ref target="CGRN_104">CGRN 104</ref>, or a testament in that of Epikteta on Thera (<ref target="CGRN_152">CGRN 152</ref>). However, as mentioned above, the first- and second-person forms found occasionally in text III may point to the idea that Diomedon originally wrote some sort of legal document, such as a testament, which was only partly quoted on the stele; cf. also the clause preventing the alienation of the consecrated property (lines 46-47). As in other cases of familial dossiers, the objective of Diomedon was to devote a certain amount of property (see lines 1-9 and further below) as a base for revenues to fund the cult; beyond slaves, this cult involved only members of the family (with specific rules for the introduction of new children, lines 51-55, as well as bastards, 146-149) and was directed at gods which were both traditional for the family (probably Heracles, Pasios, the Moirai; see Paul) and its ancestors, as well as more innovatively connected with the individual himself, Diomedon (see below esp. at lines 2 and 26). As in the case of Poseidonios, the family of Diomedon does not necessarily constitute a formalised association, but rather is referred to quite variously as τοὶ ἐγ̣ Διομέδοντος or as οἱ κατ’ ἀνδρογένειαν—the male line of descent in the family (see also Hallof - Bosnakis at line 7). Regrettably little beyond this can be said about the background or the cult elaborated by Diomedon. It is likely to have revolved around existing structures belonging to Diomedon, such as the grove or garden located perhaps outside the city of Kos (see below at lines 1-9). Intriguingly, Diomedon's father's name has perhaps been erased in line 137; figures and statues of ancestors formed on the foci for this familial cult (see at lines 20-21, 134 and 140), but nothing is known about them. For another, later example of the consecration of a cult on Kos, intended to be shared by sons of the dedicator, Pythion, see here <ref target="CGRN_162">CGRN 162</ref>; for all these comparisons and a wider discussion of Hellenistic familial cults, see Carbon and Pirenne-Delforge.</p> 
+						
+<p>Lines 1-9: If the deictic (τόδε) restored in line 1 is correct, then the stele/pillar will have been set up in the precinct of the cult, as might be otherwise expected; since the original findspot of the stele is lost, the situation of the sanctuary here remains unknown. A comparison, however, may be readily drawn with another contemporaneous inscription from Kos, <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 355 (see Hallof - Bosnakis on this text and for this comparison; also Paul). This plaque, from the deme of Haleis, announces that it defines "the sacred land and the building (οἰκία) situated on it and the groves (κᾶποι) and the buildings (οἰκίαι) in the groves which belong to the Twelve Gods and the hero Charmylos of the Charmyleis". Though very brief and of equally unknown context, this text therefore provides a unique parallel with the consecration of Diomedon. In the present case too, Diomedon also consecrated a precinct, no doubt containing land, buildings located in a grove or garden, as well as smaller buildings. Another degree of parallel may be provided by the facts that Charmylos is called a hero and was presumably worshipped as such by his familial group, the Charmyleis. In Diomedon's case too, he seems to have been worshipped probably as a hero (see below at line 26, if the restoration is correct); in line 2 (but this is strangely not repeated elsewhere), it is also apparent the worship of Heracles which he inaugurates was also closely tied with his person, in a patronymic capacity: Heracles is here called Diomedonteios, i.e. "of Diomedon's family" or "of Diomedon and his descendants". In other words, Charmylos and Diomedon both consecrated various properties to constitute a sanctuary for the cult of divine figures which included themselves and for the use of their descendants. Diomedon's documents are much more explicit and he notably also includes a slave in his consecration: called Libys, he and his descendants are liberated by this act of consecration, as long as they serve the sanctuary according to the rules. Libys' name has been inscribed in a rasura, in both lines 4 and 11, which indicates (so Hallof - Bosnakis) that he must have succeeded another slave perhaps originally designated for this task by Diomedon. On the manumission of slaves in sanctuaries, see Darmezin; Pythion's cult in Kos also includes a freed slave as a caretaker of the sanctuary, see <ref target="CGRN_162">CGRN 162</ref>.</p> 
+						
+<p>Lines 9-11: A brief clause here moves away from the discussion of the slaves to introduce the prescription that sacrifices are to be made by Diomedon's descendants in perpetuity; this is perhaps interjected since the duties of the slaves resume immediately below and the sacrificial duties of the priest are only described from line 23 onward.</p> 
+						
+<p>Lines 11-23: At least the first part and perhaps the totality of these lines were concerned with the duties of the manumitted slaves. Many gaps, including a substantial erasure, have intervened, however, making the interpretation difficult. It would seem that the slaves were to administer the renting out of the garden (perhaps also of other parts of the property, now erased?). They were to provide the income from this lease at the beginning of each year in Theudaisios (the first month of the calendar on Kos); this appropriately anticipated the sacrifices of the family in Pedageitnyos (the following month), on the 16th and 17th days (line 16; see also below at lines 59-63, etc). It is possible that the slaves were also responsible for the other duties prescribed here: providing the (clean?) beddings for the <foreign>theoxenia</foreign> performed in honour of Heracles and perhaps a female figure (καὶ τᾶι ...); as well as cleaning the portraits of the ancestors of Diomedon (every month on the 1st day? does ἐν τα]ῖ̣ς̣ νευμηνίαις belong with this duty or another?), as well as crowning them during festival occasions. On the hosting of the gods, represented by their statues seated on couches and served with a meal, see Jameson, and cf. here lines below for further discussion; cp. also here e.g. <ref target="CGRN_13">CGRN 13</ref> (Selinous), lines A13-16, and <ref target="CGRN_194">CGRN 194</ref> (Magnesia-on-the-Maiander), lines 8-9. On the periodic cleaning of statues, cf. here e.g. <ref target="CGRN_106">CGRN 106</ref> (Kalaureia), lines 12-13; on the crowning of statues, see also here <ref target="CGRN_147">CGRN 147</ref> (Kos), lines 131-135.</p> 
+						
+<p>Lines 23-41: For the standard practice of appointing the eldest male descendant as priest of the familial cult, always following "the line of male descendance", cp. here again <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), line 20, also with the commentary in Carbon and Pirenne-Delforge. Regrettably the following passage concerning the individual sacrifices to be performed by this priest is the most fragmentary of the entire dossier. What seems to be clear is that perhaps Heracles himself and Diomedon had pride of place in this series, being offered a choice of a calf (perhaps a male veal) or another animal; that Heracles and Diomedon shared an animal is possible given the earlier mention of Heracles Diomedonteios (see above on lines 1-9), but remains unique and thus somewhat uncertain. The presence of Dionysus in the pantheon of the group is interesting, but nothing else is known about it; for he-goats sacrificed to this god, see <ref target="CGRN_21">CGRN 21</ref> (Athens), lines 17-18; <ref target="CGRN_86">CGRN 86</ref> A (Kos), lines 45-46, 58-59, and <ref target="CGRN_116">CGRN 116</ref> (Lindos). The appearance of Hera in the next line is far from certain and may be doubted, since narratives refer to the exceptional character of offering goats to her (Paus. 3.15.9, see also <ref target="CGRN_23">CGRN 23</ref>, Thasos); other clauses seem to refer, if the restorations are correct, to sacrifices to other gods possessing altars in the sanctuary, as well as to Aphrodite (an equally enigmatic inclusion). For sacrificial options between two different animals which, rather than a strict prescription of the offerings, is more seldom found in ritual norms, cp. <ref target="CGRN_146">CGRN 146</ref> (calendar of Phyxa on Kos), lines 9-12. A libation ritual is discussed as well an "eating of bread" (ἀρτοφαγία); Hallof and Bosnakis attractively point to Poseidonios <title>FrGrH</title> 87 F 1, on the Herakleia celebrated in Rome: πόλει ὅταν εὐωχῶνται ἐν τῶι τοῦ ῾Ηρακλέους ἱερῶι, δειπνίζοντος τοῦ κατὰ καιρὸν θριαμβεύοντος, καὶ ἡ παρασκευὴ τῆς εὐωχίας ῾Ηρακλεωτική ἐστι. διοινοχοεῖται μὲν γὰρ οἰνόμελι, τὰ δὲ βρώματα ἄρτοι μεγάλοι καὶ καπνιστὰ κρέα ἑφθὰ καὶ τῶν προσφάτως καθιερευθέντων ὀπτὰ δαψιλῆ. In other words, Herakleia could be known as festivals of dining and drinking: the pouring of wine and honey mixture, the consumption of big breads and much roasted meat; the Herakleia of Diomedon's family may have involved feasting of a similar character, if on a larger scale. The priest is also tasked with the supply of firewood for the sacrifices, probably at his own expense; more usually, firewood was budgeted separately for a cult, cf. e.g. <ref target="CGRN_57">CGRN 57</ref> (Aixone). The perquisites of a leg and the skin are the most essential priestly prerogatives, and this is especially clearly found on Kos: <ref target="CGRN_86">CGRN 86</ref> A, lines 22, 47, 57-58, 60, 64.</p> 
+						
+<p>Lines 42-43: The term ἀποπυρίς is rare in epigraphy, but appears to designate a sort of "fry-off", especially involving fish (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v., notably citing sources from Greek comedy). Sacrifice of fish is here said to be an ancient custom (κατὰ τὰ πάτρια) for the group and at lines 62-63, it is specified that this offering (to no specified recipient) occurred on the second day of celebrations, the 17th of Pedageitnyos. It is perhaps likely that the sacrifice was for one of the major gods of the group, such as Heracles, but it might also be possible that the offering of fish was intended for the ancestors of the family; cp. the cult of Epikteta, <ref target="CGRN_152">CGRN 152</ref>, line 191,  where three little fishes are sacrificed to each pair of heroes in the cult (but not the principal goddesses of the group, the Muses).</p> 
+						
+<p>Lines 43-51: A section on the protection of the consecrated buildings follows. These are not to be alienated in any way. Repairs are to be derived from the income of the cult; this appears to be an abbreviated version of the rule which is discussed in more explicit detail at the beginning of text III, lines 69-77.</p>
+						
+<p>Lines 51-55: This rule stipulates the entrance fee to be paid for the induction of new children into the cultic family: a piglet for sacrifice, along with other complements. Cp., for instance, the rites of induction for new members in the phratry of the Demotionidai in Athens, <ref target="CGRN_74">CGRN 74</ref>.</p> 
+						
+<p>Lines 56-68 (text II): This small addendum to the regulations inscribed earlier is first concerned with the subject of the statues and dedications placed in the sanctuary: these are to be considered immovable property of the sanctuary, and particularly its οἰκία. This may have been a small temple or shrine; cp. at lines 83-84 below and see notably the regulations of the Klytidai on Chios concerning their κοινός οἶκος, <bibl type="abbr" n="LSCG">LSCG</bibl> 118. The statues are probably to be distinguished from the portraits of the ancestors, which were mentioned earlier (line 20) and called εἰκόνας; the ἀγάλματα here ought to refer to divine statues, which were notably used during the <foreign>theoxenia</foreign> ritual. Several of the dedications mentioned may be those cited further on in text III, lines 120ff. For the <foreign>xenismos</foreign> or "meal of hospitality" performed in honour of Heracles as a type of <foreign>theoxenia</foreign>, involving statues, couches on which to lay them, and a meal served for the gods, see above at lines 11-23 (and cf. also Paul, noting an attractive visual parallel, p. 113, fig. 5). Three <foreign>epimenioi</foreign> are appointed to assist in the performance of the sacrifices on the 16th and 17th of Pedageitnyos. On these officials, periodically appointed on a temporary basis (perhaps one assigned for each day of the rituals, since the 18th was also envisaged in line 93?), cf. here e.g. <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 23-24, and <ref target="CGRN_152">CGRN 152</ref> (Thera), lines 122-126, and see Carbon and Pirenne-Delforge.</p> 
+						
+<p>Lines 69-86: A passage in lines and 69-77 and 77-80 develops the idea that the proceeds derived from the sanctuary, its buildings and their potential leasing, were to be used not only to pay for repairs, but any leftover money together with a sum "extracted" (τὰ ἐξαιρήματα), perhaps from some of other source of money (i.e. an amount of capital given by Diomedon but there is no trace of this in the document). These funds were to be divide into "parts" (κατὰ μέρη), with probably one part used for each annual day of sacrifices; cp. at lines 149-153 where amounts of 40-50 drachmas are used for sacrifices to Pasios and the Moirai. A further clause seeks to protect the consecrated precinct and cult buildings by members of the family, presumably for their own purposes; the property—at least the grove or garden—was instead to be administered by the slaves (see lines 11-15 above; cf. also Hallof - Bosnakis).</p> 
+						
+<p>Lines 86-113: A male member of the family who was getting married and who did not have sufficient funds could combine his wedding celebration with the annual festival of the group. To do so, the wedding would be celebrated both during and after the rituals on the 16th-18th Pedageitnyos, which are recapitulated here with some variations: whereas above (lines 59-63), we found the <foreign>xenismos</foreign> on the 16th, and the sacrifice of fish on the 17th, here, we observe a dinner on the 16th (probably of a similar character), a distribution on the 17th, and finally a meeting of the family on the 18th. The distribution likely refers to that of portions from the sacrifice, which must be performed as customary (Paul, p. 114-115, thinks of the distribution of cash, which we find problematic: distribution of portions of meat was not incompatible with <foreign>xenismos</foreign> or <foreign>theoxenia</foreign>, quite the contrary as the passage makes clear). The man who is getting married, after having removed sufficient portions to be offered on the table for the god (presumably during the <foreign>xenismos</foreign>), can use the remaining meat for the dinner hosted for his relatives (again, <foreign>xenismos</foreign>). The priest is also to abandon his perquisites to the man, being compensated with 8 drachmas from the proceeds of the cult for the loss of a leg and the skin (see above on lines 23-41). As Hallof and Bosnakis understand the final lines of this passage, these may envisage a state of affairs posterior to Diomedon's life, where two houses in the sanctuary are now "owned" by different individuals, rather than being consecrated property (despite the rules against alienating property? see above at lines 43-51); new rules may thus have needed to be created to ensure that these buildings would be provided to the individual celebrating his marriage. Specifically, these are identified as "the men's house" and the "women's house" respectively; it should apparently be imagined that men and women congregated in separate houses in the sanctuary during the traditional feast days. For men dining separately from the women, cf. again the family of Poseidonios at Halikarnassos, <ref target="CGRN_104">CGRN 104</ref>, lines 41-42.</p> 
+						
+<p> Lines 114-159: Given the abundant restoration in lines 111-113 and the apparent change of forms here in line 115, the continuation of the text with the previous face is unclear. Lines 115-119 contain a blessing for those who take care of the cult; we often find such clauses in private cults, cf. again the dossier of Poseidonios at Halikarnassos, <ref target="CGRN_104">CGRN 104</ref>, lines 51-52. A new section in lines 120-130 defines the consecrated objects (σκευή) for Heracles alluded to in other parts of the dossier: all of these are cultic implements, such as lamps, a brazier, a table, as well as a couch (again, for the <foreign>xenismos</foreign> of the god); the bronze circular (or spherical?) object, κύκλος, mentioned last, is probably a bronze platter (so Hallof - Bosnakis); cp. also here the κύκλοι mentioned as ritual implements in the regulation of the Molpoi at Miletos, <ref target="CGRN_201">CGRN 201</ref>, line 32. For further consecrated objects, see also lines 155-157: <foreign>phialai</foreign> perhaps to be used for libation, see above on lines 33-38; a purple garment, perhaps to be worn by the priest. A more detailed rule in lines 130-140 seeks to prevent any dissolution of the commands of Diomedon, but the enforcement is not a strict sanction: rather, the descendants should come to the rescue of the sanctuary and the ancestors. The mechanism for doing this is probably described in the following lines, 141-144 (rather than these referring to the festival days, so Hallof - Bosnakis). This passage must denote the right of the <foreign>epimenioi</foreign> to convene an "emergency" assembly of the family and the cult-members: there, the best course of action would be decided upon to remedy any infractions against the group and outside parties could also be called in, at the <foreign>epimenioi</foreign>'s discretion.</p> 
+						
+<p>Lines 144-149: The first clause in these lines recapitulates the fact that <foreign>epimenioi</foreign> are only to be selected from the direct descendants of Diomedon (this was omitted in lines 63-65, though implicit). This rule is juxtaposed with one concerning bastards (νόθος); as the passage makes clear, after having undergone a judicial κρίσις by the group, these individuals could be accepted as officials members of the family. However, they were still barred from sharing in the ἱερωσύνα of the group. This word can either refer to priestly offices or priestly portions (the two senses are mutually inclusive in any case, since priestly portions are only obtained by priestly officials). The preferred interpretation is to take ἱερωσύνα here as encompassing both the priesthood of the group and the duties of <foreign>epimenioi</foreign> (see Hallof - Bosnakis, reporting the interpretation of Dittenberger); bastards were thus barred from both of these positions, which were only obtainable by a strict form of male descent. For these rules concerning bastards, see also Paul, p. 116, and Carbon - Pirenne-Delforge.</p> 
+						
+<p>Lines 149-155: This intriguing clause describes in some further detail sacrifices offered to Pasios and the Moirai. Were these perhaps already mentioned in the fragmentary lines 25-33 or were they only added here? Zeus Pasios (see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.) is a Doric form of Zeus Ktesios, the god who protects property; the Moirai are often associated with familial cults in their capacity as goddesses of the duration of human life. For further discussion of Zeus Pasios and the Moirai as elements of a traditional familial pantheon, see Paul, p. 115, and Carbon - Pirenne-Delforge (comparing notably again <ref target="CGRN_104">CGRN 104</ref>, Halikarnassos, lines 8 and 37).</p> 
+						
+<p>Lines 157-159: This final clause is equally intriguing, since it might appear to point to a large context than that of the family <foreign>stricto sensu</foreign>: participants in the procession during the Herakleia are to receive portions of meat. This might have suggested that the family of Diomedon participated in the Herakleia of the city of Kos and received portions there, but the simplest explanation is perhaps that the rule repeats in different terms what was otherwise stated and known in the cult (repetitions are in fact not unusual in the dossier: see above on lines 43-51 and 69-77): the family members made a procession during their festival (Herakleia) and those participating received portions of meat from the sacrifices.</p>
+						
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

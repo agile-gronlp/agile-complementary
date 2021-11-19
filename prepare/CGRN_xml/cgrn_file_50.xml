@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_50" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 50</idno>: <rs type="textType" key="priestly contract">Contract</rs> concerning a priesthood of Heracles held by a <foreign>genos</foreign> on Chios</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p><rs type="objectType">Stele</rs> of grey marble, with only the bottom right broken, otherwise a bit worn.</p>
+				<p><dimensions>
+					<height unit="cm">42</height>
+					<width unit="cm">32</width>
+					<depth unit="cm">16</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Non-stoichedon. </p>
+				<p>Letters <height unit="mm">15</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0350">ca. 400-350 BC</origDate></p>
+			<p><desc>Justification: lettering and non-stoichedon style (Graf).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Chios" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550497" type="external">Chios</ref></placeName>. Found either at Pyrgi or Olympi. Now in the Chios Museum (inv. no. 559).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Graf 1985">Graf 1985</bibl>: 430-431, I.Chios 5, with slight corrections.</p>
+					<p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 113; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 119.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Forrest 1963">Forrest 1963</bibl> no. 16a, with a ph.</p>
+						</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb xml:id="line_1" n="1"/>τῷ <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> τοῦ <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλέος</w></name>
+	 
+<lb xml:id="line_2" n="2"/><w lemma="δίδωμι">δίδοσθαι</w> <w lemma="ὅταν">ὅταν</w> τὸ <name type="group"><w lemma="γένος">γένος</w></name>
+	    					
+<lb xml:id="line_3" n="3"/><name type="sacrifice"><w lemma="θύω">θύῃ</w></name> <name type="portion"><w lemma="γλῶσσα">γλώσσας</w></name> καὶ <name type="portion"><w lemma="σπλάγχνον">σπλάγ
+	    				
+<lb xml:id="line_4" n="4" break="no"/>χνα</w></name> τὰ <w lemma="εἰς">εἰς</w> <name type="object"><w lemma="χείρ">χεῖρας</w></name> καὶ <name type="portion"><w lemma="μερίς">μερίδ
+	    					
+<lb xml:id="line_5" n="5" break="no"/>α</w></name> <name type="portion"><w lemma="δίκρεας">δίκρεων</w></name> καὶ τὰ <name type="portion"><w lemma="δέρμα">δέρματ<supplied reason="lost">α</supplied></w></name>·
+	    					
+<lb xml:id="line_6" n="6"/><w lemma="ἐάν">ἐὰν</w> δὲ <name type="person"><w lemma="ἰδιώτης">ἰδιώτης</w></name> <name type="sacrifice"><w lemma="θύω">θύῃ</w></name> <name type="portion"><w lemma="δίδωμι">δίδο<supplied reason="lost">σθ</supplied>
+	    					
+<lb xml:id="line_7" n="7" break="no"/>αι</w></name> τῶι <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> <name type="portion"><w lemma="γλῶσσα">γλώσσας</w></name> καὶ <name type="portion"><w lemma="σπλάγχνον"><supplied reason="lost">σπ</supplied>
+	    				
+<lb xml:id="line_8" n="8" break="no"/><supplied reason="lost">λ</supplied>άγχνα</w></name> τὰ <w lemma="εἰς">εἰς</w> <name type="object"><w lemma="χείρ">χεῖρας</w></name> κα<supplied reason="lost">ὶ</supplied> <name type="portion"><w lemma="μερίς"><supplied reason="lost">μ</supplied>
+	    					
+<lb xml:id="line_9" n="9" break="no"/>ερίδα</w></name> <name type="portion"><w lemma="δίκρεας">δίκρεων</w></name>, <name type="speechAct"><w lemma="ἐπαγγέλλω">ἐπαγγειλ<supplied reason="lost">άτω</supplied></w></name>
+	    					
+<lb xml:id="line_10" n="10"/>δὲ ὁ <name type="sacrifice"><w lemma="θύω">θύων</w></name> τῶι <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name>, <w lemma="ἐάν">ἐὰν</w> δ<supplied reason="lost">ὲ ὁ</supplied>
+	    					
+<lb xml:id="line_11" n="11"/><name type="personnel"><w lemma="ἱερεύς">ἱερεὸς</w></name> <w lemma="μή">μὴ</w> <w lemma="πάρειμι">παρῆι</w> <name type="sacrifice"><name type="personnel"><w lemma="προϊερατεύω">προιερη<supplied reason="lost">τευ</supplied>
+	    					
+<lb xml:id="line_12" n="12" break="no"/>έτω</w></name></name> <w lemma="τις">τις</w> ὧν αἱ <name type="object"><w lemma="λόγχη">λόγχαι</w></name> <w lemma="εἰμί">εἰσ<supplied reason="lost">ίν</supplied></w><supplied reason="lost">, τὰ</supplied>
+	    					
+<lb xml:id="line_13" n="13"/>δὲ <name type="portion"><w lemma="γίγνομαι">γινόμενα</w></name> <name type="portion"><w lemma="ἀποδίδωμι">ἀποδιδόν<supplied reason="lost">αι</supplied></w></name> <supplied reason="lost">τὸ</supplied>
+	    					
+<lb xml:id="line_14" n="14" break="no"/>ν <name type="sacrifice"><w lemma="θύω"><unclear>θ</unclear>ύοντα</w></name> τῶι <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name>· <name type="portion"><w lemma="γίγνομαι">γίνεσ<supplied reason="lost">θαι</supplied></w></name>
+	    					
+<lb xml:id="line_15" n="15"/>δὲ καὶ τοῖς <w lemma="ἄλλος">ἄλλοις</w> <name type="personnel"><w lemma="ἱερεύς">ἱερ<unclear>ε</unclear><supplied reason="lost">ο̑σι</supplied></w></name> <w lemma="ὅσος"><supplied reason="lost">ὅ</supplied></w>	
+	    					
+<lb xml:id="line_16" n="16" break="no"/>σοι <name type="personnel"><w lemma="ἱερητεία">ἱερητείας</w></name> <w lemma="ὠνέομαι">ἐώνη<unclear>ν</unclear><supplied reason="lost">ται</supplied></w> <w lemma="πᾶς"><supplied reason="lost">πάντ</supplied>
+	    					
+<lb xml:id="line_17" n="17" break="no"/>α</w> <w lemma="αὐτός">ταὀτά</w>. <space quantity="12" unit="character" precision="low"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						To the priest of Heracles is to be given, whenever the <foreign>genos</foreign> sacrifices: tongues, the entrails which (are placed) in the hands (of the statue), a double portion (5) of meat, and the skins. If an individual sacrifices, to the priest of Heracles is to be given: tongues, the entrails which (are placed) in the hands (of the statue) and a double portion of meat. The one sacrificing is to call out (10) to the priest, and if the priest is not present, one of those assigned by lot is to act as deputy-priest. But the one sacrificing should (nevertheless) give the proceeds (i.e. the perquisites) to the priest. (15) All of the same things are to apply to the other priests who purchase a priesthood.
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+						Au prêtre d'Héraclès, on donnera, lorsque le <foreign>genos</foreign> sacrifie : les langues, les viscères qui (sont placés) dans les mains (de la statue), une double part de viande, (5) et les peaux. Si un individu sacrifie, on donnera au prêtre d'Héraclès : les langues, les viscères qui (sont placés) dans les mains (de la statue), et une double part de viande. Celui qui sacrifie doit appeller (10) le prêtre, et si le prêtre n'est pas présent, un de ceux qui ont été tirés au sort servira de prêtre à sa place. Mais celui qui sacrifie devra (néanmoins) donner les (parts d'honneurs) obtenues au prêtre. (15) Toutes ces consignes s'appliqueront aux autres prêtres qui achètent une prêtrise.
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						<p>At first glance, the inscription seems to be regulation concerning the sacrificial perquisites of the priest of Heracles (lines 1-9). However, the concluding clause (lines 14-17) indicates that the regulation is also to apply to "other priests who purchase a priesthood": this would therefore suggest that the regulation is derived from a sale of priesthood, since the priesthood of Heracles must also have been sold like "the other priests". Sales of priesthoods are indeed extremely common on Chios, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_37/">CGRN 37</ref> for an early example. It seems probable that the regulation is a summary or an abbreviated version of the full contract of the priest: cp. <ref target="http://cgrn.ulg.ac.be/CGRN_36/">CGRN 36</ref> (also from Chios and perhaps also belonging to a subcivic group). For a possible "general regulation" concerning sales of priesthoods at Miletos, compare <ref target="http://cgrn.ulg.ac.be/CGRN_39/">CGRN 39</ref>.</p>
+						
+						<p>Only a little is known about the precise context of the inscription. It is clear that the inscription comes from the southwest of the island of Chios and thus concerns a local cult of Heracles. The mention of a <foreign>genos</foreign> at the beginning of the text (line 2) points to a plausible background for the inscription: we are dealing with a cult controlled by a subcivic group (the <foreign>genos</foreign>) and located somewhere in the countryside of the island. The <foreign>genos</foreign> also controlled other cults, as attested by the mention of "other priests" (lines 14-17).</p>
+	
+						<p>Lines 1-9: The text presents two primary alternatives of sacrifice: those made by the <foreign>genos</foreign>, and others made by private individuals. In each case, the two sets of perquisites are identical, except for the absence of skins and hides from private sacrifices. This was normally the case in many Greek cults. In the case of official sacrifices made by the <foreign>genos</foreign>, the priest will have been compensated more generously with these skins. Individuals offering a sacrifice were often expected to retain the valuable skin for themselves (cp. <ref target="http://cgrn.ulg.ac.be/CGRN_39/">CGRN 39</ref>, Miletos, lines 14-15, and <ref target="http://cgrn.ulg.ac.be/CGRN_118/">CGRN 118</ref>, Halikarnassos, lines 9-14). For tongues as priestly portions and their prevalence on Chios, cp. <ref target="http://cgrn.ulg.ac.be/CGRN_41/">CGRN 41</ref>, line 9. For portions of the entrails placed "in the hands", i.e. in the hands of the statue of the god or goddess, also a phrase found particularly on Chios, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_36/">CGRN 36</ref>, lines 4-6, <ref target="http://cgrn.ulg.ac.be/CGRN_49/">CGRN 49</ref>, lines 5-7, <ref target="http://cgrn.ulg.ac.be/CGRN_66/">CGRN 66</ref>, lines 3-4, and <ref target="http://cgrn.ulg.ac.be/CGRN_88/">CGRN 88</ref>, lines 2-3. For the tongue and its prevalence as a priestly portion on Chios, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_41/">CGRN 41</ref>, lines 11-12. For double portions of meat given to priests on Chios, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_49/">CGRN 49</ref>, line 7, and <ref target="http://cgrn.ulg.ac.be/CGRN_66/">CGRN 66</ref>, line 6-7. </p>
+						
+						<p>Lines 9-12: The priest was not always expected to be present: a worshipper must call out to him or choose a surrogate official from a group of candidates that had apparently been pre-selected by lot (lines 9-12). The phrase used here is fairly vague, so it remains unclear who exactly is to replace the priest when he is absent, but the procedure of lot-drawing indicates a concern that this should not be simply any individual but a divinely selected one. Contrast two other regulations envisaging non-presence of the priest at other rural sanctuaries: both in <ref target="http://cgrn.ulg.ac.be/CGRN_36/">CGRN 36</ref> (Chios), lines 7-11 and in <ref target="CGRN_75">CGRN 75</ref> (Oropos), lines 25-28, the worshipper should simply perform the sacrificial ritual and pray himself; cp. also the rule at the Asklepieion of Lissos that 'whoever wishes can sacrifice' (<ref target="CGRN_128">CGRN 128</ref>, line 3). The verb προϊερατεύω or προϊεράομαι is used in <ref target="http://cgrn.ulg.ac.be/CGRN_41/">CGRN 41</ref> (Chios), line 5, and <ref target="http://cgrn.ulg.ac.be/CGRN_100/">CGRN 100</ref> (Miletos), line 6, to indicate who could officiate for a foreigner (respectively the priest and any citizen); in an enigmatic phrase at <ref target="http://cgrn.ulg.ac.be/CGRN_138/">CGRN 138</ref> (Miletos), an individual who wanted to sacrifice is asked to choose an officiant from two available priests (perhaps a male priest and a female priestess?): [πρ]οϊεράσθω ὁπότερον ἂν βούληται ὁ θύων (line 6).</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

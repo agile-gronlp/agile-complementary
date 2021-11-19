@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_147" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 147</idno>: <rs type="textType" key="priestly contract">Contract</rs> of sale for the priesthood of Hermes Enagonios on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Stéphanie Paul</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Opistographic <rs type="objectType">stele</rs> of white marble with a <foreign>kymation</foreign>, broken at the bottom corners.</p>
+	<p><dimensions>
+	<height unit="cm">127</height>
+	<width unit="cm">43-47</width>
+	<depth unit="cm">8-10</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p>The stele has been inscribed on the front and on the back. Side A ends with a <foreign>vacat</foreign> of 47 cm (?) but the text continues directly on side B. Side B is more badly damaged but its beginning and conclusion are preserved.</p>
+			<p>Letters: <height unit="cm">0.4-0.7</height>. Space between lines: <height unit="cm">0.3</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0250" notAfter="-0200">ca. 250-200 BC</origDate></p>
+
+							<p><desc>Justification: lettering and prosopography (Crowther). </desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found in the town near the church of Haghia Anna, not far from the gymnasium and the stadium. Now in the new store (inv. no. E 381).</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 298. The opisthographic sides appear to be more or less fully preserved, and thus the lines are numbered continuously here (lines 1-89 are on face A; lines 90- 154 on face B).</p>
+	    			<p> Other editions:
+	    				Segre <bibl type="abbr" n="I.Cos">I.Cos</bibl> ED 145 (line 1-82);
+	    				<bibl type="author_date" n="Parker - Obbink 2001">Parker - Obbink 2001</bibl>: 254-256 no. 6 (lines 69-90).	</p>
+
+	    			<p> Cf. also:
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 51, 1062; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20298" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>;
+	<bibl type="author_date" n="Gauthier 1995">Gauthier 1995</bibl>;
+	    				<bibl type="author_date" n="Wiemer 2003">Wiemer 2003</bibl>;
+	    				<bibl type="author_date" n="Crowther 2004">Crowther 2004</bibl>: 25 and 27;
+	    				Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 14;
+	    				<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 130-136 and 340-344; <bibl type="author_date" n="Carbon 2017">Carbon 2017</bibl>.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab subtype="Face" n="A">Face A
+
+<lb xml:id="line_1" n="1"/> <w lemma="ἀγαθός">ἀγαθᾶι</w> <w lemma="τύχη">τύχαι</w>· <w lemma="ὅδε">τάδε</w> <w lemma="διαγράφω">διέγραψαν</w> τοὶ <w lemma="αἱρέω">αἱρεθέντες</w> <w lemma="ὑπέρ">ὑπὲρ</w>
+
+<lb xml:id="line_2" n="2"/> τᾶς <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύνας</w></name> τοῦ <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶ</w></name> τοῦ <name type="epithet" key="Enagonios"><w lemma="ἐναγώνιος">Ἐναγωνίου</w></name>, Ἵππαρχος
+
+<lb xml:id="line_3" n="3"/> Νικολόχου, Ἀνδροσθένης Ἀλθαιμένευς, Χαρίδαμος Διο
+
+<lb xml:id="line_4" n="4" break="no"/>φάντου· <space quantity="1" unit="character"/> ὁ <w lemma="πρίαμαι">πριάμενος</w> τὰν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύναν</w></name> τοῦ <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶ</w></name> τοῦ <name type="epithet" key="Enagonios"><w lemma="ἐναγώνιος">Ἐνα
+
+<lb xml:id="line_5" n="5" break="no"/>γωνίου</w></name> <w lemma="εἰμί">ἔστω</w> <w lemma="ὑγιής">ὑγιὴς</w> καὶ <w lemma="ὁλόκληρος">ὁλόκλαρος</w> καὶ <name type="personnel"><w lemma="ἱερόω">ἱερώσθω</w></name> <w lemma="ἐπί">ἐπὶ</w> <w lemma="βίος">βίου</w>· ὁ <w lemma="πρίαμαι">πρι
+
+<lb xml:id="line_6" n="6" break="no"/>άμενος</w> τὰν <name type="personnel"><w lemma="ἱερατεία">ἱερατείαν</w></name> <w lemma="ἀτελής">ἀτελὴς</w> <w lemma="εἰμί">ἔστω</w> <w lemma="στρατεία">στρατείας</w> <w lemma="ὑπερόριος">ὑπερορί
+
+<lb xml:id="line_7" n="7" break="no"/> ου</w>, <w lemma="ἱπποτροφία">ἱπποτροφίας</w>,<w lemma="τριηραρχία">τριηραρχίας</w>, <w lemma="χορηγία">χοραγιᾶν</w>, <w lemma="λαμπαδαρχία"><supplied reason="omitted">λ</supplied>αμπαδαρχίας</w>,
+
+<lb xml:id="line_8" n="8"/> καὶ τᾶν <w lemma="ἄλλος">ἀλλᾶν</w> <w lemma="λειτουργία">λειτου<unclear>ρ</unclear>γιᾶν</w> <w lemma="πᾶς">πασᾶν</w>· <name type="liquid"><name type="sacrifice"><w lemma="σπένδω">σπενδέτω</w></name></name> δὲ καὶ <w lemma="ἐν">ἐν</w>
+
+<lb xml:id="line_9" n="9"/> τοῖς <w lemma="ἀγών">ἀγῶσιν</w>, καὶ <w lemma="ἐν">ἐμ</w> <w lemma="προεδρία">προεδρίαι</w> <w lemma="καθίζω">καθήσθω</w> <w lemma="καθά">καθὰ</w> καὶ τοὶ <w lemma="ἄλλος">ἄλλοι</w> <name type="personnel"><w lemma="ἱερεύς">ἱε
+
+<lb xml:id="line_10" n="10" break="no"/><unclear>ρ</unclear>εῖς</w></name>· <name type="sacrifice"><w lemma="ἐπιτίθημι">ἐπιτιθέτω</w></name> δὲ καὶ τὰ <name type="animal" key="generic"><w lemma="ἱερός">ἱερὰ</w></name> <w lemma="ἐπί">ἐπὶ</w> τὸμ <name type="structure"><w lemma="βωμός">βωμὸν</w></name> <w lemma="πᾶς">πᾶσι</w> τοῖς <name type="sacrifice"><w lemma="θύω">θύ
+
+<lb xml:id="line_11" n="11" break="no"/>ουσι</w></name> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεύς</w></name>· <name type="portion"><w lemma="γέρας">γέρη</w></name> δὲ <w lemma="λαμβάνω">λαμβανέτω</w> τῶν <name type="sacrifice"><w lemma="θύω">θυομένων</w></name> τῶι
+
+<lb xml:id="line_12" n="12"/> <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶι</w></name> τῶι <name type="epithet" key="Enagonios"><w lemma="ἐναγώνιος">Ἐναγωνίωι</w></name> <name type="portion"><w lemma="δέρμα">δέρμα</w></name> καὶ <name type="portion"><w lemma="σκέλος">σκέλος</w></name>· ὁ <name type="title"><w lemma="μόναρχος">μόναρχος</w></name> ὁ <w lemma="γίγνομαι">γε
+
+<lb xml:id="line_13" n="13" break="no"/>νόμενος</w> <w lemma="μετά">μετὰ</w> Μενοίτιον καὶ τοὶ <name type="personnel"><w lemma="ἱεροποιός">ἱεροπο<supplied reason="omitted">ι</supplied>οὶ</w></name> καὶ τοὶ <w lemma="ἄλλος">ἄλλοι</w> τοὶ
+
+<lb xml:id="line_14" n="14"/> <w lemma="ἀεί">ἀεὶ</w> <w lemma="γίγνομαι">γινό<del rend="erasure"><gap reason="lost" quantity="2" unit="character"/></del>μενοι</w> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="ἀργύριον">ἀργυρίου</w> τοῦ <w lemma="διατάσσω">διατεταγμένου</w>
+
+<lb xml:id="line_15" n="15"/> <w lemma="αὐτός">αὐτοῖς</w> <w lemma="εἰς">ἐς</w> τὰς <w lemma="κατά">κατὰ</w> <name type="month"><w lemma="μείς">μῆνα</w></name> <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> <w lemma="ἐν">ἐμ</w> μὲν τοῖς <w lemma="ἄλλος">ἄλ
+
+<lb xml:id="line_16" n="16" break="no"/>λοις</w> <name type="month"><w lemma="μείς">μ<supplied reason="omitted">η</supplied>σὶ</w></name> <w lemma="τετράς">τετράδι</w> <w lemma="ἵστημι">ἱσταμένου</w>, τοῦ δὲ <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίου</w></name> τᾶι <w lemma="δεύτερος">δευτέ
+
+<lb xml:id="line_17" n="17" break="no"/>ραι</w> καὶ τοῦ <name type="month"><w lemma="Ἄλσειος">Ἀλσείου</w></name> τᾶι <w lemma="δέκατος">δεκάται</w>, <w lemma="ἕκαστος">ἑκάστου</w> <name type="month"><w lemma="μείς">μηνὸς</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <name type="gender"><w lemma="ἄρσην">ἄρσε
+
+<lb xml:id="line_18" n="18" break="no"/>να</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσονος</w> <w lemma="ἄξιος">ἄξιον</w> <w lemma="δραχμή">δραχμᾶν</w> <num value="30">ΔΔ<supplied reason="omitted">Δ</supplied></num>· ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> <w lemma="ἐπί">ἐπὶ</w> <w lemma="πᾶς">πᾶ
+
+<lb xml:id="line_19" n="19" break="no"/>σαν</w> τὰν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> <w lemma="ὅς">ἃν</w> <name type="sacrifice"><w lemma="θύω">θύει</w></name> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶι</w></name> <w lemma="εἷ">εἷ</w> ὁ <name type="title"><w lemma="μόναρχος">μόναρχος</w></name> καὶ τοὶ <name type="personnel"><w lemma="ἱεροποιός">ἱερο
+
+<lb xml:id="line_20" n="20" break="no"/>ποιοὶ</w></name> <w lemma="συμπομπεύω">συμπομπευέτω</w>· ὁ <name type="personnel"><w lemma="ἀγωνοθέτης">ἀγωνοθέτας</w></name> <name type="sacrifice"><w lemma="θύω">θυέτω</w></name> <name type="authority"><w lemma="καθά">καθὰ</w> καὶ <w lemma="πρότερος">πρότε
+
+<lb xml:id="line_21" n="21" break="no"/>ρον</w></name> <w lemma="ἐν">ἐν</w> ταῖς <w lemma="τρεῖς">τρισὶ</w> <w lemma="προλαμπάς">προλαμπάσι</w> ταῖς <w lemma="πρότερος">πράταις</w>, <name type="month"><w lemma="Δήλιος">Δαλίου</w></name> <w lemma="δέκατος">δεκά
+
+<lb xml:id="line_22" n="22" break="no"/>ται</w>, <w lemma="ἑκκαιδέκατος">ἑκκαιδεκάται</w>, <w lemma="εἰκάς">ἰκάδι</w>, <w lemma="ἐν">ἐν</w> <w lemma="ἕκαστος">ἑκάσται</w> <w lemma="προλαμπάς">προλαμπάδι</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name>
+
+<lb xml:id="line_23" n="23"/> <name type="age"><w lemma="τέλειος">τέλευν</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσονος</w> <w lemma="ἄξιος">ἄξιον</w> τοῦ <w lemma="γράφω">γεγραμ<supplied reason="omitted">μ</supplied>ένου</w> <w lemma="ἐν">ἐν</w> τῶι <name type="authority"><w lemma="νόμος">νό
+
+<lb xml:id="line_24" n="24" break="no"/>μωι</w></name> <w lemma="δραχμή">δραχμᾶν</w> <num value="60">U+10144Δ</num>· <space quantity="1" unit="character"/> <name type="sacrifice"><w lemma="θύω">θυέτω</w></name> δὲ καὶ <w lemma="ἐν">ἐν</w> τᾶι <w lemma="λαμπάς">λαμπάδι</w> τοῦ <w lemma="μείς">μη
+
+<lb xml:id="line_25" n="25" break="no"/>νὸς</w> τοῦ <name type="month"><w lemma="Ἄλσειος">Ἀλσείου</w></name> τᾶι <w lemma="δέκατος">δεκάται</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <w lemma="πρός">ποτὶ</w> τὸ <w lemma="αὐτός">αὐτὸ</w> <w lemma="πλῆθος">πλῆ
+
+<lb xml:id="line_26" n="26" break="no"/>θος</w> τοῦ <w lemma="ἔκκειμαι">ἐκκειμένου</w> <w lemma="ἀργύριον">ἀργυρίου</w>, <name type="authority"><w lemma="καθά">καθὰ</w> καὶ <w lemma="πρότερος">πρότερον</w></name>· τοὶ <name type="personnel"><w lemma="λαμπαδάρχης">λαμ
+
+<lb xml:id="line_27" n="27" break="no"/>πάδαρχοι</w></name> <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶι</w></name> ταῖς <w lemma="τρεῖς">τρισὶ</w> <w lemma="προλαμπάς">προλαμπάσι</w> <w lemma="ἕκτος">ἕκται</w> <w lemma="ἄπειμι">ἀπι
+
+<lb xml:id="line_28" n="28" break="no"/>όντος</w> <name type="month"><w lemma="Δήλιος">Δαλίου</w></name>, καὶ <w lemma="νουμηνία">νευμηνίαι</w> <name type="month"><w lemma="Ἄλσειος">Ἀλσείου</w></name>, <w lemma="ἕκτος">ἕκται</w> <w lemma="ἵστημι">ἱσταμένου</w>, <w lemma="ἕκαστος">ἕκασ
+
+<lb xml:id="line_29" n="29" break="no"/>τος</w> <w lemma="ἐν">ἐν</w> <w lemma="ἕκαστος">ἑκάσται</w> <w lemma="προλαμπάς">προλαμ<surplus>ι</surplus>πάδι</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλευν</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσο
+
+<lb xml:id="line_30" n="30" break="no"/>νος</w> <w lemma="ἄξιος">ἄξιον</w> <w lemma="δραχμή">δραχμᾶν</w> <num value="60">U+10144Δ</num>· <space quantity="1" unit="character"/>  <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> δὲ καὶ τᾶι <w lemma="τετράς">τετράδι</w> τοῦ
+
+<lb xml:id="line_31" n="31"/> <name type="month"><w lemma="Ἄλσειος">Ἀλσείου</w></name> <w lemma="πρό">πρὸ</w> τοῦ τὰν <w lemma="ἔρις">ἔριν</w> τᾶς <w lemma="λαμπάς">λαμπάδος</w> <w lemma="γίγνομαι">γίνεσθαι</w> καὶ τᾶι <w lemma="δέκατος">δεκά
+
+<lb xml:id="line_32" n="32" break="no"/> ται</w> <w lemma="ἐπί">ἐπὶ</w> τᾶι <w lemma="λαμπάς">λαμπάδι</w>, <w lemma="ἐν">ἐν</w> <w lemma="ἑκάτερος">ἑκατέραι</w> <w lemma="ἡμέρα">ἁμέραι</w> <w lemma="ἕκαστος">ἕκαστος</w> τῶν <name type="personnel"><w lemma="λαμπαδάρχης">λαμπα
+
+<lb xml:id="line_33" n="33" break="no"/> δάρχων</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσονος</w> <w lemma="ἄξιος">ἄξιον</w> <w lemma="δραχμή">δραχμᾶν</w> <num value="40">ΔΔΔΔ</num>· τῶν
+
+<lb xml:id="line_34" n="34"/> <name type="personnel"><w lemma="λαμπαδάρχης">λαμπαδάρχων</w></name> ὁ <w lemma="νικάω">νικάσας</w> <w lemma="εὐεξία">εὐεξίαι</w> <w lemma="ἤ">ἢ</w> <w lemma="δρόμος">δρόμωι</w> <name type="sacrifice"><w lemma="θύω">θυέτω</w></name> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="νικητήριος">νικα
+
+<lb xml:id="line_35" n="35" break="no"/>τηρίου</w> τοῦ <w lemma="ἔκκειμαι">ἐκκειμένου</w> <w lemma="ἐν">ἐν</w> τῶι <name type="authority"><w lemma="νόμος">νόμωι</w></name> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶι</w></name> <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="ἑκάτερος">ἑκατέ
+
+<lb xml:id="line_36" n="36" break="no"/>ρας</w> <w lemma="νίκη">νίκας</w> <w lemma="μετά">μετὰ</w> τὰν <w lemma="αὔριον">αὔριον</w> τᾶς <w lemma="λαμπάς">λαμπάδος</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέ
+
+<lb xml:id="line_37" n="37" break="no"/>λευν</w></name> <w lemma="ἀπό">ἀπὸ</w> <w lemma="δραχμή">δραχμᾶν</w> <num value="30">ΔΔΔ</num>· ὁ <name type="personnel"><w lemma="γυμνασίαρχος">γυμνασίαρχος</w></name> <w lemma="ὅς">ὅς</w> <w lemma="κα">κα</w> <w lemma="ἄρχω">ἄρχηι</w>
+
+<lb xml:id="line_38" n="38"/> <w lemma="μετά">μετὰ</w> <name type="personnel"><w lemma="μόναρχος">μόναρχον</w></name> Μενοίτιον καὶ τοὶ <w lemma="ἄλλος">ἄλλοι</w> τοὶ <w lemma="ἀεί">ἀεὶ</w> <w lemma="γίγνομαι">γινόμε
+
+<lb xml:id="line_39" n="39" break="no"/>νοι</w> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="ἀργύριον">ἀργυρίου</w> τοῦ <w lemma="δίδωμι">διδομένου</w> <w lemma="αὐτός">αὐτοῖς</w> <w lemma="εἰς">ἐς</w> τὰς <w lemma="διατόξευσις">διατοξεύ
+
+<lb xml:id="line_40" n="40" break="no"/>σεις</w> καὶ <w lemma="διακοντισία">διακοντισίας</w> <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> τᾶς μὲν <w lemma="χειμερινός">χειμερινᾶς</w> <w lemma="ἑξάμηνος">ἑξαμήνου</w>
+
+<lb xml:id="line_41" n="41"/> <name type="month"><w lemma="θεοδαίσια">Θευδαισίου</w></name>, <name type="month"><w lemma="Κηφίσιος">Καφισίου</w></name>, <name type="month"><w lemma="Γεράστιος">Γεραστίου</w></name>, τᾶς δὲ <w lemma="θερινός">θερινᾶς</w> <name type="month"><w lemma="Ἀγριάνιος">Ἀγριανίου</w></name>, <name type="month"><w lemma="Πάναμος">Πανά
+
+<lb xml:id="line_42" n="42" break="no"/>μου</w></name>, <name type="month"><w lemma="Ἄλσειος">Ἀλσείου</w></name>, <w lemma="ἕκαστος">ἑκάστου</w> <name type="month"><w lemma="μείς">μηνὸς</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσονος</w> <w lemma="ἄξιος">ἄξιον</w>
+
+<lb xml:id="line_43" n="43"/> <w lemma="δραχμή">δραχμᾶν</w> <space quantity="1" unit="character"/> <num value="25">ΔΔΓ</num>· <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> δὲ καὶ <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="δίδωμι">διδομένου</w> <w lemma="αὐτός">αὐτοῖς</w> <w lemma="εἰς">εἰς</w> τὰς
+
+<lb xml:id="line_44" n="44"/> <w lemma="διαδρομή">διαδρομὰς</w> τοῦ <name type="month"><w lemma="Ἀρτεμίσιος">Ἀρταμιτίου</w></name> καὶ τοῦ <name type="month"><w lemma="Ἀγριάνιος">Ἀγριανίου</w></name> <w lemma="ἐν">ἐν</w> <w lemma="ἑκάτερος">ἑκατέρωι</w> <name type="month"><w lemma="μείς">μηνὶ</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱε
+
+<lb xml:id="line_45" n="45" break="no"/>ρεῖον</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσονος</w> <w lemma="ἄξιος">ἄξιον</w> <w lemma="δραχμή">δραχμᾶν</w> <num value="50">U+10144</num>· <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> δὲ καὶ τοῦ <name type="month"><w lemma="μείς">μηνὸς</w></name>
+
+<lb xml:id="line_46" n="46"/> τοῦ <name type="month"><w lemma="Ἄλσειος">Ἀλσείου</w></name> τᾶι <w lemma="δέκατος">δεκάται</w> <name type="authority"><w lemma="καθά">καθὰ</w> καὶ <w lemma="πρότερος">πρότερον</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσονος</w>
+
+<lb xml:id="line_47" n="47"/> <w lemma="ἄξιος">ἄξιον</w> τοῦ <w lemma="ἐν">ἐν</w> τῶι <name type="authority"><w lemma="νόμος">νόμωι</w></name> <w lemma="γράφω">γεγραμμένου</w> <w lemma="δραχμή">δραχμᾶν</w> <num value="60">U+10144Δ</num>·  ὁ <name type="personnel"><w lemma="παιδονόμος">παιδο
+
+<lb xml:id="line_48" n="48" break="no"/>νόμος</w></name> <w lemma="ὅς">ὅς</w> <w lemma="κα">κα</w> <w lemma="ἄρχω">ἄρχηι</w> <w lemma="μετά">μετὰ</w> <name type="personnel"><w lemma="μόναρχος">μόναρχον</w></name> Μενοίτιον καὶ τοὶ <w lemma="ἀεί">ἀεὶ</w> <w lemma="γίγνομαι">γινό
+
+<lb xml:id="line_49" n="49" break="no"/>μενοι</w> <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> τοῦ <name type="month"><w lemma="μείς">μηνὸς</w></name> τοῦ <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίου</w></name> τᾶι <w lemma="δεύτερος">δευτέραι</w> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρ
+
+<lb xml:id="line_50" n="50" break="no"/>μᾶι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλευν</w></name> <w lemma="ἀπό">ἀπὸ</w> <w lemma="δραχμή">δραχμᾶν</w> <space quantity="1" unit="character"/> <num value="60">U+10144Δ</num>·  τοὶ δὲ <w lemma="ταμίας">ταμίαι</w> <w lemma="δίδωμι">διδόν
+
+<lb xml:id="line_51" n="51" break="no"/>τω</w> <w lemma="αὐτός">αὐτοῖς</w> τὸ <name type="authority"><w lemma="τάσσω">τεταγμένον</w></name>· <space quantity="1" unit="character"/> τοῦ <name type="month"><w lemma="μείς">μηνὸς</w></name> τοῦ <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίου</w></name> τᾶι
+
+<lb xml:id="line_52" n="52"/> <w lemma="δεύτερος">δευτέραι</w> <w lemma="μετά">μετὰ</w> τὸ <w lemma="συντελέω">συντελεσθῆμεν</w> τὸν <w lemma="μακρός">μακρὸν</w> <w lemma="δρόμος">δρόμον</w> <w lemma="γίγνομαι">γίνεσ
+
+<lb xml:id="line_53" n="53" break="no"/>θαι</w> <w lemma="λαμπάς">λαμπάδα</w> <w lemma="παῖς">παίδων</w> <w lemma="πρίν">πρὶν</w> <w lemma="ἤ">ἢ</w> τὰς <w lemma="πομπή">πομπὰς</w> <w lemma="ἀποστέλλω">ἀποστέλλεσθαι</w>· ὁ δὲ <name type="personnel"><w lemma="παιδονόμος">παι
+
+<lb xml:id="line_54" n="54" break="no"/>δονόμος</w></name> <w lemma="μετά">μετὰ</w> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name> τοῦ <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶ</w></name> καὶ τοῦ <name type="personnel"><w lemma="ἀγωνοθέτης">ἀγωνοθέτα</w></name> <w lemma="καταλέγω">καταλε
+
+<lb xml:id="line_55" n="55" break="no"/>ξάτω</w> <w lemma="παῖς">παῖδας</w> <w lemma="ἐκ">ἐκ</w> τῶν <w lemma="παραβάλλω">παραβαλλόντων</w> <w lemma="εἰς">ἐς</w> τὰς <w lemma="παλαίστρα">παλαίστρας</w>, τὸν
+
+<lb xml:id="line_56" n="56"/> <w lemma="ἴσος">ἴσον</w> <w lemma="ἀριθμός">ἀριθμὸν</w> <w lemma="ὅς">ὃς</w> καὶ <w lemma="ἐπί">ἐπὶ</w> τῶν <w lemma="τρέχω">τρεχόντων</w> τᾶι <w lemma="δέκατος">δεκάται</w> τοῦ <name type="month"><w lemma="Ἄλσειος">Ἀλσείου</w></name> <w lemma="ἐν">ἐν</w>
+
+<lb xml:id="line_57" n="57"/> τῶι <name type="authority"><w lemma="νόμος">νόμωι</w></name> <w lemma="γράφω">γέγραπται</w>· <w lemma="ἀλείφω">ἀλειφέσθων</w> δὲ <w lemma="ἐπεί">ἐπεί</w> <w lemma="κα">κα</w> <w lemma="μέλλω">μέλλοντι</w> <w lemma="τρέχω">τρέχεν</w> <del rend="erasure">Α</del>
+
+<lb xml:id="line_58" n="58"/> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="ἔλαιος">ἐλαίου</w> τοῦ <w lemma="ἐκτίθημι">ἐκτιθεμένου</w> <w lemma="ὑπό">ὑπὸ</w> τοῦ <name type="personnel"><w lemma="γυμνασίαρχος">γυμνασιάρχου</w></name>· τοῦ
+
+<lb xml:id="line_59" n="59"/> δὲ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείου</w></name> <w lemma="ὅς">οὗ</w> <name type="sacrifice"><w lemma="θύω">θύει</w></name> ὁ <name type="personnel"><w lemma="παιδονόμος">παιδονόμος</w></name> τᾶι <w lemma="δεύτερος">δευτέραι</w> τοῦ <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίου</w></name> τῶι
+
+<lb xml:id="line_60" n="60"/> <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶι</w></name> τὰ μὲν <w lemma="ἄλλος">ἄλλα</w> <name type="portion"><w lemma="κρέας">κρέα</w></name> <name type="portion"><w lemma="διανέμω">διανειμάτω</w></name> τοῖς <w lemma="τρέχω">δραμοῦσι</w> τὰν
+
+<lb xml:id="line_61" n="61"/> <w lemma="λαμπάς">λαμπάδα</w>, τὸ δὲ <w lemma="εὐώνυμος">εὐώνυμον</w> <name type="portion"><w lemma="σκέλος">σκέλος</w></name> <w lemma="δίδωμι"><add place="overstrike">διδότω</add></w> <w lemma="ἆθλον"><add place="overstrike">ἆθλον</add></w> <add place="overstrike">τῶι</add> <w lemma="νικάω"><add place="overstrike">νικάσαν</add>
+
+<lb xml:id="line_62" n="62" break="no"/>τι</w> τὰμ <w lemma="πρότερος">πράταν</w>·  αἰ δέ <w lemma="κα">κά</w> <w lemma="τις">τινες</w> <w lemma="ἐρίζω">ἐρίζωντι</w> <w lemma="ὑπέρ">ὑπὲρ</w> τᾶς <w lemma="πρότερος">πράτας</w>
+
+<lb xml:id="line_63" n="63"/> <w lemma="γίγνομαι">γίνεσθαι</w> καὶ <w lemma="ἐπί">ἐπὶ</w> <w lemma="οὗτος">τούτων</w> τὰν <w lemma="διαδρομή">διαδρομὰν</w> <w lemma="κατά">κατὰ</w> <w lemma="οὗτος">ταὐτὰ</w> <w lemma="καθά">καθὰ</w> καὶ <w lemma="ἐπί">ἐπὶ</w>
+
+<lb xml:id="line_64" n="64"/> τῶν τᾶι <w lemma="τετράς">τετράδι</w> τοῦ <name type="month"><w lemma="Ἄλσειος">Ἀλσείου</w></name> <w lemma="ἐρίζω">ἐριζόντων</w> <w lemma="ἐν">ἐν</w> τῶι <name type="authority"><w lemma="νόμος">νόμωι</w></name> <w lemma="γράφω">γέγραπται</w>·
+
+<lb xml:id="line_65" n="65"/> ὁ <name type="personnel"><w lemma="παιδονόμος">παιδονόμος</w></name> τᾶι <w lemma="δέκατος">δεκάται</w> τοῦ <name type="month"><w lemma="Ἄλσειος">Ἀλσείου</w></name> <name type="sacrifice"><w lemma="θύω">θυέτω</w></name> <w lemma="ἐν">ἐν</w> τᾶι <w lemma="λαμπάς">λαμπάδι</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱε
+
+<lb xml:id="line_66" n="66" break="no"/>ρεῖον</w></name> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶι</w></name> <w lemma="καθά">καθὰ</w> <w lemma="ἐν">ἐν</w> τῶι <name type="authority"><w lemma="νόμος">νόμωι</w></name> <w lemma="γράφω">γέγραπται</w> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσονος</w>
+
+<lb xml:id="line_67" n="67"/> <w lemma="ἄξιος">ἄξιον</w> <w lemma="δραχμή">δραχμᾶν</w> <num value="30">ΔΔΔ</num>· <w lemma="κατά">κατὰ</w> <w lemma="οὗτος">ταὐτὰ</w> <supplied reason="omitted">δ</supplied>ὲ <name type="sacrifice"><w lemma="θύω">θυέτω</w></name> καὶ τὸ <w lemma="ἕτερος">ἕτερον</w>
+
+<lb xml:id="line_68" n="68"/> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> ὃ <w lemma="γράφω">γέγραπται</w> <w lemma="ἐν">ἐν</w> τῶι <name type="authority"><w lemma="νόμος">νόμωι</w></name>· <w lemma="ἆθλον">ἆθλον</w> <w lemma="δίδωμι">δίδοσθαι</w> τοῖς <w lemma="νικάω">νικῶ
+
+<lb xml:id="line_69" n="69" break="no"/>σι</w> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="ἔκκειμαι">ἐκκειμένου</w> <w lemma="ἀργύριον">ἀργυρίου</w> <w lemma="δραχμή">δραχμᾶν</w> <num value="30">ΔΔΔ</num>· τοὶ <name type="personnel"><w lemma="στρατηγός">στρα
+
+<lb xml:id="line_70" n="70" break="no"/>ταγοὶ</w></name> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="ἀργύριον">ἀργυρίου</w> τοῦ <w lemma="δίδωμι">διδομένου</w> <w lemma="αὐτός">αὐτοῖς</w> <w lemma="εἰς">ἐς</w> τὰς <w lemma="διατοξεία">δια
+
+<lb xml:id="line_71" n="71" break="no"/>τοξείας</w> τῶν <w lemma="βάλλω">βαλλόντων</w> τῶι <w lemma="καταπάλτης">καταπάλται</w> <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> τῶι
+
+<lb xml:id="line_72" n="72"/> <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶι</w></name> τοῦ <name type="month"><w lemma="μείς">μηνὸς</w></name> τοῦ <name type="month"><w lemma="Ἀρτεμίσιος">Ἀρταμιτίου</w></name> καὶ τοῦ <name type="month"><w lemma="Πάναμος">Πανάμου</w></name> <unclear>κα</unclear>ὶ <name type="month"><w lemma="Κάρνειος">Καρν<unclear>ε</unclear><supplied reason="lost">ί</supplied>
+
+<lb xml:id="line_73" n="73" break="no"/>ου</w></name> καὶ <name type="month"><w lemma="Κηφίσιος">Καφισίου</w></name>, <w lemma="ἐν">ἐν</w> <w lemma="ἕκαστος">ἑκάστωι</w> <name type="month"><w lemma="μείς">μηνὶ</w></name> τῶν <w lemma="γράφω">γεγραμμένων</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <w lemma="μή">μὴ</w>
+
+<lb xml:id="line_74" n="74"/> <w lemma="ἐλάσσων">ἐλάσσονος</w> <w lemma="ἄξιος">ἄξιον</w> <w lemma="δραχμή">δραχμᾶν</w> <space quantity="1" unit="quaracter"/> <num value="40">ΔΔΔΔ</num>· <space quantity="1" unit="quaracter"/> <w lemma="ὅσος">ὅσοι</w> <w lemma="κα">κα</w> <w lemma="νικάω">νικάσωντι</w> <w lemma="στεφανίτης">στε
+
+<lb xml:id="line_75" n="75" break="no"/>φανίταν</w> <w lemma="ἀγών">ἀγῶνα</w>, <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶι</w></name> τῶι <name type="epithet" key="Enagonios"><w lemma="ἐναγώνιος">Ἐναγωνίωι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐ
+
+<lb xml:id="line_76" n="76" break="no"/>λάσσονος</w> <w lemma="ἄξιος">ἄξιον</w> <w lemma="δραχμή">δραχμᾶν</w> <space quantity="1" unit="quaracter"/> <num value="40">ΔΔΔΔ</num>, <w lemma="ἐπεί">ἐπεί</w> <w lemma="κα">κα</w> τὰν <name type="speechAct"><w lemma="ἀναγόρευσις">ἀν<surplus>αν</surplus>αγόρευ
+
+<lb xml:id="line_77" n="77" break="no"/>σιμ</w></name> <w lemma="ποιέω">ποιῶνται</w> τοὶ <w lemma="προστάτης">προστάται</w> τῶν <w lemma="νικάω">νικώντων</w> τὸς <w lemma="στεφανίτης">στεφανίτας</w> <w lemma="ἀγών">ἀ
+
+<lb xml:id="line_78" n="78" break="no"/>γῶνας</w>· τὸν <w lemma="στέφανος">στέφανον</w> <w lemma="ἐπιτίθημι">ἐπιτιθέτω</w> τῶι <w lemma="νικάω">νικῶντι</w> <w lemma="ὑπέρ">ὑπὲρ</w> τᾶς <name type="group"><w lemma="πόλις">πόλιος</w></name>
+
+<lb xml:id="line_79" n="79"/> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> τοῦ <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶ</w></name>· <space quantity="1" unit="character"/> τοὶ <name type="personnel"><w lemma="παιδοτρίβης">παιδοτρίβαι</w></name> τοὶ <w lemma="ὑπό">ὑπὸ</w> τᾶς <name type="group"><w lemma="βουλή">βουλᾶς</w></name> <w lemma="δοκιμάζω">δοκι
+
+<lb xml:id="line_80" n="80" break="no"/><unclear>μ</unclear>ασθέντες</w> <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶι</w></name> τοῦ <name type="month"><w lemma="μείς">μηνὸς</w></name> τοῦ <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίου</w></name> τᾶι
+
+<lb xml:id="line_81" n="81"/> <w lemma="δεύτερος">δευτέραι</w> τοὶ <w lemma="πᾶς">πάντες</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσονος</w> <w lemma="ἄξιος">ἄξιο<supplied reason="omitted">ν</supplied></w> <w lemma="δραχμή">δρα
+
+<lb xml:id="line_82" n="82" break="no"/>χμᾶν</w> <num value="30">ΔΔΔ</num>· τὰ <w lemma="πίπτω">πίπτοντα</w> <w lemma="ἀπό">ἀπὸ</w> <name type="month"><w lemma="μείς">μηνὸς</w></name> <name type="month"><w lemma="Βοηδρόμιος">Βαδρομίου</w></name> τοῦ <w lemma="ἐπί">ἐπὶ</w> Με
+
+<lb xml:id="line_83" n="83" break="no"/> <supplied reason="lost">ν</supplied><unclear>οιτί</unclear>ου  <supplied reason="lost">τὰ</supplied> <w lemma="ἐκ"><supplied reason="lost">ἐξ</supplied></w> <name type="personnel"><w lemma="ἀστυνόμος">ἀστυνόμων</w></name> καὶ τὰ <w lemma="ἐκ">ἐξ</w> <name type="personnel"><w lemma="ἀγορανόμος">ἀγορανόμων</w></name> <w lemma="χῶρος">χῶρι</w> τῶν
+
+<lb xml:id="line_84" n="84"/> <gap reason="lost" quantity="9" unit="character" precision="low"/>  <supplied reason="lost">κ</supplied>αὶ <w lemma="ἐμπορικός">ἐμπορ<unclear>ικ</unclear>ῶν</w> <w lemma="παραβόλιον">παραβολίων</w> καὶ <w lemma="ἐπιδέκατος">ἐπιδεκάτων</w> τ<unclear>ῶ</unclear><supplied reason="lost">ν</supplied>
+
+<lb xml:id="line_85" n="85"/> <gap reason="lost" quantity="11" unit="character" precision="low"/> <w lemma="πᾶς"><supplied reason="lost">πάν</supplied><unclear>τ</unclear>α</w> <w lemma="εἰμί">ἦμεν</w> <w lemma="ἱερός">ἱερὰ</w> τοῦ <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶ</w></name>. <space quantity="1" unit="character"/> τοὶ <w lemma="ἐργωνέω">ἐργωνήσαντε<supplied reason="lost">ς</supplied></w>
+
+<lb xml:id="line_86" n="86"/> <supplied reason="lost">παρὰ</supplied> <gap reason="lost" quantity="7" unit="character" precision="low"/>ητᾶν <w lemma="ἤ">ἢ</w> <name type="personnel"><w lemma="ἐπιστάτης">ἐπιστατᾶν</w></name> <w lemma="ἀπό">ἀπό</w> τε <surplus>καὶ</surplus> τοῦ <name type="month"><w lemma="Βοηδρόμιος">Βαδρο<supplied reason="lost">μί</supplied>
+
+<lb xml:id="line_87" n="87" break="no"/><supplied reason="lost">ου</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <supplied reason="lost">Μενο</supplied><unclear>ι</unclear>τίου <w lemma="ἀπάρχομαι">ἀπαρχέσθων</w> <w lemma="ἀπό">ἀπὸ</w> <w lemma="πᾶς">παντὸς</w> τοῦ <gap reason="lost" quantity="5" unit="character" precision="low"/>
+
+<lb xml:id="line_88" n="88"/> <gap reason="lost" quantity="15" unit="character" precision="low"/><orig>αν</orig> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμαῖ</w></name>, καὶ <w lemma="ὅς">ὧμ</w> μέν <w lemma="κα">κα</w> τοὶ <name type="personnel"><w lemma="ταμίας">τα<unclear>μ</unclear><supplied reason="lost">ίαι</supplied></w></name>
+
+<lb xml:id="line_89" n="89"/> <gap reason="lost" quantity="16" unit="character" precision="low"/><orig>αι</orig> <w lemma="ἔργον">ἔργων</w>, <w lemma="ὑπολογέω">ὑπολογεύντω</w> <w lemma="αὐτός">αὐτο<unclear>ῖ</unclear><supplied reason="lost">ς</supplied></w> <gap reason="lost" quantity="6" unit="character" precision="low"/>
+
+<lb xml:id="line_90" n="90"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἀπό">ἀπὸ</w> τᾶς <w lemma="πρότερος">πράτας</w> <w lemma="δόσις">δόσιος</w> <orig>τ<unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+
+	    			</ab>
+	    				<ab subtype="Face" n="B">Face B
+
+<lb xml:id="line_91" n="91"/> <w lemma="εἰς"><unclear>ἐ</unclear>ς</w> τὰν <name type="sacrifice"><w lemma="ἀπαρχή">ἀπαρχὰν</w></name> <w lemma="εἰμί"><unclear>ἔ</unclear>στε</w> κα τοὶ <w lemma="ἐπιστάτης">ἐπιστάται</w> τοὶ <w lemma="ἀντυπολογέω">ἀντυπο
+
+<lb xml:id="line_92" n="92" break="no"/>λογήσαντες</w> τοῖς <name type="title"><w lemma="ἐργώνης">ἐργώναις</w></name>· <w lemma="κατά">κατὰ</w> <w lemma="αὐτός">ταὐτὰ</w> τοὶ <name type="title"><w lemma="ἐπιστάτης">ἐπιστά
+
+<lb xml:id="line_93" n="93" break="no"/>ται</w></name> τοῖς <name type="title"><w lemma="ταμίας">ταμίαις</w></name> τὸ <w lemma="ἀργύριον">ἀργύριον</w> <w lemma="ἀποδίδωμι">ἀποδόντω</w>· <space quantity="1" unit="character"/> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name>
+
+<lb xml:id="line_94" n="94"/><w lemma="μετά">μετὰ</w> τοῦ <name type="title"><w lemma="γυμνασίαρχος">γυμνασιάρχου</w></name> <w lemma="κατά">καθ᾿</w> <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w>
+
+<lb xml:id="line_95" n="95"/>τοῦ <w lemma="μείς">μηνὸς</w> τοῦ <name type="month"><w lemma="Ἀγριάνιος">Ἀγριανίου</w></name> <unclear>τ</unclear>ᾶι <w lemma="νουμηνία">νε<unclear>υ</unclear>μηνίαι</w> <w lemma="ἀποδείκνυμι">ἀποδεικνύτω</w>
+
+<lb xml:id="line_96" n="96"/><w lemma="ἐκ">ἐκ</w> τῶν <w lemma="παραβάλλω">παραβαλλόντων</w> <w lemma="εἰς">ἐς</w> τὸ <name type="structure"><w lemma="γυμνάσιον">γυμνάσιον</w></name> <name type="group"><w lemma="">νέων</w></name> <name type="personnel"><w lemma="">ἐπιμη
+
+<lb xml:id="line_97" n="97" break="no"/>νίους</w></name> <w lemma="">πέντε</w> <w lemma="">ἐν</w> τᾶι <name type="group"><w lemma="ἐκκλησία">ἐκκλησίαι</w></name>, <w lemma="ἕκαστος">ἕκαστος</w> <w lemma="αὐτός">αὐτῶν</w> <w lemma="μετά">μετ᾿</w> <w lemma="ἐξουσία">ἐ
+
+<lb xml:id="line_98" n="98" break="no"/>ξουσία<unclear>ς</unclear></w> <name type="clothing"><name type="adornment"><w lemma="στολίζω">στολίζ̣<unclear>ε</unclear>σθαι</w></name></name>· τοῖς δὲ <w lemma="αἱρέω">αἱρεθεῖσι</w> τοὶ <name type="title"><w lemma="ταμίας">ταμίαι</w></name> <w lemma="τελέω">τε
+
+<lb xml:id="line_99" n="99" break="no"/>λεύντων</w> <w lemma="δραχμή">δραχμὰς</w> <orig>Λ</orig><gap reason="lost" quantity="4" unit="character"/> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="προσπορεύομαι">ποτιπορευομέν<supplied reason="lost">ου</supplied></w>
+
+<lb xml:id="line_100" n="100"/><w lemma="ἀργύριον">ἀργυρίου</w> <num value="700">U+10144ΗΗ</num> καὶ <name type="animal" key="ox"><w lemma="βοῦς">βοῦ<unclear>ν</unclear></w></name> <w lemma="ἔστε">ἔστε</w> <w lemma="δραχμή">δραχμὰς</w> <num value="300"><unclear>Η</unclear>ΗΗ</num> καὶ <w lemma="καύσιμος">καύσιμ<supplied reason="lost">α</supplied></w>
+
+<lb xml:id="line_101" n="101"/><name type="vegetal"><w lemma="ξύλον"><unclear>ξ</unclear>ύλα</w></name> καὶ <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <w lemma="ἔστε">ἔστε</w> <w lemma="δραχμή">δραχμὰς</w> <num value="60">U+10144Δ</num>· <space quantity="1" unit="character"/> <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> δὲ τοὶ <name type="personnel"><w lemma="ἐπιμήνιος">ἐπι
+
+<lb xml:id="line_102" n="102" break="no"/>μήνιοι</w></name> <w lemma="τετράς">τετράδι</w> <w lemma="ἵστημι">ἱσταμένου</w> <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίου</w></name> <w lemma="πομπεύω">πομπεύσαντες</w>
+
+<lb xml:id="line_103" n="103"/><w lemma="ὑπέρ">ὑπὲρ</w> τᾶς <name type="group"><w lemma="πόλις">πόλιος</w></name> <w lemma="μετά">μετὰ</w> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name> καὶ τοῦ <name type="title"><w lemma="γυμνασίαρχος">γυμνασιάρχου</w></name> καὶ
+
+<lb xml:id="line_104" n="104"/><name type="title"><w lemma="ὑπογυμνασίαρχος">ὑπογυμνασιάρχου</w></name> καὶ τῶν <name type="group"><w lemma="νέος">νέων</w></name> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶι</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦν</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσω
+
+	<lb xml:id="line_105" n="105" break="no"/>νος</w> <name type="gender"><w lemma="ἄξιος">ἄξιον</w></name> <w lemma="δραχμή">δραχμᾶν</w> <num value="250">ΗΗU+10144</num>
+	    			καὶ <name type="animal" key="swine"><w lemma="ὗς">ὗν</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσωνος</w> <name type="gender"><w lemma="ἄξιος">ἄξιον</w></name>
+
+<lb xml:id="line_106" n="106"/><w lemma="δραχμή">δραχμᾶν</w>
+	    					<num value="50">U+10144</num>·
+	    				<space quantity="1" unit="character"/> τῶν δὲ <name type="group"><w lemma="ἀποδύω">ἀποδυομένων</w></name> <w lemma="εἰς">ἐς</w> τὸ <name type="structure"><w lemma="γυμνάσιον">γυμνάσιον</w></name>
+
+<lb xml:id="line_107" n="107"/>οἵ κα <w lemma="δηλόω">δήλωνται</w> <w lemma="χωρίς">χωρὶ</w> <name type="group"><w lemma="ἔφηβος">ἐφήβων</w></name> <w lemma="δίδωμι">διδόντω</w> τοῖς <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμηνίοις</w></name>
+
+<lb xml:id="line_108" n="108"/><w lemma="εἰς">ἐς</w> τὰν <name type="group"><w lemma="συναγωγή">συναγωγὰν</w></name> καὶ <w lemma="πανήγυρις">πανάγυριν</w> τῶν <name type="festival"><w lemma="ἕρμαιον">Ἑρμαίων</w></name> <w lemma="ἕκαστος">ἕκασ
+
+<lb xml:id="line_109" n="109" break="no"/>τος</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="δύο">δύο</w> <w lemma="ἐπί">ἐφ᾿</w> <w lemma="ἑκάτερος">ἑκατέραν</w> <w lemma="ἡμέρα">ἁμέραν</w>· τοὶ δὲ <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμήνι
+
+<lb xml:id="line_110" n="110" break="no"/>οι</w></name> τοὺς <w lemma="ἐπιτελέω">ἐπιτελέσαντας</w> τὸ <w lemma="γράφω">γεγραμμένον</w> <w lemma="ἀπό">ἀ<unclear>πὸ</unclear></w> <unclear>τ</unclear>ᾶ<unclear>ς</unclear> <gap reason="lost" quantity="1" unit="character"/><orig><unclear>ΟΤΙ</unclear></orig>
+
+<lb xml:id="line_111" n="111"/><gap reason="lost" quantity="4" unit="character"/><orig>Σ</orig> <w lemma="πομπή">πομπᾶς</w> <orig>ΩΙΤΟΛ</orig><gap reason="lost" quantity="1" unit="character"/>ΤΑ<gap reason="lost" quantity="3" unit="character"/><orig>ΛΣΙΓΟ</orig><gap reason="lost" quantity="2" unit="character"/><orig>ΤΡΑΣ</orig><gap reason="lost" quantity="2" unit="character"/><orig>ΤΑ</orig><gap reason="lost" quantity="1" unit="character"/><orig>ΠΑΓΟ</orig><gap reason="lost" quantity="2" unit="character"/>
+
+<lb xml:id="line_112" n="112"/><gap reason="lost" quantity="3" unit="character"/><orig>ΑΣΟΥΛΤΟΜΙΝΕΙΩ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΑΙ</orig>
+
+<lb xml:id="line_113" n="113"/><gap reason="lost" quantity="2" unit="character"/><orig>ΑΓΟΙΣ</orig> <name type="sacrifice"><w lemma="θύω">θύειν</w></name> <gap reason="lost" quantity="1" unit="character"/><orig>ΓΕΑΣ</orig><gap reason="lost" quantity="1" unit="character"/><orig>ΥΣ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_114" n="114"/><gap reason="lost" quantity="4" unit="character"/><orig>Ο</orig><gap reason="lost" quantity="1" unit="character"/><orig>ΛΤΗ</orig><gap reason="lost" quantity="1" unit="character"/><orig>ΥΕΤΓΕΙ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΜΕΙΤΑΑ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΕΙΝΑ</orig><gap reason="lost" quantity="1" unit="character"/>
+
+<lb xml:id="line_115" n="115"/><orig>Α̣Ι</orig> <w lemma="ἀπό">ἀπὸ</w> τῶν τοῦ <w lemma="θεός">θεοῦ</w> <w lemma="χρῆμα">χρημάτων</w> <gap reason="lost" extent="unknown" unit="character"/><orig>ΤΑΝΙΙΧΟ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>Ο</orig> τας <w lemma="">ἱερ
+
+<lb xml:id="line_116" n="116" break="no"/>ας</w> <orig>Τ<unclear>Α</unclear>Σ<unclear>Σ</unclear>Π</orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>Τ</unclear>Α<unclear>Ρ</unclear>Χ</orig>̣<gap reason="lost" quantity="1" unit="character"/><orig>Ο<unclear>ΙΣ</unclear>ΕΜΕΙ</orig><gap reason="lost" extent="unknown" unit="character"/><add place="overstrike">ντας τῶι</add>
+
+<lb xml:id="line_117" n="117"/><name type="title"><w lemma="γυμνασίαρχος"><unclear>γυ</unclear>μνασιά<unclear>ρχ</unclear><supplied reason="lost">ωι</supplied></w></name> <orig>ΕΓΑΓΩ</orig><gap reason="lost" extent="unknown" unit="character"/> <unclear>ὁ</unclear> <unclear>δ</unclear><supplied reason="lost">ὲ</supplied> <name type="title"><w lemma=""><supplied reason="lost">ἱ</supplied><unclear>ερε</unclear>ὺς</w></name> <name type="sacrifice"><w lemma="ἐπιτίθημι">ἐπιθέτω</w></name>
+
+<lb xml:id="line_118" n="118"/><w lemma="πᾶς">π̣ᾶν</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱε̣ρε̣ῖ̣ον</w></name> το<unclear>ῖς</unclear> ἐν<gap reason="lost" quantity="2" unit="character"/><orig>Τ</orig><gap reason="lost" quantity="1" unit="character"/><orig>Σ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>Τ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΤΑΝ<unclear>Η</unclear></orig>
+
+<lb xml:id="line_119" n="119"/><orig>ΑΣ</orig> <w lemma="μετά">μετὰ</w> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name> καὶ τ<unclear>οῦ</unclear> <gap reason="lost" extent="unknown" unit="character"/> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θυσ</supplied>ά<supplied reason="lost">τω</supplied></w></name> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w> τοῦ
+
+<lb xml:id="line_120" n="120"/><w lemma="δίδωμι">διδομένου</w> <w lemma="ἀργύριον">ἀργυρίου</w> ὃ κα<unclear>τα</unclear><gap reason="lost" extent="unknown" unit="character"/><orig>ΑΣΣ</orig><gap reason="lost" extent="unknown" unit="character"/> ἁ <name type="sacrifice"><w lemma="θυσία">θυσία</w></name> <w lemma="γίγνομαι">γί
+
+<lb xml:id="line_121" n="121" break="no"/>νεται</w> τοῦ <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίου</w></name> <w lemma="μείς">μ̣η̣ν̣ὸς</w> <w lemma="τριακάς">τρ̣ι̣ακ̣ά̣δ̣ι</w>· <space quantity="1" unit="character"/> <orig>Γ</orig><gap reason="lost" quantity="1" unit="character"/>Ι<gap reason="lost" quantity="1" unit="character"/><orig>ΤΑΙ</orig><gap reason="lost" quantity="1" unit="character"/> <w lemma="εἰμί"><unclear>ἦ</unclear>μ<unclear>ε</unclear>ν</w> <name type="genericOffering"><w lemma="ἱερός">ἱε
+
+<lb xml:id="line_122" n="122" break="no"/>ρὰς</w></name> <w lemma="καθά">καθὰ</w> καὶ τὰ<unclear>ς</unclear> <w lemma="ἄλλος">ἄλλας</w> <gap reason="lost" extent="unknown" unit="character"/><orig>ΕΙΣ</orig><gap reason="lost" quantity="1" unit="character"/><orig>Λ</orig><gap reason="lost" quantity="1" unit="character"/><orig>ΑΕΤΑΙΤ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΛΛ</orig><gap reason="lost" quantity="1" unit="character"/><orig>Σ</orig>
+
+<lb xml:id="line_123" n="123"/><orig>ΤΟΣ</orig> <w lemma="ἐν">ἐν</w> τᾶι <name type="structure"><w lemma="παλαίστρα">παλαίστραι</w></name> <orig>Σ</orig><gap reason="lost" quantity="1" unit="character"/><orig>ΑΣ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΣΑΓ</orig><gap reason="lost" quantity="2" unit="character"/><orig>ΛΕ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΑΓΟ</orig>
+
+<lb xml:id="line_124" n="124"/><orig>ΡΑΣ</orig> <w lemma="πᾶς">πάντας</w>· <space quantity="1" unit="character"/> <unclear>τῶ</unclear>ι δὲ <name type="title"><w lemma="ἀγωνοθετέω">ἀγω<unclear>νο</unclear>θε<unclear>τεῦν</unclear><supplied reason="lost">τι</supplied></w></name> <supplied reason="lost">τ</supplied>ὰ <w lemma="κατά">κατὰ</w> <w lemma="πεντετηρίς">πενταετηρίδα</w>
+
+<lb xml:id="line_125" n="125"/><name type="festival"><w lemma="Ἀσκληπιός">Ἀσκλαπίεια</w></name> <name type="sacrifice"><w lemma="ἐπιτίθημι">ἐπιθέ<unclear>τω</unclear></w></name> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερ<unclear>εὺ</unclear>ς</w></name> <w lemma="πᾶς"><unclear>π</unclear>άν<unclear>τ</unclear>α</w> <unclear>τ</unclear>ὰ <name type="animal" key="generic"><w lemma="ἱερεῖον"><unclear>ἱ</unclear>ερεῖ<unclear>α</unclear></w></name> <w lemma="μετά"><unclear>μετὰ</unclear></w> τῶν <name type="personnel"><w lemma="ἐπιμήνιος">ἐπι
+
+<lb xml:id="line_126" n="126" break="no"/>μηνίων</w></name> <orig>Κ̣ΑΙΥΠΕ</orig><gap reason="lost" quantity="2" unit="character"/>ΙΑΣ <gap reason="lost" extent="unknown" unit="character"/><orig>ΑΤΟ</orig> <w lemma="μείς"><supplied reason="lost">μην</supplied><unclear>ὸ</unclear><supplied reason="lost">ς</supplied></w> <name type="month"><w lemma="Ἀρταμίτιος">Ἀ<unclear>ρ</unclear>τα<unclear>μιτ</unclear><supplied reason="lost">ίο</supplied>υ</w></name> <unclear>τ</unclear>ᾶι
+
+<lb xml:id="line_127" n="127"/><w lemma="τετράς">τετράδι</w> <space quantity="1" unit="character"/> τὸν <name type="person"><w lemma="νικάω">νικῶντα</w></name> τὰν <name type="festival"><w lemma="λαμπάς">λαμπάδα</w></name> τὰν <w lemma="τίθημι">τιθεμέναν</w> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρ
+
+<lb xml:id="line_128" n="128" break="no"/>μᾶι</w></name> καὶ τοὺς <name type="person"><w lemma="νικάω">νικῶντας</w></name> τὸν <w lemma="γυμνικός">γυμνικὸν</w> <w lemma="ἀγών">ἀγῶνα</w> τῶν <name type="festival"><w lemma="ἑρμαῖος">Ἑρμαίων</w></name> <name type="speechAct"><w lemma="ἀναγγέλλω">ἀναγ
+
+<lb xml:id="line_129" n="129" break="no"/>γελλέτω</w></name> μὲν ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> καὶ <name type="adornment"><w lemma="στεφανόω">στεφανούτω</w></name> <w lemma="ἕκαστος">ἑκάστου<supplied reason="lost">ς</supplied></w><supplied reason="lost">·</supplied> <w lemma="λόγος"><supplied reason="lost">λ</supplied>όγον</w> δὲ <w lemma="εἰς">ἐς</w> <name type="structure"><w lemma="κιβωτός">κι
+
+<lb xml:id="line_130" n="130" break="no"/>βωτὸν</w></name> <w lemma="καταβάλλω">καταβαλλέτω</w> τ<unclear>ᾶ</unclear>ς <w lemma="γίγνομαι"><unclear>γεν</unclear>ο<unclear>μ</unclear><supplied reason="lost">έν</supplied>ας</w> <w lemma="δαπάνη"><unclear>δα</unclear><supplied reason="lost">πά</supplied><unclear>ν</unclear>ας</w> <w lemma="ἐν"><unclear>ἐ</unclear>ν</w> αἷς κ<unclear>α</unclear> <w lemma="ἡμέρα">ἁμέ
+
+<lb xml:id="line_131" n="131" break="no"/>ραις</w> <name type="sacrifice"><w lemma="θυσία">θυσίαι</w></name> <w lemma="συντελέω">συντελ<unclear>ῶν</unclear>ται</w> <w lemma="κατά">κατὰ</w> <w lemma="ὅδε">τάνδε</w> τὰν <name type="authority"><w lemma="διαγραφή">διαγραφάν</w></name>· <name type="adornment"><w lemma="στεφανόω">ἐστε
+
+<lb xml:id="line_132" n="132" break="no"/>φανῶσθαι</w></name> τὰ <name type="object"><w lemma="ἄγαλμα">ἀγάλματα</w></name> τοῦ <name type="deity" key="Hermes"><w lemma="θεός">θεοῦ</w></name> τὰ <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="γυμνάσιον">γυμνασίωι</w></name> <w lemma="πᾶς">πάντα</w>·
+
+<lb xml:id="line_133" n="133"/>τοὶ δὲ <name type="title"><w lemma="ἀγορανόμος">ἀγορανόμοι</w></name> <w lemma="ἐπιμελέομαι">ἐπιμελέσθων</w> <w lemma="ὅπως">ὅπως</w> ὁ <name type="person"><w lemma="πρίαμαι">πριάμενος</w></name> τὰν <name type="structure"><w lemma="στοά">στοὰν</w></name>
+
+<lb xml:id="line_134" n="134"/>τῶν <name type="deity" key="Hermes"><name type="object"><w lemma="Ἑρμῆς">Ἑρμῶν</w></name></name> <name type="adornment"><w lemma="στεφανόω">στεφαν<unclear>ο</unclear>ῖ</w></name>, <w lemma="καθάπερ">καθάπερ</w> καὶ <supplied reason="lost">τὰ</supplied> <w lemma="ἐν"><supplied reason="lost">ἐ</supplied>ν</w> τᾶι <name type="locality"><w lemma="ἀγορά">ἀγορᾶι</w></name> <name type="object"><w lemma="ἄγαλμα">ἀγάλμα
+
+<lb xml:id="line_135" n="135" break="no"/>τα</w></name> <name type="adornment"><w lemma="στεφανόω">στεφανοῦν</w></name> <w lemma="αὐτός">αὐτὸν</w> <name type="authority"><w lemma="προστάσσω">ποτιτέτακται</w></name>. <space quantity="1" unit="character"/> <w lemma="ἀποδίδωμι">ἀποδόσθων</w> τοὶ <name type="title"><w lemma="πωλητής">πω
+
+<lb xml:id="line_136" n="136" break="no"/>ληταὶ</w></name> τοὶ <w lemma="ἐν">ἐν</w> <w lemma="ἀρχή">ἀρχᾶι</w> <w lemma="εἰμί">εὖντες</w> τὰν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύναν</w></name> τοῦ <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶ</w></name>, ὁ δὲ <name type="person"><w lemma="πρίαμαι">πρι
+
+<lb xml:id="line_137" n="137" break="no"/>άμενος</w></name> <w lemma="καταβάλλω">καταβαλεῖ</w> τὸ <w lemma="ἀργύριον">ἀργύριον</w> <w lemma="ἐπί">ἐπὶ</w> τὸς <name type="title"><w lemma="ταμίας">ταμίας</w></name> <w lemma="ποιέω">ποεύμε
+
+<lb xml:id="line_138" n="138" break="no"/>νος</w> <w lemma="καταβολή">καταβολὰς</w> <w lemma="τρεῖς">τρεῖς</w>, τὰν μὲν <w lemma="πρότερος">πράταν</w> <w lemma="ἐν">ἐμ</w> <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Γεράστιος">Γεραστίωι</w></name>,
+
+<lb xml:id="line_139" n="139"/>τὰν δὲ <w lemma="δεύτερος">δευτέραν</w> <w lemma="ἐν">ἐν</w> <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίωι</w></name>, τὰν δὲ <w lemma="τρίτος">τρίταν</w> <w lemma="ἐν">ἐν</w> τῶι <name type="month"><w lemma="Ἄλσειος">Ἀλσείωι</w></name>
+
+<lb xml:id="line_140" n="140"/><w lemma="ἐπί">ἐπὶ</w> Μενοιτίου. <space quantity="1" unit="character"/> τὸ <w lemma="ἀργύριον">ἀργύριον</w> τὸ <w lemma="περιττός">περιττὸν</w> <w lemma="ἀπό">ἀπὸ</w> τᾶς <name type="personnel"><w lemma="ἱερατεία">ἱερατεί
+
+<lb xml:id="line_141" n="141" break="no"/>ας</w></name> <name type="authority"><w lemma="διαγράφω">διαγραψάντω</w></name> τοὶ <w lemma="λογιστής">λογισταὶ</w> <w lemma="ἀποδίδωμι">ἀποδοῦσαν</w> τὰν <name type="group"><w lemma="πόλις">πόλιν</w></name> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρ
+
+<lb xml:id="line_142" n="142" break="no"/>μᾶι</w></name>· <w lemma="ἐπεί">ἐπεὶ</w> δέ κα ἁ <name type="group"><w lemma="πόλις">πόλις</w></name> <w lemma="ἐλεύθερος">ἐλευθέρα</w> <w lemma="γίγνομαι">γένηται</w> τῶν <w lemma="χρεία">χρεῶν</w>, ἃ <orig>Ε</orig>
+
+<lb xml:id="line_143" n="143" break="no"/><orig>ΕΛ</orig><gap reason="lost" quantity="4" unit="character"/> <w lemma="ἐπιστέλλω">ἐπιστέλαι</w> <w lemma="ἐπί">ἐπὶ</w> Μενοίτιον <name type="title"><w lemma="μόναρχος">μόναρχον</w></name>, <w lemma="βούλομαι">βουλεύσασ
+
+<lb xml:id="line_144" n="144" break="no"/>θαι</w> τὸν <name type="group"><w lemma="δῆμος">δᾶμον</w></name> ἃ <w lemma="δεῖ">δεῖ</w> <w lemma="συντελέω">συντελέσθαι</w> τῶι <name type="deity" key="Hermes"><w lemma="θεός">θεῶι</w></name> <w lemma="ἀπό">ἀπὸ</w> τῶν <w lemma="χρῆμα">χρή
+
+<lb xml:id="line_145" n="145" break="no"/>μάτων</w> <w lemma="οὗτος">τούτων</w> <w lemma="ἔστε">ἔστε</w> κα τῶι <name type="title"><w lemma="ἐπιστάτης">ἐπιστάται</w></name> <w lemma="δίδωμι">δίδοντες</w> τοὶ
+
+<lb xml:id="line_146" n="146"/><name type="title"><w lemma="προστάτης">προστάται</w></name> καὶ τοὶ <name type="title"><w lemma="ταμίας">ταμίαι</w></name> τὸν <w lemma="λόγος">λόγον</w>. <space quantity="1" unit="character"/> <w lemma="εἰ">αἴ</w> κα τοὶ <name type="title"><w lemma="ταμίας">ταμίαι</w></name> τὰ
+
+<lb xml:id="line_147" n="147"/><w lemma="χρῆμα"><supplied reason="lost">χ</supplied>ρήματα</w> τὰ <w lemma="προσπορεύομαι">ποτιπορευόμενα</w> τῶι <name type="deity" key="Hermes"><w lemma="θεός">θεῶι</w></name> <w lemma="κατά">κατὰ</w> <w lemma="ὅδε">τάνδε</w> <space quantity="1" unit="line"/>
+
+<lb xml:id="line_148" n="148"/><supplied reason="lost">τὰ</supplied>ν <name type="authority"><w lemma="διαγραφή">διαγραφὰν</w></name> ἢ <w lemma="οὗτος">τούτων</w> <w lemma="τις">τι</w> <w lemma="δανείζω">δανείζωνται</w> ἢ <w lemma="μή">μὴ</w> <w lemma="δίδωμι">δίδωντι</w>
+
+<lb xml:id="line_149" n="149"/><supplied reason="lost">τὰ</supplied> <w lemma="εἰς">ἐς</w> τὰς <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> <w lemma="καταγράφω">κατα<supplied reason="lost">γρ</supplied>α<supplied reason="lost">φ</supplied>έ<supplied reason="lost">ν</supplied>τα</w> <w lemma="αὐτός">αὐτοῖς</w> <w lemma="ὡς">ὡς</w> <name type="authority"><w lemma="γράφω">γέγραπται</w></name>,
+
+<lb xml:id="line_150" n="150"/><name type="punishment"><w lemma="ἀποτίνω"><supplied reason="lost">ἀ</supplied>ποτεισάντω</w></name> <w lemma="ἐπιτίμιον">ἐπ<supplied reason="lost">ιτίμιον</supplied></w> <w lemma="δραχμή">δ<supplied reason="lost">ρα</supplied>χμὰς</w> <w lemma="τρισχίλιοι">τρισχιλίας</w> <name type="genericOffering"><w lemma="ἱερός">ἱε
+
+<lb xml:id="line_151" n="151" break="no"/>ρὰς</w></name> τοῦ <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶ</w></name>· <w lemma="καταγράφω">κατα<supplied reason="lost">γρ</supplied><unclear>αψάν</unclear>τω</w> δὲ τὸ <w lemma=""><unclear>ἐ</unclear>ς</w> τὰς <name type="sacrifice"><w lemma="θυσία"><unclear>θ</unclear>υσίας</w></name> καὶ τὸ
+
+<lb xml:id="line_152" n="152"/><w lemma="νῦν">νῦν</w> <w lemma="παραδίδωμι">παραδιδόμενον</w> <w lemma="ἀργύριον"><supplied reason="lost">ἀρ</supplied><unclear>γύ</unclear>ριο<unclear>ν</unclear></w> <orig>ΥΠΟ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΛΠ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_153" n="153"/>τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμᾶι</w></name>. <space quantity="1" unit="line"/>
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p> Face A</p>
+<p>With good fortune. Those who have been chosen have drawn up the following contract concerning the priesthood of Hermes Enagonios: Hipparchos son of Nikolochos, Androstenes son of Althaimenes, Charidamos son of Diophantos. The buyer of the priesthood of Hermes Enagonios should be (5) healthy and be without any deformity, and he should have the priesthood for life. The buyer of the priesthood should be exempt from military service abroad, from the hippotrophy, from the trierarchy, from choregia's, from the lampadarchy and all other liturgies. He should make a libation during the games, and he may sit in the front row just like the other priests. (10) The priest should also place the offerings on the altar for all those making sacrifices. He is to receive as gifts of honour from what is sacrificed to Hermes Enagonios the skin and a leg. The monarch in function after Menoitios and the <foreign>hieropoioi</foreign>, and all those in this function in the future (15) should make a
+sacrifice, from the money allocated to them for the monthly sacrifices, on the 2 of Hyakinthios and on the 10th of Alseios, but on the fourth day of the other months, each month a male sheep worth at least 30 drachmae. The priest is to join in the procession at every sacrifice he makes to Hermes where the monarch and the <foreign>hieropoioi</foreign> (also sacrifice). (20) The agonothetes should make a sacrifice as before during the three first preliminary torch-races on the 10th, 16th and 20th of Dalios, in each race an adult animal worth not less than what is written in the law, that is to say 50 dr. He should sacrifice during the torch-race (25) of the 10th of the month Alseios a sacrificial animal of the same amount of the proposed money, as before. The lampadarchs should sacrifice to Hermes during the three preliminary torch-races on the 25th Dalios, on the 1st and 6th of Alseios, each of them in each race an adult animal (30) worth not less than 60 dr. They should sacrifice also on the 4th of Alseios before the torch-race takes place and on the 10th during the torch race, on each of the two days, each of the lampadarchs a sacrificial animal worth not less than 40 dr. The lampadarch who is the winner in the contest for good condition or the race should sacrifice (35) to Hermes from the prize of victory laid down  in the law, for each victory, on the day after the torch-race, an adult animal costing 30 dr. The gymnasiarch in function after Menoitios and all others in this function in the future should make a sacrifice from the money given to them for the archery-contest and the (40) javelin-throwing contest, in the winter-semester in Theudaisios, Kaphisios, Gerastios, and in the summer-semester in Agrianos, Panamos and Alseios, each month a sacrificial animal worth not less than 25 dr. They should also sacrifice from the money that was given to them for the races of Artamitios and Agrianios, in each month a sacrificial animal worth (45) not less than 50 dr. They should also sacrifice on the 10th of the month Alseios, as before, an animal worth not less than what is written in the law, which is 60 dr. The <foreign>paidonomos</foreign> in function after the monarch Menoitios and should sacrifice on the 2nd of the month Hyakinthios to Hermes (50) an adult animal of 60 dr. The treasurers should give them the prescribed sum. On the 2nd of the month Hyakinthios, after the long run a torch-race for boys is to take place before the procession is sent on its way. The <foreign>paidonomos</foreign>, together with the priest of Hermes and the agonothetes should select (55) boys from those who frequent the wrestling-school, the same number as it is written in the law concerning the runners on the 10th of Alseios. When they are about to run they should anoint themselves with oil provided by the gymnasiarch. Of the animal which the <foreign>paidonomos</foreign> sacrifices on the 2nd of Hyakinthios to (60) Hermes he should divide the other meat to the runners in the torch-race, but he should give the left leg als a prize to the winner of the preliminary race. If some contestants are rivalling for the preliminary race, a race should be organized for them according to how it is written in the law with respect to the contestants of the race of the 4th of Alseios. (65) The <foreign>paidonomos</foreign> should sacrifice on the 10th of Alseios during the torch-race an animal to Hermes, exactly as it is written in the law, worth not less than 30 dr. He should sacrifice in the same way the other animal that is prescribed in the law. A price of 30 dr. should be given to the winners from the money proposed. The <foreign>strategoi</foreign>, (70) from the money that was given to them for the contest in throwing the catapult, should sacrifice to Hermes in the month of Artamitios,Panamos, Karneios and Kaphisios, in each prescribed month a sacrificial animal worth not less than 40 dr. All those who won a (75) contest in which the prize was a crown should sacrifice to Hermes Enagonios an animal worth not less than 40 dr., when the <foreign>prostates</foreign> make a public proclamation of the winners of the contests in which the prize was a crown. The priest of Hermes should crown the winner in the name of the city. The gymnastic trainers who have passed the scrutiny of the council (80) should sacrifice to Hermes on the 2nd of Hyakinthios all together an animal worth not less than 30 dr. From the month Badromios under Menoitios onwards, the revenues of the <foreign>astynomoi</foreign> and the <foreign>agoranomoi</foreign> except the [...] and commercial revenues and payments on accounts and interests of ten percent [... (85) all] are to be sacred to Hermes. Those who have contracted out the work [...] or of the <foreign>epistatai</foreign>, from (the month) Badromios under Menoitios onwards, should make the first sacrifice to Hermes, of from the works that the treasurers [...], they should deduct [...] (90) from the first payment [...]</p>
+
+	<p>Face B</p>
+<p>[...] for the first offering, until the <foreign>epistatai</foreign> have compensated the contractors. According to the same, let the <foreign>epistatai</foreign> pay the money to the treasurers. The priest with the gymnasiarch each year on the 1st (95) of the month Agrianios is to designate five of the <foreign>neoi</foreign> who frequent the gymnasium in the assembly as <foreign>epimenioi</foreign>; each of them is to be equipped with (the signs of) authority. To those selected the treasurers are to pay [...] from the provided (100) fund: 700 dr.; and up to 300 dr. for an ox and wood suitable for burning and up to 60 dr. for a sheep. Let the <foreign>epimenioi</foreign>, on the 4th of Hyakinthios, having made a procession on behalf of the city in the company of the priest, the gymnasiarch, the sub-gymnasiarch and the <foreign>neoi</foreign>, sacrifice to Hermes a male ox (105) worth no less than 250 dr. and a male pig worth no less than 60 dr. Those who wish to from among the persons who undress in the gymnasion, except the ephebes, are each to give to the <foreign>epimeioi</foreign> for the congregation and the fair of the Hermaia, 2 dr. for each day. The <foreign>epimeioi</foreign> who have fulfilled what is written from the (110) [...] of the procession [...] to sacrifice [...] (115) from the funds of the god (i.e. Hermes) [...] to the gymnasiarch [...] the priest is to sacrifice every animal to the [...] with the priest and the [...] let him sacrifice from the (120) money given which [...] the sacrifice takes place on the 30th of Hyakinthios [...] are to be sacred as are also the others [...] in the palaistra [...] all. (125) Let the priest with the <foreign>epimenioi</foreign> place all the (portions of) sacrificial animals (on the altar) for the one who has served as <foreign>agonothetes</foreign> for the penteteric Asklepieia [...] on the 4th of Artamitios. Let the priest proclaim the victor of the torch-race performed for Hermes and the victors of the athletic contest of the Hermaia, and crown each of these individuals. (130) Let him deposit in the (civic?) archive an account of the expense incurred for each of the days on which sacrifices are performed according to the present contract. All the statues of the god (Hermes) in the gymnasium are to be wreathed. The <foreign>agoranomoi</foreign> are to take care that the one who buys (the priesthood) is to wreathe (the herms in) the stoa of the Herms, just as it is commanded to him (135) that he wreathe the statues in the agora. The <foreign>poletai</foreign> who are in office are to sell the priesthood of Hermes, and the one buying the priesthood is to pay the money to the treasurers, making three instalments: the first in the month Gerastios, the second in Hyakinthios, the third in the month Alseios (140) under (the monarchos) Menoitios. The accountants are to declare the money accrued from the priesthood as given (as a gift) by the city to Hermes. When the city has become free of its obligations, which [...] send under the monarchy of Menoitios, the people is to discuss what is necessary to celebrate to the god (Hermes) from these funds up to the budgetted account (145) which the treasurers and the <foreign>prostatai</foreign> gave to the <foreign>epistatai</foreign>. If the treasurers, concerning the funds assigned to the god (Hermes) according to this contract, spend any of this money or do not give what they are assigned to provide for the sacrifices as is written, (150) let them pay a fine of 3000 dr. sacred to Hermes. Let them write in detail the money for the sacrifices and the money now provided [...] to Hermes.
+</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Face A</p>
+<p>À la bonne fortune. Ceux qui ont été élus ont rédigé ce contrat à propos de la prêtrise d’Hermès Enagonios : Hipparchos, fils de Nikolochos, Androsthenes, fils d’Althaimenès, Charidamos, fils de Diophantos. Que l’acheteur de la prêtrise d’Hermès Enagonios (5) soit en bonne santé et d’une totale intégrité physique, et qu’il exerce la prêtrise à vie. Que l’acheteur de la prêtrise soit exempt de service militaire à l’étranger, de l’hippotrophie, de la triérarchie, des chorégies, de la lampadarchie, et de toutes les autres liturgies. Qu’il répande les libations lors des concours, et qu’il soit assis au premier rang comme les autres prêtres. (10) Que le prêtre place les offrandes sur l’autel pour tous les sacrifiants. Qu’il reçoive comme parts d’honneur des animaux sacrifiés à Hermès Enagonios la peau et une patte. Que le monarque en fonction après Menoitios et les hiéropes, ainsi que ceux qui seront en fonction à l’avenir, (15) sacrifient, sur l’argent à leur disposition pour les
+sacrifices mensuels, le 4 des autres mois, mais le 2 Hyakinthios et le 10 Alseios, chaque mois un mouton mâle ne valant pas moins de 30 drachmes. Que le prêtre se joigne à la procession pour tous les sacrifices qu’il accomplit pour Hermès avec le monarque et les hiéropes. (20) Que l’agonothète sacrifie comme auparavant lors des trois premières courses aux flambeaux préliminaires, le 10, le 16 et le 20 Dalios, à chaque course un animal adulte d’une valeur équivalente à ce qui est prescrit dans la loi, soit 60 dr. Qu’il sacrifie en outre lors de la course aux flambeaux (25) du 10 du mois Alseios un animal pour la même somme d’argent fixée, comme auparavant. Que les lampadarques sacrifient à Hermès lors des trois courses aux flambeaux préliminaires, le 25 Dalios, le 1er et le 6 Alseios, chacun à chaque course un animal adulte (30) ne valant pas moins de 60 dr. Qu’ils sacrifient en outre le 4 Alseios avant que n’ait lieu la compétition de la course aux flambeaux et le 10 lors de la course aux flambeaux, chacun des deux jours, chacun des lampadarques un animal ne valant pas moins de 40 dr. Que celui des lampadarques qui remporte le concours de prestance ou la course sacrifie (35) à Hermès le lendemain de la course, sur le prix de la victoire fixé dans la loi, pour chaque victoire, un animal adulte de 30 dr.Que le gymnasiarque en fonction après le monarque Menoitios et les autres en fonction à l’avenir, sur l’argent qui leur est donné pour les concours de tir à l’arc (40) et de lancer du javelot, sacrifient au semestre d’hiver en Theudaisios, en Kaphisios, en Gerastios, et au semestre d’été en Agrianos, en Panamos et en Alseios, chaque mois un animal ne valant pas moins de 25 dr. Qu’ils sacrifient en outre sur l’argent qui leur est donné pour les courses d’Artamitios et d’Agrianios, chaque mois un animal (45) ne valant pas moins de 50 dr. Qu’ils sacrifient également le 10 Alseios, comme auparavant, un animal ne valant pas moins que ce qui est prescrit dans la loi, soit 60 dr. Que le pédonome en fonction après le monarque Menoitios et ceux en fonction à l’avenir sacrifient le 2 Hyakinthios à Hermès (50) un animal adulte de 60 dr. Que les trésoriers leur donnent la somme prescrite. Le 2 du mois de Hyakinthios, après la course longue, une course aux flambeaux des garçons aura lieu avant l’envoi des processions. Que le pédonome, avec le prêtre d’Hermès et l’agonothète, sélectionne (55) des garçons parmi ceux qui fréquentent la palestre, en nombre égal à ce qui est prescrit dans la loi pour les coureurs du 10 Alseios. Qu’ils s’enduisent avec l’huile fournie par le gymnasiarque avant de courir. De l’animal sacrifié par le pédonome le 2 Hyakinthios à (60) Hermès, qu’il divise le reste des viandes aux participants de la course aux flambeaux, mais qu’il donne la patte gauche comme prix au vainqueur de la course préliminaire. S’il y a des concurrents pour la course préliminaire, on organisera la course pour ceux-là conformément à ce qui est écrit dans la loi pour les concurrents du 4 Alseios. (65) Que le pédonome sacrifie lors de la course aux flambeaux du 10 Alseios un animal à Hermès, comme prescrit dans la loi, ne valant pas moins de 30 dr. Qu’il sacrifie l’autre animal prescrit dans la loi de la même manière. On donnera comme prix aux vainqueurs 30 dr. sur l’argent fixé. Que les stratèges, (70) sur l’argent qui leur est donné pour les concours de lancer à la catapulte, sacrifient à Hermès aux mois d’Artamitios, Panamos, Karneios et Kaphisios, à chacun des mois précités, un animal ne valant pas moins de 40 dr. Que tous les vainqueurs d’un (75) concours stéphanite sacrifient à Hermes Enagonios un animal ne valant pas moins de 40 dr, lorsque les prostates font la proclamation des vainqueurs aux concours stéphanites. Que le prêtre d’Hermès remette la couronne au vainqueur au nom de la cité. Que les pédotribes qui ont passé la vérification du conseil (80) sacrifient à Hermès le 2 du mois de Hyakinthios ensemble un animal ne valant pas moins de 30 dr. Qu’à partir du mois de Batromios sous Menoitios, les revenus des astynomes et des agoranomes à l’exception des [...], des cautions déposées pour les procès en rapport avec le commerce et des taxes de dix pour cent des [... (85) tous] soient consacrés à Hermès. Que ceux qui ont pris des travaux en adjudication [auprès des ...] ou des épistates, à partir du mois de Batromios sous Menoitios, consacrent sur tout le [...] à Hermès, et des travaux que les trésoriers [...], qu’ils leur déduisent (90) [...] du premier versement [...] </p>
+
+						<p>Face B</p>
+<p>[...] pour l’offrande, jusqu'à ce que les épistates aient offert une compensation aux adjudicataires. Conformément à cela, que les épistates remboursent l’argent aux trésoriers. Que le prêtre, avec le gymnasiarque, désigne chaque année le 1er (95) du mois d'Agrianos à l’assemblée cinq <foreign>epimenioi</foreign> parmi les <foreign>neoi</foreign> qui fréquentent le gymnase, que chacun d’eux s’habille avec apparat. Que les trésoriers paient à ceux qui ont été choisis [...] dr., sur les (100) revenus, 700 dr. (?), un bovin jusqu'à 300 dr., du bois à brûler et un mouton jusqu'à 60 dr. Que les <foreign>epimenioi</foreign> sacrifient le 4 Hyakinthios, après avoir défilé en procession au nom de la cité avec le prêtre, le gymnasiarque, le sous-gymnasiarque et les <foreign>neoi</foreign>, à Hermès, un boeuf (105) ne valant pas moins de 250 dr. et un porc ne valant pas moins de 50 dr. Que ceux qui le souhaitent parmi ceux qui se déshabillent au gymnase, hormis les éphèbes, donnent aux <foreign>epimenioi</foreign> pour la réunion et la panégyrie des Hermaia 2 dr. chacun pour chacun des deux jours. Que les
+<foreign>epimenioi</foreign> (110) qui se sont acquittés de la somme prescrite de la [...] de la procession [...] sacrifier [...] (115) sur l’argent du dieu [...] au gymnasiarque [...] que le prêtre dépose chaque animal pour les [...] avec le prêtre et le [...] sacrifie (120) sur l’argent donné [...] le sacrifice est accompli le 30 Hyakinthios.  Que [...] soient consacrées comme les autres [...] à la palestre [...] Pour celui qui a été agonothète des (125) Asklepieia pentétériques, que le prêtre dépose toutes les (portions des) bêtes sacrificielles (sur l’autel), avec les <foreign>epimenioi</foreign>, [...] le 4 du mois d'Artamitios. Que le prêtre proclame le vainqueur de la course aux flambeaux organisée en l’honneur d’Hermès et les vainqueurs du concours gymnique des Hermaia et qu’il remette les couronnes à chacun. (130) Qu’il remette dans le coffre le compte de la dépense engendrée les jours où des sacrifices sont accomplis conformément à ce contrat. Que soient couronnées toutes les statues du dieu qui se trouvent dans le gymnase. Que les agoranomes fassent en sorte que l'acheteur (de la prêtrise) couronne (les hermès de) la stoa des Hermès, de la même manière qu’il a été ordonné (135) de couronner les statues qui se trouvent sur l’agora. Que les polètes en fonction mettent en vente la prêtrise d’Hermès, que l’acheteur paie la somme aux trésoriers en trois versements, le premier en Gerastios, le second en Hyakinthios, le troisième en Alseios (140) sous Menoitios. Que les comptables inscrivent l’excédent venant de la prêtrise comme dû à Hermès par la cité. Lorsque la cité sera libre de dettes, [...] sous le monarque Menoitios, que le peuple statue sur ce qu’il faut accomplir pour le dieu avec cet argent (145) pour le montant dont les prostates et les trésoriers donneront le compte à l’épistate. Si les trésoriers prêtent une partie de l’argent qui revient au dieu conformément à ce contrat, ou s’ils ne donnent pas la somme prévue pour les sacrifices comme il leur est prescrit, (150) qu’ils paient une amende de 3000 dr. consacrées à Hermès. Qu’ils enregistrent la somme pour les sacrifices et celle qui est alors rendue [...] pour Hermès.
+					</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p> This inscription constitutes one of the earliest and best preserved examples of the so-called “sales of priesthoods”, particularly well attested on Kos. The practice of auctioning priesthoods, rather than appointing priests through election or sortition, developed in the Aegean islands and the western coast of Asia Minor during the Hellenistic period (see Parker - Obbink; Wiemer). In the city of Kos, the standard procedure requires to set up a committee who will draw up a contract (διαγραφά) compiling the duties and benefits attached to the function. These contracts are not only financial and administrative documents, but also very informative as regards cult practice. The present inscription includes many of the standard features of this type of documents, developing some of them at considerable length.</p>
+
+<p> The structure is as follows: introduction and members of the committee (lines 1-4); prerequisites and term (line 5); exemptions (lines 5-8); libations and <foreign>proedria</foreign> in contests (lines 8-10); sacrifices (lines 10-127)—these regulations do not follow a chronological order, but are organised according to the group performing the sacrifice—as well as a subsection on the consecration of income (lines 82-93); the proclamation and crowning of winners in contests (lines 127-129); accounting (lines 129-131); crowning of statues (lines 131-135); practical details concerning the sale, instalments, and the use of the income from the sale (lines 135-153).</p>
+
+<p> The epithet Enagonios associated with Hermes underlines the god’s function as patron of the gymnasium, and refers more specifically to a deity presiding over contests (<foreign>agones</foreign>). Following Gauthier, the section on sacrificial regulations (lines 10-127) allows us to reconstruct the organisation of two different festivals related to the gymnasium, the Hermaia and the Alseia. Both festivals also included sacrifices to Zeus Alseios, whose cult was associated to the gymnasium in Kos (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 328), as well as athletic competitions, such as races and torch-races. However, some of the prescriptions seem to allude to Hermes’ function as patron of commercial activities on the agora, e.g. the consecration of income by the <foreign>astynomoi</foreign> and <foreign>agoranomoi</foreign> (lines 82-87), as well as the crowning of statues in the agora (lines 131-135). On the cult of Hermes Enagonios, see Paul; for a detailed chronological chart of the festivals and individual rituals in honour of the gods, see Paul, p. 132-133. For the festival of the Hermaia and its organisation at Beroia, see Lupu.</p>
+
+<p>Line 5: On the mandatory criteria of good health and physical integrity for the priest's person, see here another sale of priesthood from Kos, <ref target="CGRN_164">CGRN 164</ref>, lines 5-6, with further references.</p>
+
+<p>Lines 5-8: On the exemptions from liturgies and taxation that were usually granted as part of sales of priesthoods (sometimes even commensurate with the price paid for the office), cf. here e.g. <ref target="CGRN_176">CGRN 176</ref> (Priene), lines 24-30.</p>
+
+<p>Lines 8-10: On the standard priestly privileges of performing libations and front-row seating <foreign>proedria</foreign> during contests and other celebrations, cp. for Kos: <ref target="CGRN_164">CGRN 164</ref>, lines 10-12, and <ref target="CGRN_221">CGRN 221</ref>, lines 20-22.</p>
+
+<p> Lines 10-11: The priest is in charge of placing the <foreign>hiera</foreign> on the altar in lieu of the sacrificants. See also <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 307, lines 13-14; <ref target="http://cgrn.ulg.ac.be/CGRN_208/">CGRN 208</ref>, lines 18-19, for similar regulations in other Koan sales of priesthoods. See also, in Oropos, <ref target="http://cgrn.ulg.ac.be/CGRN_75/">CGRN 75</ref>, lines 25-29. In this case, the Greek word <foreign>hiera</foreign> seems to refer to the meat portions consecrated to the god, as opposed to its use in the sacrificial calendar of the city (cf. <ref target="http://cgrn.ulg.ac.be/CGRN_86/">CGRN 86</ref> A, lines 21, 46-47, 51, 57, 59, etc.) where it refers to additional offerings (Paul, p. 340-344). We can observe a distinction between the placing of portions of meat and bone on the altar, which is the sole responsibility of the priest, and the placing of offerings on a table (<foreign>trapeza</foreign>) that can be done by the sacrificants themselves. Cp. <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 330, lines 16-17; <ref target="http://cgrn.ulg.ac.be/CGRN_188/">CGRN 188</ref>, lines 2-3.</p>
+
+<p> Lines 11-12: The priest receives as perquisites from all the sacrifices to Hermes Enagonios the skin and a leg, as is usual in Kos (cf. also the sacrificial calendar, <ref target="http://cgrn.ulg.ac.be/CGRN_86/">CGRN 86</ref> A, lines 22, 47, 50, 60, 64). The necessity to discuss priestly privileges partly explains why sacrificial regulations form a typical section in Koan sales of priesthoods (see also above and below).</p>
+
+<p>Lines 12-20: Monthly sacrifices to Hermes are to be made by the <foreign>monarchos</foreign> along with the <foreign>hieropoioi</foreign> from money assigned to them. These are to take place on the 4th of each month; myths held that Hermes' birthday was on the 4th, which was especially sacred to the god (see Mikalson, p. 16-17). The two exceptions to the monthly sacrifices occur in Hyakinthios and Alseios, where the offerings must take place on the 2nd and the 10th respectively. These two occasions formed a part of the principal celebrations involving the cult of Hermes Enagonios: the Hermaia (2-4 Hyakinthios, month 7 in the calendar of Kos, in early Summer) and the Alseia (ca. 10 Alseios, possibly involving other days; this was month 11 on Kos, falling in the early Autumn). They continue to be described in the sacrificial regulations forming a part of the sale of the priesthood of Hermes Enagonios; see further below.</p>
+
+<p> Lines 20-26: This subsection concerns the sacrifices which must be performed by the agonothete, responsible for the setting up of contests. Sacrifices must be made on the three first preliminary torch-races (<foreign>prolampades</foreign>), all of which take place in the month Dalios. These races are to be seen as qualifying matches in view of the eventual contest on 4 Alseios (see Gauthier, p. 583; Paul, p. 130). Another sacrifice by the agonothete must also be made during the torch-race of the Alseia, on the 10th of Alseios (see above lines 12-20). In lines 20-21, the expression καθὰ καὶ πρότερον (cf. also lines 26 and 46), as well as the references to what is prescribed in the law (ἐν τῶι νόμωι: lines 23-24, 35, 47, 56-57, 66, 68) emphasise a strong reference to codified practice. Conversely, the inscription shows clear traces of innovations, for instance, lines 51-69 concerning the organisation of a new race for the <foreign>paides</foreign> and lines 93-127 evidently adding new sacrifices to be performed to Hermes. The sale of a priesthood represented for the <foreign>polis</foreign> a convenient way to introduce modifications in cult practice on a regular basis.
+</p>
+
+<p>Lines 26-37: Other sacrifices in these contexts are to be made by the <foreign>lampadarchoi</foreign>, officials who were in charge of leading groups of participants during the torch-race contests. These are concerned with three other <foreign>prolampades</foreign> (on which, see immediately above); sacrifices are also to occur during the two major torch-races, on the 4th and 10th of Alseios respectively. Two types of victory for the <foreign>lampadarchoi</foreign> are envisaged either for speed in the race itself (δρόμος) or for good form (εὐεξία; on the latter, see Paul, p. 130 n. 519). In each case, the victorious <foreign>lampadarchos</foreign> must make the sacrifice on the day after the contest, using the money from the prize as established by law; for the νικητήριον, see also here <ref target="CGRN_199">CGRN 199</ref>, line 10 (20 drachmae in the Posideia on Delos; 10 drachmae for the second prize); for a similar cash prize, cf. lines 68-69.</p>
+
+<p>Lines 37-47: These lines concern the recurrent sacrifices that are prescribed to the annual gymnasiarchs, funds for which derive from the sums granted to these officials for the different types of competitive training for the youths (bowmanship, javelin-throwing, and foot-racing).</p>
+
+<p>Lines 47-61: Similar rules concern a sacrifice to be performed by the annual <foreign>paidonomos</foreign>, focussing again on the date of the 2nd of Hyakinthios. One clause stipulates that after the "long-distance race" (μετὰ... τὸν μακρὸν δρόμον) and before the main procession, a torch-race for boys was also to be organised. These contests again make reference to previous practice, namely a law that established the number of boys for the torch-race on the 10th of Alseios during the Alseia. In lines 58-61, detailed rules are specified concerning the victory prizes for this torch-race for boys on the 2nd of Hyakinthios. From the animal sacrificed by the <foreign>paidonomos</foreign>, the meat is to be divided among the participants; the left leg is to be awarded to the victor in the contest called <foreign>prata</foreign>; the right leg is presumed to have been awarded to the priest of Hermes as his perquisite (see above, lines 11-12; cf. Carbon). On the left and right portions from Greek sacrifices, cf.
+here <ref target="CGRN_212">CGRN 212</ref> (Pergamon), line 14 (on right legs); for a lefthand portion (the cheek), cp. also <ref target="CGRN_37">CGRN 37</ref> (Chios), line 11. For the contest called <foreign>prata</foreign>—a torch-race fought individually rather than collectively—and the <foreign>makros dromos</foreign>, see also <ref target="CGRN_167">CGRN 167</ref>, lines A13-15 (sale of the priesthood of Zeus Alseios). The holding of a <foreign>prata</foreign>, however, was conditional on there being participants willing to compete in this event (see lines 62-64).</p>
+
+<p>Lines 69-82: These further rules concern mandatory sacrifices to be made by the annual generals (<foreign>stratagoi</foreign>); by the victors in the "stephanitic" (crown-prize) contests; as well as by the <foreign>paidotribai</foreign>, who were physical trainers (whether free men or slaves), employed in the gymnasium. In the case of the victors, they were required to sacrifice only after their victory had been announced and the priest of Hermes was to perform the crowning ceremony. Stephanitic contests on Kos would have included the major games of the Asklepieia as well as many other occasions; for crowns awarded during the Alseia, see also here <ref target="CGRN_167">CGRN 167</ref>, lines A13-15. See further below, lines 124-127, for the Asklepieia; and 127-129 for the Hermaia themselves.</p>
+
+<p> Lines 82-93: The consecration of income from the <foreign>astynomoi</foreign>, the <foreign>agoranomoi</foreign> and the contractors plausibly aimed at financing all or part of the sacrifices. Some of the rubrics listed in the sacrificial regulations forming a part of this document specify the precise source of the funding for the sacrifices prescribed (cf. e.g. lines 37-47 on the gymnasiarch); others, however, do not (such as for the <foreign>paidotribai</foreign>, see immediately above). These sacrifices would need to be funded through alternative means, hence the need for other revenues to become "sacred to Hermes" or to be consecrated as ἀπαρχαί (first-offerings, in cash).</p>
+
+<p>Lines 93-110: These sacrificial rules concern a different category of individuals, namely the young men participating in gymnasial activities. Each year, the priest and the gymnasiarch are to select five <foreign>epimenioi</foreign> from among the new cohort of youth (<foreign>neoi</foreign>) entering the gymnasium in this age-category. To distinguish themselves from the other naked youths, these chosen officials are to have the right to equip and dress themselves (ἕκαστος αὐτῶν μετ᾿ ἐξουσίας στολίζ̣εσθαι, lines 97-98). On <foreign>epimenioi</foreign>, usually here the temporarily appointed cultic officials of a private group, but here acting as the officials responsible for their own age-group, cf. <ref target="CGRN_96">CGRN 96</ref> (Kos), lines 63, 67, 111-112, 141, 144, <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 24, 30, 40, and <ref target="CGRN_197">CGRN 197</ref> (also from Kos), line 49. As in these other cases, the primary responsibility of the
+<foreign>epimenioi</foreign> is to accomplish important rituals, here notably consisting of the major sacrifice of an ox (costing between 250-300 drachmae, lines 100 and 105), which was to be sacrified on the 4th of Hyakinthios, after some of the contests described above. This was clearly an important sacrificial occasion for the city (cf. the procession ὑπὲρ τᾶς πόλιος in line 103), and marking one of the festival days of the Hermaia (see line 108, for the assembly of the youths and the πανάγυρις τῶν Ἑρμαίων). As the regulation is again concerned with raising funds to pay for the sacrifices (cf. above, 82-93), it is stipulated that each participants in the gymnasium except the ephebes is to contribute 2 drachmae each day of their participation during the multi-day occasion (2-4 Hyakinthios).</p>
+
+<p>Lines 124-127: The priest, helped by the <foreign>epimenioi</foreign> of the <foreign>neoi</foreign> (see immediately above) is also to officiate during the quadrennial Asklepieia (on which, see above at lines 69-82). Specifically, he is "to place all the animals"—presumably the <foreign>hiera</foreign> on the altar are actually meant here (see above at lines 10-11 for this function of the priest)—for the agonothete who provided this important athletic contest and celebration at the Asklepieion on Kos.</p>
+
+<p>Lines 127-129: The priest is also to be responsible for essentially fulfilling the function of a herald and announcing the victors of the Hermaia (2-4 Hyakinthios) as well as crowning them (cp. above, lines 69-82).</p>
+
+<p>Lines 135-153: Amid the concluding section of the sale, which specifies notably the modalities for the payment (three instalments, as is often the case), as well as clauses concerning the proper use of the funds belonging to the god (including heavy fines for the misuse of these funds by the <foreign>tamiai</foreign>, see lines 150-151), we find a few further clauses of interest concerning the duties of the priest of Hermes Enagonios. Specifically, the priest is to crown all the statues of the god that are set up in the gymnasium (lines 131-132); it is not specified when he was supposed to do this (perhaps only in the circumstances of major rituals, but possibly he was to make sure that they were regularly crowned); we hear that further details were provided in a part of the regulation (now missing; cf. perhaps lines 111-123) stating that he was also to crown the statues of Hermes that were located in the agora of Kos (lines 134-135).</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

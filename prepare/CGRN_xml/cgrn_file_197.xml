@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_197" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 197</idno>: <rs type="textType" key="decree">Decree</rs> concerning the donation by Aristokreon for the benefit of the Theoi Patroioi at Isthmos on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Opistographic <rs type="objectType">stele</rs> of white marble with a <foreign>kymation</foreign>, reused as part of a Byzantine capital and inscribed with the letter Β on each side. Measurements given with the <foreign>kymation</foreign> at the top of the stele.</p>
+			
+			<p> <dimensions>
+				<height unit="cm">71.5</height>
+				<width unit="cm">32</width>
+				<depth unit="cm">14.5</depth>
+			</dimensions></p>
+			
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p> Letters: <height unit="cm">1.1</height>; space between lines: <height unit="cm">0.5</height>.</p> 	
+		</layout></layoutDesc>
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0200" notAfter="-0175">ca. 200-175 BC</origDate></p>		
+		<p><desc>Justification: lettering (Hallof - Bosnakis).</desc></p>
+						</origin>
+	<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found in the village of Kefalos (territory of Isthmos). Now in the small storage room of the Castle.</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 100.</p>
+	    			<p> Other edition:                   
+	    			<bibl type="author_date" n="Pugliese Carratelli 1963-1964">Pugliese Carratelli 1963-1964</bibl>: 161-163 no. VI, with ph. figs. 2 and 3.</p>
+
+	    			<p>Cf. also: <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20100" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+	    			
+	    		<p> Further bibliograhpy:
+	    		<bibl type="author_date" n="Van Straten 1995">Van Straten 1995</bibl>;
+	    		<bibl type="author_date" n="Bosnakis - Hallof 2005">Bosnakis - Hallof 2005</bibl>;
+	    		<bibl type="author_date" n="Parker 2008a">Parker 2008a</bibl>;
+	    		<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>;
+	    		<bibl type="author_date" n="Kató 2013">Kató 2013</bibl>.
+	    		</p>
+	    		</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    			
+	    				<ab subtype="Face" n="A">Face A
+	    					
+	    					
+<lb xml:id="line_A1" n="A1"/> <w lemma="ἐπί">ἐπὶ</w> <w lemma="μόναρχος">μονάρχου</w> Δίωνος, <w lemma="ἐν">ἐν</w> <w lemma="Ἰσθμός">Ἰσθμῶι</w> δὲ <gap reason="lost" extent="unknown" unit="character"/>,
+	    					
+	    					
+<lb xml:id="line_A2" n="A2"/> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίου</w></name> <w lemma="τετράς">τετράδι</w> <w lemma="ἄπειμι">ἀπιόντος</w>, <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Δι</supplied>
+	    					
+	    					
+<lb xml:id="line_A3" n="A3" break="no"/>δυμάρχου <w lemma="λέγω">εἶπε</w>· <w lemma="ἐπειδή">ἐπειδὴ</w> Ἀριστοκρέ<unclear>ω</unclear><supplied reason="lost">ν</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_A4" n="A4" break="no"/><orig>δα</orig> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνέθηκε</w></name> <w lemma="ἀργύριον">ἀργύριον</w> <w lemma="ὅς">οἷς</w> <w lemma="μέτειμι">μέτεστ<supplied reason="lost">ι</supplied></w> <name type="group"><w lemma="Θεαδής"><supplied reason="lost">Θεαδᾶν</supplied></w></name> <name type="group"><w lemma="Κυνιαδής"><supplied reason="lost">Κυ</supplied>
+	    					
+	    					
+<lb xml:id="line_A5" n="A5" break="no"/>νιαδᾶν</w></name> <name type="group"><w lemma="Μελαιναδής">Μελαιναδᾶν</w></name>, <w lemma="ὅπως">ὅπως</w> <w lemma="οὖν">οὖν</w> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">οἱ</supplied> <name type="group"><w lemma="δημότης"><supplied reason="lost">δαμό</supplied>
+	    						
+	    					
+<lb xml:id="line_A6" n="A6" break="no"/>ται</w></name> <w lemma="ἐπαινέω">ἐπ<supplied reason="lost">αινῶ</supplied>ντι</w> <unclear>τὰν</unclear> Ἀριστοκρέο<supplied reason="lost">ντος</supplied> <name type="authority"><w lemma="προαίρεσις"><supplied reason="lost">προαί</supplied>
+	    							
+	    					
+<lb xml:id="line_A7" n="A7" break="no"/>ρεσιν</w></name>, <w lemma="δοκέω">δεδόχθαι</w>· τὰ<unclear>ς</unclear> <name type="sacrifice"><w lemma="θυσία">θυσία<unclear>ς</unclear></w></name> <w lemma="πᾶς">πάσ<supplied reason="lost">ας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_A8" n="A8"/> ταῖς <name type="group"><w lemma="φυλή">φυλαῖς</w></name> <w lemma="οὗτος">ταύ<supplied reason="lost">ταις</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_A9" n="A9"/> <w lemma="ἀποσυγγράφω">ἀπ<unclear>ο</unclear>συγγράψ<unclear>αι</unclear></w> <orig><unclear>ε</unclear>ν</orig><gap reason="lost" quantity="2" unit="character"/> <w lemma="διορθόω">διορ<unclear>θώ</unclear>σασ<supplied reason="lost">θαι</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_A10" n="A10"/> τος <name type="authority"><w lemma="ἔννομος">ἐννόμος</w></name> <orig>ΣΓ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_A11" n="A11"/> <w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="γράφω">γεγραμμένα</w></name> <w lemma="ὑπό">ὑπ<supplied reason="lost">ὸ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_A12" n="A12"/> <w lemma="ἐπί">ἐπὶ</w> <orig>ΤΑΝΑ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_A13" n="A13"/> <orig>ΤΑΣΠ<unclear>Ρ</unclear>Α</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_A14" n="A14"/> <w lemma="πρόσοδος">ποθόδου</w> <w lemma="ἱκανός">ἱκα<supplied reason="lost">ν</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_A15" n="A15"/> <orig>ΤΩΝΑ</orig><gap reason="lost" extent="unknown" unit="character"/> <w lemma="αἱρέω"><supplied reason="lost">αἱρεῖσθαι</supplied></w>
+	    					
+	    					
+<lb xml:id="line_A16" n="A16"/> <name type="personnel"><w lemma="ἀρχεύω">ἀρχεύοντα</w></name> <w lemma="εἷς">ἕνα</w> <w lemma="ἐκ">ἐκ</w> <w lemma="πᾶς">πάντων</w>, τὸ δὲ <w lemma="λοιπός">λο<supplied reason="lost">ιπὸν</supplied></w> <w lemma="ἀεί"><supplied reason="lost">ἀεὶ</supplied></w>
+	    					
+	    					
+<lb xml:id="line_A17" n="A17"/> <w lemma="αἱρέω">αἱρείσθω</w> ὁ <name type="personnel"><w lemma="ἀρχεύω">ἀρχεύων</w></name> τὸν <name type="personnel"><w lemma="ἀρχεύω">ἀρχεύοντα</w></name>, <supplied reason="lost">τῶι</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="αἱρέω"><supplied reason="lost">αἱρεθ</supplied>
+	    						
+	    					
+<lb xml:id="line_A18" n="A18" break="no"/>έντι</w> <w lemma="ἐξουσία">ἐξουσία</w> <w lemma="εἰμί">ἔστω</w> <w lemma="ἀνθαιρέομαι">ἀνθελέσθαι</w> <w lemma="εἰ">εἴ</w> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <w lemma="δήλομαι"><supplied reason="lost">δήληται</supplied></w>·    
+	    					
+	    					
+<lb xml:id="line_A19" n="A19"/> <w lemma="εἰ">εἰ</w> δέ <w lemma="κα">κα</w> <w lemma="ἀνθαιρέομαι">ἀνθέληται</w> ὁ <name type="title"><w lemma="δήμαρχος">δάμαρχος</w></name> <w lemma="διαχειροτονέω">δια<supplied reason="lost">χειροτονη</supplied>
+	    						
+	    					
+<lb xml:id="line_A20" n="A20" break="no"/>σάτω</w>, <w lemma="ὅς">ὧι</w> δέ <w lemma="κα">κα</w> <w lemma="πλείων">πλέους</w> <gap reason="lost" quantity="1" unit="character"/><orig>ΓΙΕΣΓ</orig><gap reason="lost" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_A21" n="A21"/> <w lemma="εἰμί">ἔστω</w> <name type="personnel"><w lemma="ἀρχεύω">ἀρχεύων</w></name>, ὁ δὲ <w lemma="αἱρέω">αἱρεθεὶς</w> <w lemma="ποιέω">ποιεί<supplied reason="lost">τω</supplied></w> <supplied reason="lost">τὰν</supplied> <name type="meal"><w lemma="ὑποδοχή"><supplied reason="lost">ὑπο</supplied>
+	    						
+	    					
+<lb xml:id="line_A22" n="A22" break="no"/>δοχὰν</w></name> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίου</w></name> <w lemma="ἕκτος">ἕκται</w> καὶ <w lemma="πέμπτος">πέ<unclear>ν</unclear><supplied reason="lost">πται</supplied></w> <w lemma="ἄπειμι"><supplied reason="lost">ἀπιόν</supplied>
+	    					    					
+<lb xml:id="line_A23" n="A23" break="no"/>τος</w>, τὸν δὲ <w lemma="λόγος">λόγον</w> <w lemma="ἀποδίδωμι">ἀποδότω</w> ὁ <w lemma="ἀρχεύω">ἀρχεύω<supplied reason="lost">ν</supplied></w> <supplied reason="lost">τὰν</supplied> <w lemma="αὔριον"><supplied reason="lost">αὔ</supplied>
+	    								
+	    					
+	<lb xml:id="line_A24" n="A24" break="no"/>ριον</w> τᾶς <name type="meal"><w lemma="ὑποδοχή">ὑποδοχᾶς</w></name>· <w lemma="εἰ">εἰ</w> δέ <w lemma="τις">τίς</w> <w lemma="κα">κα</w> <w lemma="καταλαμβάνω">κα<supplied reason="lost">ταλάβηι</supplied></w> <w lemma="ὅς"><supplied reason="lost">ὧν</supplied></w> <w lemma="μέτειμι"><supplied reason="lost">μέ</supplied>
+	    					
+	    					
+<lb xml:id="line_A25" n="A25" break="no"/>τεστι</w> <name type="group"><w lemma="Θεαδής">Θεαδᾶν</w></name>, <name type="group"><w lemma="Κυνιαδής">Κυνιαδᾶν</w></name>, <name type="group"><w lemma="Μελαιναδής">Μελαινα<supplied reason="lost">δᾶν</supplied></w></name> <w lemma="ὅστις"><supplied reason="lost">ὁτιοῦν</supplied></w> <w lemma="ὅς"><supplied reason="lost">ὧν</supplied></w>
+	    					
+	    					
+<lb xml:id="line_A26" n="A26"/> Ἀριστοκρέων <name type="genericOffering"> <w lemma="ἀνατίθημι">ἀνέθ<unclear>ηκε</unclear></w></name>, <name type="punishment"><w lemma="ἀποτίνω">ἀποτεισ<supplied reason="lost">άτω</supplied></w></name> <w lemma="δραχμή"><supplied reason="lost">δραχμὰς</supplied></w>
+	    					
+	    					
+<lb xml:id="line_A27" n="A27"/> <w lemma="χίλιοι">χιλίας</w> <name type="genericOffering"><w lemma="ἱερός">ἱερὰς</w></name> <name type="deity" key="generic"><w lemma="θεός">Θεῶν</w></name> <name type="epithet" key="Patroioi"><w lemma="πατρῷος">Πατρώιων</w></name> <w lemma="ὅς">οἷς</w> ἁ <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυσία</supplied></w></name> <w lemma="συντελέω"><supplied reason="lost">συντε</supplied>
+	    						
+	    					
+<lb xml:id="line_A28" n="A28" break="no"/>λεῖται</w>· <w lemma="φαίνω">φαινέτ<supplied reason="lost">ω</supplied></w> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">ὁ</supplied> <w lemma="χρῄζω">χρῄζων</w> <w lemma="ἐπί">ἐπὶ</w> <supplied reason="lost">τὸν</supplied> <name type="title"><w lemma="δήμαρχος"><supplied reason="lost">δάμαρ</supplied>
+	    							
+	    					
+<lb xml:id="line_A29" n="A29" break="no"/>χον</w></name> <w lemma="ἐπί">ἐπὶ</w> τῶι <w lemma="ἥμισυς">ἡ<unclear>μί</unclear>σωι</w>, ὁ δὲ <name type="title"><w lemma="δήμαρχος">δάμαρχος</w></name> <supplied reason="lost">τὰς</supplied> <w lemma="δραχμή"><supplied reason="lost">δραχμὰς</supplied></w>
+	    					
+	    					
+<lb xml:id="line_A30" n="A30"/> <w lemma="οὗτος">ταύτας</w> <w lemma="εἰσδίδωμι">ἐσδιδότω</w> <w lemma="ἐν">ἐν</w> τᾶι <name type="group"><w lemma="φυλή">φυλα</w><gap reason="lost" extent="unknown" unit="character"/></name>
+	    					
+	    					
+<lb xml:id="line_A31" n="A31"/> <w lemma="λόγος">λόγωι</w>, <w lemma="ὡς">ὥς</w> <w lemma="κα"><supplied reason="lost">κ</supplied>α</w> ὁ <name type="personnel"><w lemma="ἀρχεύω">ἀρχεύων</w></name> τὸν <w lemma="λόγος">λόγ<supplied reason="lost">ον</supplied></w> <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀποδιδῶι</supplied></w>
+	    					
+	    					
+<lb xml:id="line_A32" n="A32"/> <w lemma="παραχρῆμα">παραχρῆμα</w>, καὶ <w lemma="ἀναδίδωμι">ἀναδότω</w> <w lemma="ψῆφος">ψάφος</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A33" n="A33"/> <w lemma="τρυπάω">τετρυπαμένας</w> καὶ <w lemma="στερεός">στερεὰς</w> <orig>ΕΙ</orig><gap reason="lost" extent="unknown" unit="character"/> <w lemma="καταβάλλω"><supplied reason="lost">κατα</supplied>
+	    						
+<lb xml:id="line_A34" n="A34" break="no"/> <supplied reason="lost">β</supplied><unclear>α</unclear>λει</w> ὁ <w lemma="φαίνω">φάνας</w> τὸ <w lemma="πέμπτος">πέμπτον</w> <w lemma="μέρος">μέρος</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A35" n="A35"/> <name type="punishment"><w lemma="ἀποτίνω">ἀποτεισάτω</w></name> τὸ <w lemma="δέκατος">δέκατον</w> <w lemma="μέρος">μέρος</w> <gap reason="lost" extent="unknown" unit="character"/>    
+	    					
+<lb xml:id="line_A36" n="A36"/><orig>ου</orig>· <w lemma="εἰ">εἰ</w> δέ <w lemma="κα">κα</w> ὁ <name type="title"><w lemma="δήμαρχος">δάμαρχος</w></name> <w lemma="ἀποδίδωμι">ἀποδοθέ<unclear>ν</unclear>τ<supplied reason="lost">ος</supplied></w> <w lemma="λόγος"><supplied reason="lost">λόγου</supplied></w> <w lemma="αὐτός"><supplied reason="lost">αὐ</supplied>
+	    						
+<lb xml:id="line_A37" n="A37" break="no"/>τωι</w> <w lemma="μή">μὴ</w> <w lemma="εἰσδίδωμι">ἐσδῶι</w> <w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="γράφω">γεγραμμ<supplied reason="lost">ένα</supplied></w></name><supplied reason="lost">,</supplied> <w lemma="ἀποτίνω"><supplied reason="lost">ἀποτει</supplied>
+	    							
+<lb xml:id="line_A38" n="A38" break="no"/> <unclear>σ</unclear>άτω</w> τὸ <w lemma="διπλάσιος">διπλάσιον</w> <name type="punishment"><w lemma="ἐπιτίμιον">ἐπιτίμιον</w></name>· <w lemma="παρέχω"><supplied reason="lost">παρεχέτω</supplied></w> <supplied reason="lost">μὲν</supplied>
+	    					
+<lb xml:id="line_A39" n="A39"/> ὁ <name type="personnel"><w lemma="ἀρχεύω">ἀρχεύων</w></name> τοῖς <w lemma="πᾶς">παισὶν</w> <name type="animal" key="goat"><name type="gender"><w lemma="τράγος">τράγον</w></name></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων"><supplied reason="lost">ἐλάσσονος</supplied></w> <w lemma="ἄξιος"><supplied reason="lost">ἄ</supplied>
+	    						
+<lb xml:id="line_A40" n="A40" break="no"/> ξιον</w> <w lemma="δραχμή">δραχμᾶν</w> <w lemma="εἴκοσι">εἴκοσι</w> καὶ <name type="adornment"><w lemma="λημνίσκος">λημνίσκον</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A41" n="A41"/> <w lemma="λέγω">λε<supplied reason="lost">γ</supplied>έτω</w> <w lemma="αὐτός">αὐτὸς</w> τᾶι <w lemma="πέμπτος">πέμπται</w>· ὁ δὲ <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A42" n="A42"/> <supplied reason="lost">τῶν</supplied> <name type="person"><w lemma="παῖς"><supplied reason="lost">π</supplied><unclear>αί</unclear>δων</w></name> <name type="object"><w lemma="λαμπάς">λαμπάδα</w></name> <name type="authority"><w lemma="κατατάσσω">καταταξάτ<supplied reason="lost">ω</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A43" n="A43"/> <gap reason="lost" extent="unknown" unit="character"/><orig>σι</orig> <w lemma="περί">περὶ</w> τᾶς <w lemma="πρότερος">πράτα<supplied reason="lost">ς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    				
+	    					
+	    				</ab>
+	    				<ab subtype="Face" n="B">Face B
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_B44" n="B44"/> <gap reason="lost" extent="unknown" unit="character"/><unclear>οδ</unclear>ος <orig>ΔΑ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_B45" n="B45"/> <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Η</unclear>Ι</orig> τὸ <w lemma="ἀργύριον">ἀργύριον</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_B46" n="B46"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΛΩΣ</orig> <gap reason="lost" quantity="2" unit="character"/> <name type="sacrifice"><w lemma="θύω">θύει</w></name> ἀπο<gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_B47" n="B47"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="αὐτός"><unclear>α</unclear>ὐτὸν</w> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθί<supplied reason="lost">ου</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_B48" n="B48"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="festival"><w lemma="πανηγυρίζω"><supplied reason="lost">πανα</supplied>γ̣υρίζηι</w></name> <w lemma="ὄγδοος">ὀγδᾶι</w> <w lemma="ἐκ">ἐξ</w> <w lemma="ἰκάς">ἰκάδο<supplied reason="lost">ς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B49" n="B49"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="αἱρέω">ἑλέσθω</w> <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμηνίος</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_B50" n="B50"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="month"><w lemma="Ἀγριάνιος"><supplied reason="lost">Ἀγ</supplied>ριανίου</w></name> <w lemma="ἔνατος">ἐνάται</w>, τοὶ δὲ <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τῶι</supplied> <w lemma="λοιπός"><supplied reason="lost">λοιπῶι</supplied></w>
+	    					
+	    					
+<lb xml:id="line_B51" n="B51"/> <w lemma="ἀεί"><supplied reason="lost">ἀεὶ</supplied></w> <w lemma="αἱρέομαι"><supplied reason="lost">αἱρεύμε</supplied>νοι</w> <name type="title"><w lemma="δήμαρχος">δάμαρχοι</w></name> <name type="month"><w lemma="Ἀρτεμίσιος">Ἀρταμιτ<supplied reason="lost">ίου</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_B52" n="B52"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="αἱρέω"><supplied reason="lost">αἱ</supplied>ρείσθω</w> δὲ <w lemma="ἐκ">ἐξ</w> <w lemma="ἕκαστος">ἑκάστ<supplied reason="lost">ας</supplied></w> <name type="group"><w lemma="φυλή"><supplied reason="lost">φυλᾶς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_B53" n="B53"/> <name type="group"><w lemma=""><supplied reason="lost">Θεαδᾶν</supplied></w></name> <name type="group"><w lemma=""><supplied reason="lost">Κ</supplied><unclear>υ</unclear>νιαδᾶν</w></name> <name type="group"><w lemma="">Μελαιναδ<supplied reason="lost">ᾶν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_B54" n="B54"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="title"><w lemma="δήμαρχος">δαμάρχων</w></name> <w lemma="ὅς">ὧι</w> <w lemma="κα">κα</w> <w lemma="καθικνέομαι">καθ<unclear>ί</unclear>κ<supplied reason="lost">ηι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_B55" n="B55"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="δραχμή"><supplied reason="lost">δρ</supplied>αχμὰς</w> <w lemma="χίλιοι">χιλίας</w> <name type="genericOffering"><w lemma="ἱερός">ἱερὰς</w></name> <name type="deity" key="generic"><w lemma="θεός">Θε<supplied reason="lost">ῶν</supplied></w></name> <name type="epithet" key="Patroioi"><w lemma="πατρῷος"><supplied reason="lost">Πατρώιων</supplied></w></name> <name type="group"><w lemma="Θεαδής"><supplied reason="lost">Θεα</supplied>
+	    					
+<lb xml:id="line_B56" n="B56" break="no"/> <supplied reason="lost">δᾶν</supplied></w></name> <name type="group"><w lemma="Κυνιαδής"><supplied reason="lost">Κυνια</supplied>δᾶν</w></name> <name type="group"><w lemma="Μελαιναδής"><unclear>Μελαιν</unclear><supplied reason="lost">αδ</supplied>ᾶν</w></name> <orig>πρα</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_B57" n="B57"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="ethnic" key="Isthmos"><w lemma="Ἰσθμιώτης"><supplied reason="lost">Ἰσθ</supplied><unclear>μ</unclear>ιωτᾶν</w></name> <w lemma="ἀποδίδωμι">ἀπ<unclear>οδ</unclear><supplied reason="lost">ῶι</supplied></w> <unclear>τὸ</unclear> <w lemma="ἥμισυς">ἥμισο<supplied reason="lost">ν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_B58" n="B58"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΑΠΟΔ</orig><gap reason="lost" extent="unknown" unit="character"/> <w lemma="φυλή"><supplied reason="lost">φ</supplied>υλαῖς</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    						    					
+<lb xml:id="line_B59" n="B59"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="διά">διὰ</w> τῶν <name type="person"><w lemma="ἀνήρ">ἀνδρῶν</w></name> τῶν <w lemma="αἱρέω">α<supplied reason="lost">ἱρεθέντων</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    						    					
+<lb xml:id="line_B60" n="B60"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="περί"><supplied reason="lost">π</supplied><unclear>ε</unclear>ρὶ</w> τῶν τοῦ <name type="group"><w lemma="δῆμος">δάμου</w></name> <w lemma="χρῆμα">χρη<supplied reason="lost">μάτων</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_B61" n="B62"/> <gap reason="lost" extent="unknown" unit="character"/> <unclear>τ</unclear>ᾶς <w lemma="πρόσοδος">ποθόδου</w> <w lemma="δραχμή">δραχμ<unclear>α</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_B62" n="B62"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΜΕ</orig> <w lemma="αὐτοῦ">αὐτοῦ</w> τὸς <w lemma="αἱρέω">αἱρευμ<supplied reason="lost">ένος</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_B63" n="B63"/> <gap reason="lost" extent="unknown" unit="character"/>ντω <w lemma="πᾶς"><unclear>πᾶσ</unclear>αν</w> τὰν <w lemma="πρόσοδος">πό<supplied reason="lost">θοδον</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_B64" n="B64"/> <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Σ</unclear>ΟΙΣ<unclear>Γ</unclear>ΕΤΕΙ</orig> <name type="group"><w lemma="Θεαδής">Θεαδ<supplied reason="lost">α</supplied></w></name><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_B65" n="B65"/> <gap reason="lost" extent="unknown" unit="character"/>Ο<gap reason="lost" quantity="1" unit="character"/> <w lemma="ἀποδίδωμι">ἀποδοντ</w><gap reason="lost" extent="unknown" unit="character"/>
+	    						    					
+<lb xml:id="line_B66" n="B66"/> <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ΟΣ</unclear><gap reason="lost" quantity="2" unit="character"/><unclear>Γ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					
+					<p> Face A</p>
+<p> During the monarchy of Dion, and in Isthmos [...], on the 27th of the month Hyakinthios [...] son of Didymarchos made the proposal. Seeing that Aristokreon son of [...] has consecrated the money to the members of the [Theadai], Kyniadai, (5) Melainadai, so that [the demesmen now may also praise the proposition] of Aristokreon, may it be decided: all the sacrifices [...] in these tribes [...] to draw up a motion [...] to correct [...] (10) the [...] legal [...] according to the writings by [...] income sufficient [... (15) ... to choose] one chief magistrate from all, and in the future the chief magistrate (in place) must [always] choose the (new) chief magistrate. [The chosen one] should have the authority to choose another person, if [he wants to]; if he chooses another person, the demarch should put it to a vote [by show of hands] (20) for whom the most [...] let him be the chief magistrate. The one who has been chosen should hold the feast in the month Hyakinthios on the [25th and] 26th; the chief magistrate should render the account on the day after the reception. If one of the members of the (25) Theadai, Kyniadai, Melianadai [seizes anything of what] Aristokreon dedicated, let him pay as a fine 1000 [drachmae], sacred to the Ancestral Gods, for whom [the sacrifice] is made. The one who wants to can denounce (the guilty party) to the demarch for the half (of the sum). The demarch (30) should give these [drachmae] in the [...] tribe [...] with the account, so that the chief magistrate can [render] the account immediately, and he should distribute voting pebbles [...] pierced through and solid [...] the denouncer should pay the fifth part (35) [...] he should pay the tenth part as a penalty [...] If the demarch, the account having been rendered, does not give him what is written, he should [pay] as a penalty double the sum. The chief magistrate should [supply] a he-goat worth not [less] than (40) 20 drachmae to the boys and a ruban [...] ... on the 5th. The [...] of the boys [...] he should arrange the torch-race [...] about the first [...]</p>
+
+					<p> Face B</p>
+<p> [...] (45) the money [...] he sacrifices from [...] himself of the month Hyakinthios [...] celebrate the festival on the 23rd [...] let him choose <foreign>epimenioi</foreign> [... (50) ...] in Agrianios on the ninth, and the demarchs chosen [in the future] should [... (on the) ...] of Artamitios [...] let [...] be chosen from each [tribe ...] of the [Theadai], Kyniadai, Melainadai, [...] of the demarchs, the one to whom comes down [...] (55) 1000 drachmae dedicated to the [Ancestral] Gods of the [Theadai, Kyniadai], Melainadai [...] of the Isthmiotai he should pay the half [...] to the tribes [...] by the chosen men [...] (60) concerning the money of the deme [...] of the income [...] drachmae [...] of himself the chosen [...] let him [...] all the [income ... (65) ...] pay [...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p> Face A</p>
+<p>Sous la monarchie de Dion, et à Isthmos [...] le 27 du mois de Hyakinthios [...] fils de Didymarchos a fait la proposition. Attendu qu'Aristokreon, fils de [...] a consacré de l'argent pour les membres des [Theadai], Kyniadai, (5) Melainadai, afin que [les démotes puissent] alors [louer la proposition] d'Aristokreon, qu'il soit décidé : tous les sacrifices [...] dans ces tribus [...] rédiger une motion [...] corriger [...] (10) le [...] légaux [...] conformément à ce qui a été écrit par [...] revenu suffisant [... (15) ... choisir] un archonte parmi tous, et qu'à l'avenir l'archonte (en charge) choisisse [toujours] l'archonte (suivant). Que [celui qui a été choisi] ait l'autorité pour choisir quelqu'un d'autre s'[il le souhaite]. S'il choisit quelqu'un d'autre, que le démarque mette au vote [à main levée] (20) à celui qui [obtiendrait] le plus [...], qu'il devienne archonte.  Que celui qui a été choisi organise la réception les [25] et 26 du mois de Hyakinthios; que l'archonte procède à la reddition des comptes le jour après la réception. Si l'un des membres (25) des Theadai, Kyniadai, Melianadai [s'empare de ce qu']Aristokreon a dédié, qu'il paie une amende de 1000 [drachmes], consacrée aux Dieux ancestraux pour qui le [sacrifice] est accompli. Que celui qui le souhaite fasse une dénonciation au démarque pour la moitié (de la somme). Que le démarque (30) donne ces [drachmes] dans la tribu [... avec le] compte, afin que l'archonte puisse [rendre] compte immédiatement, et qu'il distribue des jetons de vote [...] percés et solides [...] que le dénonciateur paie le cinquième (35) [...] qu'il paie au titre d'amende le dixième [...]. Si le démarque, une fois qu'il a été procédé à la reddition des comptes, ne lui donne pas ce qui a été écrit, qu'il paie au titre d'amende le double de la somme. [Que] l'archonte [fournisse] aux garçons un bouc d'une valeur qui n'est pas inférieure à (40) 20 drachmes et une bandelette de laine [...] ... le 5. Que le [...] des garçons organise la course aux flambeaux [...]  à propos de la première [...] </p>
+					
+					<p> Face B</p>
+					<p>[...] (45) l'argent [...] il sacrifie [...] lui-même au mois de Hyakinthios [...] célébrer la fête le 23 [...] qu'il choisisse des <foreign>epimenioi</foreign> [... (50) ...] le 9 Agrianos [...] et que les démarques choisis [à l'avenir ...] Artamitios [...] choisissent de chaque tribu [des Theadai], Kyniadai, Melainadai [...] des démarques, celui à qui il échoit [...] (55) 1000 drachmes dédiées aux Dieux [ancestraux des Theadai, Kyniadai], Melainadai [...] des Isthmiotes qu'il paie la moitié [...] aux tribus [...] par les hommes [choisis ...] (60) concernant l'argent du dème [...] du revenu [...] drachmes [...] de lui-même, celui qui est choisi [...] qu'il [...] tout le [revenu ... (65) ...] payer [...] </p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p> This decree from the deme of Isthmos on Kos concerns the donation of a sum of money by an individual, Aristokreon, for sacrifices to be made to the Ancestral Gods (Theoi Patroioi). The deme manifestly accepted Aristokreon's donation and passed this decree to codify its administration (lines 1-7). The three tribes of Isthmos—the Theadai, Kyniadai and Melainadai—have a share in and are to be in charge of the money. The consecration of a cult of the Theoi Patroioi is also recorded in a private consecration from Kos, <ref target="CGRN_162">CGRN 162</ref>, line 3: on these deities, cf. the Commentary there and Parker. By contrast, Aristokreon chose a public route for his donation; for other such cases in the present Collection, cp. e.g. <ref target="CGRN_161">CGRN 161</ref>, also from Kos</p>
+
+<p>The organisation of the decree and its rules is not completely clear. Lines 7-15 are particularly murky. Lines 15-21 codify the appointment of the ἀρχεύων—the same name was employed for the chief magistrate of a tribe on Kos, cf. <ref target="CGRN_145">CGRN 145</ref>, line 1, for the Elpanoridai at Halasarna—who is to be in charge of Aristokreon's bequest; this man is to be in charge of putting on a feast (lines 21-24). There follow elaborate rules against misusing the money of the donation and, appropriately, also the rendering of accounts by the ἀρχεύων (lines 24-38). Cultic prescriptions make an appearance with the provisions of a sacrificial animal and the arrangement of a torch-race for boys by the ἀρχεύων (lines 38-43, perhaps continued to line 48). The remainder of the regulations (lines 49ff.) is difficult to interpret (see below).</p>
+	
+<p> Lines 4-5: The deme of Isthmos was situated at the extreme west of the island of Kos, whose cult centre was ancient Astypalaia. The three tribes, the Theadai, the Kyniadai and the Melainadai, are known only from this inscription. On the local tribes at Isthmos, cf. Pugliese Carratelli, p. 153-154. Paul, p. 289 argues that the celebration of cults on the level of the tribes was an important aspect of the religious life in the Koan demes. On the cults of Isthmos, more generally cf. Paul, p. 221-236; for other regulations from the deme of Isthmos, see here <ref target="CGRN_101">CGRN 101</ref>.</p>				
+						
+<p> Lines 6-11: It seems that Aristokreon had perhaps proposed a detailed proposition concerning the use of his money (if the restoration προαίρεσις, lines 6-7, is correct). Possibly this plan involved making a "correction" to or a "redressing" of the rites of the deme and its tribes (διορθ̣ώ̣σασ[θαι, line 9), returning to a form of worship that was (previously?) normative (τος ἐννόμος, line 10) and was described in the written heritage (κατὰ τὰ γεγραμμένα, line 11). Note that it is uncommon for references to "what is written" to mention the author, as seems to be the case here (ὑπό, line 11).</p>
+					
+<p> Lines 15-21: The procedure for the selection of a chief magistrate is described. His tasks seem to have included the organisation of the sacrifices, holding a reception or feast, and taking care of the administration finances of the donation. The office of the <foreign>archeuon</foreign> in connection with cultic activities is known from various Koan inscriptions: <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 103; 110; 456; 586; and see above. Here, each chief magistrate was to choose his successor. In practical terms, this may have entailed that the magistracy would often remain within the same family or social circle (Kató, p. 286-287). The chosen person will have the possibility to refuse and to make a suggestion for replacement. In such a situation, the demarch should organize a democratic vote; the responsibility will devolve to the one who collects most of the votes.</p>
+	
+<p> Lines 21-24: The "reception" to be held by the chief magistrate seemingly coincided with the conclusion of the magistracy, since the accounts concerning the use of the money should be rendered on the day following this occasion. Hyakinthios was a summer month, the second month of the estival semester in the city of Kos (June/July, cf. Bosnakis - Hallof).</p>
+	
+<p> Lines 24-29: This part of the decree is aimed at preventing misuse of the dedicated money. The fine, 1000 drachmae, is high and would have had a strong preventive effect, as would the reward for the informer (half the amount, i.e. 500 dr.).</p>
+	
+<p>Lines 30-38: Since the chief magistrate needed to render an account concerning the use of the funds from the donation (again, lines 23-24), the final authority for the payment of rewards and the imposition of fines seems to have rested with the demarch, who would act in this capacity probably during an official meeting of the tribes (line 30). At this meeting, the chief magistrate would also be present, in order to immediately include the new financial information into his accounts (lines 31-32). The precise reason for the voting processes which are then mentioned elude us, as does the payment of fifth and tenth parts (lines 32-35). After the account was rendered, the demarch himself was subject to fines if he did not make payments as stipulated (lines 36-38).</p>
+						
+<p> Lines 38-43: These lines mention the provision of a he-goat by the chief magistrate to the boys of the deme, an occasion which also included a torch-race. Paul (p. 232) mentions that in the same month as the reception mentioned earlier (lines 21-24 above), namely Hyakinthios, the festival of the Hermaia is attested in the city of Kos. During this celebration, there was perhaps a torch race for boys and a <foreign>prata</foreign>, which was a preliminary individual torch-race (cf. Paul, p. 131-133, for further explanation and references).  inscription refers to the same celebrations. The λημνίσκος, a woollen fillet, is sometimes specified in ritual norms, and was used as an adornment for sacrificial animals (here, for the he-goat); cf. here <ref target="CGRN_45">CGRN 45</ref> (Athens) and <ref target="CGRN_146">CGRN 146</ref> (Phyxa), line 16; on the comparable στέμμα mentioned at e.g. <ref target="CGRN_64">CGRN 64</ref> (Epidauros), line 6, van Straten (p. 162) explained that it could be hung over the horns or around the belly of the animal.</p>
+	
+<p> Lines 46-65: The prescriptions in side B are relatively difficult to decipher. A sacrifice and the celebration of a festival near the end of the month Hyakinthios is again mentioned (lines 46-48): this was probably the major ritual occasion that was concerned by Aristokleon's donation, occurring soon after the "reception" mentioned in lines 21-24. One particularly intriguing clauses occurs in lines 49-53 (?), where the appointment and selection of <foreign>epimenioi</foreign> is mentioned. This seems to have occurred early in Agrianios, the month preceding Hyakinthios: this would thus seem to represent the appointment of subsidiary officials in time to assist the chief magistrate in organising the sacrifices funded by the donation. The month Agrianios was also the month in which the magistrates of the summer-semester would start their magistracy in the city of Kos; it is possible to hypothesise that three <foreign>epimenioi</foreign> were appointed, one from each tribe (see lines 52-53). On the role of <foreign>epimenioi</foreign> as temporary officials responsible for a festival, who are occasionally particularly conspicuous in familial endowments, see here <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 23-31, and <ref target="CGRN_185">CGRN 185</ref> (Lampsakos), line 28; for <foreign>epimenioi</foreign> on Kos, see also <ref target="CGRN_147">CGRN 147</ref>, Face B. The sense of lines 53-60 cannot be deciphered with certainty. The dedication of 1000 drachmae to the Theoi Patroioi of the three tribes occured in side A (lines 26-27) and there concerned the consecration of a fine; it may be that lines 55-56 represent a similar circumstance. The final preserved lines (60-65) were apparently concerned with some financial arrangement, the meaning of which remains elusive.</p>					
+					</div>
+			</body>
+    	</text>
+	</TEI>

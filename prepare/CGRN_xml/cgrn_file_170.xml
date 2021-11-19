@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_170" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>CGRN 170</idno>: Record of a <rs type="textType" key="priestly contract">sale of a (male) priesthood</rs> for an unknown cult on Chios</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support> 
+                            <p>Small <rs type="objectType">stele</rs> of blue marble, roughly cut at the base for a length of 25 cm, probably in order to be inserted into the ground.</p>
+                            <p><dimensions>
+                                <height unit="cm">unknown</height>
+                                <width unit="cm">unknown</width>
+                                <depth unit="cm">10</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Stoichedon only in lines 1-2; otherwise the lines are of variable length.</p>
+                            <p>Letters: <height unit="cm">1.6</height>. The letters are irregular: many are tilted to the left, including <foreign>sigma</foreign>; see Plassart - Picard for further remarks.</p>
+                           </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0500" notAfter="-0400">ca. 500-400 BC</origDate></p>
+                        <p> <desc>Justification: lettering (Parker, with Matthaiou); see Commentary for discussion of the notion of a later copy proposed by Plassart - Picard.</desc></p>
+                    </origin>  
+                    <provenance><p><placeName type="ancientFindspot" key="Chios" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550497" type="external">Chios</ref></placeName>. Exact findspot unknown. Now in the Archaeological Museum of Chios.</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-07-2014 by S. Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by J.-M. Carbon in 01.2019.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                
+                <p> Edition here based on <bibl type="author_date" n="Plassart - Picard 1913">Plassart - Picard 1913</bibl>: 224-228 no. 31, with ph. of a squeeze.</p>
+                <p> Cf. also: Hoffmann <bibl type="abbr" n="SGDI">SGDI</bibl> IV 51; Schwyzer <bibl type="abbr" n="DGE">DGE</bibl> 692; Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 78; <bibl type="author_date" n="Parker 2006">Parker 2006</bibl>: 72-73 with ph. fig. 3.</p>
+  
+            </div>
+            <div type="edition">
+                <head>Text</head>
+<ab>
+    
+    <lb xml:id="line_1" n="1"/><w lemma="ἐπί">ἐπ’</w> Ἀμφοτερο̑ <name type="title"><w lemma="πρύτανις">π
+
+    <lb xml:id="line_2" n="2" break="no"/>ρυτάνιος</w></name> Δαφ
+ 
+    <lb xml:id="line_3" n="3" break="no"/>ναῖος <w lemma="πρίαμαι">ἐπρίατο</w> τ
+
+    <lb xml:id="line_4" n="4" break="no"/>ὴν <name type="personnel"><w lemma="ἱερατεία">ἱρητήην</w></name>· τῶι <name type="personnel"><w lemma="ἱερεύς">ἱ
+
+    <lb xml:id="line_5" n="5" break="no"/>ρέωι</w></name> <w lemma="γίγνομαι">γίνεσθαι</w> <name type="portion"><w lemma="σπλάγχνον">σπλ
+
+    <lb xml:id="line_6" n="6" break="no"/>άγχνα</w></name> τὰ <w lemma="εἰς">ἐς</w> <w lemma="γόνυ">γόν
+
+    <lb xml:id="line_7" n="7" break="no"/>ατα</w> καὶ <name type="portion"><w lemma="γλῶσσα">γλάσσαι</w></name>
+
+    <lb xml:id="line_8" n="8"/>καὶ <name type="portion"><w lemma="γέρας">γέρας</w></name>. 
+    
+    <lb/> <space quantity="1" unit="line"/>
+
+</ab>
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>In the year when Amphoteros was <foreign>prytanis</foreign>, Daphnaios bought the priesthood. To the priest (5) are given the entrails placed on the knees (of the statue), and the tongues and a prerogative.</p>
+                
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction </head>
+        
+                <p>Sous la prytanie d'Amphoteros, Daphnaios a acheté la prêtrise. Au prêtre (5) sont octroyés les viscères placés sur les genoux (de la statue), ainsi que les langues et une part d'honneur.</p>
+                   
+                
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p>Given the irregularities in writing (variable stoichedon) and the seemingly poor execution (occasionally oddly incised letters), the inscription was deemed by Plassart and Picard to be a copy of an earlier text from Chios and an archaising inscription, a judgement which was followed by Sokolowski. However, this supposition has recently and rightly come under question: Parker (also adducing the judgement of Matthaiou) sees no reason why the inscription cannot belong to the fifth century BC, which was already the judgement of Adolf Wilhelm (in Schwyzer) on the basis of its letterforms.</p>
+<p>Indeed, many records and acts of sale of priesthoods are known from Chios during the Classical period: cf. here <ref target="CGRN_37">CGRN 37</ref>, <ref target="CGRN_49">CGRN 49</ref>, and <ref target="CGRN_50">CGRN 50</ref>; many other priestly contracts from the island are known. The inscription was apparently cut principally to record the privileges, namely the sacrificial perquisites of the priest (lines 5-8). This was done on a small stone to be erected directly into the ground, presumably at the sanctuary in question. The cult in
+which the priest served is left unspecified, and thus remains unknown: the context would probably have been obvious given the place in which the priestly contract was set up. For the dialectal forms, cf. Plassart - Picard, Hoffmann, and Schwyzer.</p>
+
+<p>Line 1: As Plassart and Picard note, the name Amphoteros is known from another inscription on Chios, <title>BCH</title> (1879) 317-318 no. 5, line 14; however, though the name is rare, it is unclear whether there was any relation between the two individuals mentioned in these texts. As attested from several decrees, the <foreign>prytanis</foreign> was an eponymous official in Classical and Hellenistic Chios. The name Daphnaios is not otherwise known on Chios and is rarely found in the Aegean islands (it is more common in mainland Greece).</p>       
+         
+<p>Lines 5-6: For the specific portions of the entrails which were deposited "in the hands" and "on the knees", i.e. in the open hands and/or knees of seated statues at the center of the cult, see here e.g. <ref target="CGRN_41">CGRN 41</ref>, lines 12-13; these are common expressions apparently specific to Chios,</p>
+
+<p>Line 7: For the priestly privilege of receiving the tongue of the sacrificial animal, commonly granted on Chios, cf. here <ref target="CGRN_41">CGRN 41</ref>, line 9. The generic plural γλάσσαι is presumably intended to make clear that the priest will receive the tongue of each and every sacrificial animal, whether one or many are offered.</p>
+
+<p>Line 8: For the γέρας as a specific (but unclear) portion often granted as a separate item to priests on Chios, cf. here <ref target="CGRN_36">CGRN 36</ref>, line 3, with further discussion.</p>                      
+                
+            </div>
+        </body>
+    </text>
+</TEI>

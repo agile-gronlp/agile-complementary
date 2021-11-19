@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_67" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 67</idno>: Fragment, probably from a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs>, for Dionysus on Thasos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Marble <rs type="objectType">block</rs>, broken on all sides except on the left where a large margin is preserved.</p>
+				<p><dimensions>
+					<height unit="cm">11.5</height>
+					<width unit="cm">25.5</width>
+					<depth unit="cm">28</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Somewhat irregular stoichedon, of uncertain length. </p>
+				<p>Letters: <height unit="mm">15-17</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0350">ca. 400-350 BC</origDate></p>
+			<p><desc>Justification: lettering and style (Pouilloux).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thasos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/501634" type="external">Thasos</ref></placeName>. Found near the Dionysion. Current location unknown (Museum of Thasos?).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by J.-M. Carbon in 05.2018.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+	<p>Edition here based on <bibl type="author_date" n="Pouilloux 1954">Pouilloux 1954</bibl>: 342, with ph. pl. 37-2. We adopt some of the restorations suggested in Pouilloux's commentary and in Sokolowski.</p>
+					
+	<p>Other edition: Hiller von Gaertringen <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> 398</p>
+					
+	<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 67.</p>
+				
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+
+<lb/><gap atLeast="1" unit="line" reason="lost"/>		
+
+<lb xml:id="line_1" n="1"/><name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύ<supplied reason="lost">σωι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_2" n="2"/><name type="animal" key="ox"><w lemma="βοῦς">βο̑ν</w></name> ἢ <name type="animal" key="goat"><w lemma="αἴξ">αἶγ<supplied reason="lost">α</supplied></w></name> <gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_3" n="3"/>οἱ δὲ <surplus>ι</surplus> <name type="person"><w lemma="ἰδιώτης">ἰδι<supplied reason="lost">ῶται</supplied></w></name> <supplied reason="lost">ὅ <w lemma="τις">τι</w> (?) ἂν</supplied>	    			   					
+<lb xml:id="line_4" n="4"/><w lemma="ἐθέλω">θέλωσ<supplied reason="lost">ιν</supplied></w> <gap reason="lost" extent="unknown" unit="line"/>
+	    						
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					[...] for Dionysus [...] an ox or a goat [...] But the [private individuals (?) ... as (?)] they wish [...] 
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+					[...] à Dionysos [...] un bovin ou un caprin [...] Mais les [particuliers (?) ... comme (?)] ils le souhaitent [...] 
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+	<p>This extremely badly preserved regulation was found near the sanctuary of Dionysus on Thasos (the Dionysion near the agora) and quite clearly mentions the god himself (line 1); for other inscriptions concerning the cult of Dionysus, found in this area see e.g. <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> 395-396 and 398.</p> 
+						
+	<p>In terms of the format and content of the regulation, Sokolowski thinks that it originally contained a distinction between prescribed options for sacrifices during civic rites (line 2) as opposed to a free choice of sacrificial animals for private individuals (lines 3-4, "[as] they wish"). This is a good possibility, since contrasts between private sacrifices and sacrifices of a group are often drawn, cp. here e.g. <ref target="CGRN_38">CGRN 38</ref> (Chios), lines A2-7 and B4-9 (city vs. individual), <ref target="CGRN_50">CGRN 50</ref> (Chios), lines 2-9 (<foreign>genos</foreign> vs. individual), and <ref target="CGRN_175">CGRN 175</ref> (Priene), lines 3-15 (city vs. individual).</p>
+						
+						<p>The choice between two or more different sacrificial animals is seldom explicitly found in ritual norms (especially with the conjunction ἤ). Μore usually, one is confronted with specific prescriptions or restrictions concerning the species of animal to be sacrificed. The option between an ox and a goat may accordingly seem unusual, a sort of "high and low" contrast, at least in terms of cost, and so might be thought unlikely to refer to civic rites in honour of Dionysus (see above). For sacrificial "options" of this sort, usually found where private sacrifices or familial cult is concerned, cf. here esp. <ref target="CGRN_96">CGRN 96</ref> (Kos), lines 25-32. However, such an interpretation need not be the case: it was often perfectly possible, even in a public cult, for individuals to choose between a variety of sacrifical animals to offer as a sacrifice, including oxen and much smaller animals (cf. e.g. <ref target="CGRN_17">CGRN 17</ref>, Thasos, where only a requirement
+concerning the gender of the animals offered seems to be expressed). This is perhaps most often clearly expressed by sacrificial tariffs concerning <foreign>thesauroi</foreign> and the like: cf. e.g. here <ref target="CGRN_212">CGRN 212</ref> (Pergamon), line 27 (tariffs for an ox or sheep respectively) and <ref target="CGRN_215">CGRN 215</ref>; cf. also <ref target="CGRN_176">CGRN 176</ref> (Priene), lines 11-12 (provisions of sacrificial complements for the case of an ox, sheep or suckling animal)</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

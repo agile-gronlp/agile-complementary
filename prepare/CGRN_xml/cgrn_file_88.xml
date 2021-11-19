@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_88" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+<title><idno type="filename">CGRN 88</idno>: Fragment of <rs type="textType" key="priestly contract">contract for a priestess</rs> on Chios</title>
+<author>Jan-Mathieu Carbon</author>
+<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+<availability>
+	<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+	
+	<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+</availability>
+			</publicationStmt>
+			<sourceDesc>
+<msDesc>
+	<msIdentifier>
+		<repository>n/a</repository>
+	</msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc>
+<support><p>Fragment of a <rs type="objectType">stele</rs> of grey marble. Broken below and on the left. The top and right side are worn, but probably the top of the inscription is preserved.</p>
+	<p><dimensions>
+		<height unit="cm">30</height>
+		<width unit="cm">29</width>
+		<depth unit="cm">22</depth>
+	</dimensions></p>
+</support>
+			</supportDesc>
+			<layoutDesc>
+<layout><p>Stoichedon, but since <foreign>iota</foreign> is sometimes included as part of the same <foreign>stoichos</foreign> as the preceding letter, the precise length of the lines is more difficult to estimate. On the basis of the secure restoration in line 2, Carbon estimates the stoichedon as 25-27 (here given as an average of ca. 26).</p>
+	<p>Letters: <height unit="mm">15</height>.</p>
+</layout>
+			</layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0350" notAfter="-0300">ca. 350-300 BC</origDate></p>
+			<p><desc>Justification: lettering and style (Graf).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Chios" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550497" type="external">Chios</ref></placeName>, from the Kastro. Now in Chios Museum (inv. no. 59).</p>
+		</provenance>
+	</history>
+</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-03-2017 by J.M. Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+<language ident="eng">English</language>
+<language ident="grc">Ancient Greek</language>
+<language ident="lat">Latin</language>
+<language ident="fre">French</language>
+<language ident="ger">German</language>
+<language ident="gre">Modern Greek</language>
+<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+<head>Bibliography</head>
+
+<p>Edition here based on <bibl type="author_date" n="Carbon 2016a">Carbon 2016a</bibl>: 37-40 no. 1, from consultation of a dr. by A.P. Matthaiou. A new edition from autopsy by G.E. Malouchou and A.P. Matthaiou is in preparation. </p>
+
+<p>Other editions: 
+	<bibl type="author_date" n="Plassart-Picard 1913">Plassart - Picard 1913</bibl>: 196 no. 3;
+	<bibl type="author_date" n="Graf 1985">Graf 1985</bibl>: 432, I.Ch. 7.</p>
+
+<p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 114; 
+	Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 120 (on the basis of comments, a photo and a squeeze by Forrest).</p>
+
+<p>Further bibliography: <bibl type="author_date" n="Koumanoudis - Matthaiou 1985">Koumanoudis - Matthaiou 1985</bibl>: 108.</p>
+
+			</div>
+			<div type="edition">
+<head>Text</head>
+<ab>
+	
+	
+	<lb xml:id="line_1" n="1"/><supplied reason="lost">τῆι</supplied><gap reason="lost" quantity="9" unit="character" precision="low"/>ης <name type="personnel"><w lemma="ἱέρεια">ἱερέαι</w></name> <name type="portion"><w lemma="γίγνομαι">γίνεσ<supplied reason="lost">θ</supplied><unclear>α</unclear><supplied reason="lost">ι</supplied></w></name> <name type="portion"><w lemma="σπλάγχνον">σπλ 
+		
+		<lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">άγχνα</supplied></w></name> <supplied reason="lost">τὰ</supplied> <w lemma="εἰς"><supplied reason="lost"> ἐς</supplied></w> <name type="object"><w lemma="χείρ"><supplied reason="lost">χεῖρ</supplied>ας</w></name> καὶ τὰ <w lemma="εἰς">ἐς</w> <name type="object"><w lemma="γόνυ">γό<unclear>ν</unclear><supplied reason="lost">ατ</supplied> 
+			
+			<lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">α</supplied></w></name><supplied reason="lost">,</supplied> <gap reason="lost" quantity="6" unit="character" precision="low"/>, <name type="portion"><w lemma="γλῶσσα"><supplied reason="lost">γλῶσ</supplied><unclear>σ</unclear>α</w></name>, <name type="vegetal"><w lemma="θύος">θύα</w></name> <w lemma="ἀπό">ἀπ’</w> ὧν ἂν <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύηι</supplied></w></name>, 
+	
+	<lb xml:id="line_4" n="4"/><gap reason="lost" quantity="12" unit="character" precision="low"/> καὶ <name type="portion"><w lemma="γέρας">γέρας</w></name> <name type="quality"><w lemma="δεξιός">δεξιὸ<supplied reason="lost">ς</supplied></w></name> <gap reason="lost" quantity="1" unit="character"/> 
+	
+	<lb xml:id="line_5" n="5"/><gap reason="lost" quantity="12" unit="character" precision="low"/><orig>ν</orig> <w lemma="ποιέω">ποιῆι</w> <w lemma="ἐν">ἐμ</w> <name type="portion"><w lemma="μοῖρα">μοίρη<supplied reason="lost">ι</supplied></w></name> <gap reason="lost" quantity="1" unit="character" precision="low"/> 
+	
+	<lb xml:id="line_6" n="6"/><gap reason="lost" quantity="13" unit="character" precision="low"/>ομα <name type="quality"><w lemma="δεξιός">δεξιά</w></name>, <name type="portion"><w lemma="κεφαλή">κεφα<unclear>λ</unclear></w></name><gap reason="lost" quantity="1" unit="character"/> 
+	
+	<lb xml:id="line_7" n="7"/><gap reason="lost" quantity="13" unit="character" precision="low"/>, <w lemma="τρεῖς">τρεῖς</w> <name type="portion"><w lemma="πλευρά">πλεόρας</w></name>, <name type="portion"><w lemma="ὦμος">ὦμ</w></name> 
+	
+	<lb xml:id="line_8" n="8" break="no"/><gap reason="lost" quantity="12" unit="character" precision="low"/> <supplied reason="lost">κα</supplied>ὶ <name type="vegetal"><w lemma="ἄλφιτον">ἀλφίτων</w></name> <w lemma="ἡμιέκτεων">ἥμυσ<supplied reason="lost">υ</supplied> 
+		
+		<lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">κτέως</supplied></w> <gap reason="lost" quantity="8" unit="character" precision="low"/> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θυ</supplied>όντων</w></name> <w lemma="unclear">εκτομο</w> 
+	
+	<lb xml:id="line_10" n="10" break="no"/><gap reason="lost" quantity="15" unit="character" precision="low"/> <w lemma="λαγχάνω">λαχέτω</w> καὶ <orig>τ</orig><gap reason="lost" quantity="2" unit="character" precision="high"/> 
+	
+	<lb xml:id="line_11" n="11"/><gap reason="lost" quantity="15" unit="character" precision="low"/><w lemma="unclear">οσιη</w> <w lemma="ἀτελής">ἀτελ<unclear>ε</unclear></w><gap reason="lost" quantity="3" unit="character" precision="high"/> 
+	
+	<lb xml:id="line_12" n="12"/><gap reason="lost" quantity="14" unit="character" precision="low"/><orig>ν</orig> <w lemma="γίγνομαι">γενεσ</w><gap reason="lost" quantity="5" unit="character" precision="medium"/> 
+	
+	<lb xml:id="line_13" n="13"/><gap reason="lost" quantity="16" unit="character" precision="low"/><orig>νεν<unclear>τ</unclear></orig><gap reason="lost" quantity="6" unit="character" precision="medium"/> 
+	
+	<lb/><gap reason="lost" extent="unknown" unit="line"/> </ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+<head>Translation</head>
+
+<p> [To the] priestess of [...] there is to be (the following perquisites): [entrails, those on the] hands and on the knees (of the statue) [...] the tongue, burnt-offerings from which [one makes smoke ...] and a right prerogative [... (5) ...] should make in part [...] righthand cuts (?), head [...], three ribs, [a shoulder? ...] and a half-<foreign>hekteus</foreign> of barley grains [...] sacrificing (?) [... (10) ...] let her/him receive by lot and [...] exempt[...] there is to be [...] </p>
+			</div>
+			<div type="translation" xml:lang="fre">
+<head>Traduction</head>
+
+<p>[À la] prêtresse de [...] reviendront [les viscères (placés) dans les] mains et sur les genoux (de la statue), [...], la langue, des offrandes à brûler dont [on fait des fumigations ...] et une part d'honneur droite (5) [...] aurait à faire en part [...] droites, tête [...], trois côtes, [une épaule (?) ...] et un demi-setier de farine [...] sacrifiant (?) [... (10) ...] qu'il/elle reçoive par tirage au sort et [...] exempt[...] qu'il/elle soit [...] </p>
+			</div>
+			<div type="commentary">
+<head>Commentary</head>
+
+<p> The text seems to be a sacrificial regulation specifying the perquisites of the priest, or perhaps some abbreviated form of a contract. A large number of priestly contracts was found on Chios, but these usually start with a mention of the duration of the office (commonly specifying that the buyer will hold the priesthood for life, e.g. in <ref target="CGRN_37">CGRN 37</ref>). In <ref target="CGRN_36">CGRN 36</ref> (Chios), line 5, we also have just a list of prerogatives, potentially representing an abbreviated contract as well; note that <ref target="CGRN_50">CGRN 50</ref> only (implicitly) indicates that it is a contract at the very end of the text, where it states that "all of the same rules apply to other priests who by a priesthood" (lines 14-17): the present inscription may have had a comparable arrangement of information.</p>
+
+<p> In any case, the content of the regulation is essentiallly taken up by lists of sacrificial portions as well as other ritual supplies (lines 2-9), although it is unclear what the enigmatic phrase in line 5 conveys, perhaps introducing some kind of transition between different sections of the text. Near the end of the inscription, lines 11-12, we have a mention of sortition and of the exemption from certain duties. These lines may have detailed further privileges and the manner of transmission of the priestly office. Regrettably, no further information is available about the context of the inscription; and the name of the female deity which the priestess served is now lost as well (line 1).</p>
+
+<p>Line 2: The restoration of entrails "in the hands and on the knees" (i.e. of the divine statue) was already proposed by Sokolowski, though with an aberrant layout of the inscription (since the stoichedon grid would then be irregular). For this expression, typical of Chios, see here <ref target="CGRN_36">CGRN 36</ref>, lines 4-§, and <ref target="CGRN_41">CGRN 41</ref>, lines 12-13. Parts of the entrails were offered to the god and deposited on the hands and knees of his statue, at least temporarily, and much like offerings placed on the table. They could then be taken away as a choice portion by the priest.</p>
+
+<p>Line 3: For a different restoration of this line, see Forrest apud Sokolowski; instead of this proposed "double-portion of meat", a new reading confirms the presence of a tongue among the portions listed here. For the importance of the tongue as a priestly prerogative on Chios, see esp. <ref target="CGRN_41">CGRN 41</ref>, line 9. For the "burnt-offerings from which one makes smoke", also a common priestly prerogative on Chios, see esp. <ref target="CGRN_41">CGRN 41</ref>, line 2.</p>
+
+<p>Line 4: A γέρας is occasionally granted to the priestly personnel, without any further qualification, even as part of a list of specific portions. It is thus uncertain which portion of the animal the term may have designated in these cases: see here <ref target="CGRN_38">CGRN 38</ref>, line A7 (placed in a basket); <ref target="CGRN_36">CGRN 36</ref>, line 3; and <ref target="CGRN_170">CGRN 170</ref>, line 8. Here, intriguingly, the term was apparently followed by the adjective δεξιό[ς], suggesting that, if the two terms belong together--which seems probable, a righthand prerogative from the animal was meant. For righthand portions, see here <ref target="CGRN_80">CGRN 80</ref> (Erythrai), lines A2-3.</p>
+
+<p>Line 6: Given the transition perhaps suggested by the phrase in line 5, it is unclear if we are still dealing with priestly portions in this section of the inscription. The precise restoration, in any case, is elusive: [ἔκ]τομα by Haussoullier is reported in Graf and Sokolowski; [προ]τόμα might also be a possibility, meaning righthand portions cut off the heads of the animal; Ziehen's suggestion, namely [ἡμί]τομα δεξιὰ κεφαλ|[ῶν], "the right parts of heads" would perhaps be the most impressive and attractive. But a <foreign>tau</foreign> cannot be read on the stone--Matthaiou's dr. instead shows a circular trace before the <foreign>omicron</foreign> of ομα. While the righthand portions must probably now be dissociated from the head, we cannot be sure that the whole head, κεφαλή, was granted here. Ziehen may have been right to think that a part of the head could also be granted. For the "half-head", ἡμίκραιρα, which was particularly prevalent in Attica, see here esp. <ref target="CGRN_57">CGRN 57</ref> (Aixone), lines 4, 9, 11, etc., and <ref target="CGRN_103">CGRN 103</ref> (Phrearrhioi), lines 16, 17; and cp. esp. <ref target="CGRN_37">CGRN 37</ref>, line 11, for the "left cheek" granted to a priestess on Chios.</p>
+
+<p>Line 7: For triple-ribs (i.e. three ribs) offered as priestly portions, see esp. here <ref target="CGRN_180">CGRN 180</ref> (Ialysos), line 1: τρίπλευρον; and <ref target="CGRN_212">CGRN 212</ref> (Pergamon), line 22: τρίπλευρα. The following portion is perhaps to be restored as a shoulder (ὦμον, as in Graf), but it could equally have been a shoulderblade (as proposed by Sokolowski, ὠμοπλάτη); both portions could be granted to priests (for the shouderblade as a meaty portions—not only the bone—but presumably smaller than the whole shoulder, see <ref target="CGRN_120">CGRN 120</ref>, Sinope, line 8).</p>
+
+<p>Lines 8-9: The measure of a half-<foreign>hekteus</foreign> of barley grains restored here (Carbon), is based on the discussion of the particular Chian spelling of the word ἡμυσυκτέως in Koumanoudis and Matthaiou, regarding <ref target="CGRN_38">CGRN 38</ref>, lines A3-4, and <ref target="CGRN_66">CGRN 66</ref>, lines 8-9; in both cases, the quantity may have been paired with a similar one of wheat, and given to the priest or priestess. The precise referent of the traces εκτομο is elusive; see Carbon.</p>
+
+<p> Lines 10-12: Perhaps these lines give further specifications in connection with sacrificial portions, but they are more likely to be concerned with the office of priestess. The reference to sortition may pertain to specific temporary offices that were distributed by lot, and from which the priestess may be exempt altogether (ἀτελεία). Alternatively, this term may have referred to the manner of being selected for the priesthood itself (the four possible modes of a obtaining a priesthood were: through inheritance, democratic vote or sale and by lot). The letters οσιη were perhaps the end of the adjective [δημ]οσίη, thus referring to civic exemption from taxation or other duties, which was granted to the priestess; for such exemptions, see here e.g. <ref target="CGRN_175">CGRN 175</ref> (Priene), lines 2-3, and esp. on Chios, <ref target="CGRN_49">CGRN 49</ref>, lines 3-4. Another option is that these letters represent the word ὁσίη in (probably the conclusion of) a phrase, e.g. "as it is ὁσίη (divinely sanctioned)".</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_102" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 102</idno>: <rs type="textType" key="decree">Decree</rs> of the orgeones of the hero Echelos and the heroines at Athens</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Damaged upper part of a <rs type="objectType">stele</rs> of Hymettian marble, broken below and at both upper corners. The sides are partly preserved.</p>
+
+	<p><dimensions>
+		<height unit="cm">29.3</height>
+		<width unit="cm">31.5</width>
+		<depth unit="cm">8.2</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p> The inscription is non-stoichedon. The same letters have different forms throughout the inscription, making it difficult to assess the available space in lacunas.</p>
+			<p> Letters: <height unit="cm">0.8</height> </p>
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0300" notAfter="-0275">early 3rd century BC</origDate></p>
+							<p><desc>Justification: letterforms (Meritt).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885" type="external">Athens</ref></placeName>. Found on the north slope of the Areiopagos and now in the Stoa of Attalos (inv. no. 1 1906).</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on <bibl type="author_date" n="Meritt 1942">Meritt 1942</bibl>: 282-287 no. 55 (except line 20, cf. the commentary).
+	    			</p>
+
+	    			<p> Cf. also:
+	    				Woodhead <bibl type="abbr" n="Agora XVI">Agora XVI</bibl> 161;
+	    				Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 20; <ref target="https://www.atticinscriptions.com/inscription/CGRN/102" type="external">AIO</ref>.
+	    			</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Dow 1944">Dow 1944</bibl>: 135-136;
+	    				<bibl type="author_date" n="Ferguson 1944">Ferguson 1944</bibl>: 74-79;
+	    				<bibl type="author_date" n="Ferguson 1949">Ferguson 1949</bibl>: 130-131;
+	    				<bibl type="author_date" n="Kearns 1989">Kearns 1989</bibl>: 165;
+	    				<bibl type="author_date" n="Ekroth 2011">Ekroth 2011</bibl>: 137-141.
+
+	    			</p>
+
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+	    				<lb xml:id="line_1" n="1"/> <supplied reason="lost">Λυσίας</supplied> <supplied reason="lost">Περι</supplied>άνδρου Πλωθεὺς <w lemma="λέγω">ε<unclear>ἶ</unclear><supplied reason="lost">πεν</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost"><w lemma="ἀγαθός">ἀγαθεῖ</w></supplied> <supplied reason="lost"><w lemma="τύχη">τύχει</w></supplied>
+
+	    				<lb xml:id="line_2" n="2"/> <supplied reason="lost"><w lemma="δοκέω">δεδόχθαι</w></supplied> <unclear>τ</unclear>οῖς <name type="group"><w lemma="ὀργεών">ὀ<supplied reason="lost">ρ</supplied>γεῶσιν</w></name>· <w lemma="ὅπως">ὅπως</w> <w lemma="ἄν">ἂν</w> <w lemma="διατηρέω">δ<unclear>ι</unclear><supplied reason="lost">ατηρῆται</supplied></w> <supplied reason="lost">τῶν</supplied>
+
+	    				<lb xml:id="line_3" n="3"/> <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυσιῶν</supplied></w></name> <supplied reason="lost">ἡ</supplied> <name type="group"><w lemma="κοινωνία"><supplied reason="lost">κοινω</supplied>νία</w></name> <w lemma="εἰς">εἰς</w> τὸν <w lemma="ἅπας">ἅπαντα</w> <w lemma="χρόνος">χρό<supplied reason="lost">νον</supplied></w> <supplied reason="lost">τῶι</supplied> <name type="group"><w lemma="κοινός"><supplied reason="lost">κοι</supplied>
+
+	    					<lb xml:id="line_4" n="4" break="no"/><supplied reason="lost">ν</supplied>ῶι</w></name> τῶι <w lemma="πρός">πρὸς</w> τοῖς Καλλιφάνους καὶ τῶ<supplied reason="lost">ι</supplied> <supplied reason="lost">τοῦ</supplied> <w lemma="ἥρως"><supplied reason="lost">ἥρωος</supplied></w> <name type="deity" key="Echelos"><supplied reason="lost">Ἐ</supplied>
+
+	    						<lb xml:id="line_5" n="5" break="no"/>χέλου</name>, <w lemma="ἀναγράφω">ἀναγράψαντας</w> τοὺς <w lemma="ὀφείλω">ὀφείλοντά̣<supplied reason="lost">ς</supplied></w> <w lemma="τις"><supplied reason="lost">τι</supplied></w> <w lemma="εἰς"><supplied reason="lost">εἰς</supplied></w> <supplied reason="lost">τὴν</supplied> <name type="group"><w lemma="κοινωνία"><supplied reason="lost">κοι</supplied>
+
+	    							<lb xml:id="line_6" n="6" break="no"/>νωνίαν</w></name> <w lemma="ἐν">ἐν</w> <objectType key="stele"><w lemma="στήλη">στήλει</w></objectType> <w lemma="λίθινος">λιθίνει</w> <w lemma="ἵστημι">στῆσαι</w> <w lemma="παρά">παρὰ</w> τ<supplied reason="lost">ὸν</supplied> <name type="structure"><w lemma="βωμός"><supplied reason="lost">βωμὸν</supplied></w></name>
+
+	    				<lb xml:id="line_7" n="7"/> ἐν τῶι <name type="structure"><w lemma="ἱερόν">ἱερῶι</w></name> τά τε <w lemma="κεφάλαιος">κεφάλαια</w> καὶ τὸν <w lemma="τόκος">τόκο<supplied reason="lost">ν</supplied></w> <w lemma="ὁπόσος"><supplied reason="lost">ὁπόσου</supplied></w>
+
+	    				<lb xml:id="line_8" n="8"/> <w lemma="ἄν">ἂν</w> <w lemma="ἔχω">ἔχει</w> <w lemma="ἕκαστος">ἕκαστος</w>· <w lemma="ἀναγράφω">ἀναγράψαι</w> δὲ καὶ τὰ <name type="authority"><w lemma="ψήφισμα">ψη<supplied reason="lost">φίσματα</supplied></w></name>
+
+	    				<lb xml:id="line_9" n="9"/> τὰ <w lemma="ἀρχαῖος">ἀρχαῖα</w> <w lemma="εἰς">εἰς</w> τὴν <objectType key="stele"><w lemma="στήλη">στήλην</w></objectType>· <w lemma="ἐπιμελέομαι">ἐπιμεληθῆναι</w> <unclear>δ</unclear><supplied reason="lost">ὲ</supplied> <gap reason="lost" quantity="8" unit="character"/>
+
+	    				<lb xml:id="line_10" n="10" break="no"/> <orig>να</orig> τῆς <w lemma="ἀναγραφή">ἀναγραφῆς</w> καὶ τῆς <w lemma="στάσις">στάσεως</w> τῆς <objectType key="stele"><w lemma="στήλη">στήλης</w></objectType> <unclear>κ</unclear><supplied reason="lost">αὶ</supplied> <w lemma="λογίζομαι"><supplied reason="lost">λο</supplied>
+
+	    					<lb xml:id="line_11" n="11" break="no"/>γίσ<supplied reason="lost">α</supplied>σθαι</w> <w lemma="ὅς">ὅ</w> <w lemma="τις">τι</w> <w lemma="ἄν">ἂν</w> <w lemma="εἰς">εἰς</w> <w lemma="οὗτος">ταῦτα</w> <w lemma="ἀναλίσκω">ἀναλώσει</w> τῶι <name type="group"><w lemma="κοινός">κοινῶι</w></name>.
+
+	    				<lb xml:id="line_12" n="12"/> <w lemma="δοκέω">ἔδοξεν</w> τοῖς <name type="group"><w lemma="ὀργεών">ὀργεῶσιν</w></name>· τὸν <name type="personnel"><w lemma="ἑστιάτωρ">ἑστιάτορα</w></name> <name type="sacrifice"><w lemma="θύω">θύειν</w></name> τὴν <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυσί</supplied>
+
+	    					<lb xml:id="line_13" n="13" break="no"/>αν</w></name> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ἑκατομβαιών">Ἑκατονβαιῶνος</w></name> <w lemma="ἕβδομος">ἑβδόμει</w> καὶ <w lemma="ὄγδοος">ὀγδόει</w> <w lemma="ἐπί">ἐπ<supplied reason="lost">ὶ</supplied></w> <w lemma="δέκα">δ
+
+	    						<lb xml:id="line_14" n="14" break="no"/>έκα</w>· <name type="sacrifice"><w lemma="θύω">θύειν</w></name> δὲ τεῖ <w lemma="πρότερος">πρώτει</w> ταῖς <name type="deity" key="Heroines"><w lemma="ἡρωίνη">ἡρωίναις</w></name> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοῖρον</w></name></name>, τῶι δὲ <name type="deity" key="Echelos"><w lemma="ἥρως"><supplied reason="lost">ἥ</supplied>
+
+	    							<lb xml:id="line_15" n="15" break="no"/><supplied reason="lost">ρ</supplied>ω̣ι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλεον</w></name> καὶ <name type="object"><name type="genericOffering"><w lemma="τράπεζα">τράπεζαν</w></name></name> <w lemma="παρατίθημι">παρατιθέναι</w>, τεῖ δ<supplied reason="lost">ὲ</supplied>
+
+	    				<lb xml:id="line_16" n="16"/> <w lemma="ὕστερος"><supplied reason="lost">ὑστερ</supplied><unclear>ά</unclear>αι</w> τῶι <name type="deity" key="Echelos"><w lemma="ἥρως">ἥρωι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλεον</w></name>· <w lemma="λογίζομαι">λογίζεσθαι</w> δὲ <w lemma="ὅς">ὅ</w> <w lemma="τις">τι</w> <w lemma="ἄν">ἂν</w>
+
+	    				<lb xml:id="line_17" n="17"/> <w lemma="ἀναλίσκω"><supplied reason="lost">ἀναλ</supplied>ώσει</w>· <w lemma="ἀναλίσκω">ἀναλίσκειν</w> δὲ <w lemma="μή">μὴ</w> <w lemma="πλείων">πλέον</w> τῆς <w lemma="πρόσοδος">προσόδου</w>· <name type="portion"><w lemma="νέμω"><supplied reason="lost">ν</supplied>
+
+	    					<lb xml:id="line_18" n="18" break="no"/><supplied reason="lost">εμέτω</supplied></w></name> δὲ τὰ <name type="portion"><w lemma="κρέας">κρέα</w></name> τοῖς <surplus>οις</surplus> <name type="group"><w lemma="ὀργεών">ὀργεῶσι</w></name> τοῖς <name type="person"><w lemma="πάρειμι">παροῦσι</w></name> καὶ τοῖ<supplied reason="lost">ς</supplied>
+
+	    				<lb xml:id="line_19" n="19"/> <name type="person"><w lemma="υἱός"><supplied reason="lost">ὑοῖς</supplied></w></name> <supplied reason="lost">τὴν</supplied> <w lemma="εἰς">εἰς</w> <w lemma="ἥμισυς">ἡμίσεαν</w> καὶ ταῖς <name type="person"><w lemma="γυνή">γυναιξὶ</w></name> ταῖς τῶν <name type="personnel"><w lemma="ὀργεών">ὀργεώ<supplied reason="lost">ν</supplied>
+
+	    					<lb xml:id="line_20" n="20" break="no"/><supplied reason="lost">ων</supplied></w></name><supplied reason="lost">,</supplied> <w lemma="δίδωμι"><supplied reason="lost">διδ</supplied><unclear>ο</unclear>ὺς</w> ταῖς <name type="person"><w lemma="ἐλεύθερος">ἐλευθέραις</w></name> τὴν <w lemma="ἰσαῖος">ἰσαίαν</w> καὶ ταῖς <name type="person"><w lemma="θυγάτηρ">θυγ<supplied reason="lost">α</supplied>
+
+	    				<lb xml:id="line_21" n="21" break="no"/><supplied reason="lost">τράσι</supplied></w></name> <supplied reason="lost">τὴν</supplied> <w lemma="εἰς"><supplied reason="lost">εἰς</supplied></w> <w lemma="ἥμισυς"><supplied reason="lost">ἡμί</supplied>σεαν</w> καὶ <name type="person"><w lemma="ἀκόλουθος">ἀκολούθωι</w></name> <w lemma="εἷς">μιᾶι</w> τὴν <w lemma="εἰς">εἰς</w> <w lemma="ἥμισυς">ἡμ<supplied reason="lost">ί</supplied>
+
+	    					<lb xml:id="line_22" n="22" break="no"/><supplied reason="lost">σεαν</supplied></w><supplied reason="lost">·</supplied> <w lemma="παραδίδωμι"><supplied reason="lost">παραδιδότω</supplied></w> <supplied reason="lost">δὲ τ</supplied><unclear>ῶι</unclear> <name type="person"><w lemma="ἀνήρ">ἀνδρὶ</w></name> τῆς <name type="person"><w lemma="γυνή">γυναικὸς</w></name> τὴν <name type="portion"><w lemma="μερίς">με
+
+	    						<lb xml:id="line_23" n="23" break="no"/><supplied reason="lost">ρίδα</supplied></w></name><supplied reason="lost">.</supplied> <supplied reason="lost"><space extent="unknown" unit="character"/> </supplied> <space extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_24" n="24"/> <w lemma="δοκέω"> <supplied reason="lost">ἔδοξεν</supplied></w> <supplied reason="lost">τοῖς</supplied> <name type="group"><w lemma="ὀργεών"><supplied reason="lost">ὀργεῶσιν</supplied></w></name><supplied reason="lost">·</supplied> <supplied reason="lost">τὸν</supplied> <name type="personnel"><w lemma="ἑστιάτωρ"><supplied reason="lost">ἑστιά</supplied>τορα</w></name> τῶν <w lemma="ἐπιγίγνομαι">ἐπιγ̣ενομέ
+
+	    				<lb xml:id="line_25" n="25" break="no"/><supplied reason="lost">νων</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_26" n="26"/> <gap reason="lost" extent="unknown" unit="line"/>
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+
+					<p> [Lysias son of Periandros] spoke. [To good fortune, may it be decided] by the orgeones: so that the community [of sacrifices is maintained] for all times, [by the association] at the property of Kalliphanes and the one of the hero (5) Echelos, to record in stone the debitors to the association and set up the stone besides [the altar] in the sanctuary, (recording) both the sums and the interest, [the amount] each owes. To record also the old decrees on the stone. And [...] should take care (10) of the engraving and setting up of the stele, and should calculate what he spends on this on behalf of the association.</p>
+					<p> The orgeones decided. The <foreign>hestiator</foreign> is to make the sacrifice on the 17th and the 18th of the month Hekatombaion. He is to sacrifice on the first day a piglet to the Heroines, and to the hero (15) an adult animal and to set up a table, and on the next day (he is to offer) an adult animal to the hero. He is to calculate his expenditures. He should not spend more than the income. He is to [distribute] the meat to the orgeones who are present (a portion), and to [their sons] up to half a portion; and to the women of the orgeones, (20) giving to free women the same to the daughters up to half a portion and to one female servant up to half a portion. He [must give] to the man the portion of the woman.</p>
+					<p> [The orgeones decided:] the <foreign>hestiator</foreign> [...] of the accruing interest [...] </p>
+
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[Lysias], fils de Périandre, a fait la proposition. [À la bonne fortune, qu'il plaise] aux orgéons : afin que la communauté [des sacrifices soit maintenue] pour le reste du temps par l'association de chez Kalliphanès et celle du héros (5) Echelos, inscrivant les débiteurs de l'association sur une stèle de pierre, qu'on l'élève près [de l'autel] dans le sanctuaire avec les sommes et l'intérêt [selon ce que] chacun doit. Que l'on inscrive aussi les anciens décrets sur la stèle. Et [...] prenne soin (10) de la gravure et de l'installation de la stèle, et compte ce qu'il aura dépensé à cette fin pour l'association. </p>
+					<p>Il a plu aux orgéons que l'<foreign>hestiator</foreign> accomplisse le sacrifice du mois d'Hekatombaion, le 17 et le 18. Qu'il sacrifie le premier jour un porcelet aux héroïnes, et au héros (15) un animal adulte, et qu'il dresse une table; le jour suivant (qu'il sacrifie) au héros un animal adulte. Qu'il compte ce qu'il aura dépensé; qu'il ne dépense pas davantage que les rentrées. Qu'il [distribue] les viandes aux orgéons présents et à [leurs fils] jusqu'à une demi-portion, et aux femmes des orgéons, (20) donnant aux femmes libres la même part et aux filles jusqu'à une demi-portion, et à une suivante jusqu'à une demi-portion. Que l'on remette à l'homme la part de la femme. </p>
+					<p>[Il a plu aux orgéons] que l'<foreign>hestiator</foreign> [...] de l'intérêt augmenté [...]</p>
+
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p> This inscription consists of three parts. Lines 1-11 are a decree passed by a group of orgeones in the first half of the third century, marking the decision to record in stone debitors and "the ancient decrees" (i.e. the present inscription). Two "ancient decrees" follow (possibly from the mid-fifth century, cf. Ferguson 1944: 76), the first being preserved in full (lines 12-23) and prescribing sacrifices to the "Hero and Heroines" and meat distributions, while we only have the first line of the other one (line 24).</p>
+
+<p> The text is our oldest evidence for Attic associations that were referred to as 'orgeones', grouped by Ferguson 1944 into two classes. Type A, as we have here, would be a citizen group worshipping a hero in and around the <foreign>asty</foreign> (cf. e.g. the findspot of this inscription). Type B, by contrast, would be an association which may include non-citizens and honours foreign deities in or about the Piraeus. The orgeones were adult males, but were accompanied by their wives, children and servants in the context of the sacrifices (as is evident from lines 18-21).</p>
+
+<p> According to the hypothesis of Meritt, this particular group of orgeones seems to have consisted of two separate associations (κοινά), namely the κοινόν "of the Hero Echelos", and the one worshipping the Heroines "at the property of Kalliphanes" (on the hero Echelos, see Kearns, with further references). These associations had joined forces to have a community of sacrifices (κοινωνία θυσιῶν) for all time to come. The hero gave his name to this district; as Meritt describes in detail, various monuments—among which a relief with the inscribed name Echelos—have been discovered on this location. Given the find spot of the inscription, the joint sacrifices were most probably organized in a sanctuary near the locale of Kalliphanes, the meeting place of the other group who worshipped the heroines (cf. references in Ferguson, 1944: 74 n. 15).</p>
+
+<p> Lines 12-23: This "ancient decree" prescribes two sacrifices made by the joint group. The unnamed hero of the second decree may be identified with Echelos, whose name is mentioned in lines 4-5 of the first decree. Thus, one should sacrifice a piglet to the heroines and an adult animal and a prepared table for Echelos on the 17th of Hekatombaion, and then an adult animal for Echelos on the day after. Ekroth, following Van Straten and Rosivach, has argued that the adult animal is a sheep (cf. Ekroth, p. 138 n. 40 for the references)</p>
+
+<p> Line 12: The office of ἑστιάτωρ seems to have been a liturgy, rotating among the orgeones (Ferguson 1944: 78).</p>
+
+<p> Line 15: The τράπεζα refers to a table prepared with offerings. Preparing the table "could be seen as an action aimed at inviting the hero to come and participate in the sacrifice as an honoured guest" (Ekroth, p. 137). These "could consist of one or several portions of the meat from the <foreign>thysia</foreign> victim ... or of other kinds of foods, as well as perhaps vessels and crowns" (Ekroth, p. 137). From the sacrificial calendar from Marathon, in which heroes receive a <foreign>thysia</foreign> of a certain price as well as a <foreign>trapeza</foreign> of a certain price, we know that the table-offerings were separate, even though one could place portions of the animal on the table (Ekroth, p. 138). In most cases of hero-cults, the <foreign>theoxenia</foreign> and the <foreign>thysia</foreign> sacrifice go together. On <foreign>theoxenia</foreign>, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_13/">CGRN 13</ref> (Selinous), lines A14-15.</p>
+
+<p> Lines 17-23: The information about distribution of portions to ordinary participants (as opposed to individuals who received honorary parts) in this decree is unusually specific. Compare other Athenian inscriptions in this Collection that discuss the distribution of meat after the sacrifice to the participants, but in less detail: <ref target="http://cgrn.ulg.ac.be/CGRN_19/">CGRN 19</ref>, lines 19-21, and <ref target="http://cgrn.ulg.ac.be/CGRN_92/">CGRN 92</ref>, lines 16-17: τὰ δὲ ἄλλα κρέα Ἀθηναίο|[ις μερίζειν].</p>
+
+<p> Lines 20-23: The restoration of the gap at the beginning of line 20 has provoked much discussion (particularly since this section relates to the role of women in the sacrifice and meat-distribution, on which cf. the Commentary in <ref target="http://cgrn.ulg.ac.be/CGRN_33">CGRN 33</ref>, Elateia). It is difficult to assess the available space in the lacuna. According to Dow, we should assume 5 to max. 7 letterspaces. On the basis of this, the solution suggested by Meritt in the <foreign>editio princeps</foreign>, ὀργεώ[ν|ων μετ’ αὐτ]ους was dismissed as too long. Moreover, the order of listing the recipients of portions is ordinarily the order of apportioning, so that need not be further specified. Instead, Ferguson's suggestion (1944) ὀργεώ[ν|ων, ἄν ἦι β]ους (6.5 spaces), and accepted by Goff, makes the distributions of meat to the women contingent on the size of the sacrifice: the women only received a portion when the animal is an ox (p. 74-75 n. 16). Later, Ferguson (1949) adopted a solution that B. Meritt had asked him to publish on his behalf: ὀργεώ[ν|ων, διδ]ούς. We adopt this restoration here. As Ferguson points out, it is quite elegant—the participle merely announces the breaking up of the general category (women of the orgeones) in line 19 into the various sub-categories specified in the next lines. These give detailed information on the apportionment of meat to different groups of women: free women (wives, widows and spinsters), (younger unmarried) daughters, and one female servant. The group seems not to have been poor, as we can tell from the restriction of the meat-distribution to only one female servant (ἀκολούθωι μιᾶι, line 21). Apparently, wealthy families with two or more servants were expected to turn up (Ferguson 1944: 79).</p>
+
+<p> Lines 24-25: The very fragmentary beginning of second ancient decree may suggest a financial subject matter, but we cannot be certain.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

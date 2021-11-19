@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_20" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 20</idno>: Fragmentary <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs>  of an unknown group in Athens</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> <rs type="objectType" key="stele">Stele</rs>, in the form of a post or pillar, inscribed on 4 sides, Faces A-D. Building on earlier observations, Lambert reckons that Face A may be the front side (?), B the right, C the back (?), and D the left. Broken at the top and below, worn and damaged on some parts of the surfaces.</p>
+		
+	<p><dimensions>
+		<height unit="cm">21</height>
+		<width unit="cm">32</width>
+		<depth unit="cm">10</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Stoichedon 19 on the larger faces, A and C; stoichedon 6 on Faces B and D. Stoichedon grid: <height unit="mm">16 × 19.3</height>.</p>
+			<p>Even letters on all sides: <height unit="cm">1.5</height> in lines A1-12; in lines A13-14 and B and C, <height unit="cm">1.1</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0475" notAfter="-0450">ca. 475-450 BC</origDate></p>
+							
+							<p><desc>Justification: lettering and style (Lewis; Lambert).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885/" type="external"> Athens</ref></placeName>, but of uncertain provenance (collection of Lord Elgin; the area of the Acropolis is only one possibility). Now in the British Museum (inv. no. 1816,0610.272). </p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by J.M. Carbon and S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by J.M. Carbon in 6.2020.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p>Edition here based on Lambert, <bibl type="abbr" n="AIUK 4.1">AIUK 4.1</bibl> 2 (with several readings from autopsy by P.J. Thonemann); see there for an apparatus criticus. Note that we do not include the extremely fragmentary side A, we retain letters that we previously read or partly read by other editors but now appear lost, and we do not print new 'dots' under previously read letters.</p>
+
+<p>Other edition : Lewis <bibl type="abbr" n="IG I³">IG I³</bibl> 246.</p>
+	    			
+<p>Cf. also: von Prott <bibl type="abbr" n="LGS I">LGS I</bibl> 2, with p. 45; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 2; <ref target="https://www.atticinscriptions.com/inscription/IGI3/246" type="external">AIO</ref>.</p>
+	    			
+<p>Further bibliography: <bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>, for the dates.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	<ab subtype="Face" n="B">Face B
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_B1" n="B1"/><gap reason="lost" quantity="2" unit="character"/><orig>αι</orig> <pc>:</pc> <name type="liquid"><w lemma="μέλι"><unclear>μ</unclear>έ
+	    						
+<lb xml:id="line_B2" n="B2" break="no"/><supplied reason="lost">λ</supplied>ιτος</w></name> <w lemma="τριημικοτύλιον">τ
+	    							
+<lb xml:id="line_B3" n="B3" break="no"/><supplied reason="lost">ρ</supplied>ιhεμι	
+	    							
+<lb xml:id="line_B4" n="B4" break="no"/><supplied reason="lost">κο</supplied>τύλ<supplied reason="lost">ι</supplied>
+	    								
+<lb xml:id="line_B5" n="B5" break="no"/><supplied reason="lost">α</supplied></w><supplied reason="lost">,</supplied> <name type="vegetal"><w lemma="φρύγανον"><supplied reason="lost">φ</supplied>ρύγα
+	    					
+<lb xml:id="line_B6" n="B6" break="no"/><supplied reason="lost">να</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">ἔ</supplied>στο</w>
+	    						    					
+<lb xml:id="line_B7" n="B7"/><supplied reason="lost">το̑</supplied> <name type="personnel"><w lemma="ἱερεύς">ἱερέ
+	    							    						
+<lb xml:id="line_B8" n="B8" break="no"/><supplied reason="lost">ος</supplied></w></name> <pc>∶</pc> <name type="deity" key="Tritopatreis"><w lemma="Τριτοπατρῆς">Τριτ
+	    								
+<lb xml:id="line_B9" n="B9" break="no"/><supplied reason="lost">ο</supplied>πατρε	 
+	    							
+<lb xml:id="line_B10" n="B10" break="no"/><supplied reason="lost">ῦσ</supplied>ι</w></name> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος">τέλ
+	    					
+<lb xml:id="line_B11" n="B11" break="no"/><supplied reason="lost">εον</supplied></w></name></name> <gap reason="lost" quantity="3" unit="character"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    				
+	    				<ab subtype="fragment" n="C">Face C
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_C1" n="C1"/><gap reason="lost" quantity="2" unit="character"/><orig>Ε</orig><gap reason="lost" quantity="2" unit="character"/><orig>Ο</orig><gap reason="lost" quantity="10" unit="character"/> <supplied reason="lost">τρι</supplied>
+	    						    		    					
+<lb xml:id="line_C2" n="C2" break="no"/><w lemma="τριημικοτύλιον">hεμικοτύλ<supplied reason="lost">ια</supplied></w>, <name type="vegetal"><w lemma="φρύγανον">φρ<unclear>ύ</unclear>γ<unclear>α</unclear><supplied reason="lost">να</supplied></w></name> <supplied reason="lost">τ</supplied>
+	    						    					
+<lb xml:id="line_C3" n="C3" break="no"/><supplied reason="lost">ο̑</supplied>ι <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">h</supplied>ιερεῖ</w></name> <gap reason="lost" quantity="1" unit="character"/><orig>Ε</orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>Δ</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>Α</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>Κ</unclear></orig><gap reason="lost" quantity="2" unit="character"/>
+	    					    					
+<lb xml:id="line_C4" n="C4"/><gap reason="lost" quantity="2" unit="character"/> <w lemma="δίδωμι">διδόν<unclear>α</unclear><supplied reason="lost">ι</supplied></w> <orig><unclear>Τ</unclear></orig><gap reason="lost" quantity="9" unit="character"/>
+	    					
+<lb xml:id="line_C5" n="C5"/><gap reason="lost" quantity="1" unit="character"/> <supplied reason="lost"><pc>:</pc></supplied> <name type="month"><w lemma="Θαργήλια"><supplied reason="lost">Θα</supplied>ργελι<supplied reason="lost">ο̑ν</supplied><unclear>ο</unclear><supplied reason="lost">ς</supplied></w></name> <w lemma="ἕκτος">h<unclear>έκ</unclear><supplied reason="lost">τει</supplied></w> <w lemma="ἵστημι"><supplied reason="lost">h</supplied>
+	    						
+<lb xml:id="line_C6" n="C6" break="no"/>ισταμέ<supplied reason="lost">ν</supplied>ο</w> <gap reason="lost" quantity="2" unit="character"/><orig>Ι</orig><gap reason="lost" quantity="2" unit="character"/> <name type="deity" key="heroines"><w lemma=""><supplied reason="lost">hερο</supplied><unclear>ίν</unclear>
+	    					
+<lb xml:id="line_C7" n="C7" break="no"/>εσι</w></name> <pc>∶</pc> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος">τέλε<supplied reason="lost">ον</supplied></w></name></name> <gap reason="lost" quantity="2" unit="character"/><orig><unclear>ΡΛΛ</unclear></orig><gap reason="lost" quantity="2" unit="character"/><orig>ΕΣ</orig> <w lemma="ἥμισυς">ἕ
+	    						
+<lb xml:id="line_C8" n="C8" break="no"/>μισυ</w> ἒ το̑ι <name type="deity" key="Hero"><w lemma="ἥρως">hέροι</w></name> καὶ <name type="vegetal"><w lemma="φρύγανον">φρύ
+	    							
+<lb xml:id="line_C9" n="C9" break="no"/>γανα</w></name> <pc>∶</pc> <name type="festival"><w lemma="Πλυντήρια">Πλυντερίοισι</w></name> <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθε
+	    								
+<lb xml:id="line_C10" n="C10" break="no"/><supplied reason="lost">να</supplied>ίαι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <pc>∶</pc>  <name type="month"><w lemma="Σκιροφοριών"><unclear>Σ</unclear>κιροφοριο̑ν
+	    									
+<lb xml:id="line_C11" n="C11" break="no"/><supplied reason="lost">ος</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    				
+	    				<ab subtype="fragment" n="D">Face D
+	    					
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_D1" n="D1"/><gap reason="lost" quantity="1" unit="character"/> <pc>∶</pc> <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">hέρ<supplied reason="lost">με</supplied>
+	    							    						
+<lb xml:id="line_D2" n="D2" break="no"/>ι</w></name> <name type="vegetal"><w lemma="πυρός">πυρο̑ν</w></name>
+	    					
+<lb xml:id="line_D3" n="D3"/><w lemma="δύο">δύο</w> <w lemma="χοῖνιξ">χοί
+	    						
+<lb xml:id="line_D4" n="D4" break="no"/>νικε</w> <pc>∶</pc> <w lemma="τρεῖς">τρ
+	    							
+<lb xml:id="line_D5" n="D5" break="no"/>ε̑ς</w> <name type="object"><w lemma="ὀβελός">ὀβε<unclear>λ</unclear>
+	    								
+<lb xml:id="line_D6" n="D6" break="no"/>οί</w></name> <pc>∶</pc> <name type="deity" key="Heroes"><w lemma="ἥρως">hέρο
+	    									
+<lb xml:id="line_D7" n="D7" break="no"/>ιν</w></name> <w lemma="ἐν">ἐμ</w> <name type="locality"><w lemma="πεδίον">πε
+	    										
+<lb xml:id="line_D8" n="D8" break="no"/>δίοι</w></name> <pc>∶</pc> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος">τέ
+	    											
+<lb xml:id="line_D9" n="D9" break="no"/>λεον</w></name></name> <w lemma="ἑκάτερος">hε
+	    												
+<lb xml:id="line_D10" n="D10" break="no"/><unclear>κατέρ</unclear><supplied reason="lost">ο</supplied>
+	    												
+<lb xml:id="line_D11" n="D11" break="no"/><supplied reason="lost">ι</supplied></w> <gap reason="lost" quantity="5" unit="character"/>
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					
+<p>Face B: [...] three half-<foreign>kotylai</foreign> of honey, wood for kindling, shall belong to the priest; to the Tritopatreis an adult animal [...]</p>
+
+<p>Face C: [...] three half-<foreign>kotylai</foreign> [of ...], wood for kindling, to the priest [...] give [...]. On the 6th of Thargelion [...] to the Heroines, an adult animal [...] half or to the hero and wood for kindling. At the Plynteria, to Athena, a sheep. On the [...] of Skirophorion [...]</p>
+
+<p>Face D: [...]. To Hermes, two <foreign>choinikes</foreign> of wheat, three spits. To the (two) Heroes in the Plain, an adult animal for each of them [...] </p>
+					</div>
+
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					
+<p>Face B: [...] trois demi-kotyles de miel, du bois d'allumage, appartienne au prêtre; pour les Tritopatreis, un animal adulte [...]</p>
+<p>Face C: [...] trois demi-kotyles [de ...], du bois d'allumage, pour le prêtre [...] donner [...]. Le 6 Thargelion [...] aux héroïnes, un animal adulte [...] un demi ou au héros, et du bois à brûler. Aux Plynteria, pour Athéna, un ovin. Le [...] Skirophorion [...]</p>
+<p>Face D: [...] Pour Hermès, deux chénices de farine, trois broches. Aux deux héros dans la plaine, un animal adulte pour chacun [...]</p>
+
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p> Only three of the inscribed sides of this stele are fairly legible (again, we exclude Face A). The content of Faces B and D is fragmentary and difficult to evaluate, but at least one of the sides, Face C, can be clearly interpreted as a form of calendar. It is unclear if the other broken sides were also calendrical, and the order in which these faces were presented can only be reconstructed. As preserved, Face C perhaps marks the conclusion of a calendar, since it exhibits the two last months in the Athenian year: Thargelion (month 11; cf. line C5) and Skirophorion (month 12; cf. line C10). Face C (together with Face D? see below) might thus mark the conclusion of the entire document, or at least of one of its constituent parts. Much of the entry for Thargelion is fragmentarily preserved on this side, which probably also contained, in lines C1-4, other sacrifices falling in earlier periods of the year; the entry for Skirophorion only begins where the stone breaks off and might have continued on Face D (again, see below). </p>
+
+<p>The rites presented on all sides of the stele appear to be relatively modest—sometimes consisting of sacrificial animals, but more often only of vegetal or other substances to be given to priests. This suggests that the authority from which this document emanated was probably a subcivic group rather than the city of Athens. Von Prott thought of a tribe, a phratry or a <foreign>genos</foreign> (for a calendar of a <foreign>genos</foreign> or subcivic group probably inscribed on the Acropolis during the Classical period, see <ref target="http://cgrn.ulg.ac.be/CGRN_21/">CGRN 21</ref>); Sokolowski suggested an association, because of the elusive mention of men in lines A6-7, not included here, but this seems implausible given the date of the inscription; and Lambert thinks of a deme, which is a good possibility if the document respected the standard Athenian year (as could be suggested by the presence of Thargelion and Skirophorion, if they indeed appeared at the conclusion of the calendar).</p>
+						
+<p> Lines B8-10: A sacrifice to the Tritopatreis, or "Great-Grandfathers", is a frequent feature in Attic ritual norms, cf. e.g. <ref target="CGRN_52">CGRN 52</ref>, col. Δ, lines 41-46, and the precise occasion here cannot be identified. On the character of these figures, see further <ref target="http://cgrn.ulg.ac.be/CGRN_13/">CGRN 13</ref> (Selinous), lines A9-16. </p>
+			
+<p> Lines C5-9: This section of the calendar is concerned with a sacrifice on the 6th of Thargelion. The explicit mention of the month name makes it likely that the entry for Thargelion began here. The preceding but very fragmentary lines will thus have been concerned with offerings in Mounychion or an earlier month. The recipient of the sacrifice of an adult animal on the 6th of Thargelion is highly unclear, but appears to be a group of divine figures (-εσι, line C8). The 6th of Thargelion is a date which may have involved sacrifices to Artemis, in close connection with the preparations, including purifications, for the Thargelia in honour of Apollo, which fell on the next day (cf. Mikalson, p. 153); a sacrifice to Demeter Chloe is also known on the 6th (cf. Philochoros <bibl type="abbr" n="FGrH">FGrH</bibl> 328 F 61, with schol. Soph. <title>OC</title> 1600). Neither interpretation seems particularly compelling here, and the remainder of the dated entry is also not straightforward, since it appears to involve sacrifices to Heroines and/or a Hero.</p>
+						
+<p> Lines C9-10: The Plynteria ("Washing", of the statue of Athena) was a major civic festival taking place in Athens on the 25th of Thargelion (Mikalson, p. 160-161). The group inscribing this calendar apparently contributed to the civic festival, but rather modestly: only a single sheep (probably a ewe) was sacrificed to Athena. For the rites performed at the Plynteria, cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_24/">CGRN 24</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref> (Thorikos), lines 52-53, and cf. <ref target="http://cgrn.ulg.ac.be/CGRN_45/">CGRN 45</ref>, Face A, fr. 3, col. 1.</p>
+						
+<p>Face D: If the order of the faces is correct and if the standard Athenian year was respected in the calendar of the subgroup, Lambert reasons that this part of the document should present a continuation of the rituals in Skirophorion (found at the extant end of Face C). The first entry preserved is an offering to Hermes, but the group apparently only contributed two measures of wheat and perhaps three spits (of meat? or three obols?) to this occasion. Lambert (p. 21) concludes that "what we should perhaps envisage here is an end-of-year "party", organised in the local gymnasium, with the animal to be sacrificed supplied by the users, and the local deme supplying the spits for roasting it on". It seems difficult to be sure. In the following entry, a pair of Heroes said to be located "in the plain" (ἐμ πεδίοι) each receive an adult animal as sacrifices. The identity of these recipients is completely unclear, though the mention of the plain might serve to indicate that the group inscribing the stele was (principally? additionally?) active somewhere in the periphery of the city-centre of Athens.</p>	
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

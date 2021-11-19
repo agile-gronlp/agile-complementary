@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_123" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 123</idno>: <rs type="textType" key="priestly contract">Contract</rs> of sale for the priesthood of the Samothracian Gods at Tomis</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Marble <objectType>stele</objectType> or plaque, heavily broken to the left. There are inscriptions on two columns on the surface. Column I is an extremely fragmentary inscription, probably from an honorific decree, which somewhat strangely appears to show somewhat later lettering than the other text (e.g. <foreign>alpha</foreign> with angular horizontal bar; we do not reprise it here). Column II is the priesthood sale presented below.</p>
+			<p><dimensions>
+					<height unit="cm">34</height>
+					<width unit="cm">44</width>
+					<depth unit="cm">10</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">5-15</height> (Stoian); the substantial variation is probably explained by conflating the measurements for column I (smaller) and column II (larger).</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0150" notAfter="-0050">ca. 150-50 BC</origDate></p>
+			<p><desc>Justification: letterforms (Stoian). NB also the use of <foreign>iota subscriptum</foreign>.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Tomis" n="Black_Sea"><ref target="http://pleiades.stoa.org/places/217016" type="external">Tomis</ref></placeName>. Now in the Museum in Bucharest.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Stoian <bibl type="abbr" n="IScM II">IScM II</bibl> 1 (in Romanian), with ph. pl. 1. We only include column II of the inscription (see the description above). NB that we adopt Sokolowski's restoration in lines 4-5 (rather than Ziehen's, adopted by Stoian), and that we omit Stoian's restoration in line 7.</p>
+					<p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 84; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 87; <bibl type="abbr" n="SEG">SEG</bibl> 25, 755.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Dimitrova 2008">Dimitrova 2008</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="column" n="II">Column II
+	    					
+<lb xml:id="line_1" n="1"/><name type="epithet" key="Agathe"><w lemma="ἀγαθός"><supplied reason="lost">ἀγαθῇ</supplied></w></name> <name type="deity" key="Tyche"><w lemma="τύχη"><supplied reason="lost">τύχ</supplied>ῃ</w></name>· ὁ <w lemma="πρίαμαι">πριάμενος</w> τὴν <name type="personnel"><w lemma="ἱερωσύνη">ἱερω
+	    				
+<lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">σύνην</supplied></w></name> <supplied reason="lost">τῶ</supplied>ν <name type="epithet" key="Mystes"><w lemma="μύστης">Μυστῶν</w></name> <name type="deity" key="unclear"><w lemma="θεός">Θεῶν</w></name> τῶ<unclear>ν</unclear> <w lemma="ἐν"><unclear>ἐ</unclear>ν</w>
+	    					
+<lb xml:id="line_3" n="3"/><placeName key="Samothrace"><w lemma="Σαμοθράκη"><supplied reason="lost">Σαμοθρά</supplied><unclear>κ</unclear>ῃ</w></placeName> <name type="personnel"><w lemma="ἱεράομαι">ἱερήσεται</w></name> <w lemma="διά">διὰ</w> <w lemma="βίος">βίο<supplied reason="lost">υ</supplied></w> <supplied reason="lost">καὶ</supplied>
+	    					
+<lb xml:id="line_4" n="4"/><name type="month"><w lemma="Ἀπατουριών"><supplied reason="lost">Ἀπατου</supplied>ρεῶνος</w></name> <w lemma="ἕβδομος">ἑβδόμῃ</w> <w lemma="παρέχω">παρ<supplied reason="lost">έξει</supplied></w> <w lemma="εἰς"><supplied reason="lost">εἰς</supplied></w>
+	    				
+<lb xml:id="line_5" n="5"/><supplied reason="lost">τὰ</supplied> <name type="genericOffering"><w lemma="ἱερός"><supplied reason="lost">ἱερ</supplied><unclear>ὰ</unclear></w></name> <name type="vegetal"><w lemma="σχίζα">σχίζας</w></name> καὶ <name type="liquid"><w lemma="ἐγχέω">ἐγχέει</w></name> <supplied reason="lost">τὸν</supplied> <name type="liquid"><w lemma="οἶνος"><supplied reason="lost">οἶ</supplied>
+	    					
+<lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">νον (?)</supplied></w></name> <supplied reason="lost">τοῖ</supplied><unclear>ς</unclear> <name type="group"><w lemma="μύστης">μύσταις</w></name> καὶ <w lemma="πομπεύω">πομπε<supplied reason="lost">ύσει</supplied></w>
+	    				
+<lb xml:id="line_7" n="7"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <w lemma="παρά"><supplied reason="lost">π</supplied><unclear>α</unclear>ρ’</w> <w lemma="αὐτός">αὐτοῦ</w>· <name type="adornment"><w lemma="στεφανόω">στεφανωθήσε<unclear>τ</unclear><supplied reason="lost">αι</supplied></w></name> <supplied reason="lost">δὲ</supplied>
+	    				
+<lb xml:id="line_8" n="8"/><w lemma="παρά"><supplied reason="lost">παρὰ</supplied></w> <unclear>τ</unclear>ῶν <name type="group"><w lemma="μύστης">μυστῶν</w></name> <w lemma="φιλοτιμία">φιλοτιμίας</w> <w lemma="ἕνεκα">ἕνε
+	    				
+<lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">κε</supplied><unclear>ν</unclear></w> τῆς <w lemma="εἰς">εἰς</w> <w lemma="ἑαυτοῦ">ἑαυτούς</w>, <w lemma="ἐν">ἐν</w> ᾗ <name type="personnel"><w lemma="ἱεράομαι">ἱερᾶται</w></name> <w lemma="ἡμέρα">ἡμέ
+	    					
+<lb xml:id="line_10" n="10" break="no"/>ρᾳ</w>· <name type="sacrifice"><w lemma="συνθύω">συνθύσει</w></name> δὲ καὶ τοὺς <name type="vegetal"><w lemma="λίβανος">λιβάνους</w></name> <w lemma="ἐν">ἐμ</w>
+	    				
+	    	<lb xml:id="line_11" n="11"/><w lemma="πᾶς">πάσαις</w> ταῖς <name type="group"><w lemma="σύνοδος">συνόδοις</w></name> <w lemma="μετά">μετὰ</w> τοῦ <w lemma="προϋπάρχω">προ
+	    					
+<lb xml:id="line_12" n="12" break="no"/>υπάρχοντος</w> <name type="personnel"><w lemma="ἱερεύς">ἱέρεω</w></name> τῶν <name type="epithet" key="Mystes"><w lemma="μύστης">Μυστῶν</w></name> καὶ
+	    					
+<lb xml:id="line_13" n="13"/>οἷς <w lemma="ἐπιβάλλω">ἐπιβάλλει</w> <w lemma="ἐκ">ἐκ</w> τοῦ <w lemma="νόμος">νόμου</w>· <w lemma="ὑπάρχω">ὑπάρχει<unclear>ν</unclear></w>
+	    					
+<lb xml:id="line_14" n="14"/>δὲ <w lemma="αὐτός">αὐτῷ</w> τὸν <name type="adornment"><w lemma="στέφανος">στέφανον</w></name> <w lemma="εἰς">εἰς</w> τὸ <w lemma="κατά">κατ’</w> <w lemma="ἀΐδιος"><supplied reason="lost">ἀΐδι</supplied>
+	    					
+<lb xml:id="line_15" n="15" break="no"/>ον</w>· <w lemma="πρίαμαι">ἐπρίατο</w> τὴν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύνην</w></name> Τίμ<supplied reason="lost">αιος (?)</supplied>
+	    					
+<lb xml:id="line_16" n="16"/>Στράτωνος <w lemma="χρυσός">χρυσῶν</w> <w lemma="ἑπτά">ἑπτά</w>, <w lemma="χαλκός">χαλ<unclear>κ</unclear><supplied reason="lost">ῶν</supplied></w>
+	    					
+<lb xml:id="line_17" n="17"/><w lemma="ἑξήκοντα">ἑξήκοντα</w> οὓς <w lemma="δίδωμι">ἔδωκε</w> <w lemma="παραχρῆμα">παραχρῆ<supplied reason="lost">μα</supplied></w>.
+	    			
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Column II</p>
+				<p>[With good fortune]. The one who purchases the priesthood of the Mystery-Gods from [Samothrace] will serve as priest for life, and on the 7th of [Apatoureon], will provide the pieces of wood [for (5) the sacrifices] and pour [wine (?) a libation (?) for the initiates, and will lead in a procession [...] at his own cost. He will be crowned [by] the initiates for his benefaction towards them, on the day when he acts as priest. (10) He will join in the sacrifices of incense in all the meetings together with the former priest of the Mystery-Gods, and in all the occasions prescribed by the law. He will obtain his crown in perpetuity. (15) Tim[aios (?)] son of Straton bought the priesthood for seven gold pieces and sixty bronze pieces, which he provided immediately. 
+ 					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Colonne II</p>
+						<p>[À la bonne fortune]. L’acheteur de la prêtrise des Dieux à mystères de [Samothrace] sera prêtre à vie et, le 7 [Apatoureon], il fournira [pour (5) les sacrifices] des bûches, versera [du vin (?), une libation (?)] pour les mystes et conduira en procession [...] à ses frais. Qu’il reçoive une couronne [de la part] des mystes pour sa munificence envers eux, le jour où il exerce la prêtrise. (10) Il sacrifiera aussi de l’encens dans toutes les réunions avec le précédent prêtre des Dieux à mystères et dans toutes les occasions qui surviennent conformément à la loi. Que la couronne soit à sa disposition à jamais. (15) Tim[aios (?)] fils de Straton a acheté la prêtrise pour sept pièces d’or et soixante de bronze qu’il a versées comptant.	
+					</p>
+					<p>(traduction S. Lebreton)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>At first glance, the document appears to be a standard contract for the sale of a priesthood (for similar contracts at Miletus, the metropolis of Tomis, cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_39">CGRN 39</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_138">CGRN 138</ref>). The duration of the tenure of the priest is specified (line 3, as often, this is for life). As is also often the case in these contracts, lists of sacrificial provisions by the priest are specified (lines 4-7), though interestingly no special portions from the sacrifices are explicitly awarded to him, as was usually the case. Instead, his privileges are to consist in a crown and officiating at meetings (lines 7-15).</p>
+						
+<p>The overall context of the sale remains uncertain, however: was it issued by the city of Tomis or by some other group? Ziehen thinks of a possible connection between the two inscribed columns on the stone (see Support, above), but this is far from clear given the present state of col. I. Sokolowski supposes that the honorand of this other decree in col. I, a certain Diagoras (line 15 of col. I), may have been the founder of the cult of the Samothracian gods at Tomis, and that he thus could in some way have been designated as "the prior priest" (lines 11-12 here). This seems possible, though it remains to be confirmed. It is surprising that the previous priest is still alive, given that the sale of priesthoods was normally for life. There may have been some circumstances due to which he held the office for a more limited duration. The date of foundation of the cult of the Samothracian Gods at Tomis is itself unclear (at nearby Histria, the cult was originally private and the priesthood was by descent: cf. <bibl type="abbr" n="IScM I">IScM I</bibl> 19, 3rd century BC), and this supposition about the relationship between the two columns may be complicated by the fact that col. I appears to date later and to be of a quite different character from col. II (see Layout, above). Stoian appears to agree with the assumption of a founder of the cult called Diagoras, and following O. Kern (<title>RE</title> X, col. 1414), rightly underlines that the νόμος alluded to in line 13 may have been the charter or the legislative act of foundation of the cult. Alternatively, the allusion to the νόμος may simply have been to customary actions.</p>
+						
+	<p>It is perhaps possible that the inscription (and the νόμος alluded to in line 13) emanates from a group of <foreign>mystai</foreign> (cf. lines 6 and 8), having presumably been enacted or passed during one of its meetings (<foreign>synodoi</foreign>). It is noteworthy that the present inscription is not presented as a decree. In addition, note that the office of priest is here presented as a form of euergetism (φιλοτιμία, line 8) rather than as a source of benefits and revenue in and of itself. No perquisites are given. Instead, the priest provides a good sum of money as an immediate deposit, and takes care of annual provisions of wood, liquids as well as one or more sacrificial animals, in exchange for what are less tangible honours: a crown (of unspecified value) for his benefaction, and duties as an officiant as well as for commencing and inaugurating meetings (lines 10-12; cf. Sokolowski's commentary for the sacrifices of incense at the beginning of meetings). But we note that col. I, line 11 (not reprised here) mentions ὁ δῆμος in a fragmentary context. Thus, a civic sale of priesthood also remains a strong possibility.</p>			
+						
+<p>The gods honoured here are interestingly called by the allusive expression or paraphrase Mystai Theoi "who are in Samothrace". The reference is to the Kabeiroi, whose cult enjoyed a great popularity and was widely disseminated: see recently Dimitrova. For a comparison with the sale of a priesthood for the initiatic cult of the Korybantes at Erythrai, much more clearly a civic cult, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_98/">CGRN 98</ref>. For Mystes as an epithet, see also Paus. 8.54.5 (Dionysus at Tegea) and Artem. 2.70 (Apollo).</p>
+
+<p>Line 4: Since Tomis was a colony of Miletus and is thought to have adopted its calendar <foreign>in extenso</foreign>, Apatourion will have been the 8th month, in late autumn or early winter. The 7th of Apatourion is not known to have featured any celebrations in the mother-city (though the seventh day was typically sacred to Apollo).</p>
+						
+<p>Lines 4-6: Ziehen's and Stoian's restoration <supplied reason="lost">τὰ ξύλ</supplied><unclear>α</unclear> σχίζας seems quite redundant. According to Sokolowski's more suitable restoration, the wood is to be supplied at the priest's expense during all the sacrifices. The object of the next obligation for the priest is not completely clear, though it is obvious that the priest must provide a liquid of some sort to the initiates (perhaps simply a libation [σπονδήν], as Sokolowski restores), for instance wine (according to Stoian, doubtless a more costly liturgy in this case, if it entailed a supply of wine to all the initiates for the celebration).</p>
+						
+<p>Line 7: Stoian restores <supplied reason="lost">κριῷ</supplied>, though we would have excepted an accusative as the object of πομπεύω. As Sokolowski notes, the phrase implies that the new priest is to offer an animal (or several) at his own cost during the annual sacrifices, but the exact restoration of the animal remains elusive. </p>
+						
+<p>Lines 9-10: The reference of the day on which the priest will be crowned by the initiates seems to be to each day on which the priest will serve as priest. The clause εἰς τὸ κατ' [ἀϊδι]ον seems to be a further clarification of the repetitive nature of this act, during all the meetings and celebrations of the group (cf. the intervening clause in lines 10-13).</p>
+						
+<p>Lines 15-17: As with some other contracts of sale, the purchaser of the priesthood and the price obtained are appended to the document: cp. <ref target="http://cgrn.ulg.ac.be/CGRN_175/">CGRN 175</ref>, lines 41-42, and <ref target="http://cgrn.ulg.ac.be/CGRN_176/">CGRN 176</ref> (Priene), lines 35-38. The final phrase suggests that the amount for the priesthood was provided in only one transfer, rather than in several instalments, as was often the norm (for instance, on Kos, e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_147/">CGRN 147</ref>, lines 136-140).
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

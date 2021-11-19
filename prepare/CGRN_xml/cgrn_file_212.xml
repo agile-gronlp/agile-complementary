@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_212" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 212</idno>: <rs type="textType" key="dossier of regulations">Dossier of regulations</rs> concerning the cult of Athena Nikephoros at Pergamon</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Sylvain Lebreton</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p>Marble stele, broken in two pieces (upper and lower fragments), with a small ledge on the top. The right upper corner is missing.</p>
+
+	<p><dimensions>
+	<height unit="cm">80</height>
+	<width unit="cm">40-43</width>
+	<depth unit="cm">10</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p>The letters are not very carefully engraved.</p>
+			<p>Letters: lines 1-2: <height unit="cm">1.8</height>, lines 3-29: <height unit="cm">0.8</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0150" notAfter="-0100">probably after 133 BC</origDate></p>
+
+		<p><desc>Justification: context (see Commentary).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Pergamon" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/550812" type="external">Pergamon</ref></placeName>. The upper fragment (inv. no. III 59) was found on the west slope of the acropolis, below the temple of Athena, and the lower one (inv. no. I 61) near the great altar. See Commentary for the original localisation of the stone. </p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 02-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Hiller von Gaertringen <bibl type="abbr" n="SIG³">SIG³</bibl> 982, with a new suggestion in line 3 and with the suggested (but tentative) restorations of Sokolowski in lines 12-13.
+	    			</p>
+	    			<p> Other edition:
+	    				Fraenkel <bibl type="abbr" n="IvP II">IvP II</bibl> 255.</p>
+	    			<p> Cf. also:
+
+	    				Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 12;
+
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 19, 722.
+	    			</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Dow 1960">Dow 1960</bibl>;
+	    				<bibl type="author_date" n="Debord 1982">Debord 1982</bibl>: 194-196 and 466 n. 88;
+	    				<bibl type="author_date" n="Price 1999">Price 1999</bibl>: no. 6;
+	    				<bibl type="author_date" n="Kohl 2002">Kohl 2002</bibl>;
+	    				<bibl type="author_date" n="Lupu 2003b">Lupu 2003b</bibl>: 335-339;
+	    				<bibl type="author_date" n="Müller 2003">Müller 2003</bibl>.
+
+
+
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    <ab>
+
+<lb xml:id="line_1" n="1"/> Διονύσιος Μηνοφί<unclear>λ</unclear><supplied reason="lost">ου</supplied>
+
+<lb xml:id="line_2" n="2"/> <name type="personnel"><w lemma="ἱερονομέω">ἱερονομήσα<del rend="erasure">ντε</del>ς</w></name> τῶι <name type="group"><w lemma="δῆμος">δήμ<supplied reason="lost">ωι</supplied></w></name>.
+
+<lb xml:id="line_3" n="3"/> <name type="purification"><w lemma="ἁγνεύω">ἁγνευέτωσαν</w></name> δὲ καὶ <w lemma="εἴσειμι">εἰσίτωσαν</w> <w lemma="εἰς">εἰς</w> τὸν τῆς <name type="deity" key="Athena"><w lemma="θεός">θεο<supplied reason="lost">ῦ</supplied></w></name> <name type="structure"><w lemma="ναός"><supplied reason="lost">ἱερὸν</supplied></w></name>
+
+<lb xml:id="line_4" n="4"/> οἵ τε <name type="person"><w lemma="πολίτης">πολῖται</w></name> καὶ οἱ <name type="person"><w lemma="ἄλλος">ἄλλοι</w></name> <w lemma="πᾶς">πάντες</w> <w lemma="ἀπό">ἀπὸ</w> μὲν τῆς <w lemma="ἴδιος">ἰδίας</w> <name type="sex"><w lemma="γυνή">γ<supplied reason="lost">υναι</supplied>
+
+<lb xml:id="line_5" n="5" break="no"/>κὸς</w></name> καὶ τοῦ <w lemma="ἴδιος">ἰδίου</w> <name type="sex"><w lemma="ἀνήρ">ἀνδρὸς</w></name> <w lemma="αὐθήμερος">αὐθήμερον</w>, <w lemma="ἀπό">ἀπὸ</w> δὲ <name type="person"><w lemma="ἀλλότριος">ἀλλοτρίας</w></name> κ<supplied reason="lost">αὶ</supplied>
+
+<lb xml:id="line_6" n="6"/> <name type="person"><w lemma="ἀλλότριος">ἀλλοτρίου</w></name> <w lemma="δευτεραῖος">δευτεραῖοι</w> <name type="purification"><w lemma="λούω">λουσάμενοι</w></name>· <w lemma="ὡσαύτως">ὡσαύτως</w> δὲ καὶ <w lemma="ἀπό">ἀπὸ</w>
+
+<lb xml:id="line_7" n="7"/> <name type="death"><w lemma="κῆδος">κήδους</w></name> κ<unclear>α</unclear>ὶ <name type="childbirth"><w lemma="τίκτω">τεκούσης</w></name> <w lemma="γυνή">γυναικὸς</w> <w lemma="δευτεραῖος">δευτεραῖος</w>· <w lemma="ἀπό">ἀπὸ</w> δὲ <name type="death"><name type="structure"><w lemma="τάφος">τάφου</w></name></name>
+
+<lb xml:id="line_8" n="8"/> καὶ <name type="death"><w lemma="ἐκφορά">ἐκφορ<unclear>ᾶ</unclear>ς̣</w></name> <name type="purification"><w lemma="περιρραίνω">περιρασάμενοι</w></name> καὶ <w lemma="διέρχομαι">διελθόντες</w> τὴν <name type="structure"><w lemma="πύλη">πύλην</w></name>, <w lemma="κατά">κα
+
+<lb xml:id="line_9" n="9" break="no"/>θ᾽</w> <w lemma="ὅς">ἣν</w> τὰ <name type="object"><w lemma="ἁγιστήριον">ἁγιστήρια</w></name> <w lemma="τίθημι">τίθεται</w>, <name type="purification"><w lemma="καθαρός">καθαροὶ</w></name> <w lemma="εἰμί">ἔστωσαν</w> <w lemma="αὐθήμερος">αὐθήμερον</w>.
+
+<lb/> <space quantity="1" unit="line"/>
+
+<lb xml:id="line_10" n="10"/> <w lemma="δοκέω">ἔδοξεν</w> τῆι <name type="group"><w lemma="βουλή">βουλῆι</w></name> καὶ τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>, <w lemma="γνώμη">γνώμη</w> <name type="group"><w lemma="στρατηγός">στρατηγῶν</w></name>· τὰ μὲ<supplied reason="lost">ν</supplied>
+
+<lb xml:id="line_11" n="11"/> <w lemma="ἄλλος">ἄλλ᾿</w> <w lemma="ὅς">ἅ</w> <w lemma="περί">περὶ</w> τῶν <name type="sacrifice"><name type="group"><w lemma="θύω">θυόν<supplied reason="lost">των</supplied></w></name></name> <supplied reason="lost">τ</supplied>ῆι <name type="epithet" key="Nikephoros"><w lemma="νικηφόρος">Νι<unclear>κ</unclear>ηφόρωι</w></name> <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶι</w></name> <w lemma="γίγνομαι">γίνεσθαι</w> <w lemma="κατά">κατὰ</w>
+
+<lb xml:id="line_12" n="12"/> <supplied reason="lost">τὸν</supplied> <name type="authority"><w lemma="νόμος"><supplied reason="lost">νόμον</supplied></w></name><supplied reason="lost">,</supplied> <name type="genericOffering"><w lemma="τίθημι"><supplied reason="lost">τιθέναι</supplied></w></name> <supplied reason="lost">δὲ</supplied> <w lemma="μετά"><supplied reason="lost">μετὰ</supplied></w> <supplied reason="lost">τῶν</supplied> <name type="genericOffering"><w lemma="προϋπάρχω"><supplied reason="lost">πρ</supplied>ο<unclear>ϋ</unclear>π<supplied reason="lost">αρ</supplied>χ<supplied reason="lost">όντων</supplied></w></name> <supplied reason="lost">τῆι</supplied> <name type="deity" key="Athena"><w lemma="θεά"><supplied reason="lost">θεᾶι</supplied></w></name> <name type="portion"><w lemma="γέρας"><supplied reason="lost">γε</supplied>
+
+<lb xml:id="line_13" n="13" break="no"/><supplied reason="lost">ρῶν</supplied></w></name> <supplied reason="lost">κ</supplied>αὶ τῶν <w lemma="εἰς">εἰς</w> τὸν <name type="structure"><w lemma="θησαυρός"><supplied reason="lost">θ</supplied><unclear>η</unclear>σαυρὸν</w></name> <w lemma="ἐμβάλλω">ἐμβαλλομένων</w> <orig>ε</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_14" n="14"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="σκέλος"><supplied reason="lost">σ</supplied>κέλος</w></name> <w lemma="δεξιός">δεξιὸν</w> καὶ τὸ <name type="portion"><w lemma="δέρμα">δέρμα</w></name>· τὸ δὲ <w lemma="ὑπέρ">ὑπὲρ</w> τῶν <name type="animal" key="swine"><w lemma="ὗς">ὑῶν</w></name> <w lemma="ἔκκειμαι">ἐκ<unclear>κ</unclear><supplied reason="lost">είμε</supplied>
+
+	    		<lb xml:id="line_15" n="15" break="no"/><supplied reason="lost">ν</supplied>ον</w> <w lemma="τετρώβολος">τετρώβολον</w> καὶ τῶν <w lemma="ἄλλος">ἄλλων</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείων</w></name> <num value="2.5">═Ο</num> <w lemma="ἐμβάλλω">ἐμ<unclear>β</unclear><supplied reason="lost">άλ</supplied>
+
+	    			<lb xml:id="line_16" n="16" break="no"/>λειν</w> <w lemma="εἰς">εἰς</w> τὸν <name type="structure"><w lemma="θησαυρός">θησαυρόν</w></name>, <name type="authority"><w lemma="καθάπερ">καθάπερ</w></name> <w lemma="διατάσσω">διατέτακται</w>. <w lemma="εἰμί">εἶναι</w> δ<supplied reason="lost">ὲ</supplied> <supplied reason="lost">τὸ</supplied>
+
+	    	<lb xml:id="line_17" n="17"/> <name type="authority"><w lemma="ψήφισμα">ψήφισμα</w></name> <name type="authority"><w lemma="κύριος">κύριον</w></name> <w lemma="διά">διὰ</w> <w lemma="πᾶς">παντός</w>, <w lemma="ἐάν">ἐὰμ</w> <w lemma="μή">μή</w> <w lemma="τις">τι</w> <w lemma="ἄλλος">ἄλλο</w> <w lemma="δοκέω">δόξηι</w>.
+
+	    	<lb/> <space quantity="1" unit="line"/>
+
+	    	<lb xml:id="line_18" n="18"/> <w lemma="δοκέω">ἔδοξεν</w> τῆι <name type="group"><w lemma="βουλή">βουλῆι</w></name> καὶ τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>, <w lemma="γνώμη">γνώμη</w> <name type="group"><w lemma="στρατηγός">στρατηγῶ<supplied reason="lost">ν</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἐπειδή"><supplied reason="lost">ἐπει</supplied>
+
+	    		<lb xml:id="line_19" n="19" break="no"/>δὴ</w> <w lemma="πρότερος">πρότερον</w> <w lemma="εἰμί">ἦν</w> <name type="authority"><w lemma="ἐθίζω">εἰθισμένον</w></name> τοὺς <name type="sacrifice"><name type="group"><w lemma="θύω">θύοντας</w></name></name> τῆι <name type="epithet" key="Nikephoros"><w lemma="νικηφόρος">Νικηφόρ<unclear>ω</unclear><supplied reason="lost">ι</supplied></w></name> <name type="deity" key="Athena"><w lemma="Ἀθήνη"><supplied reason="lost">Ἀ</supplied>
+
+	    			<lb xml:id="line_20" n="20" break="no"/>θηνᾶι</w></name> <w lemma="μετά">μετὰ</w> τῶν <name type="authority"><w lemma="διατάσσω">διατεταγμένων</w></name> τῆι <name type="deity" key="Athena"><w lemma="θεά">θεᾶι</w></name> <name type="portion"><w lemma="γέρας">γερῶν</w></name> <w lemma="δίδωμι">διδ<supplied reason="lost">όναι</supplied></w>
+
+	    	<lb xml:id="line_21" n="21"/> κα<supplied reason="lost">ὶ</supplied> <name type="group"><w lemma="ἄλλος">ἄλλοις</w></name> <w lemma="τις">τισὶν</w> τῶν <w lemma="περί">περὶ</w> τὸ <name type="structure"><w lemma="ἱερόν">ἱερὸν</w></name> <w lemma="διατρίβω">διατριβόντων</w> <w lemma="πλείων">πλέο
+
+	    		<lb xml:id="line_22" n="22" break="no"/>να</w> <name type="portion"><w lemma="τρίπλευρος">τρίπλευρα</w></name>, <w lemma="δοκέω">δεδόχθαι</w>· <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="νῦν">νῦν</w> τοὺς <w lemma="κατά">κατ'</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <w lemma="τάσσω">τασ
+
+
+<lb xml:id="line_23" n="23" break="no"/>σομένους</w> <name type="personnel"><w lemma="ἱερονόμος">ἱερον<supplied reason="lost">ό</supplied>μους</w></name> <w lemma="παραλαμβάνω">παραλαμβάνοντας</w> τὰ <name type="genericOffering"><w lemma="τίθημι">τιθέμενα</w></name> <name type="portion"><w lemma="δέρμα">δέρ
+
+
+<lb xml:id="line_24" n="24" break="no"/><supplied reason="lost">μ</supplied>ατα</w></name> <w lemma="ὑπό">ὑπὸ</w> τῶν <name type="group"><name type="sacrifice"><w lemma="θύω">θυόντων</w></name></name> καὶ <w lemma="πωλέω">πωλοῦντας</w> <w lemma="δίδωμι">διδόναι</w> <name type="title"><w lemma="νεωκόρος">νεωκόρωι</w></name>
+
+	    	<lb xml:id="line_25" n="25"/><name type="animal" key="swine"><w lemma="ὗς"><supplied reason="lost">ὑ</supplied>ὸς</w></name> μὲν <num value="2">═</num>, <name type="animal" key="sheep"><name type="animal" key="goat"><w lemma="πρόβατον">προβάτου</w></name></name> δὲ <w lemma="ἡμιωβέλιον">ἡμιωβέλιον</w>, <name type="personnel"><w lemma="αὐλητρίς">αὐλητρίδι</w></name> καὶ <name type="personnel"><w lemma="ὀλολύκτρια">ὀλο
+
+	    		<lb xml:id="line_26" n="26" break="no"/>λυκτρίαι</w></name> <w lemma="κοινός">κοινῆι</w> τὸ <w lemma="ἴσος">ἴσον</w>· τῶν δ’ <w lemma="ἐν">ἐν</w> τῆι <name type="locality"><w lemma="ἄκρα">ἄκραι</w></name> <name type="sacrifice"><name type="group"><w lemma="θύω">θυομένων</w></name></name> καὶ <name type="personnel"><w lemma="πυλωρός">πυλω
+
+	    			<lb xml:id="line_27" n="27" break="no"/>ρῶι</w></name> τῆς <name type="locality"><w lemma="ἄκρα">ἄκρας</w></name>, <name type="animal" key="ox"><w lemma="βοῦς">βοὸς</w></name> μὲν <num value="0">Σ</num>, <name type="animal" key="sheep"><name type="animal" key="goat"><w lemma="πρόβατον">προβάτου</w></name></name> δὲ <num value="0">Σ</num>, τὸ δὲ <w lemma="λοιπός">λοιπὸν</w>
+
+	    	<lb xml:id="line_28" n="28"/> τῆς <w lemma="τιμή">τιμῆς</w> <w lemma="κατατάσσω">κατατάσσειν</w> <w lemma="εἰς">εἰς</w> τὰς <w lemma="ἱερός">ἱερὰς</w> <w lemma="πρόσοδος">προσόδους</w>· <w lemma="εἰμί">εἶναι</w> δὲ τὸ
+
+<lb xml:id="line_29" n="29"/> <name type="authority"><w lemma="ψήφισμα">ψήφισμα</w></name> <name type="authority"><w lemma="κύριος">κύριον</w></name> <w lemma="διά">διὰ</w> <w lemma="πᾶς">παντός</w>, <w lemma="ἐάν">ἐὰν</w> <w lemma="μή">μή</w> <w lemma="τις">τι</w> <w lemma="ἄλλος">ἄλλο</w> <w lemma="δοκέω">δόξηι</w>.
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>Dionysios son of Menophilos, having served as <foreign>hieronomos</foreign> for the people. The citizens and all other people who enter the [sanctuary] of the goddess shall be pure, from their own wife (5) or their own husband on the same day; from someone else's woman or someone else's man, (they shall be pure) on the second (day), after they have washed themselves; in the same way (one shall be pure) from funerary care or from a woman who has given birth, on the second (day). From contact with the tomb and the carrying out of the body, those who washed themselves and have passed through the gate where the vessels for lustrations are placed, they shall be pure on the same day.</p>
+
+<p>(10) It was decided by the council and the people, on the proposal of the generals: the other arrangements for those sacrificing to Athena Nikephoros are to happen in accordance with [the law, but one should also deposit, in addition to the] existing [portions (set aside) for the goddess] and to the (money) placed in the money-box, the right leg and the skin [...]; one should place in the money-box (15)  the necessary tetrobol for pigs and 2.5 (?) obols for other sacrificial animals, as is prescribed. The decree shall be valid in perpetuity, unless another one supersedes it.</p>
+
+<p>It was decided by the council and the people, on the proposal of the generals. Since previously it was customary that those sacrificing to Athena Nikephoros (20) give, together with the prescribed portions for the goddess, also more triple-ribs to some other people among those who spend their time around the sanctuary, may it be decided that with immediate effect the annually appointed <foreign>hieronomoi</foreign> who take the skins deposited by those offering sacrifices and sell them, shall give to the <foreign>neokoros</foreign> (25) 2 obols for a pig and a half-obol for small cattle, and the same in common to the (female) aulos-player and the (female) lamenter; from the animals sacrificed on the acropolis, to the gatekeeper of the citadel, (uncertain amount) for an ox and (uncertain amount) for small cattle, and the rest of the profit shall be attributed to the sacred revenues. The decree shall be valid in perpetuity, unless another one supersedes it.</p>
+					<p>(translation adapted from S. <bibl type="author_date" n="Price 1999">Price 1999</bibl>)
+					</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p> Dionysios fils de Menophilos, qui a été hiéronome, pour le peuple. Que les citoyens et tous les autres individus qui entrent dans le [sanctuaire] de la déesse soient purs, le jour même, (après des relations sexuelles) avec leur propre épouse (5) ou  leur propre époux; avec une autre ou un autre, (qu'ils soient purs) le deuxième (jour), après s'être lavés; de même, (après avoir accompli) des soins funéraires ou (cotoyé) une femme qui a enfanté, (que l'on soit pur) le deuxième (jour). Que ceux qui ont participé aux funérailles et au cortège, après s’être nettoyés et avoir passé la porte où se trouvent les vases lustraux, soient purs le jour même. </p>
+
+<p>(10) Il a plu au conseil et au peuple, sur proposition des stratèges, que les autres dispositions relatives à ceux qui sacrifient à Athéna Nikephoros restent conformes à [la loi, mais que l’on dépose, en plus des parts] précédemment [(consacrées) à la déesse] et la (somme) déposée dans le tronc à offrandes, la patte droite et la peau [...]; que l’on dépose dans le tronc à offrandes (15) le tétrobole affiché pour les porcs et 2½ (?) oboles pour les autres animaux sacrifiés, comme il est prescrit. Que ce décret fasse autorité à jamais, à moins qu’un autre ne l’amende. </p>
+
+<p>Il a plu au conseil et au peuple, sur proposition des stratèges. Attendu qu’il était auparavant d’usage que ceux qui sacrifient à Athéna Nikephoros (20) donnent, outre les parts prescrites pour la déesse, une triple côte supplémentaire à d'autres parmi ceux qui passent leur temps autour du sanctuaire, qu'il soit convenu qu’à partir de maintenant ceux qui sont institués hiéronomes annuellement, qui reçoivent les peaux consacrées par ceux qui sacrifient et qui les vendent, donnent au néocore (25) 2 oboles par porc, une hémiobole par tête de petit bétail, la même (somme) en commun à la flûtiste et à la pleureuse; de ce qui est sacrifié sur l’acropole, au portier de l’acropole, (une certaine somme) pour un bovin et (une certaine somme) pour du petit bétail, et que le reste de la somme soit affecté aux revenus sacrés. Que ce décret fasse autorité à jamais, à moins qu’un autre ne l’amende.</p>
+
+				</div>
+
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p>This stone bears three regulations relating to the sanctuary and the cult of Athena Nikephoros. Given its findspot, it must originally have been erected next to the Nikephorion, which Kolb identifies with the known temple of Athena on the acropolis of Pergamon. The lettering suggests that it was engraved in the second half of the second century BC. The text has long been dated to the period after 133 BC, though more recent studies on the chronology of the cult of Athena Nikephoros (especially the appearance of the cult-epithet and the organization of the Nikephoria and their periodicity) point to the Attalid period, specifically the reign of Eumenes II onward (see Kolb, Müller). Nevertheless, the regulations are not necessarily related to the Nikephoria, mention of the Attalids is conspicuously absent, and the composite character of the regulations probably confirm the later date of the letterforms.</p>
+
+<p>Indeed, the inscription, as we have it, is tripartite, forming a dossier of regulations on the sanctuary and the cult of Athena Nikephoros. First, a heading (lines 1-2) states that it was inscribed on the initiative of Dionysios, who served as an annual <foreign>hieronomos</foreign> for the people of Pergamon. For rules inscribed at the initiative of the <foreign>hieronomos</foreign>, see also those of the Asklepieion in the second century AD, <bibl type="abbr" n="IvP III">IvP III</bibl> 161A; for other rules inscribed by priests, cf. also here e.g. <ref target="CGRN_54">CGRN 54</ref> (Piraeus, priest Euthydemos). It seems clear that the first document inscribed on the stele (lines 3-9), a list of purity regulations and entry requirements for the sanctuary, derive from no other explicit authority than that of recorded tradition, expounded by virtue of the role of Dionysios and his office as  <foreign>hieronomos</foreign>. It is no doubt in this capacity also that Dionysios undertook to have inscribed (or reinscribed?) two (excerpts from) decrees of the city of Pergamon. Both decrees seek to regulate the fees for those sacrificing in the sanctuary of Athena. The first (lines 10-17), intends to ensure, or even increase, the incomes of Athena Nikephoros by recalling the fees that must be deposited in the money-box and adding the right leg and the skin of each animal. The second (lines 18-29) amends the first decree, by regulating the remuneration of οἱ περὶ τὸ ἱερὸν διατρίβόντες (lines 21), i.e. the staff attached to the sanctuary (Dow), or more exactly the other people who were used to get paid informally (and apparently excessively, from the point view of the legislator; note the phrasing πλείονα τρίπλευρα). Here again, the aim of the second decree is to ensure sacred income, notably by confirming the control of the annual <foreign>hieronomoi</foreign> on the profit of the sale of the skins (lines 22-24 etc). Thus, the regulations inscribed by Dionysios show that the <foreign>hieronomoi</foreign> played a significant role in putting in order the integrity and maintenance of the sanctuary as well as the distribution of the sacrificial fees. The latter may thus perhaps also show that Dionysios had a vested interest in having these documents inscribed: this thereby reaffirmed the authority of the office of the <foreign>hieronomos</foreign> over the cult of Athena Nikephoros.</p>
+
+<p> Lines 3-9: The first regulation (lines 3-9) forms a self-standing law on purity for the sanctuary of Athena; for other examples in the present Collection, see e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_181/">CGRN 181</ref> (Eresos) or <ref target="http://cgrn.ulg.ac.be/CGRN_211/">CGRN 211</ref> (Maionia). As usual in these documents, the rules define the amount of time during which the access to the sanctuary is forbidden for people who have been in contact with a source of pollution, three of which are mentioned here. For sexual intercourse, it is noteworthy that there is no difference between men and women; in addition, extramarital intercourse is pragmatically taken into account. For childbirth, the mother is not mentioned, only people who were in contact with her (typically the mother would have had to abstain from visiting the sanctuary for a much longer period of time herself). The subject of contact with the dead is more detailed: the more important the proximity with the corpse may be, the longer is the time necessary in order to become pure again. Yet, in all cases, the duration is relatively short, ranging from one to two days: similar clauses in other regulations tend to be  more strict (cp. the two relatively contemporary examples cited above). In line 3, all the editors and scholars take Fraenkel's restoration of [ναὸν] for granted, but [ἱερὸν], which appears at line 21, would not take much more space on the stone (the script is not very regular at the end of the lines) and would be more plausible in such a clause concerning visitors to the sacred space. In lines 8-9, the presence of ἁγιστήρια (a form of περιρραντήριον) next to the door (of the sanctuary, in all probability) suggests the necessity of an additional purification in the form of washing, just before entering the sacred place.</p>
+
+<p>Lines 10-17: The first decree is principally concerned with sacrificial tariffs and fees. These are to take place according to a previous rule (line 16), and to consist in a large fee for swine (4 obols), and probably a bit more than half of this for the animals. The sign ═ stands for 2 obols; the O is a subdivision (probably a half) of an obol. These standard fees are now to be complemented by the addition of a leg and skin, probably from each of the animals offered (see immediately below). As becomes clear in the second decree, these portions were no doubt to be sold. The right leg is a portion which is typically found as divine portion and/or a priestly perquisite: see here <ref target="http://cgrn.ulg.ac.be/CGRN_98/">CGRN 98</ref> (Erythrai), lines A12-16, and perhaps <ref target="http://cgrn.ulg.ac.be/CGRN_182/">CGRN 182</ref> (Mytilene), line 9, also among a list table-portions and sacrificial tariffs; here, these portions may also have been conceived of as divine portions (cf. line 20),
+though proceeds from their sale were to be used for the finances of the cult. In lines 12-13, Fraenkel, followed by Hiller von Gaertringen, proposes εὐ̣χ̣[αριστηρίων], which is not very appropriate for this kind of compensation; Sokolowski's restoration, ἑκ̣ά̣[στου ἱερείων], yields a clearer meaning which we adopt here <foreign>exempli gratia</foreign>, but this does not in fact fit with the reading on the stone (cf. Fraenkel's copy); perhaps we should think instead of a form from εὐχ[ρηστ-], "beneficial" or "profitable" things or actions. For tariffs to be paid in money-boxes, see the now famous case of Aphrodite Ourania, from Athens (<bibl type="abbr" n="SEG">SEG</bibl> 41, 182) and cf. here e.g. <ref target="CGRN_70">CGRN 70</ref> (Oropos), lines 5-9; for a wider discussion, see Debord; Lupu.</p>
+
+<p>Lines 20-22: The second decree introduces several interesting additions to the first. It provides us with a short list of more minor cult personnel and others who "hang around" the sanctuary. This includes not only the more expected <foreign>neokoros</foreign> (temple warden), but also a female aulos-player and a woman whose function was to raise the ritual cry (cf. lines 24-25); for the former woman, see here <ref target="CGRN_222">CGRN 222</ref> (Andania), lines 74-75; for the latter, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. ὀλολυγή and ὀλολύζω. For the typical portions which were usually granted to these individuals, called τρίπλευρα (i.e. pieces with three ribs), see here <ref target="CGRN_180">CGRN 180</ref> (Ialysos).</p>
+
+<p> Lines 23-24: On the sale of the skins from sacrificial animals, cf. the Athenian <foreign>dermatikon</foreign> record (<bibl type="abbr" n="IG II²">IG II²</bibl> 1496) and see here e.g. <ref target="CGRN_75">CGRN 75</ref> (Oropos), lines 29-36.</p>
+
+<p> Lines 26-27: Kohl (p. 249) wonders if the expression τῶν ... ἐν τῆι ἄκραι θυομένων ... τὸ δὲ λοιπὸν implies the existence of two cult places of Athena in Pergamon. This remains possible, but τὸ λοιπὸν clearly goes together with τῆς τιμῆς (this is the rest of money, allotted to the sacred revenues), and the emphasis on the location of the sacrifices ἐν τῆι ἄκραι is perhaps justified given the fee here must be paid to the gatekeeper of the acropolis. For citadel guards and the like being honoured with sacrificial portions (or in this case, replaced by cult tariffs), see here <ref target="CGRN_34">CGRN 34</ref> (Epidauros), lines 16 and 34.</p>
+
+<p> Line 27: The amount symbolized by the symbol Σ is unknown (perhaps a drachma, or more plausibly, an even smaller amount, e.g. a τεταρτημόριον—quarter of an obol?).</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

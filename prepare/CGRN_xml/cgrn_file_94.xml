@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_94" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 94</idno>: <rs type="textType" key="sacrificial calendar">Sacrificial calendar</rs> of the deme of Eleusis</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Two fragments of a <rs type="objectType">stele</rs>, broken above, below and to the right. A left edge and margin appears to be relatively intact. The fragments are treated as a unified whole in the text below, according to Dow and Healey's reconstruction.</p>
+			<p>Fragment A<dimensions>
+					<height unit="cm">20</height>
+					<width unit="cm">24.5</width>
+					<depth unit="cm">7.7</depth>
+			</dimensions></p>
+			<p>Fragment B
+				<dimensions>
+					<height unit="cm">8.5</height>
+					<width unit="cm">26</width>
+					<depth unit="cm">8</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The text is inscribed in careful columns, with numerals coming two spaces to the left of the inscribed margin. A substantial empty space runs between the two preserved columns. Not stoichedon, with small and uneven letters: <height unit="mm">5</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0325" notAfter="-0275">ca. 330-270 BC</origDate></p>
+			<p><desc>Justification: lettering and style (Dow - Healey). Clinton hesitatingly accepts the higher date in this range, ca. 330 BC, thinking also of the reforms of Lycurgus.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Eleusis" n="Attica"><ref target="http://pleiades.stoa.org/places/579920" type="external">Eleusis</ref></placeName>. Now in the Museum of Eleusis (inv. nos. 364-365 for the two fragments).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 04-04-2014 by J.M. Carbon and S. Peels.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by JM Carbon in 02.01.2019.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+<p>Edition here based on <bibl type="author_date" n="Dow - Healey 1965">Dow - Healey 1965</bibl>, with extensive commentary and ph. pl. 1-2. We opt to give a slightly more minimally restored text than these editors, not presuming to restore many empty lines above or below the preserved columns except those that are plausibly reconstructed as month-names (and thus we have a different line numbering). We also follow a few of Clinton's readings (below), esp. in A10 and B10.</p>	
+
+<p>Cf. also: Kirchner <bibl type="abbr" n="IG II²">IG II²</bibl> 1363; <bibl type="abbr" n="SEG">SEG</bibl> 23, 80; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 7; Clinton <bibl type="abbr" n="IE">IE</bibl> 175.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Roux 1966">Roux 1966</bibl>; <bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="Column" n="A">Column A
+	    <lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				
+<lb xml:id="line_A1" n="A1"/><supplied reason="lost"><space quantity="2" unit="character"/></supplied> <name type="month"><w lemma="Πυανοψιών"><supplied reason="lost">Πυανοψιῶνος</supplied></w></name>
+	    				
+<lb xml:id="line_A2" n="A2"/><supplied reason="lost"><space quantity="2" unit="character"/></supplied> <w lemma="ἵστημι"><supplied reason="lost">ἱσταμένου</supplied></w>
+	    					
+<lb xml:id="line_A3" n="A3"/><space quantity="2" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΟΣ<gap reason="lost" quantity="1" unit="character"/>Α</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A4" n="A4"/><gap reason="lost" quantity="5" unit="character" precision="low"/><w lemma="unclear"><unclear>οι</unclear>ν</w> <w lemma="εἰς">εἰς</w> <name type="structure"><w lemma="Ἐλευσίνιος">Ἐλευσίνιο<unclear>ν</unclear></w></name>·
+	    					
+<lb xml:id="line_A5" n="A5"/><space quantity="2" unit="character"/> <w lemma="πέμπτος">πένπτει</w> <w lemma="ἵστημι">ἱσταμένου</w>
+	    					
+<lb xml:id="line_A6" n="A6"/><space quantity="2" unit="character"/> <name type="personnel"><w lemma="ἱεροφάντης">ἱεροφάντηι</w></name> καὶ <name type="personnel"><w lemma="κῆρυξ">κήρυκι</w></name>
+	    					
+<lb xml:id="line_A7" n="A7"/><space quantity="2" unit="character"/> <w lemma="εἰς">ε<supplied reason="lost">ἰ</supplied>ς</w> <name type="meal"><w lemma="ἄριστον">ἄριστον</w></name> τὴν <name type="festival"><w lemma="ἑορτή">ἑορτὴν</w></name>
+	    					
+<lb xml:id="line_A8" n="A8"/><space quantity="2" unit="character"/> <name type="invocation"><w lemma="προσαγορεύω">προαγορεύουσιν</w></name> τῶν
+	   
+<lb xml:id="line_A9" n="A9"/><gap reason="lost" quantity="1" unit="character"/><num value="1">U+10142</num><num value="3">ΙΙΙ</num> <name type="festival"><w lemma="προηρόσιος">Προ<unclear>η</unclear>ροσίων</w></name>·
+	    					
+<lb xml:id="line_A10" n="A10"/><space quantity="2" unit="character"/> <w lemma="ἕβδομος">ἑβδόμει</w> <w lemma="ἵστημι">ἱσταμένου</w>
+	    					
+<lb xml:id="line_A11" n="A11"/><num value="20">ΔΔ</num> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> <name type="epithet"><w lemma="Πύθιος">Πυθίωι</w></name> <name type="animal" key="goat"><w lemma="αἴξ"><unclear>αἲ</unclear>ξ</w></name>
+	    					
+<lb xml:id="line_A12" n="A12"/><space quantity="2" unit="character"/> καὶ τὰ <w lemma="ἐπί">ἐφ’</w> <name type="genericOffering"><w lemma="ἱερός">ἱεροῖς</w></name>, <name type="animal" key="sheep"><name type="age"><w lemma="πρόγονος">προγόν<unclear>ι</unclear>ον</w></name></name>
+	    					
+<lb xml:id="line_A13" n="A13"/><space quantity="2" unit="character"/> καὶ τὰ <w lemma="μετά">μετὰ</w> <w lemma="οὗτος">το<unclear>ύ</unclear>του</w>
+	    					
+<lb xml:id="line_A14" n="A14"/><space quantity="2" unit="character"/> <name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name> <name type="adornment"><w lemma="κοσμέω">κοσμῆσαι</w></name>
+	    					
+<lb xml:id="line_A15" n="A15"/><space quantity="2" unit="character"/> τῶι <name type="deity" key="Apollo"><w lemma="θεός">θεῶι</w></name>, <w lemma="ἱερωσύνη">ἱερεώσυνα</w> <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name>
+	    					
+<lb xml:id="line_A16" n="A16"/><space quantity="2" unit="character"/> <del rend="erasure"><gap reason="lost" quantity="16" unit="character" precision="low"/></del>
+	    				
+<lb xml:id="line_A17" n="A17"/><space quantity="2" unit="character"/> <name type="personnel"><w lemma="ἱεροφάντης">ἱε<supplied reason="lost">ρ</supplied>οφάντηι</w></name> καὶ τα<supplied reason="lost">ῖ</supplied>ς
+	    				
+<lb xml:id="line_A18" n="A18"/><space quantity="2" unit="character"/> <name type="personnel"><w lemma="ἱέρεια">ἱερείαις</w></name> ταῖς <w lemma="ἐκ">ἐ<unclear>ξ</unclear></w> <placeName key="Eleusis"><w lemma="Ἐλευσίς">Ἐλ<supplied reason="lost">ε</supplied>υσῖ<supplied reason="lost">νος</supplied></w></placeName>
+	    				
+<lb xml:id="line_A19" n="A19"/><space quantity="2" unit="character"/> <w lemma="ἐν">ἐν</w> τεῖ <name type="festival"><w lemma="παννυχίς">πανν<unclear>υ</unclear>χ<unclear>ί</unclear>δι</w></name>
+	    				
+<lb xml:id="line_A20" n="A20"/><space quantity="2" unit="character"/> <w lemma="παρέχω">παρέχειν</w> <name type="liquid"><name type="sacrifice"><w lemma="σπονδή">σπονδ<supplied reason="lost">ὰς</supplied></w></name></name>	    
+	    					
+<lb xml:id="line_A21" n="A21"/><space quantity="2" unit="character"/> <name type="bakery"><w lemma="ψαιστός">ψαιστὰ</w></name> <orig><unclear>κα</unclear></orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>ΤΥ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A22" n="A22"/><del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del> 
+	    					
+<lb xml:id="line_A23" n="A23"/><gap reason="lost" extent="unknown" unit="line"/>
+	    				
+<lb xml:id="line_A24" n="A24"/><space quantity="2" unit="character"/> <w lemma="">πρὸς</w> <unclear>τ</unclear>ὸ <name type="structure"><w lemma="μέγαρον">μέγαρον</w></name>
+	    					
+<lb xml:id="line_A25" n="A25"/><space quantity="1" unit="character"/> <num value="10">Δ</num> <w lemma="εἰς">εἰ<unclear>ς</unclear></w> τὰ <w lemma="ἀπόμετρον">ἀ<unclear>π</unclear>όμετρα</w> τῆι <name type="personnel"><w lemma="ἱέρεια">ἱερείαι</w></name>
+	    					
+<lb xml:id="line_A26" n="A26"/><space quantity="2" unit="character"/> τῆι τοῦ <name type="deity" key="Plouton"><w lemma="Πλούτων">Πλούτωνος</w></name> <name type="personnel"><w lemma="ἱέρεια">ἱερείαι</w></name>
+	    					
+<lb xml:id="line_A27" n="A27"/><space quantity="2" unit="character"/> <w lemma="εἰς">ε<supplied reason="lost">ἰς</supplied></w> <name type="meal"><w lemma="ἑστίασις"><supplied reason="lost">ἑ</supplied><unclear>στιά</unclear>σας</w></name> τοῖν <name type="deity" key="Demeter"><name type="deity" key="Kore"><name type="epithet" key="Thesmophoros"><w lemma="θεσμοφόρος">Θεσμο
+	    					
+<lb xml:id="line_A28" n="A28" break="no"/><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">φόροιν</supplied></w></name></name></name> <gap reason="lost" quantity="3" unit="character" precision="low"/><orig><unclear>Ι</unclear></orig> <name type="object"><w lemma="κάνεον">κανοῦν</w></name>  
+	    				
+<lb xml:id="line_A29" n="A29"/><gap reason="lost" quantity="11" unit="character" precision="low"/> <name type="animal" key="sheep"><w lemma="ὄϊς"><supplied reason="lost">οἶ</supplied>ς</w></name> (?), <space quantity="1" unit="character"/> <name type="vegetal"><w lemma="ξύλον">ξύλα</w></name> <w lemma="ἐπί">ἐπὶ</w> τὸν <name type="structure"><w lemma="βωμός">βωμὸν</w></name> καὶ <w lemma="εἰς"><unclear>ε</unclear><supplied reason="lost">ἰς</supplied></w> <w lemma="ἄλλος"><supplied reason="lost">τἄλλα (?)</supplied></w>
+	    					<gap reason="lost" extent="unknown" unit="line"/>
+	    		</ab>
+	    					<ab subtype="Column" n="B">
+	    						Column B
+	    <gap reason="lost" extent="unknown" unit="line"/>
+	    						
+<lb xml:id="line_B1" n="B1"/><supplied reason="lost"><space quantity="2" unit="character"/></supplied> <name type="month"><w lemma="Σκιροφοριών"><supplied reason="lost">Σκιροφοριῶνος</supplied></w></name>
+	    						
+<lb xml:id="line_B2" n="B2"/><supplied reason="lost"><space quantity="2" unit="character"/></supplied> <w lemma="δωδέκατος"><supplied reason="lost">δωδεκάτει</supplied></w> <supplied reason="lost">(?)</supplied>
+	    					
+<lb xml:id="line_B3" n="B3"/><space quantity="2" unit="character"/> <orig><unclear>Ι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    						
+<lb xml:id="line_B4" n="B4"/><num value="20">ΔΔ</num> <orig><unclear>Σ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    						
+<lb xml:id="line_B5" n="B5"/><space quantity="2" unit="character"/> ἱε<unclear>ρ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+	    						
+<lb xml:id="line_B6" n="B6"/><space quantity="2" unit="character"/> τελ<gap reason="lost" extent="unknown" unit="character"/>
+	    						
+<lb xml:id="line_B7" n="B7"/><space quantity="2" unit="character"/> <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν">Ποσ<supplied reason="lost">ειδῶνι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    						
+<lb xml:id="line_B8" n="B8"/><space quantity="2" unit="character"/> <name type="bakery"><name type="liquid"><w lemma="πελανός">πελα<supplied reason="lost">νὸς</supplied></w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    						
+<lb xml:id="line_B9" n="B9"/><space quantity="2" unit="character"/> <orig><unclear>ΙΙΙ</unclear>Ε<unclear>Ω</unclear>Ι</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_B10" n="B10"/><space quantity="2" unit="character"/> <orig><unclear>τ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    						
+<lb xml:id="line_B11" n="B11"/><num value="20">Δ<unclear>Δ</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
+	    					<lb/><gap reason="lost" extent="unknown" unit="line"/>		
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						Column A</p>
+<p>[In the month Pyanepsion]</p>
+<p>[On the 4th?: ... drachmae ? ...] to the Eleusinion</p>
+<p>(5) On the 5th: to the hierophant and the herald for a lunch, when they announce the festival of the Proerosia: 1.5 drachmae (1 drachma and 3 obols).</p>
+<p>(10) On the 7th: 20 dr.: to Apollo Pythios a goat and the things for the rites, a newborn lamb and the things that go with it in order to dress a table (15) for the god, an allowance (?) for the priest (line erased) [? dr.] to the hierophant and the priestesses from Eleusis, at the night festival, (20) to furnish libations and cakes (and other supplies?) (line erased) [...]</p>
+<p>[Missing: e.g. On the 11, 12 or 13th: Thesmophoria ...] (25) to the underground pit; 10 dr.: for the perquisite to the priestess; [? dr.] to the priestess of Plouton [for] banquets in honour of the two Thesmophorian (goddesses), a ritual basket; (30) [...? dr. ... for ... a sheep?], wood for the altar and [the other accessories?... ]</p>
+	    				
+	    				<p>Column B</p>
+<p>[In the month Skirophorion]</p>
+<p>[Missing: On the 12th: Skira]; 20 dr.: (5) [...]; to Poseidon [...], a ritual potation (or: cake) [...] (10) 20 dr.: [...] </p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+						Colonne A</p>
+<p>[Au mois de Pyanepsion]</p>
+<p>[Le 4 ? : ... drachmes ?...] à l'Éleusinion.</p>
+<p>(5) Le 5 : au hiérophante et au héraut pour un déjeuner, quand ils annoncent la fête des Proerosia : 1 ½ drachmes (1 drachme, 3 oboles).</p> 
+<p>(10) Le 7 : 20 dr. : à Apollon Pythios un caprin et ce qu'il faut pour les rites, un agneau nouveau-né et ce qui va avec lui afin de garnir la table (15) pour le dieu, les parts pour le prêtre (ligne effacée) [? dr.] au hiérophante et aux prêtresses d'Éleusis, durant la fête nocturne, (20) afin de fournir les libations et gâteaux (et autres nécessités ?) (ligne effacée) [...]</p>
+<p>[Passage manquant : Le 11, le 12 ou le 13: Thesmophories ...] (25) à la fosse rituelle; 10 dr. : pour les émoluments de la prêtresse; [? dr.] à la prêtresse de Plouton [pour] les banquets en l'honneur des deux Thesmophores, une corbeille rituelle; (30) [... ? dr. ... pour ... un mouton ?], du bois sur l'autel et [les autres accessoires ? ...]</p>
+					
+					<p>Colonne B</p>
+<p>[Au mois de Skirophorion]</p>
+<p>[Passage manquant : Le 12 : Skira]; 20 dr. : (5) [...] à Poséidon [...], une libation rituelle (ou un gâteau) [...] (10) 20 dr. : [...]</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>
+<p>According to Dow and Healey's reconstruction of these fragments, the stele displayed two columns containing the sacrificial calendar of the deme of Eleusis. Given the plurality of local and subcivic calendars at Athens (cp. also those of Kos), this seems a more plausible inference than Clinton's notion of "excerpts" from the Athenian state calendar, though both conclusions are possible in the absence of further evidence. On the officials mentioned in the text, such as the hierophant, herald and priestesses, all local except for the priest of Apollo Pythios, see Clinton.</p>
+
+<p>The left side of the calendar is intact. Col. A, near the preserved left edge of the stele, is therefore the first column of text. Since Col. B appears to end between fragments A and B (fr. B is completely uninscribed in col. B), they reconstruct this final column as belonging to the month Skirophorion, thus marking the end of the year and the calendar. The extant fragments of the calendar thus perhaps come from the lower portion of the original stele, and much may be missing above the top break of fr. A. The fragments are not very well preserved, though serendipitously a substantial portion of Pyanopsion (according to Dow and Healey) is extent in col. A. Three months may have been described above Pyanopsion in col. A: Hekatombaion, Metageitnion and Boedromion (the latter thought to contain the all-important Eleusinian mysteries, no doubt extensively detailed in the original calendar). It is not known if entries covering Maimakterion and Pos(e)ideon would have intervened between cols. A and B; perhaps not, since these winter months did not typically contain significant rites, though 26 Posideon was the date of the festival of the Haloa which took place at Eleusis (cf. Mikalson). Some or all of the five remaining months, Gamelion, Anthesterion, Elaphebolion, Mounichion and Thargelion could have occurred below our fragments of col. A and perhaps especially above in col. B.</p>
+
+<p>Lines A1-4: An earlier passage from the column will have dealt with a date in the range of 1-4 Pyanopsion and introduced the column, though it is difficult to be sure what this contained. No major festivals are known at that time. The proposal of Dow and Healey that the fourth day is intended to introduce preparations for the following days is plausible, but uncertain. Mention is made of an action performed "at the Eleusinion", probably that of Eleusis itself, though the City Eleusinion is also possible (see immediately below).</p>
+
+<p>Lines A5-9: These lines signal the official proclamation (<foreign>proagoreusis</foreign>) of the Proerosia on the eve of that festival at Eleusis. Such a proclamation, sometimes called <foreign>prorrhesis</foreign> in the context of the Eleusinian mysteries, may have taken place in the city Eleusinion (so Dow - Healey, with further discussion), but could also have been local (Clinton). The Proerosia was a pre-ploughing rite, here taking place in the autumn (Pyanopsion corresponds to October/November), though they occurred at other variable times in other demes, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref> (Thorikos), line 13 (in Boedromion). Dow and Healey (with further discussion) connect this festival with the ritual of ploughing the sacred Rharian field at Eleusis (cf. Plu. <title>Moralia</title> 144a). The rites themselves, taking place on the 6th of Pyanopsion according to Dow and Healey, are curiously elided or not mentioned: does this imply that they were discussed elsewhere? Clinton offers the highly commendable solution that the <foreign>proagoreusis</foreign> was performed much in advance and that the Proerosia actually occurred after the Thesmophoria, i.e. probably later in Pyanopsion, as they do in a list from the deme of Piraeus <ref target="http://cgrn.ulg.ac.be/CGRN_78/">CGRN 78</ref>, lines 9-13.</p>
+										
+<p>Lines A10-15: The lines, and probably A17-21 as well, refer to the Pyanopsia on the 7th of Pyanopsion. Dow and Healey (p. 21-22) suggest possible mythological and ritual motivations for the participation of the Eleusinians in the Pyanopsia in honour of Apollo Pythios in the city. The goat was a modest contribution by the deme to the wider civic festival. For the vague and obscure phrase τὰ ἐφ’ ἱεροῖς, apparently referring to small sacrificial complements such as grains, see also here <ref target="http://cgrn.ulg.ac.be/CGRN_86/">CGRN 86</ref> B, line 11, and <ref target="http://cgrn.ulg.ac.be/CGRN_154/">CGRN 154</ref> (Ialysos), line 5. Dow and Healey (p. 24-27, citing Hsch. s.v. προγωνίαν) explained the word προγόνιον as a ritual garment or apron worn by <foreign>mageiroi</foreign>, rather than an offering, arguing that otherwise a price for the animal would have been specified. However, Roux convincingly showed that the προγόνιον must, despite the hesitation of Dow and
+Healey who considered this interpretation, refer to a new born lamb. The key source is Hsch. s.v. πρόγονοι· οἱ πρωτόγονοι ἄρνες (cf. also <ref target="CGRN_45">CGRN 45</ref>, face A, fr. 1, col. 3, line 29, for the same offering to Apollo in connection with the Athenian Pythais). As Roux remarks, the sum of 20 drachmae specified in line 11 would perhaps have been sufficient for the entirety of the celebrations: not only to defer the cost of the goat offered to Apollo Pythios (usually costing ca. 10 dr. in the 4th c. BC) and its complements, but probably also for this small sacrificial animal (about 3 dr. is expected for a suckling animal) and the accoutrements destined for the dressing of a table (τράπεζαν κοσμῆσαι). However, it is unclear if this may also have included the ἱερώσυνα given to the priest of Apollo (cf. the money called ἀπόμετρα given as a stipend to the priestess of Plouton in line 25). The rasura in line 16 may have been an intentional correction, perhaps erasing
+ἱερώσυνα originally in kind (rather than in cash?) or leaving a gap with the following section (cf. below on lines A17-21). It is possible that the sum of 20 dr. was also used by the cult personnel to provide (cf. line 20, παρέχειν) for the libations, cakes and others necessities, though the money might then have been stretched quite thin.</p>
+
+<p>Lines A17-21: A rasura has intervened, but it is still plausible that these lines relate chronologically to the Pyanopsia on the 7th. Since the occasion now appears to be an all-night <foreign>pannychis</foreign> rite involving the local cultic officials, it might be conjectured that there was an intended connection with the next day, the 8th of Pyanopsion (the date of the Theseia in Athens), or perhaps even the 9th (the Stenia, a celebration for Demeter) is possible (see Mikalson for these dates).</p>
+
+<p>Lines A24-29: A missing passage has intervened, and as Dow and Healey have explained, followed by Clinton, these lines now refer to the Thesmophoria in the deme, taking place from 10-13 Pyanopsion. Dow and Healey (p. 32-35, accepted by Clinton) make a plausible case for seeing the mention of a <foreign>megaron</foreign> as one of the ritual pits, known by that name, in which piglets were cast during the Thesmophoria (usually τὰ μέγαρα, in the plural). It might instead refer to the cultic building of that name at Eleusis (on which, see Clinton; indeed, the singular form could point in that direction). The priestess of Plouton, otherwise poorly attested, is introduced and there are offerings to Demeter and Kore called Thesmophoroi, including the use of a ritual basket typical of Demetriac rites.</p>
+													
+<p>Col. B: This column is very fragmentarily preserved and might have invoked several occasions in Skirophorion. Dow and Healey make a convincing case (accepted by Clinton, though with caution), that one of the dates mentioned must be that of the Skira, known to have occurred on the 12th of the month (cf. also Mikalson). As with the Haloa, Poseidon was honoured during these female rites at Eleusis as well as Demeter. The civic rite involved a procession from the acropolis to the place called Skiron, where a sacrifice to the eponymous Athena Skiras was apparently performed. The word πελανός, if forming part of the sacrifices to Poseidon, as we presume here, will have designated either a liquid mixture or a round cake (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. I-II provide basic information on liquid mixtures; II.2 and III on round cakes or flour). The alternative would be to take it as a sum of money, which is possible, but priestly remuneration in this text, as elsewhere in Athens, is referred to as ἀπόμετρα or ἱερώσυνα (so also Dow - Healey, though somewhat differently).
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_116" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 116</idno>: Excerpt from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> at Lindos (concerning Dionysus)</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support><p>Small <rs type="objectType">stele</rs> of Lartian marble, apparently intact.</p>
+									<p><dimensions>
+										<height unit="cm">30</height>
+										<width unit="cm">22</width>
+										<depth unit="cm">8</depth>
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout><p>Letters: <height unit="mm">22</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0300" notAfter="-0200">ca. 300-200 BC</origDate></p>
+							<p><desc>Justification: lettering (Hiller von Gaertringen).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Lindos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589913" type="external">Lindos</ref></placeName>. Found rebuilt into a house in Gennadi.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				
+				<p>Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG XII.5">IG XII.5</bibl> 906, with dr.</p>
+				
+				<p>Cf. also: von Prott <bibl type="abbr" n="LGS I">LGS I</bibl> 24; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 141.</p>
+				
+				<p>Further bibliography: <bibl type="author_date" n="Segre 1951">Segre 1951</bibl>; 
+					<bibl type="author_date" n="Badoud 2015">Badoud 2015</bibl>: 11-35; 
+					<bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>: 192-197; 
+					<bibl type="author_date" n="Carbon forthc.">Carbon forthc.</bibl></p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab>
+					
+<lb/><space extent="unknown" unit="line"/>
+					
+<lb xml:id="line_1" n="1"/><name type="month"><w lemma="Ἀγριάνιος">Ἀ<choice><corr>γ</corr><sic>C</sic></choice>ριανίου</w></name> <w lemma="ἔνατος">ἐνάται</w>
+					
+<lb xml:id="line_2" n="2"/><w lemma="ἐκ">ἐξ</w> <w lemma="εἰκάς">ἰκάδος</w> <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύ 
+						
+<lb xml:id="line_3" n="3" break="no"/>σωι</w></name> <name type="animal" key="goat"><name type="age"><name type="gender"><w lemma="ἔριφος">ἔριφος</w></name></name></name>. 
+
+<space quantity="1" unit="line"/>
+				</ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				<p> On the 22nd of Agrianios, (sacrifice) a kid to Dionysus. </p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				<p> Le 22 Agrianios, (offrir) un chevreau à Dionysos. </p>
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+				
+<p>The inscription is one of a large number of extracts from a sacrificial calendar inscribed or recodified in the late Classical or early Hellenistic period and disseminated at various local sanctuaries, presumably as punctual reminders and short regulations in and of themselves (for the early beginning of such excerpts, cf. the closely parallel <ref target="CGRN_62">CGRN 62</ref> and <ref target="CGRN_63">CGRN 63</ref>, both from Lindos). The excerpts perhaps come from the general sacrificial calendar of the unified city of Rhodes or perhaps equally probably from that of Lindos itself. See e.g. <ref target="CGRN_115">CGRN 115</ref> for further examples from Lindos; e.g. <ref target="CGRN_110">CGRN 110</ref> for others from Kamiros. For ageneral discussion of these excerpts, see Segre and Carbon forthc.</p>
+				
+<p>Here, though the findspot is not precisely known, we may think of a sanctuary to Dionysus (apparently) without epithet, in the <foreign>chora</foreign> of Lindos. The excerpt from the calendar is extremely terse, preventing us from further identifying its point of reference: furthermore, goats were often sacrificed to Dionysus: cp. e.g. <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 33-34, and <ref target="CGRN_86">CGRN 86</ref> A (Kos), lines 58-59. For sacrifices to other gods performed by the priest of Dionysus at Kamiros, cf. <ref target="CGRN_113">CGRN 113</ref>, but these probably took place during the Sminthia (in the month Sminthios). Here, the date is known but the precise occasion remains unclear. In the reconstruction of the Rhodian calendar refined by Badoud and generally adopted here (for a different view, see Iversen), Agrianios was the 10th month (ca. May/June). </p>
+				
+			</div>
+		</body>
+	</text>
+</TEI>

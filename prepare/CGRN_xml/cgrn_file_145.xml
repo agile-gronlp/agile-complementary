@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_145" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 145</idno>: <rs type="textType" key="dossier of regulations">Sacred law and dossier of regulations</rs> of the tribe Elpanoridai at the deme of Halasarna on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+
+		<p> Upper part of an opistographic <rs type="objectType">stele</rs> of white marble, topped with a pediment containing a relief of a shield. Seemingly almost intact on the left- and righthand side.</p>
+			<p> <dimensions>
+				<height unit="cm">42</height>
+				<width unit="cm">45</width>
+				<depth unit="cm">13</depth>
+			</dimensions></p>
+
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p>The letters of the text are generally highly worn.</p>
+			<p> Height of letters: <height unit="cm">0.8-1</height>; space between lines: <height unit="cm">0.3</height>.</p>
+		</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0250" notAfter="-0200">ca. 250-200 BC</origDate></p>
+		<p><desc>Justification: lettering (Bosnakis, Hallof, and Rigsby).</desc></p></origin>
+	<provenance><p>
+		<placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599634" type="external">Kos</ref></placeName>. Found in 1995 at Kardamaina, the modern village located close to the central site of the ancient deme of Halasarna, in the church of S. Marina. Now in the new storage room (inv. no.  E 168).</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Bosnakis, Hallof and Rigsby <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 357.</p>
+
+	    			<p> Cf. also:
+	    				Chaniotis <title>Kernos</title> 2014 <bibl type="abbr" n="EBGR">EBGR</bibl> no. 21; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20357" type="external">IG-online</ref>, with the Greek text and a translation in German.
+	    			</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Kaminski 1991">Kaminski 1991</bibl>;
+	    				<bibl type="author_date" n="Lupu 2003b">Lupu 2003b</bibl>: 335-339;
+	    				<bibl type="author_date" n="Georgoudi 2010">Georgoudi 2010</bibl>;
+	    				<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>;
+	    				<bibl type="author_date" n="Carbon - Pirenne-Delforge 2017">Carbon - Pirenne-Delforge 2017</bibl>: 146-147.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab subtype="face" n="A">Face A
+
+<lb xml:id="line_1" n="1"/> <name type="authority"><w lemma="νόμος"><unclear>ν</unclear>όμος</w></name> <name type="genericOffering"><w lemma="ἱερός">ἱερὸς</w></name> <name type="group"><w lemma="φυλή">φυλᾶς</w></name> <name type="group"><w lemma="Ἐλπανοριδες">Ἐλπανοριδᾶν</w></name>· <space quantity="1" unit="character"/> ὁ <name type="personnel"><w lemma="ἄρχων">ἀρχεύων</w></name> <w lemma="ἐπεί">ἐ
+
+<lb xml:id="line_2" n="2" break="no"/> <unclear>π</unclear>εί</w> <w lemma="κα">κα</w> ἁ <name type="group"><w lemma="σύνοδος">σύνοδος</w></name> <w lemma="γίγνομαι">γίνηται</w> <name type="sacrifice"><w lemma="προθύω">προθυέτω</w></name> <orig>ΤΑ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_3" n="3"/> <gap reason="lost" quantity="2" unit="character"/><orig>Λ<unclear>Σ</unclear>Ο</orig><gap reason="lost" quantity="1" unit="character"/>  <name type="animal" key="sheep"><w lemma="πρόβατον"><unclear>π</unclear>ρ<supplied reason="lost">ό</supplied><unclear>β</unclear>ατα</w></name> <w lemma="κατά">καθ᾿</w> <w lemma="ὅς">ἃ</w> <name type="authority"><w lemma="νομίζω">νομίζεται</w></name>· <name type="personnel"><w lemma="ἱεράζω">ἱεράσθ<unclear>ω</unclear></w></name> δ<unclear>ὲ</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_4" n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="καθότι"><supplied reason="lost">κα</supplied>θ<unclear>ό</unclear>τι</w> τοὶ <name type="group"><w lemma="φυλέτης">φυλέται</w></name> κ<gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_5" n="5"/> <gap reason="lost" extent="unknown" unit="character"/>σέτω <gap reason="lost" quantity="2" unit="character"/><orig>ΠΟ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_6" n="6"/> <gap reason="lost" quantity="1" unit="line"/>
+
+<lb xml:id="line_7" n="7"/> <gap reason="lost" quantity="1" unit="line"/>
+
+<lb xml:id="line_8" n="8"/> <gap reason="lost" quantity="1" unit="line"/>
+
+<lb xml:id="line_9" n="9"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΟΙΣ<gap reason="lost" quantity="2" unit="character"/>ΔΟ<gap reason="lost" quantity="1" unit="character"/>Ε</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_10" n="10"/> <gap reason="lost" extent="unknown" unit="character"/><orig>Μ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>Λ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΑΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_11" n="11"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΤΟ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΛΕΙΦΙΛ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_12" n="12"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma=""><supplied reason="lost">β</supplied><unclear>α</unclear>λέτω</w> <orig>ΙΣΑΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_13" n="13"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΥΣΤΑΙ<gap reason="lost" quantity="2" unit="character"/>ΛΙΛ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_14" n="14"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΣΑΙΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_15" n="15"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΙΕ</orig><gap reason="lost" extent="unknown" unit="character"/><w lemma="ἄρχω">αρχέτω</w> <orig><unclear>Τ</unclear>Α</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_16" n="16"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">κα</supplied>ὶ τὰ <w lemma="λοιπός">λοιπὰ</w> <gap reason="lost" extent="unknown" unit="character"/><orig>Υ<gap reason="lost" quantity="2" unit="character"/>ΛΟΛ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_17" n="17"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΕΥΣ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_18" n="18"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΕΝΑΛΛ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_19" n="19"/> <gap reason="lost" extent="unknown" unit="character"/>  <name type="animal" key="ox"><name type="gender"><w lemma="δάμαλις"><unclear>δά</unclear>μαλιν</w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    			</ab>
+	    				<ab subtype="face" n="B"> Face B
+
+
+<lb xml:id="line_20" n="20"/> <w lemma="θεωρέω">θεωρῶν</w> <name type="structure"><w lemma="τέμενος">τεμένη</w></name> μὲν <w lemma="ὑπάρχω">ὑπάρχοντα</w> καὶ <name type="structure"><w lemma="βωμός">βωμός</w></name>, <name type="sacrifice"><w lemma="θυσία">θυ
+
+<lb xml:id="line_21" n="21" break="no"/> σίας</w></name> δὲ <w lemma="μή">μὴ</w> <w lemma="γίγνομαι">γ<unclear>ιν</unclear>ομένας</w> <w lemma="σπεύδω">σπεύδων</w> <w lemma="πᾶς">πᾶσι</w> τοῖς <name type="epithet" key="Patroioi"><w lemma="πατρῷος">Πα<unclear>τρ</unclear><supplied reason="lost">ώι</supplied>
+
+
+<lb xml:id="line_22" n="22" break="no"/> οις</w></name> <name type="deity" key="generic"><w lemma="θεός">Θεοῖς</w></name> <name type="sacrifice"><w lemma="καλλιερέω">καλλιερεῖ<unclear>ν</unclear></w></name> <w lemma="ἀκόλουθος">ἀκολούθως</w> τᾶ<supplied reason="lost">ι</supplied> τ<unclear>ῶ</unclear>ν <name type="group"><w lemma="ἀστός">ἄστω<supplied reason="lost">ν</supplied></w></name>
+
+<lb xml:id="line_23" n="23"/> <supplied reason="lost">κ</supplied>αὶ τῶν <name type="group"><w lemma="φυλέτης">φυλετᾶν</w></name> <w lemma="πρός">ποτὶ</w> τ<supplied reason="lost">ὸς</supplied> <name type="deity" key="generic"><w lemma="θεός"><unclear>θ</unclear><supplied reason="lost">ε</supplied>ὸ<unclear>ς</unclear></w></name> <w lemma="εὐσέβεια"><unclear>ε</unclear><supplied reason="lost">ὐσεβεί</supplied>α<unclear>ι</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_24" n="24"/> <gap reason="lost" quantity="1" unit="character"/><orig>Ε</orig><gap reason="lost" quantity="2" unit="character"/> <w lemma="ὅς">ὃν</w> <w lemma="συγγράφω">συνέγραψεν</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_25" n="25"/> <orig><gap reason="lost" quantity="1" unit="character"/><unclear>Χ</unclear>Α<unclear>Λ</unclear>ΕΟΣ<gap reason="lost" quantity="1" unit="character"/>Κ<gap reason="lost" quantity="2" unit="character"/>ΙΑΡ<unclear>Α</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_26" n="26"/> <orig><gap reason="lost" quantity="2" unit="character"/>ΕΟΙΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_27" n="27"/> <gap reason="lost" quantity="1" unit="line"/>
+
+<lb xml:id="line_28" n="28"/> <gap reason="lost" quantity="1" unit="line"/>
+
+<lb xml:id="line_29" n="29"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΟΔΩΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_30" n="30"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἄλλος">ἀλλ<unclear>ὰ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/><orig>Ο<gap reason="lost" quantity="1" unit="character"/>ΥΤ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_31" n="31"/> <orig>ΦΥ<gap reason="lost" quantity="2" unit="character"/>ΣΕΠΙΠ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>Α</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΛΤΡΙ</orig> <w lemma="ἐπειδή">ἐπειδὴ</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_32" n="32"/> <gap reason="lost" quantity="3" unit="character"/> <w lemma="ὑπάρχω">ὑπάρχει</w>, <w lemma="ὁπόθεν">ὁπό<supplied reason="lost">θεν</supplied></w> <w lemma="οὖν"><supplied reason="lost">οὖν</supplied></w> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <supplied reason="lost">ἁ</supplied> <unclear>τᾶ</unclear>ς <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύνας</w></name> <w lemma="πρόσοδος">πόθοδ<supplied reason="lost">ος</supplied></w>
+
+<lb xml:id="line_33" n="33"/> <w lemma="προσγίγνομαι"><supplied reason="lost">πο</supplied>τιγένη<supplied reason="lost">τ</supplied>αι</w> Τ<unclear>Ο</unclear>Ν<gap reason="lost" extent="unknown" unit="character"/> <w lemma="συμφερόντως">συμφερόντως</w> <w lemma="ἐπί">ἐφ᾿</w> <w lemma="ὅς">οἷς</w> <w lemma="ἐπί">ἐπ<supplied reason="lost">ὶ</supplied></w>
+
+<lb xml:id="line_34" n="34"/> <supplied reason="lost">Τι</supplied>σία <name type="personnel"><w lemma="ἱερεύς">ἱε<unclear>ρέ</unclear><supplied reason="lost">ως</supplied></w></name> <orig>ΠΑ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΙΑ</orig> <w lemma="κατά"><unclear>κ</unclear>α<supplied reason="lost">τὰ</supplied></w> <name type="authority"><w lemma="νόμος"><supplied reason="lost">ν</supplied>όμον</w></name> <w lemma="γράφω">ἔγραψεν</w>· <w lemma="ὅπως">ὅπως</w> τ<supplied reason="lost">οὶ</supplied>
+
+<lb xml:id="line_35" n="35"/> <name type="personnel"><w lemma="ἀρχεύω"><supplied reason="lost">ἀ</supplied>ρχεύ<supplied reason="lost">ο</supplied>ντες</w></name> κ<unclear>αὶ</unclear> <supplied reason="lost">ὁ</supplied> <name type="personnel"><w lemma="ἱερεύς">ἱ<unclear>ε</unclear>ρε<supplied reason="lost">ὺ</supplied>ς</w></name> <w lemma="κατά"><unclear>κ</unclear>ατὰ</w> τὸν <name type="authority"><w lemma="νόμος">νόμον</w></name> <w lemma="ἅπας">ἅπαντα</w> <w lemma="ἀποδίδωμι"><unclear>ἀ</unclear>
+
+<lb xml:id="line_36" n="36" break="no"/> <supplied reason="lost">π</supplied>ο<supplied reason="lost">δ</supplied>ῶσιν</w> <w lemma="πρότερος">πρότε<unclear>ρ</unclear>ον</w> <gap reason="lost" quantity="2" unit="character"/>ΟΕ<unclear>Μ</unclear><orig>ΟΣ</orig><gap reason="lost" quantity="2" unit="character"/> <w lemma="ἄρχων"><supplied reason="lost">ἄ</supplied>ρχοντος</w> <w lemma="ἔγγραπτος">ἔγγραπτο<supplied reason="lost">ν</supplied></w>
+
+<lb xml:id="line_37" n="37"/> <w lemma="ἐξαιρέω"><supplied reason="lost">ἐ</supplied>ξαιρουμένω<unclear>ν</unclear></w> <w lemma="ἀπό">ἀ<supplied reason="lost">πὸ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_38" n="38"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΟΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+							<p>Face A</p>
+					<p> Sacred law of the tribe of the Elpanoridai: When the meeting (of the tribe) takes place, the chief magistrate should make a preliminary offering [...] sheep as is customary. He is to serve as priest [...] exactly as the members of the tribe [... (5) ... (10) ...] should depose in [... (15) ...] is to make a beginning [...] and the rest [...] heifer [... (20) ...] </p>
+
+<p>Face B </p>
+<p>(20) As he saw that there are precincts and altars, but no sacrifices are taking place, eager to sacrifice with good omens to all the ancestral gods, in accordance with the piety of the townsmen and the tribe-members towards the gods [...] that he recorded [... (25) ... (30) ...] but [...] seeing that [...] is available, from where the revenues of the priesthood have accrued [...] profitably, on the terms which under the priesthood of Tisias [...] has written down according to the law. So that the (35) chief magistrates and the priest according to the law give back (pay?) all that was previously [...] the written document of the <foreign>archon</foreign>, of the things set apart by [...] </p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Face A</p>
+					<p>Loi sacrée de la tribu des Elpanoridai. Quand la réunion a lieu, que l'archonte fasse le sacrifice préliminaire [...] moutons comme il est traditionnel. Que détienne la prêtrise [...] comme les phylètes [... (5) ... (10) ...] que l'on dépose [... (15) ...] que l'on commence [...] et le reste [...] une génisse [... (20) ...]</p>
+
+					<p>Face B</p>
+					<p>(20) Constatant qu'il y a des enceintes et des autels, mais qu'aucun sacrifice n'y prend place, soucieux de sacrifier adéquatement à tous les dieux ancestraux conformément la piété des citoyens et des phylètes envers les dieux [...] qu'il a consigné [... (25) ... (30) ...] mais [...] étant donné que [...] il y a, d'où précisément le revenu de la prêtrise a augmenté [...] avantageusement, selon ce qui, sous la prêtrise de Tisias [...] a été écrit conformément à la loi. De sorte que (35) l'archonte et le prêtre, conformément à la loi, rendent (paient ?) tout ce qui a été précédemment [...] le document écrit de l'archonte consignant ce qui a été mis à part de [...]</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+						<p>Side A</p>
+
+<p> This stele conserves, in a very fragmentary state, a ritual norm—literally a "sacred law", ἱερός νόμος—of the tribe of the Elpanoridai (as is stated in line 1 of Side A). However, side B seems to preserve a part of a different type of document, probably a decree, which continued from side A. Therefore, the stele seems to have served as a repository for at least two different texts, forming a dossier that was concerned with laws, customs and religious practice of the tribe. The tribe of the Elpanoridai was unknown until the publication of this document (for a discussion of tribes at Halasarna, cf. Paul, p. 200-202).</p>
+
+<p>Given its fragmentary character, the text is extremely difficult to interpret. On side A, following the heading, we may discern: regulations for a preliminary sacrifice to be made by tribe's chief magistrate (ὁ ἀρχεύων) during the (annual?) meeting or gathering of the tribe (ἁ σύνοδος, lines 1-3); terms and conditions of a priesthood—or priestly duties to be performed by the tribe's chief magistrate—(line 3 onwards); and, after many uncertain fragments, the sacrifice (on another occasion?) of a heifer (line 19). Side B seems to record the initiative of an individual to make sacrifices to the ancestral gods (Theoi Patroioi) at apparently abandoned cult sites and altars (lines 20-24, the identification of which is uncertain). The interpretation of the final part of the text (lines 32-37), dealing with financial matters, eludes us.</p>
+
+<p>Line 1: The expression ἱερός νόμος is relatively rare in the inscriptions that have been traditionally designated as "lois sacrées" or "sacred laws". In Classical and Hellenistic documents, we find it in a 4th-century inscription from Tegea (<bibl type="abbr" n="IG V.2">IG V.2</bibl> 5), for which only the heading νόμος ἱερὸς ἰν ἄματα πάντα is preserved, after which at least 8 lines have become effaced. On Kos, there are a number of inscriptions which refer to ἱεροί νόμοι, always in the plural (cf. e.g. here <ref target="CGRN_148">CGRN 148</ref>, lines 5-6, 9). For a more detailed study of the phrase ἱερός νόμος and comparable phrases, cf. Georgoudi, esp. p. 43-48 and Carbon - Pirenne-Delforge 2017. It seems that the "sacred law" on Side A and the decree that may follow it on Sides A and B make a point of recording customs and things that had been decided upon previously. Thus, the sacrifice of sheep is "as it is customary" (καθ' ἃ νομίζεται, line 3); the terms of the priesthood—or the activities of the magistrate who is to act as priest—are to be "as the members of the tribe (decided previously?)" ([κα]θό̣τι τοὶ φυλέται [...], line 4); someone has written something down "according to law" (κ̣α[τὰ ν]όμον ἔγραψεν, line 34) and the archons and the priest are to pay everything back "according to the law" (κ̣ατὰ τὸν νόμον, line 35).</p>
+
+<p>Lines 2-3: The uninterpretable parts of the end of line 2 and the beginning of line 3 may have preserved the beginning of a list of animals that were to be sacrificed together with the sheep. The context of these "preliminary offerings" remains to be guessed at; προθύματα were especially important in the cult of Asclepius: <ref target="CGRN_64">CGRN 64</ref> (Epidauros), <ref target="CGRN_46">CGRN 46</ref> (Piraeus) and <ref target="CGRN_54">CGRN 54</ref> (Piraeus). This does not seem to be applicable to the context of the present incription. In <ref target="CGRN_186">CGRN 186</ref> (Ilion), preliminary sacrifices of sheep to Zeus Polieus accompanied major sacrifices of cows to Athena. Given the lack of context here, we do not know whether one smaller sacrifice was to preceded a major offering. Another possibility is to take προθύω as "to sacrifice for or in behalf of" (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. II), since the archon is clearly making this sacrifice on behalf of the tribe.</p>
+
+<p> Lines 3-4: It is not clear whether these lines introduce prescriptions for the chief magistrate of the tribe to perform priestly duties, perhaps on special ritual occasions, or if it defines the terms of the priesthood of an unknown god, now missing in the lacuna. In any case, there seems to be a reference to a decision that was taken earlier by the tribesmen concerning this priesthood.</p>
+
+<p> Line 12: It is possible that the verb preserved here refers to the deposition of sacrificial fees by the worshippers into a money box; ἐμβάλλω is commonly used for that action. The income produced in this way would normally at least partly be given to the priest as a perquisite. On this topic, cf. Lupu and Kaminski, and cp. <ref target="CGRN_163">CGRN 163</ref> (Kos), lines 17-24.</p>
+
+<p> Line 19: The heifer was always offered to goddesses: cf. here <ref target="CGRN_109">CGRN 109</ref> (Kamiros), line 7, to Athena Polias; <ref target="CGRN_113">CGRN 113</ref> (Kamiros), line 4, to the Muses; <ref target="CGRN_192">CGRN 192</ref> (Panamara), line 8, to Hera; <ref target="CGRN_205">CGRN 205</ref> (Antiocheia-ad-Pyramum), line 10, to Athena and Homonoia; <ref target="CGRN_222">CGRN 222</ref> (Andania), lines 34 and 69, unknown goddess part of the Megaloi Theoi. The recipient for the offering remains unclear here.</p>
+
+<p> Side B:</p>
+
+<p> Lines 20-24: This may preserve part of the preamble of a decree starting at Side A, with these lines recording the proposal and its motivations. Note that it is striking that the person who made the proposal specifies that the sacrifices to the ancestral gods would reflect the piety not only of the members of the tribe, but of all citizens more generally (cf. also Chaniotis for this reading). The "citizens" might mean all those of Kos, especially those that visited the sanctuary of the Elpanoridai, though the point of reference might be more specifically to the citizen and demesmen of Halasarna. For the Theoi Patroioi of subgroups on Kos, see the Commentary at <ref target="CGRN_162">CGRN 162</ref>. For a different translation, cf. the website of <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> ("wenn er sieht, dass Heiligtümer vorhanden sind ... (etc.), soll er eilen, allen Altväterischen Göttern ein glückliches Opfer zu bringen ... (etc.)". This interpretation may be problematic, since the present participle σπεύδων seems to continue the preamble to what was proposed, rather than expressing an imperative.</p>
+
+<p> Lines 32-33: These lines strikingly appear to discuss where the "income of the priesthood" comes from. It is uncertain whether a sale of the priesthood is to be inferred (subjective genitive: its sale price is an income for the tribe; the source of the income is the buyer) or if the passage discusses sources of revenue for the priesthood (objective genitive). Income for the priests would come from worshippers paying sacrificial fees (cf. perhaps line 12, above), from parts of the animal as perquisites, from collections, and potentially from other sources. Still, in neither case is it evident what precisely is being regulated.</p>
+
+<p> Line 33-37: The perhaps eponymous priest mentioned here, one Tisias, is otherwise unknown and it is unclear to which group he belonged (the Elpanoridai themselves or the deme of Halasarna, or both?). There was apparently a group of tribal magistrates (ἀρχεύ<supplied reason="lost">ο</supplied>ντες), which worked in concert with the priest; they share their name with the ἀρχεύων mentioned on side A (line 1) and perhaps constituted a board of these chief officials. In this particular case, it is possible, though not certain, that these officials, together with the priest, had to pay back money that had been lent (from the gods' account?).</p>
+
+	</div>
+			</body>
+    	</text>
+	</TEI>

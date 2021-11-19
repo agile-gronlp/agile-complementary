@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_109" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 109</idno>: Excerpt from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> at Kamiros (concerning sacrifices to Athena Polias)</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support><p>Small marble <rs type="objectType">stele</rs>, broken on the right and at the bottom.</p>
+									<p><dimensions>
+										<height unit="cm">18</height>
+										<width unit="cm">18</width>
+										<depth unit="cm">8</depth>
+										
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout><p>Letters: <height unit="cm">1</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0300" notAfter="-0200">ca. 300-200 BC</origDate></p>
+							<p><desc>Justification: early to mid-Hellenistic lettering (Pugliese Carratelli).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Kamiros" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589836" type="external">Kamiros</ref></placeName>, on the island of Rhodes. Found in the well on the Acropolis. Now in the Museum of Rhodes.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				<p>Edition here based on Pugliese Carratelli <bibl type="abbr" n="Tit.Cam.">Tit.Cam.</bibl> 148, with ph. fig. 108.</p>
+				
+				<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 96.</p>
+				
+				<p>Further bibliography: <bibl type="author_date" n="Segre 1951">Segre 1951</bibl>; 
+					<bibl type="author_date" n="Badoud 2015">Badoud 2015</bibl>: 11-35; 
+					<bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>: 192-197; 
+					<bibl type="author_date" n="Carbon forthc.">Carbon forthc.</bibl></p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab>
+					<lb xml:id="line_1" n="1"/><name type="month"><w lemma="Δάλιος">Δαλίου</w></name> <w lemma="νουμηνία">νευμη<supplied reason="lost">νίαι</supplied></w>
+					
+					<lb xml:id="line_2" n="2"/><name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθάναι</w></name> <name type="epithet" key="Polias"><w lemma="Πολιάς">Πολιά<supplied reason="lost">δι</supplied></w></name> <gap reason="lost" quantity="4" unit="character" precision="low"/>
+					
+					<lb xml:id="line_3" n="3"/><name type="personnel"><w lemma="ἱερεύς">ἰερεὺς</w></name> <name type="sacrifice"><w lemma="θύω">θύει</w></name>. <name type="month"><w lemma="Ἀρταμίτιος">Ἀρ<supplied reason="lost">ταμιτί</supplied>
+						
+						<lb xml:id="line_4" n="4" break="no"/>ου</w></name> <w lemma="διχομηνία">διχομηνίαι</w> <name type="animal" key="sheep"><name type="age"><w lemma="ἀρήν">ἄ<unclear>ρ</unclear><supplied reason="lost">να</supplied></w></name></name>
+					
+					
+					
+					<lb xml:id="line_5" n="5"/><name type="personnel"><w lemma="ἱέρεια">ἰάρη</w></name> <name type="sacrifice"><w lemma="θύω">θύει</w></name>· <space quantity="2" unit="character"/> <name type="animal" key="sheep"><w lemma="ἀρήν">ἄρ<unclear>ν</unclear><supplied reason="lost">α</supplied></w></name> 
+					
+					<lb xml:id="line_6" n="6"/><name type="group"><w lemma="Ἀνθεστρίδες">Ἀνθεστρίδες</w></name> <name type="sacrifice"><w lemma="θύω">θ<supplied reason="lost">ύοντι</supplied></w></name><supplied reason="lost">.</supplied> 
+					
+					<lb xml:id="line_7" n="7"/><w lemma="ἕκτος">ἕκται</w> <w lemma="ἐπί">ἐπὶ</w> <w lemma="δέκα">δέκα</w> <name type="animal" key="ox"><name type="gender"><w lemma="δάμαλις">δ<supplied reason="lost">άμαλιν</supplied></w></name></name> 
+					
+					<lb xml:id="line_8" n="8"/><w lemma="μή">μὴ</w> <w lemma="νέος">νεωτέραν</w> <name type="age"><w lemma="ἐνιαύσιος"><unclear>ἐ</unclear><supplied reason="lost">νιαυ</supplied> 
+						
+						<lb xml:id="line_9" n="9" break="no"/>τίας</w></name> <name type="personnel"><w lemma="ἱέρεια">ἰ<supplied reason="lost">άρη</supplied></w></name> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύει</supplied></w></name><supplied reason="lost">.</supplied> 
+					
+					<lb xml:id="line_10" n="10"/><name type="month"><w lemma="Ὑακίνθιος"><supplied reason="lost">Ὑα</supplied>κινθ<supplied reason="lost">ίου</supplied></w></name> <gap reason="lost" quantity="5" unit="character" precision="low"/> 
+					
+					<lb/><gap reason="lost" extent="unknown" unit="line"/> </ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				
+				<p>On the 1st of the month Dalios, to Athena Polias, a [...]. The priest sacrifices it.</p>
+				
+				<p>On the 15th of the month Artamitios, (5) a lamb; the priestess sacrifices it; (another) lamb; the Anthestrides sacrifice it.</p>
+				
+				<p>On the 16th: a heifer not younger than a year-old; the [priest/priestess] sacrifices it.</p>
+				
+				<p>(10) On the [...] of Hyakinthios [...]</p>
+				
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				
+				<p>Le 1er du mois de Dalios, à Athéna Polias, [...]. Le prêtre le sacrifie.</p>
+				
+				<p>Le 15 du mois d'Artamitios, (5) un agneau; la prêtresse le sacrifie; un (autre) agneau; les Anthestrides le sacrifient.</p>
+				
+				<p>Le 16 : une génisse âgée d'au moins un an; [la prêtresse ou le prêtre] la sacrifie.</p>
+				
+				<p>(10) Le [...] Hyakinthios [...]</p>
+				
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+				<p>The inscription is one of a large number of extracts from a sacrificial calendar inscribed or recodified in the late Classical or early Hellenistic period and disseminated at various local sanctuaries, presumably as punctual reminders and short regulations in and of themselves (for the early beginning of such excerpts, cf. here <ref target="CGRN_62">CGRN 62</ref> and <ref target="CGRN_63">CGRN 63</ref>, both from Lindos). The excerpts perhaps come from the general sacrificial calendar of the unified city of Rhodes or perhaps equally probably from that of Kamiros itself. See e.g. <ref target="CGRN_110">CGRN 110</ref>, for further examples from Kamiros; e.g. <ref target="CGRN_115">CGRN 115</ref>, for others from Lindos. For a general discussion of these excerpts, see Segre and Carbon forthc.</p>
+				
+				<p>Here, the excerpt concerns rites for Athena Polias, presumably from the principal sanctuary of this goddess on the acropolis of Kamiros, where the stone was found. The goddess notably appears to have been served by both a male and female priest. At least two principal sacrificial occasions are detailed here (lines 1-3 and lines 3-9 respectively) with perhaps a third fragmentary celebration beginning in line 10.</p>
+				
+				<p>Lines 1-3: This celebration on the first day of Dalios was evidently a major festival as the date recurs in other calendar excerpts concerning further gods: Helios (<ref target="CGRN_110">CGRN 110</ref>), but also the Muses and Mnemosyne (<ref target="CGRN_113">CGRN 113</ref>). It is perhaps to be identified with the festival of the Dalia. In the reconstruction of the Rhodian calendar refined by Badoud and generally adopted here (for a different view, see Iversen), Dalios was the first month of the year (ca. August/September). The offering given to Athena is not preserved. Given the recurrence of the animal in this text, it may well have been a female lamb, ἄρνα. However, a more significant offering such as a βοῦς is not excluded (suggested by Pugliese Carratelli; Helios receives an ox on the same date; the Muses a probably female sheep); cp. also δ[άμαλιν] in line 7, though this is probably to be excluded here on the basis of the length of the lacuna. Athena Polias frequently received an ox or a cow, cf. already <ref target="CGRN_1">CGRN 1</ref> (Corinth).</p>
+				
+				<p>Lines 3-9: This celebration takes up the bulk of the extant text and appears to represent a festival in honour of Athena Polias proper, rather than a celebration associating her with a variety of other gods as one the 1st of Dalios (no other sacrifices are known for this specific time of the year). The festival can be thought as lasting over two days, the dates of the 15th and 16th preserved here. On the first day, a twofold sacrifice takes place, involving one female lamb sacrificed by the priestess and another by a group of women. Hsch. s.v. Ἀνθεστηριάδας (also cited by Pugliese Carratelli) is extremely appropriate, reading: τὰς ἐχούσας ὥραν γάμου Ῥόδιοι 'so the Rhodians call the women who have reached their time of marriage' (Anthestrides appears to be a variant local spelling). Any form of correspondance with the springtime (and Ionian) festival of the Anthesteria is almost certainly precluded, since the celebration on Rhodes occurs in the summertime. Rather, these women are to be seen as "flowering" due to being on the cusp of marriage. On the second day, the celebration continues with the sacrifice of a heifer for Athena: for this animal, always offered to goddesses, see here <ref target="CGRN_222">CGRN 222</ref> (Andania), lines 34 and 69. For the age requirement, cp. also on Kamiros <ref target="CGRN_130">CGRN 130</ref>. At line 9, it is not known if the priestess or the priest (ἰ[ερεύς]) of the goddess is to be restored as the sacrificial agent; both seem possible. </p>
+			</div>
+		</body>
+	</text>
+</TEI>

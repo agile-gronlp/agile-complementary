@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_16" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 16</idno>: Fragmentary <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> containing lists of offerings for festivals (?) at Gortyn</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>The <rs type="objectType">block</rs> is broken to the right and bottom, while the top and left side are abraded.</p>
+				<p><dimensions>
+					<height unit="cm">22</height>
+					<width unit="cm">20</width>
+					<depth unit="cm">9</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Boustrophedon text. Given that we begin <foreign>in medias res</foreign> in line 1, a block above (or more) must have begun the text. It is unclear if another block, e.g. to the right, would have contained any continuation of the boustrophedon text. However, we can be reasonably confident that the left side of the block is more or less intact. Indeed, in lines 1, 3, 5, and 9, running left-to-right, only 1 letter needs to be restored at the left margin in order to reconstitute a full word; cp. also the end of line 6, running right-to-left, where only 1 letter need be missing. Furthermore, the lengthy vacat concluding line 2 appears to mark a significant section break in the text. The inscription then resumes with what is probably the name of a festival or another occasion (see commentary at line 3).</p>
+				<p>Letters: <height unit="cm">1-1.6</height>. Guarducci notes that the letters once showed traces of red paint.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0500" notAfter="-0480">ca. 500-450 BC</origDate></p>
+			<p><desc>Justification: Boustrophedon lettering and persistance of early Gortynian alphabet (Guarducci).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Gortyn" n="Crete"><ref target="http://pleiades.stoa.org/places/589796/" type="external">Gortyn</ref></placeName>. Found in the field of Iliakis, near the village of Hagioi Deka. Currently location unknown.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 16-04-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+<p>Edition here based on Guarducci, <bibl type="abbr" n="IC IV">IC IV</bibl> 143, with ph., who prints a version of the lettertraces that we adopt even more cautiously on the basis of the published photograph.</p>
+<p>Other editions: <bibl type="author_date" n="Guarducci 1931">Guarducci 1931</bibl>: 25-26 no. 35, <foreign>editio princeps</foreign>; <bibl type="author_date" n="Guarducci 1933">Guarducci 1933</bibl>: 230-232; <bibl type="author_date" n="Guarducci 1937">Guarducci 1937</bibl>; <bibl type="author_date" n="Guarducci 1978">Guarducci 1978</bibl>: 25-26, with ph.</p>
+<p>Cf. also: <bibl type="author_date" n="Marangou-Lerat 1995">Marangou-Lerat 1995</bibl>: 8-9 no. T7.</p>
+<p>Further bibliography: <bibl type="author_date" n="Trümpy 1997">Trümpy 1997</bibl>: 193-194.
+						</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_1" n="1" rend="left-to-right"/><name type="vegetal"><w lemma="ὄσπριον"><supplied reason="lost">ὀ</supplied>σσπρίον</w></name> <space unit="character" quantity="1"/> <w lemma="χοῦς"><expan><abbr><unclear>χ</unclear></abbr><ex>οῦς</ex></expan></w> <space unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>	
+	    					
+<lb xml:id="line_2" n="2" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/> <name type="liquid"><w lemma="οἶνος">ϝοίνο</w></name> <space unit="character" quantity="1"/> <w lemma="ἡμίχοον"><expan><abbr>ἠ</abbr><ex>μίχοον</ex></expan></w> <space quantity="5" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3" rend="left-to-right"/><name type="festival"><w lemma="Θερμολοία"><unclear>Θ</unclear>ερμο<unclear>λο</unclear>ίοις</w></name>  <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_4" n="4" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/><orig>ρον</orig> <name type="liquid"><w lemma="ὀξύς">ὀξειᾶν</w></name> <space unit="character" quantity="1"/> <w lemma="ὀξύβαφον"><expan><abbr>ὀ</abbr><ex>ξύβαφον</ex></expan></w> <space unit="character" quantity="1"/>
+	    					
+<lb xml:id="line_5" n="5" rend="left-to-right"/><name type="vegetal"><w lemma="ὄσπριον"><supplied reason="lost">ὀ</supplied>σσπρίον</w></name> <space unit="character" quantity="2"/> <w lemma="χοῦς"><expan><abbr>χ</abbr><ex>οῦς</ex></expan></w> <orig>τ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+
+<lb xml:id="line_6" n="6" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/><orig>ον</orig> <name type="object"><w lemma="πόρπαξ">πόρπακανς</w></name> <w lemma="δύο">δύ<supplied reason="lost">ο</supplied></w>
+	    					
+<lb xml:id="line_7" n="7" rend="left-to-right"/><orig><unclear>κ</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig>αδιναν</orig> <name type="liquid"><w lemma="οἶνος">ϝοί<supplied reason="lost">νο</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_8" n="8" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/><orig>ον</orig> <name type="liquid"><w lemma="ὀξύς">ὀξειᾶν</w></name> <space unit="character" quantity="1"/> <w lemma="ὀξύβαφον"><expan><abbr>ὀ</abbr><ex>ξύβαφον</ex></expan></w>
+	    					
+<lb xml:id="line_9" n="9" rend="left-to-right"/><name type="liquid"><w lemma="ἔλαιον"><supplied reason="lost">ἐ</supplied><unclear>λ</unclear>αίο</w></name> <w lemma="χοῦς"><expan><abbr>χ</abbr><ex>οῦς</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/> <name type="liquid"><w lemma="μέλι">μέλιτ<supplied reason="lost">ος</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...] of pulses a <foreign>chous</foreign>, [...], of wine a half-<foreign>chous</foreign>. In the Thermoloia (?) [...] of vinegar an <foreign>oxybaphon</foreign>, (5) of pulses a <foreign>chous</foreign>, T[...] two handles (or needles?), [...], of wine [...], of vinegar an <foreign>oxybaphon</foreign>, of olive oil a <foreign>chous</foreign>, of honey [...]</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[...] des légumineuses : un <foreign>chous</foreign>, [...]; du vin, un demi-<foreign>chous</foreign>. Lors des Thermoloia (?) [...] du vinaigre : un <foreign>oxybaphon</foreign>; (5) des légumineuses, un <foreign>chous</foreign>, T[...] deux anses (ou fibules ?), [...], du vin [...]; du vinaigre, un <foreign>oxybaphon</foreign>; de l'huile d'olive, un <foreign>chous</foreign>; du miel, [...]</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>We know little of the context here, but the lists described in this inscription may relate to different festivals or events, and perhaps concern liquid or vegetal offerings exclusively. These offerings are always followed by units of measurement, which are abbreviated (see already Guarducci and Marangou-Lerat). But unlike previous editors, we observe that the measures are always preceded and followed by an empty space (usually 1 letterspace). If our interpretation of the layout of the inscription is correct, then the extant text begins in the middle of a list of offerings in lines 1-2, which would have started in an earlier section, for example on a block above. Next, after the <foreign>vacat</foreign> concluding line 2, we have an apparent heading for a new list of offerings in line 3 (see below), which probably continues to the end of line 6. Given the measure of <foreign>oxeia</foreign> which is repeated in line 8, we hypothesise that a new heading for a list may have started in the missing portion at the end of line 6, or may be read in the somewhat incomprehensible letters which begin line 7 (see below ad loc.). In this case, we would have another, separate list of offerings in lines 7-9. There would thus be three distinct occasions or events with their inventories of vegetal and liquid offerings described in this inscription.</p>
+							
+<p>Lines 1-2: The expansions of the abbreviations Χ and Η, first proposed by Guarducci, are fairly uncontroversial. Concerning the trace at the end of line 1, Guarducci appeared to change her mind several times: in 1931, 1937 and <bibl type="abbr" n="IC IV">IC IV</bibl> she gives us Χ; in 1933 and 1978, she reads Η. From the photograph, the trace appears to be a slight diagonal "/", which corresponds better to an Χ; we thus maintain the original reading. Though there appears to be a consistency in the abbreviation of a <foreign>chous</foreign> in the text, it may nevertheless be surprising that the pulses are treated as the object of liquid rather than dry measures. If Η were the correct reading, then we could have a ἡμίεκτον of them here; but see below on line 5, where this interpretative problem recurs.</p>
+							
+<p>Line 3: There are several uncertainties with the reading here, and Guarducci also changed her mind about this in diffferent editions. In 1937 and <bibl type="abbr" n="IC IV">IC IV</bibl>, she reads Θ̣ερμολ̣οίοις; in 1933 she proposed the reading [θ]ερμοπ̣οιοῖς; finally, in 1978, she rejected all conjectures as "inutile", and only gave ΕΡΜΟ[.]ΟΙΟΙΣ. The editor appears to have hesitated about whether the list of offerings is attributed to an occasion, the Thermolaia, or is assigned to a group of officials, called <foreign>thermopoioi</foreign>. The latter conjecture, though possible, is problematic given that these officials are completely unattested and the sense of the word is wholly unclear (the fragment <bibl type="abbr" n="IC II">IC II</bibl> v 8 from Axos, adduced by Guarducci, is not helpful). Given that Thermolaios is attested as a month-name at Lato (<bibl type="abbr" n="IC I">IC I</bibl> xvi 5, line 86, ca. 150-100 BC), and the fact that Λώιος is also a month-name (or suffix for a month, cf. Trümpy for a good discussion), one should maintain the reading Θ̣ερμολ̣οίοις. The <foreign>theta</foreign> seems probable, but at least two letters are very unclear in the middle of the word. Little is known about either the month or the festival which would have been held during it, but it may have had some connection to the summer and its heat. The hypothesis of a new heading, and thus probably a festival, appears to be confirmed by the <foreign>vacat</foreign> preceding it in line 2 and the fact that there appears to be a trace immediately following the word (rather than another small <foreign>vacat</foreign>). Thus, this vertical trace of a letter at the end of the line is unlikely to be another abbreviation (the Η read by Guarducci in 1933 and 1978; in 1937 and <bibl type="abbr" n="IC IV">IC IV</bibl> 143, she hesitates between Η and ϝ). A trace like ϝ would perhaps be suitable, providing an expected beginning for a new list after the heading, viz. with <unclear>ϝ</unclear><supplied reason="lost">οίνο̄</supplied> (cp. lines 2 and 7); Η might also have been the first letter of word for an offering (otherwise unattested here). </p>
+							
+<p>Line 4: At the beginning of the line, the traces ΡΟΝ, perhaps followed by a small <foreign>vacat</foreign>, are intriguing and seem to partially recur before the word ὀξειᾶν again in line 7, where a <foreign>vacat</foreign> is more clear (cp. also perhaps line 6). We are therefore probably dealing with another type of measure in the accusative singular, rather than a word for an offering ending in the genitive plural. There are a few possibilities, though no certainty is possible: [μύστ]ρον ("spoonful"), which would be very small indeed (ca. 11.4 ml), or perhaps simply a word like [μέτ]ρον. The word ὀξειᾶν, occurring here as well as in line 8, can be interpreted as the substantivised genitive feminine plural of the adjective ὀξύς (cf. already Guarducci 1978: 26, "sostanze inacidite"). <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. τὸ ὄξος (2), also from ὀξύς, meaning vinegar, provides the best parallel and appropriate significance for the word in this context (cp. possibly <bibl type="abbr" n="IG II²">IG II²</bibl> 1211, ca. 325-300 BC, for ὄξος mentioned in a fragment dealing with sacred olive trees and sacrifices). The interpretation is perhaps confirmed by noting the abbreviation for the measure which twice follows ὀξειᾶν in this text, namely O. Measures beginning in <foreign>omicron</foreign> or <foreign>omega</foreign> are very scarce. The likeliest candidate here is ὀξύβαφον, a measure meaning a "vinegar-saucer", which would therefore be etymologically related to ὀξειᾶν. For a vinegar-saucer in a cultic inventory of Delos, see <bibl type="abbr" n="IG XI">IG XI</bibl> 199 (273/2 BC), line B34.</p>
+							
+<p>Line 5: At the end of the line, there is some uncertainty about the measure of pulses. One could read the measure as Χ, just as in line 1, which would entail that <foreign>tau</foreign> begins a new word for an offering, perhaps then <name type="dairy"><w lemma="τυρός">τυ̣[ρο]</w></name> as read by Guarducci in 1937 and in <bibl type="abbr" n="IC IV">IC IV</bibl> (cp. also <ref target="http://cgrn.ulg.ac.be/CGRN_14/">CGRN 14</ref>, line 14). The alternative, proposed by Guarducci in 1933 and 1978, is reading ΧΤ as the abbreviation itself, i.e. probably χοῦς τέταρτον. This would therefore be a bit more than a <foreign>chous</foreign>: ca. 3.41 l in the Attic measurement. The trace of the <foreign>upsilon</foreign> after the <foreign>tau</foreign>, sometimes read by Guarducci, is difficult to make out on the photograph. That reading may be somewhat preferable, but it is difficult to be completely sure.</p>
+							
+<p>Line 6: The word πόρπακανς is the accusative plural of πόρπαξ and must probably be taken with the numeral (δύο) which follows it. The word is obscure and rather incongruous in this text, since it can designate "shield handles" or perhaps "needles" (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. and cp. πόρπη). Again, two interpretations might be suggested. On the one hand, the word might designate two measures of an unknown quantity, which would then belong with the traces <orig>ον</orig> (a genitive plural?) which preceded the phrase (so Guarducci). But in that case, the phrase does not conform to the expected layout of the inscription, since there is no <foreign>vacat</foreign> preceding it. On the other hand, then, the phrase might be taken as unit in the list, i.e. referring to two cultic implements or dedications of some sort.</p>
+							
+<p>Line 7: The traces at the beginning of the line have not been very satisfactorily elucidated. The letters ΑΔΙΝΑΝ suggest a derivation from ἀδινός, meaning "abundant" (see, in passing, Marangou-Lerat). If that is correct, the adjective could perhaps take the place of a measure, and mean something like <foreign>ad libitum</foreign>, qualifying a genitive plural feminine noun. Cp. for example, the stipulation to bring "as much wine as is desired", in <ref target="http://cgrn.ulg.ac.be/CGRN_29/">CGRN 29</ref>, lines 16-17. Guarducci suggests an interpretation along the lines of κ̣[λ]άδιναν or κ̣[ρ]άδιναν, which would refer to a branch of some sort, presumably used as a cultic implement. However, the trace at the beginning of the line is unclear and a small gap has intervened, so no certainty is possible. 
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

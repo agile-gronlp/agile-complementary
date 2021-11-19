@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_122" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 122</idno>: Excerpt from a <rs type="textType" key="decree">decree (?)</rs>, perhaps a <rs type="textType" key="priestly contract">contract</rs> of sale for the priesthood of Zeus, Helios and Poseidon at Thebes-on-the-Mykale</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p><rs type="objectType">Stele</rs> of marble, broken in two but otherwise intact, with a moulding at the top.</p>
+			<p><dimensions>
+					<height unit="cm">30</height>
+					<width unit="cm">28</width>
+					<depth unit="cm">8</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="cm">1</height>. The inscribed surface is virtually intact, but the poorly deciphered line 10 occurs at the break between the two fragments. It is quite possible that some of the uncertainty in the readings of the lines (e.g. in line 2) is due to corrections or to the poor character of the cutting (cf. Blümel - Merkelbach for further discussion and their apparatus criticus).</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0350" notAfter="-0250">ca. 350-250 BC</origDate></p>
+			<p><desc>Justification: lettering and dialect (Blümel - Merkelbach).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thebes-Mykale" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599805" type="external">Thebes</ref></placeName> on Mt. Mykale (note that the Pleiades link only refers to the mountain near Priene), found near the largest of the two temples excavated on the site. Currently in the State Museum in Berlin (Antikensammlung, inv. no. 126).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition based on Blümel and Merkelbach <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 417, with pl. p. 179.</p>
+					<p>Other edition: Hiller von Gaertringen <bibl type="abbr" n="I.Priene">I.Priene</bibl> 364 and p. 312.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 40; <bibl type="abbr" n="SEG">SEG</bibl> 15, 692.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>			
+	    	
+	    					<lb xml:id="line_1" n="1"/><w lemma="ἐπί">ἐπὶ</w> <name type="title"><w lemma="στεφανηφόρος">στεφανηφόρου</w></name> Αὐτοκλείους
+	    					
+<lb xml:id="line_2" n="2"/><name type="genericOffering"><w lemma="ἱερός"><supplied reason="lost">ἱ</supplied>ερὰ</w></name> ἐ<gap reason="lost" quantity="3" unit="character"/>ωσαν τοῦ <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name>, τοῦ <name type="deity" key="Helios"><w lemma="ἥλιος">Ἡ<unclear>λί</unclear>ου</w></name>
+	    					
+<lb xml:id="line_3" n="3"/>καὶ τοῦ <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν">Ποσειδῶνος</w></name>· <name type="personnel"><w lemma="ἱεράομαι">ἱερήσθω</w></name> <w lemma="διά">δι<unclear>ὰ</unclear></w> <w lemma="βίος">β<supplied reason="lost">ίου</supplied></w>
+	    					
+<lb xml:id="line_4" n="4"/><w lemma="κατά">κατὰ</w> <w lemma="ὅδε">τάδε</w>, <w lemma="λαμβάνω">λ<unclear>α</unclear>μβάνων</w> <name type="portion"><w lemma="γλῶσσα">γλῶσσαν</w></name>,
+	    				
+<lb xml:id="line_5" n="5"/>	<name type="portion"><w lemma="σκολιός">σκολιόν</w></name>, <name type="portion"><w lemma="νεφρός">νεφρό<supplied reason="lost">ν</supplied></w></name><supplied reason="lost">,</supplied> <name type="quality"><w lemma="ἱερός"><supplied reason="lost">ἱε</supplied>ρὴν</w></name> <name type="portion"><w lemma="μοῖρα">μοῖραν</w></name>, <name type="portion"><w lemma="κωλῆ">κωλῆν</w></name>
+	    					
+<lb xml:id="line_6" n="6"/>καὶ τ<unclear>ὰ</unclear> <name type="portion"><w lemma="κῴδιον">κώιδια</w></name> τῶν <name type="sacrifice"><w lemma="θύω">θυομένων</w></name>·
+	    				
+<lb xml:id="line_7" n="7"/><w lemma="εἰμί">εἶναι</w> δὲ <w lemma="αὐτός"><unclear>α</unclear>ὐτῶι</w> καὶ <w lemma="ἀτέλεια">ἀτέλ<supplied reason="lost">ε</supplied>ιαν</w>
+	    					
+<lb xml:id="line_8" n="8"/><w lemma="ἐν"><unclear>ἐ</unclear>ν</w> τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>, <w lemma="λαγχάνω">λ<supplied reason="lost">α</supplied>χεῖν</w> <unclear>δ</unclear>ὲ
+	    				
+<lb xml:id="line_9" n="9"/><w lemma="αὐτός"><supplied reason="lost">αὐ</supplied><unclear>τ</unclear>ὸν</w> <w lemma="ὅσος">ὅσα</w> κ<unclear>α</unclear>ὶ ὁ <w lemma="ἐν">ἐμ</w> <name type="locality"><w lemma="πόλις">πόλει</w></name> <w lemma="ἔχω">ἔ<supplied reason="lost">χ</supplied>ε<supplied reason="lost">ι</supplied></w>
+	    		
+<lb xml:id="line_10" n="10"/><orig><unclear>σθα</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig>ολ</orig><gap reason="lost" quantity="1" unit="character"/><orig>ο</orig><gap reason="lost" quantity="4" unit="character"/><orig><unclear>ου</unclear></orig>· <w lemma=""><supplied reason="lost">ἀ</supplied>ναγράψαι</w>
+	    					
+<lb xml:id="line_11" n="11"/>δὲ <w lemma="εἰς">εἰς</w> <objectType key="stele"><w lemma="στήλη">στήλην</w></objectType> <w lemma="λίθινος">λιθίνην</w> <supplied reason="lost">κ</supplied>α<supplied reason="lost">ὶ</supplied>
+	    				
+<lb xml:id="line_12" n="12"/><w lemma="ἀνατίθημι">ἀν<unclear>α</unclear>θεῖν<unclear>α</unclear>ι</w> <w lemma="εἰς">εἰς</w> τὸ <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> τῆς <name type="deity" key="Athena"><w lemma="Ἀθήνη"><unclear>Ἀ</unclear>θ<unclear>η</unclear>νᾶς</w></name>
+	    				
+<lb xml:id="line_13" n="13"/><w lemma="παρά">παρὰ</w> τὸμ <name type="structure"><w lemma="βωμός">βωμὸν</w></name> τοῦ <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name> τοῦ
+	    				
+<lb xml:id="line_14" n="14"/><name type="epithet"><w lemma="Πολιεύς"><unclear>Π</unclear>ολιέως</w></name>· <w lemma="πρόσκειμαι">προσκεῖσθαι</w> <unclear>δ</unclear>ὲ
+	    				
+<lb xml:id="line_15" n="15"/><w lemma="αὐτός">αὐτῶι</w> καὶ τὴν <w lemma="στυπτηρία">στρυπτηρίαν</w>
+	    				
+<lb xml:id="line_16" n="16"/><w lemma="πᾶς"><supplied reason="lost">π</supplied>ᾶσαν</w>. <space extent="unknown" unit="line"/>
+	    					
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						In the year of the stephanephoros Autokles. The rites (i.e. the priesthood?) of Zeus, Helios, and Poseidon [were sold?]. He will serve as priest for life according to the following: receiving the tongue, (5) the intestine, a kidney, the sacred portion, a thigh and the fleeces of the sacrificial animals. He will have tax-exempt status in the city, and he will obtain a share of those things which the (priest?) in the city [also receives ...]. (10) To be written up on a stone stele and set up in the sanctuary of Athena next to the altar of Zeus Polieus. All the alum is given to him (or: all the alum-duties are to be applied to him?).
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+						L'année du stéphanéphore Autoklès. Les rites (i.e. la prêtrise ?) de Zeus, d'Hélios et de Poséidon [ont été vendus ?]. Il servira en tant que prêtre à vie, selon les règles suivantes : recevant la langue, (5) l'intestin, un rein, la part sacrée, une cuisse, et toutes les toisons des animaux sacrificiels. Il aura une exemption de taxes civiques, et il obtiendra une part de ce que le (prêtre ?) dans la cité [reçoit également ? ...]. (10) À inscrire sur une stèle de pierre, qui doit être érigée dans le sanctuaire d'Athéna auprès de l'autel de Zeus Polieus. Lui sont octroyées toutes les productions d'alun (ou les taxes sur l'alun lui sont appliquées ?). 
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>The question of the date of the inscription is intricately tied to its context. Thebes-on-the-Mykale is known to have become a dependency of Miletos in the year 411-394 BC, having changed hands from Samian influence: cf. Blümel - Merkelbach (p. 551), and also the other text from this Thebes here: <ref target="http://cgrn.ulg.ac.be/CGRN_81/">CGRN 81</ref> (dated to the mid-4th century BC). Here, as the editors comment, the letterforms and the Ionic dialect may suggest a date anywhere in the range of ca. 350-250 BC (see their commentary for further discussion). Moreover, Blümel and Merkelbach follow Hiller in supposing that the eponymous official listed in line 1 of the present inscription is the Milesian <foreign>stephanephoros</foreign>. Only one Autokles (son of Babon) is known, in the years 195/4 BC, and thus is probably precluded on the basis of the date and the fact that Thebes became once again a part of the Samian Peraia in the years 196-191. Accordingly, if the inference about a Milesian official is right in line 1, our text ought to date in the years 260/59-238/7 BC, when there is a gap in the known lists of the Milesian eponyms (cf. already Sokolowski). Note, however, that it remains perfectly possible that Thebes-on-the-Mykale had its own eponymous officials.</p>
+						
+<p>The document as we have it seems to be a short summary of a contract for a priest, perhaps heavily abbreviated from an original decree, and it might be seen as a sale of the office (so Sokolowski, a practice which was common at Miletos; see below at lines 4-6). The idea of a sale or a new appointment could be corroborated from the lifetime tenure of the priesthood in this case (line 3), since this implies a contract for a specific and limited duration. The problem of the precise character of the document hinges on what the interpretation of the phrase in line 2 entails, combining ἱερὰ with a missing verb, and for which no good solution is forthcoming. Several other factors can be seen as suggesting an influence of Miletos on our document, despite its rather pithy character: the list of priestly perquisites in lines 4-5 more or less perfectly matches similar lists at Miletos, and their is an apparent contract drawn between tax exemption at Thebes itself (<unclear>ἐ</unclear>ν τῶι δήμωι, line 8), with those accorded to an individual (another priest?) "in the city" (line 9), i.e. Miletos (according to Blümel - Merkelbach).</p>
+						
+<p>That being said, there are also strong local elements in the short contract for the priest. The priesthood apparently combines the cult, or at least responsabilities for the differents cults, of Zeus, Helios, and Poseidon. In any case, this a combination of gods which is not readily attested elsewhere (perhaps not at Miletos in fact). The situation of the inscribed stele prescribed in the text suggests that we have here the single copy of the inscription. Since it was set up next to the altar of Zeus Polieus in the sanctuary of Athena (lines 12-13), it should reasonably be supposed that this coheres with the findspot of the inscription: the larger of the two temples excavated on the Acropolis of Thebes-on-the-Mykale would therefore be that of Athena (cf. Blümel - Merkelbach, with refs. to the excavations of Wiegand and Schrader published in 1904). It is probable that the priest here had responsability, or at least some connection, with the cult of Zeus Polieus in this sanctuary. A further distinctive element is the clause apparently added somewhat later (so Sokolowski) in lines 14-16, or at least interjected in the same hand, which refers to the mineral alum: no doubt a precious resource that was mined locally on Mt. Mykale.</p>
+
+<p>Lines 4-6: For corresponding lists of perquisites at Miletos, cp. <ref target="http://cgrn.ulg.ac.be/CGRN_39">CGRN 39</ref>, lines 3-10, and <ref target="http://cgrn.ulg.ac.be/CGRN_138">CGRN 138</ref>, lines 16-18 (but also including the entrails). Both the kidney and the intestine seem to be especially mentioned in Milesian lists of sacrificial portions. Nevertheless, the list is not necessarily completely specific to Miletos: in that city, the whole leg (σκέλος) is typically granted, whereas here only a thigh is mentioned. Furthermore, it would seem that the animals envisaged by the cult are exclusively sheep and goats: κῴδιον is a technical term for the fleeces of these animals; cp. <ref target="http://cgrn.ulg.ac.be/CGRN_104/">CGRN 104</ref>, lines 44-45 (Halikarnassos, there: rams and one goat). This again matches well the local context and the other inscription from Thebes itself, which prescribes sacrifices for shepherds and goat-hearders: <ref target="http://cgrn.ulg.ac.be/CGRN_81/">CGRN 81</ref>. Perhaps the list of perquisites cited here should therefore not be seen as overtly 'Milesian', but simply as fairly typical of this wider Ionian region?</p> 
+						
+<p>Lines 14-16: Cf. Blümel - Merkelbach for further discussion of the mineral alum. As they comment, it is unclear if the priest is being granted the rights to alum production or to taxes thereof (cp. Sokolowski: "On accorde au prêtre la taxe sur la vente de l'alun"), or if he is being awarded a further tax-exemption, in this case specific to the mineral: "bedeutet hier wohl Monopol auf den Verkauf oder die Einnahmen aus der Steuer auf den Verkauf von Alaun".	
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

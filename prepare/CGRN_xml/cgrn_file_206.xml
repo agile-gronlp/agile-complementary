@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_206" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 206</idno>: <rs type="textType" key="decree"><rs type="textType" key="priestly contract">Decree concerning the priesthood</rs></rs> of Asclepius at Pergamon</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Sylvain Lebreton</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<p>Two fragments of a marble stele with a small ledge on the top. The two fragments are joining at the back, but leave a space in the front (inscribed) face, at the level of lines 17-18. The lower left corner is missing.</p>
+									<p><dimensions>
+										<height unit="cm">126</height>
+										<width unit="cm">43-46</width>
+										<depth unit="cm">12-19</depth>
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+									<p>Very deep, but irregular script. Lacuna in lines 17-18 (cf. Support). </p>
+									<p>Letters: <height unit="cm">1.5</height> on average.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p>
+								<origDate notBefore="-0133" notAfter="-0100">2nd century BC (after 133?)</origDate>
+							</p>
+							<p>
+								<desc>Justification: lettering (cf. Fraenkel and see Commentary).</desc>
+							</p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Pergamon" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/550812" type="external">Pergamon</ref></placeName>. The upper fragment (inv. no. II 174) was found on the west terrasse, below the Great Altar; the lower one (inv. no. II 27) in a Turkish tower at the southwest corner of the sanctuary of Athena.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 14-09-2015 by S.G. Caneva.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised on .</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+
+				<p>Edition here based on Fraenkel <bibl type="abbr" n="IvP II">IvP II</bibl> 251, with facsimile (p. 187). </p>
+
+				<p> Other edition: Hiller von Gaertringen <bibl type="abbr" n="SIG³">SIG³</bibl> 1007. </p>
+
+				<p> Cf. also: <bibl type="author_date" n="Edelstein - Edelstein 1945">Edelstein - Edelstein 1945</bibl> I: 280-282, no. 491, with English translation; Robert - Robert <bibl type="abbr" n="La Carie">La Carie</bibl>: 298 n. 5; Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 13. </p>
+
+				<p> Further bibliography: <bibl type="author_date" n="Robert 1925">Robert 1925</bibl>;
+					<bibl type="author_date" n="Robert 1928">Robert 1928</bibl>;
+					<bibl type="author_date" n="Edelstein - Edelstein 1945">Edelstein - Edelstein 1945</bibl> II: 191-194;
+					<bibl type="author_date" n="Allen 1983">Allen 1983</bibl>: 162-163;
+					<bibl type="author_date" n="Dmitriev 2005">Dmitriev 2005</bibl>: 50-51;
+					<bibl type="author_date" n="Riethmüller 2005">Riethmüller 2005</bibl> I: 334-359, and II: 362-364, no. 234;
+					<bibl type="author_date" n="Stavrianopoulou 2009">Stavrianopoulou 2009</bibl>: 220-224;
+					<bibl type="author_date" n="Peels 2016">Peels 2016</bibl>. </p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+
+				<ab>
+
+<lb xml:id="line_1" n="1"/> <w lemma="ἐπί">ἐπὶ</w> <name type="title"><w lemma="πρύτανις">πρυτάνεως</w></name> Καβείρου, <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="πάνθειος">Πανθείου</w></name>
+
+<lb xml:id="line_2" n="2"/> <w lemma="εἰκάς">εἰκάδι</w>· <w lemma="γιγνώσκω">ἔγνω</w> <name type="group"><w lemma="βουλή">βουλὴ</w></name> καὶ <name type="group"><w lemma="δῆμος">δῆμος</w></name> <w lemma="γνώμη">γνώμηι</w>
+
+<lb xml:id="line_3" n="3"/> <name type="title"><w lemma="στρατηγός">στρατηγῶν</w></name> <w lemma="περί">περὶ</w> τῆς <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύνης</w></name> τοῦ <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκληπι<supplied reason="lost">οῦ</supplied></w></name>,
+
+<lb xml:id="line_4" n="4"/> <w lemma="ὅπως">ὅπως</w> <w lemma="ὑπάρχω">ὑπάρχηι</w> <w lemma="εἰς">εἰς</w> τὸν <w lemma="ἅπας">ἅπαντα</w> <w lemma="χρόνος">χρόνον</w>
+
+<lb xml:id="line_5" n="5"/> Ἀσκληπιάδηι καὶ τοῖς <w lemma="ἀπόγονος">ἀπογόνοις</w> τοῖς
+
+<lb xml:id="line_6" n="6"/> Ἀσκληπιάδου· <w lemma="τύχη">τύχηι</w> τῆι <w lemma="ἀγαθός">ἀγαθῆι</w>· <w lemma="δοκέω">δεδόχθαι</w>
+
+<lb xml:id="line_7" n="7"/> τῆι <name type="group"><w lemma="βουλή">βουλῆι</w></name> καὶ τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>· τὴν μὲν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύνην</w></name>
+
+<lb xml:id="line_8" n="8"/> τοῦ <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκληπιοῦ</w></name> καὶ τῶν <w lemma="ἄλλος">ἄλλων</w> <name type="deity" key="unclear"><w lemma="θεός">θεῶν</w></name> τῶν <w lemma="ἐν">ἐν</w> τῶι
+
+<lb xml:id="line_9" n="9"/> <name type="structure"><w lemma="Ἀσκληπιός">Ἀσκλη<unclear>πι</unclear>είωι</w></name> <w lemma="ἱδρύω">ἱδρυμένων</w> <w lemma="εἰμί">εἶναι</w> Ἀσκληπιάδου
+
+<lb xml:id="line_10" n="10"/> τοῦ <supplied reason="lost">Ἀρχί</supplied>ου καὶ τῶν <w lemma="ἀπόγονος">ἀπογόνων</w> τῶν Ἀσκληπιάδου
+
+<lb xml:id="line_11" n="11"/> <w lemma="εἰς">εἰς</w> <w lemma="ἅπας">ἅ<unclear>π</unclear>α<unclear>ν</unclear><supplied reason="lost">τ</supplied>α</w> <supplied reason="lost">τ</supplied>ὸν <w lemma="χρόνος">χρόνον</w> καὶ <name type="adornment"><w lemma="στεφανηφορέω">στεφανηφορεῖν</w></name> <w lemma="αὐτός">αὐτῶν</w>
+
+<lb xml:id="line_12" n="12"/> <w lemma="ἀεί">ἀεὶ</w> τὸν <w lemma="ἔχω">ἔχοντα</w> τὴν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύνην</w></name>, <w lemma="λαμβάνω">λαμβάνειν</w> δὲ
+
+<lb xml:id="line_13" n="13"/> καὶ <name type="portion"><w lemma="γέρας">γέρα</w></name> τῶν <name type="sacrifice"><w lemma="θύω">θυομένων</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείων</w></name> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name>
+
+<lb xml:id="line_14" n="14"/> <w lemma="πᾶς">πάντων</w> <name type="portion"><w lemma="σκέλος">σκέλος</w></name> <w lemma="δεξιός">δεξιὸν</w> καὶ τὰ <name type="portion"><w lemma="δέρμα">δέρματα</w></name> καὶ <w lemma="ἄλλος">τἆλλ<unclear>α</unclear></w>
+
+<lb xml:id="line_15" n="15"/> <name type="portion"><w lemma="τραπέζωμα">τραπεζώματα</w></name> <w lemma="πᾶς">πάντα</w> τὰ <w lemma="παρατίθημι">παρατιθέμεν<supplied reason="lost">α</supplied></w>
+
+<lb xml:id="line_16" n="16"/> <gap reason="lost" quantity="5" unit="character"/><orig>σ</orig><gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="καρπεύω"><unclear>καρ</unclear>πεύεσθαι</w></name> <unclear>δ</unclear>ὲ <w lemma="αὐτός">α<unclear>ὐ</unclear>τὸν</w> καὶ τὸ <name type="structure"><w lemma="ἱερός">ἱερ<supplied reason="lost">ὸν</supplied></w></name>
+
+<lb xml:id="line_17" n="17"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_18" n="18"/> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_19" n="19"/> <gap reason="lost" extent="unknown" unit="character"/><gap reason="lost" quantity="2" unit="character"/> <w lemma="ὑπάρχω">ὑ<unclear>πάρ</unclear>χειν</w> <w lemma="εἰς">εἰς</w> <w lemma="ἅπας">ἅπαν<unclear>τ</unclear>α</w> <unclear>τ</unclear>ὸν <w lemma="χρόνος">χρό<unclear>ν</unclear><supplied reason="lost">ον</supplied></w>.
+
+<lb xml:id="line_20" n="20"/> <w lemma="εἰμί"><supplied reason="lost">εἶναι</supplied></w> <supplied reason="lost">δ</supplied>ὲ καὶ <w lemma="ἀτέλεια">ἀτέλειαν</w> Ἀσκληπιάδηι <w lemma="πᾶς">πάντων</w>
+
+<lb xml:id="line_21" n="21"/> <w lemma="ὅς"><supplied reason="lost">ὧν</supplied></w> ἡ <name type="group"><w lemma="πόλις">πόλις</w></name> <name type="authority"><w lemma="κύριος">κυρία</w></name>, καὶ <w lemma="εἰς">εἰς</w> τὸ <w lemma="λοιπός">λοιπὸν</w>
+
+<lb xml:id="line_22" n="22"/> <w lemma="ἀεί"><unclear>ἀ</unclear>εὶ</w> τῶι τὸν <name type="adornment"><w lemma="στέφανος">στέφανον</w></name> <w lemma="ἔχω">ἔχοντι</w>, <name type="speechAct"><w lemma="ἀναγορεύω">ἀναγορεύεσθαι</w></name> δ<supplied reason="lost">ὲ</supplied>
+
+<lb xml:id="line_23" n="23"/> <w lemma="εἰς">εἰς</w> <w lemma="προεδρία">προεδρίαν</w> τὸν <name type="personnel"><w lemma="ἱερεύς">ἱερέα</w></name> <w lemma="ἐν">ἐν</w> <w lemma="ἅπας">ἅπασι</w> τοῖς <name type="festival"><w lemma="ἀγών">ἀγῶσιν</w></name>.
+
+<lb xml:id="line_24" n="24"/> <w lemma="ἐπιμελέομαι">ἐπιμελεῖσθαι</w> δὲ καὶ τῆς <w lemma="εὐκοσμία">εὐκοσμίας</w> τῆς <w lemma="κατά">κατὰ</w> τὸ <name type="structure"><w lemma="ἱερός">ἱερ<supplied reason="lost">ὸν</supplied></w></name>
+
+<lb xml:id="line_25" n="25"/> <w lemma="πᾶς">πάσης</w> τὸν <name type="personnel"><w lemma="ἱερεύς">ἱερέ<unclear>α</unclear></w></name> <w lemma="ὡς">ὡς</w> <w lemma="ἄν">ἂν</w> <w lemma="αὐτός">αὐτῶι</w> <w lemma="δοκέω">δοκῆ<supplied reason="lost">ι</supplied></w>
+
+<lb xml:id="line_26" n="26"/> <w lemma="καλός">καλῶς</w> <w lemma="ἔχω">ἔχειν</w> καὶ <w lemma="ὅσιος">ὁσίως</w>, <w lemma="κυριεύω">κυριεύοντα</w> τῶν <w lemma="ἱερός">ἱερῶν</w> <name type="personnel"><w lemma="παῖς">παίδων</w></name>·
+
+<lb xml:id="line_27" n="27"/> <w lemma="ὅπως">ὅπως</w> δὲ <w lemma="οὗτος">ταῦτα</w> <w lemma="εἰς">εἰς</w> τὸν <w lemma="ἅπας">ἅπαντα</w> <w lemma="χρόνος">χρόνον</w> <w lemma="διαμένω">διαμένηι</w>
+
+<lb xml:id="line_28" n="28"/> <w lemma="βέβαιος">βέβαια</w> <supplied reason="omitted">Ἀ</supplied>σκληπιάδηι καὶ τοῖς <w lemma="ἀπόγονος">ἀπογόνοις</w> τοῖς
+
+<lb xml:id="line_29" n="29"/> Ἀσκληπιάδου, <w lemma="ἐπιτελέω">ἐπιτελεῖν</w> <name type="speechAct"><w lemma="ὁρκωμόσιος">ὁρκωμόσιον</w></name> τὴν <name type="group"><w lemma="πόλις">πόλιν</w></name>
+
+<lb xml:id="line_30" n="30"/> <w lemma="ἐν">ἐν</w> τῆι <name type="locality"><w lemma="ἀγορά">ἀγορᾶι</w></name> <w lemma="ἐπί">ἐπὶ</w> τοῦ <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name> τοῦ <name type="epithet" key="Soter"><w lemma="σωτήρ">Σωτῆρος</w></name> τῶι <name type="structure"><w lemma="βωμός">βωμῶι</w></name>
+
+<lb xml:id="line_31" n="31"/> καὶ <w lemma="ὄμνυμι">ὀμόσαι</w> τ<supplied reason="omitted">ὰ</supplied>ς <name type="title"><w lemma="τιμουχία">τιμουχίας</w></name> "<w lemma="ἦ">ἦ</w> <w lemma="μήν">μὴν</w> <w lemma="ἐμμένω">ἐμμενεῖν</w> <w lemma="ἐν">ἐν</w> <w lemma="ὅς">οἷς</w>
+
+<lb xml:id="line_32" n="32"/> <w lemma="ψηφίζω">ἐψήφισται</w> ἡ <name type="group"><w lemma="πόλις">πόλις</w></name> Ἀσκληπιάδηι καὶ τοῖς <w lemma="ἀπόγονος">ἀπογόνοις</w>
+
+<lb xml:id="line_33" n="33"/> τοῖς Ἀσκληπιάδου"· τοὺς δὲ <name type="title"><w lemma="στρατηγός">στρατηγοὺς</w></name> τοὺς <w lemma="ἐπί">ἐπ<supplied reason="lost">ὶ</supplied></w>
+
+<lb xml:id="line_34" n="34"/> Καβείρου <w lemma="πρύτανις">πρυτάνεως</w> <w lemma="ἐπιμελέομαι">ἐπιμεληθῆναι</w>, <w lemma="ὅπως">ὅπως</w>
+
+<lb xml:id="line_35" n="35"/> <w lemma="συντελέω">συντελεσθῇ</w> ὁ <name type="speechAct"><w lemma="ὅρκος">ὅρκος</w></name> <w lemma="καθάπερ">καθάπερ</w> <name type="authority"><w lemma="γράφω">γέγραπται</w></name>·
+
+<lb xml:id="line_36" n="36"/> <w lemma="ἀναγράφω">ἀναγράψαι</w> δὲ <w lemma="αὐτός">αὐτοὺς</w> καὶ τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισμα</w></name> <w lemma="ὅδε">τόδ<unclear>ε</unclear></w>
+
+<lb xml:id="line_37" n="37"/> <w lemma="εἰς">εἰς</w> <objectType key="stele"><w lemma="στήλη">στήλας</w></objectType> <w lemma="λίθινος">λιθίνας</w> <w lemma="τρεῖς">τρεῖς</w> καὶ <w lemma="ἵστημι">στῆσαι</w> <w lemma="αὐτός">αὐτῶν</w>
+
+<lb xml:id="line_38" n="38"/> <w lemma="εἷς">μίαν</w> μὲν <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> τοῦ <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκληπιοῦ</w></name> <w lemma="ἐν">ἐμ</w> <placeName key="Pergamon"><w lemma="Πέργαμον">Περγάμῳ</w></placeName>,
+
+<lb xml:id="line_39" n="39"/> <w lemma="ἄλλος">ἄλλην</w> δὲ <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> τῆς <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶς</w></name> <w lemma="ἐν">ἐν</w> <name type="locality"><w lemma="ἀκρόπολις">ἀκροπόλ<unclear>ε</unclear><supplied reason="lost">ι</supplied></w></name>,
+
+<lb xml:id="line_40" n="40"/> <supplied reason="lost">τ</supplied><unclear>ὴ</unclear>ν δὲ <w lemma="τρίτος">τρίτην</w> <w lemma="ἐν">ἐμ</w> <placeName key="Mytilene"><w lemma="Μυτιλήνη">Μυτιλήνηι</w></placeName> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> τοῦ
+
+<lb xml:id="line_41" n="41"/> <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός"><supplied reason="lost">Ἀσκλ</supplied>ηπιοῦ</w></name>· <w lemma="ἐγγράφω">ἐγγράψαι</w> δὲ καὶ <w lemma="εἰς">εἰς</w> τοὺς <name type="authority"><w lemma="νόμος">νόμους</w></name>
+
+<lb xml:id="line_42" n="42"/><supplied reason="lost">τοὺς</supplied> <supplied reason="lost">τ</supplied>ῆς <name type="group"><w lemma="πόλις">πόλεως</w></name> τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισμα</w></name> <w lemma="ὅδε">τόδε</w> καὶ
+
+<lb xml:id="line_43" n="43"/> <w lemma="χράω"><supplied reason="lost">χρήσθω</supplied>σαν</w> <w lemma="αὐτός">αὐτῶι</w> <name type="authority"><w lemma="νόμος">νόμωι</w></name> <w lemma="κύριος">κυρίωι</w> <w lemma="εἰς">εἰς</w> <w lemma="ἅπας">ἅπαντα</w> τὸν <w lemma="χρόνος">χρόνον</w>. </ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				<p>In the prytany of the Kabeiros, on the 20th of the month Pantheios; the council and the people decided, on the motion of the <foreign>strategoi</foreign>, concerning the priesthood of Asclepius, that it should belong forevermore (5) to Asklepiades and to the descendants of Asklepiades. With good fortune, may it be decided by the council and the people that the priesthood of Asclepius and of the other gods who are established in the Asklepieion shall belong to Asklepiades (10) son of Archias and to the descendants of Asklepiades forevermore, and that the one among them who holds the priesthood in turn shall wear the wreath, that he shall also take as perquisites from all the animals sacrificed in the sanctuary the right leg and the skins and all the other (15) offerings which are set on the table [...] he may also have the usufruct of the sanctuary [...] have it for all time. (20) That Asklepiades [shall be] exempt from all (liturgise) [that] the city is entitled (to impose), and hereafter he who in turn wears the wreath (shall be exempt); and the priest's privilege to sit in the first row will be publicly proclaimed during all the games. That the priest shall be in charge of the general good order within the sanctuary (25) as it seems to him to be elegant and pleasing to the gods, being master of the sacred slaves. In order that these things be safeguarded for all time for Asklepiades and the descendants of Asklepiades, the city shall accomplish (30) an oath-sacrifice at the altar of Zeus Soter in the agora, and the authorities shall swear to truly abide by what the city has decreed for Asklepiades the descendants of Asklepiades. That the <foreign>strategoi</foreign> who (are in office) in the prytany of the Kabeiros shall see to it that (35) the oath be fulfilled as it is written. They must also have this decree inscribed on three stone stelai and set up one of them in the sanctuary of Asclepius at Pergamon, another one in the sanctuary of Athena on the acropolis, (40) and the third one at Mytilene in the sanctuary of Asclepius; they must also list this decree among the laws [of] the city and it shall be [treated as] a valid law for evermore.</p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+
+				<p>Sous la prytanie du Kabire, le 20 du mois de Pantheios; le conseil et le peuple ont décidé, sur proposition des stratèges, au sujet de la prêtrise d’Asclépios, qu’elle appartienne pour toujours (5) à Asklepiadès ainsi qu’aux descendants d’Asklepiadès. À la bonne fortune. Qu'il plaise au conseil et au peuple que la prêtrise d’Asclépios et des autres dieux établis dans l’Asklépieion soit (propriété) d’Asklepiadès (10) fils d’Archias ainsi que des descendants d’Asklepiadès pour toujours; que celui d’entre eux qui disposera à son tour de la prêtrise porte la couronne, qu’il reçoive comme part d'honneur la patte droite et les peaux de tous les animaux sacrifiés dans le sanctuaire et toutes les autres (15) offrandes déposées sur la table [...] qu’il exploite aussi le sanctuaire [...] dispose pour toujours. (20) Qu’Asklepiadès [soit] exempté de toutes (les charges) [sur lesquelles] la cité a autorité, et ensuite celui qui portera à son tour la couronne; que le prêtre soit promu à la proédrie dans tous les concours. Que le prêtre veille au bon ordre de tout ce qui concerne le sanctuaire (25) comme il lui semble adéquat et susceptible de plaire aux dieux, ayant autorité sur les esclaves sacrés. Afin que cela demeure pour toujours assuré pour Asklepiadès et les descendants d’Asklepiadès, que la cité accomplisse (30) sur l’agora un sacrifice de serment sur l’autel de Zeus Soter et que les autorités jurent de s'en tenir à ce que la cité a décrété pour Asklepiadès et les descendants d’Asklepiadès. Que les stratèges qui (sont en fonction) sous la prytanie du Kabire veillent à ce que (35) le serment soit accompli comme il a été écrit. Qu’ils inscrivent aussi ce décret sur trois stèles de pierre et en affichent une dans le sanctuaire d’Asclépios à Pergame, une autre dans le sanctuaire d’Athéna sur l’acropole, (40) et la troisième à Mytilène, dans le sanctuaire d’Asclépios; qu'ils intègrent également ce décret aux lois [de] la cité, et il sera [considéré] comme une loi souveraine pour toujours.</p> </div>
+
+			<div type="commentary">
+				<head>Commentary</head>
+				<p> By means of this decree, the city of Pergamon grants (or rather confirms, see below) the exclusivity of the priesthood of Asclepius to Asklepiades, son of Archias, and to his descendants (lines 3-11). The privileges and prerogatives attached to this priesthood are listed (lines 11-26) in detail, as in a standard priestly contract: wearing of the wreath, perquisites from sacrificial animals, a complete <foreign>ateleia</foreign> or exemption from civic liturgies, proedry, administration of the sanctuary and of the sacred slaves, and exploitation of its resources. Apart from a typical clause concerning publication (lines 36-41)), the text ends by planning an oath to guarantee the durability of this decree (lines 27-35), and its inclusion among the laws of the <foreign>polis</foreign> (lines 41-43).</p>
+
+				<p> The lettering suggests that this inscription was engraved in the second century BC, but its more precise datation has been much debated. According to Robert - Robert (followed by Sokolowski, Dmitriev), the inscription dates from the Attalid period. In their view, the lack of reference to a royal authority can be explained if this is the priesthood of a "municipal" cult (as opposed to the so-called "royal" cults in Pergamon, for example of Zeus Sabazios and Dionysus Kathegemon). Nevertheless, this absence of a royal ordinance would remain surprising for a cult of such importance as that of Asclepius in Pergamon, for which Eumenes II seems to have shown some concern, at least for diplomatic purposes (cf. <bibl type="abbr" n="IG IV².1">IG IV².1</bibl> 60). Moreover, the exceptional nature of the measures taken to guarantee this decree described in lines 27-35 fits quite well with the period in the years immediately following the end of the monarchy, in which the polis had to consolidate its relative independance and authority (Allen, Stravrianopoulou). For another dossier of ritual norms from Pergamon which probably also dates to this period after the death of Attalos III in 133 BC, cf. <ref target="CGRN_212">CGRN 212</ref>.</p>
+
+				<p>Line 1 (idem 33-34): The eponymous <foreign>prytanis</foreign> of the city is probably the god, rather than a man named Kabeiros (cf. Sokolowski with further references). For the Kabeiroi, see also here <ref target="CGRN_98">CGRN 98</ref> (Erythrai) and <ref target="CGRN_123">CGRN 123</ref> (Tomis).</p>
+
+				<p>Lines 4-6 : There were four different ways in which to obtain a priesthood: through inheritance, by lot, through democratic vote and through sale. On the modes of designations of priests of Asclepius, cf. Edelstein - Edelstein II, p. 192; cf. e.g. <bibl type="abbr" n="IG II²">IG II²</bibl> 1163 (Athens, sortition) and <bibl type="abbr" n="LSAM">LSAM</bibl> 5 (Chalcedon, sale). For the use of sortition in Attalid Pergamon, cf. here <ref target="CGRN_124">CGRN 124</ref>, line 1.</p>
+
+				<p>Lines 8-9: The gods associated with Asclepius at Pergamon include in all probability Hygieia, as we may gather from dedications found at the local Asklepieion mentioning this goddess (cp. especially the contemporary <bibl type="abbr" n="IvP III">IvP III</bibl> 65). Telesphoros may be another possibility, although, contrary to what Riethmüller's inventory seems to imply, he is not actually associated with Asclepius and Hygieia in these dedications (but cf. <bibl type="abbr" n="IvP III">IvP III</bibl> 125 and 126). For yet other associated divinities, cp. <bibl type="abbr" n="IvP III">IvP III</bibl> 161, which gives a good idea of the divinities present in the Asklepieion of Pergamon in the second century AD, although we cannot be certain that these deities were present three centuries before. For the deity or deities "dwelling in the sanctuary" of Asclepius, cp. also here <ref target="CGRN_89">CGRN 89</ref> (Amphipolis), line 14.</p>
+
+				<p>Lines 9-10: According to Pausanias (2.26.8), the cult of Asclepius was introduced in Pergamon by Archias son of Aristaichmos in the fourth century BC (Allen). At the start of the second century BC, an Archias son of Asklepiades was sent as priest of the god to the Epidaurian Asklepieia (<bibl type="abbr" n="IG IV². 1">IG IV².1</bibl> 60). Thus, this decree seems to confirm, rather than grant, the holding of the priesthood to this lineage (Allen); Stavrianopoulou counted that twenty two men from this family actually held the priesthood without interruption.</p>
+
+				<p> Lines 11-12 (idem 22): The action of wearing a crown (στεφανηφορεῖν) here defines the priest in his function. In other priestly contracts, the wearing of a crown is stipulated only on special occasions, such as during religious festivals, <ref target="CGRN_176">CGRN 176</ref> (Priene), lines 20-24. At Pergamon especially, it seems that the wearing of a crown was a durative marker of the priestly office, cp. <ref target="CGRN_124">CGRN 124</ref>, lines 16-18. Concerning the garment of priests of Asclepius, cf. Edelstein - Edelstein II, p. 192 n. 5.</p>
+
+				<p> Line 15: Offerings placed on the cult table commonly ended up as the perquisite of the priest. For the description of these offerings placed on the cult table as παρατιθέμενα, cp. e.g. <ref target="CGRN_14">CGRN 14</ref> (Gortyn), lines 9-12, <ref target="CGRN_102">CGRN 102</ref> (Athens), line 15, and <ref target="CGRN_175">CGRN 175</ref> (Priene), line 14.</p>
+
+				<p> Line 16: For this use of καρπεύω, meaning that the priest has the usufruct of the property belonging to the sanctuary, cf. <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 18-19, 28, and <ref target="CGRN_167">CGRN 167</ref> (Kos), lines 18-20. </p>
+
+				<p> Lines 22-23: In Athens too, the priest of Asclepius had the right of proedry (<bibl type="abbr" n="IG II²">IG II²</bibl> 5045); the privilege of front row seating was often granted to priests, cf. here e.g. <ref target="CGRN_176">CGRN 176</ref> (Priene), lines 13-19.</p>
+
+				<p> Line 26: The ἱεροὶ παῖδες were probably slaves belonging and devoted to the sanctuary (Fraenkel, Sokolowski); Edelstein - Edelstein II, p. 194 n. 10, suggest that they perhaps formed a choir which performed hymns, in addition to fulfilling more manual tasks, such as cleaning the sanctuary. On the notion of ὁσιότης, cf. Peels 2016.</p>
+
+				<p>Lines 29-30: For the oath-sacrifice, cp. <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 12 and 52. The sacrifice to Zeus is unsurprising, for Zeus is the guarantor of oaths par excellence, and commonly appealed to with the epithets Horkios and Ephorkios. For the central role of Zeus in the agora, cf. also here <ref target="CGRN_13">CGRN 13</ref> (Selinous), line B10.</p>
+
+				<p>Line 31: Concerning the body of civic magistrates, known as <foreign>timouchoi</foreign>, cf. Robert 1928 and cp. here <ref target="CGRN_175">CGRN 175</ref> (Priene), lines 30-32.</p>
+
+				<p>Lines 39-41: The present inscription must be the second copy of the decree, since it was found near the temple of Athena on the acropolis of Pergamon (on this temple of Athena / Nikephorion, see <ref target="CGRN_212">CGRN 212</ref>); the other copies have not surfaced. Another inscription found at the Asklepieion of Mytilene is a treaty between Eumenes I and the mercenaries of Philetaira and Attaleia (<bibl type="abbr" n="IvP I">IvP I</bibl> 13); this therefore testifies to the influence of the Lesbian sanctuary in the Hellenistic period and its important relation to nearby Pergamon (cf. Robert 1925: 234-235).</p>
+			</div>
+		</body>
+	</text>
+</TEI>

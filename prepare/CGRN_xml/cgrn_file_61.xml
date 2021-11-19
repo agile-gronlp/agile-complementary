@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_61" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 61</idno>: Fragment of a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> from Athens containing rules about priestly portions and tariffs
+	    			</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of a <rs type="objectType" key="stele">stele</rs>, with only the left
+margin and the bottom intact.</p>
+				<p><dimensions>
+					<height unit="cm">31</height>
+					<width unit="cm">26</width>
+					<depth unit="cm">11.3</depth>
+					</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Non-stoichedon.</p>
+				<p>Letters: <height unit="mm">9</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0375" notAfter="-0350">ca. 350 BC</origDate></p>
+			<p><desc>Justification: lettering (Kirchner).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885/" type="external">Athens</ref></placeName>. Presumed to be found on the
+Acropolis where it was once displayed. Now in the National Museum.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition based on Kirchner <bibl type="abbr" n="IG II²">IG II²</bibl> 1359.</p>
+		
+<p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 25 (on the basis of von Prott's copy); Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 29.</p>
+		
+<p>Further bibliography: <bibl type="author_date" n="Jim 2014">Jim 2014</bibl>.
+		
+		</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>				
+	    			
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+		
+	    					
+<lb xml:id="line_1" n="1" break="no"/><unclear>τ</unclear>ων <name type="portion"><w lemma="καταρχή">κα<unclear>τ</unclear>α<unclear>ρχ</unclear><supplied reason="lost">ὴν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_2" n="2"/><name type="personnel"><w lemma="ἱερώσυνος">ἱερειώσυνα</w></name> <w lemma="ὅδε">τάδε</w> <gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="δέρμα"><supplied reason="lost">δέρ</supplied>
+	    					
+<lb xml:id="line_3" n="3" break="no"/>ματα</w></name>, <name type="portion"><w lemma="σκέλος">σκέλος</w></name> τῆς <orig>η</orig><gap reason="lost" extent="unknown" unit="character"/>	    					
+	    					
+<lb xml:id="line_4" n="4"/><orig>α</orig> <name type="portion"><w lemma="σάρξ">σάρκας</w></name> <w lemma="ἕκαστος">ἑκάστης</w> <orig>τ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					    					
+<lb xml:id="line_5" n="5"/><orig>ν</orig> <name type="animal" key="sheep"><name type="age"><w lemma="ἀμνός">ἀμνῶν</w></name></name>, <name type="portion"><w lemma="σκέλος">σκέλος</w></name> <w lemma="ἕκαστος">ἑκασ<supplied reason="lost">τ</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_6" n="6"/><w lemma="ἐπί">ἐπὶ</w> <name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name> <name type="portion"><w lemma="καταρχή"><add place="overstrike">καταρχὴ</add><supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="generic"><name type="age"><w lemma="γαλαθηνός"><supplied reason="lost">γαλα</supplied>
+	    					    					
+	<lb xml:id="line_7" n="7" break="no"/><add place="overstrike">θηνοῦ</add></w></name></name> <add place="overstrike"><pc>∶</pc><num value="1.5">ΙU+10141</num><pc>∶</pc></add>
+<add place="overstrike"><name type="portion"><w lemma="δίδωμι">διδόναι</w></name> δὲ καὶ
+<orig>τ</orig></add><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_8" n="8"/><add place="overstrike"><name type="portion"><w lemma="σκέλος">σκέλος</w></name>, <name type="portion"><w lemma="πλευρόν">πλευρόν</w></name>,</add> <name type="portion"><w lemma="ἡμίκραιρα"><add place="overstrike">ἡμίκραιρα</add><supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_9" n="9"/>τὴν <name type="portion"><w lemma="καταρχή">καταρχήν</w></name>. <space quantity="1" unit="line"/>
+	    					
+<lb/><space quantity="1" unit="line"/>
+	    					
+	    				</ab>
+	    				</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+	    				<p>[...] of [...] a first-offering. Priestly perquisites (are) the following: [...] skins, a leg of the [...] portions of flesh of each [...] (5) of lambs, a leg of each [...] on the table a first-offering [...] for a suckling animal, 1.5 obol. And give also from [...] a leg, a side (or rib), a half-head [...] the first-offering.</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head> 
+					<p>[...] de [...] une offrande préliminaire. Voici les émoluments du prêtre : [...] les peaux, une patte de [...] des parts de chair de chaque [...] (5) d'agneaux, une patte de chaque [...], sur la table, une offrande préliminaire [...] pour un animal de lait, 1½ obole. Et donner aussi de [...] une patte, un côté (ou une côte), une demi tête [...] l'offrande préliminaire.
+
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+					
+<p>The context of the document is regrettably lost, though intriguingly it was once on the Acropolis, which may point to a connection with civic cults or a subcivic group. Given that it is so fragmentary, its precise character also remains to some degree uncertain. In terms of its content, lines 2-6 appears to have contained lists of sacrificial portions as priestly perquisites (ἱερειώσυνα τάδε, line 2), some of which seem to have been offerings "on the table" (line 6; see line 1 for discussion). In the following lines (6-7), the text apparently specifies sacrificial tariffs, i.e. sums to be deposited in the money-box depending on the animal sacrificed (for such tariffs, see here <ref target="CGRN_70">CGRN 70</ref>, Oropos, lines 5-9). This list (or lists) may have been organised by type of sacrificial animal, but in our inscription only the lambs (gen. pl. in line 5) have been preserved. The lost top part of the inscription may have contained another list of sacrificial portions (only the "first-offering", καταρχή, in line 1 is preserved, cp. the same word in line 6; and see line 1 for discussion), while in the last lines of the inscription (lines 6-8), yet more priestly perquisites (among which again a "first-offering", καταρχή, line 8) are seemingly specified. These last lines apparently corresponded to the end of the document as whole, since line 8 concludes with empty space. Note that this final section of the lists (lines 6-8) has been revised at some point (text struck over an erasure). </p> 
+						
+<p>Even if we are correct in presuming that the text contained at least three different list of sacrificial portions as perquisites, as well as rules for sacrificial tariffs, the relationship between these elements remains enigmatic. Given its content, this text perhaps resembles most closely one regulation for the orgeones of Bendis in the Piraeus, <bibl type="abbr" n="IG II²">IG II²</bibl> 1361 (ca. 350-300 BC), which combines lists of priestly perquisites with tariffs, though it also bears much similarity with the account from Aixone, <ref target="CGRN_57">CGRN 57</ref>, which lists priestly perquisites alongside portions to be set "on the table". In the account from Aixone, a distinction is made between the emoluments for various priests serving different gods; perhaps a similar division is to be envisaged here. For a much more copiously restored text, see Sokolowski, but since neither the length of the lines nor the precise nature of this document can be established, more caution is thus warranted (cf. lines 6-8).</p>
+
+<p>Line 1: The term καταρχή is rare, seemingly attested only here and in an inscription from Pergamon, cf. <title>MDAI(A)</title> 35 (1910) 409 no. 3 (ca. 75-50 BC), line 9: [κ]αὶ ποιήσασθαι τὴν καταρχὴν̣ ἀπὸ τῆς εἰς ... Sokolowski interprets the term in contrast with the ἱερώσυνα, thinking of a distinction between amounts for tariffs and portions in kind; there is no evidence for this view. Jim (p. 42-45 with n. 62) holds that κατάρχεσθαι only refers to pre-kill first-fruits like hair cut from the animal and sprinkled grains (for this sense, see probably here <ref target="CGRN_84">CGRN 84</ref>, Salaminioi, lines 61-62: τὸ δὲ πρόθυμα το͂ ἁμίλλο ἐμ μέρ|ει ἑκατέρος κατάρχεσθαι). Yet the verb can probably also refer to more tangible or sizeable offerings, such as small portions of meat cut from the animal. Especially here, a καταρχή, apparently placed on the table (cf. line 6), must almost certainly be of a different character and of greater value, more like other first-offerings placed on tables (cp. the terms ἐπαρχή and ἀπαρχή). For table-offerings, see here e.g. <ref target="CGRN_13">CGRN 13</ref> (Selinous), lines A15-16; cp. also <ref target="CGRN_129">CGRN 129</ref> (Patara), line 4, for first-fruits given to priests. 
+</p>			
+
+<p>Line 4: Sokolowski think of the portions in lines 2-4 as deriving from oxen. In this, he may be correct
+ (though his restorations are probably misleading). The term σάρξ refers generally to "flesh" or "meat" (of humans and animals, note e.g. its use for the human flesh in Homer, <title>Il.</title> 8.380 and <title>Od.</title> 9.293). However, in ritual norms this word is recurrently used as a technical term for (equally?) divided portions of beef: cf. here <ref target="CGRN_26">CGRN 26</ref> (Athens), lines B13-14: [ἐὰ]ν δὲ βο̑ς θύεται, σάρ[κας], and <ref target="CGRN_84">CGRN 84</ref> (Salaminioi), line 33: βοὸς δὲ ἐννέα σάρκας καὶ τὸ δέρμα.</p>
+
+<p>Lines 6-7: For "suckling" animals, see again esp. <bibl type="abbr" n="IG II²">IG II²</bibl> 1361 (lines 4-5: γαλαθηνοῦ μὲν ∶ΙU+10141... τοῦ δὲ τελέου ⋮ΙΙ∶ ), and also here
+e.g. <ref target="CGRN_21">CGRN 21</ref> (Athens), lines 9 and 14. In <ref target="CGRN_64">CGRN 64</ref> (Epidauros), lines 7-8, the term ἁπαλίας is used for a "suckling pig". </p>
+
+<p>Line 8: The portions listed here, namely a leg, a rib (or side) and a half-head, closely match other
+standard lists of priestly perquisites in Attica: cf. <ref target="CGRN_57">CGRN 57</ref> (Aixone), <ref target="CGRN_74">CGRN 74</ref>, lines 5-8, and <ref target="CGRN_103">CGRN 103</ref> (Phrearrhioi), lines 5, 20-21 with further discussion. It is possible that, as at Aixone, the half-head may have been one of tripe (hence suggesting the restoration [χορδῆς]), but this is by no means assured, since an actual half of the head of the animal could also be given (e.g. at Phrearrhioi).</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

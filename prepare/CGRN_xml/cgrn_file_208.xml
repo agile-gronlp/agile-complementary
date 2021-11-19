@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_208" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 208</idno>: <rs type="textType" key="priestly contract">Contract</rs> of sale for the priesthood of Homonoia on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Stéphanie Paul</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> <rs type="objectType">Stele</rs> of white marble broken on the top.</p>
+	<p><dimensions>
+	<height unit="cm">82</height>
+	<width unit="cm">55.5</width>
+	<depth unit="cm">10.5</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p>Letters: <height unit="cm">0.7</height>. Space between lines: <height unit="cm">0.5</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0150" notAfter="-0101">ca. 150-101 BC</origDate></p>
+							<p><desc> Justification: Lettering (Bosnakis - Hallof).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found on an unknown location. Now in the storage rooms (inv. no. E 344). </p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+
+	    			<p> Edition here based on Bosnakis - Hallof - Rigsby <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 315.</p>
+	    			<p> Other edition:
+	    				<bibl type="author_date" n="Bosnakis - Hallof 2005">Bosnakis - Hallof 2005</bibl>: no. 20.
+	    			</p>
+
+	    			<p> Cf. also:
+
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 55, 931; REG 2006 <bibl type="abbr" n="BE">BE</bibl> no. 317; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20315" type="external">IG-online</ref>, with the Greek text and a translation in German.
+	    			</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Thériault 1996">Thériault 1996</bibl>: 134-136;
+	    				<bibl type="author_date" n="Livadiotti - Rocco 2001">Livadiotti - Rocco 2001</bibl>;
+	    				<bibl type="author_date" n="Feyel 2006">Feyel 2006</bibl>;
+	    				<bibl type="author_date" n="Feyel 2009">Feyel 2009</bibl>: 303-334;
+	    				<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 145-150.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="line"/>
+
+<lb xml:id="line_2" n="2"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ΟΝΟΣ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_3" n="3"/> <gap reason="lost" extent="unknown" unit="character"/> τοῦ δικαστ<gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_4" n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="μή"><unclear>μὴ</unclear></w> <w lemma="ἐλάσσων">ἐλάσσονος</w> <w lemma="ἄξιος">ἄξιον</w> <w lemma="δραχμή">δραχμᾶν</w> <orig>τ̣</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_5" n="5"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τοὶ</supplied> <name type="title"><w lemma="προστάτης"><supplied reason="lost">πρ</supplied>ο<supplied reason="lost">σ</supplied><unclear>τ</unclear>άται</w></name> <w lemma="ἐπικληρόω">ἐπικλαρούντω</w> <w lemma="ἐπί">ἐπὶ</w> <name type="group"><w lemma="φυλή">φυλὰν</w></name> καὶ <name type="group"><w lemma="δῆμος">δᾶμ<supplied reason="lost">ον</supplied></w></name> <gap reason="lost" quantity="4" unit="character"/>
+
+<lb xml:id="line_6" n="6"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">κ</supplied>αὶ <name type="group"><w lemma="τριακάς">τ<unclear>ρια</unclear>κ<unclear>ά</unclear>δα</w></name>, <w lemma="εἰ">αἴ</w> <w lemma="κα">κα</w> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> <w lemma="ἀντιφωνέω">ἀντιφωνῆι</w> <w lemma="αὐτός">αὐτοῖς</w> τὰν <name type="sacrifice"><w lemma="θυσία">θυσ<supplied reason="lost">ί</supplied>
+
+<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">αν</supplied></w></name> <w lemma="ἐπιτελέω"><supplied reason="lost">ἐπιτετε</supplied><unclear>λ</unclear>έ<unclear>σ</unclear><supplied reason="lost">θ</supplied><unclear>α</unclear>ι</w>· <w lemma="εἰ">α<unclear>ἰ</unclear></w> <supplied reason="lost">δέ</supplied> <w lemma="κα">κ<unclear>α</unclear></w> <w lemma="ἐπικληρόω">ἐπι<unclear>κ</unclear>λαρ<unclear>ώ</unclear>σωντ<supplied reason="lost">ι</supplied></w> <w lemma="μή">μὴ</w> <w lemma="ἀντιφωνέω">ἀντιφωνήσαντος</w> τοῦ
+
+<lb xml:id="line_8" n="8"/> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱερέως</supplied></w></name>, <name type="punishment"><w lemma="ἀποτίνω"><unclear>ἀπ</unclear>οτεισάντω</w></name> <w lemma="ἐπιτίμιον">ἐπιτίμιον</w> τ<supplied reason="lost">ῶ</supplied>ι <name type="title"><w lemma="τειχοποιία">τε<unclear>ιχ</unclear>ο<unclear>π</unclear>οίαι</w></name> <w lemma="δραχμή">δραχμὰς</w> <w lemma="χίλιοι">χειλίας</w> <w lemma="ἐν">ἐ<unclear>ν</unclear></w>
+
+<lb xml:id="line_9" n="9"/> <w lemma="εὔθυνα"><supplied reason="lost">εὐ</supplied>θύναις</w>· <name type="sacrifice"><w lemma="θύω">θυόντ<unclear>ω</unclear></w></name> <unclear>δὲ</unclear> <unclear>κ</unclear><supplied reason="lost">αὶ ὁ</supplied> <name type="title"><w lemma="γυμνασίαρχος">γυμνασίαρχος</w></name> καὶ <unclear>ὁ</unclear> <name type="title"><w lemma="ἀγωνοθέτης">ἀγωνοθέτας</w></name> <w lemma="ἕκαστος">ἕκαστος</w>
+
+<lb xml:id="line_10" n="10"/> <w lemma="αὐτός">αὐτῶν</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλειον</w></name> <w lemma="ἀπό">ἀπὸ</w> <w lemma="δραχμή">δραχμᾶν</w> <w lemma="εἴκοσι">εἴκοσι</w> <w lemma="πέντε">πέντε</w>, <w lemma="ἐπεί">ἐπεί</w> <w lemma="κα">κα</w> <w lemma="αἱρέω">αἱρεθέωντι</w>·
+
+<lb xml:id="line_11" n="11"/> <w lemma="κατά">κατὰ</w> <w lemma="οὗτος">ταὐτὰ</w> δὲ <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> καὶ τοὶ <w lemma="αἱρέω">αἱρεύμενοι</w> <name type="personnel"><w lemma="ἱεροφύλαξ">ἱεροφύλακες</w></name> τοὶ μὲν τὰν <w lemma="χειμερινός">χει
+
+<lb xml:id="line_12" n="12" break="no"/>μερινὰν</w> <w lemma="ἄρχω">ἄρχοντες</w> <name type="month"><w lemma="θεοδαίσια">Θε<supplied reason="lost">υ</supplied>δαισίου</w></name> <w lemma="ἔνατος"><unclear>ἐ</unclear><supplied reason="lost">ν</supplied><unclear>άτ</unclear>αι</w>, τοὶ δὲ τὰν <w lemma="θερινός">θερινὰν</w> <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίου</w></name> <w lemma="τεσσαρακαιδέκατος">τέσ
+
+<lb xml:id="line_13" n="13" break="no"/>σαρεσκαιδεκάται̣</w> <w lemma="ἕκαστος">ἕκαστοι̣</w> <w lemma="αὐτός"><unclear>α</unclear><supplied reason="lost">ὐ</supplied>τῶ<unclear>ν</unclear></w> <name type="animal" key="sheep"><w lemma="ὄϊς"><supplied reason="lost">ο</supplied>ἶν</w></name> <w lemma="πρός">π<supplied reason="lost">ο</supplied>τὶ</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="εἴκοσι">εἴκοσι</w> <w lemma="πέντε">πέντε</w>· <w lemma="ὅμοιος">ὁμοί
+
+<lb xml:id="line_14" n="14" break="no"/>ως</w> δὲ <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> καὶ <w lemma="ὅσος">ὅσοι</w> <w lemma="αἱρέω">α<supplied reason="lost">ἱρεῦ</supplied>νται</w> <w lemma="πᾶς">πάντες</w>, <w lemma="ἐπεί">ἐπεί</w> <w lemma="κα">κα</w> <w lemma="εἰς">ἐς</w> τὰν <w lemma="ἀρχή">ἀρχὰν</w> <w lemma="εἰσπορεύω">ἐσπο
+
+<lb xml:id="line_15" n="15" break="no"/>ρεύωνται</w>, <w lemma="κατά">καθ᾿</w> <w lemma="ἕκαστος">ἑκάσταν</w> <name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλειον</w></name> <w lemma="ἀπό">ἀπὸ</w> <w lemma="δραχμή">δραχμᾶν</w> <w lemma="εἴκοσι">εἴκοσι</w>
+
+<lb xml:id="line_16" n="16"/> <w lemma="πέντε">πέντε</w>· <w lemma="κατά">κατὰ</w> <w lemma="αὐτός">ταὐτὰ</w> δὲ <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> καὶ τοὶ <name type="title"><w lemma="προστάτης">προστάται</w></name> <w lemma="κατά">κατὰ</w> τὰν <name type="festival"><w lemma="πενταετηρίς">πενταετηρίδα</w></name>
+
+<lb xml:id="line_17" n="17"/> τὰν <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκλαπιείων</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="animal" key="ox"><w lemma="βοεικός">βοϊκὸν</w></name> <w lemma="ἀπό">ἀπὸ</w> <w lemma="δραχμή">δραχμᾶν</w> <w lemma="διακόσιοι">διακοσιᾶν</w> <w lemma="πεντήκοντα">πεντή
+
+<lb xml:id="line_18" n="18" break="no"/>κοντα</w>· ὁ <w lemma="ἀεί">ἀεὶ</w> <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> τὰ <name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name> <w lemma="πᾶς">πᾶσι</w> τοῖς <name type="sacrifice"><w lemma="θύω">θύουσιν</w></name> <w lemma="ἐπί">ἐπὶ</w> τοῦ <name type="structure"><w lemma="βωμός">βωμοῦ</w></name> <w lemma="ἐπιτίθημι">ἐπιτιθέτω</w> <w lemma="ὅς">οἷς</w> δὲ <w lemma="προστάσσω">πο
+
+<lb xml:id="line_19" n="19" break="no"/>τιτέτακται</w> <name type="sacrifice"><w lemma="θύω">θύεν</w></name> τᾶι <name type="deity" key="Homonoia"><w lemma="ὁμόνοια">Ὁμονοίαι</w></name> <w lemma="κατά">κατὰ</w> <w lemma="ὅδε">τάνδε</w> τὰν <name type="authority"><w lemma="διαγραφή">διαγραφάν</w></name>· <w lemma="εἰ">αἴ</w> <w lemma="κα">κα</w> <w lemma="μή">μὴ</w> <name type="sacrifice"><w lemma="θύω">θύσων
+
+<lb xml:id="line_20" n="20" break="no"/>τι</w></name>, <name type="punishment"><w lemma="ὀφείλω">ὀφειλόντω</w></name> <w lemma="ἐπιτίμιον">ἐπιτίμιον</w> τῶι μὲν <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> τοῦ <name type="portion"><w lemma="μέρος">μέρους</w></name> <w lemma="δραχμή">δραχμὰς</w> <w lemma="τριάκοντα">τριάκοντα</w>
+
+<lb xml:id="line_21" n="21"/> <unclear>κ</unclear>αὶ ἡ <w lemma="πρᾶξις">πρᾶξ̣ις</w> <w lemma="εἰμί">ἔστω</w> τῶι <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> <unclear>κ</unclear>αὶ <w lemma="ἄλλος">ἄ<supplied reason="lost">λ</supplied>λ<supplied reason="lost">ωι</supplied></w> τῶν <w lemma="τελέω">τελεσάντων</w> τὰς <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> <w lemma="καθάπερ">καθά
+
+<lb xml:id="line_22" n="22" break="no"/>περ</w> <w lemma="ἐκ"><unclear>ἐ</unclear>κ</w> <name type="authority"><w lemma="δίκη">δίκα<supplied reason="lost">ς</supplied></w></name>· τᾶι δὲ <name type="deity" key="Homonoia"><w lemma="θεά">θεᾶι</w></name> <name type="punishment"><w lemma="τίνω"><supplied reason="lost">τ</supplied>ει<unclear>σ</unclear><supplied reason="lost">ά</supplied>ντ<unclear>ω</unclear></w></name> <w lemma="ἐπιτίμιον">ἐπιτίμιον</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="πεντήκοντα">πεντήκοντα</w>,
+
+<lb xml:id="line_23" n="23"/> <supplied reason="lost">ἁ</supplied> δὲ <w lemma="πρᾶξις">πρᾶξις</w> <w lemma="εἰμί">ἔστω</w> <w lemma="ὑπέρ"><unclear>ὑπ</unclear>ὲ<unclear>ρ</unclear></w> τᾶς <name type="deity" key="Homonoia"><w lemma="θεός">θεοῦ</w></name> τῶι τε <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> καὶ <w lemma="ἄλλος">ἄλλωι</w> τῶι <w lemma="χρῄζω">χρῄζοντι</w>
+
+<lb xml:id="line_24" n="24"/> καὶ <w lemma="εἰμί">ἔστω</w> <w lemma="εἰς">ἐς</w> <w lemma="κατασκευή">κατα<unclear>σκ</unclear>ευὰν</w> <name type="object"><w lemma="ἀργύρωμα">ἀργυρωμάτων</w></name>· τὰ δὲ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> τὰ <name type="sacrifice"><w lemma="θύω">θυόμενα</w></name> τᾶι
+
+<lb xml:id="line_25" n="25"/> <name type="deity" key="Homonoia"><w lemma="ὁμόνοια">Ὁμονοίαι</w></name> <w lemma="δοκιμάζω">δο<supplied reason="lost">κ</supplied>ιμ<unclear>ασ</unclear><supplied reason="lost">θέν</supplied>τ̣<supplied reason="lost">ω</supplied></w> <w lemma="πᾶς"><unclear>π</unclear>άντα</w> <w lemma="ὑπό"><unclear>ὑ</unclear>πό</w> τε τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name> καὶ τῶν <name type="personnel"><w lemma="ἐξηγητής">ἐξαγητᾶν</w></name> <w lemma="ὅσος">ὅσ
+
+<lb xml:id="line_26" n="26" break="no"/>σοις</w> τοὶ <name type="title"><w lemma="ταμίας">ταμίαι</w></name> <w lemma="διαγράφω">διαγράφοντι</w> <w lemma="εἰς">ἐς</w> τὰς <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name>· ὁ δὲ <w lemma="πρίαμαι">πριάμενος</w> τὰν <w lemma="ἱερωσύνη">ἱε
+
+<lb xml:id="line_27" n="27" break="no"/>ρωσύναν</w> <w lemma="ποιέω">ποιησεῖται</w> <w lemma="καταβολή">καταβολὰς</w> τοῦ <w lemma="εὕρημα">εὑρέματος</w> <w lemma="ἐπί">ἐπὶ</w> τὸς <name type="title"><w lemma="ταμίας">ταμίας</w></name>
+
+<lb xml:id="line_28" n="28"/> <w lemma="τρεῖς">τρεῖς</w>, τὰν μὲν <w lemma="πρότερος">πράταν</w> <w lemma="μείς">ἐμηνὶ</w> <name type="month"><w lemma="Ἄλσειος">Ἀλσείωι</w></name> τῶι <w lemma="ἐπί">ἐπὶ</w> <w lemma="ἀριστόβουλος">Ἀριστοβούλου</w>, τὰν δὲ
+
+<lb xml:id="line_29" n="29"/> <w lemma="δεύτερος">δευτέραν</w> <w lemma="ἐν">ἐ<unclear>μ</unclear></w> <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Γεράστιος">Γεραστίωι</w></name> τῶι <w lemma="μετά">μετὰ</w> <name type="title"><w lemma="μόναρχος">μόναρχον</w></name> <w lemma="ἀριστόβουλος">Ἀριστόβουλον</w> <w lemma="ὅς">ὅς</w>
+
+<lb xml:id="line_30" n="30"/> <w lemma="κα">κα</w> <w lemma="γίγνομαι">γένηται</w> <w lemma="πρότερος">πρᾶτος</w>, τὰν δὲ <w lemma="τρίτος">τρίταν</w> <w lemma="ἐν">ἐμ</w> <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Ἄλσειος">Ἀλσείωι</w></name> τῶι <w lemma="ἐπί">ἐπὶ</w> τοῦ <w lemma="αὐτός">αὐτοῦ</w>
+
+<lb xml:id="line_31" n="31"/> <name type="title"><w lemma="μόναρχος">μονάρχου</w></name>· <w lemma="ὅς"><supplied reason="lost">ὅ</supplied></w> <w lemma="τις">τι</w> δέ <w lemma="κα">κα</w> <w lemma="μή">μὴ</w> <w lemma="ἀποδίδωμι">ἀποδῶι</w> <w lemma="ἐν">ἐν</w> τοῖς <w lemma="χρόνος">χρόνοις</w> τοῖς <w lemma="γράφω">γεγραμμένοις</w>
+
+<lb xml:id="line_32" n="32"/> <w lemma="κατά">κατὰ</w> <w lemma="ὅδε">τάνδε</w> τὰν <name type="authority"><w lemma="διαγραφή">διαγραφάν</w></name>, <name type="punishment"><w lemma="ὀφείλω">ὀφειλέτωι</w></name> <w lemma="διπλάσιος">διπλάσιον</w> καὶ ἁ <w lemma="ἱερωσύνη">ἱερωσύνα</w> <w lemma="ἀναπωλέω">ἀνα
+
+<lb xml:id="line_33" n="33" break="no"/>πωληθήτω</w> <w lemma="ὑπό">ὑπὸ</w> τῶν <name type="title"><w lemma="πωλητής">πωλητᾶν</w></name>· <w lemma="ὅπως">ὅπως</w> δὲ <w lemma="ἐπιφανής">ἐπιφανεστέρα</w> ἁ <w lemma="ἱερωσύνη">ἱερωσύνα</w> <w lemma="γίγνομαι">γέ
+
+<lb xml:id="line_34" n="34" break="no"/>νηται</w> <w lemma="πρός">ποτ<unclear>ὶ</unclear></w> <w lemma="πᾶς"><unclear>π</unclear>άντα</w> <w lemma="κατασκευάζω">κατασκευασθέντων</w> <w lemma="αὐτός">αὐτᾶι</w> καὶ <name type="object"><w lemma="ἀργύρωμα">ἀργυρωμάτων</w></name> <w lemma="πρός">ποτὶ</w>
+
+<lb xml:id="line_35" n="35"/> <unclear>τ</unclear>ὰς <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> τὰς <w lemma="γίγνομαι">γινομένας</w> καὶ ὁ <name type="group"><w lemma="δῆμος">δᾶμος</w></name> <w lemma="φαίνω">φαίνηται</w> <w lemma="προνοέω">προνοῶν</w> καὶ <w lemma="ἐν">ἐν</w> <w lemma="οὗτος">το<unclear>ύ</unclear>
+
+<lb xml:id="line_36" n="36" break="no"/> τοις</w> τᾶς <w lemma="πρός">ποτί</w> τε <w lemma="αὐτός">αὐτὰν</w> καὶ τὸς <name type="group"><w lemma="πολίτης">πολίτας</w></name> <w lemma="ὁμόνοια">ὁμονοίας</w>, τοὶ <name type="title"><w lemma="ταμίας">ταμίαι</w></name> <w lemma="ὑπολείπω">ὑπολιπόμ<supplied reason="lost">ε</supplied>
+
+<lb xml:id="line_37" n="37" break="no"/> νοι</w> <w lemma="ἐν">ἐλ</w> <w lemma="λόγος">λόγωι</w> τὸ <w lemma="δέκατος">δέκατον</w> <w lemma="μέρος">μέρος</w> τοῦ <w lemma="εὕρημα">εὑρέματος</w> τᾶς <w lemma="ἱερωσύνη">ἱερωσύνας</w> <w lemma="καταχράομαι">καταχρήσ
+
+<lb xml:id="line_38" n="38" break="no"/>θων</w> <w lemma="εἰς">ἐς</w> <w lemma="κατασκευή">κατασκευὰν</w> <name type="object"><w lemma="ἀργύρωμα">ἀργυρωμάτων</w></name> <w lemma="ὅς">ὧν</w> <w lemma="κα">κα</w> <w lemma="ἀπολογίζομαι">ἀπολογίξηται</w> ὁ <name type="title"><w lemma="ἀρχιτέκτων">ἀρχιτέκτων</w></name>,
+
+<lb xml:id="line_39" n="39"/> <w lemma="πρός">ποθ᾿</w> ὃ καὶ <w lemma="ποιέω">ποιησάσθω</w> τὸν <w lemma="ἀπολογισμός">ἀπολογισμὸν</w> <w lemma="ἔσχατος">ἔσχατον</w> τοῦ <name type="month"><w lemma="Κάρνειος">Καρνείου</w></name> <w lemma="μείς">μηνὸς</w>
+
+<lb xml:id="line_40" n="40"/> τοῦ <w lemma="ἐπί">ἐπὶ</w> Ἀριστοβούλου τᾶι <w lemma="δέκατος">δεκάται</w>· τοὶ δὲ <name type="title"><w lemma="προστάτης">προστάται</w></name> <w lemma="εἰσφέρω">ἐσενεγκάντω</w> τὸν
+
+<lb xml:id="line_41" n="41"/> <w lemma="ἀπολογισμός">ἀπολογισμὸν</w> <w lemma="εἰς">ἐς</w> μὲν τὰν <name type="group"><w lemma="βουλή">βουλὰν</w></name> τοῦ <w lemma="αὐτός">αὐτοῦ</w> <w lemma="μείς">μηνὸς</w> τᾶι <w lemma="πεντεκαιδέκατος">πεντεκαιδεκά
+
+<lb xml:id="line_42" n="42" break="no"/>ται</w>, <w lemma="εἰς">ἐς</w> δὲ τὰν <name type="group"><w lemma="ἐκκλησία">ἐκλησίαν</w></name> τοῦ αὐτοῦ <w lemma="μείς">μηνὸς</w> τᾶι <w lemma="ἑκκαιδέκατος">ἑκκαιδεκάται</w>· τὸ δὲ <w lemma="λοιπός">λοιπὸν</w>
+
+<lb xml:id="line_43" n="43"/> <w lemma="ἀργύριον">ἀργύριον</w> τοὶ <name type="title"><w lemma="ταμίας">ταμίαι</w></name> <w lemma="καταχράομαι">καταχρήσθων</w> <w lemma="εἰς">εἰς</w> τὰ <w lemma="διατάσσω">διατεταγμένα</w>· τοὶ δὲ <w lemma="ἐν">ἐν</w> <w lemma="ἀρχή">ἀρχᾶι</w>
+
+<lb xml:id="line_44" n="44"/> <w lemma="εἰμί">εὖντες</w> <name type="title"><w lemma="προστάτης">προστάται</w></name> <w lemma="ἐπιστάτης">ἐπιστάταν</w> <w lemma="αἱρέω">ἑλέσθων</w> τᾶι <w lemma="ἑκκαιδέκατος">ἐκκαιδεκάται</w> τοῦ <name type="month"><w lemma="Ἄλσειος">Ἀλσείου</w></name>
+
+<lb xml:id="line_45" n="45"/> <w lemma="μείς">μηνὸς</w> <w lemma="ἐπί">ἐπὶ</w> τὰν <w lemma="κατασκευή">κατασκευὰν</w> τῶν <name type="object"><w lemma="ἀργύρωμα">ἀργυρωμάτων</w></name>, τοὶ δὲ <name type="title"><w lemma="ταμίας">ταμίαι</w></name> <w lemma="διαγράφω">διαγρα
+
+<lb xml:id="line_46" n="46" break="no"/>ψάντω</w> <w lemma="αὐτός">αὐτῶι</w> τὸ <w lemma="ὑπολείπω">ὑπολειφθὲν</w> <w lemma="παρά">παρ᾿</w> <w lemma="αὐτός">αὐτοῖς</w> <w lemma="δέκατος">δέκατον</w> τοῦ <w lemma="εὕρημα">εὑρέματος</w> <w lemma="ἀπό">ἀπὸ</w> τᾶς
+
+<lb xml:id="line_47" n="47"/> <w lemma="ἱερωσύνη"><supplied reason="lost">ἱε</supplied>ρωσύνας</w>· <w lemma="ἐπεί">ἐπεὶ</w> δέ <w lemma="κα">κα</w> <w lemma="κατασκευάζω">κατασκευασθῆι</w> τὰ <w lemma="ἀπολογίζομαι">ἀπολογισθέντα</w> <w lemma="ὑπό">ὑπὸ</w> τοῦ <name type="title"><w lemma="ἀρχιτέκτων">ἀρχιτέ
+
+<lb xml:id="line_48" n="48" break="no"/> <supplied reason="lost">κ</supplied>τονος</w></name> καὶ <w lemma="δοκιμάζω">δοκιμασθῆι</w> <w lemma="ὑπό">ὑπὸ</w> τοῦ <name type="title"><w lemma="δοκιμαστής">δοκιμαστᾶ</w></name> <w lemma="ἐπιγράφω">ἐπιγράψας</w> ὁ <name type="title"><w lemma="ἐπιστάτης">ἐπιστάτας</w></name> <w lemma="ἐπί">ἐπὶ</w> τῶν
+
+<lb xml:id="line_49" n="49"/> <name type="object"><w lemma="ἀργύρωμα"><unclear>ἀ</unclear>ργυρωμάτων</w></name> "<name type="group"><w lemma="πόλις">πόλιος</w></name> <w lemma="ἐκ">ἐκ</w> <placeName key="Kos"><ref target="http://pleiades.stoa.org/places/599581"/><w lemma="Κῶς">Κῶ</w></placeName>· <name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name> <name type="deity" key="Homonoia"><w lemma="ὁμόνοια">Ὁμονοίας</w></name>" καὶ τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name> <w lemma="πατρόθεν">πατρόθεν</w> τὸ
+
+<lb xml:id="line_50" n="50"/> <w lemma="ὄνομα">ὄνομα</w> καὶ τὰν <w lemma="ὠνή">ὠνὰν</w> <w lemma="αὐτός">αὐτῶν</w> <w lemma="παραδίδωμι">παραδότω</w> τῶι <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> καὶ <w lemma="περί">περὶ</w> τᾶς <w lemma="ἀγόρασις">ἀγοράξιος</w> τοῦ
+
+<lb xml:id="line_51" n="51"/> τε <w lemma="ἄσημος">ἀσάμου</w> καὶ τᾶς <w lemma="κατασκευή">κατασκευᾶς</w> <w lemma="αὐτός">αὐτῶν</w> καὶ <w lemma="παράδοσις">παραδόσιος</w> τῶι <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> καὶ <w lemma="περί">περὶ</w> τῶν <w lemma="λόγος">λό
+
+<lb xml:id="line_52" n="52" break="no"/> γων</w> <w lemma="ὅς">ὧν</w> <w lemma="κα">κα</w> <w lemma="διαγράφω">διαγ<unclear>ρ</unclear>ά<unclear>φ</unclear>ηται</w>, <w lemma="λόγος">λόγον</w> <w lemma="καταβάλλω">καταβαλέσθω</w> <w lemma="εἰς">ἐς</w> τὰ <name type="group"><w lemma="δημόσιος">δαμόσια</w></name> <w lemma="γράφω">γράμματα</w>· <w lemma="κατά">κα
+
+<lb xml:id="line_53" n="53" break="no"/> τὰ</w> <w lemma="αὐτός">ταὐτὰ</w> δὲ καὶ ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> <w lemma="λόγος">λόγον</w> <w lemma="καταβάλλω">καταβαλέσθω</w> <w lemma="περί">περὶ</w> τᾶς <w lemma="παράληψις">παραλάμψιος</w> <w lemma="αὐτός">αὐτῶ<unclear>ν</unclear></w>
+
+<lb xml:id="line_54" n="54"/> καὶ <w lemma="εἰς">ἐς</w> τὸν <w lemma="μετά">μετὰ</w> <w lemma="οὗτος">ταῦτα</w> <w lemma="χρόνος">χρόνον</w> <w lemma="ἀντιφωνέω">ἀντιφωνείτω</w> <w lemma="ἐν">ἐν</w> <name type="title"><w lemma="λογιστής">λογισταῖς</w></name> <w lemma="καθότι">καθότι</w> καὶ τὸς <w lemma="ἄλλος">ἄλλος</w>
+
+<lb xml:id="line_55" n="55"/> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱε</supplied><unclear>ρ</unclear>εῖς</w></name> <w lemma="γράφω">γέγραπται</w>· τοὶ <name type="title"><w lemma="πωλητής">πωληταὶ</w></name> <w lemma="ἀπομισθόω">ἀπομισθωσάντω</w> <w lemma="ἀναγράφω">ἀναγράψαι</w> <w lemma="ὅδε">τάνδε</w> τὰν <w lemma="διαγραφή">διαγραφὰν</w>
+
+<lb xml:id="line_56" n="56"/> <w lemma="εἰς"><supplied reason="lost">ἐ</supplied>ς</w> <objectType key="stele"><w lemma="στήλη">στάλαν</w></objectType> <w lemma="λίθινος">λιθίναν</w> καὶ <w lemma="ἀνατίθημι">ἀν<supplied reason="lost">αθέ</supplied>μεν</w> <w lemma="παρά">παρὰ</w> τὸν <name type="structure"><w lemma="βωμός">βωμὸν</w></name> τᾶς <name type="deity" key="Homonoia"><w lemma="ὁμόνοια">Ὁμονοίας</w></name>· <w lemma="πράσσω">πραθείσας</w>
+
+<lb xml:id="line_57" n="57"/> δὲ τᾶς <w lemma="ἱερωσύνη">ἱερωσύνας</w> ὁ <name type="title"><w lemma="κῆρυξ"><supplied reason="lost">κᾶρυξ</supplied></w></name> <name type="speechAct"><w lemma="κηρύσσω"><supplied reason="lost">καρυσσ</supplied><unclear>έ</unclear>τω</w></name> τοῦ τε <w lemma="ἀγοράζω">ἀγορακότος</w> τὸ <w lemma="ὄνομα">ὄνομα</w> <w lemma="παραχρῆμα">παραχρῆμα</w>
+
+<lb xml:id="line_58" n="58"/> καὶ <w lemma="ὅσος">ὅσσου</w> <w lemma="κα">κα</w> <w lemma="ἀγοράζω">ἀγο<supplied reason="lost">ράξηι</supplied></w> τὰν <w lemma="ἱερωσύνη"><supplied reason="lost">ἱερωσύ</supplied><unclear>ν</unclear>αν</w>· τὸ δὲ <w lemma="γίγνομαι">γενόμενον</w> <w lemma="ἀνάλωμα">ἀνάλωμα</w> <w lemma="εἰς">ἔς</w> τε τὰν
+
+<lb xml:id="line_59" n="59"/> <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> τὰν <w lemma="ἐπί">ἐπὶ</w> τᾶ<supplied reason="lost">ι</supplied> <w lemma="πρᾶσις"><supplied reason="lost">πράσει</supplied></w> <supplied reason="lost">τᾶς</supplied> <w lemma="ἱερωσύνη"><supplied reason="lost">ἱερωσύν</supplied>ας̣</w> καὶ <w lemma="εἰς">ἐς</w> τὰν <w lemma="τελετή">τελετὰν</w> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name> καὶ
+
+<lb xml:id="line_60" n="60"/> τᾶς <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> κ<supplied reason="lost">αὶ</supplied> <supplied reason="lost">τὰν</supplied> <objectType key="stele"><w lemma="στήλη"><supplied reason="lost">στάλαν</supplied></w></objectType> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὰ</supplied><unclear>ν</unclear> <w lemma="ἀναγραφή">ἀναγραφ<supplied reason="lost">ὰ</supplied>ν</w> τᾶς <w lemma="διαγραφή">διαγραφᾶς</w> <w lemma="καταβάλλω">κατα
+
+<lb xml:id="line_61" n="61" break="no"/> βαλεῖ</w> ὁ <w lemma="πρίαμαι">πρ<supplied reason="lost">ιάμενος</supplied></w> <supplied reason="lost">τὰν</supplied> <w lemma="ἱερωσύνη"><supplied reason="lost">ἱερωσύναν</supplied></w> <w lemma="ἅμα"><supplied reason="lost">ἅμα</supplied></w> <supplied reason="lost">τᾶι</supplied> <w lemma="πρότερος"><supplied reason="lost">πρ</supplied>άται</w> <w lemma="καταβολή">καταβολᾶι</w>.
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p> [...] of (the court of?) judges [...] worth not less than [...] drachmae. (5) The <foreign>prostatai</foreign> should assign them by lot to a tribe and deme [...] and <foreign>triakas</foreign>, if the priest confirms them that the sacrifice [has been accomplished]. If they have engaged in drawing lots without the priest's response, they should pay as a penalty to the wall-builder 1000 dr. during the public examination of officials. The gymnasiarch and the agonothetes should also make a sacrifice, each of (10) them an adult sacrificial animal of 25 dr., when they are chosen. In the same way, the chosen <foreign>hierophylakes</foreign> should each sacrifice a sheep of 25 dr., the ones of the winter season on the 9th of Theudaisios, and those of the summer season on the 14th of Hyakinthios. In the same way all who have been chosen should make a sacrifice when they come into office, (15) for each table an adult sacrificial animal costing 25 dr. In the same way the <foreign>prostatai</foreign>, too, should sacrifice during the quinquennial Asklepieia an ox of 250 dr. The priest in function at each time should place offerings on the altar for all those for whom it is prescribed to sacrifice to Homonoia according to this contract. If they do not sacrifice, (20) they should owe a penalty to the priest of 30 dr. per portion, and the recovery of the fine should be completed by the priest and another one of the people accomplishing the sacrifice as if on the basis of a judicial decision. But they should pay to the goddess a penalty of 50 dr., and the transaction should be completed by the priest on behalf of the goddess and another person who wants to and the money should be destined for the making of silverware. All the animals that are sacrificed (25) to Homonoia should be put to the test by the priest and the <foreign>exegetai</foreign> for the amount that the treasurers fix for the sacrifices. He who buys the priesthood shall pay the sum in three instalments to the treasurers, the first in the month Alseios under Aristoboulos, the second in the month Gerastios under the monarch directly succeeding Aristoboulos, (30) and the third in the month Alseios under the same monarch. For what he does not pay within the prescribed timeframe according to this contract, let him owe the double, and the priesthood should be put up for sale again by the <foreign>poletai</foreign>. So that the priesthood becomes more distinctive with respect to all its equipment and the silverware for (35) the sacrifices that take place and so that the people manifests itself as caring also in these respects for the concord between it (the priesthood) and the citizens, the treasurers, having deducted from the account a tenth part of the sum of the priesthood, should useit for making silverware for which the architect should make an estimation and for which he should draw up the record at the latest in the month of Karneios (40) on the 10th under Aristoboulos. The <foreign>prostatai</foreign> should introduce the account to the Council in the same month on the 15th, to the Assembly on the 16th. The treasurers should use the rest of the money for what has been ordained. The <foreign>prostatai</foreign> who are in function should choose an epistates on the 16th of the month Alseios (45) for the making of the silverware, and the treasurers should pay to him the tenth part that they took from the sum of the priesthood. When the objects that have have been estimated have been made by the architect and examined by the evaluator, the epistates, having inscribed upon the silverware "From the polis of Kos. Sacred to Homonoia", and the father's name of the priest, (50) should hand over the price of them to the priest and should write a record in the public archive concerning the buying of the silver and the making of the silverware and the transferral to the priest and the account (of the sums) for the payment for which he (the priest) has been contracted. In the same way, the priest should set down an official account concerning the receipt of these things. In the future, he should answer to the <foreign>logistai</foreign> as it is written with respect to the other priests. (55) The <foreign>poletai</foreign> should draw up the contract for the inscribing of this contract on a stone stele and its setting up beside the altar of Homonoia. When the priesthood has been sold the herald should immediately make a proclamation of the buyer's name and the price for which he bought the priesthood. The one who buys the priesthood should pay for the expenses incurred for the sacrifice of the sale of the priesthood and for the initiation of the priest and (60) the priestess and for the stele and the inscribing of the contract when he makes the first payment.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p> [...] du tribunal [...] d’au moins [...] drachmes. (5) [Que les] prostates leur attribuent par tirage au sort une tribu, un dème [...] et une <foreign>triakas</foreign>, si le prêtre leur confirme que le sacrifice [a été accompli]. S’ils ont procédé au tirage au sort sans la confirmation du [prêtre], qu’ils paient une amende au constructeur de remparts de 1000 dr. lors des examens des magistrats. Que le gymnasiarque et l’agonothète sacrifient chacun (10) un animal adulte de 25 dr., lorsqu’ils sont élus. De la même manière, que les hiérophylaques élus sacrifient chacun un mouton de 25 dr., le 9 Theudaisios pour ceux qui sont en fonction au semestre d’hiver, le 14 Hyakinthios pour ceux qui le sont au semestre d’été. De la même manière, que tous ceux qui sont élus sacrifient à leur entrée en fonction (15) un animal adulte de 25 dr. par table. De la même manière, que les prostates sacrifient un bovin de 250 dr. aux Asklepieia pentétériques. Que le prêtre successivement en fonction dépose les offrandes pour tous ceux auxquels il est prescrit de sacrifier à Homonoia selon le présent contrat. S’ils n’accomplissent pas le sacrifice, (20) qu’ils soient redevables au prêtre d’une amende de 30 dr. par portion et que le prêtre et un autre des sacrifiants aient le droit de recouvrement comme en vertu d’une décision judiciaire. D’autre part, qu’ils paient à la déesse une amende de 50 dr., que le prêtre et un autre qui le souhaite aient le droit de recouvrement au nom de la déesse et qu’elle soit consacrée à la confection de vases en argent. Que tous les animaux sacrifiés (25) à Homonoia soient soumis à un examen par le prêtre et les exégètes, pour la somme que donnent les trésoriers pour les sacrifices. Que l’acheteur de la prêtrise fasse trois versements de la somme aux trésoriers, le premier au mois d’Alseios sous Aristoboulos, le deuxième au mois de Gerastios sous le monarque qui succédera directement à Aristoboulos, (30) le troisième au mois d’Alseios sous le même monarque. Ce qu’il n’aurait pas payé dans les temps prescrits par le présent contrat, qu’il en soit redevable du double et que la prêtrise soit à nouveau mise en vente par les polètes. Afin que la prêtrise devienne plus éclatante eu égard à tout ce qui a été préparé pour elle et particulièrement aux vases en argent pour (35) les sacrifices à accomplir, et afin que le peuple veille de manière évidente, également à cet égard, à la concorde entre elle (la prêtrise) et les citoyens, que les trésoriers, après avoir déduit dans les comptes le dixième du revenu de la prêtrise, l’utilisent pour la confection de vases en argent, dont l’architecte a produit une estimation et dont il réalise un devis au plus tard pour le 10 du mois de Karneios (40) sous Aristoboulos. Que les prostates proposent le devis au conseil le 15 du même mois, à l’assemblée le 16 du même mois. Que les trésoriers utilisent le reste de l’argent pour ce qui a été prescrit. Que les prostates en fonction élisent un épistate le 16 du mois d'Alseios (45) pour la confection des vases en argent et que les trésoriers lui versent le dixième qu’ils ont déduit du revenu de la prêtrise. Lorsque les objets dont l’architecte aura fait le devis auront été confectionnés et examinés par l'évaluateur, qu’après avoir fait graver sur les vases en argent « De la part de la cité de Kos. Consacrés à Homonoia », le nom du prêtre (50) et sa filiation, que l’épistate en donne la somme au prêtre et qu’il dépose dans les archives publiques le compte rendu de l’achat de l’argent, de la confection (des vases), de la reddition de comptes au prêtre et du bilan (des dépenses) pour lesquelles il (le prêtre) a été engagé. De la même manière, que le prêtre rende compte également de leur réception. À l’avenir, qu’il fasse la reddition des comptes devant les <foreign>logistai</foreign> comme il est prescrit aux autres prêtres. (55) Que les polètes mettent en adjudication l’inscription du présent contrat sur une stèle en pierre et son installation près de l’autel d’Homonoia. Une fois la prêtrise vendue, que le [héraut proclame] directement le nom de l’acheteur et le montant pour lequel il aura acheté [la prêtrise]. Que [l’acheteur de la prêtrise] paie la dépense pour le sacrifice de la [vente de la prêtrise], l’initiation du prêtre et (60) de la prêtresse, [la stèle et] l’inscription du contrat [en même temps que le premier] versement.</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p> This inscription regulates the sale of the priesthood of Homonoia. On this type of document, see <ref target="http://cgrn.ulg.ac.be/CGRN_147/">CGRN 147</ref>. The beginning of the text is lost, but the rest is quite well preserved. It is divided in four sections: 1) sacrificial regulations (lines 1-25); 2) instalments of the sale price (lines 25-32); 3) the offering of silver vessel (lines 32-54); 4) various regulations concerning the sale and the expenses (lines 54-60).</p>
+
+<p> A public cult of Homonoia, personification of Concord, is attested on Kos from the late third century BC as well as in the deme of Isthmos (see <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 280, line 4; Livadiotti - Rocco). While this cult has been particularly associated with the synoecism of the island in 366 BC (Sokolowski, Thériault), or with the homopoliteia between Kos and Kalymna that took place around 200 BC (Bosnakis - Hallof, p. 240-245; Livadiotti - Rocco, p. 383-384), the evidence suggests that the cult was performed on a regular basis, and not only activated in times of crisis. The sacrificial regulations in our text (lines 1-15) show that the cult was strongly oriented towards the <foreign>polis</foreign> institutions. More specifically, the goddess concerned herself with the entry into civic groups, either the body of citizens, or a board of magistrates. Evidently concord and harmony were essential to the proper functioning of these groups. On the cult of Homonoia in Kos, see more generally Paul.</p>
+
+<p>Lines 1-8: New citizens were required to perform a sacrifice to Homonoia as a precondition to their <foreign>epiklerosis</foreign>, i.e. the allocation by lot of civic and territorial subdivisions (tribe, deme, <foreign>triakas</foreign>). Cp. <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 318, where a similar procedure existed for manumissions. New citizens were also required to offer a sacrifice to Heracles Kallinikos (see <ref target="http://cgrn.ulg.ac.be/CGRN_221/">CGRN 221</ref>, lines 35-39).</p>
+
+<p> Lines 15 ff: These lines describe a significant offering to Homonoia (an ox) in the context of the quadrennial festival of the Asklepieia. At line 15, the instruction to offer an adult animal "for each table" is somewhat enigmatic. Perhaps there were more than one τραπέζα? Or should each archon dedicate a table with offerings? </p>
+
+<p> Lines 17-18: On the placing of the <foreign>hiera</foreign> on the altar, see <ref target="http://cgrn.ulg.ac.be/CGRN_147/">CGRN 147</ref>, lines 10-11.</p>
+
+<p> Lines 19-20: Rather allusively, the fine (ἐπιτίμιον) of 30 dr. imposed on each <foreign>prostates</foreign> (among a board of five) who fails to sacrifice is said to be commensurate with "the portion". This probably implies that the fine is a form of compensation for what would normally be given to the priest, i.e. his perquisites from the sacrificial animals mentioned  in the previous lines (such as the ox costing 250 dr.).</p>
+
+<p> Lines 23-25: The priest and the <foreign>exegetai</foreign>, i.e. religious experts, were in charge of the <foreign>dokimasia</foreign>, which consisted in an examination of the sacrificial animals in order to check that they were suitable for the sacrifice, i.e. that they were flawless, and corresponded to the existing regulations, in terms of age, sex, colour, etc. See Feyel 2006 and 2009. In this case, the <foreign>dokimasia</foreign> seems to have specifically aimed at confirming that the value of the animals corresponded to the sum of money allocated by the <foreign>tamiai</foreign>.</p>
+
+<p> Lines 32-54: Part of the income (a tenth) from the sale of the priesthood is consecrated to the production of silver vessel for the sacrifices (ἀργυρωμάτων ποτὶ τὰς θυσίας, lines 33-34), and for which the confection process is described in detail.</p>
+
+<p> Lines 58-59: On the initiation of the priest or priestess, see <ref target="http://cgrn.ulg.ac.be/CGRN_175/">CGRN 175</ref> (Priene), line 36. The alternative may imply that the priesthood could be sold to a men or a woman, but the fact that the contract otherwise only mentions a “priest” rather suggests that the formula was copied as it was from a generic model.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

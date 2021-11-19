@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_119" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 119</idno>: <rs type="textType" key="priestly contract">Contract</rs> of sale for the priesthood of Nemean Zeus at Theangela (near Halikarnassos)</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Upper portion of a <rs type="objectType">stele</rs> of grey marble; broken below.</p>
+			<p><dimensions>
+					<height unit="cm">42.2</height>
+				<width unit="cm">(top) 35.7 - (bottom) 36 </width>
+					<depth unit="cm">8.2</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">15</height>; round letters: <height unit="mm">10</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0250" notAfter="-0200">ca. 250-200 BC</origDate></p>
+			<p><desc>Justification: lettering of the 3rd century BC (Şahin and Engelmann); more precisely, lettering and contextual dating of J. and L. Robert.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Theangela" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599636" type="external">Theangela</ref></placeName>. Found at Etrim, east of Halikarnassos, inside the city-walls. Now in the Museum of Bodrum (inv. no. 66).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Şahin - Engelmann 1979">Şahin - Engelmann 1979</bibl>: 211-213 no.1, with ph. pl. XIIa. We adopt the restoration of Herrmann at the end of line 16, as reported in <bibl type="abbr" n="SEG">SEG</bibl>.</p>
+					<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 29, 1088; J. and L. Robert <title>REG</title> 1979 <bibl type="abbr" n="BE">BE</bibl> no. 460.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Robert 1936">Robert 1936</bibl>; <bibl type="author_date" n="Hornblower 1982">Hornblower 1982</bibl>: 78-99; <bibl type="author_date">Jameson 2004</bibl>; <bibl type="author_date" n="Parker 2010a">Parker 2010a</bibl>; <bibl type="author_date" n="Parker - Thonemann 2015">Parker - Thonemann 2015</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>	    				
+	    			
+<lb xml:id="line_1" n="1"/><supplied reason="lost">Ἀρι</supplied>στεί<unclear>δ</unclear><supplied reason="lost">η</supplied><unclear>ς</unclear> Ἰατροκλέος <w lemma="πρίαμαι">ἐπρί<unclear>α</unclear><supplied reason="lost">το</supplied></w>
+	    				
+<lb xml:id="line_2" n="2"/><unclear>τ</unclear>ὴν <name type="personnel"><w lemma="ἱερατεία">ἱερητείαν</w></name> τοῦ <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name> τοῦ <name type="ethnic" key="Nemea"><name type="epithet" key="Nemeios"><w lemma="Νεμέα">Νε<unclear>μ</unclear><supplied reason="lost">εί</supplied>
+	    				
+<lb xml:id="line_3" n="3" break="no"/>ου</w></name></name> <w lemma="ἐν">ἐν</w> <placeName key="Theangela"><w lemma="Θεάγγελα">Θεαγγέλοις</w></placeName> <w lemma="ἐπί">ἐπὶ</w> <w lemma="ζωή">ζωῆς</w> τῆς <w lemma="αὐτός">αὑ
+	    				
+<lb xml:id="line_4" n="4" break="no"/>τοῦ</w> <w lemma="κατά">κατὰ</w> <w lemma="ὅδε">τάδε</w>· <name type="sacrifice"><w lemma="θύω">θύσει</w></name> τὰ <name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name> τὰ
+	    				
+<lb xml:id="line_5" n="5"/><name type="group"><w lemma="δημόσιος">δημόσια</w></name> <w lemma="πᾶς">πάντα</w> <name type="deity" key="unclear"><w lemma="θεός">θεοῖς</w></name> τοῖς <w lemma="ἐν">ἐν</w>
+	    				
+<lb xml:id="line_6" n="6"/>τῶι <name type="structure"><w lemma="τέμενος">τεμένει</w></name>· <name type="portion"><w lemma="λαμβάνω">λήψεται</w></name> δὲ <name type="portion"><w lemma="κωλῆ">κωλέ
+	    				
+<lb xml:id="line_7" n="7" break="no"/>αν</w></name> καὶ τὰ <w lemma="ἐπί">ἐπὶ</w> <name type="portion"><w lemma="κωλῆ">κωλέαι</w></name> <name type="portion"><w lemma="νέμω">νεμόμεν
+	
+<lb xml:id="line_8" n="8" break="no"/>α</w></name> τῶν <name type="sacrifice"><w lemma="θύω">θυομένων</w></name> <w lemma="εἷς">ἑνὸς</w> τοῦ <name type="animal" key="generic"><name type="quality"><w lemma="μέγας">μεγ<unclear>ί</unclear>
+	    				
+<lb xml:id="line_9" n="9" break="no"/>στου</w></name></name> καὶ <name type="portion"><w lemma="τεταρτημορίς">τεταρτημορίδα</w></name> <name type="portion"><w lemma="σπλάγχνον">σπλάγ
+	    				
+<lb xml:id="line_10" n="10" break="no"/>χνων</w></name> καὶ τὰ <name type="portion"><w lemma="δέρμα">δέρματα</w></name> <w lemma="πᾶς">πάντα</w> τῶν <name type="group"><w lemma="δημόσιος">δ<unclear>η</unclear>
+	    				
+<lb xml:id="line_11" n="11" break="no"/>μοσίαι</w></name> <name type="sacrifice"><w lemma="θύω">θυομένων</w></name> καὶ τὰ <name type="portion"><w lemma="παρατίθημι">παρατιθέ
+	
+<lb xml:id="line_12" n="12" break="no"/>μενα</w></name> τῶι <name type="deity" key="Zeus"><w lemma="θεός">θεῶι</w></name>· καὶ <w lemma="σύνειμι">συνέσται</w> τῆι <name type="festival"><w lemma="ἑορτή">ἑο
+	
+<lb xml:id="line_13" n="13" break="no"/>ρτῆι</w></name> <w lemma="μετά">μετὰ</w> τῶν <name type="title"><w lemma="πρύτανις">πρυτάνεων</w></name> <name type="portion"><w lemma="ἰσόμοιρος">ἰσόμ
+	
+<lb xml:id="line_14" n="14" break="no"/>οιρος</w></name> <w lemma="εἰμί">ὢν</w> καὶ <name type="adornment"><w lemma="στεφανηφορέω">στεφανηφορήσει</w></name>
+	    					
+<lb xml:id="line_15" n="15"/><w lemma="ἐν">ἐν</w> τῆι <name type="festival"><w lemma="ἑορτή">ἑορτῆι</w></name> τοῦ <name type="deity" key="Zeus"><w lemma="Ζεύς">Διός</w></name>· <w lemma="εἰμί">ἔστ<unclear>α</unclear><supplied reason="lost">ι</supplied></w> <supplied reason="lost">δὲ</supplied>
+	    				
+<lb xml:id="line_16" n="16"/>καὶ τοῦ <w lemma="σῶμα">σώματος</w> <w lemma="ἀτελής">ἀτε<supplied reason="lost">λὴς</supplied></w> <supplied reason="lost">καὶ (?)</supplied> <w lemma="στρατεία"><supplied reason="lost">στρ</supplied>
+	    				
+<lb xml:id="line_17" n="17" break="no"/>ατείας</w> καὶ <name type="liquid"><w lemma="σπονδαρχέω">σπο<unclear>ν</unclear><supplied reason="lost">δαρχήσει</supplied></w></name> <supplied reason="lost">(?)</supplied> <gap reason="lost" quantity="3" unit="character" precision="low"/>
+	    					
+<lb xml:id="line_18" n="18"/><unclear>τ</unclear>ῶι <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διο<unclear>ν</unclear><supplied reason="lost">ύσωι</supplied></w></name> <gap reason="lost" quantity="12" unit="character" precision="low"/>
+
+<lb/><gap reason="lost" extent="unknown"/>
+	    				
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>Aristeides son of Iatrokles bought the priesthood of Zeus Nemeios at Theangela, for the duration of his life and according to the following: he will sacrifice all the (5) public offerings for the gods in the precinct. He will receive, from the largest of the animals a thigh and the portions distributed upon (?) the thigh, and a quarter of the entrails, (10) and all the skins from the animals sacrificed publicly, and the portions set aside for the god. He will participate in the festival, having the same prerogatives as the <foreign>prytaneis</foreign>, and he will wear a crown (15) in the festival of Zeus. He will be exempt from tax on his own person [and?] from liturgical contribution to the army. And he will begin the libation [...] for Dionysus [...]</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Aristeides fils d'Iatroklès a acheté la prêtrise de Zeus Nemeios à Theangela, pour la durée de sa vie et selon les (conditions) suivantes : il devra sacrifier toutes les offrandes (5) publiques pour les dieux qui se trouvent dans l'enceinte. Il recevra, du plus gros animal, une cuisse et les morceaux distribués sur la cuisse, ainsi qu'un quart des viscères, (10) et toutes les peaux des animaux sacrifiés à titre officiel, et les parts réservées pour le dieu. Il participera à la fête en ayant les mêmes privilèges que les prytanes et il portera une couronne (15) lors de la fête de Zeus. Il sera exempt de taxes sur sa personne [et ?] de la liturgie militaire. Il entamera la libation [...] pour Dionysos [...]</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>Theangela (originally called Syangela) is a formerly independent city, which was incorporated (through 'synoikism') by the satrap Mausolus, along with several other neighbouring communities, into the city of Halikarnassos (mid 4th century BC; cf. Hornblower). This changed the mode of governance of the site, but does not appear to have necessarily modified its occupation or its religious life. As with many other inscriptions from the third century BC in Theangela—several of which attest to the strategic importance of the mountain fortress surrounding the city for Hellenistic rulers (cf. Robert 1936)—our inscription points to the continued importance of the site. The political context at the time of the inscribing of this contact of sale is not completely clear (Halikarnassos was a Ptolemaic dependency for much of the third century BC). Perhaps Theangela is still under the general control of Halikarnassos (if this is correct, the reference to δημόσια in lines 4-5 and 10-11 implies that Halikarnassos is funding these offerings), and whose <foreign>prytaneis</foreign> participate in the local festival of Zeus (so Şahin - Engelmann). The contemporaneous practice of selling priesthoods is well attested in Hellenistic Halikarnassos: cf. <ref target="CGRN_118">CGRN 118</ref> and Parker - Thonemann.</p> 
+						
+<p>On the cult described by the record of the sale of this priesthood, regrettably little can be said. Zeus Nemeios is the famous god established at Nemea between Corinth and Argos,  one of the 'panhellenic' sanctuaries of ancient Greece. His worship is thought to have been adopted in Karia and in the area of Halikarnassos in particular due to a perceived Argive (and Troizenian) ancestry of the Greek inhabitants: colonists from Argos and Troizen are reported at Halikarnassos (see Jameson), and a priesthood of Zeus Nemeios is also in evidence at Mylasa (<bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 501, late 2nd-early 1st century BC). The present text presumes an already founded cult, whose sanctuary included several deities (cf. lines 5-6): these are not known, but may have included gods which were also associated with Zeus at Nemea, such as for instance the hero Opheltes/Archemoros, or perhaps Heracles.</p>
+						
+<p>The record of the sale discusses several of the usual subjects found in contracts: lifetime tenure (lines 3-4), sacrificial obligations (lines 4-6), priestly prerogatives (lines 6-12) and other privileges such crown-bearing (lines 12-16), tax-exemptions and perhaps others, such as not having the liturgy of providing for the military (15-17). One can expect that the document will have conclude with the mention of the price obtained by the sale (in the lacuna), as we find elsewhere: cf. e.g. <ref target="CGRN_175">CGRN 175</ref>, lines 41-42, and <ref target="CGRN_176">CGRN 176</ref>, lines 35-38 (both from Priene).</p>
+
+<p>Lines 6-9: The first two perquisites listed for the priest are a thigh together with related portions. The specification that the thigh must be derived from the largest animal sacrificed is not directly paralleled, but there are a few inscriptions in the present Collection which are analogously designed to ensure a specific or minimum value for a portion of the thigh or leg: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_184/">CGRN 184</ref>, lines 6-7 (Kasossos; a minimum weight for the leg of an ox) and <ref target="http://cgrn.ulg.ac.be/CGRN_42/">CGRN 42</ref>, lines 1-2 (Iasos; free choice of whichever leg is desired by the priest). The portions literally "distributed upon the thigh" are more intriguing and less easy to define. The phrase is exactly paralleled in the priesthood sale for the cult of Artemis Pergaia at Halikarnassos: <ref target="http://cgrn.ulg.ac.be/CGRN_118/">CGRN 118</ref>, line 11. Does it refer to portions which are distributed with the thigh (i.e. perhaps pieces of the hip or other parts of the leg which could be cut with it) or perhaps more properly to portions which were traditionally served or placed "upon" it? For the accretion of portions from a thigh or leg, cp. the expression ἄλλην ἐπίκωλον μερίδα (vel sim.) in the inscription of Tlos discussed by Parker.</p>
+						
+<p>Lines 9-10: For the quarter of the available entrails, a typical priestly portion in the region of Karia, see for example <ref target="http://cgrn.ulg.ac.be/CGRN_42/">CGRN 42</ref> (Iasos), line 3.</p>
+
+<p>Lines 11-12: The verb παρατίθημι often applies to portions which are offered on a cult-table or another surface, here explicitly those which are offered to Zeus Nemeios. Having thus been reserved and set aside for some time, they could be taken at a later juncture by the priest as his prerogative. For this expression, cp. here e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_34">CGRN 34</ref> (Epidauros), line 29, and <ref target="http://cgrn.ulg.ac.be/CGRN_76">CGRN 76</ref> (Erythrai), lines 14-15, 22-24.</p>
+						
+<p>Lines 12-15: It is unclear if a distinction is being operated between two different festivals here, or if they are identical but differently expressed; probably the latter is the better option. According to the first prescription, the priest is to have an equal share of meat with the prytaneis on this occasion during the post-sacrificial meal (see Şahin - Engelmann, following Robert, and cp. also at Halikarnassos the equal portion received by the priestess of Artemis Pergaia alongside the wives of the prytaneis: <ref target="http://cgrn.ulg.ac.be/CGRN_118/">CGRN 118</ref>, lines 21-23. For the second provision on crown-bearing, cf. e.g. <ref target="CGRN_120">CGRN 120</ref> (Sinope), lines 8-13, and <ref target="CGRN_123">CGRN 123</ref> (Tomis), lines 7-10.</p>
+						
+<p>Lines 17-18: These last fragmentary lines are unclear, but perhaps suggest that the priest is to have a further privilege. The verb σπονδαρχέω refers to the notion of beginning drink-offerings and libations during a ceremony, and to offer such libations as 'first offerings', cp. <ref target="http://cgrn.ulg.ac.be/CGRN_176/">CGRN 176</ref>, lines 18-19 (for the cult of Dionysus Phleus at Priene); perhaps a local contest or celebration for Dionysus is being envisaged here (e.g. during Dionysia in the theatre at Theangela).</p>				
+					</div>
+			</body>
+    	</text>
+	</TEI>

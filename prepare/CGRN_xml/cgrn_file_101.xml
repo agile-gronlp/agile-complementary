@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_101" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 101</idno>: Regulation concerning the sanctuary of Apollo Oulios at Isthmos on Kos, with an additional <rs type="textType" n="sacrificial regulation">sacrificial regulation</rs></title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Stéphanie Paul</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of a marble <rs type="objectType">stele</rs>, with a <foreign>kymation</foreign> moulding at the top and intact to the left and right, but broken below.</p>
+			    <p><dimensions>
+			        <height unit="cm">20.5</height>
+			        <width unit="cm">28.2</width>
+			        <depth unit="cm">5.2</depth>
+			    </dimensions></p>	
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>There is an addition (text II), inscribed in later letters (see Date) in the empty space above the original inscription (text I), which began after a sizeable gap from the moulding at the top of the stele.</p>
+				<p>Letters for text I: <height unit="cm">1.4</height>; the lettering of the posterior <foreign>addendum</foreign> inscribed in line 1 (text II) is slightly larger:<height unit="cm">1.5</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0300" notAfter="-0275">ca. 300-275 BC</origDate></p>
+			<p><desc>Justification: letterforms (Hallof - Bosnakis). Text II dates about a half-century or more later, to the end of the third century BC (i.e. probably ca. 225-200 BC).</desc></p>
+		</origin>
+	    <provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599728" type="external">Kos</ref></placeName>. Found in the village of Kephalos, the site of the deme of Isthmos. The current location is presumed to be the Castle Museum of Kos, but recently the stone could not be found (by Hallof and Bosnakis in 2010).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 2-7-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 359.</p>
+					<p>Cf. also: Woodhead <bibl type="abbr" n="SEG">SEG</bibl> 18, 328; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 170; <bibl type="author_date" n="Benedum 1978">Benedum 1978</bibl>: 67, with ph. pl. XIb; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20359" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Graf 2009">Graf 2009</bibl>: 68; <bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 231.</p>
+					
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="text" n="2">Text II		
+<lb xml:id="line_1" n="1"/><name type="animal" key="goat"><w lemma="αἴξ">αἲξ</w></name> <name type="sacrifice"><w lemma="θύω">θύεται</w></name>. 
+<lb/><space quantity="1" unit="line"/>
+<lb/><space quantity="1" unit="line"/>		
+<lb/><space quantity="1" unit="line"/>
+	    				</ab>
+	    				<ab subtype="text" n="1">Text I
+	    					
+<lb xml:id="line_2" n="2"/><w lemma="ὅδε">τάδε</w> <w lemma="μή">μὴ</w> <w lemma="εἰσφέρω">ἐσφέρεν</w> <w lemma="εἰς">ἐς</w> τὸ
+	    					
+<lb xml:id="line_3" n="3"/><name type="structure"><w lemma="τέμενος">τέμενος</w></name> τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλω
+	    					
+<lb xml:id="line_4" n="4" break="no"/><supplied reason="lost">νος</supplied></w></name> τοῦ <name type="epithet" key="Oulios"><w lemma="οὔλιος">Οὐλίου</w></name>· <name type="clothing"><w lemma="ἱμάτιον">εἱμάτιον</w></name>
+	    				
+<lb/><gap reason="lost" unit="line" extent="unknown"/>
+	    					</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Text II</p>
+	    				<p>A goat is sacrificed.</p>
+					<p>Text I</p>
+	    				<p>Do not introduce the following things into the precinct of Apollo Oulios: an outer garment [...]</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					
+					<p>Texte II</p>
+					<p>On sacrifie un caprin.</p>
+					<p>Texte I</p>
+					<p>Ne pas introduire dans l’enceinte d’Apollon Oulios les choses suivantes : un manteau [...]</p>
+<p>(traduction S. Paul)</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>The original text on the stele (text I) informed visitors about specific restrictions concerning access to the sanctuary of Apollo Oulios; a list of prohibited objects and perhaps other prohibitions was included, of which only the first element is now partially preserved (see lines 2-4). After about half a century, an addendum (text II) concerning the proper sacrifice for Apollo Oulios (a goat) was inscribed in line 1 in the space available above the original inscription.</p> 
+						
+<p>Next to Asclepius, Apollo Oulios is a healing god who also played a distinctive role at Isthmos. The meaning of the epithet Oulios is not completely clear: cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. οὔλιος (II). It may have been a variant of the adjective ὀλοός, "destructive, deadly", and in this sense play on the ambiguity between healing and illness characteristic of a healer cult (or it was used apotropaically; cp. esp. the form ῎Ολιος found at Lindos: <bibl type="abbr" n="Lindos II">Lindos II</bibl> 228, <bibl type="abbr" n="IG XII.1">IG XII.1</bibl> 834, etc., which supports this etymology). But the term may also have derived from οὐλεῖν, "to keep in good health" (cf. Str. 14.1.6 and <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. οὔλω), which is the interpretation seemingly favoured by Graf. For other occurrences of Apollo Oulios on Kos, see Paul.</p>
+						
+<p>Line 1 (Text II): Though expressed in the indicative tense, the text seems to have had a prescriptive character: by indicating "how things are done", it conveyed what was the norm to be followed with respect to the proper sacrificial animal, as is quite common in this Collection, cp. for example <ref target="CGRN_18">CGRN 18</ref> (Thasos). For goats offered to Apollo, cp. here <ref target="CGRN_32">CGRN 32</ref> (Thorikos), line 43, and <ref target="CGRN_194">CGRN 194</ref> (Magnesia-on-the-Maiander), lines 50-51. Another (less plausible) option is that this text implicitly constrasts ritual practice for Apollo Oulios with what was the actual or expected norm. As Sokolowski notes (citing Paus. 2.26.9 and 10.34.10), the sacrifice of a goat was often prohibited in the cult of Asclepius; cp. here <ref target="CGRN_76">CGRN 76</ref> (Erythrai), lines 8-9. Accordingly, given the parallelism between Apollo Oulios and Asclepius, it is possible that the text aims at affirming that the goat is in fact allowed (contrary to what the worshipper might think).</p>
+						
+<p>Lines 2-4 (Text I): Regrettably, much of the substance of the restrictions has now been lost, but they seem to have concerned objects and clothing that may not be introduced into the sanctuary. The word εἱμάτιον was most probably modified by some adjective: rather than mantles generally, what was probably prohibited was a mantle of a certain colour or one made from a specific type of skin or cloth. Cp. <ref target="CGRN_126">CGRN 126</ref> (Lykosoura: purple, bright-coloured or black clothes; shoes), and <ref target="CGRN_127">CGRN 127</ref> (Dyme: many-coloured or purple robes). Mostly these inscriptions state that the worshipper may not "enter with (specific accessories or clothes)", but for examples of the phraseology used here of "introducing" particular objects, cf. <bibl type="abbr" n="NGSL">NGSL</bibl> 4 (Marathon), lines 7-8: μὴ [ε]ἰσφέρειν χρωμάτιν[ον] (probably a coloured garment, see Lupu's commentary ad loc.); and <ref target="CGRN_90">CGRN 90</ref> (Ialysos), lines 19-20: νόμος ἃ οὐχ ὅσιον ἐσίμειν οὐδὲ ἐσφέρειν... (shoes and other objects made of pig-leather in this case). </p>
+						
+					</div>
+			</body>
+    	</text>
+	</TEI>

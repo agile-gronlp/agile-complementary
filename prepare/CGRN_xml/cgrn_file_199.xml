@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_199" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 199</idno>: Example of the <rs type="textType" key="account">accounts</rs> of the Posideia and Ilithyia on Delos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Marble <rs type="objectType">fragment</rs>, perhaps from a stele, broken on the top and the right. The left margin appears to be intact and the empty space of approximately 2 lines at the bottom indicate that the bottom of the stele is preserved (Pouilloux notes a "bourrelet formant talon en saillie") and marks the end of the text.</p>
+			<p><dimensions>
+					<height unit="cm">22.5</height>
+					<width unit="cm">25</width>
+					<depth unit="cm">13</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">10</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0178" notAfter="-0177">178 BC</origDate></p>
+			<p><desc>Justification: Delian chronology (Durrbach, Reger).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Delos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599506" type="external">Delos</ref></placeName>, sanctuary of Apollo.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+			<p>Edition here based on Durrbach <bibl type="abbr" n="ID">ID</bibl> 445. We only include and discuss lines 1-16 here.</p>
+			<p>Further bibliography: <bibl type="author_date" n="Reger 1994">Reger 1994</bibl>: esp. Chap. 5 (pigs, firewood) and App. III; Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 188 n. 39.</p>	
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    		
+<lb xml:id="line_1" n="1"/><w lemma="λόγος">λόγος</w> τῶν <w lemma="εἰς">ἐς</w> τὰ <name type="festival"><w lemma="Ποσειδαῖα">Ποσίδεια</w></name>· <name type="animal" key="ox"><w lemma="βοῦς">βοῦ<supplied reason="lost">ς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_2" n="2"/><num value="80">U+10142U+10144ΔΔΔ</num>· <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριοὶ</w></name></name> <num value="2">ΙΙ</num> <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν">Ποσ<add>ε</add>ιδῶνι</w></name> <name type="epithet" key="Asphaleios"><w lemma="Ἀσφάλειος">Ἀσ<supplied reason="lost">φ</supplied>α<supplied reason="lost">λ</supplied>είωι</w></name> <supplied reason="lost">καὶ</supplied> <name type="epithet" key="Orthosios"><w lemma="Ὀρθωσία"><supplied reason="lost">Ὀρθωσίωι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3"/><name type="animal" key="swine"><name type="gender"><w lemma="κάπρος">κάπρος</w></name></name> <num value="18">U+10142ΔU+10143U+10142U+10142U+10142</num>·  <name type="animal" key="swine"><w lemma="δελφάκιον">δελφάκια</w></name> <num value="3">ΙΙΙ</num>,  <num value="24">U+10142Δ<supplied reason="lost">Δ</supplied>U+10142U+10142U+10142U+10142 </num>· <w lemma="τροφή">τροφὴ</w> <w lemma="οὗτος">τούτοις</w>  <num value="13">U+10142<supplied reason="lost">Δ</supplied>U+10142U+10142U+10142</num>· <name type="liquid"><w lemma="γλυκύς"><supplied reason="lost">γλυ</supplied>
+	    				
+<lb xml:id="line_4" n="4" break="no"/>κέως</w></name> <name type="object"><w lemma="μέδιμνος"><expan><abbr>μέ</abbr><ex>διμνοι</ex></expan></w></name> <num value="3">ΙΙΙ</num>, <w lemma="τιμή">τιμὴ</w> <num value="40">U+10142ΔΔΔΔ</num>· <name type="liquid"><w lemma="οἶνος">οἴνο<supplied reason="lost">υ</supplied></w></name> <name type="ethnic" key="Knidos"><w lemma="Κνίδιος"><supplied reason="lost">Κ</supplied>ν<supplied reason="lost">ί</supplied>δ<supplied reason="lost">ι</supplied>α</w></name> <num value="10">Δ</num>, <w lemma="τιμή">τιμὴ</w> <num value="60">U+10142U+10144Δ</num>· <name type="vegetal"><w lemma="ἄλφιτον">ἄλφιτα</w></name>
+	    					
+<lb xml:id="line_5" n="5"/><num value="15">U+10142ΔU+10143</num>· <name type="vegetal"><w lemma="ξύλον">ξύλων</w></name> <num value="1500">ΤΔ</num>, <w lemma="τιμή">τιμὴ</w> <num value="15">ΔU+10143</num>· <name type="liquid"><w lemma="ὄξος">ὄξος</w></name> <num value="4">U+10142U+10142U+10142U+10142</num>· <name type="vegetal"><w lemma="ἄρτυμα">ἀρτύματα</w></name> <gap reason="lost" quantity="2" precision="low"/>
+	    					
+<lb xml:id="line_6" n="6"/><name type="vegetal"><w lemma="ἔλαιον">ἔλ<add>α</add>ιον</w></name> <num value="13">U+10142U+10143U+10142U+10142U+10142</num>· <name type="vegetal"><w lemma="σταφίς">σταφὶς</w></name> <num value="20">U+10142ΔΔ</num>· <name type="object"><w lemma="κεράμιον">κεραμίων</w></name> U+10142U+10142U+10142·  <name type="vegetal"><w lemma="ἄνθραξ">ἄνθρακες</w></name> <num value="12">U+10142ΔU+10142U+10142</num>· <name type="vegetal"><w lemma="ἄννησον">ἄννη
+	    					
+<lb xml:id="line_7" n="7" break="no"/>σον</w></name> <num value="1">U+10142</num>· <name type="personnel"><w lemma="ἐργάτης">ἐργάταις</w></name> <num value="16">U+10142ΔU+10143U+10142</num>· <name type="personnel"><w lemma="μάγειρος">μαγείρω<supplied reason="lost">ι</supplied></w></name> <num value="5">U+10142U+10143</num>· <w lemma="σπλαγχνίδιον"><add>ἐπι</add>σπλαγχνίδιοι</w> <num value="5">U+10143</num>· <name type="vegetal"><w lemma="ἐρέβινθος">ἐρέ
+	    				
+<lb xml:id="line_8" n="8" break="no"/>βινθοι</w></name> <num value="16">U+10142ΔU+10143U+10142</num>· <name type="vegetal"><w lemma="κάρυον">κάρυα</w></name> <num value="36">U+10142ΔΔΔU+10143U+10142</num>· <name type="vegetal"><w lemma="ἰσχάς">ἰσχάδες</w></name> <num value="16">U+10142U+10143U+10142</num>· <name type="vegetal"><w lemma="κληματίς">κληματίδες</w></name>, <w lemma="">ῥυ
+	    					
+<lb xml:id="line_9" n="9" break="no"/>μοὶ</w> <num value="2">U+10142U+10142</num>· τοῖς <w lemma="μή">μὴ</w> <w lemma="πορεύω">πορευομένοις</w> <w lemma="εἰς">εἰς</w> <name type="portion"><w lemma="ἀπόμοιρα">ἀπόμοιραν</w></name> <num value="61">U+10144ΔU+10142</num>· <name type="liquid"><w lemma="οἶνος">οἴνο<supplied reason="lost">υ</supplied></w></name>
+	    					
+<lb xml:id="line_10" n="10"/><name type="ethnic" key="Kos"><w lemma="Κῷος">Κῶια</w></name> <num value="35">ΔΔΔU+10143</num>, <w lemma="τιμή">τιμὴ</w> <num value="100">U+10142Η</num>· <name type="object"><w lemma="νικητήριος">νικητήριον</w></name> <w lemma="ἅμιλλα">ἁμίλλης</w> <num value="20">ΔΔ</num>· καὶ <name type="object"><w lemma="δευτερεῖος">δευτε
+	
+<lb xml:id="line_11" n="11" break="no"/>ρεῖον</w></name> <num value="10">Δ</num>. <w lemma="ἔχω">ἔχομεν</w> δὲ τὸ <w lemma="ἀποτάσσω">ἀποτεταγμένον</w> <num value="600">U+10142U+10145Η</num>· τῶν <w lemma="ἡμιωβέλιον">ἡμιωβελί
+	    				
+<lb xml:id="line_12" n="12" break="no"/><surplus>λι</surplus>ων</w> <num value="50">U+10144</num>· <w lemma="βύρσα">βύρσης</w> <num value="10">Δ</num>· <name type="portion"><w lemma="δέρμα">δερμάτων</w></name> <gap reason="lost" quantity="2" precision="low"/><gap reason="lost" quantity="2" precision="low"/><num value="2">U+10142<unclear>U+10142</unclear></num>· <name type="object"><w lemma="κέραμος">κεράμου</w></name> <num value="6">U+10143U+10142</num>. <w lemma="λόγος">λόγος</w> τῶν
+	    				 
+<lb xml:id="line_13" n="13"/><w lemma="εἰς">εἰς</w> <name type="festival"><name type="deity" key="Ilithyia"><w lemma="Εἰλείθυια">Εἰλειθύαια</w></name></name>· <w lemma="ἀπό">ἀπὸ</w> τῶν <num value="40">ΔΔΔΔ</num>· <name type="animal" key="sheep"><w lemma="πρόβατον">πρόβατον</w></name> <num value="14">ΔU+10142U+10142U+10142U+10142</num>· <name type="vegetal"><w lemma="πυρός">πυροὶ</w></name> <num value="10">U+10142Δ</num>·	 
+	    					
+<lb xml:id="line_14" n="14"/><name type="dairy"><w lemma="τυρός">τυρὸς</w></name> <num value="2">U+10142U+10142</num>· <w lemma="ἐρέβινθος">ἐρέβινθοι</w>, <name type="vegetal"><w lemma="κύαμος">κύαμοι</w></name> <num value="4">U+10142U+10142U+10142U+10142</num>· <name type="vegetal"><w lemma="σήσαμον">σήσαμα</w></name> <num value="2">U+10142U+10142</num>· <name type="liquid"><w lemma="μέλι">μέλι</w></name> <num value="2">U+10142U+10142</num>· <name type="adornment"><w lemma="στεφάνωμα">στεφανώ
+	    				
+<lb xml:id="line_15" n="15" break="no"/>ματα</w></name> <num value="4">ΙΙΙΙ</num>· <name type="personnel"><w lemma="ἀρτοκόπος">ἀρτοκόπωι</w></name> <num value="2">U+10142U+10142</num>· <name type="vegetal"><w lemma="λάχανον">λάχανα</w></name> <num value="3">U+10142U+10142U+10142</num>· <name type="animal" key="fish"><w lemma="τάριχος">τάριχος</w></name> <num value="3">U+10142U+10142U+10142</num>· 
+	<w lemma="ὄψον">ὄψον</w> <num value="6">U+10143U+10142</num>· 	
+	    					
+<lb xml:id="line_16" n="16"/><name type="vegetal"><w lemma="κάρυον">κάρυα</w></name> <num value="2">U+10142U+10142</num>· <name type="liquid"><w lemma="οἶνος">οἶνος</w></name> <num value="18">U+10143U+10142U+10142U+10142</num>. 
+	    					
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>Account of the things (i.e. expenses) for the Posideia: an ox [...] 80 drachmae; 2 rams for Poseidon Asphaleios [and Orthosios ...]; a boar, 18 dr.; 3 weanling piglets, 24 dr.; nurture for these (animals), 13 dr.; 3 <foreign>medimnoi</foreign> of grape-syrup, price 40 dr.; 10 Knidian measures of wine, price 60 dr.; barley-groats, (5) 15 dr.; for a talent and a half of wood, price 15 dr.; vinegar, 4 dr.; condiments [...]; olive-oil, 8 dr.; dried grapes (raisins), 20 dr.; for pottery wares (dishes), 3 dr.; coals, 12 dr.; anise, 1 dr.; for the workers, 16 dr.; for the butcher, 5 dr.; the thing for roasting the entrails (?), 5 dr.; chickpeas, 16 dr.; nuts, 36 dr.; figs, 6 dr.; faggots of kindling wood, logs, 2 dr.; for those who do not attend the distribution (of meat), (a fund of) 60 dr.; (10) 35 Koan measures of wine, price 100 dr.; victory-prize for the contest, 20 dr.; second prize, 10 dr.; we have received the appointed sum, 600 dr.; 50 half-obols; (sale?) of the ox-hide, 10 dr.; other skins [...]; for the pottery vessel, 6 dr. </p>
+
+<p>Account for the festival of Ilithyia, from the 40 (assigned) dr.: a sheep, 14 dr.; wheat, 10 dr.; a cheese, 2 dr.; chickpeas, beans 4 dr.; sesame-seeds, 2 dr.; honey, 2 dr.; (15) 4 crowns; for the baker, 2 dr.; vegetables, 3 dr.; dried fish, 3 dr.; relish (sauce?), 6 dr.; nuts, 2 dr.; wine, 8 dr. </p>
+	    			
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Compte (des dépenses) pour les Posideia : un bovin [...] 80 drachmes; 2 béliers pour Poséidon Asphaleios [et Orthosios ...]; un verrat, 18 dr.; 3 porcelets sevrés, 24 dr.; nourriture pour ces (animaux), 13 dr.; 3 médimnes de sirop, prix 40 dr.; 10 mesures cnidiennes de vin, prix 60 dr.; grains d'orge, (5) 15 dr.; pour un talent et demi de bois, prix 15 dr.; vinaigre, 4 dr.; condiments [...]; huile d'olive, 8 dr.; raisins secs, 20 dr.; pour la vaisselle en terre cuite, 3 dr.; charbon, 12 dr.; anis, 1 dr.; pour les ouvriers, 16 dr.; pour le boucher, 5 dr.; l'objet pour rôtir les viscères (?), 5 dr.; pois chiches, 16 dr.; noix, 36 dr.; figues, 6 dr.; bois d'allumage, bûches, 2 dr.; pour ceux qui ne se rendent pas à la distribution (de viande), (un total de) 60 dr.; (10) 35 mesures coaques de vin, prix 100 dr.; prix de la victoire pour le concours, 20 dr.; deuxième prix, 10 dr.; nous avons reçu la somme fixée (de) 600 dr.; 50 demi-oboles; (vente ?) de la peau de boeuf, 10 dr.; autres peaux [...]; pour la vaisselle de céramique, 6 dr.</p>
+
+<p>Compte (des dépenses) pour la fête d'Ilithyie, de 40 dr. (budgetés) : un mouton, 14 dr.; 10 dr. de blé; un fromage, 2 dr.; pois chiches, fèves, 4 dr.; sésame, 2 dr.; miel, 2 dr.; (15) 4 couronnes; pour le boulanger, 2 dr.; légumes, 3 dr.; poisson séché, 3 dr.; condiment, 6 dr.; noix, 2 dr.; vin, 8 dr.</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This inscription is not in and of itself a ritual norm but it is included here as a representative example of a type of document extremely well-evidenced on Delos, which does reflect ritual norms: namely, accounts and inventories found in the sanctuary of Apollo. These texts were not consulted for their prescriptive character, but were (like some of the other texts included in the present Collection) recorded as accounts of expenses entailed by normative ritual practice. Here, the accounts, frequently mentioned in Delian epigraphy, concern the festivals of Poseidon (lines 1-12) and of the goddess Ilithyia (12-16) respectively. Lines 16-28 of the inscription, not included here, record the proceeds of rental agreements.</p>
+						
+<p>The Posideia certainly took place in the month Posideon (contemporaneous with its Attic equivalent, in November/December), the last month of the Delian year. It is possible that the festival of Ilithyia, which occurs immediately afterward in the accounts, was chronologically related with the Posideia, i.e. perhaps occurring shortly afterward. At any rate, the comparison between the two festivals can be instructive. The Posideia appears to be an important festival and major sacrificial occasion, involving at least one ox, probably a number of sheep, a boar and three piglets, and two rams sacrificed to Poseidon Asphaleios and Poseidon Orthosios respectively. There were contests and prizes (lines 10-11) and other offerings. The total expenditure was superior to 600 drachmae (575 dr. are preserved in the items listed in the text). By contrast, the Eileithyaia are much smaller: only 40 drachmae are devoted it and a single sheep is sacrificed (but the items listed seem to go over budget, since they total 58 dr.). However, there are ritual elements here that we do not find included in the Posideia, for instance: cheese, bread, sesame, crowns, vegetables, and even fish and an amount of relish or sauce for a meal. Also, unlike the Posideia, no cult personnel or butcher is mentioned in connection with the sacrifice; in this regard, cp. the sacrifice to Ilithyia performed by women alone on Chios <ref target="CGRN_38">CGRN 38</ref>, lines A8-10.</p>
+						
+<p>For a different example of an account from Delos, arranged chronologically, see here <bibl type="abbr" n="IG XI">IG XI</bibl>.2 287; cp. and contrast also <ref target="CGRN_57">CGRN 57</ref>, the account from the deme of Aixone in Attica. For the prices mentioned in the account and their variability in different periods, readers are encouraged to consult the thorough study of Reger. Overall, the accounts inform us about several ritual agents, substances and objects that are seldom mentioned in ritual norms and unparalleled in the present Collection, such as condiments, dried raisins and nuts, or even chickpeas and anise.</p>
+							
+<p>Line 1: This line might be restored on the basis of other accounts which mention offerings during the Posideia (before the two rams to be sacrificed to Poseidon Asphaleios and Orthosios), e.g. <bibl type="abbr" n="ID">ID</bibl> 464 (ca. 170 BC), line 1: [βοὸ]ς (?) U+10144ΔΔΔU+10143· ἱερεῖα· [(number?)] ΔΔΔ. It is therefore possible that at least a number of sheep (perhaps other animals) are missing in the lacuna here. However, the price of 80 drachmae does correspond well with the price of an ox, and so the lacuna at the end of this line remains somewhat enigmatic. There appears to be only one ox sacrificed, as is clear from the later mention of the singular ox-hide in line 12.</p>
+
+<p>Line 3: These terms for swine are to some degree specific to Delos, since they do not often occur elsewhere in the epigraphic evidence. It is therefore quite possible that κάπρος simply designates any mature pig (cf. Lupu on the κάπρος), though it worth noting that δέλφαξ specifically designates piglets that have been weaned (shoats) by comparison with the common word χοῖρος; however, for an apparently more generic use of a related term δέλφος, see  <ref target="CGRN_125">CGRN 125</ref> (Olbia), line 15. For the rearing of cattle and other animals in anticipation of sacrifice, as a means of fattening them up and creating more meat for feasting, see also <bibl type="abbr" n="SEG">SEG</bibl> 45, 1508A-B; 50, 1100-1101 (Bargylia).</p> 
+
+<p>Line 5: For the use of vinegar in rituals, see also here <ref target="CGRN_16">CGRN 16</ref> (Gortyn), lines 4 and 8.</p> 
+				
+<p>Line 7: For butchers, see also here <ref target="CGRN_45">CGRN 45</ref>, fr. 3, line 25. The word ἐπισπλαγχνίδιος is unattested in literature, but found with some frequency in the Delian accounts (σπλαγχνίδιον is the diminutive of 'entrail' but neuter). It is unclear whether these are objects designed for roasting the entrails (so in <bibl type="abbr" n="LSJ">LSJ</bibl> Suppl. s.v.); other objects are mentioned in the accounts, for example earthenware vessels. Perhaps the word might also designate personnel whose responsibility it was to roast the entrails (though such people are usually invoked in the dative).</p>
+
+<p>Line 9: For the phrase, referring to individuals "not attending the distribution of meat"—and thus receiving a fixed sum—cp. the converse expressions found in <ref target="CGRN_146">CGRN 146</ref> (Phyxa), lines 8, 23, 25.</p>
+
+<p>Line 12: A βύρσα here appears to properly designate an ox-hide, in opposition to the other hides and skins mentioned and deriving from sheep as well as swine (cp. Hdt. 3.110: βύρσα καὶ ἄλλα δέρματα, cited by <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.).</p>
+				
+<p>Line 15: The word ὄψον is difficult to interpret precisely in this context, because it seems to have many different usages, but it probably refers to any sort of sauce or relish that could be eaten with grains (perhaps also consisting of or involving fish).
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

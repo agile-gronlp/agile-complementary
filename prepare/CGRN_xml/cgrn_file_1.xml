@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_1" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 1</idno>: Fragments of the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> of Corinth</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+	<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+	<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+	<repository>n/a</repository>
+		</msIdentifier>
+		<physDesc>
+			<objectDesc>
+				<supportDesc>
+		<support><p>Three major fragments: A-B, which are stone blocks each composed of two joining fragments, and C, possibly related, though see below.</p>
+			<p>A: Pale brown poros <rs type="objectType">wall block</rs>, consisting of a pair of joining fragments, which form a corner
+inscribed on two faces (left/right). For a fuller description, cf. <bibl type="author_date" n="Iversen forthc.">Iversen forthc.</bibl></p>
+			<p>B: A further segment of identical pale brown poros <rs type="objectType">wall block</rs>, consisting of two joining fragments. These join to form an inscribed face, with identical lettering, and with perhaps the left edge of the block preserved. The text on B is too fragmentary and is not reprised here.</p>
+			<p>C: <rs type="objectType">Lead tablet</rs>, found in 2 joining pieces.</p>
+			<p>For a fuller description, cf. <bibl type="author_date" n="Iversen forthc.">Iversen forthc.</bibl></p>
+						<p>Fragment A<dimensions>
+											<height unit="cm">25</height>
+											<width unit="cm">19</width>
+											<depth unit="cm">10</depth>
+										</dimensions></p>
+						<p>Fragment C<dimensions>
+											<height unit="cm">5.6</height>
+											<width unit="cm">5.9</width>
+											<depth unit="cm">0.1</depth>
+										</dimensions>
+									</p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+<p>The text is inscribed boustrophedon on all fragments. On A and B, the letters were originally painted in a red colour. Lines are divided by faint incised registers. On C, the lines are defined by guidelines as in the stone fragments. The traces of a nail hole to affix the tablet also match the stone fragments where nail holes are sometimes visible. </p>
+<p>Letter measurements for A and B: <height unit="cm">3-6.3</height>. Letter measurements for C: <height unit="cm">1.2-1.4</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+			<p><origDate notBefore="-0600" notAfter="-0575">ca. 600-575 BC</origDate></p>
+			<p><desc>Justification: lettering, cf. Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 114-132; see also Provenance and Commentary.</desc></p>
+						</origin>
+			<provenance><p><placeName type="ancientFindspot" key="Corinth" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570182/center-of-the-temple-of-apollo-at-corinth" type="external">Corinth, temple of Apollo</ref></placeName>. The fragments were found in discrete locations on the Temple Hill. The four stone fragments (composing A and B) are from the fill that contained the Late Geometric Temple's burned roof tiles (ca. 570 BC), which provides a <foreign>terminus ante quem</foreign>. The two lead fragments (C) were found in trench 5 on Temple Hill in 1975.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+		<head>Bibliography</head>
+		<p>Edition here based on the forthcoming edition and reedition of these fragments by P. Iversen, based on autopsy. For the moment, cf. his preliminary <ref target="http://www.currentepigraphy.org/wp-content/uploads/2008/05/korinthseminar1.pdf" type="external">publication</ref> introduced on the <ref target="http://www.currentepigraphy.org/2008/05/28/virtual-seminar-on-some-unpublished-inscriptions-from-corinth-i" type="external">Current Epigraphy website</ref>. We print only the two most significant fragments, A Face I, and C.</p>
+		<p>A: <bibl type="author_date" n="Iversen forthc.">Iversen forthc.</bibl>; see also <bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>: 130, 156. Cf. Fraenkel <bibl type="abbr" n="IG IV">IG IV</bibl> 1597; Meritt <bibl type="abbr" n="Corinth VIII.1">Corinth VIII.1</bibl> 1; <bibl type="author_date" n="Dow 1942">Dow 1942</bibl>.</p>
+
+		<p>Cf. also Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 114-132, 404, pl. 20 no. 18, 440; <bibl type="author_date" n="Robertson 1982">Robertson 1982</bibl>: 340-342; <bibl type="author_date" n="Bookidis - Stroud 2004">Bookidis - Stroud 2004</bibl>: 409-410; Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 65-66.</p>
+
+		<p>Online record: For fragment A, cf. Jeffery's notes and photographs found on the <ref target="http://poinikastas.csad.ox.ac.uk/" type="external">Poinikastas</ref> website, with ref. no. 131.18.</p>
+		<p>B: <bibl type="author_date" n="Iversen forthc.">Iversen forthc.</bibl>. Only partially published, and for an illustration see: <bibl type="author_date" n="Michaud 1971">Michaud 1971</bibl>: 861-862, fig. 124.</p>
+		<p>C: Unpublished; <bibl type="author_date" n="Iversen forthc.">Iversen forthc.</bibl>; see also
+					<bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>: 160 (e).</p>
+		<p>Cf. the following preliminary mentions and illustrations:
+					<bibl type="author_date" n="Robinson 1975">Robinson 1975</bibl>: 61;
+					<bibl type="author_date" n="Aupert 1976">Aupert 1976</bibl>: 600-601, fig. 28;
+					<bibl type="author_date" n="Jordan 1980">Jordan 1980</bibl>: 228 n. 13;
+					<bibl type="author_date" n="Bookidis - Stroud 2004">Bookidis - Stroud 2004</bibl>: 409-410;
+					<bibl type="author_date" n="Robertson 2010">Robertson 2010</bibl>: 32-33.</p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+	<ab subtype="Fragment" n="A Face I">Fragment A, Face I <lb xml:id="line_A1" n="A1" rend="right-to-left"/> <name type="month"><w lemma="Φοινικαῖος">Φοινι<unclear>κ</unclear><supplied reason="lost">αίο</supplied></w></name><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_A2" n="A2" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="τρεῖς"><supplied reason="lost">τ</supplied>ρε̑ς</w> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χο
+
+<lb xml:id="line_A3" n="A3" rend="right-to-left" break="no"/>ί<unclear>ρ</unclear>ο<unclear>υ</unclear><supplied reason="lost">ς</supplied></w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+				</ab>
+
+<ab subtype="fragment" n="C">Fragment C <lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb xml:id="line_C1" n="C1" rend="right-to-left"/><orig><unclear>Ρ</unclear>ΙΑ<unclear>Δ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_C2" n="C2" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Athena"><w lemma="Ἀθήνη"><supplied reason="lost">Ἀθάναι</supplied></w></name> <name type="epithet" key="Polias"><w lemma="Πολιάς"><supplied reason="lost">Πολ</supplied>ίαδι</w></name> <name type="animal" key="ox"><w lemma="βοῦς">β
+
+<lb xml:id="line_C3" n="C3" rend="right-to-left" break="no"/>ο̑ν</w></name> <pc>⁞</pc> h<orig>ε</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_C4" n="C4" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><space/>
+				</ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				<p>Fragment A</p>
+				<p>(In the month) Phoinikaios [... (to unknown deity)], three piglets [...]</p>
+				<p>Fragment C</p>
+				<p>[...] to [Athena] Polias an ox; [...]</p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				<p>Fragment A</p>
+				<p>(Au mois de) Phonikaios [... (à telle divinité)], trois porcelets [...] </p>
+				<p>Fragment C</p>
+				<p>[...] à (Athéna) Polias un bovin; [...]</p>
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+				<p>This is probably the earliest inscribed ritual norm of this collection (but cp. the doubtful <bibl type="abbr" n="NGSL">NGSL</bibl> 6, from Tiryns, late 7th - early 6th century BC), and certainly the earliest sacrificial calendar to have come to light. Despite its extremely fragmentary state, Fragment A apparently begins with the first month of the Corinthian calendar, Phoinikaios (see now Iversen 2017 on this calendar). This is followed by traces of a list of sacrificial animals. Fragment B, not printed here, belongs to the same inscription, but is enigmatic. Fragment C may perhaps be a sort of lead template or copy of the calendar, since the letterforms are smaller yet strikingly similar. Here, the combination of a deity and a sacrificial offering is more clear, though a date is absent. Taken together, however, fragments A and C share the three most basic components of sacrificial calendars: a date, followed by a recipient or deity in the dative, and finally an offering, whether in the nominative or in the accusative (as here; cf. Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 65-68). A sacrificial verb can either be implied or (less likely) could have been present in one of the many lacunae.</p>
+
+				<p>Line A1: This appears to be the first line of the whole text, or at least a part of it, since it begins at a corner of the block and is not preceded by a previous line-course of boustrophedon letters. The month-name is paralleled at <bibl type="abbr" n="Corinth VIII.1">Corinth VIII.1</bibl> 2, line 1 (200-150 BC), as well as in Corinthian colonies (Bouthrotos; <bibl type="abbr" n="I.Magnesia">I.Magnesia</bibl> 44, from Corcyra), and now by the recently deciphered Antikythera Mechanism, where one of the dials displays a Corinthian calendar beginning with this month, cf. <bibl type="abbr" n="SEG">SEG</bibl> 56, 392.</p>
+
+				<p>Lines A2-3: There are traces here of the offering of three piglets; the restoration [τετό]ρες would also be conceivable if the nominative were used, but we probably have the accusative here; see also βο̑ν in fr. C, which may belong to a same or similar document. Though piglets are often found as a sacrifice, groups of piglets are seldom attested in ritual norms. Three piglets are sacrificed to Kore during Metageitnion, in addition to a ram, in the calendar of the Marathonian Tetrapolis: <ref target="CGRN_56">CGRN 56</ref>, col. II, line 44.</p>
+
+				<p>Line C1: For different readings of this line, still unpublished, see now Iversen 2017: 160 (e).</p>
+
+				<p>Lines C2-3: The Polias epithet is attested especially for Athena and from the sixth century at Argos (<bibl type="abbr" n="LSS">LSS</bibl> 27), as well as in the classical period in Delos (<bibl type="abbr" n="ID">ID</bibl> 15), and of course Athens (cf. <bibl type="abbr" n="SEG">SEG</bibl> 14, 29). The offering probably consists of a cow, though the gender is unclear. The sacrifice of a cow to Athena Polias is paralleled at a later date: <ref target="CGRN_92">CGRN 92</ref> (Athens), and cf. also <bibl type="abbr" n="I.Priene">I.Priene</bibl> 108 and p. 310, lines 264-265 (129-100 BC), 113 + p. 311, line 85 (84-81 BC). But this is not an exclusive sacrifice for the goddess; both at <ref target="CGRN_52">CGRN 52</ref> (Erchia), col. Δ, line 15, and in <ref target="CGRN_85">CGRN 85</ref> (Kos), lines 23-24, she is offered a female sheep.</p>
+
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_183" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 183</idno>: Fragment of a <rs type="textType" key="priestly contract">contract for sacred personnel</rs> at Chalketor near Mylasa</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Rectangular <rs type="objectType">block</rs> of marble, broken above.</p>
+			<p><dimensions>
+					<height unit="cm">unknown</height>
+					<width unit="cm">unknown</width>
+					<depth unit="cm">unknown</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The block was inscribed on all four lateral sides. One of the large faces contains the inscription in Greek given below (a para-Karian inscription or series of marks appears below it); one of the short sides contains illegible traces of writings; the two other sides (one large, one small) contained texts in para-Karian script (i.e. a script bearing some resemblance to Karian, but of uncertain interpretation). For these other texts, see Robert and Deroy; unlike texts in Karian, they have not been successfully deciphered.</p>
+<p>Letters: <height unit="mm">unknown</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0300" notAfter="-0100">ca. 300-100 BC</origDate></p>
+			<p><desc>Justification: probably Hellenistic lettering on the basis of the preserved majuscule transcriptions or facsimiles (Carbon; for the refs. to these copies, see Blümel); Boulay - Pont hesitatingly propose a date in the second century BC. For the context, see also Commentary below.</desc></p>
+		</origin>
+		<provenance><p>Site of Chalketor, 10 km west of <placeName type="ancientFindspot" key="Mylasa" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599809" type="external">Mylasa</ref></placeName>. Found in the Turkish village of Karakuyu at the site. Current location unknown, perhaps lost.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-04-2016 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by JM Carbon in 10.01.2019.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Blümel <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 914.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 70; <bibl type="author_date" n="Boulay - Pont 2014">Boulay - Pont 2014</bibl> 129-130 no. 7.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Robert 1950">Robert 1950</bibl>: 8-10 no. 4; <bibl type="author_date" n="Deroy 1955">Deroy 1955</bibl>: 309-311 no. 4.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    					    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+	    					
+<lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="λαμβάνω"><supplied reason="lost">λαβόντες</supplied></w> <w lemma="παρά"><supplied reason="lost">π</supplied>αρὰ</w> <unclear>τ</unclear>ῶν <name type="title"><w lemma="ταμίας">ταμιῶν</w></name>
+	    					
+<lb xml:id="line_2" n="2"/><supplied reason="lost">τὸ</supplied> <w lemma="ἀργύριον">ἀργύριον</w> <w lemma="παρέχω"><supplied reason="lost">π</supplied>αρεχέτωσαν</w> τά τε <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖ<supplied reason="lost">α</supplied></w></name>
+	    					
+<lb xml:id="line_3" n="3"/><supplied reason="lost">κ</supplied>αὶ τὰ <w lemma="λοιπός">λοιπὰ</w> <name type="genericOffering"><w lemma="πᾶς">πάντα</w></name> τὰ <name type="authority"><w lemma="νομίζω">νομιζόμενα</w></name> <w lemma="ἐν">ἐν</w> <w lemma="ἕκαστος">ἑ
+	    					
+<lb xml:id="line_4" n="4" break="no"/><supplied reason="lost">κά</supplied>στηι</w> <name type="festival"><w lemma="ἑορτή">ἑορτῆι</w></name>· <name type="portion"><w lemma="ἐξαιρέω">ἐ<supplied reason="lost">ξ</supplied>αιρεθέντων</w></name> δὲ τῶν
+	    					
+<lb xml:id="line_5" n="5"/><name type="portion"><w lemma="κρέας"><supplied reason="lost">κρε</supplied>ῶν</w></name> καὶ τὰ <name type="portion"><w lemma="γέρας">γέρα</w></name> τῆι <name type="personnel"><w lemma="ἱέρεια">ἱερείαι</w></name> <name type="portion"><w lemma="ἀποδίδωμι">ἀποδόντε<supplied reason="lost">ς</supplied></w></name>
+	    					
+<lb xml:id="line_6" n="6"/><supplied reason="lost">τ</supplied>ὰ <name type="portion"><w lemma="λοιπός">λοιπὰ</w></name> <name type="portion"><w lemma="διαιρέω">διαιρείτωσαν</w></name> τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>, <name type="portion"><w lemma="ἀφαιρέω">ἀφ<supplied reason="lost">αι</supplied>
+	    					
+<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">ρ</supplied>οῦντες</w></name> <name type="personnel"><w lemma="ἑαυτοῦ">ἑαυτοῖς</w></name> τάς τε <name type="portion"><w lemma="κεφαλή">κεφαλὰς</w></name> καὶ <supplied reason="lost">τὰ</supplied>
+	    					
+<lb xml:id="line_8" n="8"/><name type="portion"><w lemma="ἐντοσθίδια"><supplied reason="lost">ἐ</supplied>νδόσθια</w></name>· <w lemma="ἐάν">ἐὰν</w> δέ <w lemma="">τι</w> <w lemma="πλείων">πλέον</w> <name type="portion"><w lemma="ἀφαιρέω">ἀφαιρῶσιν</w></name> <w lemma="παρά">παρ<supplied reason="lost">ὰ</supplied></w>
+	    					
+<lb xml:id="line_9" n="9"/>τὰ <name type="authority"><w lemma="γράφω">γεγραμμένα</w></name>, <name type="punishment"><w lemma="ἐξελέγχω">ἐξελεγχθέντες</w></name> <name type="punishment"><w lemma="ἀποτίνω">ἀποτι
+	    					
+<lb xml:id="line_10" n="10" break="no"/>νέτωσαν</w></name> τὰ <w lemma="ἀναλίσκω">ἀνηλωμένα</w> <w lemma="ἐν">ἐν</w> τῆι <name type="festival"><w lemma="ἑορτή">ἑορτῆι</w></name>.
+	    					
+<lb/><space quantity="3" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[... having received] the money from the treasurers, let them provide the sacrificial animals and all the remaining things which are customary during each festival. When the portions of (5) meat have been extracted, and once they have given the perquisites to the priestess, let them distribute the remaining meat among the people, reserving for themselves the heads and the intestines. If they remove something more, against the prescriptions, having been convicted (of this offense), let them pay (10) the expenditures for the festival.</p> 
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[... ayant reçu] l'argent des trésoriers, qu'ils fournissent les animaux sacrificiels et toutes les autres choses qui sont coutumières durant chaque fête. Après avoir prélevé les portions de (5) viande et octroyé les parts d'honneur à la prêtresse, qu'ils distribuent les viandes restantes au peuple, en se réservant les têtes ainsi que les intestins. S'ils prélèvent davantage, à l'encontre de ce qui est prescrit, après avoir été reconnus coupables, qu'ils paient (10) les dépenses de la fête.
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+			
+<p>Though the regulation is fragmentary and missing all of its introduction, it nonetheless preserves several clues concerning its context. The extant portion of the regulation is concerned with the duties and privileges of a group of officials, as is evident from the plural forms of the prescriptive verbs and from the expression ἑαυτοῖς in line 7. The title of these officials remains unknown and no other information is available from Chalketor itself. One good possibility, however, is that they may have been <foreign>neopoiai</foreign> (Boulay - Pont alternatively suggest ἱεροποιοί, which are only infrequently attested in Karia). These officials are known to have provided sacrificial animals and to have received some prerogatives as a result of their duty, in the cult of Artemis Kindyas at nearby Bargylia, cf. <bibl type="abbr" n="SEG">SEG</bibl> 45, 1508A-B; 50, 1100-1101. In this inscription too, the cult in question seems to have been that of a goddess, as we may infer from the
+fact that it is served by a priestess (line 5). Several annual ritual occasions—at least two main festivals (lines 3-4, ἐν ἑ[κά]στηι ἑορτῆι)—are envisaged by the regulation, but nothing about these is known.</p>
+							
+<p>About Chalketor, our information is also not very abundant: see Blümel, vol. II, p. 107, for refs., and now Boulay - Pont, for a more wide ranging discussion of the site and its epigraphy. Apart from the cult in question here, a local sanctuary of Apollo is also known, cf. <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 912. Since the pairing of Apollo and Artemis is very common throughout Karia, the honorand in the present inscription is possibly Artemis. In terms of the historical context, it is known that the independent Classical community of Chalketor was eventually incorporated into the territory and political framework of a neighbouring city through the process of synoikism, at some point during the Hellenistic period. This event seems to be attested by the inscription <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 913 (end of 3rd-beginning of 2nd century BC); see Blümel's commentary for discussion of the traditional views that the synoikism was either with Mylasa or with Euromos. Recently, Boulay -
+Pont have made a detailed argument for the incorporation of Chalketor into Iasos in 197 BC, with the support of Antiochos III. It is unclear whether the δῆμος mentioned in line 6 refers to the people of Chalketor itself or to the wider citizenry of Iasos, though it is possible that the synoikism had already taken place by the time of this inscription.</p>
+					
+<p>Lines 1-4: The officials are to receive sufficient money from the treasurers, presumably those of Chalketor or of Iasos itself, in order to fund each sacrificial occasion. This would have entailed the purchase of animals from the marketplace, possibly also their rearing and fattening up to ensure valuable offerings; for this idea, cf. again <bibl type="abbr" n="SEG">SEG</bibl> 45, 1508A-B; 50, 1100-1101 (Bargylia). For the "necessary supplies" to be supplied by the priest, cf. <ref target="CGRN_64">CGRN 64</ref> (Epidauros). Such supplies will have included, <foreign>inter alia</foreign>, liquids for libations and wood for burning the offerings.</p>
+						
+<p>Lines 4-6: The officials in question in the regulation appear as the primary butchers of the sacrificial animals: they extract the meat from carcasses and distribute portions to everyone involved. For public distributions of meat, see here <ref target="CGRN_19">CGRN 19</ref> (Skambonidai), <ref target="CGRN_81">CGRN 81</ref> (Thebes-on-the-Mykale), lines 20-25, and <ref target="CGRN_92">CGRN 92</ref> (Athens), lines 16-17 and 25-26. Note that such distributions did not necessarily take place immediately after the sacrifice, and possibly after the meat had been cooked.</p>
+						
+<p>Lines 7-8: The officials at Chalketor are to receive the heads and the intestines from all sacrificial animals as their prerogatives. For the head, which might otherwise form a part of the priestly portions (γέρα), see e.g. here <ref target="CGRN_38">CGRN 38</ref>, decree B (Chios); occasionally the head was reserved for other personnel assisting the priest or priestess, cf. here <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), line 44 (<foreign>epimenioi</foreign>). Similarly, the (small) intestines were typically awarded to priests, cf. e.g. <ref target="CGRN_39">CGRN 39</ref> (Miletos), line 10, but they could also be awarded to other assisting personnel in sanctuaries, such as <ref target="CGRN_34">CGRN 34</ref> (Epidauros), lines 16-17 and 33-35, where these are donated to the guards; this regulation employs the same rare expression: τἐνδοσθίδια. By implication, it would seem that the priestess received other γέρα in line 5, different from those of this group of officials, i.e. perhaps the legs or other customary portions such as the entrails.</p>
+
+<p>Lines 8-10: For similar rules against priests which forbid the removal of further γέρα than what was prescribed, see here <ref target="CGRN_37">CGRN 37</ref> (Chios), lines 14-16.</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

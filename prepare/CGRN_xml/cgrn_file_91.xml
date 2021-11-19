@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_91" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>CGRN 91</idno>: <rs type="textType" key="decree">Decree</rs> concerning the festival of the Artemisia at Eretria (Amarynthos)</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                             <availability>
+                                 <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                                 <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>
+                            <rs type="objectType"> Marble stele</rs>, nearly intact.</p>
+                            <p><dimensions> 
+                                <height unit="cm">110</height>
+                                <width unit="cm">46</width>
+                                <depth unit="cm">10</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout> 
+                            <p>The inscription is written in the Eretrian (Ionic) dialect, marked among other things by the rhotacism of intervocalic <foreign>sigma</foreign>, e.g. Ἀρτεμιρίων in line 7. 
+                            The text is non-stoichedon.</p> 
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0350" notAfter="-0330">ca. 340 BC</origDate></p>
+                        <p><desc>Justification: Wilhelm on the basis of lettering, suggesting that the decree was drawn up after Eretria's liberation in 341/0 (cf. lines 44-45 of the text).</desc></p>
+                    </origin>
+                    <provenance>
+                        <p>The decree states that the inscription should be put up at the sanctuary of Artemis at <placeName type="ancientFindspot" key="Amarynthos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/579859" type="external">Amarynthos</ref></placeName>. It was found at Aulonari, 20 km north-east of Eretria. The inscription is now shown to be a <foreign>pierre errante</foreign>, since recent excavations (2017 and ongoing) have determined that the sanctuary of Artemis Amarysia and the site of Amarynthos were located at Palaioekklesies, ca. 9 km to the east of Eretria along the coast. The stone is stored in the Eretria Museum (inv. no. 1208).</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-06-2014 by S. Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by JM Carbon on 01.06.2018.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                <p>Edition here based on Ziebarth <bibl type="abbr" n="IG XII.9">IG XII.9</bibl> 189.</p>
+                <p> Cf. also:
+                    Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 88; 
+                    Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 92;   
+                    Rhodes - Osborne, <bibl type="abbr" n="GHI">GHI</bibl> 73;
+                    <bibl type="author_date" n="Leone 2017">Leone 2017</bibl>.
+                </p>
+                <p>Further bibliography:	   
+                    <bibl type="author_date" n="Wilhelm 1904">Wilhelm 1904</bibl>: 89-97;
+                    <bibl type="author_date" n="Papabasileios 1902">Papabasileios 1902</bibl>: 97-106;
+                    <bibl type="author_date" n="Ringwood 1929">Ringwood 1929</bibl>: 387-388;
+                    <bibl type="author_date" n="Knoepfler 1997">Knoepfler 1997</bibl>: 376-377.
+                </p>
+                    
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    
+                   
+                        <lb xml:id="line_1" n="1"/>  <name type="deity" key="generic"><w lemma="θεός"><supplied reason="lost">θ</supplied>εο<supplied reason="lost">ί</supplied></w></name>.
+                        <lb xml:id="line_2" n="2"/> Ἐξήκεστος Διοδώρου  <w lemma="λέγω">εἶπεν</w>·  <w lemma="ὅπως">ὅπωρ</w>  <w lemma="ἄν">ἂν</w> τὰ <name type="festival"><w lemma="Ἀρτεμίσιον">Ἀρ
+                        
+                            <lb xml:id="line_3" n="3" break="no"/> τεμίρια</w></name>  <w lemma="ὡς">ὡς</w>  <w lemma="καλός">κάλλιστα</w>  <w lemma="ἄγω">ἄγωμεν</w> καὶ  <name type="sacrifice"><w lemma="θύω">θύωριν</w></name>  <w lemma="ὡς">ὡς</w>  <w lemma="πλεῖστος">π
+                            
+                                <lb xml:id="line_4" n="4" break="no"/> λεῖστοι</w>,  <w lemma="δοκέω">ἔδοξεν</w> τεῖ  <name type="group"><w lemma="βουλή">βουλεῖ</w></name> καὶ τοῖ  <name type="group"><w lemma="δῆμος">δήμοι</w></name>·
+                    
+                    <lb xml:id="line_5" n="5"/> <del rend="erasure"><gap reason="lost" quantity="2" unit="character"/></del>  <w lemma="τίθημι">τιθεῖν</w> τὴμ  <name type="group"><w lemma="πόλις">πόλιν</w></name>  <w lemma="ἀγών">ἀγῶνα</w> <w lemma="μουσική">μουσικῆς</w>  <w lemma="ἀπό">ἀπὸ</w>  <w lemma="χίλιοι">χιλίων</w>
+                    
+                        <lb xml:id="line_6" n="6"/>  <w lemma="δραχμή">δραχμῶν</w> τεῖ  <name type="epithet" key="Metaxu"><w lemma="Μεταξύ">Μεταξὺ</w></name> καὶ τεῖ  <name type="epithet" key="Phylake"><w lemma="φυλακή">Φυλακεῖ</w></name> καὶ  <w lemma="παρέχω">παρέχει
+                    
+                            <lb xml:id="line_7" n="7" break="no"/> ν</w> <name type="animal" key="sheep"><name type="age"><w lemma="ἀρήν">ἄρνας</w></name></name> τεῖ <w lemma="πρό">πρὸ</w> τῶν <name type="festival"><w lemma="Ἀρτεμίσιον">Ἀρτεμιρίων</w></name> <w lemma="πέντε">πέντε</w>  <w lemma="ἡμέρα">ἡμέρας</w>,  <w lemma="οὗτος">τ
+                            
+                                <lb xml:id="line_8" n="8" break="no"/> ούτων</w> δὲ  <w lemma="δύο">δύο</w> <name type="quality"><w lemma="ἔγκριτος">ἐγκρίτους</w></name>  <w lemma="εἰμί">εἶναι</w>·  <w lemma="ἄρχω">ἄρχειν</w> δὲ τῆς  <w lemma="μουσική">μο
+                                
+                                    <lb xml:id="line_9" n="9" break="no"/> υσικῆς</w> <w lemma="τετράς">τετράδα</w>  <w lemma="φθίω">φθίνοντος</w> τοῦ <name type="month"><w lemma="Ἀνθεστηριών">Ἀνθεστηρι
+                                    
+                                        <lb xml:id="line_10" n="10" break="no"/> ῶνος</w></name> <w lemma="μείς">μηνός</w>, τὴν δὲ  <w lemma="μουσική">μουσικὴν</w>  <w lemma="τίθημι">τιθεῖν</w>  <name type="title"><w lemma="ῥαψῳδός">ῥαψωιδοῖς</w></name>,
+                    
+                    <lb xml:id="line_11" n="11"/>  <name type="title"><w lemma="αὐλῳδός">αὐλωιδοῖς</w></name>,  <name type="title"><w lemma="κιθαριστής">κιθαρισταῖς</w></name>,  <name type="title"><w lemma="κιθαρῳδός">κιθαρωιδοῖς</w></name>, <name type="title"><w lemma="παρῳδός">παρωιδοῖς</w></name>,
+                    
+                    <lb xml:id="line_12" n="12"/> τοὺς δὲ τὴν  <w lemma="μουσική">μουσικὴν</w>  <w lemma="ἀγωνίζομαι">ἀγωνιζομένους</w>  <w lemma="πᾶς">πάντα<supplied reason="lost">ς</supplied></w>
+                    
+                    <lb xml:id="line_13" n="13"/> <w lemma="ἀγωνίζομαι">ἀγωνίζεσθαι</w> <name type="invocation"><w lemma="προσόδιος">προσόδιον</w></name> τεῖ <name type="sacrifice"><w lemma="θυσία">θυσίει</w></name>  <w lemma="ἐν">ἐν</w> τεῖ  <name type="structure"><w lemma="αὐλή">αὐλεῖ</w></name>  <w lemma="ἔχω">ἔ
+                        
+                        <lb xml:id="line_14" n="14" break="no"/> <supplied reason="lost">χο</supplied>ντας</w> τὴν  <name type="object"><w lemma="σκευή">σκευὴν</w></name> <w lemma="ὅσπερ">ἥμπερ</w>  <w lemma="ἐν">ἐν</w> τοῖ <w lemma="ἀγών">ἀγῶνι</w>  <w lemma="ἔχω">ἔχουρ<supplied reason="lost">ι</supplied></w>·
+                    
+                    <lb xml:id="line_15" n="15"/> <supplied reason="lost">τὰ δ</supplied>ὲ  <w lemma="ἆθλον">ἆθλα</w>  <w lemma="δίδωμι">δίδοσθαι</w>  <w lemma="κατά">κατὰ</w>  <w lemma="ὅδε">τάδε</w>·  <name type="title"><w lemma="ῥαψῳδός">ῥαψωιδοῖ</w></name>  <w lemma="ἑκατόν">ἑκατὸν</w>  <w lemma="εἴκοσι">εἴ
+                        
+                        <lb xml:id="line_16" n="16" break="no"/> κοσι</w>,  <w lemma="δεύτερος">δευτέροι</w>  <w lemma="πεντήκοντα">πεντήκοντα</w>,  <w lemma="τρίτος">τρίτοι</w>  <w lemma="εἴκοσι">εἴκοσι</w>· <name type="title"><w lemma="αὐλῳδός">αὐλωιδοῖ</w></name>  <w lemma="παῖς">παιδὶ</w>  <w lemma="πεντήκοντα">πε
+                            
+                            <lb xml:id="line_17" n="17" break="no"/> ντήκοντα</w>,  <w lemma="δεύτερος">δευτέροι</w>  <w lemma="τριάκοντα">τριήκοντα</w>,  <w lemma="τρίτος">τρίτοι</w>  <w lemma="εἴκοσι">εἴκοσι</w>·  <w lemma="ἀνήρ">ἀνδρὶ</w>  <name type="title"><w lemma="κιθαριστής">κιθαρισ
+                                
+                                <lb xml:id="line_18" n="18" break="no"/> τεῖ</w></name>  <w lemma="ἑκατόν">ἑκατὸν</w>  <w lemma="δέκα">δέκα</w>,  <w lemma="δεύτερος">δευτέροι</w>  <w lemma="ἑβδομήκοντα">ἑβδομήκοντα</w>,  <w lemma="τρίτος">τρίτοι</w>  <w lemma="πεντήκοντα">πεντή
+                                    
+                                    <lb xml:id="line_19" n="19" break="no"/> κοντα</w>  <w lemma="πέντε">πέντε</w>·  <name type="title"><w lemma="κιθαρῳδός">κιθαρωιδοῖ</w></name>  <w lemma="διακόσιοι">διηκόσιαι</w>,  <w lemma="δεύτερος">δευτέροι</w>  <w lemma="ἑκατόν">ἑκατὸν</w>
+                    
+                    <lb xml:id="line_20" n="20"/>  <w lemma="πεντήκοντα">πεντήκοντα</w>,  <w lemma="τρίτος">τρίτοι</w>  <w lemma="ἑκατόν">ἑκατόν</w>·  <name type="title"><w lemma="παρῳδός">παρωιδοῖ</w></name>  <w lemma="πεντήκοντα">πεντήκοντα</w>,  <w lemma="δεύτερος">δευ
+                        
+                        <lb xml:id="line_21" n="21" break="no"/> τέροι</w>  <w lemma="δέκα">δέκα</w>· <w lemma="σιτηρέσιον">σιτηρέσιον</w> δὲ  <w lemma="δίδωμι">δίδοσθαι</w> τοῖς <w lemma="ἀγωνιστής">ἀγωνισταῖς</w>
+                    
+                            <lb xml:id="line_22" n="22"/> τοῖς  <w lemma="παραγίγνομαι">παραγενομένοις</w> <w lemma="δραχμή">δραχμὴν</w> τῆς  <w lemma="ἡμέρα">ἡμέρης</w>  <w lemma="ἕκαστος">ἑκάστοι</w>  <w lemma="ἄρχω">ἀρ
+                        
+                                <lb xml:id="line_23" n="23" break="no"/> ξαμένοις</w> <w lemma="μή">μὴ</w>  <w lemma="πλείων">πλέον</w>  <w lemma="τρεῖς">τρισὶν</w>  <w lemma="ἡμέρα">ἡμέραις</w>  <w lemma="πρό">πρὸ</w> τοῦ <w lemma="προαγών">προάγωνος</w>,  <w lemma="μέχρι">μέ
+                            
+                            <lb xml:id="line_24" n="24" break="no"/> χρι</w>  <w lemma="ὅς">οὗ</w>  <w lemma="ἄν">ἂν</w> ὁ <w lemma="ἀγών">ἀγὼν</w>  <w lemma="γίγνομαι">γένηται</w>· τὸν δὲ  <w lemma="ἀγών">ἀγῶνα</w> <w lemma="τίθημι">τιθόντων</w> οἱ <name type="title"><w lemma="δήμαρχος">δήμ
+                                
+                                <lb xml:id="line_25" n="25" break="no"/> αρχοι</w></name>  <w lemma="ὡς">ὡς</w>  <w lemma="ἄν">ἂν</w>  <w lemma="δύναμαι">δύνωνται</w>  <w lemma="δίκαιος">δικαιότατα</w> καὶ  <name type="punishment"><w lemma="ζημιόω">ζημιούντων</w></name>
+                    
+                    <lb xml:id="line_26" n="26"/> τὸν  <w lemma="ἀτακτέω">ἀτακτέοντα</w> <w lemma="κατά">κατὰ</w> τὸν <name type="authority"><w lemma="νόμος">νόμον</w></name>·  <w lemma="παρέχω">παρέχειν</w> δὲ καὶ τοὺς
+                    
+                            <lb xml:id="line_27" n="27"/>  <name type="group"><w lemma="χῶρος">χώρους</w></name> <name type="animal" key="generic"> <w lemma="ἱερεῖον">ἱερέα</w></name> <name type="quality"><w lemma="κριτός">κριτά</w></name>, <name type="animal" key="ox"><w lemma="βοῦς">βοῦς</w></name>,  <w lemma="πᾶς">πάντα</w> τὰ  <w lemma="ἔτος">ἔτη</w>·  <w lemma="συντελέω">συντελεῖν</w> δὲ
+                    
+                            <lb xml:id="line_28" n="28"/> τοὺς <name type="group"><w lemma="χῶρος">χώρους</w></name>  <w lemma="εἰς">εἰς</w> τὰ  <name type="quality"><w lemma="κριτός">κριτὰ</w></name>  <w lemma="καθάπερ">καθάπερ</w> <name type="festival"><w lemma="Ἡραῖος">Ἡράοις</w></name>· τὰ δὲ <name type="portion"><w lemma="δέρμα">δέ
+                        
+                                <lb xml:id="line_29" n="29" break="no"/> ρματα</w></name>  <w lemma="λαμβάνω">λαμβάνειν</w> τῶν <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείων</w></name> τοὺς τὰ <name type="quality"><w lemma="κριτός">κριτὰ</w></name>  <w lemma="παρέχω">παρέχ
+                            
+                                    <lb xml:id="line_30" n="30" break="no"/> οντας</w>· τοὺς δὲ τῶν <name type="structure"><w lemma="ἱερός">ἱερῶν</w></name> <name type="personnel"><w lemma="ἐπιστάτης">ἐπιστάτας</w></name> <w lemma="κρίνω">κρίνειν</w> τὰ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερέα</w></name>
+                    
+                    <lb xml:id="line_31" n="31"/>  <w lemma="κατά">κατὰ</w> τὸν  <name type="authority"><w lemma="νόμος">νόμον</w></name> καὶ <w lemma="ἐπιμισθόω">ἐπιμισθοῦν</w>, <w lemma="ἄν">ἄν</w>  <w lemma="τις">τις</w>  <w lemma="μή">μὴ</w> <w lemma="παρέχω">παρέχει</w> τ
+                    
+                                <lb xml:id="line_32" n="32" break="no"/> ῶγ  <name type="group"><w lemma="χῶρος">χώρων</w></name>·  <w lemma="πωλέω">πωλεῖν</w> δὲ  <w lemma="ἐν">ἐν</w> τοῖ  <name type="structure"><w lemma="ἱερός">ἱεροῖ</w></name> τὸμ  <w lemma="βούλομαι">βολόμενον</w>  <w lemma="ὅτι">ὅτι</w>
+
+                    <lb xml:id="line_33" n="33"/>  <w lemma="ἄν"><supplied reason="lost">ἂ</supplied>μ</w>  <w lemma="βούλομαι">βόληται</w>  <w lemma="ἀτελής">ἀτελέα</w>  <w lemma="μή">μὴ</w>  <w lemma="τίθημι">τιθέντα</w>  <w lemma="τέλος">τέλος</w>  <w lemma="μηδείς">μηδὲν</w>  <w lemma="μηδέ">μηδὲ</w>  <w lemma="πράσσω">πρ
+                        
+                        <lb xml:id="line_34" n="34" break="no"/> <supplied reason="lost">ή</supplied>ττεσθαι</w> τοὺς  <name type="personnel"><w lemma="ἱεροποιός">ἱεροποιοὺς</w></name>  <w lemma="μηδείς">μηδὲν</w> τοὺς  <w lemma="πωλέω">πωλέοντ
+                            
+                            <lb xml:id="line_35" n="35" break="no"/> ας</w>· τὴν δὲ <w lemma="πομπή">πομπὴν</w>  <w lemma="καθίστημι">καθιστᾶν</w> τοὺς  <name type="title"><w lemma="δήμαρχος">δημάρχους</w></name>  <w lemma="ἐν">ἐν</w> τ
+                    
+                            <lb xml:id="line_36" n="36" break="no"/> εῖ  <name type="locality"><w lemma="ἀγορά">ἀγορεῖ</w></name>, <w lemma="ὅποι">ὅποι</w> τὰ  <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name>  <w lemma="πωλέω">πωλεῖται</w>,  <w lemma="πρότερος">πρῶτομ</w> μὲν τὰ <name type="group"><w lemma="δημόσιος">δ
+                        
+                                <lb xml:id="line_37" n="37" break="no"/> ημόσια</w></name> καὶ τὸ <name type="quality"><w lemma="καλλιστεῖον">καλλιστεῖον</w></name>,  <w lemma="ἔπειτα">ἔπειτα</w> τὰ  <name type="quality"><w lemma="κριτός">κριτά</w></name>,  <w lemma="ἔπειτα">ἔπειτα</w>
+                    
+                            <lb xml:id="line_38" n="38"/> τῶν  <name type="group"><w lemma="ἰδιώτης">ἰδιωτῶν</w></name>, <w lemma="ἐάν">ἐάν</w>  <w lemma="τις">τις</w>  <w lemma="βούλομαι">βόληται</w> <w lemma="συμπομπεύω">συμπομπεύειν</w>·  <w lemma="συμπομπεύω">συμπο
+                        
+                        <lb xml:id="line_39" n="39" break="no"/> μπευόντων</w> δὲ καὶ οἱ τῆς <w lemma="μουσική">μουσικῆς</w> <w lemma="ἀγωνιστής">ἀγωνισταὶ</w>  <w lemma="πᾶς">πάντ
+                            
+                            <lb xml:id="line_40" n="40" break="no"/> ες</w>,  <w lemma="ὅπως">ὅπως</w>  <w lemma="ἄν">ἂν</w>  <w lemma="ὡς">ὡς</w>  <w lemma="καλός">καλλίσστη</w> ἡ  <w lemma="πομπή">πομπὴ</w> καὶ ἡ <name type="sacrifice"><w lemma="θυσία">θυσίη</w></name>  <w lemma="γίγνομαι">γένηται</w>·
+                    
+                    <lb xml:id="line_41" n="41"/>  <w lemma="ἀναγράφω">ἀναγράψαι</w> δὲ τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισμα</w></name> <objectType key="stele"><w lemma="στήλη">ἐστήλει</w></objectType>  <w lemma="λίθινος">λιθίνηι</w> καὶ <w lemma="ἵστημι">στῆσ
+                        
+                        <lb xml:id="line_42" n="42" break="no"/> αι</w> <w lemma="ἐν">ἐν</w> τοῖ  <name type="structure"><w lemma="ἱερός">ἱεροῖ</w></name> τῆς  <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδος</w></name>,  <w lemma="ὅπως">ὅπως</w>  <w lemma="ἄν">ἂν</w>  <w lemma="κατά">κατὰ</w>  <w lemma="οὗτος">τοῦτα</w>  <w lemma="γίγνομαι">γί
+                            
+                            <lb xml:id="line_43" n="43" break="no"/> <unclear>ν</unclear>ηται</w> ἡ  <name type="sacrifice"><w lemma="θυσία">θυσίη</w></name> καὶ ἡ  <w lemma="μουσική">μουσικὴ</w> τεῖ <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδι</w></name> <w lemma="εἰς">εἰς</w> τὸν  <w lemma="ἀεί">ἀεὶ</w>  <w lemma="χρόνος">χ
+                                
+                                <lb xml:id="line_44" n="44" break="no"/> <supplied reason="lost">ρό</supplied>νον</w>,  <w lemma="ἐλεύθερος">ἐλευθέρων</w>  <w lemma="εἰμί">ὄντων</w>  <name type="ethnic" key="Eretria"><w lemma="Ἐρέτρια">Ἐρετριέων</w></name> καὶ <w lemma="εὖ">εὖ</w>  <w lemma="πράσσω">πρηττ<unclear>όν</unclear>
+                                    
+                                    <lb xml:id="line_45" n="45" break="no"/> <supplied reason="lost">τ</supplied>ων</w> καὶ <w lemma="αὐτοκράτωρ">αὐτοκρατόρων</w>.
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    Gods. Exekestos, son of Diodoros, proposed. So that we may celebrate the festival of Artemis in the finest way possible and that as many as possible may sacrifice, it was decided by the council and the people: (5) the city must organize a musical competition (with a budget) of a thousand drachmae for the Metaxu and the Phylake and provide lambs in this way: during five days before the festival of Artemis, and of these two must be choice animals. The musical contest must begin on the 27th of the month Anthesterion. (10) They must organize the musical competition for rhapsodes, singers to the <foreign>aulos</foreign>, kithara-players, singers to the kithara and parody-singers. All  those competing in the music contest must (also) compete in the processional ode for the sacrifice in the courtyard with the same equipment that they have in the contest. (15) Prizes are to be given according to the following: to the rhapsode (who comes in first) 120 (drachmae), to the second 50, to the third 20. To the boy singer to the <foreign>aulos</foreign> (who comes in first) 50, to the second 30, to the third 20. To the adult kithara-player (who comes in first) 110, to the second 70, to the third 55. To the singer to the kithara (who comes in first) 200, to the second 150, to the third 100. To the singer of parodies (who comes in first) 50, to the second 10. (20) A meal allowance should be given to the competitors who are present, a drachma per day to each, starting not earlier than three days before the pre-competition and until the competition starts. (25) The demarchs must organize the competition in the fairest way they can and they must punish anyone who behaves irregularly according to the law. The districts are to provide choice animals, an ox, every year, and the districts are to contribute to the choice animals just as for the festival of Hera. Those who provide the choice animals are to take the hides of the sacrificial animals. (30) The <foreign>epistatai</foreign> in charge of the sanctuaries are to choose the sacrificial animals according to the law and in case one of the districts does not provide an animal, put out a contract for it. Anyone who wants to may sell in the sanctuary whatever he wants, without tax, and not imposing any tax: neither the <foreign>hieropoioi</foreign> nor the sellers should impose tax. (35) The demarchs are to organise the procession in the marketplace, where the sacrificial animals are sold, first the public sacrificial animals and the prize beauty, then the choice animals, then the animals provided by private individuals, if any of them wants to participate in the procession. All the contestants in the musical competition must also participate in the processsion, (40) so that the procession and the sacrifice be as beautiful as possible. The decree is to be written up on a stone stele and erected in the sanctuary of Artemis, so that the sacrifice and the music festival for Artemis will proceed in this way for all time, while the people of Eretria are free and fare well and rule themselves.
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>
+                    Dieux. Exekestos, fils de Diodoros, a fait la proposition : afin que nous célébrions la fête d'Artémis de la plus belle façon possible et que le plus grand nombre possible sacrifie, il a plu au Conseil et au Peuple. (5) La cité organisera un concours musical à hauteur de mille drachmes, en l'honneur de la Metaxu et de la Phylakè, et fournira des agneaux pendant cinq jours avant la fête d'Artémis, dont deux doivent être des animaux sélectionnés. La compétition musicale commencera le 27 du mois d'Anthesterion. (10) La compétition musicale sera organisée pour des rhapsodes, des chanteurs accompagnés à l'<foreign>aulos</foreign>, des citharèdes, des chanteurs accompagnés à la cithare, des chanteurs de parodies. Tous ceux qui disputent le prix de la musique passeront le concours du chant processionnel du sacrifice dans la cour, avec le même costume qu'ils portent au concours. (15) Les prix seront attribués de la façon suivante : au rhapsode (arrivé premier) 120 (drachmes), au deuxième 50, au troisième 20; à l'enfant chanteur accompagné à l'aulos (arrivé premier) 50, au deuxième 30, au troisième 20; à l'adulte cithariste (arrivé premier) 110, au deuxième 70, au troisième 55; au chanteur accompagné à la cithare (arrivé premier) 200, au deuxième 150, au troisième 100; au chanteur de parodies (arrivé premier) 50, au deuxième 10. (20) Une indemnité de repas sera accordée aux concurrents présents, une drachme par jour à chacun, ne commençant pas plus tôt que trois jours avant la phase préparatoire au concours et jusqu'à ce que le concours ait lieu. (25) Les démarques organiseront le concours de la façon la plus juste possible et ils infligeront une amende aux contrevenants, conformément à la loi. Les districts fourniront des animaux de sacrifice sélectionnés, un bovin, chaque année, et les districts doivent contribuer aux animaux sélectionnés comme pour la fête d'Héra. Ceux qui fournissent les animaux sélectionnés prendront les peaux. (30) Les épistates des sanctuaires choisiront les animaux sacrificiels selon la loi et, si l'un des districts n'en fournit pas, qu'ils engagent une adjudication. Celui qui le désire peut vendre ce qu'il veut dans le sanctuaire, sans être frappé de taxe ni imposer de taxe : ni les hiéropes ni les vendeurs n'imposeront de taxe. (35) Les démarques organiseront la procession sur l'agora, là où se vendent les animaux sacrificiels, (en plaçant) d'abord les animaux sacrificiels publics et le vainqueur du prix de beauté, ensuite les animaux sélectionnés, ensuite ceux des particuliers, si quelqu'un souhaite prendre part à la procession. Tous les concurrents de la compétition musicale participeront à la procession, (40) afin que la procession et le sacrifice soient les plus beaux possible. Le décret sera gravé sur une stèle en pierre et érigé dans le sanctuaire d'Artémis, afin que le sacrifice et la compétition musicale adviennent ainsi pour toujours, les Érétriens étant libres, prospères et indépendants.</p>
+                
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>  
+                  
+<p>The inscription concerns the organisation of the festival for Artemis at Eretria. Artemis was the principal deity at Eretria and her annual festival was the major religious celebrations of the city and indeed attracted participants from all of Euboea (Rhodes - Osborne, Ringwood). Artemis' cult title is toponym, Amarysia, denoting her sanctuary at the site of Amarynthos (now located ca. 9 km east of Eretria). On the importance of this cult, cf. Strabo 10.10, Livy 35.38 (notably attesting to the annual character of the rites), and Pausanias 1.31.5. The first part of the decree concerns the organisation of a musical contest in the days before the festival of Artemis and describes sacrifices, categories of participants and the amount of the first, second and third prizes in each category. It also stipulates allowances for the participants. The <foreign>polis</foreign> is to provide a budget of a thousand drachmae and sacrificial lambs for the festival and the demarchs are appointed to
+organize it. The second part of the inscription concerns the provision of choice animals by the <foreign>choroi</foreign> (districts), selling goods on sanctuary premises, and the procession of the festival. For a useful collation, see now Leone.</p>
+
+<p>Lines 5-6: The rules seem to have changed in the period in which they were decided upon and written down. The budget of 1000 drachmae is not even enough for the prize money (the sum total would be 1035 drachmae) let alone the rest of the organisation and the allowances for the contestants.</p>
+                    
+<p>Line 6: According to Knoepfler (followed by Rhodes and Osborne) Μεταξύ and Φυλάκη are epithets of Artemis. Papabasileiou thought that these were designations of localities; Ziehen saw them as temporal phrases. But as Knoepfler rightly pointed out (p. 376-377), neither of these makes sense. The festival is supposed to be for all Eretrians, not just for two districts, and temporal designations in this inscription are rather more specific. Artemis is thus referred to as Μεταξύ, 'the in-between' or 'the neutral one' (on this usage of μεταξύ, cp. Arist. <title>Rhet.</title> 1.15, 1376a 30) and as Φυλάκη 'Guardian', as part of her location in the extra-urban sanctuary at Amarynthos, near the midpoint of Eretria's territory to the east. We may also take the epithets as referring to Artemis' role of protecting the Eretrians in the previous period of tyranny and civil war (cp. the references to the Eretrians' political status in lines 44-45).</p>
+                    
+<p>Lines 7-8: The term ἔγκριτος for choice animals does not occur elsewhere but is almost certainly to be equated with the choice animals (κριτά) specified in line 37. On the process of the selection of animals cf. <ref target="http://cgrn.ulg.ac.be/CGRN_86/">CGRN 86</ref> A (Kos), lines 1-20, and <bibl type="abbr" n="SEG">SEG</bibl> 45, 1508A-B; 50, 1100-1101 (Bargylia).</p>
+                    
+ <p>Line 11: The term 'parodists' (παρωιδοῖς) refers to those who parody Homeric lines by changing them minimally and applying them to new situations (Rhodes - Osborne).</p>
+                   
+<p>Lines 27ff.: The <foreign>choroi</foreign> (together) need to provide the choice sacrificial animals and an ox every year. The additional phrase seems to suggest that the individual <foreign>choroi</foreign> will together contribute towards the financing of the choice animals as they do in the festival of Hera. The proportions of the contributions of each of the <foreign>choroi</foreign> is unknown to us nor is it clear how exactly the ox was paid for. Rhodes and Osborne plausibly hypothesize that the <foreign>choroi</foreign> are districts. The demes of Eretria were organized in five regions, among which one <foreign>meso-choros</foreign>, therefore, <foreign>choros</foreign> may refer to these regional districts here. Note that here as elsewhere the decree draws on other regulations or norms (concerning the provision of choice animals for the festival of Hera).</p>
+                    
+<p>Lines 28-30: "Those who provide the choice animals are to take the hides of the sacrificial animals": the recipient in each case seems to be the whole <foreign>choros</foreign>, or, more probably, the individual representatives appointed by the <foreign>choroi</foreign> for providing the animals.</p>
+                    
+<p>Lines 33: Cf. Lupu in his commentary on <bibl type="abbr" n="NGSL">NGSL</bibl> 18 (Samos, ca. 245/4 BC) who discusses commercial activity in Greek sanctuaries. Cp. here <ref target="http://cgrn.ulg.ac.be/CGRN_222/">CGRN 222</ref> (Andania), lines 99-103.</p>
+                    
+<p>Lines 35ff.: The procession of this festival starts 'in the agora (at Eretria), where the sacrificial animals are sold' (lines 35-36). It must then have followed a road, perhaps a ἱερὰ ὁδός, to the site of Amarynthos along the coast. On the political role of such processions in strenghening the ties between a city and the rural area surrounding it, cf. Rhodes - Osborne with references.</p>
+                    
+<p>Line 37: The beauty-prize winner is the animal that had obtained a prize for its beauty during the selection process; cf. above on lines 7 and 8.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

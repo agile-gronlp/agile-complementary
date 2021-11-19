@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_171" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 171</idno>: Dedication to Zeus Ourios and Astarte Palaistine Aphrodite Ourania, followed by a small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs>, from Delos</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+				<author>Zoé Pitz</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<p> Small cylindrical white marble <rs type="objectType">altar</rs>, "à la partie supérieure et à la partie inférieure, moulure". Width here denotes the diameter of the altar.</p>
+									<p><dimensions>
+										<height unit="cm">53</height>
+										<width unit="cm">41</width>
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+									<p>Letters: <height unit="cm">1.2</height>; in lines 6 and 7: <height unit="cm">0.8</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0200" notAfter="-0100">2nd century BC</origDate></p>
+							<p><desc>Justification: lettering (Clermont-Ganneau).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Delos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599588" type="external">Delos</ref></placeName>. Found close to the southern wall of the Hypostele stoa.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by J.-M. Carbon in 05.2018.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+
+				<p> Edition here based on Roussel - Launey, <bibl type="abbr" n="ID">ID</bibl> 2305.</p>
+
+				<p> Other editions: <bibl type="author_date" n="Clermont-Ganneau 1909">Clermont-Ganneau 1909</bibl>: 307-309, with ph.; <bibl type="author_date" n="Wallensten 2014">Wallensten 2014</bibl>.</p>
+
+				<p> Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 55. </p>
+
+				<p> Further bibliography:
+					<bibl type="author_date" n="Bonnet - Pirenne-Delforge 1999">Bonnet - Pirenne-Delforge 1999</bibl>;
+					<bibl type="author_date" n="Decourt - Tziaphalias 2015">Decourt - Tziaphalias 2015</bibl>;
+					<bibl type="author_date" n="Bouchon - Decourt 2017">Bouchon - Decourt 2017</bibl>.</p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+
+				<ab>
+
+<lb xml:id="line_1" n="1"/> <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <name type="epithet" key="Ourios"><w lemma="οὔριος">Οὐρίωι</w></name> καὶ <name type="deity" key="Astarte"><w lemma="Ἀστάρτη">Ἀστάρτηι</w></name> <name type="epithet" key="Palaistine"><name type="ethnic" key="Palestine"><w lemma="Παλαιστινή">Παλαιστινῆι</w></name></name>
+
+<lb xml:id="line_2" n="2"/> <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδίτηι</w></name> <name type="epithet" key="Ourania"><w lemma="Οὐρανία">Οὐρανίαι</w></name>, <name type="deity" key="generic"><w lemma="θεός">θεοῖς</w></name> <w lemma="ἐπήκοος">ἐπηκόοις</w>,
+
+<lb xml:id="line_3" n="3"/> Δάμων Δημητρίου <name type="ethnic" key="Askalon">Ἀσκαλωνίτης</name>
+
+<lb xml:id="line_4" n="4"/> <w lemma="σῴζω">σωθεὶς</w> <w lemma="ἀπό">ἀπὸ</w> <w lemma="πειρατής">πειρατῶν</w>,
+
+<lb xml:id="line_5" n="5"/> <name type="invocation"><w lemma="εὐχή">εὐχήν</w></name>.
+
+<lb xml:id="line_6" n="6"/> <w lemma="οὐ">οὐ</w> <w lemma="θεμιτός">θεμιτὸν</w> δὲ <name type="sacrifice"><w lemma="προσάγω">προσάγειν</w></name>
+
+<lb xml:id="line_7" n="7"/> <name type="animal" key="goat"><w lemma="αἴγειος"><unclear>α</unclear>ἴγειον</w></name>, <name type="animal" key="swine"><w lemma="ὑϊκός">ὑικόν</w></name>, <name type="animal" key="ox"><w lemma="βοῦς">βοὸς</w></name> <name type="gender"><w lemma="θῆλυς">θηλείας</w></name>. </ab>
+			</div>
+
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+
+				<p>To Zeus Ourios, to Astarte Palaistine Aphrodite Ourania, gods who listen, Damon, son of Demetrios, of the city Ascalon [has dedicated this altar], having been saved from pirates, (consecrated the altar as a result of his) fulfilled vow. It is not allowed to bring in goat meat, pork or (meat) from a cow.</p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+
+				<p> À Zeus Ourios, Astartè Palaistinè Aphrodite Ourania, divinités qui écoutent les prières, Damon, fils de Démétrios, de la cité d’Ascalon, après avoir été sauvé des pirates, (a consacré l'autel) pour avoir exaucé son voeu. Il n’est pas permis d'apporter de la viande de chèvre, ni du porc, ni (de la viande) de vache.</p>
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+
+<p> On this small altar dedicated on Delos and in Greek, by a citizen of Ascalon who escaped an attack from pirates, two oriental divinities are evoked, and the dedication is followed by a small cultic regulation in the same hand (lines 6-7).</p>
+
+<p> Lines 1-2: Zeus Ourios is the god of favourable wind, known on Delos by multiple dedications in which the context is navigation and maritime expeditions (<bibl type="abbr" n="ID">ID</bibl> 1561; <bibl type="abbr" n="ID">ID</bibl> 2128). We sometimes find an association of this god with Egyptian deities, themselves protectors of those who navigate (<bibl type="abbr" n="ID">ID</bibl> 2179). Four dedications to Zeus Ourios were found in the Sarapieion C; three others, among which the present document, in the proximity of the Hypostele room to the south of the Sarapieion, where there was also an altar of Poseidon Nauklarios: most probably this conjunction of gods is not a coincidence but reflects a locus of cult relating to maritime affairs. Astarte Palaistine Aphrodite Ourania is known on Delos by another dedication on an altar (<bibl type="abbr" n="ID">ID</bibl> 1719). In both cases, a (former?) inhabitant of Ascalon made the dedication. The goddess Astarte 'of Palestine' was worshipped in the sanctuary of the gods of Ascalon at the foot of Mount Kynthos, together with Poseidon of Ascalon; she also had a famous sanctuary at Berytos. On Aphrodite Ourania in this context, cf. Bonnet - Pirenne-Delforge, and Wallensten. </p>
+
+<p> Line 2: The adjective ἐπήκοος is used in literature and inscriptions to indicate that gods "listen to prayer". Apparently, such an appeal to the 'good reputation' of the god, as well as upholding a reciprocal relationship with faithful worshippers, was thought (hoped) to have a performative effect.</p>
+
+<p> Line 5: The word εὐχήν on its own is an abbreviated form of saying that the dedication is made "in return for a fulfilled prayer", as a result of a vow.</p>
+
+<p> Lines 6-7: At first sight, it would be tempting to take the verb προσάγω here in the sense of "lead in to sacrifice", thus referring to sacrificial animals (cf. e.g. the restoration at <ref target="http://cgrn.ulg.ac.be/CGRN_43">CGRN 43</ref>, line 29). However, the final phrase of the inscription, βοὸς θηλείας, expressed in the genitive following the two accusatives αἴγειον and ὑικόν makes this reading improbable. In other words, αἴγειον and ὑικόν, both adjectival, do not appear to refer to whole animals, but rather to their meat, and the implicit referent behind the genitive βοὸς θηλείας must very probably be something like κρέας. Interestingly in this regard, the verb προσάγω can refer, not to bringing in a sacrifice as such, but rather to serving food: cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. (4) . It would therefore seem that the prohibition here is one that is specific to this Near Eastern cult established on Delos: no meat from goats, swine, or cows is to be offered on trays as a sacrifice and served as such in the sanctuary. For the offering of trays containing meat and other items in Near Eastern cult, see e.g. the inscription from Marmarini, <ref target="http://cgrn.ulg.ac.be/CGRN_225">CGRN 225</ref>, A, lines 30ff., but note that these were also featured in Greek cult too, e.g. at the Panathenaia (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. σκαφηφορέω, σκαφηφόρος). The prohibition of particular species of animals in connection with sacrificial ritual, such as goat and swine here, are common in cultic regulations and the significance of any possible parallels is to be deprecated, though it can still justifiably be recalled that the interdiction against swine was particularly widespread in a Near Eastern context. For similar interdictions concerning goats and swine, see esp. here <ref target="http://cgrn.ulg.ac.be/CGRN_27">CGRN 27</ref> (Thasos). The interdiction against cow meat is more singular, however, and thus noteworthy; it remains to be more satisfactorily explained.</p>
+
+
+
+			</div>
+		</body>
+	</text>
+</TEI>

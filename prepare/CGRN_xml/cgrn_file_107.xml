@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_107" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 107</idno>: <rs type="textType" key="decree">Decree</rs> concerning the donation of Agasikles and Nikagora to Poseidon at Kalaureia</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p><rs type="objectType">Stele</rs> of bluish marble, built into a base and cast therein with lead. </p>
+		
+	<p><dimensions>
+		<height unit="cm">38</height>
+		<width unit="cm">31.5</width>
+		<depth unit="cm">8</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p> The text seems to consist of two parts, lines 1-10, the first part is badly damaged. The second part (line 11 onwards) records a decision by the people concerning the use of the donated money.</p>
+			<p>Letters: <height unit="cm">unknown</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0300" notAfter="-0200">3rd century BC</origDate></p>
+							<p><desc>Justification: letterforms (Fraenkel).</desc></p>
+						</origin>
+	<provenance><p><placeName type="ancientFindspot" key="Kalaureia" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570325" type="external">Kalaureia</ref></placeName>. Found in the sanctuary of Poseidon (north-east of the main city Poros) at Stoa C. Now in the school on Poros.</p></provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    		
+	    				<p> Edition here based on Fraenkel <bibl type="abbr" n="IG IV">IG IV</bibl> 841. </p>
+	    				<p> Other edition: <bibl type="author_date" n="Wide - Kjellberg 1895">Wide - Kjellberg 1895</bibl>: 287-293 no. 2.</p>
+	    			
+	    				<p> Cf. also:
+	    					Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 53; 
+	    					Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 59; 
+	    					Brodersen <bibl type="abbr" n="HGIU">HGIU</bibl> 348;
+	    					<bibl type="author_date" n="Guarducci 1974">Guarducci 1974</bibl>: 249-250;
+	    					<bibl type="author_date" n="Guarducci 1987">Guarducci 1987</bibl>: 260;
+	    					<bibl type="abbr" n="SEG">SEG</bibl> 38, 324.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	    				
+	    			<lb/>
+	    				
+	    				
+	    				<lb xml:id="line_1" n="1"/> <orig>σ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+	    				<lb xml:id="line_2" n="2" break="no"/><orig>ν</orig> Ἀ<unclear>ρ</unclear>ισ<supplied reason="lost">τ</supplied><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> τῶι</supplied> <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν"><supplied reason="lost">Π</supplied>
+	    				
+	    				<lb xml:id="line_3" n="3" break="no"/>οσειδᾶν<supplied reason="lost">ι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+	    				<lb xml:id="line_4" n="4" break="no"/>α Εὐκλεία<unclear>ι</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+	    					<lb xml:id="line_5" n="5" break="no"/>αιους <w lemma="ἀπό">ἀφ’</w> ἕω κα<supplied reason="lost">τὰ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+	    				<lb xml:id="line_6" n="6"/> καὶ Νικαγόρα Σωτ<gap reason="lost" extent="unknown" unit="character"/>
+	    				
+	    				<lb xml:id="line_7" n="7" break="no"/>ις, Λαοδίκα, Διονυσία, <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">κ</supplied>	
+	    				<lb xml:id="line_8" n="8" break="no"/>αὶ <w lemma="εἰ">εἴ</w> <w lemma="τις">τινάς</w> <w lemma="κα">κα</w> <w lemma="ἀφίημι">ἀφῆ<supplied reason="omitted">ι</supplied></w> <w lemma="ἐλεύθερος">ἐλευ<supplied reason="lost">θέρας</supplied></w> <supplied reason="lost">Ἀγασικλῆς</supplied>
+	    					
+	    				<lb xml:id="line_9" n="9"/> ἢ Νικαγόρα, <w lemma="μέτειμι">μετεῖμεν</w> <orig>δα<unclear>μ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τοῦ</supplied>
+	    				
+	    				<lb xml:id="line_10" n="10"/> Θεαρίχου. <space extent="unknown" unit="character"/>
+	    				
+	    		
+	    <lb xml:id="line_11" n="11"/> <w lemma="ἐπί">ἐπὶ</w> <name type="personnel"><w lemma="ταμίας">ταμία</w></name> Σωφάνεος τοῦ Πολι<gap reason="lost" quantity="4" unit="character"/> <w lemma="μείς"><supplied reason="lost">μη</supplied>
+	    					
+	    <lb xml:id="line_12" n="12" break="no"/>νὸς</w> <name type="month"><w lemma="Γεράστιος">Γεραιστίου</w></name>, <w lemma="δοκέω">ἔδοξε</w> τοῖς <name type="group"><w lemma="πολίτης">πολί<supplied reason="lost">ταις</supplied></w></name> <w lemma="περί"><supplied reason="lost">περὶ</supplied></w> <supplied reason="lost">τ</supplied>
+	    				
+	    <lb xml:id="line_13" n="13" break="no"/>οῦ <w lemma="ἀργύριον">ἀργυρίου</w> καὶ τοῦ <w lemma="χωρίον">χωρίου</w> <w lemma="ὅς">οὗ</w> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνέθη<supplied reason="lost">καν</supplied></w></name> <supplied reason="lost">Ἀ</supplied>
+	    				
+	    <lb xml:id="line_14" n="14" break="no"/>γασικλῆς καὶ Νικαγόρα τῶι <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν">Ποσειδᾶνι</w></name>· <name type="personnel"><w lemma="ἐπιμελητής">ἐ<supplied reason="lost">πιμε</supplied>
+	    					
+	    <lb xml:id="line_15" n="15" break="no"/>λητὰς</w></name> <w lemma="καθίστημι">καταστᾶσαι</w> <w lemma="δύο">δύο</w> <w lemma="ὅστις">οἵτινες</w> τό τε <w lemma="ἀργύριον">ἀργύ
+	    						
+	    <lb xml:id="line_16" n="16" break="no"/>ριον</w> <w lemma="ἐκδανείζω">ἐκδανεισοῦντι</w> <w lemma="κατά">κατὰ</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="τριάκοντα">τριάκο
+	    							
+	    <lb xml:id="line_17" n="17" break="no"/>ντα</w> <w lemma="ἐπί">ἐπ’</w> <w lemma="ἔγγυος">ἐνγύοις</w> ἢ <w lemma="ὑποθήκη">ὑποθήκαις</w> <w lemma="ἀρεστός">ἀρεστοῖς</w> τοῖ<supplied reason="lost">ς</supplied>
+	    				
+	    <lb xml:id="line_18" n="18"/> <name type="personnel"><w lemma="ἐπιμελητής">ἐπιμεληταῖς</w></name> καὶ τὸ <w lemma="χωρίον">χωρίον</w> <w lemma="ἐκδίδωμι">ἐκδωσοῦντι</w> <w lemma="δωτίνη">δωτ
+	    					
+	   <lb xml:id="line_19" n="19" break="no"/>ίνας</w> <w lemma="μετά">μετὰ</w> τᾶς <name type="group"><w lemma="ἐκκλησία">ἐκκλησίας</w></name> <name type="authority"><w lemma="κατά">κατὰ</w> <w lemma="συγγραφή">συνγραφάν</w></name>,
+	    				
+	    <lb xml:id="line_20" n="20"/> καὶ <w lemma="πράσσω">πράξαντες</w> τὸ <w lemma="διάφορος">διάφορον</w> τοῦ <w lemma="ἀργύριον">ἀργυρίου</w> καὶ τὰ
+	    				
+	   <lb xml:id="line_21" n="21" break="no"/>ν <w lemma="δωτίνη">δωτίναν</w> τὰν <w lemma="ἐκ">ἐκ</w> τοῦ <w lemma="χωρίον">χωρίου</w> <name type="sacrifice"><w lemma="θύω">θυσοῦντι</w></name> τῶι <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν">Π
+	    					
+	    <lb xml:id="line_22" n="22" break="no"/>οσειδᾶνι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλειον</w></name> καὶ τῶι <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> τῶι <name type="epithet"><w lemma="σωτήρ">Σωτῆ
+	    						
+	    <lb xml:id="line_23" n="23" break="no"/>ρι</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλειον</w></name>, <name type="structure"><w lemma="βωμός">βωμὸν</w></name> <w lemma="ἵζω">ἑσσάμενοι</w> <w lemma="πρό">πρὸ</w> τᾶν <name type="object"><w lemma="εἰκών">ε
+	    							
+	    	<lb xml:id="line_24" n="24" break="no"/>ἰκόνων</w></name> <w lemma="αὐτός">αὐτῶν</w> τᾶν <w lemma="πρός">ποὶ</w> <supplied reason="lost">τ</supplied>ῶι <name type="structure"><w lemma="βουλευτήριον"><unclear>β</unclear>ουλευτηρίωι</w></name>· τὰν
+	    				
+	    	<lb xml:id="line_25" n="25"/> δὲ <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> <w lemma="ποιέω">ποιησοῦντι</w>, <w lemma="καθά">καθὼς</w> <w lemma="ἐν">ἐν</w> τᾶι <name type="authority"><objectType><w lemma="στήλη">στάλαι</w></objectType></name> <w lemma="γράφω">γέγ
+	    					
+	    <lb xml:id="line_26" n="26" break="no"/>ραπται</w>, <w lemma="κατά">κατ’</w> <w lemma="ἐνιαυτός">ἐνιαυτόν</w>, καὶ τὰ <w lemma="λοιπός">λοιπὰ</w> <w lemma="ἐπιμελέομαι">ἐπιμελησοῦν
+	    						
+	    	<lb xml:id="line_27" n="27" break="no"/>ται</w> <w lemma="ὡς">ὡς</w> <w lemma="ὅτι">ὅτι</w> <w lemma="χαρίεις">χαριέστατα</w> καὶ <name type="personnel"><w lemma="εὔθυνος">εὐθύνους</w></name> <w lemma="εἰσφέρω">εἰσοισοῦν
+	    							
+	    <lb xml:id="line_28" n="28" break="no"/>τι</w> τᾶι <w lemma="πρότερος">πράται</w> <w lemma="ἡμέρα">ἁμέραι</w> <name type="authority"><w lemma="ἐπί">ἐπὶ</w> ταῖς <w lemma="σπονδή">σπονδαῖς</w></name> καὶ <w lemma="λόγος">λόγ
+	    								
+	    <lb xml:id="line_29" n="29" break="no"/>ον</w> <w lemma="ἀποδίδωμι">ἀποδωσοῦντι</w> τοῖς <w lemma="αἱρέω">αἱρεθεῖσιν</w> <name type="personnel"><w lemma="εὔθυνος">εὐθύνοις</w></name> τᾶι
+	    				
+	    <lb xml:id="line_30" n="30"/> <w lemma="ἐπεχές">ἐπεχὲς</w> <w lemma="ἡμέρα">ἁμέραι</w> καὶ <w lemma="προσόμνυμι">ποτομοσοῦνται</w> τὸν <name type="deity" key="Zeus"><w lemma="Ζεύς">Δία</w></name> τὸν <name type="epithet"><w lemma="σωτήρ">Σ
+	    					
+	    	<lb xml:id="line_31" n="31" break="no"/>ωτῆρα</w></name>, <w lemma="ἦ">εἶ</w> <w lemma="μήν">μὰν</w> <w lemma="μηθείς">μηθὲν</w> <w lemma="νοσφίζω">νοσφίζεσθαι</w>, <w lemma="ἐπί">ἐπὶ</w> δὲ τὰν <w lemma="σπονδή">σπ
+	    						
+	    <lb xml:id="line_32" n="32" break="no"/>ονδὰν</w> <w lemma="αἱρέω">αἱρείσθωσαν</w> τοὺς <name type="personnel"><w lemma="ἐπιμελητής">ἐπιμελητὰς</w></name> <w lemma="εἰς">εἰς</w> τὸν <w lemma="ἐπεχές">ἐ
+	    							
+	   <lb xml:id="line_33" n="33" break="no"/>πεχὲς</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> τᾶι <w lemma="πρότερος">πράται</w> <w lemma="ἡμέρα">ἁμέραι</w>.    
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>[...] Aris[t... to] Poseidon [... to (?)] Eukleia [...] the [...] (5) from him according (?) [...] and Nikagora Sot[...], Laodika, Dionysia [...] and if [Agasikles] or Nikagora have freed any women, they are to participate [... son of] (10) Thearichos.</p> 
+		<p>When Sophanes the son of Poli[...] was treasurer, in the month Gerastios. The citizens have decided with respect to the money and the land that Agasikles and Nikagora dedicated to Poseidon: (15) to appoint two <foreign>epimeletai</foreign> who lend out the money at an interest, 30 drachmae at a time, under securities or satisfactory pledges given to the <foreign>epimeletai</foreign>, who farm out the land according to a contract with the assembly, (20) and who, having received the interest on the money and the rent of the land, sacrifice to Poseidon an adult animal, and to Zeus the Saviour an adult animal, having set up an altar in front of their statues near the <foreign>bouleuterion</foreign>. (25) They will make the sacrifice, just as it is written on the stele, every year, and take care of all other things as elegantly as possible, and introduce public examiners on the first day at the solemn libations and give an account to the examiners that have been chosen (30) on the following day and swear to Zeus Soter truly not to rob anything, and upon this solemn libation, let them choose the <foreign>epimeletai</foreign> for the next year on the first day.</p>
+		
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[...] Aris[t... à] Poséidon [... à (?)] Eukleia [...] les [...] (5) de lui selon (?) [...] et Nikagora Sot[...], Laodika, Dionysia [...] et si [Agasiklès] ou Nikagora ont affranchi certaines femmes, qu'ils/elles participent [... fils de] (10) Thearichos.</p>
+		<p>Alors qu’était trésorier Sophanos, fils de Poli[- - -], au mois de Geraistios, les citoyens ont décidé, à propos de l’argent et du terrain qu’[A]gasiklès et Nikagora ont offert en consécration à Poséidon, (15) qu’on institue deux épimélètes qui prêteront l’argent à intérêt pour 30 drachmes moyennant des garanties ou des hypothèques qui aient l’agrément des épimélètes et qui donneront le terrain en location selon un contrat avec l’assemblée. (20) Après avoir acquitté les intérêts de l’argent et le loyer du terrain, ils offriront en sacrifice à Poséidon un animal adulte et à Zeus Soter un animal adulte, ayant dressé un autel devant leurs statues qui se trouvent près du <foreign>bouleuterion</foreign>. (25) Ils célèbreront le sacrifice, conformément à ce qui a été écrit sur la stèle, chaque année, et ils s’occuperont de tout de la manière la plus élégante possible et ils introduiront en particulier des vérificateurs aux comptes le premier jour lors des libations solennelles et ils rendront compte (30) le jour suivant aux vérificateurs qui auront été choisis et ils jureront en outre par Zeus Soter de ne rien détourner, et sur cette libation solennelle, qu’ils choisissent les épimélètes pour l’année suivante le premier jour.</p>
+					<p>(traduction d'après Y. Lafond)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+
+<p>As preserved, the inscription concerns a dedication to Poseidon by Agasikles and his wife Nikagora to Poseidon, consisting of a sum of money (of an unknown amount) and a piece of land (cf. lines 13-14). The donation was apparently entrusted to the polis, since the text records a decree passed by the people of Kalaureia concerning the use of these funds (lines 11-12ff.). Two caretakers or supervisors (<foreign>epimeletai</foreign>) are appointed annually by the city to lend out the money and farm out the land (lines 14-19). From the interest and proceeds, the performance of sacrifices to Poseidon and Zeus are to be funded. These annual rites are take place at altar constructed by the <foreign>epimeletai</foreign>, in front of the statues of Agasikrates and Nikagora which already appear to have been erected at or near the civic <foreign>bouleuterion</foreign> at Kalaureia (lines 19-25). For further sacrificial details, reference is made to what is "written on the stele" (lines 25-26, see below), apparently another document concerning the donation of this couple and the cult they instituted, but which has not been preserved. The final part of the inscription (lines 27ff.) prescribes the procedure for examining the work of the <foreign>epimeletai</foreign> and the selection of the <foreign>epimeletai</foreign> for the next year.</p>
+	
+<p>The inscription appears to be closely connected to another text from Kalaureia (<ref target="http://cgrn.ulg.ac.be/CGRN_106/">CGRN 106</ref>) similarly recording the dedication of a sum of money to Poseidon by a woman called Agasikratis, who has a daughter also named Nikagora. Thus, she may have been the mother of the Nikagora in the present inscription, though this is not absolutely confirmed (the reading of Νικαγόρα Ζωτ- does not perfectly match, but would substantially improve if the final trace should be read as φ, Νικαγόρα Ζωφ-, so 'daughter of Sophanes'; τ appears clearly in Fränkel, but the trace is unclear in Wide and Kjellberg). The content and verbal formulation of <ref target="http://cgrn.ulg.ac.be/CGRN_106/">CGRN 106</ref> is rather similar: there, too, an altar is to be set up near familial statues, adult (or 'unblemished') animals are to be sacrificed to Poseidon and Zeus Soter from the interest of the endowment, and <foreign>epimeletai</foreign> are appointed to manage these rituals. If the identification of Nikagora as daughter of Agasikratis is correct, this family would thus be linked to this sanctuary of Poseidon over multiple generations. Poseidon was the most important god of the island Kalaureia (Str. 8.6.14); there is archaeological evidence for a cult of Poseidon already in Mycenaean times. There seems to be no other evidence for the cult of Zeus Soter on Kalaureia/Poros.</p>				
+	
+<p>Lines 1-10 and 25-26: We cannot make out much in the first ten lines, but given the dative τῶι Ποσειδᾶν[ι] (and perhaps an Artemis Eukleia?), and the name Νικαγόρα (twice), we may think that we have here a fragment of the act of endowment and foundation for the cult, with the specifications of the sacrifices to be made (Wide - Kjellberg). This is perhaps what is referred to in line 25 (καθὼς ἐν τᾶι στάλαι γέγραπται). Cp. <ref target="http://cgrn.ulg.ac.be/CGRN_152/">CGRN 152</ref> (Thera) which similarly starts with a testament made by Epikteta and then records the decision made concerning it. The regulations given "on the stele", a document that is now lost, may alternatively have been the document recording the donation and the foundation itself. </p>
+						
+<p>Lines 28 and 31-32: The word σπονδή in these lines is not only to be taken as referring literally to libations, but also—in the second case, more clearly—accompanies the swearing of an oath to Zeus Soter, a preliminary gesture before the selection of new annual officials.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

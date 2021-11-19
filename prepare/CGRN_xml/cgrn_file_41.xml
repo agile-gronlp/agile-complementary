@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_41" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 41</idno>: Fragment (perhaps) from a <rs type="textType" key="priestly contract">contract</rs> concerning a priesthood on Chios</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> <rs type="objectType" key="stele">Stele</rs>, heavily damaged and broken on all sides except for the back and a portion of the left.</p>
+		
+	<p><dimensions>
+		<height unit="cm">28</height>
+		<width unit="cm">25</width>
+		<depth unit="cm">22</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p>Letters: <height unit="cm">1.5</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0425" notAfter="-0350">ca. 425-350 BC</origDate></p>
+							
+	<p><desc>Justification: lettering and context from similar finds (Matthaiou).</desc></p>
+						</origin>	
+	<provenance><p><placeName type="ancientFindspot" key="Chios" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550497" type="external">Chios</ref></placeName>. Perhaps found in the 1940s or 50s by N.M. Kontoleon, but not published at that time. Now in Chios Museum (inv. no. MX 1036).</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by J.M. Carbon and S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p>Edition here based on <lb/><bibl type="author_date" n="Matthaiou 2006">Matthaiou 2006</bibl>: 103-111, with ph. figs. 1-2, and including preliminary notes and readings by Kontoleon and Forrest.</p>
+	    			<p>Cf. also:  <bibl type="abbr" n="SEG">SEG</bibl> 56, 997.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	    	
+<lb/><gap extent="unknown" unit="line" reason="lost"/>		
+	    				
+<lb xml:id="line_1" n="1"/><orig>οε</orig><gap reason="lost" quantity="2" unit="character"/><orig>ωιε</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+	    				<lb xml:id="line_2" n="2"/><name type="vegetal"><w lemma="θύον">θύη</w></name> <choice><corr>ἀφ᾽</corr><sic>Ι</sic></choice> ὧν <supplied reason="lost">θύηι</supplied> <gap reason="lost" extent="unknown" unit="character"/>  
+	    				
+<lb xml:id="line_3" n="3"/><name type="person"><w lemma="ξένος"><unclear>ξ</unclear>ένον</w></name> <name type="sacrifice"><w lemma="θύω">θύει</w></name><supplied reason="lost">ν</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_4" n="4" break="no"/><orig>εν</orig>· τῶι δὲ <name type="person"><w lemma="ξένος">ξένω<supplied reason="lost">ι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_5" n="5"/>τὸν <name type="personnel"><w lemma="ἱερεύς">ἱέ<unclear>ρ</unclear>εων</w></name> <w lemma="προϊεράομαι"><w lemma="προϊερατεύω">προ<unclear>ϊε</unclear></w></w><gap reason="lost" extent="unknown"/> <supplied reason="lost"><w lemma="ἐάν">ἢν</w> δὲ</supplied> 
+	    				
+<lb xml:id="line_6" n="6"/><w lemma="μή">μὴ</w> <w lemma="βούλομαι"><unclear>β</unclear>ούληται</w> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱέ<unclear>ρε</unclear><supplied reason="lost">ως</supplied></w></name><supplied reason="lost">,</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_7" n="7"/><orig>ΕΙΝ</orig><gap reason="lost" quantity="6" unit="character" precision="low"/><orig>ων προ</orig><gap reason="lost" extent="unknown" unit="character"/> <w lemma="δίδωμι"><supplied reason="lost">δίδο</supplied>
+	    					
+<lb xml:id="line_8" n="8" break="no"/>σθ<unclear>α</unclear>ι</w> <unclear>δ</unclear>ὲ <unclear>τ</unclear>ῶι <name type="personnel"><w lemma="ἱερεύς">ἱ<unclear>ερ</unclear>εῖ</w></name> <orig>Ο</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_9" n="9"/><name type="portion"><w lemma="γλῶσσα">γλῶσσαν</w></name> <w lemma="ἀπό">ἀ<unclear>π</unclear>᾽</w> <w lemma="ἕκαστος">ἑκ<supplied reason="lost">άσ</supplied><unclear>τ</unclear>ου</w> <name type="animal" key="generic"><w lemma="ἱερεῖον"><supplied reason="lost">ἱερείου</supplied></w></name> <supplied reason="lost">καὶ</supplied>
+	    				
+<lb xml:id="line_10" n="10"/><gap reason="lost" quantity="2" unit="character"/><orig>ον</orig>, <w lemma="δύο">δύ᾽</w> <w lemma="ὀβολός">ὀβολούς</w>· ἂν δὲ <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_11" n="11"/><w lemma="δίδωμι"><supplied reason="lost">δί</supplied><unclear>δ</unclear>οσθαι</w> τῶι <name type="personnel"><w lemma="ἱερεύς">ἱε<unclear>ρ</unclear>εῖ</w></name> <name type="portion"><w lemma="γλῶσσα">γ̣λῶ<unclear>σ</unclear><supplied reason="lost">σαν</supplied></w></name> <w lemma="ἀπό"><supplied reason="lost">ἀπ᾽</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἑκά</supplied>
+	    					
+<lb xml:id="line_12" n="12" break="no"/><supplied reason="lost">στο</supplied><unclear>υ</unclear></w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείου</w></name> κ<supplied reason="lost">αὶ</supplied> <name type="portion"><w lemma="σπλάγχνον"><unclear>σ</unclear>π<unclear>λ</unclear><supplied reason="lost">άγχνα</supplied></w></name> <supplied reason="lost">τὰ</supplied> <w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w> <name type="object"><w lemma="χείρ"><supplied reason="lost">χε</supplied>
+	    						
+<lb xml:id="line_13" n="13" break="no"/><supplied reason="lost">ῖρας (?)</supplied></w></name><supplied reason="lost">,</supplied> <name type="vegetal"><w lemma="θύον"><supplied reason="lost">θύ</supplied>η</w></name> <w lemma="ἀπό">ἀφ᾽</w> ὧν ἂ<unclear>ν</unclear> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύηι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_14" n="14"/><gap reason="lost" extent="unknown" unit="character"/><orig>Ο</orig><gap reason="lost" quantity="1" unit="character"/><orig>ΔΡ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...] burnt-offerings [from which one makes smoke...] a foreigner is to sacrifice [...] But for the foreigner [...] (5) the priest officiates on his behalf [...] And if the priest does not wish [...] Give to the priest [...] the tongue from each [sacrificial animal and (10) ...] two obols. But if [...] give to the priest the tongue [from each] sacrificial animal and the entrails [on the hands (of the statue)], [burnt-offerings] from which [one makes smoke...] </p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p> [...] offrandes à brûler [dont on fait des fumigations...] un étranger doit sacrifier [...] Mais pour l'étranger [...] (5) le prêtre sacrifie pour lui [...] Si le prêtre ne souhaite pas [...] Donner au prêtre [...] la langue de chaque [animal sacrificiel et (10) ...] deux oboles. Mais si [...] donner au prêtre la langue [de chaque] animal sacrificiel et les viscères [placés sur les mains (de la statue), offrandes à brûler] dont [on fait des fumigations ...]</p>
+				
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This fragmentary inscription is sufficiently preserved to suggest that it was either a general regulation concerning a priesthood, or perhaps a contract for the sale of this office, two types of documents which are regularly found in Chios during the 5th and 4th centuries BC. For a general priestly contract, see e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_36/">CGRN 36</ref>; for sales, see e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_37/">CGRN 37</ref>. The fragments of the regulation appear to propose different scenarios under which the priest receives certain sets of perquisites: perhaps a missing list of portions above (lines 1-2); then, when a foreigner wishes to sacrifice (lines 3-10); finally, the fragment concludes with another hypothetical case, now lost (lines 10-13).</p>
+						
+<p> Line 1: Read by Kontoleon, but no longer visible on the stone.</p>
+						
+<p> Line 2: The phrase may be restored as a common one on Chios, cf. also <ref target="http://cgrn.ulg.ac.be/CGRN_36/">CGRN 36</ref> (etc.) and here also line 13. It is usually interpreted as referring to "offerings from which one makes smoke", in other words incense or some aromatic wood to be burnt (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. θύον I-II; cp. also θύος). Since the phrase occurs as a part of lists of perquisites (cf. again line 13 and other instances from Chios), it is unclear exactly how incense could be taken away by the priest after the sacrifice itself: perhaps the incense or wood was not completely incinerated, and some portion of it might then remain the priest's property.</p>
+						
+<p> Line 5: Cf. Matthaiou's discussion of the term to be restored here. There are two possible verbal forms, προϊεράομαι and προϊερατεύω, which are more or less tantamount to the same expression: "to offer sacrifice on behalf of someone else" (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. προϊεράομαι II).</p>
+						
+<p> Lines 6-7: As <bibl type="abbr" n="SEG">SEG</bibl> comments, "Apparently when a foreigner wished to sacrifice, he first asked the priest to perform the sacrifice; if the priest declined to do so, another citizen performed it". Accordingly, the following restoration might be envisaged: [ἐξ]ε̑ν[αί τινα τῶν ἀστ]ῶν προϊ[ρητεύειν]. The law concerning Heracles, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_50/">CGRN 50</ref>, lines 10-12, makes the meaning quite clear: ἐὰν δ[ὲ ὁ] | ἱερεὸς μὴ παρῆι προιερη[τευ]|έτω τις... In both cases, the priest may still have received the same perquisites (cf. lines 7-10).</p>
+						
+<p> Line 9: The tongue is very commonly found as one of the prime priestly prerogatives on Chios, cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_36/">CGRN 36</ref>, lines 2-3, and see Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> p. 310; but it is also found elsewhere.</p>
+						
+<p>Lines 12-13: Lists of portions of meat on Chios also habitually contain this sort of phrase: the entrails "placed in the hands" or "on the knees", or both. These have correctly been interpreted as parts of the entrails which were offered to the god and deposited on the hands and knees of his statue, at least temporarily, and much like offerings placed on the table. They could then be taken away as a choice portion by the priest, cf. also <ref target="http://cgrn.ulg.ac.be/CGRN_36/">CGRN 36</ref>, lines 4-6, and <ref target="http://cgrn.ulg.ac.be/CGRN_88/">CGRN 88</ref>, lines 2-3, for further instances.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

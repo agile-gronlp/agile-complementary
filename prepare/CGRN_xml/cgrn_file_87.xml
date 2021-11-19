@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_87" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 87</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> from Samos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Narrow <rs type="objectType" key="stele">stele</rs> of white marble, intact on the top and left, otherwise broken. </p>
+		
+	<p><dimensions>
+		<height unit="cm">19.5</height>
+		<width unit="cm">9</width>
+		<depth unit="cm">4.5</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Quasi-stoichedon; hence we also attempt to estimate the probable gaps (notably on the basis of lines 3-4; cp. Hallof's edition).</p>
+			<p>Letters: <height unit="mm">7</height>, with slightly curved <foreign>hastae</foreign>; round letters smaller <height unit="mm">5</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+	<p><origDate notBefore="-0375" notAfter="-0325">ca. 350 BC</origDate></p>
+							
+		<p><desc>Justification: lettering. </desc></p>
+						</origin>
+	<provenance><p><placeName type="ancientFindspot" key="Samos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599925" type="external">Samos</ref></placeName>. Found in 1932 at the village of Pythagorion, but thought to have been brought from Glyphada. Current location unknown, but thought to have been transported to the storehouse at Pythagorion.</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by J.M. Carbon</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p>Edition here based on Hallof <bibl type="abbr" n="IG XII.6">IG XII.6</bibl> 260.</p>
+	    			<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 80; <ref target="http://telota.bbaw.de/ig/IG%20XII%206,%201,%20260" type="external">IG-online</ref>, with the Greek text and a translation in German.
+	    			</p>
+	    			<p>Further bibliography: <bibl type="author_date" n="Kearns 1994">Kearns 1994</bibl>; <bibl type="author_date" n="Van Straten 1995">Van Straten 1995</bibl>: 163; <bibl type="author_date" n="Pirenne-Delforge 2004">Pirenne-Delforge 2004</bibl>; <bibl type="author_date" n="Kearns 2011">Kearns 2011</bibl>.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	    	
+	    				<lb xml:id="line_1" n="1"/><w lemma="ἐάν">ἐάν</w> <w lemma="τις">τ<supplied reason="lost">ις</supplied></w> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύηι</supplied></w></name>
+	    				
+	    				<lb xml:id="line_2" n="2"/><w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱ<unclear>ε</unclear><supplied reason="lost">ρῶι</supplied>
+	    				</w></name>
+	    				
+	    				<lb xml:id="line_3" n="3"/><name type="genericOffering"><w lemma="παρασκευάζω">παρασκ<supplied reason="lost">ευάζειν</supplied></w></name>
+	    				
+	    				<lb xml:id="line_4" n="4"/><name type="deity" key="Kourotrophos"><w lemma="Κουροτρόφος">Κουροτ<supplied reason="lost">ρόφωι</supplied></w></name> <supplied reason="lost">καὶ</supplied>
+	    				
+	    				<lb xml:id="line_5" n="5"/><name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμῆι</w></name> <pc>∶</pc> <name type="bakery"><w lemma="πόπανον">πόπα<supplied reason="lost">να</supplied></w></name>
+	    				
+	    				<lb xml:id="line_6" n="6"/><name type="bakery"><w lemma="μονόμφαλος">μονόμφαλ<supplied reason="lost">α</supplied></w></name> <supplied reason="lost"><pc>∶</pc></supplied> <gap reason="lost" quantity="4" unit="character" precision="low"/>
+	    				
+	    				<lb xml:id="line_7" n="7"/><name type="bakery"><w lemma="ἕβδομος">ἑβδόμους</w></name> <name type="bakery"><w lemma="βοῦς"><supplied reason="lost">βοῦς</supplied></w></name> <supplied reason="lost"><pc>∶</pc></supplied> <gap reason="lost" quantity="1" unit="character" precision="low"/>
+	    				
+	    				<lb xml:id="line_8" n="8"/><name type="bakery"><w lemma="ἀρεστήρ">ἀρεστῆρ<supplied reason="lost">ας</supplied></w></name> <supplied reason="lost"><pc>∶</pc></supplied> <gap reason="lost" quantity="4" unit="character" precision="low"/>
+	    				
+	    				<lb xml:id="line_9" n="9"/><name type="liquid"><name type="vegetal"><w lemma="κηρίον">κηρία</w></name></name> <pc>∶</pc> <w lemma="ἑπτά">ἑπ<supplied reason="lost">τὰ</supplied></w>
+	    				
+	    				<lb xml:id="line_10" n="10"/><name type="genericOffering"><name type="structure"><w lemma="ἐπιτραπέζιος">ἐπιτρα<unclear>π</unclear><supplied reason="lost">έζια</supplied></w></name></name>
+	    				
+	    				<lb xml:id="line_11" n="11"/><name type="meal"><w lemma="δεῖπνον">δεῖπν<supplied reason="lost">α</supplied></w></name> <supplied reason="lost"><pc>∶</pc></supplied> <gap reason="lost" quantity="7" unit="character" precision="low"/>
+	    				
+	    				<lb xml:id="line_12" n="12"/><name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμ<supplied reason="lost">ιδι</supplied></w></name> <supplied reason="lost">∶</supplied> <gap reason="lost" quantity="5" unit="character" precision="low"/>
+	    				
+	    				<lb xml:id="line_13" n="13"/><name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">Ἀ</supplied><unclear>π</unclear>όλ<unclear>λ</unclear><supplied reason="lost">ωνι</supplied></w></name> <supplied reason="lost"><pc>∶</pc></supplied> <gap reason="lost" quantity="5" unit="character" precision="low"/>
+	    				
+	    				<lb xml:id="line_14" n="14"/><gap reason="lost" quantity="3" unit="character"/><orig>ε</orig><gap reason="lost" quantity="10" unit="character" precision="low"/>
+	    				
+	    				<lb xml:id="line_15" n="15"/><gap reason="lost" quantity="3" unit="character"/><orig><unclear>Γ</unclear></orig><gap reason="lost" quantity="10" unit="character" precision="low"/>
+	    				
+	    				<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p> If anyone [sacrifices] in the sanctuary, he or she is to prepare (the following): For Kourotrophos and (5) Hermes: round cakes with one knob: [... (number) ...]; crescent cakes: [... (number) ...]; propitiatory cakes [... (number) ...]; honeycombs: seven; (10) dinners for the table: [... (number) ...]. For Artemis: [...] For Apollo: [...] </p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p> Si quelqu'un [sacrifie] dans le sanctuaire, qu'il (ou elle) prépare (ce qui suit) : à Kourotrophos et (5) à Hermès : gâteaux ronds à une seule bosse: [... (nombre) ...]; gâteaux en forme de croissants: [... (nombre) ...]; gâteaux propitiatoires : [... (nombre) ...]; rayons de miel : sept; (10) dîners à mettre sur la table : [... (nombre) ...]. À Artémis : [...]. À Apollon : [...]</p>
+				
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+
+						<p> The inscription, though regrettably fragmentary, provides us with a very interesting series of offerings which must be performed in a certain sanctuary. Several gods are mentioned, but the context remains wholly unclear, other than the fact that this seems to be a regulation promoted by the sanctuary itself, a fairly short prescription published "at the altar" or at the cult table, which is sometimes found in the present Collection. Hallof makes the intriguing (but currently unprovable) suggestion that both the form (stoichedon and lettering) and the content of the inscription could point to an Athenian influence. The context for the development of the regulation would then be during the Athenian cleruchy on the island in ca. 365-322 BC. </p>
+						
+<p>Indeed, as with a number of similar regulations from Athens and the Piraeus, these offerings appear to consist entirely of cakes and honeycombs: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_53/">CGRN 53</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_72/">CGRN 72</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_73/">CGRN 73</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_77/">CGRN 77</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_95/">CGRN 95</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_133/">CGRN 133</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_134/">CGRN 134</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_135/">CGRN 135</ref>. It might be thought that these were offerings preliminary to a larger sacrifice, which could be corroborated by the mention first and foremost of the goddess Kourotrophos. This goddess is often invoked as a first recipient of sacrifice in the calendar of Erchia, for instance, <ref target="http://cgrn.ulg.ac.be/CGRN_52/">CGRN 52</ref>; this occurs in many different sanctuaries, but the sacrifice is typically of a piglet (for a wider analysis, see Pirenne-Delforge). Here, the offerings are to some degree more specific and elaborate: note also that the verb παρασκευάζειν is used rather than a form of προθύω. The conjunction of Kourotrophos with Hermes, as well as with Artemis and Apollo which follow later, is perhaps not so straightforwardly interpreted: the probable context is preliminary offerings, but the precise group of gods invoked remains to be more fully elucidated.</p>
+						
+	<p> Each offering appears to be prefaced by punctuation if it occurs on the same line as a deity, and it was probably followed by punctuation and then a number (as in line 9; not a sum of money). For a more abundantly but rather rashly restored text, cf. Sokolowski, with further commentary.</p>
+						
+						<p>Lines 5-6: Sets of three of these cakes are offered in a cult of Artemis at Athens, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_77/">CGRN 77</ref>; though they are just called μονόμφαλα in this case, cp. also <ref target="http://cgrn.ulg.ac.be/CGRN_134/">CGRN 134</ref>. For these round cakes with one knob, sometimes depicted in vase-paintings, cf. Van Straten (also with nos. 245, 246, 249).</p>
+						
+						<p>Line 7: Hallof interprets this type of baked good, βοῦς ἕβδομος—literally a 'seventh ox', as shaped like an ox (cf. <title>Suda</title> s.v.), but the probable crescent shape of the cake suggests a range of different significations: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_72/">CGRN 72</ref> (Athens, cult of Apollo) for further discussion.</p>
+			
+						<p>Lines 8-9 : The ἀρεστήρ should also properly denote an appeasing or propitiatory cake, though it is not known exactly how it was shaped. Cf. <ref target="http://cgrn.ulg.ac.be/CGRN_53/">CGRN 53</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_54/">CGRN 54</ref> (both from Piraeus) for further discussion, where each instance is also followed by one or more honeycombs. Pollux 6.76, however, notes that the ἀρεστήρ could be a form of liquid or libation. This might then agree well with the κηρίον, whose form would have been at least semi-liquid. To add further uncertainty, Hsch. s.v. κηρίον notes that this could be an εἶδος πλακοῦντος. We are thus left rather uncertain about whether cakes or (semi)-liquid offerings were intended here (as well as in the Athenian regulations mentioned).</p>
+			
+		<p>Lines 10-11: ἐπιτρα<unclear>π</unclear><supplied reason="lost">έζια</supplied>, if correctly restored, ought properly to agree with the meals which follow in the next line. But it is perhaps surprisingly to find the adjective before the noun (cp. lines 5-6) and it is not excluded that there would once have been a number following these ἐπιτραπέζια and that these would have been an independent offering. At any rate, the word is rare. Meals to be placed on the cult table may have included a variety of foodstuffs; they remain somewhat perplexing in this otherwise very specific regulation. 
+	</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

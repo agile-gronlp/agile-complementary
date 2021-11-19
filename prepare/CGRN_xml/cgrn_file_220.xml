@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_220" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 220</idno>: <rs type="textType" key="priestly contract">Contract</rs> of sale for the priesthood of Aphrodite Pandamos and Pontia on Kos</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Stéphanie Paul</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12,
+					University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License
+							<ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a
+						link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of
+						consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+<p> Opistographic <rs type="objectType">stele</rs> of white marble, broken at the bottom, with a <foreign>kymation</foreign> on top.</p>
+									<p>
+										<dimensions>
+											<height unit="cm">60</height>
+											<width unit="cm">48.5-50</width>
+											<depth unit="cm">9</depth>
+										</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+<p> The text preserved on the back side is the continuation of an inscription on the front side, which is no longer extent, having been erased with a coarse chisel to receive a dedication in the first century AD. The letters are damaged. The first two lines, engraved on the back of the <foreign>kymation</foreign>, are slightly longer than the rest.</p>
+<p> Letters: <height unit="cm">0.5-0.7</height>; Space between lines: <height unit="cm">0.4-0.5</height></p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0125" notAfter="-0100">late 2nd century BC</origDate></p>
+							<p><desc>Justification: lettering (Hallof - Bosnakis). This text is probably later than the other sale of the priesthood of  Aphrodite Pontia and Pandemos from Kos (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 302, after 198 BC). Part of the income from the <foreign>thesauros</foreign> is to be deposited in Aphrodite's account in the public bank according to the present inscription, but not in <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 302. Parker (in Parker - Obbink 2000: 431) argues that "general considerations about the development of 'public banks' suggest that the goddess is more likely to have opened an account in the second century than to have closed one".
+							</desc></p>
+						</origin>
+<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found on the upper terrace of the Asklepieion, where it had presumably been brought in the first century AD. Now on the wall of the epigraphical store-room (inv. no. E 380). </p></provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2016 by Z. Pitz </p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 319. Only Face B is extant.</p>
+				<p> Other editions: 
+					<bibl type="author_date" n="Bosnakis - Hallof 2005">Bosnakis - Hallof 2005</bibl>: 232 (the current restorations for lines 47-50, also in <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 319); 
+					<bibl type="author_date" n="Parker - Obbink 2000">Parker - Obbink 2000</bibl>: 416-417 and 431.</p>
+
+				<p>Cf. also: <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20319" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+				<p> Further bibliography: 
+					<bibl type="author_date" n="Pirenne-Delforge 1994">Pirenne-Delforge 1994</bibl>;
+					<bibl type="author_date" n="Parker 2002">Parker 2002</bibl>; 
+					<bibl type="author_date" n="Wiemer 2003">Wiemer 2003</bibl>: 280;
+					<bibl type="author_date" n="Lupu 2003b">Lupu 2003b</bibl>: 335-339;
+					<bibl type="author_date" n="Rocco 2004">Rocco 2004</bibl>;
+					<bibl type="author_date" n="Pirenne-Delforge 2005">Pirenne-Delforge 2005</bibl>: 58-59;
+					<bibl type="author_date" n="Pironti 2007">Pironti 2007</bibl>;
+					<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 79-91; 
+					<bibl type="author_date" n="Paul 2013b">Paul 2013b</bibl>: 254-256;
+					<bibl type="author_date" n="Jim 2014">Jim 2014</bibl>: 250-254, 270.
+				</p> 
+		
+			</div>
+
+			<div type="edition">
+				<head>Text</head>
+
+				<ab subtype="face" n="B"> Face B 
+
+<lb xml:id="line_1" n="1"/>ἁ δὲ <name type="punishment"><w lemma="πρᾶξις">πρᾶξις</w></name>
+					<w lemma="εἰμί">ἔστω</w> τᾶι <name type="personnel"><w lemma="ἱέρεια">ἱερείαι</w></name>
+					<w lemma="κατά">κατὰ</w> τῶν <w lemma="μή">μὴ</w>
+					<w lemma="ἐπιτελέω">ἐπιτελεσάντων</w> τ<supplied reason="lost">ὰ</supplied>
+					<name type="authority"><w lemma="γράφω"><supplied reason="lost">γεγραμμέ</supplied>
+						
+							<lb xml:id="line_2" n="2" break="no"/>να</w></name>
+					<w lemma="καθάπερ">καθάπερ</w>
+					<w lemma="ἐκ">ἐγ</w>
+					<name type="authority"><w lemma="δίκη">δίκας</w></name>· <w lemma="ὅπως">ὅπως</w> δὲ <w lemma="μηδείς">μηδεμία</w>
+					<w lemma="ἀντιλογία">ἀντιλογία</w>
+					<w lemma="γίγνομαι">γίνηται</w>
+					<w lemma="ὁπόθεν">ὁπ<supplied reason="lost">οθενοῦν</supplied></w>
+					<w lemma="μηθείς"><supplied reason="lost">μη</supplied>
+						
+						<lb xml:id="line_3" n="3" break="no"/>θ<unclear>ενὶ</unclear></w>
+					<w lemma="πρός">ποτὶ</w>
+					<w lemma="μηδείς">μηδένα</w>
+					<w lemma="περί">περὶ</w> τᾶς <w lemma="ἀξία">ἀξίας</w> τῶν <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείων</w></name>, <w lemma="ἔξεστι">ἐξέστω</w> τῶι <name type="person"><name type="sacrifice"><w lemma="θύω">θύ<supplied reason="lost">οντι</supplied></w></name></name><supplied reason="lost">,</supplied> <w lemma="εἰ"><supplied reason="lost">αἴ</supplied></w>
+					
+					<lb xml:id="line_4" n="4"/><w lemma="τις">τίς</w>
+					<w lemma="κα">κα</w>
+					<w lemma="βούλομαι">δήληται</w>, <w lemma="ὅς">ὧν</w>
+					<name type="authority"><w lemma="ὅσιος">ὅσιόν</w></name>
+					<w lemma="εἰμί">ἐστιν</w>
+					<name type="sacrifice"><w lemma="θύω">θύεν</w></name> τᾶι <name type="deity" key="Aphrodite"><w lemma="θεός">θεῶι</w></name>
+					<w lemma="καταβάλλω">καταβαλεῖν</w> τῶν <name type="portion"><w lemma="γέρας"><supplied reason="lost">γερῶν</supplied></w></name>
+					
+					<lb xml:id="line_5" n="5"/>τὸ <name type="authority"><w lemma="διατάσσω">διατεταγμένον</w></name>· τοὶ <name type="person"><w lemma="στρατεύω">στρατευόμενοι</w></name>
+					<w lemma="ἐν">ἐν</w> ταῖς <w lemma="μακρός">μακραῖς</w>
+					<w lemma="ναῦς">ναυσὶν</w>
+					<w lemma="ἐπεί"><unclear>ἐ</unclear><supplied reason="lost">πεί</supplied></w>
+					
+					<lb xml:id="line_6" n="6"/><w lemma="κα">κα</w>
+					<w lemma="καταλύω">καταλύωντι</w> τὸν <w lemma="πλόος">πλοῦν</w>
+					<name type="sacrifice"><w lemma="θύω">θυόντω</w></name> τᾶι <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδίται</w></name> τᾶι <name type="epithet" key="Pontia"><w lemma="Ποντία">Ποντίαι</w></name>
+					<w lemma="ἐπί">ἐπὶ</w> τ<supplied reason="lost">οῦ</supplied>
+					
+					<lb xml:id="line_7" n="7"/><name type="authority"><w lemma="προγράφω">προγεγραμμένου</w></name>
+					<name type="structure"><w lemma="βωμός">βωμοῦ</w></name>
+					<name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name>
+					<name type="age"><w lemma="τέλειος">τέλειον</w></name>
+					<w lemma="ἀπό">ἀφ᾿</w>
+					<w lemma="ἕκαστος">ἑκάστας</w>
+					<name type="structure"><w lemma="σκηνή">σκανᾶς</w></name>
+					<w lemma="ἀπό">ἀπὸ</w>
+					
+					<lb xml:id="line_8" n="8"/><w lemma="δραχμή">δραχμᾶν</w>
+					<w lemma="τριάκοντα">τριάκοντα</w>
+					<w lemma="ἤ">ἢ</w>
+					<w lemma="καταβάλλω">καταβαλλόντω</w> τῶν <name type="portion"><w lemma="γέρας">γερῶν</w></name>
+					<w lemma="κατά">καθ᾿</w>
+					<w lemma="ἕκαστος">ἑκάσταν</w>
+					<name type="structure"><w lemma="σκηνή">σκα 
+						
+						<lb xml:id="line_9" n="9" break="no"/>νὰν</w></name> τᾶι <name type="personnel"><w lemma="ἱέρεια">ἱερείαι</w></name>
+					<w lemma="δραχμή">δραχμὰς</w>
+					<w lemma="δεκαπέντε">δεκαπέντε</w> καὶ <w lemma="εἰς">ἐς</w> τὸν <name type="structure"><w lemma="θησαυρός">θησαυρὸν</w></name>
+					<w lemma="δραχμή">δραχμάν</w>· 
+					
+					<lb xml:id="line_10" n="10"/><name type="genericOffering"><w lemma="ἀπάρχομαι">ἀπαρχέσθων</w></name> δὲ καὶ τοὶ <w lemma="λοιπός">λοιποὶ</w>
+					<w lemma="πᾶς">πάντες</w> τοὶ <name type="person"><name type="sacrifice"><w lemma="θύω">θύοντες</w></name></name>
+					<w lemma="εἰς">ἐς</w> τὸν <name type="structure"><w lemma="θησαυρός">θησαυρὸν</w></name> τᾷ 
+					
+					<lb xml:id="line_11" n="11"/><name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδίται</w></name>
+					<w lemma="ἐπί">ἐπὶ</w> μὲν <name type="animal" key="ox"><w lemma="βοῦς">βοῒ</w></name>
+					<w lemma="δραχμή">δραχμὰς</w>
+					<w lemma="δύο">δύο</w>, <w lemma="ἐπί">ἐπὶ</w> δὲ τοῖς <w lemma="ἄλλος">ἄλλοις</w> τῶν μὲν <name type="age"><w lemma="τέλειος">τε 
+							
+					<lb xml:id="line_12" n="12" break="no"/>λείων</w></name>
+					<w lemma="δραχμή">δραχμάν</w>, τῶν δὲ <name type="age"><w lemma="ἀτελής">ἀτελείων</w></name>
+					<w lemma="τριώβολον">τριώβολ<supplied reason="omitted">ο</supplied><unclear>ν</unclear></w>, <name type="animal" key="bird"><w lemma="ὄρνις">ὄρν<surplus>ις</surplus>ιθος</w></name> δὲ <w lemma="ὀβολός">ὀβολόν</w>, 
+					
+					<lb xml:id="line_13" n="13"/><w lemma="χωρίς">χωρὶ</w> τῶν <name type="authority"><w lemma="προδιατάσσομαι">προδιατεταγμένων</w></name>
+					<w lemma="κατά">κατὰ</w>
+					<w lemma="ὅδε">τάνδε</w> τὰν <name type="authority"><w lemma="διαγραφή">διαγραφάν</w></name>· <w lemma="ἔξεστι">ἐξέσστ<supplied reason="omitted">ω</supplied></w>
+					
+					<lb xml:id="line_14" n="14"/>δὲ τᾷ <name type="personnel"><w lemma="ἱέρεια">ἱερείᾳ</w></name> καὶ <w lemma="ἀπομισθόω">ἀπομίσθωσιν</w>
+					<w lemma="ποιέω">ποιήσασθαι</w>
+					<w lemma="οὗτος">τούτων</w>· ὁ δὲ <w lemma="ἀπομισθόω">ἀπομισθω 
+						
+<lb xml:id="line_15" n="15" break="no"/>σάμενος</w> <w lemma="ἔχω">ἐχέτω</w> τὰν <w lemma="ἐξουσία">ἐξουσ<surplus>ι</surplus>ίαν</w> <w lemma="πράσσω">πράσσεσθαι</w> <w lemma="καθά"><supplied reason="lost">κ</supplied>αθὰ</w> καὶ τὰν <name type="personnel"><w lemma="ἱέρεια">ἱέρειαν</w></name> <name type="authority"><w lemma="γράφω">γέ 
+						
+						<lb xml:id="line_16" n="16" break="no"/>γραπται</w></name>· τᾶν δὲ <name type="object"><w lemma="κλείς">κλαικῶν</w></name> τῶν <name type="structure"><w lemma="θησαυρός">θησαυρῶν</w></name>
+					<name type="authority"><w lemma="κυριεύω">κυριευόντω</w></name> τοὶ <name type="title"><w lemma="προστάτης">προστάται</w></name>
+					
+					<lb xml:id="line_17" n="17"/>καὶ <w lemma="ἀνοίγνυμι">ἀνοιγόντω</w>
+					<w lemma="μετά">μετὰ</w> τᾶς <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name>
+					<w lemma="κατά">καθ᾿</w>
+					<w lemma="ἕκαστος">ἕκαστον</w>
+					<w lemma="ἐνιαυτός">ἐνιαυτὸν</w>
+					<w lemma="ἐν">ἐμ</w>
+					<w lemma="μήν">μηνὶ</w>
+					<name type="month"><w lemma="Δήλιος">Δα 
+						
+						<lb xml:id="line_18" n="18" break="no"/>λίωι</w></name> καὶ τὸ μὲν <w lemma="ἥμισυς">ἥμισσον</w>
+					<w lemma="εἰμί">ἔστω</w> τᾶς <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name>, τὸ δὲ <w lemma="ἥμισυς">ἥμισσον</w>
+					<w lemma="ἀναπέμπω">ἀναπεμπόν 
+						
+						<lb xml:id="line_19" n="19" break="no"/>τω</w>
+					<w lemma="ἐπί">ἐπὶ</w> τὰν <name type="group"><w lemma="δημόσιος">δαμοσίαν</w></name>
+					<name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name>
+					<w lemma="εἰς">ἐς</w> τὸν <w lemma="ὑφίστημι">ὑφεστακότα</w> τᾶς <name type="deity" key="Aphrodite"><w lemma="θεός">θεοῦ</w></name>
+				
+					
+					<lb xml:id="line_20" n="20"/><unclear>κ</unclear>αὶ <w lemma="λόγος">λόγον</w>
+					<w lemma="χρηματίζω">χρηματιζόντω</w>
+					<w lemma="εἰς">ἐς</w> τὰ <name type="group"><w lemma="δημόσιος">δαμόσια</w></name>
+					<w lemma="γράμμα">γράμματα</w>· τὸ δὲ <w lemma="χρῆμα">χρῆμα</w>
+					<w lemma="οὗτος">τοῦ 
+						
+						<lb xml:id="line_21" n="21" break="no"/>το</w>
+					<w lemma="ὑπάρχω">ὑπαρχέτω</w>
+					<w lemma="εἰς">ἐς</w>
+					<w lemma="κατασκεύασμα">κατασκευάσματα</w>
+					<w lemma="ὅς">ἅ</w>
+					<w lemma="κα">κα</w>
+					<w lemma="δοκέω">δόξῃ</w> τᾶι <name type="authority"><name type="group"><w lemma="ἐκκλησία">ἐκλησίαι</w></name></name>, καὶ <w lemma="εἰς">ἐς</w>
+					<w lemma="ἐπισκευή">ἐπισ 
+						
+						<lb xml:id="line_22" n="22" break="no"/>κευὰν</w> τοῦ
+						<name type="structure"><w lemma="ἱερός">ἱεροῦ</w></name>· <w lemma="εἰ">αἰ</w> δέ <w lemma="κα">κά</w>
+					<w lemma="τις">τις</w>
+					<name type="authority"><w lemma="ψηφίζω">ψαφίξηται</w></name>
+					<w lemma="ὥστε">ὥστε<surplus>ι</surplus></w>
+					<w lemma="εἰς">ἐς</w>
+					<w lemma="ἄλλος">ἄλλο</w>
+					<w lemma="τις">τι</w>
+					<w lemma="καταχρέομαι">καταχρη<supplied reason="lost">σ</supplied>θῆμεν</w>
+					
+					<lb xml:id="line_23" n="23"/>τὰ <w lemma="ἐκ">ἐκ</w> τῶν <name type="structure"><w lemma="θησαυρός">θησαυρῶν</w></name>
+					<w lemma="ἤ">ἢ</w>
+					<name type="title"><w lemma="προστάτης">προστάτας</w></name>
+					<w lemma="προτίθημι">προθῆι</w>, <name type="punishment"><w lemma="ἀποτίνω">ἀποτισάτω</w></name> τῶν <w lemma="αἰτία">α<supplied reason="omitted">ἰτί</supplied>ων</w>
+					<w lemma="ἕκαστος">ἕκασ 
+						
+						<lb xml:id="line_24" n="24" break="no"/>τος</w>
+					<w lemma="δραχμή">δραχμὰς</w>
+					<w lemma="χίλιοι">χειλίας</w>
+					<name type="genericOffering"><w lemma="ἱερός">ἱερὰς</w></name> τᾶς <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδίτας</w></name> καὶ ἁ
+						<w lemma="γνώμη">γνώμα</w>
+					<name type="authority"><w lemma="ἄκυρος">ἄκυρος</w></name>
+					<w lemma="εἰμί">ἔστω</w>· <lb xml:id="line_25" n="25"/><name type="genericOffering"><w lemma="ἀπάρχομαι">ἀπαρχέσθων</w></name> δὲ καὶ τοὶ
+						<name type="person"><w lemma="ἐλευθερόω">ἐλευθερούμενοι</w></name>
+					<w lemma="ἐν">ἐν</w>
+					<w lemma="ὅς">ὧι</w>
+					<w lemma="ἄν">κα</w>
+					<w lemma="ἐνιαυτός">ἐνιαυτῷ</w>
+					<w lemma="ἐλευθερόω">ἐλευθερω 
+						
+						<lb xml:id="line_26" n="26" break="no"/>θῶντι</w>
+					<w lemma="σύν">σὺν</w> τῶι <w lemma="πρότερος">πρότερον</w>
+					<name type="genericOffering"><w lemma="καταβάλλω">καταβαλλομένωι</w></name>
+					<w lemma="δραχμή">δραχμὰς</w>
+					<w lemma="πέντε">πέντε</w>
+					<w lemma="ποιέω">ποιούμε 
+						
+						<lb xml:id="line_27" n="27" break="no"/>νοι</w> τὰν <w lemma="καταβολή">καταβολὰν</w>
+					<w lemma="ἐπί">ἐπὶ</w> τὸς <name type="title"><w lemma="ταμίας">ταμίας</w></name>· <w lemma="δίδωμι">διδόντω</w> δὲ <w lemma="εἰς">ἐς</w>
+					<name type="genericOffering"><w lemma="ἀπαρχή">ἀπαρχὰν</w></name> καὶ τοὶ 
+					
+					<lb xml:id="line_28" n="28"/><name type="person"><w lemma="ἁλιεύς">ἁλιεῖς</w></name> τοὶ <w lemma="ὁρμάω">ὁρμ<supplied reason="omitted">ώ</supplied>μενοι</w>
+					<w lemma="ἐκ">ἐκ</w> τᾶς <name type="locality"><w lemma="πόλις">πόλιος</w></name>
+					καὶ τοὶ <name type="person"><w lemma="ναύκληρος">ναύκλαροι</w></name> τοὶ <w lemma="πλέω">πλέοντες</w>
+					<lb xml:id="line_29" n="29"/><w lemma="περί">περὶ</w> τὰν <name type="locality"><w lemma="χώρα">χώραν</w></name>
+					<w lemma="κατά">καθ᾿</w>
+					<w lemma="ἕκαστος">ἕκαστον</w>
+					<w lemma="πλοῖον">πλοῖον</w> τοῦ <w lemma="ἐνιαυτός">ἐνιαυτοῦ</w>
+					<w lemma="δραχμή">δραχμὰς</w>
+					<w lemma="πέντε">πέντε</w>· <w lemma="εἰ">αἰ</w>
+					
+					<lb xml:id="line_30" n="30"/>δέ <w lemma="τις">τίς</w>
+					<w lemma="κα">κα</w>
+					<w lemma="μή">μὴ</w>
+					<w lemma="ἐπιτελέω">ἐπιτελέσηι</w>
+					<w lemma="τις">τι</w> τῶν <w lemma="ἐν">ἐν</w>
+					<w lemma="ὅδε">τᾶιδε</w> τᾷ <name type="authority"><w lemma="διαγραφή">διαγραφᾶι</w></name>
+					<name type="authority"><w lemma="γράφω">γεγραμμένων</w></name>
+					
+					<lb xml:id="line_31" n="31"/><w lemma="ἤ">ἢ</w>
+					<w lemma="μή">μὴ</w>
+					<name type="sacrifice"><w lemma="θύω">θύσηι</w></name>
+					<w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="προστάσσω">ποτιτεταγμένα</w></name>, <name type="punishment"><w lemma="ἀποτίνω">ἀποτεισάτω</w></name> τᾶι <name type="personnel"><w lemma="ἱέρεια">ἱερείαι</w></name> τὰ <w lemma="ἐπί">ἐφ᾿</w>
+					<w lemma="ἕκαστος">ἑκάσ 
+						
+						<lb xml:id="line_32" n="32" break="no"/>τοις</w>
+					<name type="authority"><w lemma="γράφω">γεγραμμένα</w></name>
+					<name type="punishment"><w lemma="ἐπιτίμιον">ἐπιτίμια</w></name>, ἁ δὲ <w lemma="πρᾶξις">πρᾶξις</w>
+					<w lemma="εἰμί">ἔστω</w>
+					<w lemma="αὐτός">αὐτᾶι</w>
+					<w lemma="καθά">καθάπερ</w>
+					<w lemma="ἐκ">ἐγ</w>
+					<name type="authority"><w lemma="δίκη">δίκας</w></name>· 
+					
+					<lb xml:id="line_33" n="33"/><w lemma="κατά">κατὰ</w>
+					<w lemma="αὐτός">ταὐτὰ</w> δὲ καὶ <w lemma="εἰ">αἴ</w>
+					<w lemma="τις">τινά</w>
+					<w lemma="ἄν">κα</w> ἁ <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name>
+					<w lemma="μή">μὴ</w>
+					<w lemma="ποιέω">ποιῇ</w> τῶν <name type="authority">
+						<w lemma="προστάσσω">ποτιτεταγμένων</w></name>
+					<w lemma="αὐτός">αὐ 
+						
+						<lb xml:id="line_34" n="34" break="no"/>τᾶι</w>
+					<w lemma="κατά">κατὰ</w> τὰν <name type="authority"><w lemma="διαγραφή">διαγραφάν</w></name>, <name type="punishment"><w lemma="ἀποτίνω">ἀποτεισάτω</w></name>
+					<w lemma="δραχμή">δραχμὰς</w>
+					<w lemma="χίλιοι">χειλίας</w>
+					<name type="genericOffering"><w lemma="ἱερός">ἱερὰς</w></name>
+					<name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδί 
+						
+						<lb xml:id="line_35" n="35" break="no"/>τας</w></name>, <w lemma="φαίνω">φαινέτω</w> δὲ ὁ <name type="person"><w lemma="χρῄζω">χρῄζων</w></name>
+					<w lemma="κατά">κατὰ</w> τὸν <name type="authority"><w lemma="νόμος">νόμον</w></name>· <w lemma="ἐπί">ἐπὶ</w> δὲ τᾶι <w lemma="πρᾶσις">πράσει</w> τᾶς <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύ 
+							
+							<lb xml:id="line_36" n="36" break="no"/>νας</w></name>
+					<name type="sacrifice"><w lemma="θύω">θυσάντω</w></name> τοὶ <name type="title"><w lemma="προστάτης">προστάται</w></name> τᾶι <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδίται</w></name> τᾶι <name type="epithet" key="Pandemos"><w lemma="πάνδημος">Πανδάμωι</w></name>
+					<name type="animal"><name type="gender"><w lemma="δάμαλις">δάμαλιν</w></name></name>
+					<w lemma="ἀπό">ἀ 
+						
+						<lb xml:id="line_37" n="37" break="no"/>πὸ</w>
+					<w lemma="δραχμή">δραχμᾶν</w>
+					<w lemma="ἑξακόσιοι">ἑξακοσιᾶν</w>· <space quantity="1" unit="character"/> τὸ δὲ
+						<w lemma="γίγνομαι">γενόμενον</w>
+					<w lemma="ἀνάλωμα">ἀνάλωμα</w>
+					<w lemma="εἰς">ἔς</w> τε τὰν <name type="sacrifice"><w lemma="θυσία">θυσί 
+						
+						<lb xml:id="line_38" n="38" break="no"/>αν</w></name> καὶ τὰν <w lemma="ἀναγραφή">ἀναγραφὰν</w> τᾶς <name type="authority"><w lemma="διαγραφή">διαγραφᾶς</w></name> τοὶ <name type="title"><w lemma="ταμίας">ταμίαι</w></name>
+					<w lemma="προτελέω">προτελεσάντω</w> καὶ <w lemma="ἀπολογίζομαι">ἀπο 
+						
+						<lb xml:id="line_39" n="39" break="no"/>λογιξάσθων</w>
+					<w lemma="μετά">μετὰ</w> τᾶς <w lemma="ἄλλος">ἄλλας</w>
+					<w lemma="δαπάνη">δαπάνας</w>· ἁ δὲ <w lemma="πρίαμαι">πριαμένα</w> τὰν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύναν</w></name>
+					<name type="personnel"><w lemma="ἱεράζω"><supplied reason="lost">ἱ</supplied>
+							
+						<lb xml:id="line_40" n="40" break="no"/><unclear>ε</unclear>ράσθω</w></name>
+					<w lemma="ἐπί">ἐπὶ</w>
+					<w lemma="βίος">βίου</w>· <w lemma="καταβολή">καταβολὰς</w> δὲ <w lemma="ποιέω">ποιησεῖται</w>
+					<w lemma="τρεῖς">τρεῖς</w>
+					<w lemma="ἀργύριον">ἀρ<unclear>γ</unclear>υρίου</w>, τὰμ μὲν <w lemma="πρότερος">πράταν</w>
+					<w lemma="ἐν">ἐμ</w>
+					<w lemma="μήν">μη 
+						
+						<lb xml:id="line_41" n="41" break="no"/>νὶ</w>
+					<name type="month"><w lemma="Ἄλσειος">Ἀλσείωι</w></name> τῶι <w lemma="ἐπί">ἐπὶ</w>
+					<name type="title"><w lemma="μόναρχος">μονάρχου</w></name> Χαιρεδάμου, τὰν δὲ <w lemma="δεύτερος">δευτέραν</w>
+					<w lemma="ἐν">ἐμ</w>
+					<w lemma="μήν">μηνὶ</w>
+					<name type="month"><w lemma="Βοηδρόμιος">Βατρο 
+						
+						<lb xml:id="line_42" n="42" break="no"/><supplied reason="lost">μ</supplied>ίωι</w></name> τῶι
+						<w lemma="μετά">μετὰ</w>
+					<name type="title"><w lemma="μόναρχος">μόναρχον</w></name> Χαιρέδαμον, τὰν δὲ <w lemma="τρίτος">τρίταν</w>
+					<w lemma="ἐν">ἐμ</w>
+					<w lemma="μήν">μηνὶ</w>
+					<w lemma="Δήλιος">Δαλίωι</w> τῶι <w lemma="ἐπί">ἐ 
+						
+						<lb xml:id="line_43" n="43" break="no"/><supplied reason="lost">πὶ</supplied></w>
+					<supplied reason="lost">τ</supplied>οῦ <w lemma="αὐτός">αὐτοῦ</w>
+					<name type="title"><w lemma="μόναρχος">μονάρχου</w></name>· καὶ <w lemma="ἐπεί">ἐπεὶ</w> ὁ <name type="group"><w lemma="δῆμος">δᾶμος</w></name>
+					<w lemma="εὐσεβής">εὐσεβῶς</w>
+					<w lemma="διάκειμαι">διακείμενος</w>
+					<w lemma="κατασκευάζω">κατεσκ<unclear>ε</unclear><supplied reason="lost">ύ</supplied>
+						
+						<lb xml:id="line_44" n="44" break="no"/><supplied reason="lost">ακε</supplied></w>
+					<w lemma="πρός"><supplied reason="lost">ποτὶ</supplied></w> τῶι <w lemma="ἐπί">ἐπὶ</w>
+					<w lemma="θάλασσα">θαλάσσαι</w>
+					<name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> καὶ <w lemma="ἄλλος">ἄλλα</w>
+					<name type="structure"><w lemma="χρηστήριον"><unclear>χ</unclear>ρηστήρια</w></name>, <w lemma="καρπεύω">καρπευέσθω</w> καὶ <w lemma="οὗτος">ταῦ<supplied reason="lost">τα</supplied></w>
+					<lb xml:id="line_45" n="45"/><supplied reason="lost">ἁ</supplied>
+					<name type="personnel"><w lemma="ἱέρεια"><supplied reason="lost">ἱέρεια</supplied></w></name><supplied reason="lost">·</supplied> <supplied reason="lost">τοὶ</supplied>
+					<supplied reason="lost">δ</supplied><unclear>ὲ</unclear>
+					<name type="title"><w lemma="πωλητής"><unclear>π</unclear>ωληταὶ</w></name>
+					<w lemma="ἀπομισθόω">ἀπομισθωσάντω</w>
+					<w lemma="ἀναγραφή">ἀναγράψαι</w>
+					<w lemma="ὅδε">τάνδε</w> τὰν <w lemma="διαγραφή">διαγραφὰ<supplied reason="lost">ν</supplied></w>
+					<lb xml:id="line_46" n="46"/><w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w>
+					<objectType key="stele"><w lemma="στήλη"><supplied reason="lost">στάλαν</supplied></w></objectType>
+					<w lemma="λίθινος"><supplied reason="lost">λιθίναν</supplied></w>
+					<supplied reason="lost">κα</supplied><unclear>ὶ</unclear>
+					<w lemma="ἀνατίθημι">ἀναθέμεν</w>
+					<w lemma="παρά">παρὰ</w> τῶι <name type="structure"><w lemma="βωμός">βωμῶι</w></name> τᾶς <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδίτας</w></name> τᾶς <name type="epithet" key="Pontia"><w lemma="πόντιος">Π<supplied reason="lost">ον</supplied>
+								
+							<lb xml:id="line_47" n="47" break="no"/><supplied reason="lost">τίας</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἀπομισθόω"><supplied reason="lost">ἀπομισθωσάντω</supplied></w>
+					<supplied reason="lost">δὲ</supplied>
+					<supplied reason="lost">καὶ</supplied>
+					<w lemma="τελέω"><unclear>τ</unclear>ελέσαι</w> τὰν <name type="personnel"><w lemma="ἱέρεια"><supplied reason="lost">ἱέρ</supplied>ειαν</w></name>
+					<w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="νομίζω">νομιζόμενα</w></name>
+					<supplied reason="lost">καὶ</supplied>
+					
+					<lb xml:id="line_48" n="48"/><supplied reason="lost">τὰν</supplied>
+					<name type="authority"><w lemma="διαγραφή"><supplied reason="lost">διαγραφάν</supplied></w></name><supplied reason="lost">·</supplied> <supplied reason="lost">τὸ</supplied>
+					<supplied reason="lost">δὲ</supplied>
+					<w lemma="γίγνομαι"><supplied reason="lost">γενόμενον</supplied></w>
+					<w lemma="ἀνάλωμα"><supplied reason="lost">ἀνάλω</supplied>μα</w>
+					<w lemma="εἰς">ἔς</w> τε τὰν <w lemma="ἀναγραφή">ἀναγραφὰν</w> τᾶς <name type="authority"><w lemma="διαγραφή">διαγραφ<unclear>ᾶ</unclear><supplied reason="lost">ς</supplied></w></name>
+					
+					<lb xml:id="line_49" n="49"/><supplied reason="lost">καὶ</supplied>
+					<supplied reason="lost">τὰν</supplied>
+					<objectType key="stele"><w lemma="στήλη"><supplied reason="lost">στάλαν</supplied></w></objectType>
+					<supplied reason="lost">καὶ</supplied>
+					<supplied reason="lost">τὰν</supplied>
+					<w lemma=""><supplied reason="lost">τελετὰν</supplied></w>
+					<supplied reason="lost">τᾶς</supplied>
+					<name type="personnel"><w lemma="ἱέρεια"><supplied reason="lost">ἱερείας</supplied></w></name>
+					<supplied reason="lost">καὶ</supplied>
+					<supplied reason="lost">τ</supplied>ὰν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name>
+					<w lemma="ἐπί">ἐπὶ</w> τᾶι <w lemma="πρᾶσις">πράσε<supplied reason="lost">ι</supplied></w>
+					
+					<lb xml:id="line_50" n="50"/><supplied reason="lost">τᾶς</supplied>
+					<name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱερωσύνας</supplied></w></name>
+					<w lemma="καταβάλλω"><supplied reason="lost">καταβαλεῖ</supplied></w>
+					<supplied reason="lost">ἁ</supplied>
+					<w lemma="πρίαμαι"><supplied reason="lost">πριαμένα</supplied></w> <supplied reason="lost">τὰν</supplied> <name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱερωσύναν</supplied></w></name> <w lemma="ἅμα"><supplied reason="lost">ἅμα</supplied></w> <supplied reason="lost">τᾶι</supplied> <w lemma="πρᾶσις"><supplied reason="lost">πράται</supplied></w> <w lemma="καταβολή"><supplied reason="lost">καταβολᾶι</supplied></w>. 
+				</ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+<p>The priestess is to exact payment from those who do not perform [what is written] as if in fulfilment of a legal verdict. In order that disputes may not arise between one person and another [on any grounds] about the value of sacrificial animals, any person who is making a sacrifice, if he wants, may pay the sum specified instead of [perquisites], for any of those animals which it is religiously sanctioned to sacrifice to the goddess (5).  Those serving in warships, when they have completed their sailing, shall sacrifice to Aphrodite Pontia on the altar previously specified one adult sacrificial animal for each tent costing 30 drachmae, or pay 15 dr. for each tent instead of perquisites to the priestess, and 1 dr. into the money-box. (10) All other persons who sacrifice shall also make a first-offering into the money-box for Aphrodite: for an ox, 2 dr., for other animals: for adult animals, 1 dr.; for young animals, 3 obols; for a bird, 1 obol; apart from what was ordered before, according to this contract. (15) The priestess shall also be permitted to lease out these dues, and the lessee shall have the same power of exacting payment as was prescribed for the priestess. The <foreign>prostatai</foreign> shall be in charge of the keys of the money-boxes and open them in the company of the the priestess each year in the month Dalios. Half (of the contents) shall belong to the priestess and half they shall send to the public bank into the existing account of the goddess (20) and put a record into the public archive. This money shall be available for constructions determined by the assembly and for repair of the sanctuary. If anyone proposes that the money from the money-boxes be used for any other purpose, or any <foreign>prostates</foreign> puts it to the vote, each of the persons responsible shall pay 1000 dr. sacred to Aphrodite and the proposal shall be invalid. (25) Those too who are being freed, in the year in which they are freed, shall make a first-offering, in addition to what they paid earlier, (consisting of) 5 dr., making the payment to the treasurers. Fishermen who lie at anchor out of the city and shipowners who sail around the country shall also give as a first-offering 5 dr. annually per ship. (30) If anyone fails to perform any of the requirements of this contract or to sacrifice as has been prescribed, he shall pay to the priestess the penalty specified in each case. She may exact payment as if in fulfilment of a legal verdict. Similarly, if the priestess fails to perform any of the tasks prescribed for her in the contract, she shall pay 1000 dr. sacred to Aphrodite, (35) and anyone who wishes shall denounce her according to the law. In connection with the sale of the priesthood the <foreign>prostatai</foreign> shall sacrifice to Aphrodite Pandamos a heifer worth 600 dr. The sum required for the sacrifice and the inscription of this contract shall be advanced by the treasurers and accounted for along with the rest of their payments. The woman who purchases the priesthood (40) shall serve as priestess for life. She shall make three payments of money, the first in the month Alseios when Chairedamos is <foreign>monarchos</foreign>, the second in the month Batromios in the year after Chairedamos, the third in the month Dalios under the same <foreign>monarchos</foreign>. And since the people being piously disposed built further facilities [beside] the shrine next to the sea, (45) [the priestess] may exploit these too. The <foreign>poletai</foreign> shall put out to contract the inscription of this document [on a stone stele] and its setting up beside the altar of Aphrodite P[ontia? They shall also contract out] the initiation of the priestess according to customary practice and [this contract. The purchaser of the priesthood shall pay, along with the first installment, the expenditure] for the inscription of this document, [for the stele, for the initiation of the priestess], and for the sacrifice in connection with the sale [of the priesthood].</p>
+				<p> (translation slightly adapted from <bibl type="author_date" n="Parker - Obbink 2000">Parker - Obbink 2000</bibl>)</p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+<p> Que la prêtresse procède au recouvrement contre ceux qui n’ont pas accompli [ce qui a été écrit] comme en vertu d’une décision judiciaire. Afin qu’il n’y ait aucun désaccord [d’aucune sorte de personne] envers personne au sujet de la valeur des animaux sacrificiels, qu’il soit permis au sacrifiant, s’il le souhaite, pour les animaux qu’il est religieusement permis de sacrifier à la déesse, de verser en lieu des [parts d’honneur] la somme prescrite. (5) Que ceux qui servent sur les navires de guerre, lorsqu’ils jettent l’ancre, sacrifient à Aphrodite Pontia sur l’autel indiqué précédemment, pour chaque tente un animal adulte de 30 drachmes ou qu’ils paient en lieu des parts d’honneur pour chaque tente à la prêtresse 15 dr. et 1 dr. dans le tronc à offrandes. Que tous les autres sacrifiants déposent également une offrande dans le tronc à offrandes pour Aphrodite, (10) pour un bovin, 2 dr., pour les autres animaux adultes, 1 dr., pour les jeunes, une triobole, pour un oiseau, 1 obole, à l’exception de ce qui a été prescrit auparavant selon ce contrat. (15) Il est aussi permis à la prêtresse d’affermer cela; que le fermier ait la possibilité de recouvrer le paiement comme il a été prescrit pour la prêtresse. Que les prostates tiennent en leur possession les clés des troncs à offrandes et qu’ils les ouvrent en compagnie de la prêtresse chaque année au mois de Dalios, et que la moitié en revienne à la prêtresse, qu’ils déposent l’autre moitié à la banque publique sur le compte de la déesse (20) et qu’ils en consignent le compte dans les archives publiques. Que son utilisation soit affectée aux travaux de construction que décidera l’assemblée et à la réparation du sanctuaire. Si quelqu’un propose un décret de sorte que les sommes des troncs à offrandes soient utilisées à d’autres fins, ou si un prostate le soumet au vote, que chacun des responsables paie 1000 dr. consacrées à Aphrodite et que la proposition soit nulle et non avenue. (25) Que les affranchis fassent également une offrande l’année où ils sont affranchis, en même temps que le précédent paiement, de 5 dr., en faisant le paiement aux trésoriers. Que les pêcheurs qui se mettent en route à partir de la cité et les marins qui naviguent autour du territoire donnent également comme offrande, pour chaque bateau, par année, 5 dr. (30) Si quelqu’un manque à l’une des prescriptions de ce contrat ou s’il ne sacrifie pas conformément à ce qui a été prescrit, qu’il soit redevable à la prêtresse de l’amende qui a été prescrit pour chacun et que le recouvrement se fasse comme en vertu d’une décision judiciaire. De la même manière, si la prêtresse manque à l’une des prescriptions de ce contrat, qu’elle soit redevable de 1000 dr. consacrées à Aphrodite, (35) et que celui qui le souhaite la dénonce conformément à la loi. Lors de la vente de la prêtrise, que les prostates sacrifient à Aphrodite Pandamos une génisse de 600 dr. Que les trésoriers avancent la dépense engendrée pour le sacrifice et l’inscription du contrat, et qu’ils en rendent compte avec les autres dépenses. Que l’acheteuse de la prêtrise (40) soit prêtresse à vie. Qu’elle fasse trois versements de l’argent, le premier au mois d’Alseios de la monarchie de Chairedamos, le deuxième au mois de Batromios de la monarchie du successeur de Chairedamos, le troisième au mois de Dalios de la même monarchie. Puisque le peuple, dans sa piété, a construit aussi d’autres bâtiments utilitaires près du sanctuaire au bord de la mer, (45) que [la prêtresse] ait la jouissance de ceux-là également. Que les polètes mettent en adjudication l’inscription de ce contrat [sur une stèle en pierre et] son installation près de l’autel d’Aphrodite P[ontia (?). Qu’ils mettent également en adjudication] l’initiation de la prêtresse conformément à la coutume [et à ce contrat. Que l’acheteuse de la prêtrise verse la dépense engendrée] pour l’inscription du contrat, [pour la stèle, pour l’initiation de la prêtresse et pour] le sacrifice lors de la vente [de la prêtrise en même temps que le premier versement.]</p>
+				<p> (traduction S. Paul)</p>
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+			
+
+<p> The inscription regulates the sale of the priesthood of the joint cult of Aphrodite Pontia (cf. line 6) and Pandamos (cf. line 36) in Kos. The beginning of the text, engraved on the front side of the stone and erased in the first century AD, is now lost, but will have introduced the sale and provided a variety of other considerations; for an introduction to the typology of sales of priesthood on Kos, see here <ref target="CGRN_147">CGRN 147</ref>, with further refs. The preserved second half of the text on this face of the stele contains sections concerning sacrificial regulations of various sorts (lines 1-9); sacrificial fees to be deposited in the money-boxes (lines 10-16); rules for the opening of the money-boxes and the allocation of the money gained (lines 16-24); first-offerings paid by other groups (lines 25-29); fines for non-compliance with the contract (lines 29-35); the sacrifice performed in connection with the sale (lines 35-39); the term of office (lines 39-40); the payment for the sale, in installments (lines 40-43); other benefits of the priesthood (lines 43-45); and finally, the expenses for the inscribing of the stele and the initiation of the priestess (lines 45-50).</p> 
+				
+<p> The joint cult of Aphrodite Pandamos and Pontia is also documented by another, slightly earlier, sale of priesthood from Kos, <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 302 (after 198 BC). This  mentions each goddess separately once, and also refers to the "shrine of Aphrodite Pandamos and Pontia" (in line B10). The sanctuary of the goddesses has been identified with a precinct brought to light in the area of the harbour of the town of Kos (see Rocco; sanctuaries at harbours were often cult places of Aphrodite). The symmetrical layout of this sanctuary is quite unique and remarkable: a quadriportico of about 62 by 45 metres contains two Doric temples of the exact same dimensions. As Parker (2000: 430) remarked, this "remarkable architectural disposition confirms that she [Aphrodite] was worshipped here under a double aspect"; while it was not unusual for one priest to serve multiple gods, or for one deity to be worshipped by multiple cult titles at one site, in which case one deity would be the principal one, the "strict equality" of the two Aphrodites that is apparently realised here is quite rare (Parker 2002: 146).</p>
+				
+<p> Concerning the worship of Aphrodite Pontia, it must first be noted that this goddess is closely connected to the sea and seafaring (cf. Pirenne-Delforge 1994: 433-437); cf. here esp. lines 5-9 and 27-29. Other epithets linking Aphrodite to the sea include, for instance, Εὔπλοια, Γαληναιή and Λιμενία. The link between Aphrodite as goddess of sexuality and her functions in political and nautical domains are not immediately evident. It has been suggested that Greek deities should be seen as powers, who each intervene in various domains, but according to their own competences and "modes of intervention" (cf. Detienne - Vernant 1974, also Detienne 1997). We might then say that Aphrodite has her own particular "mode of intervention" when she "applies to storms and political affairs the same conciliatory charm that unites lovers" (Parker 2005: 390, cf. also Pirenne-Delforge 1994 and Pironti). Thus, her role at sea is opposite to that of Poseidon, who is often seen as the source of storms (or who must be appeased to prevent them). Remarkable in this respect is a quote from Lucretius' poem <title>De Rerum Natura</title>, where it is said in the hymn to Venus that "from you, goddess, and your arrival flee winds and clouds of the sky ... for you the smooth surface of the sea smiles and the sky is calmed and gleams with spreading light". Such an interpretation of Aphrodite's role is supported in the present inscription both by the groups of people required to sacrifice, and by the location of the sanctuary on the harbour, oriented towards the sea (cf. also Parker 2002: 151-152).</p>
+
+<p>The cult of Aphrodite Pandamos at Kos may have found its origin in the synoecism of the island in 366 BC. The pairing of Aphrodite Pontia with Aphrodite Pandamos is perhaps significant of the importance of the harbour and the maritime trade for the development of the unified city (Parker 2002: 155: "Strabo tantalisingly notes (14.2.19, 657) that the synoecism was occasioned by stasis. There would evidently have been a role for the goddess of civic harmony in these circumstances.") The cult of Aphrodite Pandamos, "of all the people", is attested elsewhere on Kos: notably in the demes of Halasarna (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl>, 303) and Isthmos (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 280); cf. Parker (2002: 152 n. 39) for a collection of other epigraphical attestations.</p>
+			
+<p> Lines 1-2: The clause ἁ δὲ πρᾶξις ἔστω ... καθάπερ ἐκ δίκας gives the priestess the authority to punish transgressors without having to resort to a court of law. It is repeated in line 32, where it concludes a set of sacrificial requirements for particular groups. Perhaps similar requirements were the topic discussed in this case too, and they would have been detailed on the immediately preceding part of the document, now lost on side A. As Parker - Obbink (2000 : 432) explain, this formula was used very often in Egyptian loan contracts, where it "assured creditors a right of immediate action against defaulting debtors and their property without the need to secure a judgement against them in court". For this formula on Kos, cp. here <ref target="CGRN_142">CGRN 142</ref>, lines 22-23.</p>
+
+<p> Lines 2-5: The possibility of compensating the priestess in cash, rather than with  portions of meat as perquisites, was meant, as the text points out, to avoid any controversy between the sacrificer and the priestess concerning the value of the sacrificial animals. This may point to earlier disputes having arisen between worshippers of this cult and the priestess. For the payment of cash rather than perquisites to a priestess on Kos, in a different circumstance, cp. <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 356 (Antimacheia), lines 10-12. On the use of the term ὅσιον in Koan sales of priesthood, cf. the commentary at <ref target="CGRN_163">CGRN 163</ref>, lines 3-4.</p>
+
+<p> Lines 5-9: The group that is required to sacrifice here consists of sailors on warships; Parker - Obbink (p. 436) interpret the division "by tent" as referring to an administrative sub-division of the army (perhaps effectively in small platoons, tent-by-tent), and adduce the parallel of the σύσκανοι στρατευόμενοι in <bibl type="abbr" n="IG XII.1">IG XII.1</bibl> 101 (Rhodes).</p>
+					
+<p> Lines 10-13: The term ἀπαρχή, which originally designated "first-fruits" or "preliminary offerings" in kind (with the corresponding verb ἀπάρχομαι), refers here, as often in Classical and later sources, to an offering in the form of a religious payment, akin to a cult fee, which must be deposited by the worshippers (here: τοὶ θύοντες) in the money-box when a sacrifice is performed to the goddess (cf. Jim). The same phraseology (τοὺς θύοντας ἀπάρχεσθαι [ε]ἰς τὸν θησαυρόν) is also found in <ref target="CGRN_125">CGRN 125</ref> (Olbia), lines 11-12. The more usual term for depositing cult fees into a money-box is ἐμβάλλειν. For sacrificial tariffs, cf. Lupu. The same tariffs seem to be prescribed in (the partly restored) lines 16-18 of <ref target="CGRN_218">CGRN 218</ref> (Kos).</p>
+
+<p> Lines 14-16: The priestess is also, more exceptionally, to have the right to rent out her privileges: specifically, these must be her sacrificial dues in the form of perquisites and the money obtained in lieu of perquisites which were mentioned above (and here implied by τούτων). Anyone temporarily renting out the right to these privileges is to have the same power of exaction as the priestess (see above at lines 1-2).</p>
+				
+<p> Lines 16-24: On the opening of the <foreign>thesauros</foreign> in Koan sales of priesthoods, cf. the commentary at <ref target="CGRN_218">CGRN 218</ref>, lines 18-20 and 22-25, and <ref target="CGRN_163">CGRN 163</ref>, lines 17-24.</p>
+				
+<p> Lines 25-27: In <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 318, lines 4-9, slaves that are freed have to make a sacrifice to Adrasteia and Nemesis (about these goddesses, cp. also here <ref target="CGRN_142">CGRN 142</ref>). On first view, the connection of the manumitted to Aphrodite is perhaps more enigmatic than for those two deities who were strongly associated with justice. Perhaps the requirements should be seen more straightforwardly as an "administrative fee" without a specific link to these gods (cf. Parker - Obbink, p. 441, with further cases of the obligation that freed slaves make dedications to various gods).</p>
+	
+<p> Lines 29-35: On the formula ἁ δὲ πρᾶξις ἔστω αὐτᾶι καθάπερ ἐγ δίκας, cf. the commentary on lines 1-2 above. Perhaps the repetition from lines 1-2 are an indication that the missing part of the beginning of the inscription on face A also described the sacrificial duties of various other groups. For other cases from Kos in which fines are prescribed when a sacrificial tariff has not been paid, cp. here <ref target="CGRN_142">CGRN 142</ref>, lines 13-16, and <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 302. For another case in which a priestess is penalized, cp. here <ref target="CGRN_38">CGRN 38</ref> (Chios), lines B9-11; yet this penalty concerns not the inadequate fulfillment of required duties, as seems to be the case for the priestess of Aphrodite here, but rather the excessive acquisition of sacrificial perquisites.</p>
+					
+<p> Lines 35-39: For the procedures followed, the variation in sacrifices made upon the sale of the priesthood and their financing, cf. the commentary at <ref target="CGRN_221">CGRN 221</ref> (Kos), lines 9-14. On the sacrifice of heifers which was made exclusively to goddesses, cf. here <ref target="CGRN_145">CGRN 145</ref>, line 19.</p>
+								
+<p> Lines 43-45: The priestly benefit of "exploiting" (καρπεύειν) the facilities of the sanctuary is a recurrent perk of the office; cp., for example, <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 18-19 and 28, <ref target="CGRN_167">CGRN 167</ref> (Kos), lines 18-20, and <ref target="CGRN_206">CGRN 206</ref> (Pergamon), line 16. In general, the term probably refers to the usufruct of buildings or land, and, more widely, the right to rent these out for money. The χρηστήρια here "must be buildings of some kind" (cf. Parker - Obbink, p. 446, with a semantic study of this term), perhaps dining-rooms or kitchens for the use of which worshippers had to pay the priestess a fee. For the sense of χρηστήριος as "household" or "utilitarian", see also <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. II.</p>
+				
+<p> Lines 47-50: The consecration or initiation (<foreign>telete</foreign>) of the priest or priestess is a procedure that marked his or her introduction to the office. Such procedures often included rites of purification and a sacrifice, the first ritual act that the individual performed in his or her new capacity as priest. On this subject, see the extensive discussions of Parker - Obbink, p. 446-447, Wiemer, Pirenne-Delforge 2005, and Paul; cp. also here <ref target="CGRN_85">CGRN 85</ref> (Kos), line 1, and <ref target="CGRN_175">CGRN 175</ref> (Priene), lines 32-36.</p>
+
+
+
+
+			</div>
+		</body>
+	</text>
+</TEI>

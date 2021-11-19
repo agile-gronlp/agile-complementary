@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_126" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 126</idno>: <rs type="textType" n="purity regulation">Purity</rs> and <rs type="textType" n="sacrificial regulation">sacrificial regulation</rs> for the cult of Despoina at Lykosoura</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> <rs type="objectType" key="stele">Stele</rs> of limestone, broken below. </p>
+		
+	<p><dimensions>
+		<height unit="cm">58</height>
+		<width unit="cm">48</width>
+		<depth unit="cm">17</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Stoichedon varying in length between 26 and 29 letters, and syllabic division is respected. There is an erasure of 17 letters in line 2, the original content of which was unclear. The space of 7 letters in line 12 is not a rasura, as was previously supposed. Perhaps the stone-cutter meant to add something later (Voutiras, after new inspection of the stone).</p>
+			<p>Letters: </p>
+			<p>Line 1: <height unit="cm">3.5</height>.</p> 
+			<p>Lines 2-19: <height unit="cm">1.5</height>.</p>
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+				<p><origDate notBefore="-0225" notAfter="-0200">end of 3rd century BC</origDate></p>
+							
+							<p><desc>Justification: lettering (Thür - Taeuber)</desc>.</p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Lykosoura" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570444" type="external">Lykosoura</ref></placeName>. Found in a field on a 15-minute-drive to the South of the town. Now in the Epigraphical Museum in Athens (inv. no. 11522).
+ </p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on <bibl type="author_date" n="Voutiras 1999">Voutiras 1999</bibl>, except for line 13 where we read θυ[μία]σιν with Dubois 2000 (see below).
+	    				
+	    			</p>
+	    			<p> Other Editions:   
+	    				<bibl type="author_date" n="Leonardos 1898">Leonardos 1898</bibl>: col. 249-29, with ph. pl. XV.
+	    				Hiller von Gaetringen <bibl type="abbr" n="IG V.2">IG V.2</bibl> 514.
+	    				
+	    			</p>
+	    			
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 63;
+	    				Thür - Taeuber <bibl type="abbr" n="IPArk">IPArk</bibl> 34; 
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 68; 
+	    				Brodersen <bibl type="abbr" n="HGIU">HGIU</bibl> 438;
+	    				<bibl type="author_date" n="Dubois 1986">Dubois 1986</bibl>: 301-305;
+	    				Dubois <title>REG</title> 2000 <bibl type="abbr" n="BE">BE</bibl> no. 340;
+	    				Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 27;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 49, 446.
+	    			</p>
+	    			
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Parker 1983">Parker 1983</bibl>: 83 n. 36;
+	    				<bibl type="author_date" n="Jost 1985">Jost 1985</bibl>: 326-336;
+	    				<bibl type="author_date" n="Loucas - Loucas 1994">Loucas - Loucas 1994</bibl>; 
+	    				<bibl type="author_date" n="Jost 2008">Jost 2008</bibl>.
+	    			</p>
+	    			
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	    	
+	    				<lb xml:id="line_1" n="1"/> <name type="deity" key="Despoina"><w lemma="δέσποινα">Δεσποίνας</w></name>.
+	    				
+	    				<lb xml:id="line_2" n="2"/> <del rend="erasure"><gap reason="lost" quantity="17" unit="character"/></del> <w lemma="μή">μὴ</w> <w lemma="ἔξειμι">ἐξέστω</w>
+	    				
+	    				<lb xml:id="line_3" n="3"/> <w lemma="παρέρπω">παρέρπην</w> <w lemma="ἔχω">ἔχοντας</w> <w lemma="ἐν">ἐν</w> τὸ <name type="structure"><w lemma="ἱερόν">ἱερὸν</w></name> τᾶς
+	    				
+	    				<lb xml:id="line_4" n="4"/> <name type="deity" key="Despoina"><w lemma="δέσποινα">Δεσποίνας</w></name> <w lemma="μή">μὴ</w> <name type="adornment"><w lemma="χρυσίον">χρ<supplied reason="lost">υ</supplied>σία</w></name> <w lemma="ὅσος">ὅσα</w> <w lemma="μή">μὴ</w> <w lemma="ἐν">ἰν</w> <name type="genericOffering"><w lemma="ἀνάθεμα">ἀνά
+	    					
+	    					<lb xml:id="line_5" n="5" break="no"/>θεμα</w></name>, <w lemma="μηδέ">μηδὲ</w> <name type="colour2"><w lemma="πορφύρεος">πορφύρ<unclear>ε</unclear>ον</w></name> <name type="clothing"><w lemma="εἱματισμός">εἱματισμὸν</w></name>
+	    				
+	    				<lb xml:id="line_6" n="6"/> <w lemma="μηδέ">μηδὲ</w> <name type="colour2"><w lemma="ἄνθινος">ἀν<unclear>θ</unclear>ινὸν</w></name> <w lemma="μηδέ">μηδὲ</w> <name type="colour2"><w lemma="μέλας"><supplied reason="lost">μέλ</supplied>ανα</w></name> <w lemma="μηδέ">μηδὲ</w> <name type="clothing"><w lemma="ὑπόδημα">ὑπο
+	    					
+	    					<lb xml:id="line_7" n="7" break="no"/>δήματα</w></name> <w lemma="μηδέ">μηδὲ</w> <name type="object"><w lemma="δακτύλιος"><unclear>δ</unclear>ακτύλιον</w></name>· <w lemma="εἰ"><unclear>ε</unclear>ἰ</w> δ’ <w lemma="ἄν">ἄν</w> <w lemma="τις">τις</w>
+	    				
+	    				<lb xml:id="line_8" n="8"/> <w lemma="παρέρπω">παρένθη</w> <w lemma="ἔχω">ἔχων</w> <w lemma="τις"><unclear>τ</unclear>ι</w> τῶν ἁ <objectType key="stele"><name type="authority"><w lemma="στήλη">στάλα</w></name></objectType> <w lemma="κωλύω"><supplied reason="lost">κ</supplied>ωλύει</w>,
+	    				
+	    				<lb xml:id="line_9" n="9"/> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀναθέτω</w></name> <w lemma="ἐν">ἐν</w> τὸ <name type="structure"><w lemma="ἱερόν">ἱερόν</w></name>· <w lemma="μηδέ">μηδὲ</w> τὰς <w lemma="θρίξ"><unclear>τ</unclear><supplied reason="lost">ρί</supplied>
+	    					
+	    					<lb xml:id="line_10" n="10" break="no"/>χας</w> <name type="adornment"><w lemma="ἀναπλέκω">ἀμπεπλεγμένας</w></name>, <w lemma="μηδέ">μηδὲ</w> <name type="clothing"><w lemma="καλύπτω">κεκαλυ<unclear>μ</unclear>
+	    						
+	    						<lb xml:id="line_11" n="11" break="no"/>μένος</w></name>, <w lemma="μηδέ">μηδὲ</w> <name type="vegetal"><w lemma="ἄνθος">ἄνθεα</w></name> <w lemma="παραφέρω">παρφέρην</w>· <w lemma="μηδέ">μηδὲ</w>
+	    				
+	    				<lb xml:id="line_12" n="12"/> <w lemma="μύω">μύεσθαι</w> <space quantity="7" unit="character"/> <name type="childbirth"><w lemma="κύω">κύενσαν</w></name> <w lemma="μηδέ">μηδὲ</w> <name type="childbirth"><w lemma="θηλάζω">θη
+	    					
+	    					<lb xml:id="line_13" n="13" break="no"/>λαζομέναν</w></name>· τὸς δὲ <name type="sacrifice"><w lemma="θύω">θύοντας</w></name> <w lemma="πρός">πὸ<unclear>ς</unclear></w> <name type="sacrifice"><w lemma="θυμίασις">θυ<supplied reason="lost">μία</supplied>
+	    						
+	    						<lb xml:id="line_14" n="14" break="no"/>σιν</w></name> <w lemma="χράω">χρέεσθαι</w> <name type="liquid"><w lemma="ἐλαία">ἐλαίαι</w></name>, <name type="vegetal"><w lemma="μύρτος">μύρτοι</w></name>, <name type="liquid"><w lemma="κηρίον">κηρίο<supplied reason="lost">ι</supplied></w></name>,
+	    				
+	    				<lb xml:id="line_15" n="15"/> <name type="vegetal"><w lemma="οὐλαί">ὀλοαῖς</w></name> <w lemma="αἰρολογέω">αἰρολογημέναις</w>, <name type="object"><w lemma="ἄγαλμα">ἀγάλμα<unclear>σ</unclear><supplied reason="lost">ι</supplied></w></name>,
+	    				
+	    				<lb xml:id="line_16" n="16"/> <name type="vegetal"><w lemma="μήκων">μάκωνσι</w></name> <name type="colour2"><w lemma="λευκός">λευκαῖς</w></name>, <name type="object"><w lemma="λυχνίον">λυχνίοις</w></name>, <name type="vegetal"><w lemma="θυμίαμα">θυμιά
+	    					
+	    					<lb xml:id="line_17" n="17" break="no"/>μασιν</w></name>, <name type="vegetal"><w lemma="σμύρνα">ζμύρναι</w></name>, <name type="vegetal"><w lemma="ἄρωμα">ἀρώμασιν</w></name>· τὸς δὲ <name type="sacrifice"><w lemma="θύω">θ<supplied reason="lost">ύ</supplied>
+	    						
+	    						<lb xml:id="line_18" n="18" break="no"/>οντας</w></name> τᾶι <name type="deity" key="Despoina"><w lemma="δέσποινα">Δε<unclear>σ</unclear>ποίναι</w></name> <name type="sacrifice"><w lemma="θῦμα">θύματα</w></name> <name type="sacrifice"><w lemma="θύω">θύ<supplied reason="lost">ην</supplied></w></name>
+	    				
+	    				<lb xml:id="line_19" n="19"/> <name type="gender"><w lemma="θῆλυς">θήλεα</w></name> <name type="colour1"><w lemma="λευκός">λε<unclear>υ</unclear><unclear>κ</unclear><supplied reason="lost">ὰ</supplied></w></name> <gap reason="lost" quantity="2" unit="character"/><orig>ο</orig><gap reason="lost" quantity="3" unit="character"/><orig>οσ</orig> καὶ <orig>κ</orig><gap reason="lost" quantity="5" unit="character"/>
+	    				
+	    				<lb xml:id="line_20" n="20"/> <gap reason="lost" extent="unknown" unit="line"/>
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>  (Sanctuary? Stele?) of Despoina. [...] Let it not be allowed to enter into the sanctuary of Despoina with golden objects, except as votive offerings, (5) with purple or bright-coloured, or black clothes, with shoes, or a ring. If anyone enters with one of the objects the stele forbids, let him dedicate it in the sanctuary. It is forbidden to have (10) braided hair or (to have the hair) covered. And it is forbidden to bring flowers, forbidden for a pregnant woman or one giving the breast to be initiated. Those who sacrifice should use for sacrificing olive oil, myrtle, honeycombs, (15) barley corns separated from the chaff, statues, white poppy seeds, lamps, incense to burn, myrrh, aromatic spices. Those who offer sacrifices to Despoina should sacrifice white female animals. [...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p> (Sanctuaire ? Stèle ?) de Despoina. [...] Défense de pénétrer dans le sanctuaire de Despoina avec des objets en or, sauf en vue de leur consécration, (5) avec un vêtement de pourpre ou de couleurs vives, ou noir, avec des chaussures, avec un anneau. Au cas où quelqu’un entrerait avec l’un des objets interdits par la stèle, que celui-ci soit consacré dans le sanctuaire; défense d’avoir (10) les cheveux tressés ou la tête couverte; défense d’apporter des fleurs, défense de se faire initier pour une femme enceinte ou qui allaite. Que ceux qui font des offrandes utilisent pour les offrandes de l’huile d'olive, du myrte, des rayons de miel, (15) des grains d’orge sans ivraie, des statue(tte)s, des pavots blancs, des lampes, des parfums à brûler, de la myrrhe, des plantes aromatiques. Que ceux qui offrent des sacrifices à Despoina sacrifient des animaux sacrificiels femelles blancs [...].</p>
+					<p> (traduction M. Jost)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						<p>This regulation of the cult of Despoina details many aspects of cultic interaction with the goddess. It was apparently placed at the entrance of the sanctuary, since it describes who can and cannot go in. Despoina (thought to be the daughter of Poseidon and Demeter) was a highly popular deity in Arcadia, worshipped 'more than any other god' if we should believe Pausanias (8.37.8). The stele first establishes a dresscode by listing various illegal items of apparel: gold jewellery, rings, purple-, brightly coloured- or black clothing, shoes. Flowers are prohibited, hair should not be plaited, and head-coverings are forbidden. The (efficient) punishment for transgression is dedicating the forbidden accessory to the goddess (lines 2-11). The inscription then prohibits the initiation or participation in the mysteries of Despoina by pregnant or breast-feeding women (lines 11-13). The subject then turns to sacrifice. First we find a list of acceptable or neccessary (χρέεσθαι is ambiguous) non-animal offerings, comprising various plants and aromatic spices and also statues (cf. the comment on line 15 below) and lamps (lines 13-17). Finally, the stone breaks off in the middle of a list of animal sacrifices (lines 17-19). Each list is introduced by the subject accusative τὸς θύοντας.</p>
+						<p>Line 1: The size of the letters clearly suggest that Δεσποίνας is a heading of the text. Cp. other inscriptions that start with the name of the deity in the genitive, denoting '(this is the altar/sanctuary) of...': (cf. e.g. <ref target="CGRN_11">CGRN 11</ref>, <ref target="CGRN_133">CGRN 133</ref>, and <ref target="CGRN_134">CGRN 134</ref>, all from Athens). On the cult of Despoina at Lykosoura, cf. Jost 1985. The 'real name' of Despoina would be known only to the initiated (Pausanias 8.37.9).</p>
+						
+<p> Lines 4-7: The rules here seem aimed at curbing ostentation and promoting simplicity of dress (cp. <ref target="CGRN_127">CGRN 127</ref>, Dyme). As Parker (p. 83 n. 36) explains, bright-coloured clothing or jewellery mark out the prostitute. Most of the prohibitions have parallels in other cults. The prohibition of gold and purple clothing is found at Dyme (lines 3-6) and Andania (<ref target="CGRN_222">CGRN 222</ref>, lines 22 and 24). Bright-coloured or 'flowery' clothing are also forbidden in Dyme (line 3) and perhaps in Tlos (<bibl type="abbr" n="LSAM">LSAM</bibl> 77, line 10). By contrast, the prohibition of black clothing is rare and apparently only attested in Smyrna (<bibl type="abbr" n="LSAM">LSAM</bibl> 84, line 10). From all these restrictions, we can infer that white clothes were expected in this cult. Cf. Jost 2008: 96 for examples of cults in which worshippers had to wear white clothes. Rings are forbidden on Delos (<bibl type="abbr" n="LSS">LSS</bibl> 59, line 19) and in Pergamon (<bibl type="abbr" n="LSAM">LSAM</bibl> 14, line 10). Shoes are often prohibited for a combination of practical and religious reasons, on which cf. Parker, p. 177, for example at Ialysos on Rhodes (<ref target="CGRN_90">CGRN 90</ref>, lines 25-26), and again on Delos (<bibl type="abbr" n="LSS">LSS</bibl> 59, line 15) and in Pergamon (<bibl type="abbr" n="LSAM">LSAM</bibl> 14, line 11).</p>         
+						
+<p>Line 8: It is interesting that the physical object, the stele itself, is presented as the source of the authority. More often regulations would refer to the presented set of rules as 'the writings' (τὰ γεγράμματα), or, occasionally, the 'laws' (νόμοι).</p>   
+						<p>Line 9: The injunction to dedicate illegally introduced objects to the deity is also found in the <foreign>diagramma</foreign> of Andania (<ref target="CGRN_222">CGRN 222</ref>, line 26). Pregnant or breast-feeding women could not be initiated in the mysteries: this seems to be some kind of extension of the impurity incurred by childbirth. On mysteries of Despoina at Lykosoura, cf. Jost 1985: 331-332, and Pausanias 8.37.2.</p>
+						<p> Line 13-14: Voutiras proposed ποσθύ[μα]σιν (equivalent of Attic προθύμασιν, preliminary offerings). Dubois 2000 rejected this restitution on linguistics grounds, and suggested πὸς θυ[μία]σιν, 'for fumigation' (previously Dubois 1986 had restored θύ[ω]σιν from *θύωσις, instead of the θύ[η]σιν of previous editors). While accepting Dubois' recent restoration, we remain cautious about the precise ritual implications of these non-animal offerings.</p>
+						<p>Line 16, line 19: note the preference for the colour white: white poppies, a white animal (and probably, white clothing, cf. the comment on lines 4-7 above).</p>
+						<p>Line 15: The mention of ἀγάλματα has provoked much discussion. The most plausible solution is that this word refers to small statuettes that were also found on the cult-site, female figures with an animal head (Loucas - Loucas, p. 561-578), although we might have expected the diminuitive ἀγαλμάτιον.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

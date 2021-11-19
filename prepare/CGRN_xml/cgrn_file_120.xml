@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_120" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 120</idno>: <rs type="textType" key="priestly contract">Contract</rs> for the priest of Poseidon Helikonios at Sinope</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Stone <objectType>slab</objectType>, apparently broken into two pieces and more heavily broken to the right. In the first of the two fragments, the top of the stone may have been preserved. No precise description or dimensions are available; see French for a summary of past scholarship.</p>
+				<p><dimensions>
+					<height unit="cm">unknown</height>
+					<width unit="cm">unknown</width>
+					<depth unit="cm">unknown</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The layout and the approximate letterforms are only known for a drawn copy of the inscription, reproduced by French. No measurements are available.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0350" notAfter="-0250">ca. 350-250 BC</origDate></p>
+			<p><desc>Justification: early Hellenistic letterforms on the basis of the copy; smaller round letters, open <foreign>sigma</foreign> and <foreign>omega</foreign>; consistent <foreign>iota adscriptum</foreign> (Carbon). French appears to opt for a date in the 4th century.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Sinope" n="Black_Sea"><ref target="http://pleiades.stoa.org/places/857321" type="external">Sinope</ref></placeName>. Found in the modern town of Sinop. The stone is lost.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition based on French <bibl type="abbr" n="I.Sinope">I.Sinope</bibl> 8, with dr. We do not, however, adopt the suggested restorations for the verb in lines 1-2; other variant readings are noted in the commentary on specific lines.</p>
+					<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 15, 679; Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 1.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Kleiner et al. 1967">Kleiner et al. 1967</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    					
+<lb xml:id="line_1" n="1"/><name type="epithet"><w lemma="ἀγαθός">ἀγαθῆι</w></name> <name type="deity" key="Tyche"><w lemma="τύχη">τύχηι</w></name>. <w lemma="ἐπί">ἐπὶ</w> <w lemma="ὅδε">τοῖσ<supplied reason="lost">δε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἱερεύς"><supplied reason="lost">ἱερέα</supplied></w>
+	    					
+<lb xml:id="line_2" n="2"/><name type="deity"><w lemma="Ποσειδῶν">Ποσειδῶνος</w></name> <name type="epithet"><w lemma="Ἑλικώνιος">Ἑλικωνίου</w></name>· ὁ συν<gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἱεράομαι"><supplied reason="lost">ἱεράσεται</supplied></w>
+	    					
+<lb xml:id="line_3" n="3"/><w lemma="μέχρι">μέχρι</w> <w lemma="βίος">βίου</w>, <w lemma="λαμβάνω">λαμβάνωμ</w> <orig>π</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_4" n="4"/><name type="portion"><w lemma="μερίζω">μεμερισμένομ</w></name>, <w lemma="παρέχω">παρέξει</w> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τοῖς</supplied> <name type="structure"><w lemma="ἱερός"><supplied reason="lost">ἱεροῖς</supplied></w></name> <supplied reason="lost">τοῖς</supplied>
+	    					
+<lb xml:id="line_5" n="5"/><name type="group"><w lemma="δημόσιος">δημοσίοις</w></name> <w lemma="πᾶς">πάντα</w> καὶ <w lemma="λαμβάνω">λήψ<supplied reason="lost">εται</supplied></w> <supplied reason="lost">τῶν</supplied> <name type="animal" key="generic"><w lemma="ἱερεῖον"><supplied reason="lost">ἱερείων</supplied></w></name> <supplied reason="lost">τῶν</supplied>
+	    					
+<lb xml:id="line_6" n="6"/><name type="group"><w lemma="δημόσιος">δημοσίαι</w></name> <name type="sacrifice"><w lemma="θύω">θυομένων</w></name> <name type="portion"><w lemma="δέρμα">δέ<supplied reason="lost">ρμα</supplied></w> </name><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_7" n="7"/><name type="portion"><w lemma="πρότμησις">πρότμησιγ</w></name>, <name type="portion"><w lemma="γλῶσσα">γλῶσσαν</w></name>· τῶν δὲ <name type="group"><w lemma="ἰδιωτικός"><supplied reason="lost">ἰδιωτικῶν</supplied></w></name> <w lemma="λαμβάνω"><supplied reason="lost">λήψεται</supplied></w>
+	    				
+<lb xml:id="line_8" n="8"/><name type="portion"><w lemma="πρότμησις">πρότμησιν</w></name> ἢ <name type="portion"><w lemma="ὠμοπλάτη">ὠμοπλάτην</w></name> καὶ <name type="adornment"><w lemma="στεφανηφορέω">στ<unclear>ε</unclear><supplied reason="lost">φανηφορήσει</supplied></w></name>
+	    				
+<lb xml:id="line_9" n="9"/><w lemma="ἀπό">ἀπὸ</w> <w lemma="δωδέκατος">δωδεκάτης</w> τοῦ <name type="month"><w lemma="Ταυρεών">Ταυρεῶνος</w></name> <w lemma="ἕως">ἕω<supplied reason="lost">ς</supplied></w> <w lemma="εἰκοστή"><supplied reason="lost">εἰκοστῆς (?)</supplied></w>
+	    				
+<lb xml:id="line_10" n="10"/><supplied reason="lost">κ</supplied>αὶ <w lemma="ἐν">ἐν</w> τῶι <name type="month"><w lemma="Ποσιδηϊών">Ποσειδεῶνι</w></name> <w lemma="μείς">μηνὶ</w> <w lemma="ἀπό">ἀπὸ</w> <w lemma="δωδέκατος">δω<supplied reason="lost">δεκάτης</supplied></w>
+	    					
+<lb xml:id="line_11" n="11"/><w lemma="ἕως"><supplied reason="lost">ἕως</supplied></w> <w lemma="τεσσαρακαιδέκατος">τεσσερεσκαιδεκάτης</w>· <w lemma="ὑπάρχω">ὑπά<supplied reason="lost">ρξει</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="αὐτός"><supplied reason="lost">αὐτῶι</supplied></w>
+	    					
+<lb xml:id="line_12" n="12"/><supplied reason="lost">καὶ</supplied> <name type="quality"><w lemma="ἄνθινος"><supplied reason="lost">ἀ</supplied>ν<unclear>θ</unclear>ινὸς</w></name> <name type="adornment"><w lemma="στέφανος">στέφανος</w></name> <w lemma="ἐν">ἐν</w> <w lemma="ἅπας">ἅπασ<supplied reason="lost">ι</supplied></w> τοῖς <name type="festival"><w lemma="ἀγών">ἀγῶσιν</w></name>
+	    					
+<lb xml:id="line_13" n="13"/><w lemma="καθότι"><supplied reason="lost">καθό</supplied>τι</w> καὶ ταῖς <name type="title"><w lemma="τιμουχία">τιμουχίαις</w></name>· <w lemma="εἰμί">ἔσται</w> δὲ καὶ
+	    				
+<lb xml:id="line_14" n="14"/><w lemma="στρατεία"><supplied reason="lost">στρατ</supplied>είας</w> <w lemma="ἀτελής">ἀτελὴς</w> <w lemma="σῶμα">σώ<supplied reason="lost">μ</supplied>ατι</w> τ<surplus>Α</surplus>ῶι <w lemma="ἑαυτοῦ">ἑαυτοῦ</w>·
+	    					
+<lb xml:id="line_15" n="15"/><w lemma="ποιέω"/><supplied reason="lost">ποιή</supplied>σει δὲ καὶ τὰ <w lemma="συντάσσω">συν<supplied reason="lost">τε</supplied>ταγμένα</w> <w lemma="ἐκ">ἐκ</w> τοῦ
+	    				
+<lb xml:id="line_16" n="16"/><w lemma="μερισμός"><unclear>μ</unclear>ερισμοῦ</w> ἢ <name type="punishment"><w lemma="ὕποχος">ὕποχος</w></name> <w lemma="εἰμί"><supplied reason="lost">ἔσται</supplied></w> <gap reason="lost" extent="unknown" unit="line"/>
+	    				
+<lb xml:id="line_17" n="17"/><gap reason="lost" extent="unknown" unit="line"/><orig>ΕΙΣ<unclear>Ε</unclear>Ι</orig><gap reason="lost" extent="unknown" unit="line"/>
+	  
+<lb xml:id="line_18" n="18"/><gap reason="lost" extent="unknown" unit="line"/> <name type="authority"><w lemma="ἱερόσυλος"><w lemma="ἱεροσυλία"><supplied reason="lost">ἱε</supplied>ροσυλ</w></w></name><gap reason="lost" extent="unknown" unit="line"/>
+	    			
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>With good fortune. On the following [(conditions, scil. appoint) a priest] of Poseidon Helikonios: the [appointed person?] will serve as priest for life, receiving [...] as allotted. He will provide all [the necessities during] (5) public [sacrifices] and he will receive [from all the animals] sacrificed at public expense [the skin...], a portion from the waist, the tongue. From [animals offered at personal expense he will receive] a portion from the waist or the shoulderblade. And he will wear a crown from the 12th of Taureon until [the 20th?] (10) and from the 12th until the 14th in the month Poseideon. A flowering crown will be given (to him) in all the contests just like the other magistrates. He will have an exemption from liturgical contribution to the army, for his own person. (15) And he will accomplish the things set out for him from the allotment or he [will be] liable [to ...] sacrilege [...]</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>À la bonne fortune. Sur les (conditions) [d’adjoindre un prêtre] de Poséidon Helikonios : l’[adjoint] sera prêtre à vie, recevant [...] comme c'est réparti; et il pourvoira à tout [lors des sacrifices] (5) publics; et il recevra, [des animaux] sacrifiés sur fonds publics, [la peau], une part des hanches, la langue; des (sacrifices) [de particuliers], il recevra aussi une part des hanches ou l’omoplate; et [il portera une couronne] du 12 [au 20?] Taureon (10) ainsi qu’au mois de Poseideon, du [12 au] 14 ; et [il disposera] d’une couronne de fleurs lors de tous les concours comme les autres magistrats; et il sera exempté de la liturgie militaire, pour sa propre personne; (15) et [il exécutera] les dispositions issues de la répartition ou [il sera] accusé [... de] sacrilège [...].	</p>
+						</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>The document appears to be a standard contract for a priesthood, but probably not a sale (Sinope was a colony of Miletos, where the practice of sales of priesthoods was prevalent, cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_39/">CGRN 39</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_138/">CGRN 138</ref>). Much of the interpretation of the document may hinge on the interpretation of the missing verb in lines 1-2 (see below), as well as on what exactly is meant here by μερίζω (cf. line 4) and μερισμός (16). At any rate, the contract as we have it appears to contain several typical clauses. The duration of the tenure of the priest is specified (line 3; as often, this is for life). As is also often the case in these contracts, lists of provisions by the priest and of perquisites given to the priest during both public and private sacrifices are specified (lines 4-5, lines 5-7 and 7-8 respectively). The wearing of crowns by the priest is stipulated during what appear to be two large festival occasions, as well as other civic contests (lines 8-13). Tax or liturgical exemptions are granted to the priest (13-14). What appear to be entrenchment or punishment clauses are then listed (15-18). Perhaps not much is missing below the extant text, where e.g. provisions for the inscribing of the contract or other modalities of payment might have been briefly specified.</p>
+						
+<p>Poseidon Helikonios is attested at an early date (already in Hom. <title>Il.</title> 20.404) and is properly speaking the god of Mt. Helikon in Boiotia (cp. the Muses Helikoniades, well-known e.g. at Thespiai). The cult is prevalent in much of Ionia, where it must be tied with the foundation myths of the sanctuary known as the Panionion near Mt. Mykale. Boiotian colonists are attested for several of the founding Ionian cities, including for instance Priene, and whatever the veracity of the myths (doubtful), a cultic link between this area of Ionia and Mt. Helikon was definitely perceived and developed during the historical period. On this sanctuary of the Panionion, see Hdt. 1.148 and Kleiner et al. Since Sinope was a colony of Miletos, the derivation here suggests that the colonists from Miletos brought the cult to Sinope on the Black Sea, in northern Anatolia; for a recently found but heavily mutilated regulation concerning the (smaller?) sanctuary of Poseidon Helikonios at Miletos itself, see <bibl type="abbr" n="Milet VI.3">Milet VI.3</bibl> 1218 (437/6 BC). For copies of sales of priesthoods of Poseidon Helikonios at Priene, cf. also <ref target="http://cgrn.ulg.ac.be/CGRN_177/">CGRN 177</ref>.</p>
+
+<p>Lines 1-2: Sokolowski, followed by French, reads forms of συνίστημι in both lacunae (σ[...]), presumably taking this to mean "to appoint". But this is a rather unusual and late use for the verb (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. IV.e); cp. however further potential examples collected in Sokolowski, who also points to the word διασύστασις (the designation of a successor for a priesthood) in connection with the priesthoods sold at Erythrai (<bibl type="abbr" n="LSAM">LSAM</bibl> 35). This suggestion would therefore entail that the regulation was not a general contract, but one specifically for the designation of a successor- or auxiliary priest ("un règlement concernant l'admission d'un prêtre auxiliaire au service du culte", as Sokolowski writes). Perhaps a form of συντάσσω, would in both cases be possible and preferable, in view of the phrase τὰ συν<supplied reason="lost">τε</supplied>ταγμένα in line 15. This might then refer to the organisation of the priesthood, or more specifically the ordaining of the main priest (not a subsidiary priest) and what is prescribed to him.</p> 
+	
+<p>Line 4: The significance of the verb μερίζω is not clear here. French simply takes it to mean "alloted" (cp. λαγχάνω) and does not offer a more elaborate explanation. Sokolowski instead argues for a financial sense of the word, which is indeed attested (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. (2), and cf. s.v. μερισμός): a certain sum might then be "affected" to the expenditures for the cult of Poseidon Helikonios, which the priest would presumably receive. Though contextually expected, it would perhaps be less appropriate to take the portioning in a sacrifical sense (but so <bibl type="abbr" n="LSJ">LSJ</bibl>), since it is difficult to reconcile the redundancy of the "portioning" received by the priest which the portions taken by him in the following lines (cp. also the apparent 'rubric' ἐ[κ] τοῦ συμμερισμοῦ at Kallatis, <ref target="http://cgrn.ulg.ac.be/CGRN_169/">CGRN 169</ref>, line 1). See also below on lines 15-16.</p>
+						
+<p>Line 7: The portion known as a πρότμησις is imperfectly understood, though its general anatomical position in the area of the waist—the lower back and loins, or the abdomen—is clear (cp. Hsch. s.v. προτμητόν· τὸν ὀμφαλόν). Pollux equated it with the ὀσφῦς, but perhaps wrongly (so also <title>EM</title>, all cited in <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.). It will have likely been a technical term used by butchers.</p>
+						
+<p>Line 8: For the shoulderblade given as a perquisite, cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_129">CGRN 129</ref> (Patara).</p>
+						
+<p>Lines 9-11: The occasions on which the priest must wear a crown are not well-understood, though they clearly must be lengthy celebrations as part of public festivals for Poseidon Helikonios. At Miletos, Taureon is the first month of the year, but no celebrations are known from the 12th to the 20th of that month. The restoration of the 20th day perhaps could be rethought, since it is perhaps surprising to have a festival of Poseidon which lasts nine days. Yet the current restoration best fits the available space in the lacuna. Furthermore, the length and import celebration might instead suggest that the dates are to be identified with those of the Panionia and the major celebration for Poseidon Helikonios at Sinope (cp. also perhaps the sacrifice to the Nymphs at Thebes-on-the-Mykale on 13 Taureon, <ref target="http://cgrn.ulg.ac.be/CGRN_81/">CGRN 81</ref>, lines 5-6). In the eponymous month of Poseideon, the priest again wears a crown (presumably for the shorter 3-4 day long Posidea?).</p>
+						
+<p>Line 12: The type of crown to be worn by the priest just like other magistrates in the contests, is read and corrected by French as [λευ]<corr>κ</corr>όϊνος; i.e. a crown made of white-violets or snowdrops. This is certainly a possibility, but again perhaps corrects the text overmuch; furthermore, the word is highly specific and epigraphically unattested. We therefore prefer Sokolowski's simple flowers, ἄνθινος, a word which can qualify a wreath or garland: e.g. <bibl type="abbr" n="TAM V">TAM V</bibl> 156 (Saittai, 65/4 BC). Conversely, for prohibitions of flowery clothing in Greek sanctuaries, cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_126/">CGRN 126</ref> (Lykosoura), line 11, and <ref target="http://cgrn.ulg.ac.be/CGRN_173/">CGRN 173</ref> (Delos).</p>
+						
+<p>Lines 15-16: The mention of a μερισμός in these lines suggests a semantic link with the expression mentioned above in line 4. French takes these lines in a different direction, reading the verb as <unclear>π</unclear>ω<supplied reason="omitted">λ</supplied>ήσει (cf. his discussion of the various copies of the text) and translating: "he will sell the things arranged from his share or he will be subject to...". This seems to us a problematic interpretation, not only for its correction to the text, but also in terms of sense: indeed, why would the priest be compelled to sell any of his shares? Rather, the injunction seems to be that the priest must perform what has been assigned to him "from the μερισμός" or be liable to some form of punishment or penalty. If the μερισμός is related to the specification in line 4, it may relate to the financial arrangement of the priesthood (so Sokolowski), or perhaps more widely to the contract for the priesthood as a whole and its individual rules (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. μερισμός II, viz. an "arrangement [in writing]").</p>  
+						
+<p>Line 18: Since the traces strongly suggest a word like ἱερόσυλος, and since the context of this part of the inscriptions implies punishment clauses, it seems better to retain this possibility rather than to reject it (so French).
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_18" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 18</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> for Athena Patroia on Thasos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p><rs type="objectType">Wall block</rs>, damaged from reuse but with the inscribed face essentially intact.</p>
+			<p><dimensions>
+					<height unit="cm">17.5</height>
+					<width unit="cm">34</width>
+					<depth unit="cm">17.5</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Maximum utilisation of the polished face and separation of clauses with tricolon punctuation. A diagonal bar in the last line appears to mark the end of the text, but that is also clear from one line left empty at the bottom. </p>
+				<p>Letters <height>2.1-2.2</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0475" notAfter="-0450">ca. 475-450 BC</origDate></p>
+			<p><desc>Justification: lettering (Johnston ap. Jeffery).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thasos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/501634" type="external">Thasos</ref></placeName>. Found reused in the fill of the great terrace, in the town of Thasos. This area has been identified as the Thesmophorion just outside ofthe  the city walls to the North-East.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Rolley 1965">Rolley 1965</bibl>: 447-448 no. 6, with ph., and 462-463.</p>
+					<p>Cf. also:  <bibl type="abbr" n="SEG">SEG</bibl> 35, 956; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 113.</p>
+					<p>Further bibliography: Johnston ap. Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl> 466 no. K (Supplement), with pl. 78.</p>	
+					<p>Online record: <ref target="http://poinikastas.csad.ox.ac.uk/" type="external">Poinikastas</ref> website, with ref. no. 308.K.S466.</p>	
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    					
+<lb xml:id="line_1" n="1"/><name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηναίηι</w></name> <name type="epithet" key="Patroios"><w lemma="πατρῷος">Πατρ
+	
+<lb xml:id="line_2" n="2" break="no"/>οίηι</w></name> <pc>⋮</pc> <name type="sacrifice"><w lemma="ἔρδω">ἔρδεται</w></name> <w lemma="ἕτερος">τὤ
+	
+<lb xml:id="line_3" n="3" break="no"/>τερων</w> <w lemma="ἔτος">ἔτως</w> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος">τέλ
+	
+<lb xml:id="line_4" n="4" break="no"/>η</w></name></name> <pc>⋮</pc> καὶ <name type="person"><w lemma="γυνή">γυνα<supplied reason="omitted">ῖ</supplied>κες</w></name> <pc>⋮</pc> <name type="portion"><w lemma="λαγχάνω">λα
+	
+<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">γ</supplied>χάνω<surplus>ι</surplus>σιν</w></name> <pc>/</pc> <space quantity="1" unit="line"/>	
+	    					
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					To Athena Patroia, a sacrifice of adult animals is made every other year, and women also take part (receiving meat).
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction </head>
+					<p>À Athéna Patroia, un sacrifice de bêtes adultes est accompli tous les deux ans, et les femmes aussi y prennent part (en recevant de la viande).</p>
+					<p>(traduction Z. Pitz)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>While Sokolowski thought that this small regulation pointed to a private or familial Athena Patroia, this is not established and perhaps not likely. In fact, as Rolley's study of the Thesmophorion of Thasos demonstrates, this sanctuary beyond the walls of the city and on a small hill contained a wide variety of boundaries for the precincts of Patrooi Theoi and belonging to civic subdivisions. During the period of Athenian involvement on Thasos, in which this inscription was inscribed, we might accordingly expect Athena Patroia to be the goddess of a <foreign>patra</foreign>. Rolley (p. 483) has briefly but attractively elucidated the importance of the sanctuary for the early history of Thasos. The ancestors of the oikist Telesikles, namely Tellis and Kleoboia, brought the <foreign>orgia</foreign> of Demeter to the island (Paus. 10.28.3, referring to the Knidian <foreign>lesche</foreign> at Delphi). Rolley concludes that the central role of the cult of Demeter and the Thesmophorion for Thasos explains why altars of the ancestral gods of groups (such as this Athena Patroia) were worshipped in this specific location: "C'est sous le patronage de Déméter que les Pariens ont débarqué à Thasos et fondé la cité; c'est elle aussi qui abrite dans son sanctuaire les autels des dieux familiaux, garants des grands moments de la vie de tous les citoyens." </p>
+							
+<p>Lines 1-2: Rolley assumed that τέλη (from τὸ τέλος) meant "ceremonies", but Sokolowksi has interpreted a reference to "adult" or "perfect" animals, probably sheep (i.e. an unusually contracted from of the plural τέλεα, from the variant adjective τέλεος), which does yield a better and more precise sense. The text presumes a biennial festival of some sort, centering on the worship of Athena.</p>
+							
+<p>Lines 4-5: Casabona and Sokolowski have correctly interpreted the form of λαγχάνω as designating the "obtention" of a standard portion from sacrifices (Rolley had thought of the allotment of political office). This regulation and particularly this passage have been used in different ways in the scholarship: see <ref target="http://cgrn.ulg.ac.be/CGRN_33/">CGRN 33</ref> (Elateia) for further discussion on the question of whether female participation in sacrifice was normative (or not). Here, the explicit emphasis on the inclusion of women in the sacrificial distribution (and perhaps their participation, though that is not clear) can be understood in the light of the context: the <foreign>patra</foreign> or 'familial' cult group in which women formed an essential part may have wished to make it especially clear that portions were to be given or set aside for female members. In other cases, such as familial groups, portions of meat were also distributed to women, who are present but do not dine with the men, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_104/">CGRN 104</ref> (Halicarnassus), lines 41-42. The final oblique stroke appears to be a form of punctuation on the stone, which marks the conclusion of the text.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

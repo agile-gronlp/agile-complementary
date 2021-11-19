@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_83" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 83</idno>: <rs type="textType" key="sacrificial calendar">Sacrificial calendar</rs> from Miletupolis</title>
+	    				
+<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Two joining fragments from a marble <rs type="objectType">stele</rs> with preserved margins on the left and right, but badly damaged and broken at the top and bottom.</p>
+				<p><dimensions>
+					<height unit="cm">33</height>
+					<width unit="cm">52</width>
+					<depth unit="cm">14</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">10-13</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0350" notAfter="-0250">ca. 350-250 BC</origDate></p>
+			<p><desc>Justification: lettering (Schwertheim), cf. this author for further hypotheses based on phraseology and the worship of Eirene.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Miletupolis" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/511318" type="external">Miletupolis</ref></placeName>. Found during streetworks in the city in 1975; the remaining fragments of the stele are presumed destroyed. Now in the Museum of Bursa (no inv. number).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Schwertheim <bibl type="abbr" n="I.Miletupolis">I.Miletupolis </bibl> 1, with ph. fig. 4, and detailed commentary p. 107-112. We print more cautious traces at the beginning of line 13.</p>
+					<p>No text printed in <bibl type="abbr" n="SEG">SEG</bibl>, cf. 33, 1072.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>; <bibl type="author_date" n="Habicht 1999">Habicht 1999</bibl>: 26-29; <bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>: 484-485 (App. I); <bibl type="author_date" n="Carbon 2014">Carbon 2014</bibl>; <bibl type="author_date" n="Fabiani 2015">Fabiani 2015</bibl>: 24 with n. 28.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_1" n="1"/><w lemma="τρεισκαιδέκατος"><supplied reason="lost">τρεισκ</supplied><unclear>α</unclear>ιδ<unclear>ε</unclear><supplied reason="lost">κάτηι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_2" n="2"/><w lemma="πέμπτος"><supplied reason="lost">πέμπ</supplied>τηι</w> <w lemma="ἐπί">ἐπ<unclear>ὶ</unclear></w> <w lemma="δέκα"><supplied reason="lost">δέκα</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3"/><w lemma="εἰκάς"><supplied reason="lost">εἰκ</supplied>άδι</w> <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμῆι</w></name> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χο<unclear>ῖ</unclear><supplied reason="lost">ρος</supplied></w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    						    					
+<lb xml:id="line_4" n="4"/><w lemma="δέκατος"><supplied reason="lost">δε</supplied>κάτηι</w> <w lemma="φθίω">φθίνο<unclear>ντ</unclear>ο<supplied reason="lost">ς</supplied></w> <gap reason="lost" quantity="8" unit="character"/> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶς</w></name> <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_5" n="5"/><name type="month"><w lemma="Σκιροφοριών"><supplied reason="lost">Σ</supplied><unclear>κ</unclear>ιροφοριῶνος</w></name><w lemma="νουμηνία"> <unclear>ν</unclear>ου<unclear>μη</unclear>νίαι</w> <name type="deity" key="Ilithyia"><w lemma="Εἰλείθυια">Ἰλιθυίαι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶς</w></name> <space quantity="4" unit="character"/>
+	    					
+<lb xml:id="line_6" n="6"/><w lemma="ἔνατος">ἐνάτηι</w> <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδίτηι</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἴξ</w></name> <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_7" n="7"/><w lemma="τετρακαιδέκατος">τετρακαιδεκάτηι</w> <name type="deity"><w lemma="Ζεύς">Διὶ</w></name> <name type="epithet" key="Polieus"><w lemma="Πολιεύς">Πολιεῖ</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦς</w></name> <space quantity="7" unit="character"/>
+	    						    					
+<lb xml:id="line_8" n="8"/><w lemma="ἕκτος">ἕκτηι</w> <w lemma="ἐπί">ἐπὶ</w> <w lemma="δέκα">δέκα</w> <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλεῖ</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦς</w></name> <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_9" n="9"/><name type="epithet" key="Alexikakos"><w lemma="Ἀλεξίκακος">Ἀλεξικάκωι</w></name> <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταῦρος</w></name></name> <space extent="unknown" unit="character"/>
+	    						    					
+<lb xml:id="line_10" n="10"/><w lemma="ἕβδομος">ἑβδόμηι</w> <w lemma="ἐπί">ἐπὶ</w> <w lemma="δέκα">δέκα</w> <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <name type="epithet" key="Olympios"><w lemma="Ὀλύμπιος">Ὀλυμπίωι</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦς</w></name> <space quantity="8" unit="character"/>
+	    						    					
+<lb xml:id="line_11" n="11"/><name type="deity"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> <name type="epithet"><w lemma="Κάρνειος">Καρνείωι</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦς</w></name>, <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταῦρος</w></name></name>, <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος">ἔριφος</w></name></name> <space quantity="7" unit="character"/>
+	    						    					
+	    					<lb xml:id="line_12" n="12"/><name type="deity" key="Eirene"><w lemma="εἰρήνη"><supplied reason="lost">Εἰρ</supplied><unclear>ή</unclear>νηι</w></name> <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταῦρος</w></name></name> <space extent="unknown" unit="character"/>
+	    						    					
+	    					<lb xml:id="line_13" n="13"/><w lemma="εἰκάς"><supplied reason="lost">εἰκάδι?</supplied></w> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Δ</supplied><unclear>ιὶ</unclear></w></name> <name type="epithet" key="Agoraios"><w lemma="ἀγοραῖος">Ἀγοραίωι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶς</w></name> <space extent="unknown" unit="character"/>
+	    				
+	    					<lb xml:id="line_14" n="14"/><gap reason="lost" quantity="11" unit="character"/> <name type="animal" key="sheep"><w lemma="ὄϊς"><supplied reason="lost">ο</supplied>ἶς</w></name> <space extent="unknown" unit="character"/>
+	    				
+	    					<lb xml:id="line_15" n="15"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_16" n="16"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>[...]</p>
+					<p>On the [13th (?) ...]</p>
+	    				<p>On the [15th (?) ...]</p>
+	    				<p>On the 20th, to Hermes, a piglet [...]</p>
+	    				<p>On the 21st, to [...] a sheep.</p>
+	    				<p>(5) In Skirophorion: on the 1st, to Ilythia a sheep.</p>
+	    				<p>On the 9th, to Aphrodite a goat.</p>
+	  				<p>On the 14th, to Zeus Polieus, an ox.</p>
+	    				<p>On the 16th, to Heracles, an ox; to (Heracles) Alexikakos, a bull. </p>
+<p>(10) On the 17th, to Zeus Olympios an ox; to Apollo Karneios, an ox, a bull, a kid; to Eirene, a bull.</p>
+<p>[On the 20th, to Zeus (?)] Agoraios, a sheep.</p>
+<p>[...] to [...] a sheep</p>
+<p>[...]</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[...]</p>
+					<p>Le [13 (?) ...]</p>
+					<p>Le [15 (?) ...]</p>
+					<p>Le 20, à Hermès, un porcelet [...]</p>
+					<p>Le 21, à [...] un mouton.</p>
+					<p>(5) En Skirophorion, le 1er, à Ilythie, un mouton.</p>
+					<p>Le 9, à Aphrodite, un caprin.</p>
+					<p>Le 14, à Zeus Polieus, un bovin.</p>
+					<p>Le 16, à Héraclès, un bovin; à (Héraclès) Alexikakos, un taureau. </p>
+					<p>(10) Le 17, à Zeus Olympios, un bovin; à Apollon Karneios, un bovin, un taureau, un chevreau; à Eirenè, un taureau.</p>
+					<p>[Le 20, à Zeus (?)] Agoraios, un mouton.</p>
+					<p>[...] à [...] un mouton.</p>
+					<p>[...]</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>Only little is known about Miletupolis, a site somewhat inland from the southern shore of the Propontos. This fragment of a late Classical or early Hellenistic sacrificial calendar from the city has accordingly stimulated an interesting discussion about its origins and its religious makeup (for a fragment of a ritual calendar from its neighbour Kyzikos, also a Milesian colony, see also now Carbon). Schwertheim (p. 105-107) provides a detailed discussion of the mythical origins of the city, probably founded in the sixth century BC; in 410/9, the city features in the Athenian tribute lists, but the remaining history of the city in the Classical period is murky.</p>
+						
+<p>Most remarkably, the calendar of Miletupolis does not appear to match precisely that of its mother-city (for the calendar of Miletos, see here <ref target="CGRN_6">CGRN 6</ref> and <ref target="CGRN_201">CGRN 201</ref>). The beginning of the fragment of the calendar contains the end of a month, probably the second half of the month Thargelion (lines 1-4); the next section (lines 5-14) concerns perhaps the essential part of the month Skirophorion (where Milesian Kalamaion would have been expected). Skirophorion is a typically Athenian month and almost never attested elsewhere: it was once thought to occur at Iasos, but this has now been disproved, cf. Fabiani; the month at Iasos is actually Gephorion (for the Attic festival of the Skira, see here <ref target="CGRN_25">CGRN 25</ref>, Paiania, lines A5-7; <ref target="CGRN_56">CGRN 56</ref>, Marathonian Tetrapolis, col. I, lines 9-12, and col. II, lines 30, 51-53; and <ref target="CGRN_78">CGRN 78</ref>, Piraeus, line 11; these would have fallen on 12th, but no entry for that day is preserved at Miletupolis). This led Schwertheim to propose that Miletupolis was founded (or refounded) under the influence or power of Athens, perhaps in ca. 410 BC before the end of the Peloponnesian War. Going beyond this, Habicht went as far as to argue that the fragment must actually be a <foreign>pierre errante</foreign>, brought perhaps from an Attic deme all the way to the sea of Marmara. As Parker has rightly objected, there are several indicators which argue for the contrary: for example, the expression τετρακαιδεκάτηι is not Attic (we would expect τετράδι ἐπὶ δέκα), the god Apollo Karneios is primarily worshipped in the Doric sphere, and the recorded dates for the most part do not match Attic festivals—with some conspicuous exceptions, however, see line 7). Nevertheless, we are forced to concede (as Parker also seems to do) that Schwertheim's hypothesis of a degree of Athenian influence on the calendar is probable, or at least possible.</p>
+						
+<p>Alternatively, it may also be possible to suggest that Skirophorion or even a festival of the Skira are not impossible in a Milesian colony. Skiros was also a placename in Arcadia and a Artemis Boulephoros Skiris (mythically linked with that provenance) is attested in an inscription from Miletos, <bibl type="abbr" n="LSAM">LSAM</bibl> 57 (ca. 250-200 BC), where an oracle (probably Didyma) was consulted concerning the collections of the priestly personnel in this cult. If the same goddess had also been worshipped at Miletupolis, then a month Skirophorion (cp. Skiriphorion?, no doubt a different festival from the Attic version) may have been appropriate within the cultic sphere of a Milesian colony. At any rate, the overall particularities of the calendar make any straightforward interpretation of its character difficult to demonstrate; like many other calendars its development and composition will no doubt have been complex and multi-faceted.</p>
+						
+<p>Finally, note that if the sequence [Thargelion]-Skirophorion was to be reconstructed with the order of Thargelion in the Milesian calendar (month 2), then we would perhaps have fragments of the second and third months of the calendar respectively (in this hypothetical scenario, Skirophorion would replace Milesian Kalamaion, month 3). If an Athenian order of the months was envisaged, then this would be the very end of the calendar, the penultimate and last months. This latter scenario might well match the layout of the fragments, which preserves much empty space to the right in line 16 here, perhaps indicating that this is the end of the regulation; however, other lines in the calendar are also quite short (e.g. line 14, line 15), so we cannot be completely sure that it ended in line 16 or shortly afterward (the stele is broken below; cf. Support). On the whole, the calendar is carefully arranged: each month or date rubric begins at the preserved left margin, followed by a deity and
+offerings (without prices); any remaining space is left empty at the right; if more than one sacrifice occurs on the same date, the concurrent sacrifice is listed on the next line (cf. lines 8-9 and 10-12). Comparisons with corresponding dates in the Attic calendar are given at each entry below; unless otherwise stated, there is no evidence for a given date in the calendar of Miletos or its colonies. </p>
+						
+						
+<p>Lines 1-2: The dates of the 13 and 15, probably belonging to the month Thargelion, have been restored here, following Schwertheim. But other possibilities may be envisaged, given the extent of the lacunae, e.g. the 14th in line 1; the 19th in line 2. For all of these dates in the Attic calendar, see Mikalson (no evidence for the 13th; the 14th was a meeting day; no evidence for the 15th; the 19th was the Bendideia).</p>
+						
+						
+<p>Line 3: Hermes is offered a piglet (or multiple piglets) on the 20th of the month; this may also have been followed by further offerings to the same god in the gap. For the cult of Hermes at Miletupolis, see Schwertheim, p. 108 with n. 71. There is no evidence concerning 20 Thargelion in Athens: see Mikalson, p. 159.</p>
+						
+						
+<p>Line 4: As Schwertheim comments, the date must be the 21th. This was typically known at the "later tenth" in Athens; the date of the 20th (line 3), would have been known there as the "earlier tenth" (see also generally Mikalson). Therefore, the dates again do not match the calendrical system of Athens. There is also no firm evidence concerning 21 Thargelion in Attica (Mikalson, p. 159). </p>
+						
+						
+<p>Line 5: The month Skirophorion begins here with a sacrifice to Ilythia on the first day (the New Moon), which is unattested at Athens and elsewhere. For the cult of the goddess Ilythia, see e.g. here <ref target="CGRN_38">CGRN 38</ref> (Chios) and <ref target="CGRN_199">CGRN 199</ref> (Delos); for the Noumenia in Athens, see Mikalson, p. 14-15.</p>
+						
+						
+<p>Line 6: A sacrifice to Aphrodite takes place on 9 Skirophorion, for which there is no other evidence; for this day as a meeting day in Athens, cf. Mikalson, p. 169.  In Athens, it is often the fourth day of the month that is sacred to Aphrodite, cf. here the commentary at <ref target="CGRN_136">CGRN 136</ref>, lines 21-23.</p>
+						
+						
+<p>Line 7: This entry in the calendar forms without doubt the best parallel with the Attic calendar: an offering to Zeus Polieus on 14 Skirophorion. Indeed, this was the day of the festival of the Dipoleia (also sometimes called Bouphonia), when the sacrifice of oxen in honour of the Zeus took place on the Athenian Acropolis and a new Boule entered into office: cf. Mikalson (p. 171) and esp. Parker (p. 187-191); see here <ref target="CGRN_7">CGRN 7</ref>, lines A24-25, and <ref target="CGRN_19">CGRN 19</ref> (Skambonidai), lines A15-21.</p>
+						
+						
+<p>Lines 8-9: This appears to represent one of the two major sacrificial occasions preserved for this month (see below lines 10-12 for the other). It was clearly a festival of Heracles on the 16th, worshipped by name and with the moniker (his epithet) Alexikakos ("protector against ills" or against mischief, cp. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. for this divine epithet, and the verb ἀλέξω "to ward off, defend"); he was widely worshipped as a protector of houses under this guise; see also Schwertheim, p. 110 with n. 85). Intriguingly, the occasion has no apparent relation to rituals in Athens (Mikalson, p. 172, has evidence for a political meeting on this day), but it might parallel a sacrifice to Heracles (along with Hermes) taking place earlier in Thargelion at Miletos: <bibl type="abbr" n="Milet I.9">Milet I.9</bibl> 368 (ca. 100 BC), lines 9-11.  For the sacrifice of oxen to Heracles, see here <ref target="CGRN_84">CGRN 84</ref> (Salaminioi, in Mounychion), line 86, and <ref target="CGRN_86">CGRN 86</ref> B (Kos), lines 9-10; cp. also  <ref target="CGRN_27">CGRN 27</ref> (Thasos); for bulls, see also <bibl type="abbr" n="IG VII">IG VII</bibl> 2712 (Akraiphia), lines 22-23. With the explicit mention of oxen and bulls, it is probable that distinction is being drawn here between castrated and uncastrated male animals respectively.</p>
+						
+<p>Lines 10-12: This is the other major sacrificial occasion preserved in the month, on the 17 Skirophorion; conceivably, it might have been paired in some way with the rites for Heracles on the preceding day (there is no evidence for the day in Athens, cf. Mikalson, p. 173). Here, an ox is offered to Zeus Olympios (for this god, see here <ref target="CGRN_4">CGRN 4</ref>, Olympia, and perhaps <ref target="CGRN_40">CGRN 40</ref>, Apollonia, line B4); a significant triple offering is bestowed on Apollo Karneios; and finally a bull is sacrificed to Eirene. The last of these three sacrifices has drawn particular attention, since worship of this goddess would fit particularly well in an Attic context (or one of Athenian influence, Eirene being an official cult in Athens from 374 BC onwards). However, as Parker rightly remarks, the sacrifice for Peace took place on 16 Hekatombaion in Athens, a month later (p. 478 and 484-485). Worship of Apollo Karneios, especially with such a significant triple offering, is particularly intriguing. The god was especially favoured in the Dorian world and is little expected here (unless we also start to think of "Spartan influence", see Schwertheim); for Apollo Karneios and the Karneia, see here <ref target="CGRN_47">CGRN 47</ref> (Thera), commentary, <ref target="CGRN_86">CGRN 86</ref> D (Kos), lines 15, 22, 26, and <ref target="CGRN_222">CGRN 222</ref> (Andania). The combination of ox-bull-kid is unprecedented, though it may recall certain forms of <foreign>trittoia</foreign>: see here <ref target="CGRN_8">CGRN 8</ref> (Eleusis), line 5, and <ref target="CGRN_130">CGRN 130</ref> (Kamiros), lines 3-7.</p>
+						
+						 
+<p>Lines 13-14: According to Schwertheim, the traces suggest that we are dealing with Zeus Agoraios. If that is correct, then the only thing which could have been inscribed in the lacuna to the left is a short date, and the only suitable candidate is the 20th. Nevertheless, the restoration should continue to be viewed as quite insecure: to our eyes, it is perhaps too long for the gap available according to the photograph; moreover, there is no evidence for 20 Skirophorion in Athens (cf. Mikalson, p. 173). An alternative would be to restore another god with the epithet Agoraios, viz. Hermes (<supplied reason="lost">Ἑρμ</supplied><unclear>ῆι</unclear>). In this case, Hermes Agoraios will also have been associated with the occasion on 17 Skirophorion (see above lines 10-12); cp. here Hermes honoured on the Agora at Erchia, <ref target="CGRN_52">CGRN 52</ref>, col. Α, lines 53-57, etc. (4 Thargelion); cf. also the commentary at <ref target="CGRN_56">CGRN 56</ref> (Marathonian Tetrapolis), col. I, lines 4-12. The deity and offering in line 14 must also have referred to the same date, since there is not enough space in the lacuna for a new date.</p>
+						
+			</div>
+			</body>
+    	</text>
+	</TEI>

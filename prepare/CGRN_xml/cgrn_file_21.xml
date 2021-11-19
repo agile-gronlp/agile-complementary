@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_21" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 21</idno>: Fragmentary <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs>, perhaps of a <foreign>genos</foreign> from Athens</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Fragment of an opisthographic <rs type="objectType">stele</rs>, intact only on the left side. The front, A, preserves a substantial portion of text, given here, while the back, B, only barely preserves a few traces, such as an offering to Dionysus (see Lewis). </p>
+	<p><dimensions>
+		<height unit="cm">35</height>
+		<width unit="cm">23</width>
+		<depth unit="cm">14</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Stoichedon, but of uncertain length.  </p>
+			<p>Letters: <height unit="cm">1.3</height>; the stoichedon grid is <height unit="cm">1.9</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0475" notAfter="-0450">ca. 475-450 BC</origDate></p>
+							<p><desc>Justification: lettering and style (Lewis, who gives ca. 480-460). </desc></p>
+						</origin>
+	<provenance><p>
+		<placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885/" type="external">Athens</ref></placeName>. Perhaps found on the acropolis where it was once located. Now in the Epigraphical Museum in Athens (inv. no. 6559). </p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by JM Carbon and S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by J.-M. Carbon in 04.2020.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p>Edition based on Lewis <bibl type="abbr" n="IG I³">IG I³</bibl> 234, with the revisions of Thonemann, Carbon, and Lambert as reported in <ref target="https://www.atticinscriptions.com/inscription/IGI3/234-add-p-956" type="external">AIO</ref>, with a partial app. cr. For the suggested alternative readings of Thonemann, which are not consistently adopted here but are discussed in the Commentary below, see <bibl type="author_date" n="Lalonde 2006">Lalonde 2006</bibl>: 110-111 no. ZM23, with ref. to P.J. Thonemann's autopsy.</p>
+	    			
+	    			<p>Cf. also: 
+	    				von Prott <bibl type="abbr" n="LGS I">LGS I</bibl> 1, with p. 45; 
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 1.</p>
+	    			
+	    			<p>Further bibliography: 
+	    				<bibl type="author_date" n="Ruschenbusch 1966">Ruschenbusch 1966</bibl>; <bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>, on the Athenian calendar; 
+	    				<bibl type="author_date" n="Georgoudi 1988a">Georgoudi 1988a</bibl>; <bibl type="author_date" n="Leão - Rhodes 2015">Leão - Rhodes 2015</bibl>.</p>
+	    			
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    			<ab>
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				
+<lb xml:id="line_1" n="1"/><gap reason="lost" quantity="4" unit="character"/><orig><unclear>Λ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_2" n="2"/><gap reason="lost" quantity="3" unit="character"/>οις <pc>∶</pc> <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος"><supplied reason="lost">τ</supplied>
+	    					
+<lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">έλ</supplied>εον</w></name></name> <pc>∶</pc> <name type="month"><name type="festival"><w lemma="Θαργήλια">Θαρ<supplied reason="lost">γελιο</supplied></w></name></name><gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Διὶ</supplied></w></name>
+	    				
+<lb xml:id="line_4" n="4"/><name type="epithet" key="Meilichios"><w lemma="μειλίχιος"><supplied reason="lost">Μι</supplied>λιχίοι</w></name> <pc>∶</pc> <orig>ε</orig><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">καὶ τὰ </supplied>
+	    					
+<lb xml:id="line_5" n="5" break="no"/><w lemma="ἄλλος"><supplied reason="lost">ἄ</supplied><unclear>λλ</unclear>α</w> <pc>∶</pc> <name type="deity" key="Meter"><w lemma="μήτηρ">Μετρὶ</w></name> <pc>∶</pc> <w lemma="ἐν"><unclear>ἐ</unclear><supplied reason="lost">ν</supplied></w> <placeName><w lemma="ἄγρα"><supplied reason="lost">Ἄγρας</supplied></w></placeName> <supplied reason="lost">(?)</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_6" n="6"/><gap reason="lost" quantity="1" unit="character"/><w lemma="unclear"><unclear>σ</unclear>πυριχεια</w><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">το̑ι</supplied> <w lemma="τρίτος"><supplied reason="lost">τρ</supplied>
+	    					
+<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">ί</supplied><unclear>τ</unclear>οι</w> <w lemma="ἔτος">ἔτει</w> <pc>∶</pc> <orig>Δι</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_8" n="8"/><gap reason="lost" quantity="2" unit="character"/><orig>ον</orig> <pc>∶</pc> <w lemma="ὅταν">hόταν</w> <pc>∶</pc> h<gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_9" n="9"/><gap reason="lost" quantity="1" unit="character"/><orig>ις</orig> <pc>∶</pc> <name type="animal" key="generic"><name type="age"><w lemma="γαλαθηνός">γαλαθεν<unclear>ὰ</unclear></w></name></name><gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Kourotrophos"><w lemma="Κουροτρόφος"><supplied reason="lost">Κο</supplied>
+	    					
+<lb xml:id="line_10" n="10" break="no"/><supplied reason="lost">ρ</supplied>οτρόφοι</w></name> <pc>∶</pc> <w lemma="ἐν">ἐμ</w> <name type="locality"><w lemma="πόλις"><unclear>π</unclear><supplied reason="lost">όλει</supplied></w></name> <supplied reason="lost">(?)</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="swine"><name type="age"><w lemmaRef="χοῖρος"><supplied reason="lost">χο</supplied>
+	    						
+<lb xml:id="line_11" n="11" break="no"/><supplied reason="lost">ῖ</supplied>ρος</w></name></name> <pc>∶</pc> <name type="deity" key="Hero"><w lemma="ἥρως">hέροι</w></name> <pc>∶</pc> <orig>πα</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_12" n="12"/><name type="deity" key="Heroine"><w lemma="ἡρωίνη"><supplied reason="lost">h</supplied>ε<unclear>ρ</unclear>οΐνει</w></name> <pc>∶</pc> <w lemma="ἐν">ἐμ</w> <name type="locality"><w lemma="πόλις">π<supplied reason="lost">όλει</supplied></w></name> <supplied reason="lost">(?)</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="generic"><name type="age"><w lemma="πτόρθος"><supplied reason="lost">πτ</supplied>
+	    					
+<lb xml:id="line_13" n="13" break="no"/><supplied reason="lost">ό</supplied>ρθια</w></name></name> <pc>∶</pc> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοῖρος</w></name></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Charites"><w lemma="χάρις"><supplied reason="lost">Χά</supplied>
+	    						
+<lb xml:id="line_14" n="14" break="no"/><supplied reason="lost">ρ</supplied>ισιν</w></name> <pc>∶</pc> <name type="animal" key="generic"><name type="age"><w lemma="γαλαθηνός">γαλαθε<supplied reason="lost">νὰ</supplied></w></name></name> <supplied reason="lost">(?)</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_15" n="15" break="no"/><orig>ν</orig> <pc>∶</pc> <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδι</w></name> <pc>∶</pc> <orig>δεμ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_16" n="16"/><name type="month"><w lemma="Γαμηλιών"><unclear>Γ</unclear>αμελιο̑νος</w></name> <pc>∶</pc> <w lemma="μείς">μ<unclear>ε</unclear><supplied reason="lost">νὸς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="φθίω"><supplied reason="lost">φθί</supplied>
+	    					
+<lb xml:id="line_17" n="17" break="no"/>νοντος</w> <pc>∶</pc> <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύ<unclear>σ</unclear><supplied reason="lost">οι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					    				
+<lb xml:id="line_18" n="18"/><name type="animal" key="goat"><name type="age"><name type="gender"><w lemma="ἔριφος">ἔριφος</w></name></name></name> <pc>∶</pc> <name type="quality"><w lemma="κριτός">κριτὸς</w></name> <pc>∶</pc> <gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Semele"><w lemma="σεμέλη"><supplied reason="lost">Σεμέλ</supplied>
+	    					
+<lb xml:id="line_19" n="19" break="no"/>ει</w></name> (?) <pc>∶</pc> <name type="structure"><w lemma="τράπεζα">τράπεζα</w></name> <pc>∶</pc> <name type="deity" key="unclear"><w lemma="unclear">hερ</w></name><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_20" n="20"/><name type="deity" key="Hero"><w lemma="ἥρως">hέροι</w></name> <pc>∶</pc> <w lemma="unclear">παραγνε</w><gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Δ</supplied>
+	    					
+<lb xml:id="line_21" n="21" break="no"/><unclear>ι</unclear>ὶ</w></name> <pc>∶</pc> <name type="epithet" key="Heraios"><w lemma="Ἡραῖος">hεραίοι</w></name> <pc>∶</pc> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χο<unclear>ῖ</unclear><supplied reason="lost">ρος</supplied></w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_22" n="22" break="no"/><orig><unclear>ε</unclear>ι</orig> <pc>∶</pc> <name type="animal" key="sheep"><name type="age"><w lemma="ἀρήν">ἀρὲν</w></name></name> <pc>∶</pc> <name type="quality"><name type="gender"><w lemma="κριτός">κριτὸ<supplied reason="lost">ς</supplied></w></name></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="structure"><w lemma="τράπεζα"><supplied reason="lost">τ</supplied>
+	    					
+<lb xml:id="line_23" n="23" break="no"/><supplied reason="lost">ρ</supplied>άπεζα</w></name> <pc>∶</pc> h<orig>ε</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...] an adult animal. In Thargelion (or: during the Thargelia) [... to Zeus] Meilichios [... and the] (5) rest; to Meter at [Agrai (?) ...] <foreign>spyricheia</foreign> (?) [...] in the [second] year, to [...] whenever [...] suckling animals; (10) to Kourotrophos, on the [Acropolis (?) ...] a piglet; to the Hero [...]; to the Heroine, on the [Acropolis (?) ...] (animals) with budding horns, a piglet [...] to the Charites suckling animals (?) [...] (15) to Artemis [...]. In the month of Gamelion: on the (x) waning, to Dionysus [...] a kid, selected [...] to [Semele (?)], a table, [...] to the Hero [...], (20) to Zeus Heraios a piglet, [to ...] a lamb, selected [...] a table [...]</p>
+					</div>
+	    		
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[...] un animal adulte. En Thargelion (ou pendant les Thargelia) [... à Zeus] Meilichios [... et les] (5) autres choses; à la Mère à [ Agrai (?) ...] des <foreign>spyricheia</foreign> (?) [...] tous les deux ans [...] lorsque [...] des animaux de lait [...]; (10) à Kourotrophos sur [l’acropole (?) ...] un porcelet; au héros [...] à l’héroïne sur [l'acropole (?) ...] (des animaux) aux cornes bourgeonnantes, un porcelet [...] aux Charites, des animaux de lait (?) [...] (15) à Artémis [...]. Au mois de Gamelion (date dans la troisième décade) [...] à Dionysos [...] un chevreau sélectionné [...] à [Sémélè (?)] une table, au héros [...], (20) à Zeus Heraios, un porcelet [à ...] un agneau sélectionné [...] une table [...]. </p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+	
+<p>The precise authority which issued this small calendar is unknown. Von Prott presumed that the text was an Athenian civic sacrificial calendar, since the stone was found on the Acropolis and since it contains references to fairly extensive sacrifices, some of which match well-known public rites. These arguments are far from compelling, since we known that <foreign>gene</foreign> and other groups were sometimes allowed to publish their documents on the Acropolis (cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_24/">CGRN 24</ref>). What is more, the fragment of a calendar under discussion presents an odd chronological sequence: in line 3, Thargelion (or the Thargelia), the eleventh month, then in line 16, Gamelion, the seventh month. It would therefore appear that several months were skipped in the sequence presented here, and more importantly, that the starting point of this calendar was not Hekatombaion, as is usual in Athens. Both of these aspects suggest that we are dealing with
+the calendar of a subcivic group, perhaps indeed a <foreign>genos</foreign> (see also line 20), whose calendar may have begun in a month prior to Thargelion and but after Gamelion, i.e. in Anthesterion, Elaphebolion or Mounychion. Cp. esp. the calendar of the <foreign>genos</foreign> of the Salaminioi, which begins in Mounychion, <ref target="http://cgrn.ulg.ac.be/CGRN_84/">CGRN 84</ref>. It would also appear that the group did not have many significant rites in the period intervening between Thargelion and Gamelion, the six-month span from Skirophorion to Posideon (late summer - winter): lines 5-15 do not appear to have discussed this (or at least not in any detail). The calendar thus appears to have had an atypical order and to have covered only a limited number of traditional occasions and months.</p>
+							
+<p>Lines 3-15: It is unclear how much of the calendar may be missing above, and accordingly, if the new entry here represents that of the month Thargelion. It is possible that months were consistently listed at the left margin, as in line 16. It is also perhaps doubtful that there would be enough space for the restoration μενὸς + a date, again as in line 16. Therefore, the notion that we are dealing with sacrifices taking place during the Thargelia, on the 7th of Thargelion, has some likelihood; the preceding lines might therefore have been concerned with 1-6 Thargelion or an earlier period in the calendar. At any rate, the sacrifices on this occasion appear to have been quite elaborate, since no other dates seem to be mentioned until line 16, unless some were quite brief and are missing in the lacuna. For Zeus Meilichios, usually celebrated during the Diasia on 23 Anthesterion (i.e. more than two months before the Thargelia), see Mikalson ad loc. and cf. the calendars of Erchia and
+Thorikos: <ref target="http://cgrn.ulg.ac.be/CGRN_52/">CGRN 52</ref>, col. Α, lines 37-43, <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref>, lines 34-35. For Meter at Agrai, where the Lesser Mysteries were celebrated, see also Mikalson on Anthesterion 20-26. It remains entirely puzzling that these rites here appear to be connected with Thargelion, or rather the Thargelia, a feast for Apollo. This may lead to reasonably doubting the restoration "at Agrai". See, however, below for a connection to the Lenaia in lines 16-19; and compare also the 'flexible' dates in the sacrificial calendar of Thorikos, <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref>.</p>
+							
+<p>Lines 6-7: The offering or celebration seemingly called (σ)πυριχεια has been variously explained, with no completely compelling  solution having emerged. A connection with the dance called πυρρίχη is possible, but also with a basket σπυρίς: cp. the equally unusual *σπυδ̣ια, perhaps to be read as σπυ<add>ρι?</add>δ̣ια, in the calendar of the Marathonian Tetrapolis, <ref target="http://cgrn.ulg.ac.be/CGRN_56/">CGRN 56</ref>, col. II, line 10. Thonemann envisages the possibility of reading -ς *πυριχεία, having to do with the pouring of wheat. For biennial rites, cp. e.g. the sacrificial calendar of Athens <ref target="http://cgrn.ulg.ac.be/CGRN_45/">CGRN 45</ref>, and the same phrase (τρίτοι ἔτει) at <ref target="http://cgrn.ulg.ac.be/CGRN_13/">CGRN 13</ref>, line A23.</p>
+						
+<p> Lines 9-11: For sacrifices of piglets to Kourotrophos, cp. also the recurrent mentions in the calendar of the deme of Erchia, <ref target="http://cgrn.ulg.ac.be/CGRN_52/">CGRN 52</ref> (col. Α, lines 25-27, 59-61; col. Β, lines 7-10, 33-36; col. Γ, lines 3-6; col. Δ, lines 3-6), and piglets for other deities in the accounts concerning Paiania, <ref target="http://cgrn.ulg.ac.be/CGRN_25/">CGRN 25</ref>, with commentary there. On the sacrifice of young and suckling animals, see more widely Georgoudi.</p>
+		
+<p> Lines 12-13: The noun πτόρθος usually refers to a young branch. But, in Attic sacrificial calendars, the rare adjective πτόρθιον apparently designated a young animal rather than a vegetal. Its sense of "young" and "sprouting wood" was no doubt especially used to designate a particular age for a young, probably male, goat "with budding horns", cf. esp. the ἔριφος προπ|τόρθι(ον) in the calendar of Erchia, <ref target="http://cgrn.ulg.ac.be/CGRN_52/">CGRN 52</ref>, col. Γ, lines 46-47, and the sacrifice to Poseidon of an apparently similar animal at <ref target="http://cgrn.ulg.ac.be/CGRN_26/">CGRN 26</ref>, line 28 (Ποσειδο̑νι πτόρθι[ον]—-Ptorthios is not an epithet there, <foreign>pace</foreign> <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.). Most tellingly, Hesychius cites προπτόρθια as a word featuring in the laws (axones) of Solon (cf. Ruschenbusch 1966: 92 fr. 61 and now Leão - Rhodes 2015: 104 fr. 61, though both editions erroneously classify this under the subject of laws relating to "neighbours"). In terms of age, the word most probably designated a youthful stage in the development of goats, particularly kids whose horns appear quite rapidly (occasionally even from birth); προπτόρθιον, in comparison with πτόρθιον, might have designated a very young age before the horns had even begun to bud or when they were only incipient; after six months to a year of age, the horns have grown and the male goat became fertile and was thence called αἶξ or τράγος. See also the qualifier χίμαρος used for newly born or young goats, with comm. at CGRN 190, lines 2-4.</p>
+
+<p>Line 15: Thonemann tentatively suggests Δεμ̣[οσύνει] as an epithet of Artemis, referring to the inscription now <bibl type="abbr" n="IG II³">IG II³</bibl> 4, 1061, but this is a metrical dedication which does not seem to provide evidence for such an epithet. An alternative might conceivably be δεμ[όσιον], possibly a "publicly funded" offering, but no certainty is possible.</p>
+							
+<p> Lines 16-19: The sacrifices to Dionysus and (probably) Semele, as well as perhaps a hero or multiple heroes (hερ in line 19), occurs on a missing date in the final third of the month Gamelion. Given these recipients, von Prott pointed out that a link between this occasion and the Athenian Lenaia seems plausible (compare the sacrifices to Dionysus Leneus and Semele on the 11th and 12th of Lenaion at Mykonos, <ref target="http://cgrn.ulg.ac.be/CGRN_156/">CGRN 156</ref>, lines 23-24). The precise date of the festival of the Lenaia at Athens is unknown but is thought to lie in the range 12-21 Gamelion (cf. Mikalson, p. 109-110). This would then preclude any definitive match with the state calendar, since the date appears to fall in the final third of the month ([φθί]νοντος). Nevertheless, a celebration of the Lenaia by the group in question can still perhaps be envisaged at this later date. Thonemann restores lines 16-17 as Γαμελιο̑νος με̣[νὸς τετράδι φθί]|νοντος, which is the date of the Theogamia (see below), but neither Dionysos nor Semele can justifiably be connected with this specific date.</p>
+							
+<p> Lines 20-23: Since no date seems to intervene between lines 16-19 and these lines, unless it is brief and lost in the lacuna, it is perhaps possible that the sacrifices to Dionysus and Semele, and the ones prescribed in these lines to Zeus Heraios and perhaps Hera (though she would need to be restored here) form a unit or sequence. Zeus Heraios strongly suggests a link with the celebration of the Theogamia / Hieros Gamos, known to have occurred on 27 Gamelion (cf. Mikalson). Accordingly, one might then consider restoring [τετράδι] in line 16, as does Thonemann, thus yielding a stoichedon of 25, but this remains to be proven absolutely and the connection of Dionysus with this festival is puzzling. See Photius s.v. ἱερὸς γάμος on the celebration of the marriage between Hera and Zeus, and cf. also <ref target="http://cgrn.ulg.ac.be/CGRN_52/">CGRN 52</ref> (col. Β, lines 32-39 + col. Γ, lines 38-41 + col. Δ, lines 28-32) for the sacrifices at Erchia on 27 Gamelion, which involve Hera,
+Zeus Teleios, Poseidon and the Kourotrophos; and also <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref> (Thorikos), line 32, for a brief mention of this festival occasion (and mentioning Hera only); for a fragmentary calendar, see also <ref target="http://cgrn.ulg.ac.be/CGRN_20/">CGRN 20</ref>). What is more, the fragment of a calendar under discussion presents an odd chronological sequence: in line 3, Thargelion (or the Thargelia), the eleventh month, then in line 16, Gamelion, the seventh month. It would therefore appear that several months were skipped in the sequence presented here, and more importantly, that the starting point of this calendar was not Hekatombaion, as is usual in Athens. Both of these aspects suggest that we are dealing with the calendar of a subcivic group, perhaps indeed a <foreign>genos</foreign>, whose calendar may have begun in a month prior to Thargelion and but after Gamelion, i.e. in Anthesterion, Elaphebolion or Mounychion. Cf. esp. the calendar
+	of the <foreign>genos</foreign> of the Salaminioi, which begins in Mounychion, <ref target="http://cgrn.ulg.ac.be/CGRN_84/">CGRN 84</ref>. It would also appear that the group did not have many significant rites in the period intervening between Thargelion and Gamelion, the six-month span from Skirophorion to Posideon (late summer - winter): lines 5-15 do not appear to have discussed this (or at least not in any detail). The calendar thus appears to have had an atypical order and to have covered only a limited number of traditional occasions and months. In line 20, Thonemann considers the possibility of reading παρὰ γνε[σίον (also at the end of line 10): if right, this would imply an offering to be supplied "by those of legitimate birth", i.e. the proper members of a γένος. This would fit well with the general content of the calendar, as discussed above, and its probable context as the regulations of γένος.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

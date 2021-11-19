@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_9" xml:lang="en">
+	<teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    		<title><idno type="filename">CGRN 9</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> on an altar from Paros</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Plaque of marble adjoining an <rs type="objectType">altar</rs>, with inscription on a prepared face. The block is not very thick, so it perhaps would have been a small plaque or stele indicating the altar, rather than forming an actual part of it.</p>
+				<p><dimensions>
+					<height unit="cm">21</height>
+					<width unit="cm">52</width>
+					<depth unit="cm">8</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The text is inscribed in regular stoichedon on the face of the plaque. The plaque appears to have been relatively intact, except for a substantial break on the top right side, where the ends of lines 1-2 are broken off and only partially extant.</p></layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0500" notAfter="-0475">ca. 500-475 BC</origDate>.</p>
+			<p><desc>Justification: letterforms and early Parian alphabet (and dialect), but quasi-stoichedon of variable line length, and not boustrophedon; cf. Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 296.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Paros" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599867" type="external">Paros</ref></placeName>. The exact findspot is unknown.</p></provenance>
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+				<div type="bibliography">
+					<head>Bibliography</head>
+	<p>Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG XII.5">IG XII.5</bibl> 1027, with a now secure restoration in line 1 (see ad loc.).</p>
+	<p>Editions: <lb/><bibl type="author_date" n="Hiller von Gaertringen 1906">Hiller von Gaertringen 1906</bibl>, based on the copy and squeeze of Krispis; Hiller von Gaertrigen <bibl type="abbr" n="IG XII.5">IG XII.5</bibl> 1027, with facsimile.</p>
+
+	<p>Cf. also: Roehl <bibl type="abbr" n="IGA">IGA</bibl> 7;
+			<bibl type="author_date" n="Kontoleon 1948-1949">Kontoleon 1948-1949</bibl>;
+			Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 305 no. 35, pl. 56;
+			Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 62.</p>
+
+<p> Further bibliography: <bibl type="author_date" n="Poland 1909">Poland 1909</bibl>: 73-78;
+				<bibl type="author_date" n="Salviat 1958a">Salviat 1958a</bibl>: 220 n. 3;
+				<bibl type="author_date" n="Matthaiou 1992-1998">Matthaiou 1992-1998</bibl>: 424-430 nos. 1-2;
+				<bibl type="author_date" n="Patera 2010a">Patera 2010a</bibl>;
+				<bibl type="author_date" n="Pirenne-Delforge 2011">Pirenne-Delforge 2011</bibl>;
+				<bibl type="author_date" n="Thonemann 2011">Thonemann 2011</bibl>.</p>
+	<p>Online record: <ref target="http://poinikastas.csad.ox.ac.uk/" type="external">Poinikastas</ref> website, with ref. no. 305.35.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+
+<lb xml:id="line_1" n="1"/><name type="structure"><w lemma="βωμός">βομὼς</w></name> <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὼς</w></name> <name type="epithet" key="Elasteros"><w lemma="Ἐλαστήρ"><unclear>Ἐ</unclear><supplied reason="lost">λάστε</supplied>
+
+<lb xml:id="line_2" n="2" break="no"/>ρω</w></name> το̑ν <w lemma="ἀπό">ἀπὼ</w> <name type="group"><w lemma="Μανδροθέμις">Μ<supplied reason="lost">αν</supplied>δρο- <supplied reason="lost"><space extent="unknown" unit="character"/></supplied>
+
+<lb xml:id="line_3" n="3"/>θέμιος</w></name>· <name type="liquid"><w lemma="μέλι">μέλιτι</w></name> <space extent="unknown"/>
+
+<lb xml:id="line_4" n="4"/><name type="sacrifice"><w lemma="σπένδω">σπένδεται</w></name> <space extent="unknown"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					Altar of Zeus E[laste]ros, of those from (the group) of Mandrothemis. A libation is made with honey.
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+					Autel de Zeus E[laste]ros, de ceux (du groupe) de Mandrothemis. Une libation est faite avec du miel.
+					</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p>The text announces itself as the altar belonging to the Zeus of a 'private' association, likely a personal or familial group founded by this Mandrothemis. A short prescription indicates a particular mode for performing libations of honey, which are often found associated with the cult of Zeus in this sort of small group. See below on lines 1-2 for the prevalence of this epithet, apparently associated with ancestral and/or private groups on Paros (and also variants from Thasos).</p>
+
+<p>Lines 1-2: Hiller von Gaertringen restored <unclear>᾽Ε</unclear><supplied reason="lost">νδέ</supplied>|ρω. Kontoleon originally suggested the restoration of the epithet Elasteros, previously unattested, on the basis of another Parian text, <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> 208: Διὸς <supplied reason="lost">Ἐλα</supplied>|στέρο <unclear>Π</unclear>|ατρώιο, and a further Parian inscription which he published reading simply: Διὸς Ἐλαστέρο. The epithet is now confirmed by the discovery of two further pieces of evidence from Paros published by Matthaiou. Cf. esp. his no. 1 which is an even earlier instance of an analogous familial altar or one belonging to a group founded by an individual (boustrophedon, ca. 525-500 BC): <supplied reason="lost">Δ</supplied>ιώς εἰ<unclear>μι</unclear> Ἐλαστέ|<unclear>ρ</unclear>ω βομὼς κἀπω|<unclear>ί</unclear>ησ᾽ ἐμ᾽ Ἐρύλεος | hὠρυπύλω. </p>
+
+<p>The significance of Elaster(os) is not immediately clear. Though the unusual word *ἐλαστήρ/*ἐλαστέρος is also found at Selinous <ref target="http://cgrn.ulg.ac.be/CGRN_13/">CGRN 13</ref>, it is not found in literary sources or included in <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. Presumably the word is related to ἐλατήρ (cf. also the variant ἐλάστωρ), "driver" or "hurler". It can refer to hurling thunderbolts, just as much as "driving away" evils. A further connection can perhaps be made with the nearly homophonous word ἀλάστωρ. Indeed, there are also now several Classical boundary stones of a similar (yet perhaps also somewhat different?) Zeus Alastoros Patroios belonging to tribes and groups in the Parian colony of Thasos: cf. <bibl type="abbr" n="SEG">SEG</bibl> 59, esp. 953 and 956; this makes the perceived link between the Parian epithet and the better attested concept of ἀλάστωρ more tangible. However, ἀλάστωρ has a different etymology and somewhat different sense from ἐλατήρ, referring more properly to a "vengeful" aspect of Zeus or of a spirit. All this being said, we can only get an approximate sense of the meaning of the epithet on Paros. A "vengeful" aspect of Zeus is probably only latent here, if it is present at all; alternatively, the strong sense of the epithet might serve an apotropaic function. Indeed, as Salviat rightly argued, it is much more likely that the epithet is meant to invoke the protection of patrimony and of the family, much like Meilichios, Herkeios, or Ktesios. For the wider notion of ἀλάστωρ and related terms, see now Patera. </p>
+
+<p>Lines 2-3: For the formulation, τῶν ἀπό or τῶν περί + a personal name, as a way of designating an association, cf. still Poland. On Mandr- names, see now Thonemann, with further references.</p>
+
+<p>Lines 3-4: On wineless libations or νηφάλια more generally, see Pirenne-Delforge. These would have involved honey and are notably found in the cult of similar gods, such as Zeus Meilichios; see e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_52/">CGRN 52</ref> (Erchia), col. Α, lines 42-43. For other libations involving honey, see also the discussion of the Selinous tablet, here <ref target="http://cgrn.ulg.ac.be/CGRN_13/">CGRN 13</ref>, face A, lines 13-14, where the Pure Tritopatreis receive a libation of μελίκρατα.</p>
+	    			</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_47" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 47</idno>: Small rupestral <rs type="textType" key="sacrificial calendar">calendrical regulation</rs> from Thera</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p><rs type="objectType">Rupestral</rs> (rock-cut) inscription, partly effaced.</p>
+			<p><dimensions>
+					<height unit="cm">n/a</height>
+					<width unit="cm">n/a</width>
+				<depth unit="cm">n/a</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>To our knowledge, the measurements of letters are unknown.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0375">ca. 400-375 BC</origDate>.</p>
+			<p><desc>Justification: lettering (Hiller von Gaertringen).</desc></p>
+		</origin>
+	    <provenance><placeName type="ancientFindspot" key="Thera" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599971/" type="external">Thera</ref></placeName>. Located on rocks to the right of the entrance of a church (unnamed), as identified by Hiller von Gaertringen. Current state of conservation unknown.     
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+		<p>Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 452, with add. p. 301 (cf. also <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> p. 87).</p>
+				    <p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 127; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 133.</p>
+				<p>Further bibliography: <bibl type="author_date" n="Buck 1910">Buck 1910</bibl>: 260 no. 108, with English transl.; <bibl type="author_date" n="Jaillard 2004">Jaillard 2004</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    				<lb/><space extent="unknown" unit="line"/>
+<lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΓΕ</orig><gap reason="lost" extent="2" unit="character"/><orig>ΝΗ<unclear>ΤΟ</unclear>Ν</orig>	
+
+	    					
+<lb xml:id="line_2" n="2"/><name type="month"><w lemma="Ἀρτεμίσιος">Ἀρταμιτίο</w></name> <w lemma="τέταρτος">τετάρται</w>
+	    					
+<lb xml:id="line_3" n="3"/><w lemma="μετά">πεδ’</w> <w lemma="εἰκάς">ἰκάδα</w> <name type="sacrifice"><w lemma="θύω">θυσέοντι</w></name>
+	    					
+<lb xml:id="line_4" n="4"/><name type="genericOffering"><w lemma="ἱερός">ἱαρόν</w></name>, <name type="festival"><w lemma="ἀγοραῖος">Ἀγορηΐοις</w></name> δὲ
+	    					
+<lb xml:id="line_5" n="5"/><name type="meal"><w lemma="δεῖπνον"><supplied reason="lost">δε</supplied>ῖπνογ</w></name> <supplied reason="lost">κ</supplied>αὶ <name type="genericOffering"><w lemma="ἱερός">ἱα<supplied reason="lost">ρ</supplied>ὰ</w></name> <w lemma="πρό">πρὸ</w> το̑ <name type="structure"><w lemma="σημεῖον">σαμήιο</w></name>.
+	    				<lb/><space extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					[...] on the 24th of Artamitios, they will sacrifice an offering. And during the Agoreia, a meal and offerings in front of the sign. 
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+					[...] le 24 Artamitios, ils sacrifieront une offrande. Et durant les Agoreia, un repas et des offrandes devant le symbole.
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						<p>The precise context of this small regulation is relatively enigmatic. Though rock-cut, it explicitly refers to a σημεῖον (line 5). It is unclear if the latter word refers to a sign, perhaps a symbol of a deity (so Ziehen). One might think, for instance, of the symbols of Zeus Ktesios mentioned by Antikleides (Jacoby, <bibl type="abbr" n="FGrH">FGrH</bibl> 140 F 22, ap. Athen. 9.473b-c); yet these καδίσκοι where only located in the household (cf. Jaillard). Alternatively, the σημεῖον may have been a tomb. That hypothesis is not very likely, however, given the mention of what appears to be an important festival, the Agoraia, in line 4 (as correctly interpreted by Buck). Indeed, another rupestral (but metrical) inscription from Thera, <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 1324, also appears to mention this celebration: Ἀγλοτέλης πράτισ|τος Ἀγορᾶν hικάδι | Καρνῆια θέον δεί|πν[ι]ξεν hὀνιπαντίδα | καὶ Λακαρτο͂ς. More or less contemporaenously with our text, a certain Agloteles, claimed to be the first to have hosted a meal for the 'Karneian god', i.e. Apollo Karneios, "on the twentieth of the Agora(ia)". Since neither the Agora nor the Agoraia are a month, it may be that the Theran Agora or Agoraia took place on the 20th of the month Karneios (possible but not otherwise attested on Thera: the calendar is poorly evidenced). At any rate, this much seems clear: during the festival of the Agora/Agoraia, it was customary to offer a meal (δεῖπνογ) as well as other offerings, to Apollo Karneios but perhaps also to other gods. The "offerings" (ἱαρόν, line 4, ἱαρά, line 5) referred to here may have been animals, such as sheep (for ἱερά in the sense of sacrificial animals, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_38/">CGRN 38</ref>, Chios, lines A5-6, B6). What connection the festival had with the agora of the city or with market-business is unclear. It is likely that some useful information for clarifying the context of the present document would have been provided by the fragmentary line 1, which might have added a clarification about an individual, group or cult involved (cf. also Ziehen). The rites on the 24th of Artamitios (a spring month) are not otherwise attested on Thera. The regulation in its brevity and rupstral character matches other short and contemporaneous calendrical indications concerning festivals (<bibl type="abbr" n="IG I³">IG I³</bibl> 1382: Eros on the north slope of the Acropolis, ca. 450-430 BC; <bibl type="abbr" n="SEG">SEG</bibl> 59, 932: Andros, ca. 450-400 BC). To some extent, it also parallels the excerpts from the sacrificial calendar affixed at specific cult sites throughout the island of Rhodes starting around the end of the Classical period: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_62/">CGRN 62</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_63/">CGRN 63</ref>.</p>
+						
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_43" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 43</idno>: <rs type="textType" key="decree">Decree</rs> concerning the festival of Hephaistos at Athens</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+			<p> Four <rs type="objectType">fragments</rs> of Pentelic marble (A-D). A intact above; below A, C damaged on all sides, below C, B (now lost), and finally D (intact on the left). Dimensions of the whole (the width is an estimate):</p>
+				<p><dimensions>
+					<height unit="cm">68</height>
+					<width unit="cm">69</width> 
+					<depth unit="cm">(above) 13.8 - (below) 14.7</depth>
+				</dimensions></p>
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p>Stoichedon 61.</p>
+			<p> Letters: line 1:<height unit="cm">0.9</height>;
+				lines 2-3:<height unit="cm">1.9</height>;
+				lines 4 ff.:<height unit="cm">1.1-1.5</height>.</p> 	
+		</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0421" notAfter="-0420">421/0 BC</origDate></p>	
+		<p><desc>Justification: archon Aristion and other officials in function.</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885" type="external">Athens</ref></placeName>. Fragment A found at the church of S. Demetrion Katephore; fragments B-D found at the Kapnikarea Church. Now in the Epigraphical Museum in Athens (inv. no. 6633).
+	</p> </provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Lewis <bibl type="abbr" n="IG I³">IG I³</bibl> 82. </p>
+	    			<p> Other editions: 
+	    				Kirchhoff <bibl type="abbr" n="IG I">IG I</bibl> 46; 
+	    				Kirchhoff <bibl type="abbr" n="IG I.Suppl.">IG I.Suppl.</bibl> 35b;
+	    				Hiller von Gaertringen <bibl type="abbr" n="IG I²">IG I²</bibl> 84.</p>
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 12; 
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 13. 
+	    			</p>
+	    			<p>Further bibliography: 
+	    				<bibl type="author_date" n="Clerc 1893">Clerc 1893</bibl>: 152-154;
+	    				<bibl type="author_date" n="Mattingly 1974">Mattingly 1974</bibl>;
+	    				<bibl type="author_date" n="Thompson 1977">Thompson 1977</bibl>;
+	    				<bibl type="author_date" n="Kotsidu 1991">Kotsidu 1991</bibl>: 155-170;
+	    				<bibl type="author_date" n="Rosivach 1994">Rosivach 1994</bibl>, Appendix B;
+	    				<bibl type="author_date" n="Aleshire 1994">Aleshire 1994</bibl>;
+	    				<bibl type="author_date" n="Van Straten 1995">Van Straten 1995</bibl>: 109-113;
+	    				<bibl type="author_date" n="Mattingly 1997">Mattingly 1997</bibl>;
+	    				<bibl type="author_date" n="Blok - Lambert 2009">Blok - Lambert 2009</bibl>;
+	    				<bibl type="author_date" n="Wijma 2014">Wijma 2014</bibl>: 86-94.
+	
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	    	
+	    	<lb xml:id="line_1" n="1"/> <name type="deity" key="generic"><w lemma="θεός"><supplied reason="lost">θ</supplied>ε<supplied reason="lost">οί</supplied></w></name>·
+	    				
+	    	<lb xml:id="line_2" n="2"/> <supplied reason="lost">Προκλε̑ς</supplied> Ἀτάρβο Ε<supplied reason="lost">ὐονυμεὺς</supplied> 
+	    				
+	    	<lb xml:id="line_3" n="3"/> <name type="title"><w lemma="γραμματεύω"><supplied reason="lost">ἐγραμμάτ</supplied>ευε</w></name>, <w lemma="ἐπί">ἐπὶ</w> Ἀριστ<supplied reason="lost">ίονος</supplied> <name type="title"><w lemma="ἄρχων"><supplied reason="lost">ἄρχοντος</supplied></w></name>·
+	    				
+	    				<lb xml:id="line_4" n="4"/> <w lemma="δοκέω"><supplied reason="lost">ἔδοχσεν</supplied></w> <supplied reason="lost">τε̑ι</supplied> <name type="group"><w lemma="βουλή"><supplied reason="lost">βολε̑ι</supplied></w></name> <supplied reason="lost">καὶ το̑ι</supplied> <name type="group"><w lemma="δῆμος"><supplied reason="lost">δ</supplied>έμοι</w></name>· hιπποθοντὶ<supplied reason="lost">ς</supplied> <name type="title"><w lemma="πρυτανεύω"><supplied reason="lost">ἐπρυτάνευε</supplied></w></name><supplied reason="lost">,</supplied> <supplied reason="lost">Προκλε̑ς</supplied> <name type="title"><w lemma="γραμματεύω"><supplied reason="lost">ἐγραμμά</supplied>
+	    					
+	    	<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">τευε,</supplied></w></name> <gap reason="lost" quantity="8" unit="character"/> <name type="title"><w lemma="ἐπίστημι"><supplied reason="lost">ἐπεστάτε·</supplied></w></name> <supplied reason="lost">Ἀρισ</supplied><unclear>τ</unclear>ίον <name type="title"><w lemma="ἄρχω">ἐ̑ρχε</w></name>, hυπέ<supplied reason="lost">ρβολος</supplied> <w lemma="λέγω"><supplied reason="lost">εἶπε</supplied></w> <gap reason="lost" quantity="15" unit="character"/> 
+	    				
+<lb xml:id="line_6" n="6"/> <gap reason="lost" quantity="29" unit="character"/>ι <name type="festival"><w lemma="πεντετηρίς">πεντετ<supplied reason="lost">ερίδι</supplied></w></name> <gap reason="lost" quantity="21" unit="character"/>
+	    				
+	    <lb xml:id="line_7" n="7"/> <gap reason="lost" quantity="28" unit="character"/> <w lemma="νῦν"><unclear>ν</unclear>ῦμ</w> μὲν τ<unclear>ε</unclear><gap reason="lost" quantity="25" unit="character"/> 
+	    				
+	    <lb xml:id="line_8" n="8"/> <gap reason="lost" quantity="17" unit="character"/><orig>ο</orig><gap reason="lost" quantity="12" unit="character"/><orig>ονοστ</orig><gap reason="lost" quantity="26" unit="character"/> 
+	    				
+	    <lb xml:id="line_9" n="9"/> <gap reason="lost" quantity="17" unit="character"/>ν δ<unclear>ε</unclear> <gap reason="lost" quantity="12" unit="character"/><orig>ερε</orig><gap reason="lost" quantity="26" unit="character"/> 
+	    				
+	    <lb xml:id="line_10" n="10"/> <gap reason="lost" quantity="17" unit="character"/> μὲν <orig>π<unclear>ο</unclear></orig><gap reason="lost" quantity="39" unit="character"/> 
+	    				
+	    <lb xml:id="line_11" n="11"/> <gap reason="lost" quantity="16" unit="character"/> <w lemma="ἐν"><supplied reason="lost">ἐ</supplied>ν</w> τε̑ι <name type="locality"><w lemma="ἀγορά">ἀγο<unclear>ρ</unclear>ᾶι</w></name> <gap reason="lost" quantity="34" unit="character"/>  
+	    				
+	    <lb xml:id="line_12" n="12"/> <gap reason="lost" quantity="16" unit="character"/> <supplied reason="lost">τ</supplied>οῖς <name type="group"><w lemma="δημότης">δεμότεσι</w></name> <orig><unclear>εν</unclear></orig><gap reason="lost" quantity="31" unit="character"/> 
+	    				
+	    <lb xml:id="line_13" n="13"/> <gap reason="lost" quantity="12" unit="character"/> <w lemma="πεντήκοντα"><supplied reason="lost">πεντέ</supplied>κοντα</w> καὶ <w lemma="ἑκατόν">hεκατὸ<unclear>ν</unclear></w> <gap reason="lost" quantity="29" unit="character"/> 
+	    				
+	    <lb xml:id="line_14" n="14"/> <gap reason="lost" quantity="16" unit="character"/> <supplied reason="lost">τ</supplied>ε̑ς <w lemma="μουσική">μοσικε̣̑ς</w> <name type="authority"><w lemma="καθάπερ">καθάπε<unclear>ρ</unclear></w></name> <gap reason="lost" quantity="28" unit="character"/> 
+	    				
+	    <lb xml:id="line_15" n="15"/> <gap reason="lost" quantity="11" unit="character"/> το̑ <name type="deity" key="Hephaistos"><w lemma="Ἥφαιστος">hε<supplied reason="lost">φα</supplied>ίστο</w></name> καὶ τε̑ς <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθήναια<unclear>ς</unclear></w></name> <gap reason="lost" quantity="26" unit="character"/> 
+	    				
+<lb xml:id="line_16" n="16"/> <gap reason="lost" quantity="9" unit="character"/> <name type="group"><name type="ethnic" key="Athens"><w lemma="Ἀθηναῖος">Ἀθεναίο<supplied reason="lost">ι</supplied><unclear>ς</unclear></w></name></name> <w lemma="ὅθεν">hόθεν</w> <w lemma="χρή">χρὲ</w> <w lemma="ἐξαιρέω">ἐχσαιρε̑<supplied reason="omitted">ν</supplied></w> <w lemma="ἀργύριον">ἀργ<unclear>ύ</unclear><supplied reason="lost">ριον</supplied></w> <gap reason="lost" quantity="19" unit="character"/>
+	    				
+	    <lb xml:id="line_17" n="17"/> <gap reason="lost" quantity="7" unit="character"/> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">hι</supplied>εροποιὸ<supplied reason="lost">ς</supplied></w></name> <supplied reason="lost">δ</supplied>ὲ <w lemma="ὅστις">hοίτινες</w> <name type="sacrifice"><w lemma="ἱεροποιέω">hιεροποιέσοσ<supplied reason="lost">ι</supplied></w></name> <supplied reason="lost">τὲν</supplied> <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυσίαν</supplied></w></name> <w lemma="δέκα"><supplied reason="lost">δέκα</supplied></w> <name type="person"><w lemma="ἀνήρ"><supplied reason="lost">ἄνδρας</supplied></w></name> <w lemma="διακληρόω"><supplied reason="lost">δι</supplied>
+	    					
+	    <lb xml:id="line_18" n="18" break="no"/><supplied reason="lost">α</supplied>κλε<supplied reason="lost">ρο̑σαι</supplied></w> ἐκ το̑ν <name type="title"><w lemma="δικαστής">δ<supplied reason="lost">ικα</supplied><unclear>σ</unclear>το̑ν</w></name> <w lemma="εἷς">hένα</w> <w lemma="ἐκ">ἐκ</w> τε̑ς <name type="group"><w lemma="φυλή">φυλε̑ς</w></name> <w lemma="ἐκ">ἐκ</w> το̑<unclear>ν</unclear> <gap reason="lost" quantity="19" unit="character"/><supplied reason="lost">ἀ</supplied>
+	    						
+	    <lb xml:id="line_19" n="19" break="no"/><supplied reason="lost">ρ</supplied>χοι <w lemma="διακληρόω">δ<supplied reason="lost">ιακλ</supplied>εροσάντ<supplied reason="lost">ον</supplied></w> <w lemma="μετά"><supplied reason="lost">μ</supplied>ετὰ</w> το̑ν τε̑ς <name type="group"><w lemma="βουλή">βολε̑ς</w></name>· <w lemma="διακληρόω">διακλεροσ<supplied reason="lost">άντον</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="οὗτος"><supplied reason="lost">hοῦτοι</supplied></w> <w lemma="ἐναντίος"><supplied reason="lost">ἐναντί</supplied>
+	    							
+	   <lb xml:id="line_20" n="20" break="no"/>ον</w> τε̑ς <name type="group"><w lemma="βουλή">βολ<supplied reason="lost">ε̑</supplied>ς</w></name>· hοι δὲ <w lemma="λαγχάνω">λ<supplied reason="lost">αχ</supplied>όντες</w> <w lemma="μισθοφορέω">μισθοφορόντον</w> <w lemma="καθάπερ">καθάπερ</w> <unclear>h</unclear><supplied reason="lost">οι</supplied> <name type="title"><w lemma="βουλευτής"><supplied reason="lost">βολευταί</supplied></w></name> <w lemma="ἕως"><supplied reason="lost">hέος</supplied></w> <w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w> <w lemma="ἐπιμελέομαι"><supplied reason="lost">ἐ</supplied>
+	    								
+	   <lb xml:id="line_21" n="21" break="no"/>πιμέλοντα<supplied reason="lost">ι</supplied></w> <w lemma="οὗτος">τούτον</w>· h<supplied reason="lost">ο</supplied><unclear>ι</unclear> δὲ <name type="title"><w lemma="κωλακρέτης">κολακρέται</w></name> <w lemma="ἀποδίδωμι">ἀποδιδόντον</w> <w lemma="αὐτός">αὐ<unclear>τ</unclear>ο<supplied reason="lost">ῖς</supplied></w> <supplied reason="lost">τὸ</supplied> <w lemma="ἀργύριον"><supplied reason="lost">ἀργύριον</supplied></w><supplied reason="lost">·</supplied> <w lemma="διακληρόω"><supplied reason="lost">δια</supplied>
+	    									
+	 <lb xml:id="line_22" n="22" break="no"/>κλεροσάτο</w> δὲ καὶ hε <name type="group"><w lemma="βουλή">β<supplied reason="lost">ο</supplied>λὲ</w></name> <w lemma="σφεῖς">σφο̑ν</w> <w lemma="αὐτός">αὐτο̑ν</w> <name type="personnel"><w lemma="ἱεροποιός">hιεροπ<supplied reason="lost">ο</supplied>ιὸς</w></name> <w lemma="δέκα">δέκα</w> <name type="person"><w lemma="ἀνήρ">ἄνδρ<supplied reason="lost">ας</supplied></w></name> <w lemma="εἷς"><supplied reason="lost">hένα</supplied></w> <w lemma="ἐκ"><supplied reason="lost">ἐκ</supplied></w> <supplied reason="lost">τε̑ς</supplied> <name type="group"><w lemma="φυλή"><supplied reason="lost">φυλ</supplied>
+	    										
+	 	<lb xml:id="line_23" n="23" break="no"/>ε̑ς</w></name> <w lemma="ἕκαστος">hεκάστε<supplied reason="lost">ς</supplied></w>· <w lemma="δίδωμι">δο̑ναι</w> δὲ <supplied reason="lost">κ</supplied>αὶ τοῖς <name type="group"><w lemma="μέτοικος">μετοίκοις</w></name> <w lemma="τρεῖς">τρε̑<supplied reason="lost">ς</supplied></w> <name type="animal" key="ox"><w lemma="βοῦς">βοῦς</w></name>, <w lemma="οὗτος">τούτον</w> τ<supplied reason="lost">ο̑ν</supplied> <w lemma="τρεῖς"><supplied reason="lost">τριο̑ν</supplied></w> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">hοι</supplied> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">h</supplied>
+	    											
+	 	<lb xml:id="line_24" n="24" break="no"/>ιεροποιοὶ</w></name> <name type="portion"><w lemma="νέμω"><supplied reason="lost">νε</supplied>μόντον</w></name> <w lemma="αὐτός"><supplied reason="lost">α</supplied>ὐτοῖς</w> <w lemma="ὠμός">ὀμὰ</w> τὰ <name type="portion"><w lemma="κρέας">κρέα</w></name>· τε̑ς δὲ <w lemma="πομπή">πονπε̑ς</w> <w lemma="ὅπως">hόπος</w> <supplied reason="lost"><w lemma="ἄν">ἂν</w> <w lemma="ὡς">hος</w> <w lemma="καλός">κάλλιστα</w></supplied>
+	    				
+	    	<lb xml:id="line_25" n="25"/> <w lemma="πέμπω">πενφθε̑ι</w> hο<supplied reason="lost">ι</supplied> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">hι</supplied>εροπ<supplied reason="lost">οι</supplied>οὶ</w></name> <w lemma="ἐπιμελέομαι">ἐπιμελόσθον</w>, καὶ <w lemma="ἄν">ἂν</w> <w lemma="τις">τίς</w> <w lemma="τις">τι</w> <w lemma="ἀκοσμέω">ἀκοσμε̑<supplied reason="lost">ι</supplied></w><supplied reason="lost">,</supplied> <name type="authority"><w lemma="κύριος"><supplied reason="lost">κύριοι</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">ὄντον</supplied></w> <w lemma="αὐτός"><supplied reason="lost">αὐ</supplied>
+	    					
+	    	<lb xml:id="line_26" n="26" break="no"/>τοὶ</w> μὲν <name type="punishment"><w lemma="ζημία">ζεμ<supplied reason="lost">ιο̑ν</supplied></w></name> <w lemma="μέχρι"><supplied reason="lost">μέχρι</supplied></w> <w lemma="πεντήκοντα"><supplied reason="lost">πε</supplied>ντέκοντα</w> <w lemma="δραχμή">δραχμο̑ν</w> καὶ <w lemma="ἐκγράφω">ἐκγράφεν</w> <w lemma="εἰς">ἐ<unclear>ς</unclear></w> <supplied reason="lost">τὸς</supplied> <name type="title"><w lemma="πράκτωρ"><supplied reason="lost">πράκτορας</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἐάν"><supplied reason="lost">ἐὰ</supplied>
+	    						
+	 <lb xml:id="line_27" n="27" break="no"/><supplied reason="lost">ν</supplied></w> δέ <w lemma="τις">τις</w> <w lemma="ἄξιος">ἄχσ<supplied reason="lost">ιος</supplied></w> <w lemma="εἰμί"><supplied reason="lost">ἐ̑ι</supplied></w> <w lemma="μέγας"><supplied reason="lost">μέζον</supplied>ος</w> <name type="punishment"><w lemma="ζημία">ζε<supplied reason="lost">μ</supplied>ίας</w></name>, τὰς <name type="punishment"><w lemma="ἐπιβολή">ἐπιβολὰς</w></name> <w lemma="ποιέω">ποιό<supplied reason="lost">ντ</supplied>ον</w> <w lemma="ὁπόσος"><supplied reason="lost">hοπόσας</supplied></w> <w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w> <w lemma="δοκέω"><supplied reason="lost">δοκε̑ι</supplied></w> <supplied reason="lost">κ</supplied>
+	    				
+<lb xml:id="line_28" n="28" break="no"/><supplied reason="lost">α</supplied>ὶ <w lemma="εἰσάγω">ἐσαγ<unclear>όν</unclear><supplied reason="lost">τον</supplied></w> <w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w> <supplied reason="lost">τὸ</supplied> <w lemma="δικαστήριον"><supplied reason="lost">δικασ</supplied><unclear>τ</unclear>έρ<unclear>ι</unclear><supplied reason="lost">ο</supplied>ν</w> τὸ το̑ <name type="title"><w lemma="ἄρχων">ἄρχοντος</w></name>· τὸς δ<supplied reason="lost">ὲ</supplied> <name type="gender"><name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">β</supplied>οῦ<supplied reason="lost">ς</supplied></w></name></name> <w lemma="ἕκαστος"><supplied reason="lost">hέκαστον</supplied></w> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w> <name type="invocation"><w lemma="σάλπιγξ"><supplied reason="lost">σάλ</supplied>
+	    					
+<lb xml:id="line_29" n="29" break="no"/>πινγος</w></name> <w lemma="προσάγω"><supplied reason="lost">προσαγαγε̑ν</supplied></w> <w lemma="πρός"><supplied reason="lost">πρὸς</supplied></w> <supplied reason="lost">τ</supplied>ὸν <name type="structure"><w lemma="βωμός">βομόν</w></name>· <w lemma="ὅστις">hοίτιν<supplied reason="lost">ε</supplied>ς</w> δὲ <w lemma="ἀείρω">ἀρο̑νται</w> <w lemma="ἔπανδρος"><unclear>ἐ</unclear><supplied reason="lost">πάνδρος</supplied></w> <w lemma="αὐτός"><supplied reason="lost">αὐτός</supplied></w><supplied reason="lost">,</supplied> <supplied reason="lost">hοι</supplied>
+	    				
+<lb xml:id="line_30" n="30"/> <name type="personnel"><w lemma="ἱεροποιός"><unclear>h</unclear>ιερο<unclear>π</unclear>οιο<supplied reason="lost">ὶ</supplied></w></name> <w lemma="αἱρέω"><supplied reason="lost">hαιρέσθον</supplied></w> <w lemma="διακόσιοι">διακοσίος</w> <w lemma="ἐκ">ἐχς</w> <name type="ethnic"><w lemma="Ἀθηναῖος">Ἀθε<supplied reason="lost">ν</supplied><unclear>α</unclear>ίον</w></name>· τὲν δὲ <w lemma="λαμπάς">λ<supplied reason="lost">ανπάδα</supplied></w> <gap reason="lost" quantity="5" unit="character"/>  <supplied reason="lost">τε̑ι</supplied> <name type="festival"><w lemma="πεντετηρίς"><supplied reason="lost">πε</supplied>                                
+<lb xml:id="line_31" n="31" break="no"/><supplied reason="lost">ν</supplied>τετερίδι</w></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τοῖς</supplied> <name type="festival"><w lemma="Ἡφαίστια"><supplied reason="lost">hεφ</supplied>αιστίοις</w></name>· <w lemma="ποιέω">ποιόντο<supplied reason="lost">ν</supplied></w> <supplied reason="lost">δ</supplied>ὲ <supplied reason="lost">h</supplied><unclear>ο</unclear>ι <name type="personnel"><w lemma="ἱεροποιός">hιεροπ<supplied reason="lost">οιοὶ</supplied></w></name> <w lemma="οὗτος"><supplied reason="lost">hούτος</supplied></w> <w lemma="ὥστε"><supplied reason="lost">hόστε</supplied></w>
+	    				
+<lb xml:id="line_32" n="32"/> <supplied reason="lost">τὲ</supplied>ν <w lemma="λαμπαδηδρομία">λανπαδ<supplied reason="lost">εδρομίαν</supplied></w> <supplied reason="lost">καὶ</supplied> τὸν <w lemma="ἄλλος">ἄλλον</w> <w lemma="ἀγών">ἀγο̑να</w> <w lemma="γίγνομαι">γίγνεσθαι</w> <w lemma="καθάπερ">καθά<supplied reason="lost">περ</supplied></w> <supplied reason="lost">τοῖς</supplied> <name type="festival"><w lemma="Προμήθεια"><supplied reason="lost">Προμεθίο</supplied>
+	    					
+<lb xml:id="line_33" n="33" break="no"/><supplied reason="lost">ις</supplied></w></name> <supplied reason="lost">τὲ</supplied>ν <name type="deity" key="Athena"><w lemma="θεά">θέα<unclear>ν</unclear></w></name> <supplied reason="lost">hοι</supplied> <w lemma="λαμπάδαρχος"><supplied reason="lost">λανπάδαρχ</supplied>οι</w> <w lemma="ποιέω">ποιο̑σι</w>· καὶ τὸ <w lemma="λοιπός">λοιπόν</w>, <w lemma="ἐάν">ἐὰν</w> <w lemma="δοκέω">δοκε̑<supplied reason="lost">ι</supplied></w> <gap reason="lost" quantity="13" unit="character"/>
+	    				
+	    	<lb xml:id="line_34" n="34"/> <supplied reason="lost">το̑ι</supplied> <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν"><supplied reason="lost">Π</supplied>οσε<unclear>ι</unclear><supplied reason="lost">δο̑νι</supplied></w></name> <gap reason="lost" quantity="9" unit="character"/><orig>ντον</orig> hοι <name type="personnel"><w lemma="ἱεροποιός">hιεροποιοὶ</w></name> καὶ το̑ι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπό<unclear>λ</unclear><supplied reason="lost">λονι</supplied></w></name> <gap reason="lost" quantity="9" unit="character"/> 
+	    				
+	    	<lb xml:id="line_35" n="35"/> <gap reason="lost" quantity="5" unit="character"/><orig>ν</orig>· h<supplied reason="lost">οι</supplied> <supplied reason="lost">δὲ</supplied> <name type="personnel"><w lemma="γυμνασίαρχος"><supplied reason="lost">γυμασίαρ</supplied>χοι</w></name> hοι <w lemma="αἱρέω">hειρεμένοι</w> <w lemma="εἰς">ἐς</w> τὰ <name type="deity" key="Prometheus"><name type="festival"><w lemma="Προμήθεια">Προμέθια</w></name></name> <gap reason="lost" quantity="13" unit="character"/> 
+	    				
+	    	<lb xml:id="line_36" n="36"/> <gap reason="lost" quantity="6" unit="character"/><orig><unclear>τ</unclear></orig><gap reason="lost" quantity="13" unit="character"/><orig>ος</orig> <w lemma="αἱρέω">hελόσθον</w>· τὸν δὲ <name type="structure"><w lemma="βωμός">βομὸν</w></name> το̑ι <name type="deity" key="Hephaistos"><w lemma="Ἥφαιστος">hεφαί<supplied reason="lost">στοι</supplied><supplied reason="lost"/></w></name> <gap reason="lost" quantity="9" unit="character"/> 
+	    				
+	    	<lb xml:id="line_37" n="37"/> <gap reason="lost" quantity="20" unit="character"/><orig>το</orig> <w lemma="ποιέω">ποιεσάτο</w> hε <name type="group"><w lemma="βουλή">βολὲ</w></name> <w lemma="καθότι">καθότι</w> <w lemma="ἄν">ἂν</w> <w lemma="αὐτός">αὐτε̑<supplied reason="lost">ι</supplied></w> <w lemma="δοκέω"><supplied reason="lost">δοκε̑ι</supplied></w> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">το̑ι</supplied> <name type="title"><w lemma="ἀρχιτέκτων"><supplied reason="lost">ἀ</supplied>
+	    					
+	    	<lb xml:id="line_38" n="38" break="no"/><supplied reason="lost">ρχιτέκτονι</supplied></w></name>, καὶ <gap reason="lost" quantity="6" unit="character"/><orig><unclear>θ</unclear>αι</orig> <w lemma="κατά">καθ’</w> <w lemma="ἡμέρα">ἑμέραν</w> <w lemma="ἐν">ἐν</w> τε̑ι <w lemma="τελευταῖος">τελευταίαι</w> <orig>πε</orig><gap reason="lost" quantity="13" unit="character"/> 
+	    				
+	    			<lb xml:id="line_39" n="39"/> <gap reason="lost" quantity="19" unit="character"/><orig>αν</orig> καὶ <name type="speechAct"><w lemma="ἀναγορεύω">ἀναγορεύεν</w></name> <w lemma="καθότι">καθότι</w> <w lemma="ἄν">ἂν</w> <name type="vegetal"><w lemma="κριθή">κριθε̑ι</w></name> <unclear>h</unclear><supplied reason="lost">ο</supplied> <w lemma="ἀγών"><supplied reason="lost">ἀγὸν</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">hέκαστο</supplied>
+	    					
+	    			<lb xml:id="line_40" n="40" break="no"/><supplied reason="lost">ς</supplied></w><supplied reason="lost">·</supplied> <name type="person"><w lemma="πάρειμι"><supplied reason="lost">παρόντον</supplied></w></name> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">hοί</supplied> <supplied reason="lost">τε</supplied> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">hιερ</supplied><unclear>οπ</unclear><supplied reason="lost">ο</supplied><unclear>ι</unclear>ο<unclear>ὶ</unclear></w></name> καὶ hοι <name type="group"><w lemma="ἀγωνιστής">ἀγονισταί</w></name>· τὸς δὲ <w lemma="κριτής">κρ<supplied reason="lost">ιτὰς</supplied></w> <gap reason="lost" quantity="9" unit="character"/> 
+	    				
+	    				<lb xml:id="line_41" n="41"/> <gap reason="lost" quantity="15" unit="character"/><supplied reason="lost">·</supplied> <w lemma="ἐπιμελέομαι"><supplied reason="lost">ἐπιμελόσθον</supplied></w> δὲ το̑ν <w lemma="ἆθλος">ἄθλον</w> τε̑ς <w lemma="ἀναγραφή">ἀναγραφε̑ς</w> <unclear>h</unclear><supplied reason="lost">οὶ</supplied> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">hιεροποιοί</supplied></w></name>·
+	    				
+	    				<lb xml:id="line_42" n="42"/> <gap reason="lost" quantity="14" unit="character"/> <w lemma="λέγω"><supplied reason="lost">εἶπε</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost">τὰ μὲν</supplied> <w lemma="ἄλλος"><supplied reason="lost">ἄλλα</supplied></w> <w lemma="καθάπερ"><supplied reason="lost">καθά</supplied><unclear>πε</unclear>ρ</w> τε̑ι <name type="group"><w lemma="βουλή">βολε̑ι</w></name>· <w lemma="ἀναγράφω">ἀναγράφ<supplied reason="lost">σαι</supplied></w> <supplied reason="lost">δὲ τὸ</supplied> <name type="authority"><w lemma="ψήφισμα"><supplied reason="lost">φσέφι</supplied>
+	    					
+	    			<lb xml:id="line_43" n="43" break="no"/><supplied reason="lost">σμα</supplied></w></name> <w lemma="ὅδε"><supplied reason="lost">τόδε</supplied></w> <objectType key="stele"><w lemma="στήλη"><supplied reason="lost">ἐστέλει</supplied></w></objectType> <w lemma="λίθινος"><supplied reason="lost">λιθίνει</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="κατατίθημι"><supplied reason="lost">καταθε̑ναι</supplied></w> <w lemma="ἐν"><supplied reason="lost">ἐ</supplied>ν</w> το̑ι <name type="structure"><w lemma="ἱερόν">hιερο̑ι</w></name>· hο <unclear>δὲ</unclear> <name type="personnel"><w lemma="γραμματεύς"><supplied reason="lost">γραμματεὺς</supplied></w></name> <supplied reason="lost">τε̑ς</supplied>
+	    				
+	    				<lb xml:id="line_44" n="44"/> <name type="group"><w lemma="βουλή"><supplied reason="lost">βολε̑ς</supplied></w></name> <w lemma="ἐπιμελέομαι"><supplied reason="lost">ἐπιμελέσθο</supplied></w> <supplied reason="lost">τε̑ς</supplied> <w lemma="ἀναγραφή"><supplied reason="lost">ἀναγραφε̑ς</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost">καὶ</supplied> <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀποδόντο</supplied><unclear>ν</unclear></w> <supplied reason="lost">τὸ</supplied> <w lemma="ἀργύριον"><unclear>ἀρ</unclear>γ<unclear>ύ</unclear><supplied reason="lost">ριον</supplied></w> <supplied reason="lost">hοι</supplied> <name type="title"><w lemma="κωλακρέτης"><supplied reason="lost">κολακρέτα</supplied>
+	    					
+	    			<lb xml:id="line_45" n="45" break="no"/><supplied reason="lost">ι</supplied></w></name> <gap reason="lost" quantity="40" unit="character"/>
+	    				
+	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+				<p>Gods. Prokles son of Atarbos of the deme Euonymon was secretary, during the archonship of Aristion. The council and the people decided, when the tribe Hippothontis had the prytany, Prokles was secretary, [...] was president, and Aristion was archon; Hyperbolos proposed (5): during the festival [...  (four lines) ...  (10) ...] in the agora [...] to the deme-members [...] hundred fifty [...] of the music just as [... (15) ...] of Hephaistos and of Athena [...] for the Athenians, from where it is necessary to take the money [...] the <foreign>hieropoioi</foreign> should choose by lot ten men to make the sacrifice, from the judges, one from each tribe from the [... The ...]archs should organise the selection by lot together with those of the council and perform the lot-drawing in the presence (20) of the council. Those chosen by lot receive wages exactly as [the councillors do while they] take care of this. The <foreign>kolakretai</foreign> give them [the money]. The council must choose by lot among themselves ten men as <foreign>hieropoioi</foreign> one from each tribe. Three oxen are given to the metics, of these three the hieropoioi distribute the meat to them raw. (25) The <foreign>hieropoioi</foreign> must take care of the procession, so that it is conducted [in the most beautiful way possible], and if someone somehow behaves disorderly, [they have the authority] to impose fines of up to fifty drachmae and write out a copy for [the <foreign>praktores</foreign>]. If someone deserves a higher punishment, they should set the fine as high as they think right and introduce the case to the court of justice of the archon. Each will lead the male oxen by sound of trumpet to the altar. Those men who will lift [them in a manly manner ...] (30) the <foreign>hieropoioi</foreign> [must choose] two hundreds from among the Athenians. The t[orch...] during the festival and the Hephaisteia. The <foreign>hieropoioi</foreign> must make it so that the torch-race [and] the other competition happen in the same manner as the superintendents of the torchrace perform the spectacle [during the Prometheia]. For the rest, if [...] seems to [...] to Poseidon [...] the <foreign>hieropoioi</foreign>, and to Apollo [... (35) ...]. [The gymnasiar]choi that were chosen for the Prometheia [...] they must choose [...]. The altar for Hephaistos [...] the council must perform [...] in the way that it [seems right] to them [and to the architect]. And [...] daily, on the last day [...] and to publicly proclaim how [each contest] was decided. (40) The <foreign>hieropoioi</foreign> and the competitors [must be present]. Those who have been selected [... The <foreign>hieropoioi</foreign> must take care] of the inscribing of the prizes [... made the proposal: the other things (will happen)] just as the council (sees fit). The decree is to be recorded [on a stone stele and set up] in the temple; the [secretary of the council will see to the inscribing. The <foreign>kolakretai</foreign> must give him the] money [...].</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Dieux. Proklès, fils d'Atarbos du dème d'Euonymon, était secrétaire, sous l'archontat d'Aristion. Il a plu au conseil et au peuple, sous la prytanie de la tribu Hippothontis, Proklès était secrétaire, [...] était président, Aristion était archonte; Hyperbolos a fait la proposition : (5) au cours de la fête [... (4 lignes)... (10) ...] sur l'agora [...] aux démotes [...] cent cinquante [...] de la musique selon [...] (15) d'Héphaistos et d'Athéna [...] pour les Athéniens, d'où il faut prélever l'argent [...] que les hiéropes tirent au sort dix hommes qui accompliront le sacrifice, parmi les juges, un par tribu, de [... Que les ...]arques organisent le tirage au sort avec ceux du conseil et qu'ils accomplissent le tirage au sort en présence (20) du conseil. Que ceux qui sont choisis par le sort soient rémunérés comme [les membres du conseil quand ils] s'occupent de cela. Que les kolakrètes leur remettent [l'argent]. Que le conseil désigne par le sort en son sein dix hommes comme hiéropes, un de chaque tribu. Seront donnés aux métèques trois boeufs dont les hiéropes leur distribueront la viande crue. (25) Que les hiéropes prennent soin de la procession afin qu'elle soit menée [de la plus belle manière possible], et si quelqu'un perturbe l'ordre, qu'ils [aient l'autorité] d'imposer une amende jusqu'à cinquante drachmes et de la transcrire à destination [des <foreign>praktores</foreign>]. Si quelqu'un est passible d'une amende plus élevée, qu'ils majorent la peine [à leur estime] et qu'ils introduisent une procédure au tribunal de l'archonte. Chacun [conduira] les boeufs au son de la trompette jusqu'à l'autel. Les hommes qui [les] soulèveront [virilement] [ (30), que les hiéropes en choisissent deux cents parmi les Athéniens. La t[orche...] durant la fête et les Hephaisteia. Que les hiéropes agissent afin que la course aux flambeaux [et] l'autre concours se passent à la manière dont les préposés à la course aux flambeaux organisent le spectacle [aux Prometheia]. Quant au reste, s'il semble [...] à Poséidon [...] les hiéropes, et à Apollon [... (35) ...]. Les gymnasiar]ques choisis pour les Prometheia [...] qu'ils choisissent. [...]. L'autel pour Héphaistos [...] que le conseil accomplisse de la manière qui lui [semble bonne, ainsi qu'à l'architecte...] par jour, le dernier jour [...] et de proclamer publiquement la manière dont a été jugé [chaque concours]. (40) Les hiéropes et les compétiteurs [seront présents]. Ceux qui ont été sélectionnés [... Que les hiéropes prennent soin] de l'inscription des prix aux concours. [... a fait la proposition. Les autres choses (interviendront)] selon (ce qui sied) au conseil. On inscrira [ce décret sur une stèle de pierre et la dressera] dans le sanctuaire. Que le [secrétaire du conseil prenne soin de la gravue. Que les kolakrètes lui donnent l']argent [...]
+						
+					</p>
+
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+	<p> This decree regulates the celebration of a festival in honour of Hephaistos and Athena. By 421, Hephaistos had a temple on the hill west of the Agora, and earlier literary sources mention torch-races in honour of Hephaistos (Hdt. 8.98.2, A. <title>Ag</title>. 279-314). Similarly, the ritual of bull-lifting was already associated with the god of crafts (cf. see lines 29-30, below). Therefore, most probably, this inscription details the reorganization of an already existing festival, rather than instituting an entirely new one (see Wijma, p. 86-88; for another view, cf. Rosivach). For another decree from Athens, testifying to a later revamping of the festival of Athena, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_92/">CGRN 92</ref>.</p>
+						
+	<p> The first fragmentary lines of the inscription are difficult to interpret. We can discern a reference to a "four-year festival" (line 6), to an event happening "in the Agora" (line 11), to the involvement of the "demesmen" (line 12); to a number (150?, line 13), to "music" (line 14) and the gods Hephaistos and Athena (line 15). One may think of a procedure of meat distribution in the agora, possibly of a large number of animals (so Clerc; and cp. here <ref target="CGRN_19">CGRN 19</ref>, face A, lines 19-21). Kotsidu connects the mention of the "agora" with the "music" in another way, while explaining that the musical contests of the Panathenaia were held in the Athenian agora.</p>
+			
+	<p>The substance of the rest of the decree is somewhat more straightforward. Lines 17-23 specify the procedure for the selection of twenty <foreign>hieropoioi</foreign> by lot: ten from the pool of judges and ten from the members of the council, in both cases one from each tribe. The tasks of these officials included providing the metics with three oxen and then the raw meat of these animals (lines 23-24). The <foreign>hieropoioi</foreign> are also to conduct the procession in the most elegant manner possible and are given the power to fine small offenders, while larger offences are relegated to a court of justice (lines 24-28). The festivities also include leading an unknown number of bulls to the altar of Hephaistos at the accompanying sound of a trumpet, and 200 men are then to lift up the bulls (lines 28-30). The <foreign>hieropoioi</foreign> are probably also in charge of the organization of a torchrace, detailed provisions concerning which are given, though in a passage that is now unfortunately fragmentary (lines 31-41). The decree concludes with a further rider on the previous decree; this confirms all of the measures proposed by the council, and makes provisions for the inscribing and setting up of the stone (lines 42-44). For the <foreign>kolakretai</foreign> as financial officers in Athens, see here <ref target="CGRN_24">CGRN 24</ref>, lines A6-9.</p>
+	
+		
+<p> Line 16: Mattingly (1974) had interpreted ἐξαιρεῖν as "to set aside" and considered the verb to refer to a special fund "reserved" for the cult of Athena and Hephaistos. However, it is not clear how this interpretation fits in with the rest of the text. Thompson's interpretation, taking the phrase as a specification of the way in which the oxen for the metics (lines 23) are to be financed, i.e. "from the fund from where it is necessary to take out money (to finance sacrifices)", seems more pertinent. The "necessity" would then perhaps refer to the way in which things are laid out in other Athenian decrees or laws.</p>
+		
+<p> Line 17-23: The selection of candidates for a particular task or function by lot was a widespread feature of 5th- and 4th-century Athenian democracy. Sortition was preferred to election in those cases in which humans could not or did not want to motivate the choice for a particular person, and instead the gods were thought to select the right candidate (cf. Aleshire and Blok - Lambert); cf. also here <ref target="CGRN_74">CGRN 74</ref>, line 2, with commentary.</p>
+		
+						<p> Lines 23-24: Three oxen are to be given to the metics, of which the meat is to be distributed raw. Here, the metics are consciously singled out as a group; contrast references to δεμότεσι (line 12) and Ἀθε[ν]α̣ίον (line 30). As Wijma has argued, the decree should be seen as reflecting the growing involvement of metics in the Athenian community from the mid-fifth century onwards, which meant that their position should be acknowledged and at the same time demarcated. Many metics were involved in the extensive building program of Perikles. Therefore, it makes sense that this group would be involved and honoured in a festival for the god of craftmanship. Note that this is the only Athenian festival at the polis level in which metics were explicitly included in the sacrifices (Wijma, p. 89). On the distribution of meat to metics on the sub-polis level, cp. an earlier regulation from the deme of the Skambonidai, <ref target="CGRN_19">CGRN 19</ref>, in which the Skambonidai themselves and the metics were to receive equal portions during a sacrifice to the hero Leos. It is unclear how we should assess the honour being bestowed on the metics by giving them the three oxen, since we do not know how many animals were provided to the Athenians during the sacrifice. However, the fact that the meat was to be distributed raw seems rather significant. The goal may have been to exclude the metics from the festive occasion of a communal banquet. As such the regulation would then have had the opposite effect of the often-occurring "οὐ φορά" rule, which strengthened the bonds between the members of a cultic group through an obligatory shared meal on the spot (cf. again Wijma); for οὐ φορά and similar instructions, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_52/">CGRN 52</ref> (Erchia), <foreign>passim</foreign>, and the commentary on lines 10-12 in <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref> (Thorikos).</p>
+		
+<p> Line 25-28: The <foreign>hieropoioi</foreign> are given the legal capacity to punish disorderly behaviour during the festival, but only up to a certain point (a fine of up to 50 drachmae). For comparable cases of personnel being granted the authority to sanction transgressors up to a certain level, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_75/">CGRN 75</ref> (Oropos), lines 6-20; for similar fines in this context, cp. <ref target="CGRN_186">CGRN 186</ref> (Ilion), lines 30-32.</p>
+		
+<p> Lines 28-29: There appears to be no direct parallel for the oxen being led to the altar to the sound of a trumpet, but cp. perhaps <ref target="CGRN_10">CGRN 10</ref> (Gortyn), line 9, an interdiction of sounding the trumpet in a festival context.</p>
+
+<p> Lines 29-30: Cf. Van Straten, p. 109-113, for a diachronic discussion of festive occasions on which bulls were lifted. A cup from around 500 BC depicts the lifting of a bull by five youths, as well as Hephaistos; thus, according to the convincing interpretation of Van Straten (p. 112), this cup illustrates a festival in honour of Hephaistos. We do not know how many bulls were involved, since it is not clear how many of the 200 men would be needed to lift each individual bull. For bull-lifting, cf. also here <ref target="CGRN_26">CGRN 26</ref> (Athens), face A, line 17.</p>
+		
+<p> Lines 31-36: The <foreign>hieropoioi</foreign> to be selected by lot were to organize a torch-race as part of the festival. To do so, they should take an example from another torch-race at a four-yearly festival, perhaps the Prometheia. In the text printed here, the point of reference is indicated as the Prometheia, or at least, the Prometheia are restored as the model of the other contest a few lines onwards (lines 32-33). However, we cannot be certain. An alternative, though less precise restoration of lines 32-33, was proposed by Mattingly (1997, καθά[περ τεῖ πεντετερίδι]), who considered that the torch-race and the other contest were to be modelled on that of the Great (penteteric) Panathenaia. Perhaps additional sacrifices needed to be made to Poseidon and Apollo (line 34).</p>
+				
+<p> Line 36: The interpretation of the phrase hελόσθον τὸν δὲ βομὸν το̑ι hεφαί[στοι] is not evident. Perhaps hελόσθον and τὸν δὲ βομὸν το̑ι hεφαί[στοι] belong to two different grammatical phrases, referering to something that must be "chosen" and to the altar of Hephaistos respectively; alternatively, this is one phrase which refers most probably to how the athletes should "grasp", i.e. take hold of the altar during the race.</p>
+
+<p> Line 38-43: The kind of action to be performed "as it [seems right] to the council [and the architect]" eludes us. The following lines refer to a ceremony in which the victors are proclaimed and prizes are awarded, presumably the torch-race and the contest mentioned earlier (see lines 31-36, above).</p> 
+	
+					</div>
+			</body>
+    	</text>
+	</TEI>

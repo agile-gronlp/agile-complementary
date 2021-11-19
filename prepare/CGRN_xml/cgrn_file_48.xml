@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_48" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title>	<idno type="filename">CGRN 48</idno>: Fragmentary <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> mentioning a hero on Thasos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of a marble <rs type="objectType">stele</rs> (?), with a moulding at the top. Thus, the first line of the text appears to be preserved, albeit badly; otherwise the stone is broken on all sides.</p>
+				<p><dimensions>
+					<height unit="cm">18</height>
+					<width unit="cm">25</width>
+					<depth unit="cm">13</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="cm">1.2</height>. The text is carefully inscribed but extremely worn.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0350">ca. 400-350 BC</origDate></p>
+			<p><desc>Justification: early 4th c. lettering (Pouilloux).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thasos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/501634" type="external">Thasos</ref></placeName>. Findspot unclear. Now in the Thasos Museum (inv. no. 319A).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Pouilloux 1954">Pouilloux 1954</bibl>: 343 no. 128, with ph. pl. 37.3. Since Pouilloux only gives a majuscule copy, we adopt a text based on his readings, but with much more minimal restorations than Sokolowski.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 66; <bibl type="abbr" n="SEG">SEG</bibl> 18, 340.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Seyrig 1927">Seyrig 1927</bibl>: 185-198; <bibl type="author_date" n="Parker 2010a">Parker 2010a</bibl>.</p>
+					
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    					
+<lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΙΝΕΩΙ Π<unclear>Λ</unclear>Ι</orig><gap reason="lost" quantity="1" unit="character"/><orig>Ι</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_2" n="2"/><gap reason="lost" extent="unknown" unit="character"/>αν <name type="colour1"><w lemma="λευκός">λευκὸν</w></name> <orig>ΗΙΠΓ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name type="liquid"><w lemma="οἶνος"><supplied reason="lost">οἴνου</supplied></w></name> <name type="object"><w lemma="ὄστρακον"><supplied reason="lost">ὄ</supplied><unclear>σ</unclear>τρακον</w></name> καὶ ἀπο<gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_4" n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="οὐ"><supplied reason="lost">οὐ</supplied></w> <name type="authority"><w lemma="θέμις"><supplied reason="lost">θέ</supplied>μις</w></name>· τῶι <name type="deity" key="Hero"><w lemma="ἥρως">ἥρω<unclear>ι</unclear></w></name> <orig><unclear>ΙΙ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_5" n="5"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΗΤΕΝ</orig> <name type="meal"><w lemma="δαίνυμι">δαιν</w></name><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    			<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+	    				<p>(Given the extremely fragmentary character of the text, no translation is attempted; see Commentary.)</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>(En raison du caractère très fragmentaire du texte, aucune tentative de traduction n'est proposée; voir Commentary.)</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This short text may perhaps have been a sacrificial regulation of a type regularly found on Thasos (cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_17/">CGRN 17</ref>), since it appears to mention an interdiction ([οὐ θέ]μις, line 4) which is commonly found on the island. However, since it is extremely fragmentary, the exact type and character of the document are virtually impossible to discern. The same can be said about the context of the regulations: given the uncertainty of the reading of the first line of the inscription, all we can say is that the text appears to have mentioned offerings (lines 2-3), as well as a hero (line 4) and perhaps feasting (line 5).</p>
+
+<p>Line 2: Sokolowski restored the line as [εἰς θυσί]αν λευκὸν ἢ<surplus>ι</surplus> π[υρρὸν βοῦν?]. A similar choice in the colour of the animal offered is indeed attested on Rhodes: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_110/">CGRN 110</ref> (Kamiros), line 4, and <ref target="http://cgrn.ulg.ac.be/CGRN_117/">CGRN 117</ref> (Lindos), lines 5-6. Most of Sokolowski's restoration seems gratuitous, however, and more damningly, it requires him to supress a letter as well as to ignore the final trace in the line (as read by Pouilloux). If correct, we would expect the colour term(s) to have followed a mention of a sacrificial animal rather than having preceded it. Masculine offerings with accusative ending in -αν are rare, but cp. perhaps the τομίας, τομίαν (a castrated animal), sacrificed at Tlos: see Parker.</p>
+						
+<p>Line 3: Sokolowski plausibly restores [οἴνου ὄ]στρακον. The line may have mentioned a series of sacrificial complements, including this earthen vessel filled with wine.</p>
+						
+<p>Line 4: Both Pouilloux and Sokolowski proposed [γυναιξὶν οὐ θέ]μις. This is possible (cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_18/">CGRN 18</ref>, also from Thasos, for the interdiction of women), but the mention of [θέ]μις as part of an authority statement may just as well have had a sacrificial point of reference here, as for example in <ref target="http://cgrn.ulg.ac.be/CGRN_27/">CGRN 27</ref>, lines 3-4 (also from Thasos).</p>
+	
+<p>Line 5: Neither Pouilloux nor Sokolowski interpret this line, but a form of the verb δαίνυμι nonetheless seems clear. This verb is also used in <ref target="http://cgrn.ulg.ac.be/CGRN_68/">CGRN 68</ref>, line 3, from Thasos, but its usage in that fragmentary inscription is equally unclear. The verb may have been part of a phrase expressing the requirement to eat the sacrificial meat on the spot, as is rather common in these regulations (cf. the commentary on lines 10-12 in <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref>, Thorikos). Alternatively, it may have prescribed "giving a feast", as in <ref target="http://cgrn.ulg.ac.be/CGRN_103/">CGRN 103</ref> (Phrearrhioi), lines 5-6, where a herald and the <foreign>hieropoios</foreign> are to organize this.</p>
+						
+					</div>
+			</body>
+    	</text>
+	</TEI>

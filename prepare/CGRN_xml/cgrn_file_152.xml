@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_152" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 152</idno>: <rs type="textType" key="dossier of regulations">Dossier</rs> of the familial cult of Epikteta on Thera</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+	<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+	<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+	<msIdentifier>
+		<repository>n/a</repository>
+	</msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc>
+				<support>
+					<p>The complete inscription consists of four individual <rs type="objectType">plaques</rs>of grey marble, on which a text in eight columns is inscribed. We reproduce here columns IV and V, as well as lines 1-22 of column VI, which are found on plaques 2-4.</p>
+					<p> Plaque 1 <dimensions>
+			<height unit="cm">45.5</height>
+			<width unit="cm">86</width>
+			<depth unit="cm">8</depth>
+		</dimensions>
+					</p>
+					<p> Plaque 2 <dimensions>
+			<height unit="cm">45.5</height>
+			<width unit="cm">66</width>
+			<depth unit="cm">8</depth>
+		</dimensions>
+					</p>
+					<p> Plaque 3 <dimensions>
+			<height unit="cm">45.5</height>
+			<width unit="cm">52</width>
+			<depth unit="cm">8</depth>
+		</dimensions>
+					</p>
+					<p> Plaque 4 <dimensions>
+			<height unit="cm">45.5</height>
+			<width unit="cm">80</width>
+			<depth unit="cm">8</depth>
+		</dimensions>
+					</p>
+				</support>
+			</supportDesc>
+			<layoutDesc>
+				<layout>
+					<p> Letters, in the heading: <height unit="cm">2.2</height>; the remaining text: <height unit="cm">1.1-1.2</height>
+					</p>
+				</layout>
+			</layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p>
+				<origDate notBefore="-0225" notAfter="-0175">ca. 225-175 BC</origDate></p>
+			<p>
+				<desc>Justification: lettering, dialect (Keil). The text could perhaps be dated more precisely to ca. 210-193 BC (Homolle).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thera" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599972" type="external">Thera</ref></placeName>. Now in Verona, in the Maffeiano Museum (inv. no. 40). </p></provenance>
+	</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+
+<p> Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 330, part C (lines 109-202), slightly corrected on the base of the photographs in Ritti.</p>
+
+<p> Other editions: <bibl type="author_date" n="Ritti 1981">Ritti 1981</bibl> no. 31, with ph. (plaque 1 on p. 72; plaque 2 on page 74; plaque 3 on page 81; plaque 4 on page 77); <bibl type="author_date" n="Wittenburg 1990">Wittenburg 1990</bibl>.</p>
+
+<p> Cf. also: <bibl type="author_date" n="Keil 1888">Keil 1888</bibl>; 
+Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 129 (only part C); 
+<bibl type="author_date" n="Laum 1914">Laum 1914</bibl>: no. 43; 
+Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 135 (only part C).</p>
+
+<p> Further bibliography: 
+<bibl type="author_date" n="Homolle 1894">Homolle 1894</bibl>; 
+<bibl type="author_date" n="Boyancé 1937">Boyancé 1937</bibl>: 329-344; 
+<bibl type="author_date" n="Graf 1985">Graf 1985</bibl>: 129-135; 
+<bibl type="author_date" n="Ekroth 2002">Ekroth 2002</bibl>; 
+<bibl type="author_date" n="Stavrianopoulou 2006b">Stavrianopoulou 2006b</bibl>: 151-155, 292-302; 
+Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 86-87; 
+<bibl type="author_date" n="Parker 2010a">Parker 2010a</bibl>; 
+<bibl type="author_date" n="Carbon - Pirenne-Delforge 2013">Carbon - Pirenne-Delforge 2013</bibl>; 
+<bibl type="author_date" n="Campanelli 2016">Campanelli 2016</bibl>.</p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab> 
+
+<lb xml:id="line_109" n="109"/> <w lemma="ἐπί">ἐπὶ</w> <name type="title"><w lemma="ἔφορος">ἐφόρων</w></name> τῶν <w lemma="σύν">σὺν</w> Ἱμέρτωι, <name type="month"><w lemma="Διόσθυος">Διοσθύου</w></name>· 
+
+<lb xml:id="line_110" n="110"/> <w lemma="ἐπειδή">ἐπειδὴ</w> Ἐπικτήτα Γρίννου <w lemma="μετά">μετὰ</w> <name type="person"><w lemma="κύριος">κυρίου</w></name> τοῦ τᾶς 
+
+<lb xml:id="line_111" n="111"/> <name type="person"><w lemma="θυγάτηρ">θυγατρὸς</w></name> <name type="person"><w lemma="ἀνήρ">ἀνδρὸς</w></name> Ὑπερείδους τοῦ Θρασυλέον 
+
+<lb xml:id="line_112" n="112" break="no"/> τος, <w lemma="συνευαρεστέω">συνευαρεστούσας</w> καὶ τᾶς <name type="person"><w lemma="θυγάτηρ">θυγατρὸς</w></name> <w lemma="αὐτός">αὐ 
+
+<lb xml:id="line_113" n="113" break="no"/> τᾶς</w> Ἐπιτελείας, <w lemma="ἐπιδίδωμι">ἐπιδέδωκε</w> <w lemma="εἰς">ἐς</w> <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> ταῖς 
+
+<lb xml:id="line_114" n="114"/> <name type="deity" key="Muses"><w lemma="Μοῦσα">Μούσαις</w></name> καὶ τοῖς <name type="deity" key="Hero"><w lemma="ἥρως">ἥρωσι</w></name> καὶ <w lemma="εἰς">ἐς</w> <name type="group"><w lemma="ἀνδρεῖος">ἀνδρείου</w></name> τῶν <name type="group"><w lemma="συγγενής">συγ 
+
+<lb xml:id="line_115" n="115" break="no"/> γενῶν</w></name> <w lemma="συναγωγή">συναγωγὰν</w> <w lemma="κατά">κατὰ</w> <w lemma="διαθήκη">διαθήκαν</w> <w lemma="δραχμή">δραχμὰς</w> 
+
+<lb xml:id="line_116" n="116"/> <w lemma="τρισχίλιοι">τρισχιλίας</w>, <w lemma="εἰς">ἐς</w> <w lemma="ὅς">ἃς</w> καὶ <w lemma="λαμβάνω">λαμβάνεν</w> <w lemma="κατά">καθ’</w> <w lemma="ἕκαστος">ἕκαστον</w> 
+
+<lb xml:id="line_117" n="117"/> <w lemma="ἔτος">ἔτος</w> <w lemma="παρά">παρὰ</w> τῶν <w lemma="διάδοχος">διαδόχων</w> <w lemma="αὐτός">αὐτᾶς</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="διακόσιοι">δι 
+
+<lb xml:id="line_118" n="118" break="no"/> ακοσίας</w> <w lemma="δέκα">δέκα</w>, <w lemma="ὥστε">ὥστε</w> <w lemma="γίγνομαι">γίνεσθαι</w> τὰν <w lemma="συναγωγή">συναγω 
+
+<lb xml:id="line_119" n="119" break="no"/> γὰν</w> <w lemma="ἐπί">ἐπ’</w> <w lemma="ἡμέρα">ἁμέρας</w> <w lemma="τρεῖς">τρεῖς</w> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="Μουσεῖον">Μουσείωι</w></name> <w lemma="ὅς">ὧι</w> <w lemma="αὐτός">αὐτὰ</w> 
+
+<lb xml:id="line_120" n="120̆"/> <w lemma="κατασκευόω">κατεσκεύωκε</w> <w lemma="ὑπέρ">ὑπέρ</w> τε τοῦ <name type="person"><w lemma="ἀνήρ"><supplied reason="lost">ἀνδρὸς</supplied></w></name> <w lemma="αὐτός">αὐτᾶς</w> Φοί 
+
+<lb xml:id="line_121" n="121" break="no"/> νικος καὶ <w lemma="αὐτός">αὑτᾶς</w> καὶ τῶν <name type="person"><w lemma="υἱός">υ<supplied reason="lost">ἱῶν</supplied></w></name> Κρατησιλόχου 
+
+<lb xml:id="line_122" n="122"/> καὶ Ἀνδραγόρα, καὶ <name type="sacrifice"><w lemma="θύω">θύεν</w></name> τὸ<supplied reason="lost">ν</supplied> <supplied reason="lost">μὲ</supplied>ν τὰν <w lemma="πρότερος">πράταν</w> <name type="personnel"><w lemma="ἐπιμηνιεύω">ἐπι 
+
+<lb xml:id="line_123" n="123" break="no"/> μηνιεύοντα</w></name> ταῖς <name type="deity" key="Muses"><w lemma="Μοῦσα">Μούσαι<supplied reason="lost">ς</supplied></w></name><supplied reason="lost">,</supplied> <supplied reason="lost">τὸ</supplied>ν δὲ τὰν <w lemma="δεύτερος">δευτέ 
+
+<lb xml:id="line_124" n="124" break="no"/> ραν</w> τοῖς <name type="deity" key="Hero"><w lemma="ἥρως">ἥρωσι</w></name> Φοίνικι καὶ <supplied reason="lost">Ἐπικ</supplied>τήται, τὸν δὲ 
+
+<lb xml:id="line_125" n="125"/> τὰν <w lemma="τρίτος">τρίταν</w> τοῖς <name type="deity" key="Hero"/><w lemma="ἥρως">ἥρωσι</w> Κρατ<supplied reason="lost">ησ</supplied>ιλόχωι καὶ Ἀν 
+
+<lb xml:id="line_126" n="126" break="no"/> δραγόραι· <w lemma="ἀγαθός">ἀγαθᾶι</w> <w lemma="τύχη">τύχαι</w>· <w lemma="δοκέω">δεδόχθαι</w>· τάν τε <w lemma="ἐπαγγελία">ἐπαγ 
+
+<lb xml:id="line_127" n="127" break="no"/> γελίαν</w> <w lemma="ἀποδέχομαι">ἀποδέξασθαι</w> <w lemma="αὐτός">αὐτᾶς</w> καὶ <w lemma="ποιέω">ποιεῖσθαι</w> <surplus>τὰν</surplus> 
+
+<lb xml:id="line_128" n="128"/> τὰν <w lemma="συναγωγή">συναγωγὰν</w> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="πρότερος">πράτου</w> <name type="liquid"><w lemma="ἄλειμμα">ἀλείμματος</w></name>, 
+
+<lb xml:id="line_129" n="129"/> καὶ <w lemma="ἐπιχέω">ἐπιχεῖσθαι</w> <w lemma="πᾶς">πάντας</w> <w lemma="ἀπό">ἀπὸ</w> <name type="meal"><w lemma="δεῖπνον">δείπνου</w></name> <w lemma="ἐπί">ἐπὶ</w> τὸ <w lemma="πρότερος">πρᾶ 
+
+<lb xml:id="line_130" n="130" break="no"/> τον</w> <name type="object"><name type="liquid"><w lemma="ποτήριον">ποτείριον</w></name></name> τᾶν τε <name type="deity" key="Muses"><w lemma="Μοῦσα">Μουσᾶν</w></name> και Φοίνικος καὶ Ἐπι 
+
+<lb xml:id="line_131" n="131" break="no"/> κτήτας καὶ Κρατησιλόχου καὶ Ἀνδραγόρα· τὰν 
+
+<lb xml:id="line_132" n="132"/> δὲ <w lemma="συναγωγή">συναγωγὰν</w> τοῦ <name type="group"><w lemma="ἀνδρεῖος">ἀνδρείου</w></name> τῶν <name type="group"><w lemma="συγγενής">συγγενῶν</w></name> 
+
+<lb xml:id="line_133" n="133"/> <w lemma="γίγνομαι">γίνεσθαι</w> <w lemma="ἐν">ἐμ</w> <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Δελφίνιον">Δελφινίωι</w></name> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="Μουσεῖον">Μουσείωι</w></name> <w lemma="κατά">κα</w> 
+
+<lb xml:id="line_134" n="134" break="no"/> θ’ <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ἔτος">ἔτος</w> <w lemma="ἡμέρα">ἁμέρας</w> <w lemma="τρεῖς">τρεῖς</w>, καὶ <w lemma="λειτουργέω">λειτουργὲν</w> 
+
+<lb xml:id="line_135" n="135"/> <w lemma="ἅπαξ">ἅπαξ</w> <w lemma="ἀνά">ἀνὰ</w> <w lemma="πρέσβυς">πρεσβύτατα</w> <w lemma="δωρεά">δωρεὰν</w> <w lemma="πᾶς">πάντας</w>, <w lemma="ὅμοιος">ὁμοί 
+
+<lb xml:id="line_136" n="136" break="no"/> ως</w> δὲ καὶ τὸς <w lemma="ἐκ">ἐκ</w> <w lemma="οὗτος">τούτων</w> <w lemma="γίγνομαι">γενομένος</w>, καὶ <w lemma="παραγίγνομαι">παρα 
+
+<lb xml:id="line_137" n="137" break="no"/> γινομένος</w> <w lemma="εἰς">ἐς</w> τὸ <name type="group"><w lemma="κοινεῖον">κοινεῖον</w></name> <w lemma="λειτουργέω">λειτουργὲν</w> <w lemma="γίγνομαι">γενο 
+
+<lb xml:id="line_138" n="138" break="no"/> μένος</w> <w lemma="ἐκ">ἐκ</w> τῶν <name type="group"><w lemma="ἔφηβος">ἐφήβων</w></name> τὰν <w lemma="πρότερος">πράταν</w> <name type="personnel"><w lemma="ἐπιμηνιεία">ἐπιμηνιεία 
+
+<lb xml:id="line_139" n="139" break="no"/> αν</w></name> <w lemma="δωρεά">δωρεάν</w>· <w lemma="παρέχω">παρεξοῦντι</w> δὲ οἱ <w lemma="δωρεά">δωρεὰν</w> <name type="personnel"><w lemma="ἐπιμηνιεύω">ἐπιμη 
+
+<lb xml:id="line_140" n="140" break="no"/> νιεύομες</w></name> <name type="liquid"><w lemma="οἶνος">οἶνον</w></name> <w lemma="ξενικός">ξενικὸν</w> <w lemma="ἱκανός">ἱκανὸν</w> <w lemma="δόκιμος">δόκιμον</w> <w lemma="ἕως">ἕως</w> 
+
+<lb xml:id="line_141" n="141"/> <w lemma="τρεῖς">τριῶν</w> <w lemma="πίνω">πινόντων</w>, <name type="adornment"><w lemma="στέφανος">στεφάνος</w></name>, <w lemma="μουσικός">μουσικόν</w>, <name type="liquid"><w lemma="μύρον">μύρον</w></name>· 
+
+<lb xml:id="line_142" n="142"/> <w lemma="εἰ">εἰ</w> δέ <w lemma="κα">κά</w> <w lemma="τις">τις</w> <w lemma="μή">μὴ</w> <name type="personnel"><w lemma="ἐπιμηνιεύω">ἐπιμηνιεύσηι</w></name> <name type="authority"><w lemma="κατά">κατὰ</w> τὰ <w lemma="γράφω">γεγραμμέ 
+
+<lb xml:id="line_143" n="143" break="no"/> να</w></name>, <w lemma="ἀποτίνω">ἀποτεισάτω</w> τῶι <name type="group"><w lemma="κοινός">κοινῶι</w></name> <w lemma="δραχμή">δραχμὰς</w> <w lemma="ἑκατόν">ἑκατὸν</w> καὶ 
+
+<lb xml:id="line_144" n="144"/> <w lemma="πράττω">πρασσέσθω</w> <w lemma="ὑπό">ὑπὸ</w> τοῦ <w lemma="κατατυγχάνω"><supplied reason="lost">κατα</supplied>τυγχάνοντος</w> <name type="personnel"><w lemma="ἀρτυτήρ">ἀρτυ 
+
+<lb xml:id="line_145" n="145" break="no"/> τῆρος</w></name> <name type="authority"><w lemma="κατά">κατὰ</w> <supplied reason="lost">τὸς</supplied> <w lemma="νόμος">νόμος</w></name> καὶ <w lemma="μή">μὴ</w> <w lemma="μετέχω">μετεχέτω</w> τοῦ 
+
+<lb xml:id="line_146" n="146"/> <name type="group"><w lemma="κοινός">κοινοῦ</w></name> <w lemma="εἰς">ἐς</w> <w lemma="ὅς">ὅ</w> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <w lemma="ἐκτίνω"><supplied reason="lost">ἐκ</supplied>τείση</w>. <w lemma="ἐπί">ἐπὶ</w> δὲ <w lemma="οὗτος">ταῦτα</w> τὰ <w lemma="ἔτος">ἔτη</w> 
+
+<lb xml:id="line_147" n="147"/> τὰν <w lemma="πίπτω">πίπτο<supplied reason="lost">υσαν</supplied></w> <w lemma="πρόσοδος">πόθοδον</w> τῶι <name type="group"><w lemma="κοινός">κοινῶι</w></name> ὁ <w lemma="κατατυγχάνω">κατα 
+
+<lb xml:id="line_148" n="148" break="no"/> τυγχάνω<supplied reason="lost">ν</supplied></w> <name type="personnel"><w lemma="ἀρτυτήρ">ἀ<supplied reason="lost">ρτυ</supplied>τὴρ</w></name> <w lemma="πράττω">πράξας</w> <w lemma="ἀποδίδωμι">ἀποδιδότω</w> <w lemma="ἐπί">ἐπὶ</w> 
+
+<lb xml:id="line_149" n="149"/> <w lemma="σύλλογος">σύλλογον</w> καὶ <w lemma="ἐκδανείζω">ἐγδανειζέσθω</w> <w lemma="ὑπό">ὑπὸ</w> τῶν <w lemma="αἱρέω">αἱρε 
+
+<lb xml:id="line_150" n="150" break="no"/> θέντων</w> <name type="personnel"><w lemma="ἐκδανειστής">ἐγ<supplied reason="lost">δ</supplied>ανειστᾶν</w></name> <w lemma="ἐπί">ἐπὶ</w> <w lemma="ὑποθήκη">ὑποθήκαις</w> <w lemma="ἔγγαιος">ἐγγαί 
+
+<lb xml:id="line_151" n="151" break="no"/> οις</w> <w lemma="ἀξιόχρεως">ἀξιοχρέοις</w> <w lemma="χωρίς">χωρὶ</w> τοῦ <w lemma="ἀφαιρέω">ἀφαιρουμένου</w> <w lemma="εἰς">ἐς</w> 
+
+<lb xml:id="line_152" n="152"/> τὰς <name type="sacrifice"><w lemma="θυσία">θυσία<supplied reason="lost">ς</supplied></w></name> ταῖς τε <name type="deity" key="Muses"><w lemma="Μοῦσα">Μούσαις</w></name> καὶ τοῖς <name type="deity" key="Heroes"><w lemma="ἥρως">ἥρωσι</w></name> 
+
+<lb xml:id="line_153" n="153"/> <w lemma="κατά">κατὰ</w> τὰν <w lemma="διαθήκη">δι<supplied reason="lost">α</supplied>θήκαν</w>· <w lemma="ἀφαιρέω">ἀφαιρούντων</w> δὲ καὶ <w lemma="συλλογευτικός">συλ 
+
+<lb xml:id="line_154" n="154" break="no"/> λογευτικὸν</w> <w lemma="μή">μὴ</w> <w lemma="πλείων">πλεῖον</w> <w lemma="δραχμή">δραχμᾶν</w> <w lemma="δεκαπέντε">δεκαπέν</w> 
+
+<lb xml:id="line_155" n="155" break="no"/> τε· <w lemma="εἰ">εἰ</w> δέ <w lemma="κα">κα</w> <w lemma="ἐν"><unclear>ἐ</unclear><supplied reason="lost">γ</supplied></w> <w lemma="δωρεά">δωρεᾶς</w> <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμήνιοι</w></name> <w lemma="μηκέτι">μηκέτ’</w> <w lemma="εἰμί">ὦντι</w>, 
+
+<lb xml:id="line_156" n="156"/> <w lemma="δέχομαι">δεξοῦν<supplied reason="lost">ται</supplied></w> <w lemma="κατά">κατὰ</w> τὸ <w lemma="ἑξῆς">ἑξᾶν</w> <w lemma="ἀνά">ἀνὰ</w> <w lemma="πρέσβυς">πρεσβύτατα</w> 
+
+<lb xml:id="line_157" n="157"/> <w lemma="πᾶς">πάντες</w> οἱ <w lemma="παραγίγνομαι"><supplied reason="lost">π</supplied>αραγινόμενοι</w>, <name type="authority"><w lemma="καθώς">καθὼς</w> <w lemma="γράφω">γέγραπται</w></name> 
+
+<lb xml:id="line_158" n="158"/> καὶ τὸς <w lemma="δωρεά">δω<supplied reason="lost">ρ</supplied>εὰν</w> <w lemma="δέχομαι">δεχομένος</w>, καὶ <w lemma="λαμβάνω">λαμψοῦνται</w> 
+
+<lb xml:id="line_159" n="159"/> <w lemma="παρά">παρὰ</w> τοῦ <name type="personnel"><w lemma="ἀρτυτήρ">ἀρτυτῆρος</w></name> <w lemma="δραχμή">δραχμὰς</w> <w lemma="πεντήκοντα">πεντήκοντα</w> 
+
+<lb xml:id="line_160" n="160"/> <w lemma="πρό">πρὸ</w> τοῦ τὰν <w lemma="σύνοδος">σύνοδον</w> <w lemma="εἰμί">ἧμεν</w> <w lemma="πρό">πρὸ</w> <w lemma="ἡμέρα">ἁμερᾶν</w> <w lemma="δέκα">δέ 
+
+<lb xml:id="line_161" n="161" break="no"/> κα</w>· <w lemma="εἰ">εἰ</w> δέ <w lemma="κα">κα</w> <w lemma="μή"><supplied reason="lost">μ</supplied>ὴ</w> <w lemma="δέχομαι">δέξηται</w> <w lemma="λαμβάνω">λαβών</w>, <w lemma="ἀποτίνω">ἀποτεισάτω</w> 
+
+<lb xml:id="line_162" n="162"/> <w lemma="δραχμή">δραχμὰς</w> <w lemma="ἑκατόν"><supplied reason="lost">ἑ</supplied>κατὸν</w> <w lemma="πεντήκοντα">πεντήκοντα</w>, καὶ <w lemma="πράσσω">πραξά 
+
+<lb xml:id="line_163" n="163" break="no"/> τω</w> <w lemma="αὐτός">αὐτὸν</w> <supplied reason="lost">ὁ</supplied> <name type="personnel"><w lemma="ἀρτυτήρ">ἀρτυτήρ</w></name>, καὶ <w lemma="ἐνεχύραστος">ἐνεχύραστος</w> <w lemma="εἰμί"><supplied reason="lost">ἔ</supplied>σ 
+
+<lb xml:id="line_164" n="164" break="no"/> τω</w> <w lemma="αὐτός">αὐτῶι</w> <name type="authority"><w lemma="κατά"><supplied reason="lost">κ</supplied>ατὰ</w> τὸς <w lemma="νόμος">νόμος</w></name>· <w lemma="εἰς">ἐς</w> <w lemma="ὅς">ὃ</w> δέ <w lemma="κα">κα</w> <w lemma="ἐκτίνω">ἐκτεί 
+
+<lb xml:id="line_165" n="165" break="no"/> σῃ</w>, <w lemma="μή">μὴ</w> <w lemma="μετέχω">μετ<supplied reason="lost">ε</supplied>χέτω</w> τοῦ <name type="group"><w lemma="κοινός">κοινοῦ</w></name>· <w lemma="ἐπιμηνιεύω">ἐπιμ<supplied reason="lost">η</supplied>νιευσά 
+
+<lb xml:id="line_166" n="166" break="no"/> τω</w> δὲ <w lemma="κατά">κατ’</w> <w lemma="αὐτός">αὐτὸν</w> ὁ <w lemma="ἀρτυτήρ">ἀρτυτὴρ</w> καὶ <w lemma="κομίζω">κομισάσθω</w> 
+
+<lb xml:id="line_167" n="167"/> <w lemma="ἀπό">ἀπὸ</w> τᾶν <w lemma="πρόσοδος">ποθόδων</w> <w lemma="πρότερος">πρᾶτος</w>· τὸ δὲ <name type="meal"><w lemma="δεῖπνον">δεῖπνον</w></name> 
+
+<lb xml:id="line_168" n="168"/> <w lemma="γίγνομαι">γινέσθω</w> <name type="authority"><w lemma="ὡς"><supplied reason="lost">ὥ</supplied>ς</w> <w lemma="κα">κα</w> <w lemma="δοκέω">δόξει</w> τῶι <name type="group"><w lemma="κοινός">κοινῶι</w></name> καὶ <w lemma="ἀπό">ἀφ’</w> <w lemma="ὅσος">ὅ 
+
+<lb xml:id="line_169" n="169" break="no"/> σου</w> <w lemma="κα">κα</w> <w lemma="δοκέω">δό<supplied reason="lost">ξ</supplied>ει</w></name>. ὁ δὲ <name type="personnel"><w lemma="ἀρτυτήρ">ἀρτυτὴρ</w></name> <w lemma="εἰ">εἴ</w> <w lemma="κα">κα</w> <w lemma="μή">μὴ</w> <w lemma="ἐξοδιάζω">ἐξοδιά 
+
+<lb xml:id="line_170" n="170" break="no"/> ξει</w> τοῖς <name type="personnel"><w lemma="ἐπιμήνιος">ἐ<supplied reason="lost">π</supplied>ιμηνίοις</w></name> <name type="personnel"><w lemma="κατά">κατὰ</w> τὰ <w lemma="γράφω">γεγραμμένα</w></name>, ὁ 
+
+<lb xml:id="line_171" n="171"/> μὲν <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμ<supplied reason="lost">ή</supplied>νιος</w></name> <w lemma="πάντως">πάντως</w> <w lemma="δέχομαι">δεχέσθω</w> καὶ <name type="sacrifice"><w lemma="θύω">θυ 
+
+<lb xml:id="line_172" n="172" break="no"/> έτω</w></name> τὰν <w lemma="ἐπιβάλλω">ἐ<supplied reason="lost">π</supplied>ιβάλλουσαν</w> <w lemma="αὐτός">αὐτῶι</w> <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name>· ὁ δὲ 
+
+<lb xml:id="line_173" n="173"/> <name type="personnel"><w lemma="ἀρτυτήρ">ἀρτυτὴρ</w></name> <w lemma="ὅς">ὧι</w> <w lemma="κα">κα</w> <w lemma="μή">μὴ</w> <w lemma="ἐξοδιάζω">ἐξοδιάξει</w> <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμηνίωι</w></name>, <w lemma="ὀφείλω">ὀφει 
+
+<lb xml:id="line_174" n="174" break="no"/> λέτω</w> <w lemma="δραχμή">δρα<supplied reason="lost">χ</supplied>μὰς</w> <w lemma="ἑκατόν">ἑκατὸν</w> <w lemma="πεντήκοντα">πεντήκοντα</w> καὶ ἁ 
+
+<lb xml:id="line_175" n="175"/> <w lemma="πρᾶξις">πρᾶξις</w> <w lemma="εἰμί">ἔσ<supplied reason="lost">τ</supplied>ω</w> τῶι <w lemma="μή">μὴ</w> <w lemma="λαμβάνω">λαβόντι</w> <w lemma="κατά">κατὰ</w> τοῦ <name type="personnel"><w lemma="ἀρτυτήρ">ἀρτυ 
+
+<lb xml:id="line_176" n="176" break="no"/> τῆρος</w></name> <w lemma="κατά">κα<unclear>τ</unclear>’</w> <w lemma="ἐνεχυρασία"><supplied reason="lost">ἐ</supplied>νεχυρασίαν</w> <w lemma="κατά">κατὰ</w> τὸς <name type="authority"><w lemma="νόμος">νόμος</w></name>, καὶ 
+
+<lb xml:id="line_177" n="177"/> <w lemma="μή">μὴ</w> <w lemma="μετέχω">μετεχ<supplied reason="lost">έτ</supplied>ω</w> τοῦ <name type="group"><w lemma="κοινός">κοινοῦ</w></name> <w lemma="εἰς">ἐς</w> <w lemma="ὅς">ὅ</w> <w lemma="κα">κα</w> <w lemma="ἐκτίνω">ἐκτείσῃ</w>· <name type="sacrifice"><w lemma="θύω">θυ 
+
+<lb xml:id="line_178" n="178" break="no"/> έτω</w></name> δὲ ὁ <supplied reason="lost">μὲ</supplied>ν τὰν <w lemma="πρότερος">πράταν</w> <name type="authority"><w lemma="ἐπιμηνιεύω">ἐπιμηνιεύων</w></name> <w lemma="ἡμέρα">ἁμέ 
+
+<lb xml:id="line_179" n="179" break="no"/> ραν</w> ταῖς <name type="deity" key="Muses"><w lemma="Μοῦσα"><supplied reason="lost">Μο</supplied>ύσαις</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> καὶ <name type="genericOffering"><w lemma="ἱερός">ἱερά</w></name>, <name type="bakery"><w lemma="ἐλλύτης">ἐλλύτας</w></name> 
+
+<lb xml:id="line_180" n="180"/> <w lemma="ἐκ">ἐκ</w> <name type="vegetal"><w lemma="πυρός">πυρῶ<supplied reason="lost">ν</supplied></w></name> <w lemma="χοῖνιξ"><supplied reason="lost">χο</supplied>ινίκων</w> <w lemma="πέντε">πέντε</w> καὶ <name type="dairy"><w lemma="τυρός">τυροῦ</w> <w lemma="καπυρός">καπυ 
+
+<lb xml:id="line_181" n="181" break="no"/> ροῦ</w> <w lemma="στατήρ">στατῆρος</w></name>· <w lemma="παρέχω">παρεξεῖ</w> δὲ καὶ <name type="adornment"><w lemma="στέφανος">στεφά<supplied reason="lost">νο</supplied>ς</w></name> <name type="deity" key="Muses">τοῖς 
+
+<lb xml:id="line_182" n="182"/> <w lemma="θεός">θεοῖς</w></name> καὶ τὰ <w lemma="λοιπός">λοιπὰ</w> τὰ <w lemma="πρός">ποτὶ</w> τὰν <name type="sacrifice"><w lemma="θυσία">θυσί<supplied reason="lost">αν</supplied></w></name> <w lemma="πᾶς"><supplied reason="lost">π</supplied>άντα</w>· 
+
+<lb xml:id="line_183" n="183"/> <w lemma="ἀπό">ἀπὸ</w> δὲ <w lemma="οὗτος">τούτων</w> <name type="sacrifice"><w lemma="καρπόω">καρπωσεῖ</w></name> <name type="deity" key="Muses">τοῖς <w lemma="θεός">θεο<supplied reason="lost">ῖς</supplied></w></name> <supplied reason="lost">τ</supplied>ά τε <w lemma="ἐκ">ἐ 
+
+<lb xml:id="line_184" n="184" break="no"/> κ</w> τοῦ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείου</w></name> <w lemma="νομίζω">νενομισμένα</w> <w lemma="ἱερός">ἱερὰ</w> καὶ <name type="bakery"><w lemma="ἐλλύτης">ἐ<supplied reason="lost">λλύ</supplied>ταν</w></name>· ὁ 
+
+<lb xml:id="line_185" n="185"/> δὲ τὰν <w lemma="δεύτερος">δευτέραν</w> τοῖς <name type="deity" key="Hero"><w lemma="ἥρως">ἥρωσι</w></name> <name type="deity" key="Phoinix"><w lemma="Φοῖνιξ">Φοίνικ<supplied reason="lost">ι</supplied></w></name> <supplied reason="lost">κ</supplied>αὶ <name type="deity" key="Epikteta"><w lemma="Ἐπικτήτα">Ἐπι 
+
+<lb xml:id="line_186" n="186" break="no"/> κτήται</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> καὶ <name type="genericOffering"><w lemma="ἱερός">ἱερά</w></name>, <name type="bakery"><w lemma="ἐλλύτης">ἐλλύτας</w></name> <w lemma="ἐκ">ἐκ</w> <name type="vegetal"><w lemma="πυρός">π<supplied reason="lost">υ</supplied>ρῶν</w></name> <w lemma="χοῖνιξ">χοι 
+
+<lb xml:id="line_187" n="187" break="no"/> νίκων</w> <w lemma="πέντε">πέντε</w>, καὶ <name type="dairy"><w lemma="τυρός">τυροῦ</w></name> <w lemma="καπυρός">καπυροῦ</w> <w lemma="στατήρ">στ<supplied reason="lost">α</supplied>τῆρος</w>· 
+
+<lb xml:id="line_188" n="188"/> <w lemma="παρέχω">παρεξεῖ</w> δὲ καὶ <name type="adornment"><w lemma="στέφανος">στεφάνος</w></name> τοῖς <name type="deity" key="Hero"><w lemma="ἥρως">ἥρωσ<supplied reason="lost">ι</supplied></w></name> καὶ τὰ <w lemma="λοιπός">λοι 
+
+<lb xml:id="line_189" n="189" break="no"/> πα</w> τὰ <w lemma="πρός">ποτὶ</w> τὰν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> <w lemma="πᾶς">πάντα</w>, καὶ <name type="sacrifice"><w lemma="καρπόω">καρ<supplied reason="lost">π</supplied><unclear>ω</unclear>σεῖ</w></name> τά 
+
+<lb xml:id="line_190" n="190"/> τε <w lemma="ἐκ">ἐκ</w> τοῦ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείου</w></name> <w lemma="νομίζω">νομιζόμενα</w> <w lemma="ἱερός">ἱερὰ</w> κ<supplied reason="lost">α</supplied>ὶ <name type="bakery"><w lemma="ἐλλύτης">ἐλλύ 
+
+<lb xml:id="line_191" n="191" break="no"/> ταν</w></name> καὶ <name type="bakery"><w lemma="ἄρτος">ἄρτον</w></name> καὶ <name type="bakery"><w lemma="πάραξ">πάρακα</w></name> καὶ <name type="animal" key="fish"><w lemma="ὀψάριον">ὀψάρια</w></name> <w lemma="τρεῖς">τ<supplied reason="lost">ρί</supplied>α</w>· ὁ δὲ 
+
+<lb xml:id="line_192" n="192"/> τὰν <w lemma="τρίτος">τρίταν</w> <name type="sacrifice"><w lemma="θύω">θυσεῖ</w></name> τοῖς <name type="deity" key="Hero"><w lemma="ἥρως">ἥρωσι</w></name> <name type="deity" key="Kratesilochos"><w lemma="Κρατησίλοχος">Κρατησι<supplied reason="lost">λό</supplied>χωι</w></name> καὶ 
+
+<lb xml:id="line_193" n="193"/> <name type="deity" key="Andragoras"><w lemma="Ἀνδράγορας">Ἀνδραγόραι</w></name> <w lemma="κατά">κατὰ</w> τὰ <w lemma="αὐτός">αὐτὰ</w> <w lemma="κατά">καθ’</w> <w lemma="ὅς">ἃ</w> <name type="authority"><w lemma="γράφω">γέγρ<supplied reason="lost">απ</supplied>ται</w></name> <name type="sacrifice"><w lemma="θύω">θύ 
+
+<lb xml:id="line_194" n="194" break="no"/> εν</w></name> <name type="deity" key="Phoinix"><w lemma="Φοῖνιξ">Φοίνικ<supplied reason="lost">ι</supplied></w></name> καὶ <name type="deity" key="Epikteta"><w lemma="Ἐπικτήτα">Ἐπικτήται</w></name>, οἱ δὲ <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμήν<supplied reason="lost">ιοι</supplied></w></name> οἱ <name type="sacrifice"><w lemma="θύω">θύον 
+
+<lb xml:id="line_195" n="195" break="no"/> τες</w></name> τὰς <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> <w lemma="οὗτος">ταύτας</w> <w lemma="ἀποδίδωμι">ἀποδωσο<supplied reason="lost">ῦ</supplied>ντι</w> τῶι 
+
+<lb xml:id="line_196" n="196"/> <name type="group"><w lemma="κοινός">κοινῶι</w></name> τός τε <name type="bakery"><w lemma="ἐλλύτης">ἐλλύτας</w></name> <w lemma="πᾶς">πάντας</w> κ<supplied reason="lost">α</supplied>ὶ τῶν 
+
+<lb xml:id="line_197" n="197"/> <name type="portion"><w lemma="σπλάγχνον">σπλάγχνων</w></name> τὰ <w lemma="ἥμισυς">ἡμίση</w>· τὰ δὲ <w lemma="λοιπός">λοιπὰ</w> <w lemma="ἔξειμι"><supplied reason="lost">ἑ</supplied>ξοῦντι</w> 
+
+<lb xml:id="line_198" n="198"/> <w lemma="αὐτός">αὐτοί</w>· ὁ<supplied reason="omitted">ι</supplied> δὲ <name type="personnel"><w lemma="ἀρτυτήρ">ἀρτυτὴρ</w></name> <w lemma="διαιρέω">διελεῖ</w> τὰ <name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name> τ<supplied reason="lost">ο</supplied>ῖς <w lemma="πάρειμι">παροῦ 
+
+<lb xml:id="line_199" n="199" break="no"/> σι</w>· <w lemma="εἰ">εἰ</w> δέ <w lemma="κα">κα</w> <w lemma="εἰμί">ᾖ</w> <w lemma="ἐπιμηνιεία">ἐπιμηνιεία</w> <w lemma="δωρεά">δωρεάν</w>, <w lemma="πωλέω">πω<supplied reason="lost">λ</supplied>είτω</w> ὁ <name type="personnel"><w lemma="ἑπίσσοφος">ἐ 
+
+<lb xml:id="line_200" n="200" break="no"/> πίσσοφος</w></name> <w lemma="ὅστις">ὅστις</w> <name type="sacrifice"><w lemma="θύω">θυσεῖ</w></name> τὰς <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> <w lemma="οὗτος"><supplied reason="lost">τ</supplied>αύτας</w> 
+
+<lb xml:id="line_201" n="201"/> <name type="authority"><w lemma="κατά">κατὰ</w> τὰ <w lemma="γράφω">γεγραμμένα</w></name>· <w lemma="ὅσος">ὅσου</w> δέ <w lemma="κα">κα</w> <w lemma="ἀποδίδωμι">ἀπ<supplied reason="lost">ο</supplied>δῶται</w>, ὁ 
+
+<lb xml:id="line_202" n="202"/> <name type="personnel"><w lemma="ἀρτυτήρ">ἀρτυτὴρ</w></name> <w lemma="ἐξοδιάζω">ἐξοδιαζέτω</w>. κτλ. </ab>
+			</div>
+			
+<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				
+<p> In (the year of) the ephors in charge with Himertos, (in the month) of Diosthyos. (110) Since Epikteta daughter of Grinnos, with the assistance of her <foreign>kyrios</foreign> Hypereides son of Thrasyleon, husband of her daughter, and with her daughter Epiteleia consenting, has bestowed for a sacrifice to the Muses and the heroes and for the assembly of the male group of relatives (115) 3000 drachmae, and (since) for these (aims) 210 drachmae are to be taken every year from her successors so that the assembly will take place for three days in the Mouseion, which she herself (120) has erected for her husband Phoinix and for herself and for her sons Kratesilochos and Andragoras, and (since) the one who serves as <foreign>epimenios</foreign> on the first day, is to sacrifice to the Muses, the one on the second day to the heroes Phoinix and Epikteta, the one (125) on the third day to the heroes Kratesilochos and Andragoras: with good fortune, may it be decided to accept her offer and to hold the assembly after the first anointment, and for everyone to propose a toast after the banquet, on the occasion of the (130) first cup, on behalf of the Muses and Phoinix and Epikteta and Kratesilochos and Andragoras. The assembly of the male group of relatives shall be held every year in the month of Delphinios in the Mouseion for three days, and all shall serve (135) once in order of seniority at their own expense, and likewise shall their descendants, who join the association when they leave the <foreign>ephebia</foreign>, shall serve their first duty as <foreign>epimenios</foreign> at their own expense. Those who serve as <foreign>epimenioi</foreign> at their own expense (140) shall provide excellent wine sufficient for hospitality lasting three rounds, crowns, music, perfumed oil. If anyone will not serve as <foreign>epimenios</foreign> according to the written rules, he shall pay 100 drachmae to the association and payment shall be exacted from him by the administrator in charge (145) according to the laws, and he shall not have part in the association until he has paid. During these years, the administrator in charge, after having exacted payment of the income due to the association, shall deliver (the money) to the assembly and it shall be lent out by the (150) elected lenders against adequate mortgages on land, except the money set aside for the sacrifices to the Muses and the heroes according to the testament. They shall set aside the money for the assembly too, not more than 15 drachmae. (155) But if there are no <foreign>epimenioi</foreign> any longer serving at their own expense, all members present will assume the charge in turn in order of seniority, as it has been prescribed for those who assumed the charge at their own expense, and they will receive from the administrator 50 drachmae (160) ten days before the assembly takes place. If he shall not assume the charge although he has received (the money), he shall pay 150 drachmae, and the administrator shall make him pay and he shall be seizable for debt by him according to the laws; until he has paid, (165) he shall have no part in the association. The administrator shall (in this case) serve as <foreign>epimenios</foreign> at his own expense and shall be the first to receive payment from the income. The banquet shall be held as the association decided and from as much (money) as it decides. If the administrator does not pay (170) to the <foreign>epimenioi</foreign> according to what is written, the <foreign>epimenios</foreign> shall assume the charge all the same and shall offer the sacrifice he is in charge of, whilst the administrator, who has not paid to the <foreign>epimenios</foreign>, shall owe 150 drachmae, and (175) the man who has not received (the money) shall have the right to exact payment by distraint from the administrator according to the laws, and the latter shall have no part in the association until he has paid. The one who serves on the first day as <foreign>epimenios</foreign> shall sacrifice to the Muses a sacrificial animal and sacred offerings, cakes (180) made from five <foreign>choinikes</foreign> of wheat and one stater of dried cheese. He shall also provide crowns for the deities and all the other things for the sacrifice. Of these he shall burn for the deities the sacred parts of the animal that are customary and one cake. The (185) one who serves on the second day shall sacrifice to the heroes Phoenix and a sacrificial animal and sacred offerings, cakes made from five <foreign>choinikes</foreign> of wheat and one stater of dried cheese. He shall also provide crowns for the heroes and all the other things for the sacrifice, and he shall burn the (190) sacred parts of the sacrificial animal that are customary and one cake and a loaf of bread and a cake-bread and three small fishes. The one (who serves) on the third day, shall sacrifice to the heroes Kratesilochos and Andragoras following the same rules that are written down for sacrificing to Phoinix and Epikteta. The <foreign>epimenioi</foreign> who are celebrating (195) these sacrifices shall deliver to the association all the cakes and half of the entrails, while they shall keep the rest (of the entrails) for themselves; the administrator shall distribute the sacred offerings between those who are present. If the <foreign>epimenia</foreign> is at one's own expense, (200) the supervisor shall farm out (the supply for) these sacrifices, to who(m)ever will celebrate them according to what is written, and the administrator shall pay the price for which it is farmed out.</p>
+
+<p> (translation adapted from A. <bibl type="author_date" n="Wittenburg 1990">Wittenburg 1990</bibl>)</p>
+</div> 
+<div type="translation" xml:lang="fre">
+<head>Traduction</head>
+
+<p>(L'année) des éphores qui sont en fonction avec Himertos, (au mois) de Diosthyos. (110) Attendu qu'Epikteta fille de Grinnos, assistée par son <foreign>kyrios</foreign>, le mari de sa fille Hypereides fils de Thrasyleon, et avec l'assentiment de sa fille Epiteleia, a donné par testament pour un sacrifice aux Muses et aux héros, et pour la réunion de la communauté des hommes de la parenté (115) 3000 drachmes, et qu’à cet effet, il faut aussi recevoir chaque année de ses successeurs 210 drachmes, afin que la réunion se tienne pendant trois jours dans le Mouseion qu'elle a elle-même (120) fait ériger pour son mari Phoinix, pour elle-même et ses deux fils Kratesilochos et Andragoras, et que (à cet effet) l'officiant de la première journée doit offrir le sacrifice aux Muses, celui de la deuxième journée aux héros Phoinix et Epikteta, celui (125) de la troisième journée aux héros Kratesilochos et Andragoras : à la bonne fortune, qu’il plaise d'accepter son offre et de tenir l'assemblée après la première onction et de boire tous, après le banquet, et à la (130) première coupe, au nom des Muses et de Phoinix et Epikteta, et de Kratesilochos et Andragoras. L'assemblée de la communauté des hommes de la parenté aura lieu au mois de Delphinios, dans le Mouseion, chaque année pendant trois jours, et tous offriront leur service (135) une fois, par rang d'âge, gratuitement. Pareillement, leurs descendants entrant dans l'association après leur sortie de l'éphébie, offriront leur premier service d’<foreign>epimenios</foreign> gratuitement. Ceux qui officieront comme <foreign>epimenioi</foreign> gratuitement (140) fourniront du vin d’excellente qualité en quantité suffisante, en sorte qu'on puisse boire jusqu'à trois reprises, et des couronnes, de la musique et de l'huile parfumée. Si quelqu'un ne remplit pas son office d’<foreign>epimenios</foreign>, suivant les prescriptions, il payera à l'association 100 drachmes et il sera contraint au payement par l'administrateur en exercice, (145) selon les lois, et il ne prendra plus part à l'association jusqu'à ce qu'il ait payé. Pendant ces années, l'administrateur en exercice, ayant recouvré les revenus échus au profit de l'association, les remet à l'assemblée et ils seront prêtés, par les commissaires des prêts (150) élus, sur des hypothèques de terres de valeur suffisante, sauf le prélèvement fait pour les sacrifices aux Muses et aux héros, d'après le testament. On prélèvera aussi les frais d'assemblée à concurrence de 15 drachmes au plus. (155) S'il n’y a plus personne qui doive officier gratuitement comme <foreign>epimenios</foreign>, tous les membres prendront la charge chacun à leur tour et par rang d'âge, aux conditions prescrites pour ceux qui la prennent gratuitement, et ils recevront 50 drachmes de l'administrateur, (160) dix jours avant le jour où doit avoir lieu la réunion. Si, après avoir reçu l'argent, il ne remplit pas le service, il payera 150 drachmes et l'administrateur le contraindra au payement et il sera assujetti à saisie par celui-ci selon les lois. Jusqu'à ce qu'il ait tout payé, (165) il ne prendra plus part à l'association. L'administrateur remplira la fonction d’<foreign>epimenios</foreign> en avançant les frais et les recouvrera par privilège sur les revenus. Le banquet aura lieu comme le décidera l'association et pour la somme qu'elle décidera. Si l'administrateur ne fournit pas de fonds, (170) suivant ce qui est écrit, aux <foreign>epimenioi</foreign>, l’<foreign>epimenios</foreign> n'en prendra pas moins la charge et offrira le sacrifice qui lui incombe, mais l'administrateur devra 150 drachmes à l'<foreign>epimenios</foreign> à qui il n'aura pas fourni de fonds, et (175) celui qui n'aura pas reçu aura le droit de recouvrer la somme sur l'administrateur, par voie de saisie, selon les lois, et (l'administrateur) ne prendra plus part à l'association jusqu'à ce qu'il ait tout payé. Celui qui officiera le premier jour comme <foreign>epimenios</foreign> offrira aux Muses un animal sacrificiel et des offrandes, des galettes (180) faites avec cinq chénices de froment et avec du fromage sec d'un statère. Il fournira en outre des couronnes pour les divinités et toutes les autres choses nécessaires au sacrifice. De cela, il brûlera pour les déesses les parts sacrées de l'animal sacrificiel qui sont coutumières, et une galette. Celui (185) qui officiera le second jour offrira aux héros Phoinix et Epikteta un animal sacrificiel et des offrandes, des galettes faites avec cinq chénices de froment et avec du fromage sec d'un statère. Il fournira en outre des couronnes pour les héros et toutes les autres choses nécessaires au sacrifice, et il brûlera les (190) parts sacrées de l'animal sacrificiel qui sont coutumières et une galette, un pain, un gâteau et trois petits poissons. Celui qui officiera le troisième jour offrira aux héros Kratesilochos et Andragoras, comme il a été prescrit de sacrifier à Phoinix et Epikteta. Lorsque les <foreign>epimenioi</foreign> offriront (195) ces sacrifices, ils remettront à l'association toutes les galettes et la moitié des viscères, mais garderont le reste (des viscères) pour eux. L'administrateur fera la distribution des offrandes entre les personnes présentes. Si les <foreign>epimenioi</foreign> agissent gratuitement, (200) le superviseur mettra en adjudication (la fourniture pour) ces sacrifices, qui que ce soit qui les offrira selon ce qui est écrit; l'administrateur fournira le montant de l'adjudication.</p>
+
+<p> (traduction adaptée d'A. <bibl type="author_date" n="Wittenburg 1990">Wittenburg 1990</bibl>)</p> 
+</div> 
+<div type="commentary"> 
+<head>Commentary</head>
+
+<p>This text is widely known as “the testament of Epikteta on Thera” and runs to a total of 288 lines, inscribed in eight columns on four contiguous marble panels which likely formed the facing part of a base for three statues (see above on Support, and also Wittenburg, p. 11-13, for a hypothetical reconstruction of the monument). The dossier consists of two texts, both dating to the final decades of the third century BC (see above on Date). The exact span of time between both texts is unclear. Each of them is headed by a dating formula common in Thera, but citing different groups of ephors of the island (respectively, lines 1 and 109). The first text is older but both seem to have been inscribed by the same hand and at the same moment, probably around the time of the second text. The first text (not reproduced here) is a direct citation of the “testament” of Epikteta (on the status of this text, see Stavrianopoulou, p. 152-155). There, she explains that her husband, Phoinix, began to build a Mouseion gathering in it reliefs, statues and monuments of himself and of their son Kratesilochos, already deceased. Phoinix asked his wife to complete the construction of the Mouseion after his own death, a wish also expressed by their second son, Andragoras, when he passed away two years later. Epikteta, having survived her husband and her sons, completed the Mouseion and prepared a testament providing funding for the cult of the Muses, her heroised husband and herself, as well as for her heroised sons (line 43: τὸ τέμενος τῶν ἡρώιων). The sole heir, her daughter Epiteleia, still alive at the time of the second text, has given her consent to the bequest (lines 112-113), while her husband serves as the <foreign>kyrios</foreign> of Epikteta. The family which inherits is thereby constituted as a cultic community whose priest will be the son of Epiteleia, and then her oldest male descendant (lines 57-61). “Monthly officials” (ἐπιμήνιοι) are to be designated in order of seniority among the members of the association for each of the three consecutive days of sacrifices performed annually and the members of this association are listed (lines 81-108; the 19th to the 21st of the month of Delphinios, see also lines 66-69). The average number of people involved in the annual familial gathering might have been 70 to 80.</p>
+
+<p>The second text (partially presented here) adopts the appearance of a decree of the familial association, whose dating formula is followed by the formula ἐπειδή and a preamble in line 110, and whose enactments start in line 126 with the official formula ἀγαθᾶι τύχαι, δεδόχθαι. At the end of the text (lines 272-288, not reprised here), prescriptions concerning its inscribing and monumental presentation are given. The use of the perfect tense in mentioning the actions taken by Epikteta (line 113: ἐπιδέδωκε, etc.) seems to attest to the fact that the bequest has entered into effect after her death. The capital is defined, as well as the amount of money available each year for the three days of sacrifice in the Mouseion. The recipients of the sacrifices are also determined for each day (lines 113-126), as well as the toast to be held after the annual banquet (lines 127-131). The three <foreign>epimenioi</foreign> designated by the association are responsible on their own funds for the provision of specific complements to the offerings and the dinner (wine, crowns, musical entertainment, perfume; see below at lines 139-146). Since one officer serves for each day of celebration in the month Delphinios (lines 134-141), the <foreign>epimenioi</foreign> are thus in charge of the sacrifices offered to the Muses and to the heroised members of the family (lines 178-198). A substantial part of the text addresses the financial responsibilities of this cult-personnel (lines 142-181). The <foreign>epimenioi</foreign> are under the supervision of the <foreign>artuter</foreign>, an administrator whose exact profile is unknown, but who appears to have had a wide scope of action over the group, being both responsible for the essential financial matters of the group (see e.g. below at lines 139-146), as well as for distributions of sacrificial portions (cf. lines 198-199). A further annually appointed official is the <foreign>epissophos</foreign>, who fulfilled various other administrative duties for the group, such as the farming out of contracts and record-keeping (lines 199ff.).</p>
+
+<p>For other familial groups of this type in the present Collection, see <ref target="CGRN_96">CGRN 96</ref> (Kos) and <ref target="CGRN_104">CGRN 104</ref> (Halicarnassus), with a comparison between the three made by Carbon - Pirenne-Delforge; cp. also <ref target="CGRN_106">CGRN 106</ref>, <ref target="CGRN_107">CGRN 107</ref> (both from Kalaureia, 3rd century BC), <bibl type="abbr" n="IG IV².2">IG IV².2</bibl> 1236 (Poros, end of 3rd century BC), and <bibl type="abbr" n="IG XII.7">IG XII.7</bibl> 515 (Amorgos, end of 2nd century BC). See Parker, who compares a private funerary foundation from Lycia to these other texts.</p>
+
+<p>Lines 114-115 (and 131-132): The familial association constituted by Epikteta is called here ἀνδρεῖον τῶν συγγενῶν, “the men’s group” or “male group of the relatives” (various forms are present in the previous text: e.g. lines 22-23, 30-31, 40-41, 74: κοινὸν τοῦ ἀνδρείου τῶν συγγενῶν; line 56: κοινὸν τῶν συγγενῶν; lines 114-115, 131-132), here represented in their annual meeting (συναγωγά, cf. lines 118-119, 128, 132ff.; cp. also the frequent synonym σύλλογος). However, the fact that Epiteleia, the surviving daughter of Epikteta and Phoinix, has to give her consent to the pledge, as well as the mention of the participation of wives, heiresses (<foreign>epikleroi</foreign>) and children, male and female, in the group (lines 94-97) show that the word ἀνδρεῖον (or ἀνδρεῖος, line 61) does not imply the complete exclusion of women but rather refers to the male side of the family (cf. Keil, p. 295-296; Stavrianopoulou, p. 196 n. 107; cp. Wittenburg 1990, p. 98-99, 101: "donne ... non potevano essere considerate membri dell’associazione a pieno diritto"). It can be reasonably hypothesised that this male side of the family formed the primary decision-making and commensal branch of the family at the main assemblies (cp. at <ref target="CGRN_104">CGRN 104</ref>, Halicarnassus, lines 40-42, where only the men seem to dine and assemble for this purpose, as well as accounting; women participate to the extent of being members of the group, participants in the cult and receiving portions of meat for private consumption).</p>
+
+<p>Lines 114-118: The bequest is made for the sacrifice to the Muses and the heroes (on which see below), as well as for the association itself, who receives the interest of the capital (an inalienable mortgage). The sum available is 210 drachmae on a total of 3000 drachmae. Accordingly, the rate of interest in this period on the island of Thera was estimated at 7% (Wittenburg, p. 75-76, 115). See further lines 146-153 for details on the lending of the capital against landed mortgages, thereby no doubt recouping the cost of sacrifices on an annual basis, through interest accrued. </p>
+
+<p>Lines 118-126: The group will come together for three days a year to honour the Muses and the new 'heroes', and hold a banquet. During the celebrations, sacrifices should be made to the Muses on the first day, to Phoenix and Epikteta on the second day, and to their two sons Kratesilochos and Andragoras on the third day. The generic ‘heroes’ mentioned above, at line 114, are therefore the deceased members of the family, one day for each generation, after the first day reserved to the goddesses whose sanctuary forms the place of gathering. The choice made by Phoinix and Epikteta to build a Mouseion might have been motivated by the premature loss of their first son, following the connection between the Muses and the education of young people (see also Boyancé and Carbon - Pirenne-Delforge, p. 97). It could also be related to the passing down of memory to future generations, since the Muses, as daughters of Mnemosyne, are the guardians of remembrance. Regarding heroisation, the founding of this type of cult in a family is a development in post-Classical Greece, occurring in parallel with the public heroisation of prominent benefactors (see here <ref target="CGRN_198">CGRN 198</ref>, Philopoimen at Megalopolis) and the designation of the dead as ‘hero’ in epitaphs (see Graf and Hughes for contextualisation and other evidence). Such familial foundations (see above for parallels) have been interpreted in several directions: the weakening of <foreign>polis</foreign> ideology and of the political weight of wealthy families, increasing individualism, the need for familial self-preservation when male descendants are lacking (overview in Campanelli, p. 145-147, who emphasises demographic factors and socioeconomic constraints, which remains rather vague; see also the discussion in Wittenburg, p. 67-70, and Stavrianopoulou, p. 299-302). The phenomenon is complex and difficult to reduce to any of these supposed ‘trends’ of the Hellenistic period.</p>
+
+<p>Line 128-131: These clauses provide further details concerning the beginning of the gathering (συναγωγά) of the group. The “first anointment” should properly correspond to honours performed on the statues of the Muses, who are honored on the first day (see immediately above). It is likely that this “first anointment” of the statues involved the μύρον, perfumed oil provided by the <foreign>epimenioi</foreign> (see immediately below), as well as the crowning of the statues themselves (see at lines 181ff.). This marks the official inauguration of the gathering. Later during the day, after the sacrifices, a feast and a symposion took place. In the latter context, the verb ἐπιχέω (with genitive) refers to toasting on behalf of someone—in this case, the Muses and the heroes—and not to libations (Boyancé, p. 340-344).</p>
+
+<p>Lines 139-146: The wine, crowns, music and perfumed oil provided individually and consecutively by the three <foreign>epimenioi</foreign>, at their own expense, are perhaps to be used for different purposes: on the one hand, these were sacrificial complements (see at lines 177-194, where the <foreign>epimenioi</foreign> provide “all the rest” for the sacrifices); on the other, necessities for the post-prandial symposion. In the former category, we find the perfumed oil that was most likely used to anoint the different statues that formed the object of cult on each day (see above), as well as the crowns for adorning each cultic statue and perhaps the music for the sacrificial rituals; in the latter, certainly the wine sufficient for three rounds of hospitality, and also the music and perhaps the crowns for participants. Note that these rituals—anointing, sacrifice, dinner and symposion—, partly funded by the testament and partly by the <foreign>epimenioi</foreign> themselves, therefore took place on each day of the gathering (see above and at lines 118-119: ὥστε γίνεσθαι τὰν συναγωγὰν ἐπ’ ἁμέρας τρεῖς...). The <foreign>artuter</foreign> (see also lines 148-202) has the authority to sanction any failure of the <foreign>epimenioi</foreign> to fulfil their obligations: he is probably a sort of “president” of the association (on these officials, see also Wittenburg, p. 103-114). </p>
+
+<p>Line 145: The expression κατὰ τὸς νόμος occurs three times in the text (here and in lines 164 and 176). Contrary to the formula κατὰ τὰ γεγραμμένα, which refers to the text itself and its prescriptions (lines 142, 170, 202), the <foreign>nomoi</foreign> here point to an external reference, which probably corresponds to legal dispositions of the <foreign>polis</foreign> in matter of debt collection and recovery of fines (in lines 164 and 176, laws of Thera concerning loans and security).</p>
+
+<p>Lines 177-194: The <foreign>epimenioi</foreign> are here mentioned in both organisational and ritual capacities, even though the priest mentioned in the first part of the inscription—no longer alluded to in this second text—would have had the primary responsibility for performing the sacrifices. The <foreign>epimenioi</foreign> were expected to assist the priest in his duties, notably in the provision of sacrificial animals and other supplies (see earlier at lines 66-67, where the priest is in charge of appointing the <foreign>epimenioi</foreign> prior to the sacrifices, and also above at lines 139-146; cf. also at <ref target="CGRN_104">CGRN 104</ref>, Halicarnassus, lines 24-33, where the <foreign>epimenioi</foreign> either assist the priest or largely take over the supply of the sacrifices in case of a default by this individual). The sacrifices include for the Muses an unspecified animal (ἱερεῖον), some complementary offerings (ἱερά), cakes and cheese. Crowns are to be furnished for the (statues of the) goddesses and the <foreign>epimenios</foreign> of the first day must provide all these things and “all the rest” which is necessary for sacrificing. The “divine parts” collected from the animal and to be burnt are not specified but implied behind the generic formula ἐκ τοῦ ἱερείου νομιζόμενα ἱερά (cp. <ref target="CGRN_75">CGRN 75</ref>, Oropos, lines 25-26, and perhaps <ref target="CGRN_222">CGRN 222</ref>, Andania, lines 95, with commentary). These are the customary parts of a θυσία, whatever the precise sacrificial variant may have been in this case (femurs? the tail?). One of the cakes named ἐλλύτης must be added to the part burnt for the Muses (for this type of cake, cf. Hsch. s.v.). On the second day, the sacrifice to Phoinix and Epikteta also involves a generic animal and the same complementary offerings, but the burnt part on the altar exceeds the “animal part considered as sacred” and one ἐλλύτης: one must also add some bread (ἄρτον), another type of cake (πάραξ or βάραξ, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.) and three little fishes (ὀψάρια, cf. here <ref target="CGRN_199">CGRN 199</ref>, Delos, line 15, with commentary, and esp. <ref target="CGRN_96">CGRN 96</ref>, lines 42 and 62, for the ἀποπυρίς or “fish-fry” in the heroic cult of Heracles Diomedonteios on Kos). Exactly the same sacrificial ritual is to be held on the third day for the other heroes, the two deceased sons of the family. This means that the three sacrificial animals slaughtered during the three-days meeting are handled exactly in the same way for the goddesses and for the heroes. The difference is the slight augmentation of the complementary offerings to be burnt for the latter. If specific handlings in the ritual killing of the animals were implied for both categories of recipients, they are left unsaid. On <foreign>thusia</foreign> for gods, as well as for heroes, see Ekroth.</p>
+
+<p>Lines 183 and 189: The verb καρπόω refers to the complete burning of the part offered to the recipient of the sacrifice, whoever he is. See also here <ref target="CGRN_86">CGRN 86</ref> A (Kos), lines 33 and 35, and <ref target="CGRN_148">CGRN 148</ref> (Kos), line 59. Since Kos and Thera are both Dorian islands, we perhaps encounter an epichoric linguistic habit here (but contrast <bibl type="abbr" n="LSCG">LSCG</bibl> 52, line 5, from Athens, 1st cent. AD). The verb can be considered as a synonym of κατακαίω or, even better, καθαγίζω/καταγίζω; for the latter, see here <ref target="CGRN_13">CGRN 13</ref> (Selinous), lines A11-12, with commentary.</p>
+
+<p>Lines 195-200: As usual in a sacrificial process, the regulation also organises the distribution of parts among the officials and the other participants. If we take these lines at face value, the community receives half of the entrails of the three sacrificial animals and all the remaining cakes, while the <foreign>epimenioi</foreign> receive all the rest, that is to say the remaining parts of the animals, a half of the entrails, and perhaps also the dry cheese. Following this interpretation means that the <foreign>artuter</foreign>, as president of the association and in charge of the distribution among the community, will only give one piece of bread with a very small part of entrails to each of the participants. Even if priestly prerogatives and honorary portions often included the best and most meaty parts of sacrificial animals, the balance between the parts available in the present case would be completely abnormal if the officials were allowed to keep the whole amount of meat taken from any animal. Therefore, one can suspect that the “rest” to be kept by the <foreign>epimenioi</foreign> is the second half of the entrails (on a part of the <foreign>splanchna</foreign> given as prerogative to the cult-personnel, see here, e.g., <ref target="CGRN_28">CGRN 28</ref>, Thasos, line 8, <ref target="CGRN_42">CGRN 42</ref>, Iasos, line 3, <ref target="http://cgrn.ulg.ac.be/CGRN_104/">CGRN 104</ref>, Halikarnassos, line 39, <ref target="http://cgrn.ulg.ac.be/CGRN_118/">CGRN 118</ref>, Halikarnassos, line 14, and <ref target="http://cgrn.ulg.ac.be/CGRN_119/">CGRN 119</ref>, Theangela, line 9-10). In this view, the <foreign>hiera</foreign> which the <foreign>artuter</foreign> to the members of the group of male relatives are therefore the λοιπά κρέα from the animals. Even if this is correct, the phrasing of the text is awkward and the meaning remains ambiguous (for some discussion, see Carbon - Pirenne-Delforge, p. 92 n. 91).</p>
+
+			</div>
+		</body>
+	</text>
+</TEI>

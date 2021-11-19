@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_77" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 77</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> concerning Artemis at Piraeus</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt> <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support> 
+                            <p><rs type="objectType" key="block">Block</rs> of Pentelic marble, broken on the lower part.</p>
+                            <p><dimensions>
+                                <height unit="cm">10</height>
+                                <width unit="cm">14</width>
+                                <depth unit="cm">5</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>First two lines stoichedon. </p>
+                            <p>Letters: <height unit="cm">1.1</height>.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0375" notAfter="-0325">mid-4th century BC</origDate></p>
+                        <p><desc>Justification: lettering and layout (Kirchner).</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Piraeus" n="Attica"><ref target="http://pleiades.stoa.org/places/580062" type="external">Piraeus</ref></placeName>. Now in the Epigraphical Museum in Athens (inv. no. 8828).</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 30-06-2014 by S. Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                
+                <p> Edition here based on Kirchner <bibl type="abbr" n="IG II²">IG II²</bibl> 4970. See now Curbera <bibl type="abbr" n="IG  II³">IG II³</bibl> 4, 1775.</p>
+                <p> Other edition:
+                    Koehler <bibl type="abbr" n="IG II">IG II</bibl> 1661.</p>
+                <p> Cf. also:
+                    Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 20; 
+                    Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 23.
+                </p> 
+                
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    
+                    <lb xml:id="line_1" n="1"/> <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδος</w></name>·
+                    <lb xml:id="line_2" n="2"/> <name type="epithet"><name type="personnel"><w lemma="ἀκόλουθος">Ἀκολούθοι</w></name></name>
+                    <lb xml:id="line_3" n="3"/> <name type="bakery"><w lemma="μονόμφαλος">μονόμφαλα</w></name>
+                    <lb xml:id="line_4" n="4"/> <num value="3">ΙΙΙ</num>
+                    <lb xml:id="line_5" n="5"/> <gap reason="lost" quantity="3" unit="character"/>οι <pc>﹕</pc> <name type="bakery"><w lemma="μονόμφαλος">μονό  
+                        <lb xml:id="line_6" n="6" break="no"/> <supplied reason="lost">μφα</supplied>λα</w></name> <pc>﹕</pc> <num value="3">ΙΙΙ</num>
+                    <lb xml:id="line_7" n="7"/><gap reason="lost" extent="unknown" unit="line"/>
+                </ab>	
+                
+                             
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    (Altar) of Artemis. To the Acolyte. Cakes with one knob: 3. To [...]. Cakes with one knob: 3. 
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>
+                    (Autel) d'Artémis. À l'Acolyte. Gâteaux à une seule bosse : 3. À [...]. Gâteaux à une seule bosse : 3.
+                </p>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p>This fourth-century text, found at Piraeus, is part of a group of mostly short inscriptions (cf. e.g. <ref target="CGRN_53">CGRN 53</ref> and <ref target="CGRN_54">CGRN 54</ref>) found in Piraeus and in or near the city Asklepieion of Athens, prescribing the (preliminary) offering of cakes to various divinities.</p> 
+                <p>Line 1: Ἀρτέμιδος. This inscription starts with the name of the god in the genitive (like <ref target="CGRN_72">CGRN 72</ref> (perhaps) and <ref target="CGRN_73">CGRN 73</ref> ), indicating that the altar is dedicated to the divinity in question or that this is the place of the cult of the god in question.</p>
+                <p>Line 2: Ἀκολούθοι. It seems that we should interpret the form as an epithet and the 'Helper' is the recipient of the offering, it is unclear which deity is meant here. The term is never attested as an epithet. Alternatively, perhaps the ἀκόλουθος is a member of the cult personnel and the inscription describes his perquisites. For a parallel in which the particle ὁ ἀκολουθῶν is an official of the cult, cf. <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 15-16.</p>
+                <p>Line 3: μονόμφαλα sc. πόπανα refer to cakes with a single knob or boss. They are attested in <ref target="CGRN_134">CGRN 134</ref> (Heracles), and on Samos <ref target="CGRN_87">CGRN 87</ref>, line 6, a text where it is stated that one should prepare μονόμφαλα for Kourotrophos and Hermes as well as other cakes and honey-combs.</p>
+                <p>Line 5: [...]οι. A further recipient of cakes is missing.</p>
+               
+            </div>
+        </body>
+    </text>
+</TEI>

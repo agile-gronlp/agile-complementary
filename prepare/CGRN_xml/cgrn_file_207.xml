@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_207" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 207</idno>: Fragment of a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> concerning tariffs in the cult of Apollo at Old Knidos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Corner fragment of a <rs type="objectType">block</rs> of gray-blue marble. Preserved is only the left upper corner of the block, with segments of the top and
+the back of the block. Nollé deduces from the appearance of the block that only ca. 3 letters are missing to the left in lines
+4-5, a bit more in other lines.</p>
+			<p><dimensions>
+					<height unit="cm">25</height>
+					<width unit="cm">32</width>
+					<depth unit="cm">29.5</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Nollé (p. 61 n. 13) notes the presence of apices, indicating perhaps a late date. However, the letters present forms which could readily be attributed to the mid-Hellenistic
+period: <foreign>pi</foreign> with a very short right hasta; <foreign>omicron</foreign> generally (though not always) smaller than the other letters; <foreign>sigma</foreign> is fairly rectangular, but the bars of <foreign>mu</foreign> remain diagonal. There is a striking presence of the tricolon interpuncts in line 3, typically a feature of
+Archaic and Classical inscriptions. Additionally, the text contains a few persistent Doric forms, viz. possibly the apparent lack of aspiration for the word ἱερεῖον in line 3, as well as the participle from the verb δήλομαι in line 6.</p>
+<p>Letters: <height unit="cm">1.5-1.8</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0200" notAfter="-0100">ca. 200-100 BC</origDate></p>
+			<p><desc>Justification: Nollé dates the inscription to ca. 150-100 BC, on the basis of the presence of apices; we prefer a wider date in the mid-Hellenistic period, on the basis of the lettering and other features of style and dialect (see above on Layout), without even excluding a somewhat earlier date (Carbon).</desc></p>
+		</origin>
+		<provenance><p>Found at the temple of Apollo east of <placeName type="ancientFindspot" key="Knidos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599575" type="external">Old Knidos</ref></placeName> , in the area of the <foreign>pronaos</foreign> of the Doric temple at the site (Emecik, but NB: the Pleiades link refers to New Knidos, the site of Tekir, at the tip of the Datça peninsula, instead of the site of Burgaz/Old Knidos, near the middle of the south-coast of the peninsula). Now in the Museum of Marmaris (inv. no. 2001/235 [A]).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-04-2016 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Nollé in <bibl type="author_date" n="Berges 2006">Berges 2006</bibl>: 60-61 no. 5, with ph. pl. 20.2. However, we present a much more minimally restored state of the text; see also below, Commentary, for further textual comments.</p>
+					<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 56, 1200.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Bresson 1999">Bresson 1999</bibl>; <bibl type="author_date" n="Lupu 2003b">Lupu 2003b</bibl>: 335-339.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    							
+	    					
+<lb xml:id="line_1" n="1"/><name type="sacrifice"><name type="person"><w lemma="θύω"><supplied reason="lost">θύοντας</supplied></w></name></name> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶ<unclear>ι</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    						    					
+<lb xml:id="line_2" n="2"/><gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπολλώνι</w></name> ὑπ<gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὰς (?)</supplied> <name type="genericOffering"><w lemma="ἀπαρχή"><supplied reason="lost">ἀπ</supplied>
+	    					    					
+<lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">αρχά</supplied>ς</w></name> (?) <pc>⋮</pc> <w lemma="ἀπό">ἀπὸ</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἰερείου</w></name> <w lemma="ἕκαστος">ἑκ<unclear>ά</unclear>στου</w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τοῦ</supplied> <supplied reason="lost">δὲ</supplied>
+	    					
+<lb xml:id="line_4" n="4"/><name type="animal" key="sheep"><name type="age"><w lemma="ἄρνειος"><supplied reason="lost">ἀρν</supplied>ειοῦ</w></name></name> (?) <w lemma="ὀβολός">ὀβολὸν</w>, τοῦ δὲ <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_5" n="5"/><gap reason="lost" quantity="3" unit="character"/><orig>ς</orig>, <name type="animal" key="ox"><w lemma="βοῦς">βοὸς</w></name> δὲ <w lemma="δραχμή">δραχμα</w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_6" n="6"/><gap reason="lost" quantity="5" unit="character"/> τῶι <name type="person"><w lemma="δήλομαι">δηλομένω<supplied reason="lost">ι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_7" n="7"/><gap reason="lost" quantity="5" unit="character"/><unclear>σ</unclear>αι. <space quantity="1" unit="line"/>
+	    				
+</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					
+				[Those sacrificing] in the sanctuary [...] to Apollo [... (as?) first-offerings (?)]: from each sacrificial animal [... for a] lamb (?),
+an obol; for a [...], for an ox, a (?) drachma [...] to the one who wishes [...].		
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+				[Ceux qui sacrifient] dans le sanctuaire [...] à Apollon [... (comme ?) prémices (?)] : de chaque animal sacrificiel [... pour un] agneau (?), une obole; pour un [...], pour un bovin, une (?) drachme [...] à celui qui le veut [...].
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+												
+						
+<p>Given its findspot at Old Knidos (see Provenance), our inscription is likely to have related to sacrificial practice in the cult-site of Apollo at Emecik, in the eastern territory of Burgaz/Old Knidos (see Berges, p. 24-29 for a summary; 35ff. for the finds). The temple there, constructed already in the late Archaic period (most of the finds come from fills of the sixth century BC or earlier) but still in use during the Roman period, was clearly dedicated to Apollo Karneios, as is made clear by two other inscriptions containing dedications to the god (nos. 6 and 7 in Nollé apud Berges). It would seem that by the late fifth or early fourth century BC, the site of Knidos was moved from its Archaic location at the site of modern Burgaz in the middle of the peninsula, to its westernmost extremity, the better known site of Knidos at modern Tekir (for a synopsis, see Berges, p. 30-34). Though this remains to some degree controversial (see in particular Bresson), at any rate, it is clear from the ongoing cultic activity at the sanctuary of Apollo Karneios at Emecik that the site at Burgaz was not completely abandoned (at the same time, the cult of Apollo Karneios is also attested in New Knidos/Tekir: cf. <bibl type="abbr" n="I.Knidos">I.Knidos</bibl> 164-165 and 701). For further discussion of the cult of Apollo Karneios, cf. also here the commentary to <ref target="CGRN_47">CGRN 47</ref> (Thera), <ref target="CGRN_83">CGRN 83</ref> (Miletupolis), line 11, and <ref target="CGRN_222">CGRN 222</ref> (Andania), <foreign>passim</foreign>. </p>
+						
+<p>Since the text, though fragmentary to the left and right, otherwise appears to be complete (see above on Support; cf. the discussion in Nollé), we may reasonably conclude that it was a short sacrificial regulation, and one principally concerning tariffs. For other regulations in the present Collection containing lists of sacrificial tariffs, see  e.g. <ref target="CGRN_64">CGRN 64</ref> (Epidauros); <ref target="CGRN_70">CGRN 70</ref> (Oropos), <ref target="CGRN_80">CGRN 80</ref> (Erythrai), and <ref target="http://cgrn.ulg.ac.be/CGRN_182/">CGRN 182</ref> (Mytilene). A sacrificial tariff (on which cf. Lupu) is a fee that worshippers should pay for sacrificing different animals; sometimes the payment was formally part of the priest’s prerogative, in other cases, this money should be put into a money-box which contributed to the account of the god. The animals in lists of sacrificial tariffs usually appear in the genitive.</p>
+						
+<p>Until the punctuation at the beginning of line 3, lines 1-3 appear to form a separate section, and thus to introduce the considerations at hand. This heading will have mentioned individuals making a sacrifice in the sanctuary, in honour of Apollo, along with perhaps other considerations (cf. our discussion at lines 2-3). The main section of the inscription (lines 3-5) then concerns the tariffs. The final clause of the regulation may have confirmed that anyone who wanted to sacrifice may do so, or alternatively have been some sort of enforcement clause (see below at lines 6-7).</p>
+							
+<p>Lines 2-3: After the mention of the god, Nollé here restores the verb ὑπ[οτελέσαι] (the aorist form may be suggested by the probably similar verbal ending apparently preserved in line 7). While not impossible, the verb is not found as such in ritual norms and its sense of "to pay" seems somewhat ill-suited to the idea of offering of depositing first-offerings for the god. In the case of payment into a money-box, one would have expected a common phrase of the sort ἐμβάλλειν ἐς τὸν θησαυρὸν. The letters ΥΠ may therefore have denoted a location whether the deposition must be made (viz. ὑπό ..., "below"). Alternatively, they might even have belonged to an epithet of Apollo. for which there would be several possibilities, but this is unlikely, since we expect the deity to be Apollo Karneios (see above). At the end of line 2 and the beginning of line 3, Nollé suggests that the tariffs to be paid and defined in the body of the text may have been presented here as ἀπαρχαί or first-offerings, aptly comparing <bibl type="abbr" n="LSS">LSS</bibl> 72 (Thasos): τοὺς θύοντας τῷ Θεογένηι | [Θα]σ[ίω]ι ἀπάρχεσθαι εἰς τὸν θη|σαυρὸν μὴ ἔλασσον ὀβολοῦ·; see also here <ref target="CGRN_61">CGRN 61</ref> (Athens), a fragmentary text mentioning both a first-offering and sacrificial tariffs.</p> 
+	
+<p> Line 3: Nollé suggests that the standard tariff for "each sacrificial animal" was a half-obol (ἡμιοβόλιον). This seems to us unlikely, since this introductory phrase preceding the expanded list mentioning specific species of animals most probably points to an extra offering which must be made regardless of the species of the sacrificial animal. A stronger possibility is thus an offering in kind, or the sale of a portion from each animal; indeed, some norms specified the deposition of portions of meat, or the sale of hides, as part of lists of sacrificial tariffs: cf. again <ref target="CGRN_61">CGRN 61</ref> (Athens), and esp. <ref target="CGRN_212">CGRN 212</ref> (Pergamon), lines 13-14: τῶν εἰς τὸν [θ]η̣σαυρὸν ἐμβαλλομένων ἑκ̣[άστου ἱερεί|ου σ]κέλος δεξιὸν καὶ τὸ δέρμα. Yet another possibility would be that the phrase ἀπὸ ἰερείου ἑκά̣στου only serves as an introduction to the list, if we were merely to restore a verb form of δίδοναι or the like: "of each sacrificial animal, give/offer: for a sheep, an obol etc."</p>
+
+<p>Lines 4-5: At the beginning of line 4, Nollé's restoration [ἀρν]ειοῦ is to be treated as possible, though unconfirmed; if correct, the adjectival ending in -ειος suggests that we may be dealing with not just lambs, but any type of sheep (and sheep-meat). As a generic term for designating a species, [χοιρ]είου might be an attractive alternative, albeit a bit lengthier. Concerning the next lacuna, Nollé hypothesises that these lines presented alternative tariffs for a calf or young ox (τοῦ δὲ [μόσχου]), and for an adult ox [τοῦ δὲ ἐντέ|λεος] βοὸς δὲ ... Notwithstanding the syntactical implausibility of reading twice the conjunction δὲ in the latter clause, this differentiation between a young and old animal of the same species is unattested in ritual norms. It is much likelier that the tariff for another species of animal intervened, and that the ox was then meant to designate any member of that species: cp. here <ref target="CGRN_70">CGRN 70</ref> (Oropos), for a list of tariffs organised by species of sacrificial animal. Such a list would imply that the worshipper was relatively free in his choice of sacrificial animal. It remains unclear if the tariff the ox was a single drachma or more; perhaps more, since the beginning of line 5, presumably giving the tariff for a smaller animal, may already suggest the ending of a plural sum. For a single drachma for an ox, cp. the later <bibl type="abbr" n="LSS">LSS</bibl> 108 (Rhodes, 1st century AD), line 10; for a higher sum, cf. the restoration at <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 294 (Kos), line A17: βοὸς μὲν βʹ, τῶιν μὲν τε]λείωιν αʹ.</p>
+
+<p>Lines 6-7: Instead of Nollé's suggestion that the fragmentary clause here served to reaffirm the right of anyone who wished to sacrifice ([θύειν]; cp. e.g. <ref target="CGRN_128">CGRN 128</ref>, Lissos, line 3: θύην τὸν βωλόμενον, and <bibl type="abbr" n="IG I³">IG I³</bibl> 987, lines 6-7: θύεν τῶι βουλομένωι ἐπὶ τελεστῶν ἀγαθῶν), we might instead reasonably surmise that the regulation instead concluded with some sort of enforcement clause. Given the available space, one might restore e.g. [ἔξεστω] τῶι δηλομένω<supplied reason="lost">ι</supplied>: "it will be allowed for anyone who wishes", i.e. to denouce any transgressors or to bring a court case against them; cp. e.g. <ref target="CGRN_175">CGRN 175</ref> (Priene), lines 26-27: φαινέτω δὲ ὁ βουλόμενος ἐπὶ τῶι ἡ[μί]σει πρὸς τοὺς νομοφύλακας· and also the concluding clause of <ref target="CGRN_84">CGRN 84</ref> (Salaminioi), lines 96-97: ὑπεύθυνον εἶναι τῶι γένει ἅπαντι καὶ τοῖς ἱερεῦσι κατὰ ταὐτὰ καὶ ἰδίαι ὑπόδικον καὶ τῶι βουλομένωι Σαλαμινίων.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

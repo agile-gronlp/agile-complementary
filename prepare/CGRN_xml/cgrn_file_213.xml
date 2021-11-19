@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_213" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 213</idno>: <rs type="textType" key="priestly contract">Regulation concerning the priestess </rs> Galato at Pednelissos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Published by Comparetti from the copy and squeeze of the fragmentary <rs type="objectType">stone</rs>, given to him by Ferteklis. The stone was broken on all sides.</p>
+	<p><dimensions>
+	<height unit="cm">34</height>
+	<width unit="cm">25-52</width>
+	<depth>unknown</depth>
+	</dimensions></p>
+	</support> </supportDesc>
+		<layoutDesc><layout>
+
+			<p>Letters: <height unit="cm">1.3</height>.</p>
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0100" notAfter="-0001">1st century BC</origDate></p>
+
+		<p><desc>Justification: lettering (Comparetti).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Pednelissos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/639046/" type="external">Pednelissos</ref></placeName>. Found in the city of Hozan not far from the ruins of the ancient town. Now presumed lost.</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+<p> Edition here based on <bibl type="author_date" n="Comparetti 1916-1920 (a)">Comparetti 1916-1920 (a)</bibl>, with dr. We adopt more cautious restorations in lines 12-14; see below, Commentary, for discussion.</p>
+
+	    			<p> Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 2, 710; Sokolowski <bibl type="abbr" n="LSCG">LSAM</bibl> 79, with a different and more abundantly restored text.</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Frisone 2000">Frisone 2000</bibl>;
+	    				<bibl type="author_date" n="Stavrianopoulou 2005">Stavrianopoulou 2005</bibl>;
+	    				<bibl type="author_date" n="Parker 2018b">Parker 2018b</bibl>: .</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+	    	<lb/> 	<gap reason="lost" extent="unknown" unit="line"/>
+
+<lb xml:id="line_1" n="1"/> καὶ <w lemma="παρέχω">παρέχηται</w> <w lemma="μάρτυς">μάρτυρα</w> <w lemma="εἷς">ἕνα</w>, <w lemma="ἀποτίνω">ἀποτεισάτω</w> ὁ <w lemma="καταράομαι">καταρασάμε
+
+<lb xml:id="line_2" n="2" break="no"/>νος</w> <w lemma="σίγλος">σίγλον</w>· <w lemma="ὅς">ὧι</w> δ’ <w lemma="ἄν">ἂν</w> <w lemma="μάρτυς">μάρτυς</w> <w lemma="μή">μὴ</w> <w lemma="ὅς">ἦι</w>, <w lemma="τίθημι">τιθέσθω</w> τὴν <w lemma="χείρ">χεῖρα</w> <w lemma="εἰς">εἰς</w> <w lemma="κεφαλή">κε
+
+
+	<lb xml:id="line_3" n="3" break="no"/>φαλήν</w>, <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> δὲ <w lemma="φέρω">φερέτω</w> <w lemma="εἰς">εἰς</w> τοὺς <name type="group"><w lemma="δημόσιος">δημοσίους</w></name> <name type="deity" key="generic"><w lemma="θεός">θεοὺς</w></name> <w lemma="παρέκ">πα<supplied reason="lost">ρὲ</supplied>
+
+
+<lb xml:id="line_4" n="4" break="no"/>κ</w> τὸν <name type="deity" key="Ploutos"><w lemma="πλοῦτος">Πλοῦτον</w></name>, καὶ <w lemma="ἐσθίω">ἐσθιέτωσαν</w> οἱ <name type="title"><w lemma="δικαστής">δικασταὶ</w></name> καὶ οἱ <name type="group"><w lemma="δημόσιος">δημόσιοι</w></name>·
+
+
+<lb xml:id="line_5" n="5"/> <w lemma="δίδωμι">διδότω</w> δὲ καὶ Γαλατῶι <w lemma="τέταρτος">τέταρτον</w> <name type="portion"><w lemma="μέρος">μέρος</w></name> <w lemma="οἷος">οἷα</w> <w lemma="δεῖ">δεῖ</w> <w lemma="ἐπιφέρω"><supplied reason="lost">ἐπιφέρειν</supplied></w>
+
+
+<lb xml:id="line_6" n="6"/> <w lemma="εἰς">εἰς</w> τὸν <name type="deity" key="Ploutos"><w lemma="θεός">θεόν</w></name>· Γαλατὼ δὲ <w lemma="εἰμί">ἔστω</w> <name type="purification"><w lemma="καθαρός">καθαρὰ</w></name> καὶ <w lemma="αἴσιος">αἴ<supplied reason="lost">σι</supplied>ο<supplied reason="lost">ς</supplied></w> <w lemma="ἀεί"><supplied reason="lost">ἀεὶ</supplied></w> <supplied reason="lost">μὲν</supplied> <w lemma="αὐτός"><supplied reason="lost">αὐ</supplied>
+
+<lb xml:id="line_7" n="7" break="no"/>τῆι</w>, καὶ <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name> <w lemma="εἰμί">ἔστω</w> <w lemma="ἕως">ἕως</w> <w lemma="ἄν">ἂν</w> <w lemma="ὅσος">ὅσου</w> <w lemma="ζῶ">ζῶι</w>, <w lemma="μηδέ">μηδὲ</w> <w lemma="ὄνειδος"><supplied reason="lost">ὄνειδος</supplied></w> <w lemma="ἐάω"><supplied reason="lost">ἐάτω</supplied></w> <w lemma="λέγω"><supplied reason="lost">λέ</supplied>
+
+<lb xml:id="line_8" n="8" break="no"/><supplied reason="lost">ξ</supplied>αι</w> <w lemma="τις">τις</w> <w lemma="περί">περὶ</w> <w lemma="αὐτός">αὐτὴν</w> <w lemma="μηδέ">μηδ’</w> <w lemma="ἐπήρεια">ἐπηρασίαν</w> <w lemma="ἕως">ἕως</w> <w lemma="ἄν">ἂν</w> <w lemma="ὅσος">ὅσου</w> <w lemma="ζῶ">ζῶ<supplied reason="lost">ι</supplied></w><supplied reason="lost">·</supplied> <w lemma="ἐπειδή"><supplied reason="lost">ἐπειδὰν</supplied></w>
+
+<lb xml:id="line_9" n="9"/> <supplied reason="lost">δ'</supplied> <name type="death"><w lemma="ἀποθνήσκω"><supplied reason="lost">ἀπ</supplied>οθάνηι</w></name>, <w lemma="ποιέω">ποιείτωσαν</w> <name type="authority"><w lemma="κλῆρος">κλῆρον</w></name> ἡ <name type="group"><w lemma="πόλις">πόλις</w></name> <name type="ethnic" key="Galatia"><w lemma="Γαλάται">Γαλατῶν</w></name> <w lemma="δεκάς">δε<supplied reason="lost">κάδι</supplied></w> <w lemma="ὅς"><supplied reason="lost">ὧν</supplied></w> <w lemma="καταβάλλω"><supplied reason="lost">κα</supplied>
+
+<lb xml:id="line_10" n="10" break="no"/><supplied reason="lost">ταβ</supplied>α<supplied reason="lost">λ</supplied>εὶ</w> δὲ ἢ <w lemma="ἄν">ἂν</w> <name type="portion"><name type="authority"><w lemma="λαγχάνω">λάχηι</w></name></name>, <w lemma="δίδωμι">δώσει</w> <w lemma="ἐάν">ἠὰν</w> <w lemma="τελέω">τελέσει</w> <w lemma="αὐτός">αὐτήν</w>, <name type="personnel"><w lemma="νεωκόρος">νε<supplied reason="lost">ωκ</supplied>ό<supplied reason="lost">ροις (?)</supplied></w></name>
+
+	    				<lb xml:id="line_11" n="11"/><supplied reason="lost">μὲν</supplied> <name type="vegetal"><w lemma="κριθή"><supplied reason="lost">κριθῶν</supplied></w></name> καὶ <name type="vegetal"><w lemma="πυρός">πυρῶν</w></name> <w lemma="ἱππεύς">ἱππέα</w> καὶ <name type="vegetal"><w lemma="ἀμύγδαλον">ἀμυγδάλων</w></name> <w lemma="ἱππεύς">ἱππεῖς</w> <num value="4">δ′</num> <supplied reason="lost">καὶ</supplied> <name type="sacrifice"><w lemma="θῦμα"><supplied reason="lost">θῦμα</supplied></w></name>
+
+<lb xml:id="line_12" n="12"/><supplied reason="lost">τῆι</supplied> <name type="death"><w lemma="θνῄσκω"><supplied reason="lost">τεθνη</supplied>κυίαι</w></name> <w lemma="ἔτι">ἔτ᾽</w> <name type="animal" key="swine"><w lemma="ὗς">ὖν</w></name> <name type="age"><w lemma="δέλλις">δέλλιν</w></name>· καὶ <w lemma="ἐάν">ἐὰν</w> <name type="purification"><w lemma="καθαίρω">καθάρηι</w></name> <w lemma="αὐτός">αὐτήν</w>, <name type="person"><w lemma="γυνή"><supplied reason="lost">γυναῖκες</supplied></w></name> <supplied reason="lost">(?)</supplied>
+
+<lb xml:id="line_13" n="13"/><gap reason="lost" quantity="10" unit="character"/><orig>ι</orig> <name type="colour2"><w lemma="μέλας">μέλανα</w></name> <name type="clothing"><w lemma="εἷμα">ἕμη</w></name> <w lemma="περιβάλλω">περιβαλλέσθωσαν</w> <w lemma="εἰς">εἰς</w> τὰ <name type="sacrifice"><w lemma="ἱερός">ἱερ<supplied reason="lost">ὰ</supplied></w></name> <gap reason="lost" quantity="6" unit="character"/>
+
+<lb xml:id="line_14" n="14"/><gap reason="lost" quantity="5" unit="character"/> <w lemma="μηδείς"><supplied reason="lost">μηδὲν</supplied></w> <w lemma="ἐπί">ἐπὶ</w> <name type="death"><w lemma="νεκρός">νεκρῶι</w></name> <w lemma="εἰμί">ἔστω</w> <name type="purification"><w lemma="ῥυπαρός">ῥυπαρόν</w></name>, <w lemma="ἔτι">ἔτι</w> δὲ καὶ <name type="animal" key="generic"><w lemma="ἱερεῖον"><supplied reason="lost">ἱερεῖον</supplied></w></name> <supplied reason="lost">(?)</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_15" n="15"/><gap reason="lost" quantity="9" unit="character"/> <w lemma="εἶμι"><supplied reason="lost">ἔ</supplied>λθωσιν</w> (?), <name type="liquid"><w lemma="πλύνω">πλυνάτω</w></name> καὶ <w lemma="εἰμί">ἔστω</w> <name type="purification"><w lemma="καθαρός">καθαρόν</w></name>· <w lemma="ἐν">ἐν</w> δὲ <name type="structure"><w lemma="ἱερός">ἱερ<supplied reason="lost">ῶι</supplied></w> </name><supplied reason="lost">ἡ</supplied> <w lemma="τελέω"><supplied reason="lost">τελέ</supplied>
+
+<lb xml:id="line_16" n="16" break="no"/><supplied reason="lost">σασα</supplied></w> <supplied reason="lost">καὶ</supplied> <name type="structure"><w lemma="οἴκαδε"><supplied reason="lost">οἴκ</supplied>αδε</w></name> <name type="bakery"><w lemma="ἄρτος">ἄρτους</w></name> <w lemma="ἱερός">ἱεροὺς</w> <w lemma="μή">μὴ</w> <w lemma="πωλέω">πωλήσει</w>· καὶ <w lemma="ὅταν">ὅταν</w> <w lemma="πᾶς">πά<supplied reason="lost">ντα</supplied></w> <w lemma="ἐκτελέω"><supplied reason="lost">ἐκτελῆι</supplied></w>,
+
+<lb xml:id="line_17" n="17"/><w lemma="δίδωμι"><supplied reason="lost">δώσει</supplied></w> <w lemma="αὐτός"><supplied reason="lost">αὐτῆι</supplied></w> <unclear>ἡ</unclear> <name type="group"><w lemma="πόλις">πόλις</w></name> <w lemma="ἱππεύς">ἱππέα</w> <name type="vegetal"><w lemma="ἄλευρον">ἀλεύρων</w></name>· καὶ <w lemma="εἰ">εἰ</w> <orig>ο</orig><gap reason="lost" quantity="7" unit="character"/><orig>ειομ</orig><gap reason="lost" quantity="5" unit="character"/>
+
+<lb xml:id="line_18" n="18"/><gap reason="lost" quantity="6" unit="character"/>αιον καὶ <w lemma="ἐπί">ἐπὶ</w> τὴν <name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name> <name type="sacrifice"><w lemma="σπονδή">σπονδ<supplied reason="lost">ὴν</supplied></w></name> <orig>α</orig><gap reason="lost" quantity="13" unit="character"/>
+
+<lb xml:id="line_19" n="19"/><gap reason="lost" quantity="13" unit="character"/><orig>ηι</orig> <w lemma="μή">μὴ</w> <w lemma="ἐκ">ἐκ</w> τοῦ <name type="purification"><w lemma="καθαρμός">καθαρμοῦ</w></name> <name type="portion"><w lemma="γέρας">γέρα</w></name>, <supplied reason="lost">ἅ</supplied> δὲ μ<supplied reason="lost">η</supplied><gap reason="lost" quantity="4" unit="character"/>
+
+
+<lb xml:id="line_20" n="20"/><gap reason="lost" quantity="14" unit="character"/> <w lemma="ἀεί">ἀεὶ</w> <w lemma="εἰμί">ἦι</w>, <name type="person"><w lemma="γυνή">γυνὴ</w></name> ἢ <name type="person"><w lemma="ἀνήρ">ἀνήρ</w></name> <gap reason="lost" quantity="22" unit="character"/>
+
+
+<lb xml:id="line_21" n="21"/><gap reason="lost" quantity="16" unit="character"/>  <w lemma="καιρός"><supplied reason="lost">κ</supplied>αιρῶι</w>· <w lemma="ὅταν">ὅταν</w> δὲ <gap reason="lost" quantity="23" unit="character"/>
+
+
+<lb xml:id="line_22" n="22"/><gap reason="lost" quantity="16" unit="character"/>  τοῦ <name type="personnel"><w lemma="ἱεροκῆρυξ">ἱεροκήρυκος</w></name> κα<supplied reason="lost">ὶ</supplied> <gap reason="lost" quantity="19" unit="character"/>
+
+
+<lb xml:id="line_23" n="23"/> <gap reason="lost" quantity="23" unit="character"/><orig>ο</orig> ἱερ<gap reason="lost" quantity="25" unit="character"/>
+
+
+<lb xml:id="line_24" n="24"/><gap reason="lost" quantity="24" unit="character"/><orig>δι</orig><gap reason="lost" quantity="27" unit="character"/>
+
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...] and one witness must be provided. The one who has pronounced curses must pay one <foreign>siglos</foreign>. If someone doesn't have a witness, let him place his hand on the head, and he must offer sacrificial animals to the public gods except Ploutos, and the judges and the public servants are to have a meal. (5) One must give to Galato a quarter portion conforming to what one should [bring] the god. Let Galato be pure and let there [always be a good omen for her], and let her be priestess for life. And do not let anyone say anything to insult or disgrace her as long as she lives. And when she dies, the city of Galatians will cast losts for a group of ten (women) and among them the one to whom the priesthood falls by lot shall pay (10), when they will initiate her, [to the <foreign>neokoroi</foreign> (?)] a measure (lit. a "horseman") of barley and of wheat and four measures of almonds [and as a sacrificial animal on behalf of the deceased] woman also a piglet. And when one purifies her, [the women (?) ...] must wrap her in black garments for the rites [...] and let [nothing] filthy touch the corpse, and besides also [the sacrificial animal (?) [...] when the (women?) come, (15) it is to be washed and it shall be pure. [The initiated woman] shall not sell the sacred loafs of bread in the sanctuary nor at home. And when [she completes everything], the city will give her a measure of wheat. And if [...] and a libation on the table [...] no perquisites from the purification, which  [... (20) ...] woman or man [...] the right moment when [...] of the sacred herald [...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[...] et que l’on fasse comparaître un témoin, et que celui qui a prononcé des imprécations paie un <foreign>siglos</foreign>. En l’absence de témoin, qu’il place la main sur la tête, et qu’il apporte des animaux sacrificiels aux dieux de la cité à l’exception de Ploutos, et que les juges et les magistrats de la cité tiennent un repas. (5) Et que l’on remette aussi à Galatô un quart, conformément à ce qu’il faut [apporter] au dieu. Que Galatô soit pure et que ce lui soit [toujours profitable ] et qu'elle soit prêtresse aussi longtemps qu’elle vivra. Et que l'on ne permette à personne [de l'injurier] ni de l'insulter aussi longtemps qu’elle vivra. À sa mort, la cité des Galatiens procédera au tirage au sort dans un groupe de dix (femmes). Celle qui sera désignée par le sort remettra, (10) au moment de l’initiation, [aux néocores (?)] une mesure [d’orge] et de froment, quatre mesures d’amandes et, [comme animal sacrificiel] pour la [défunte], également un porcelet. Et quand on la purifiera, que [les femmes (?) ...] l'emballent dans des vêtements noirs pour les rites [...]. Et que [rien] de souillé ne touche le cadavre [...] et, en outre, [l'animal sacrificiel (?) ...] quand (elles ?) viennent, (15) qu'il soit lavé et soit pur. [L'initiée ne vendra pas de pains sacrés] ni dans le sanctuaire ni à la maison. Et quand [elle aura tout accompli], la cité lui donnera une mesure de blé. Et si [...] et une libation sur la table [...] pas de parts d'honneur provenant de la purification, qui [... (20) ...] femme ou homme [...] à l'occasion de [...] du héraut sacré et [...]</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p> This inscription describes the privileges and obligations connected to the priestess called "Galato" in Pednelissos in Pisidia. This appears to have been the nickname of the priestess serving the community, rather than a properly personal name (see now Parker 2018, p. 77). Perhaps the office in question was the priesthood of Ploutos (so Comparetti; cf. line 4) or of the Mother of the Gods (so Sokolowski), but we cannot be sure; a male god seems probable (cf. lines 5-6), but it is also possible that the priesthood served many or all of the gods of the community (cf. line 3). The designations of the priestess as "Galato" and of Pednelissos as "the <foreign>polis</foreign> of the Galatai" (Galatians) are significant, indicating that we are dealing with a community of foreign origins. Yet the Gauls of Pisidia were manifestly hellenized in their language, their religion and culture, situated as they were among other populations established in the area (Greek, Pisidian, Persian (?), etc.). The inscription thus appears to bear
+witness to intriguing cultural and religious middle ground: for instance, the community is overly defined by its identity (Galatians, "Galato"), but expresses its ritual rules in Greek; the pantheon of the community is likely to have been varied, but seems to have included the Greek god Ploutos (line 4).</p>
+
+<p> The content of the regulation is varied: it describes a juridical procedure in which the priestess received a perquisite (lines 1-6); purity rules for the priestess and interdictions against speaking negatively of her (lines 6-8); the selection procedure for a new priestess "Galato" when the current priestess "Galato" dies (lines 8-10), the rites of initiation of the new priestess (lines 10-12) and the funerary procedures for the deceased one (lines 12-15). The final part of the inscription discusses the selling of sacred bread (lines 16-17) and other matters that are in a fragmentary state. On the whole, the document bears some similarities with other Greek ritual norms, but is also remarkably different in its specific prescriptions and ritual details. For other priestly contracts from Asia Minor included in the present Collection: see for example <ref target="CGRN_98">CGRN 98</ref> (Erythrai) or <ref target="CGRN_118">CGRN 118</ref> (Halikarnassos).</p>
+
+<p> Lines 1-4: The first part of the inscription describe a juridical procedure: a person who had pronounced a curse should pay a fine and make a sacrifice. This might be a general rule, or perhaps the text refers to curses uttered against the priestess "Galato" (cf. lines 7-8, which explicitly forbid speaking badly of the priestess). The procedure apparently had to be attended by a witness. As Comparetti explains, in the case in which a witness was not available, the transgressor could swear an oath on himself by putting his hand upon his head. The σίγλος (shekel) was a Persian coin that was the equivalent of 8 attic obols. If, together with offering a sacrifice and providing a meal, this is the fine, the penalty is rather mild. The sacrifice needs to be made to the δημοσίοι θεοί excepting Plouton, presumably because oaths sworn to Plouton (Hades) were reckoned to be of a different character. The procedure was concluded by a common meal of the judges and involved public servants.</p>
+
+<p> Lines 5-6: In Comparetti's view, the quarter portion that needed to be given to Galato corresponds to the portion that would otherwise have been given to Plouton, since perhaps Galato was priestess of Plouton (or aspired to be so). If Comparetti's view is correct, we might then expect three other deities to make up the four parts to be attributed: perhaps Demeter, Kore and Kybele. Alternatively, and more plausibly, we might simply view this clause as a general rule, to be detached from lines 1-4 above. In this case, Galato and her successors will simply have been granted "a quarter" from all the offerings that needed to be brought to the god during the cult. For quarter portions granted to priests and priestesses, see here <ref target="CGRN_37">CGRN 37</ref> (Chios, of grains), lines 13-14, and <ref target="http://cgrn.ulg.ac.be/CGRN_42/">CGRN 42</ref> (Iasos), line 3 (of entrails).</p>
+
+<p> Lines 7-8: Here we have a very exceptional case of censorship, since it is explicitly forbidden to criticize the priestess: cf. Stavrianopoulou, who discusses this case in the context of other measures in ritual norms that are aimed at safeguarding the authority of priests.</p>
+
+<p> Lines 8-12: This section of the inscription concerns the actions to be taken when the priestess nicknamed "Galato"  dies after a lifetime tenure, along with the financial responsibilities of the new priestess who assumes her place. In the Greek world, there were normally four different ways in which to obtain a priesthood: by lot, through inheritance, through democratic vote, and through sale. In this case, the procedure is sortition, after preselection of a group of ten candidates. But the new priestess still had to pay for her initiation, apparently providing materials to sacred officials in charge (<foreign>neokoroi</foreign>), and also make an offering for the deceased priestess at the funeral. The word ἱππεύς designates a (unique) local measure (or perhaps a Persian one?). The word δέλλις should probably contain an age qualifier here, and thus refer to a piglet; compare δέλφαξ or δελφάκιον, and see here <ref target="CGRN_125">CGRN 125 </ref> (Olbia), line 15, and <ref target="CGRN_199/">CGRN 199</ref> (Delos), line 3. On the "initiation" of the priestess, see here <ref target="CGRN_85">CGRN 85</ref>
+(Kos), line 1; for measures of grains and other substances, during the inaugural presentation of a priestess, see  <ref target="CGRN_175">CGRN 175</ref> (Priene), lines 33-35.</p>
+
+<p> Lines 12-15: Given the fragmentary and rather unique character of the lines, the interpretation must remain to a large degree uncertain. It is particularly unclear whether the gestures in lines 12-13 concern the new priestess or the corpse of the deceased; perhaps the former is likelier (cf. αὐτὴν, in line 12). At any rate, it is clear that a group of people, probably women, are in charge of the <foreign>hiera</foreign>, i.e. they appear to participate in the funerary rituals in some capacity, to purify the priestess (though the verb is singular in this case), and finally to wrap her in black clothes. Contrast the funerary law of Iulis, <ref target="CGRN_35">CGRN 35</ref>, lines 1-6, in which the deceased is wrapped in white cloths; for grey or white clothes of mourning, cp. also <ref target="CGRN_108">CGRN 108</ref> (Gambreion), lines 5-9. The corpse itself is to remain uncontaminated ([μηδὲν] ... ῥυπαρόν, line 14). Similarly, we do not know what is to be washed in line 15: tentatively, a sacrificial animal (τὸ ἱερεῖον) or the statue of the goddess (τὸ ἄγαλμα), according to the available proposals, neither of which is compelling. Indeed, since νεκρός is a masculine word and the new priestess is female, we would have expected ἔστω καθαρός/καθαρή if the prescription referred to the body of the dead person or to an individual (σῶμα might be a neuter alternative). For an overview of funerary legislation in the Greek world, cf. Frisone.</p>
+
+<p> Lines 15-17: The interdiction against "selling sacred bread" is unique. This may refer to the offerings of πόπανα and πελανοί, which would normally have been given to the priestess as perquisites, or which she may have been tempted to convert into a source of income. Perhaps the gift of wheat by the <foreign>polis</foreign> (line 17) is a form of compensation for this.</p>
+
+<p> Line 18-19: These lines may have described the perquisites of the priestess connected to various rituals (such as libations and purifications; in the latter case, no perquisites were apparently given), but we cannot be certain. </p>
+
+<p> Lines 20-24: These fragmentary lines are difficult to interpret. They seem to describe a ritual that should be carried out "at the right moment" (καιρῶι, line 21). Perhaps this was a ceremony in honour or memory of a deceased "Galato". The sacred herald was to announce something. The genitive case (τοῦ ἱεροκήρυκος) may follow a preposition μετά, which would indicate that the messenger is to make an announcement together with another person, potentially the new priestess (Comparetti).</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

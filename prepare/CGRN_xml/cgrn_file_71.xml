@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_71" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 71</idno>: <rs type="textType" key="purity regulation">Regulation concerning purity</rs> and supplication from Metropolis</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> <rs type="objectType">Stele</rs> of blueish marble, broken above and below. </p>
+		<p><dimensions>
+			<height unit="cm">59</height>
+			<width unit="cm">40</width>
+			<depth unit="cm">unknown</depth>
+		</dimensions></p>
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p>Letters: <height unit="cm">2.2</height>.</p>
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0400" notAfter="-0300">4th century BC</origDate></p>
+		<p><desc>Justification: lettering (Keil - von Premerstein).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Metropolis" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/550741/" type="external">Metropolis</ref></placeName>. Found in a field 15 min.'s walk north-west of Torbali, then plastered into the hall of a house in Ephesos.</p>				
+
+	</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on <bibl type="abbr" n="I.Ephesos">I.Ephesos</bibl> 3401, with Sokolowski's restoration in lines 9-10.</p>
+	    			<p> Other edition: <bibl type="author_date" n="Keil - Von Premerstein 1914">Keil - von Premerstein 1914</bibl>: 103-104, no. 154.</p>
+
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 29;
+	    				Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 29;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 46, 1471.</p>
+
+	    			<p> Further bibliography:
+
+	    				<bibl type="author_date" n="Hiller von Gaertringen 1915">Hiller von Gaertringen 1915</bibl>;
+	    				<bibl type="author_date" n="Gould 1973">Gould 1973</bibl>;
+	    				<bibl type="author_date" n="Parker 1983">Parker 1983</bibl>;
+	    				<bibl type="author_date" n="Cole 1992">Cole 1992</bibl>;
+	    				<bibl type="author_date" n="Chaniotis 1996">Chaniotis 1996</bibl>;
+	    				<bibl type="author_date" n="Chaniotis 1997">Chaniotis 1997</bibl>;
+	    				<bibl type="author_date" n="Naiden 2006">Naiden 2006</bibl>.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+	    				<lb xml:id="line_1" n="1"/> <name type="purification"><w lemma="ἁγνεύω"><supplied reason="lost">ἁγνεύ</supplied>εται</w></name> <w lemma="ἀπό">ἀπὸ</w>
+
+	    				<lb xml:id="line_2" n="2"/> <name type="death"><w lemma="κῆδος"><supplied reason="lost">κήδους</supplied></w></name> <w lemma="ἡμέρα">ἡμέρας</w>
+
+	    				<lb xml:id="line_3" n="3"/> <w lemma="δυώδεκα"><supplied reason="lost">δώδεκα</supplied></w>, <w lemma="ἀπό">ἀπὸ</w>
+
+	    				<lb xml:id="line_4" n="4"/> <name type="sex"><w lemma="γυνή"><supplied reason="lost">γυν</supplied>αικὸς</w></name> τῆς
+
+	    				<lb xml:id="line_5" n="5"/> <w lemma="ἴδιος"><supplied reason="lost">ἰδία</supplied>ς</w> <w lemma="ἡμέρα">ἡμέρας</w> <w lemma="δύο">δύ<supplied reason="lost">ο</supplied></w>,
+
+	    				<lb xml:id="line_6" n="6"/> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w> <name type="sex"><name type="person"><w lemma="ἑταῖρος"><supplied reason="lost">ἑ</supplied>ταίρας</w></name></name> <w lemma="τρεῖς">τρεῖς</w>·
+
+	    				<lb xml:id="line_7" n="7"/> <name type="person"><w lemma="ἱκέτης"><supplied reason="lost">ἱκέτην</supplied></w></name> <w lemma="μή">μὴ</w> <w lemma="ἀφέλκω">ἀπέλκειν</w>
+
+	    				<lb xml:id="line_8" n="8"/> <name type="structure"><w lemma="βωμός"><supplied reason="lost">βωμοῖς</supplied></w></name> <w lemma="ἐφίστημι">ἐπιστά
+
+	    				<lb xml:id="line_9" n="9" break="no"/> <supplied reason="lost">μενο</supplied>ν</w> <w lemma="μηδέ">μηδὲ</w> <space extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_10" n="10"/> <w lemma="δράω"><supplied reason="lost">δρᾶν</supplied></w> <w lemma="μηθείς">μ<supplied reason="lost">η</supplied>θὲν</w> <w lemma="ἄδικος">ἄδι
+
+	    				<lb xml:id="line_11" n="11" break="no"/> <supplied reason="lost">κον</supplied></w>· <w lemma="ὅς">ὃς</w> δ’ <w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w> <w lemma="ἀδικέω">ἀδική
+
+	    				<lb xml:id="line_12" n="12" break="no"/> <supplied reason="lost">σηι</supplied></w>, <w lemma="μή">μὴ</w> <name type="authority"><w lemma="ἵλαος">εἵλως</w></name> <w lemma="αὐτός">αὐ-
+
+	    					<lb xml:id="line_13" n="13"/> <supplied reason="lost">τῶι</supplied></w> <supplied reason="lost">ἡ</supplied> <name type="epithet"><w lemma="μήτηρ">Μήτηρ</w></name> <supplied reason="lost">ἡ</supplied> <name type="epithet" key="Gallesia"><w lemma="Γαλλησία">Γαλ-
+
+<lb xml:id="line_14" n="14"/> <supplied reason="lost">λησί</supplied>α</w></name>. <space quantity="1" unit="line"/>
+
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>One is [pure] from a [funeral after twelve] days, from a woman, if it is (5) [one's own], after two days, from a prostitute after three. One should not drag [a suppliant] away while he stands [by an altar], (10) nor [do] him any injustice. To the one who commits an injustice, may Meter Gallesia not be kindly to him.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+						On est [pur] d'un [deuil après douze] jours, de relations avec sa (5) [propre] femme après deux jours, de relations avec une prostituée après trois jours; qu'on n'arrache pas [d'un autel un suppliant] qui s'y tient, (10) et qu'on ne lui [inflige] pas de traitement injuste; qu'à celui qui agit injustement, la Mère Gallesia ne soit pas favorable.</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p> This text expresses a series of cultic rules on purity and supplication. As in comparable regulations, it is stated that the worshipper has to wait a number of days before entering the sanctuary, having attended a funeral or after sexual relations. The second part of the inscription concerns the inviolability of suppliants who have taken refuge in the sanctuary and are clinging to an altar. Since our text makes an appeal to the power of Meter Gallesia to punish transgressors, it is likely that the rules were enacted for the sanctuary of this goddess; however, nothing else is known about the context of this cult at Metropolis (see below on line 13).</p>
+
+<p> Lines 1-3: In many cultic regulations contact with the death causes one to become impure and this results in exclusion from the shrine for a fixed period of days, although the number of days varies greatly between regulations. Cp. for example our <ref target="http://cgrn.ulg.ac.be/CGRN_212/">CGRN 212</ref> (Pergamon), lines 3-9, <ref target="http://cgrn.ulg.ac.be/CGRN_214/">CGRN 214</ref> (Miletos), and <bibl type="abbr" n="LSS">LSS</bibl> 91. In this text, no distinction is being made between the severity of pollution following the death of a family member and the death of another person, as is often the case elsewhere, for example in <ref target="http://cgrn.ulg.ac.be/CGRN_181/">CGRN 181</ref> (Eresos), lines 1-4, and <ref target="http://cgrn.ulg.ac.be/CGRN_211/">CGRN 211</ref> (Maionia), lines 7-9. Cf. Parker, p. 37 n. 17 for a list of inscriptions citing pollution resulting from death.</p>
+
+<p> Lines 3-6:  Many purity regulations attest to a brief impurity resulting from sex. Cp. for example our <ref target="http://cgrn.ulg.ac.be/CGRN_203/">CGRN 203</ref> (Delos), line 5, <ref target="http://cgrn.ulg.ac.be/CGRN_217/">CGRN 217</ref> (Delos), line 4, and <ref target="http://cgrn.ulg.ac.be/CGRN_144/">CGRN 144</ref> (Ptolemais), lines 7-9. Note that this is the oldest inscription in which the formulaic expression ἀπὸ γυναικὸς occurs (Cole, p. 107). Here, additionally, sex with a hetaira results in a more extended impurity than sexual relations with one's own spouse. This may be seen as an instance of morality having a bearing on the notion of purity. On the increasing presence of moral considerations in the conceptualisation of purity, cf. Chaniotis 1997. For other inscriptions in our Collection in which a distinction is made between intercourse with one's married partner and with other individuals (more frequent from the second century BC onwards), cf. for example <ref target="http://cgrn.ulg.ac.be/CGRN_211/">CGRN 211</ref> (Maionia), lines 9-15, and <ref target="http://cgrn.ulg.ac.be/CGRN_212/">CGRN 212</ref> (Pergamon), lines 3-6. For a more general discussions of pollution following sexual activity, cf.  Parker, ch. 3, and Cole, p. 107-109.</p>
+
+<p> Lines 7-10: Although the word ἱκέτην is supplied, it is quite likely that this part of the text indeed concerns the universal Greek norm of <foreign>asylia</foreign>; for a general discussions on this subject of the 'inviolability' of sanctuaries and the protection thus offered to suppliants, cf. Gould, Naiden, and Chaniotis 1996. We choose here to follow Sokolowski's restoration βωμοῖς ἐπιστά|<supplied reason="lost">μένο</supplied>ν, denoting a suppliant who stands by an altar, presuming holding it for protection. Chaniotis believes that this is tautological "since the word <foreign>hiketes</foreign> denotes exactly this action" (1996: 78). However, an implicit reference to the 'Kontaktmagie' resulting from physical contact with an altar does not seem to be meaningless. Dragging a suppliant away (ἀπέλκειν, line 7) or harming him (ἀδικεῖν, line 11) precisely while he was clinging to an altar was "a direct challenge to the power of the god whose sanctuary or altar was involved ... or more generally to the power of Zeus ἱκέσιος" (Gould, p. 78). The alternative restoration by Keil - von Premerstein [εἰ μὴ τὸν] ἐπιστά|[μένον], "except for the supervisor of the sanctuary", is also possible. The supervisor would therefore have had the unique right to expel suppliants. With this restoration, the text would be an example of the increasing incorporation of the question of supplication into the legal sphere (cf. Naiden), with the passage here specifically defining and regulating "the rights of religious authorities (cf. ἐπιστάμενος) to decide the fate of a suppliant" (Chaniotis 1996: 79). </p>
+
+<p> Lines 11-12: Hiller von Gaertringen plausibly thinks that εἴλως should be interpreted as a variant of ἵλαος "propitious, gracious". This term often refers to a divinity's attitude vis-a-vis the human world (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. ἵλαος A); the verb ἱλασκόμαι expresses the notion of appeasing gods from Homer and Hesiod onwards. Cp. here <ref target="http://cgrn.ulg.ac.be/CGRN_12/">CGRN 12</ref> (Delphi), line 2. Since suppliants were traditionally protected by the gods (see above on lines 7-10), it makes sense that harming a suppliant is conceptualised as angering the divine world, here in the persona of the Mother of the Gods called Gallesia.</p>
+
+<p> Line 13: This local epithet of Meter, Γαλλησία, occurring here for the first time in our evidence, is undoubtedly connected to the Γαλλήσιον ὄρος, a mountain in the region between Ephesos and Metropolis (cf. Keil - von Premerstein; this is the modern Alamandağ near Belevi—cf. Strab. 14.1.27). It is possible that the provenance of the inscription is to be a related to a cult-site in that general area, though the inscription was in fact found to the north of Metropolis, rather than to the south—the location of the mountain itself.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

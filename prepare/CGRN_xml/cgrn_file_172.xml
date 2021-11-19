@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_172" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 172</idno>: Small <rs type="textType" key="purity regulation">purity regulation</rs> concerning entrance to the sanctuary of Egyptian deities on Delos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> <rs type="objectType">Plaque</rs> of white marble.</p>
+
+	<p><dimensions>
+		<height unit="cm">27</height>
+		<width unit="cm">31</width>
+		<depth unit="cm">10</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p>Irregular lettering, badly cut.</p>
+			<p>Letters: <height unit="cm">1.2</height>. Interlinear space: <height unit="cm">1.3-1.5</height>. Between lines 8 and 9 there is an empty space of 6 cm.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0200" notAfter="-0100">2nd century BC</origDate></p>
+
+		<p><desc>Justification: context, cf. Commentary.</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Delos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599588" type="external">Delos</ref></placeName>. Found in Sarapieion A.
+
+	</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p>Edition here based on Roussel - Launey <bibl type="abbr" n="ID">ID</bibl> 2180.
+
+	    			</p>
+	    			<p> Other editions:
+	    				<bibl type="author_date" n="Roussel 1913">Roussel 1913</bibl>: 274-275;
+	    				<bibl type="author_date" n="Roussel 1916">Roussel 1916</bibl>: 95-96 no. 16.
+
+
+	    			</p>
+
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSS</bibl> 56; Bricault <bibl type="abbr" n="RICIS">RICIS</bibl> 202/0199.
+	    			</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Baslez 1977">Baslez 1977</bibl>: 36-37.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+
+
+	    				<lb xml:id="line_1" n="1"/><name type="deity" key="Theos"><w lemma="θεός">Θεῶι</w></name> <name type="epithet" key="Megas"><w lemma="μέγας">Μεγάλωι</w></name>
+	    				<lb xml:id="line_2" n="2"/> καὶ <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <name type="epithet" key="Kasios"><w lemma="Κάσιος">Κασίωι</w></name> καὶ <name type="deity" key="Tachnepsis"><w lemma="Ταχνήψις">Ταχνήψει</w></name>,
+	    				<lb xml:id="line_3" n="3"/>Ὧρος Ὥρου <name type="ethnic" key="Kasion"><w lemma="Κασιώτης">Κασιώτης</w></name>
+	    				<lb xml:id="line_4" n="4"/><w lemma="ὑπέρ">ὑπὲρ</w> Λευκίου Γρανίου
+	    				<lb xml:id="line_5" n="5"/>τοῦ Ποπλίου Ῥωμαίου.
+	    				<lb xml:id="line_6" n="6"/><name type="person"><w lemma="γυνή">γυναῖκα</w></name> <w lemma="μή">μὴ</w> <w lemma="προσάγω">προσάγειν</w>
+
+	    				<lb xml:id="line_7" n="7"/><w lemma="μηδέ">μηδὲ</w> <w lemma="ἐν">ἐν</w> <name type="clothing"><w lemma="ἐρεοῦς">
+	    					ἐρεοῖς</w></name> <name type="person"><w lemma="ἀνήρ">ἄνδρα</w></name>
+
+	    				<lb xml:id="line_8" n="8"/> <name type="authority"><w lemma="κατά">κατὰ</w> <w lemma="πρόσταγμα">πρόσταγμα</w></name>.
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>To Theos Megas and Zeus Kasios and Tachnepsis, Horos son of Horos of Kasion on behalf of Lucius Granius (5) son of Poplius, Roman. A woman does not go in, and a man not in woollen clothes, according to a prescription (of the gods?).</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+						À Theos Megas et Zeus Kasios et Tachnepsis, Horus fils d'Horus de Kasion pour Lucius Granius (5) fils de Poplius, Romain. Les femmes ne peuvent entrer, ni les hommes en vêtements de laine. Sur ordre (des dieux ?).</p>
+
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p>Sarapieion A was the most ancient of the three sanctuaries of Egyptian deities, which held an important position on the island of Delos. It was a private sanctuary, as shown from a famous act of foundation engraved on a small column (<bibl type="abbr" n="IG XI">IG XI</bibl>.4 1299) inscribed in the course of the third century, and found <foreign>in situ</foreign>, at the foot of the Inopos. After the construction of Sarapieion C, a larger, public sanctuary, in 166 BC, a worshipper demanded that the authorities in Rome confirm his right to celebrate the cult in Sarapieion A (<bibl type="abbr" n="ID">ID</bibl> 1510). Perhaps our inscription should be placed shortly after this event, as a further part of the attempt to boost the prestige of this older sanctuary (Bricault).</p>
+
+<p>Sarapis was not the only deity who was worshipped in this sanctuary, as we know from the names of other gods engraved on the benches along the sanctuary walls. In this inscription, we find a dedication made by the priest Horos, son of Horos (whom we know to be priest shortly after 167 BC); this individual was originally from Mount Kasion in the Northern Sinai (cf. <ref target="http://www.trismegistos.org/geo/detail.php?tm=1014" type="external">Trismegistos no. 1014</ref>). The dedication consisted of a cult-site consecrated on behalf the Roman Lucius Granius, son of Poplius (on which cf. also <bibl type="abbr" n="ID">ID</bibl> 2180, lines 4-5 ; <bibl type="abbr" n="ID">ID</bibl> 2181, line 6-7) to Theos Megas—probably to be identified with Sarapis (cf. Baslez, p. 36)—, to Zeus Kasios (Zeus of Mount Kasion) and to Tachnepsis (an epithet of Isis perhaps specific to this area).</p>
+
+<p>A small purity regulation follows the dedication. Against the normalcy of inclusion, the exclusion of women represents a more rare or exceptional case. For occasional instances, see here the commentary on <ref target="http://cgrn.ulg.ac.be/CGRN_33/">CGRN 33</ref>. Herodotus explains that woollen clothes are forbidden for the Egyptians in their cultic practices (Hdt. 2.81, and cf. Plut. <title>De Is. Os.</title> 3 and 4 [352b-e]). Comments on the material of the dress of the worshippers occur elsewhere on Delos, for example, in <bibl type="abbr" n="IG XI">IG XI</bibl>.4 1253 an individual (a priest?) prides himself on being a σινδονοφόρος (a wearer fine linen clothes). In that inscription, the consecration is explicitly presented as a result of a divine command: κατὰ πρόσταγμα τοῦ θεοῦ. For further discussion and references, cf. Sokolowski. In our present text, it remains unclear here whether this is also the case; the vague phrase κατὰ πρόσταγμα in line 8 might thus be a shorthand or, perhaps instead, be meant to designate another form of command (e.g. by individual or an official).</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_8" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 8</idno>: <rs type="textType" key="decree">Decree</rs> concerning sacrifices inscribed on a base at Eleusis</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Three fragments of a <rs type="objectType">base</rs> of some sort, preserved on all sides but the left. The monument is unusual and contains three large cuttings on its top, two of them circular on the sides, and the central one rectangular. For further description, notably on the correct placement of the fragments, cf. Clinton <bibl type="abbr" n="IE">IE</bibl> 13, who hypothesizes that the monument may be a dedicatory base. Other sources have identified it as a cult table (Lewis).</p>
+				<p><dimensions>
+					<height unit="cm">23.4</height>
+					<width unit="cm">155</width>
+					<depth unit="cm">48.2</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The spacing of the letters is rather irregular. The height of the letters ranges from <height unit="cm">1.8-2.3</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0500" notAfter="-0475">ca. 500-475 BC</origDate></p>
+			<p><desc>Justification: Jeffery thought that the lettering and the preamble of the decree suggest a date shortly after the reforms of Cleisthenes, i.e. ca. 500, but Clinton holds that the letterforms do not preclude a date as far as into the 470s.</desc></p>
+		</origin>
+		<provenance><p/><placeName type="ancientFindspot" key="Eleusis" n="Attica"><ref target="http://pleiades.stoa.org/places/579920" type="external">Eleusis</ref></placeName>. Found between the Telesterion and the Lesser Propylaia, probably in the area just to the south of the cave precinct. Now in the Museum of Eleusis (inv. no. E553).<p/>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 04-04-2014 by J.M. Carbon and S. Peels.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+<p>Edition here based on Clinton <bibl type="abbr" n="IE">IE</bibl> 13, except for the end of line 4, cf. Commentary; Clinton gives a full bibliography.</p>
+<p>Editions: <bibl type="author_date" n="von Prott 1899">von Prott 1899</bibl>: 241-266 with drawing (fragments a+b+c, the first reconstruction of the whole); <bibl type="abbr" n="IG I³">IG I³</bibl> 5 (Jameson apud Lewis).</p>
+<p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 2; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 4.</p>
+<p>Further bibliography: <bibl type="author_date" n="Körte 1936">Körte 1936</bibl>: 140-141; <bibl type="author_date" n="Ziehen 1944">Ziehen 1944</bibl>: 217-219; 	<bibl type="author_date" n="Healey 1984">Healey 1984</bibl>.
+				</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    					<lb xml:id="line_1" n="1"/> <w lemma="δοκέω"><supplied reason="lost">ἔδοχσε</supplied>ν </w> <pc>⁝</pc> <supplied reason="lost">τε̑ι</supplied> <name type="group"><w lemma="βουλή"><supplied reason="lost">βολε̑ι</supplied></w></name> <pc>⁝</pc> καὶ  <supplied reason="lost">τ</supplied><unclear>ο̑</unclear>ι <name type="group"><w lemma="δῆμος">δέμ<unclear>ο̑</unclear>ι</w></name> <pc>⁝</pc> h<unclear>ό</unclear>τε Παραιβάτες <supplied reason="lost"> <pc>⁝</pc> <w lemma="γραμματεύω">ἐγραμμάτευε</w> <space quantity="2" unit="character"/></supplied> <space quantity="2" unit="character"/>
+	    					
+<lb xml:id="line_2" n="2"/> <name type="sacrifice"><w lemma="προτέλεια"><supplied reason="lost">προτέ</supplied>λεια</w></name> <pc>⁝</pc> <name type="sacrifice"><w lemma="θύω"><unclear>θ</unclear><supplied reason="lost">ύε</supplied>ν</w></name> <pc>⁝</pc> τὸς <name type="personnel"><w lemma="ἱεροποιός">hιερ<unclear>ο</unclear>π<unclear>ο</unclear>ι<unclear>ὸ</unclear>ς</w></name> <pc>⁝</pc> <name type="ethnic" key="Eleusis"><w lemma="Ἐλευσίνιος">Ἐλευσινί<unclear>ο</unclear>ν</w></name> <pc>⁝</pc> καὶ <supplied reason="lost">τ</supplied> <gap reason="lost" quantity="13" unit="character"/><supplied reason="lost"> <pc>⁝</pc></supplied> <w lemma="ἐν"><supplied reason="lost">ἐ</supplied>ν</w> <space quantity="1" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3"/> <supplied reason="lost">τε̑ι</supplied> <placeName key="Eleusis"><w lemma="Ἐλευσίς"><supplied reason="lost">Ἐλ</supplied>ευσῖν<supplied reason="lost">ι</supplied></w></placeName> <name type="structure"><w lemma="αὐλή"><supplied reason="lost">αὐλ</supplied>εῖ</w></name> <pc>⁝</pc> <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">hερμεῖ</w></name> <name type="epithet" key="Enagonios"><w lemma="ἐναγώνιος">Ἐναγ<unclear>ο</unclear>νί<unclear>ο</unclear>ι</w></name> <pc>⁝</pc> <name type="deity" key="Charites"><w lemma="χάρις">Χάρισιν</w></name> <pc>⁝</pc> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <pc>⁝</pc> <gap reason="lost" quantity="15" unit="character"/><orig>ον</orig>
+
+	    					<lb xml:id="line_4" n="4"/> <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν"><supplied reason="lost">Ποσειδ</supplied>ο̑νι</w></name> <pc>⁝</pc> <name type="animal" key="sheep"><name type="gender"><w lemma="κριός"><supplied reason="lost">κριὸ</supplied>ν</w></name></name> <pc>⁝</pc> <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδι</w></name> <pc>⁝</pc> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <pc>⁝</pc> <name type="deity" key="Telesidromos"><w lemma="τελεσίδρομος">Τελεσιδρόμοι</w></name> <pc>⁝</pc> <name type="deity" key="Triptolemos"><w lemma="Τριπτόλεμος">Τρ<unclear>ι</unclear>π<supplied reason="lost">τολέμοι</supplied></w></name> <supplied reason="lost"><pc>⁝</pc> </supplied> <gap reason="lost" quantity="8"/> <space quantity="1" unit="character"/>
+
+<lb xml:id="line_5" n="5"/> <name type="deity" key="Plouton"><w lemma="Πλούτων"><supplied reason="lost">Πλούτο</supplied><unclear>ν</unclear>ι</w></name> <pc>⁝</pc> <orig>δ<gap reason="lost" quantity="4" unit="character"/>χ<unclear>ο</unclear>ι</orig> <pc>⁝</pc> <name type="deity" key="Demeter"><name type="deity" key="Kore"><w lemma="θεός">Θε<unclear>ο</unclear>ῖν</w></name></name> <pc>⁝</pc> <name type="sacrifice"><name type="animal" key="ox"><name type="animal" key="sheep"><name type="animal" key="swine"><w lemma="τριττύα">τρίττ<unclear>ο</unclear>αν </w></name></name></name></name> <pc>⁝</pc> <name type="quality"><w lemma="βόαρχος">β<unclear>ό</unclear>αρχον</w></name> <pc>⁝</pc> <w lemma="ἐν">ἐν</w> τε̑ι <name type="festival"><w lemma="ἑορτή">ἑορ<supplied reason="lost">τε̑ι</supplied></w></name> <supplied reason="lost"><space quantity="1" unit="character"/></supplied>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+	    				<p>[The council] and the people [decided] when Paraibates [was secretary]: that the <foreign>hieropoioi</foreign> of the Eleusinians and [...] are to sacrifice preliminary offerings in [the hall] at Eleusis: to Hermes Enagonios and the Charites a goat [...], to [Poseidon a ram], to Artemis a goat, to Telesidromos and Triptolemos [...], to [Plouton], to D[...] and to the Two Goddesses a triple offering starting with an ox during the festival.</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[Il a plu au conseil] et au peuple, alors que Paraibates [était secrétaire], que les hiéropes des Éleusiniens et [...] sacrifient des offrandes préliminaires dans [la cour] à Éleusis : à Hermès Enagonios et aux Charites un caprin [...], à [Poséidon un bélier], à Artémis un caprin, à Télésidromos et à Triptolème [...], à [Plouton], à D[...], et aux Deux Déesses une offrande triple menée par un bovin durant la fête.</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>
+						
+<p>The text is presented as a "much abbreviated decree" (Clinton on line 1). The context for its inscribing is unclear, though this monumental base should probably relate to important sacrifices. The question is, however, which major festival (cf. line 5) it relates to. Healey supposed that the festival was the Eleusinia, which was mainly held in the stadium. The inscription, however, was found near the entrance of the sanctuary, so Clinton suggests that it ought to relate to the mysteries. No definitive solution is possible and the arguments hinge on the interpretation of the groups of gods and their epithets in this text. We only note that Healey's hypothesis is made somewhat more probable by the deities invoked, such as Hermes Enagonios and Telesidromos (see below). Various offerings are listed and Clinton supposes that "the pattern in this document is not to repeat the victim if it is the same for the preceding deities". This is not definitively established, but it seems probable.</p>
+
+<p>Line 1: Paraibates is otherwise unknown and does not help with the dating.</p>
+
+<p>Line 2: προτέλεια (first suggested by von Prott) can refer to a preliminary offering, but in this case perhaps has a stronger sense of  "rites that took place before τὰ τέλη, the ceremony in the Telesterion" (Clinton, p. 33). Clinton is surely right to take Ἐλευσινίον as a genitive of οἱ Ἐλευσινίοι: these are the local <foreign>hieropoioi</foreign>. Another official or group of officials was probably mentioned in the lacuna.</p>
+
+<p>Line 3: Clinton's restoration of the courtyard (αὐλή) at Eleusis (cf. p. 3-4 and 34) would fit well with the findspot of the inscription near the entrance of the sanctuary. See also <ref target="http://cgrn.ulg.ac.be/CGRN_103/">CGRN 103</ref>, line 23, for the courtyard of an Eleusinion at Phrearrhioi. Hermes Enagonios and the Charites are paired in the Athenian sacrificial calendar, possibly in connection with Eleusinian sacrifices: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_45/">CGRN 45</ref> fr. 3, lines 81-83. There, however, they receive separate offerings, Hermes likely one of a male sheep and the Charites an offering costing ten drachmae, possibly, as here, a goat. Clinton (p. 35) tries at length to deny the expected agonistic context for these offerings, but they appear to still suit the Eleusinia best, rather than to refer to the first recipients of offerings at the mysteries. If we follow Clinton's interpretation, Hermes also received a goat, just like the Charites. Alternatively, he may have shared the goat with the Charites, or perhaps the offering to Hermes has dropped out. At the end of the line, Sokolowski has supplied <supplied reason="lost">πρὸ (το̑ν) Ἐλευσινί</supplied>ον (accepted by Lewis with the addition of the article) which, with 14 letters, would fit the gap rather well. This would then suggest a temporal distinction between the offerings listed here. On the one hand, we would have the <foreign>proteleia</foreign> to Hermes and the Charites before the festival, and then another series of offerings during the festival itself (cf. line 5).</p>	
+
+<p>Line 4: As has been well noted, Pausanias (1.38.6) speaks of a temple of Triptolemos at Eleusis and another of Artemis Propylaia and Poseidon the Father, which suits well the pairing found here, cf. Clinton ad loc. Telesidromos is apparently an unattested deity. Clinton thinks that he could point to the march of initiates to Eleusis, but <foreign>dromos</foreign> again suggests an agonistic context of some sort. Here this figure seems to be paired with Triptolemos, a major hero at Eleusis (cf. Clinton ad loc.). Clinton notes that Telesidromos and Triptolemos may have received "a similar victim" and he restores this as a ram for both. However, the lacuna seems to be somewhat bigger than Clinton accounts for, and so no certainty is possible. </p>
+
+<p>Line 5: Τhe most important sacrifice, somewhat unusually for a "preliminary offering", comes last, and it is specified as occurring during the festival. The <foreign>trittoia</foreign> is a costly offering (in the Athenian calendar, having a price of 130 drachmae). It consists of an ox, a sheep and a pig, usually in that order, and here explicitly specified as such: βόαρχον. In this particular case, it might at first glance be thought that the ox is offered to Plouton, the sheep or ovine animal to the god called D(...) in the lacuna, and the pig to the Two Goddesses (so Körte and Ziehen, who note the oddity of three offerings for four gods, but one may reasonably take Demeter and Kore as a paired unit). Clinton, following his interpretation of the cumulative lists in this text, suggests that each of these four deities received their own <foreign>trittoia</foreign>,  compellingly comparing <ref target="http://cgrn.ulg.ac.be/CGRN_31/">CGRN 31</ref>, lines
+37-38 (422/1 BC, Eleusis), where Demeter and Kore each again receive a <foreign>trittoia</foreign>.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

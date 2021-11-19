@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_104" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 104</idno>: <rs type="textType" key="dossier of regulations">Dossier</rs> of the familial cult of Poseidonios at Halikarnassos</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support><p>Tapering <rs type="objectType">stele</rs> virtually whole, except at the top, and recomposed from at least 20 substantial or smaller fragments.</p>
+									<p><dimensions>
+										<height unit="cm">95.6</height>
+										<width unit="cm">33.7 (top) - 33.6 (bottom)</width>
+										<depth unit="cm">12 (top) - 12.7 (bottom)</depth>
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout><p>Letters: <height unit="mm">5-10</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0300" notAfter="-0225">ca. 285-245 BC</origDate></p>
+							<p><desc>Justification: lettering (Carbon).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Halikarnassos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599636" type="external">Halikarnassos</ref></placeName>. Found built into a house a few hundred meters west of the Maussolleion terrace. Now in the British Museum (inv. no. 4-896; see also the <ref target="http://www.britishmuseum.org/research/collection_online/search.aspx" type="external">British Museum website</ref>, with search ID: 1876, 0701.1).</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				<p>Edition, with some minor corrections, based on Carbon in <bibl type="author_date" n="Carbon - Pirenne-Delforge 2013">Carbon - Pirenne-Delforge 2013</bibl>: 99-114, with ph. fig. 2 and commentary.</p>
+				
+				<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 15, 637; Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 72.</p>
+				
+				<p>Further bibliography: <bibl type="author_date" n="Roller 1999">Roller 1999</bibl>; 
+					<bibl type="author_date" n="Ekroth 2008a">Ekroth 2008a</bibl>; 
+					<bibl type="author_date" n="Pirenne-Delforge - Pironti 2011">Pirenne-Delforge - Pironti 2011</bibl>.</p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab>
+					
+					
+<lb/><gap reason="lost" extent="unknown" unit="line"/> 
+
+<lb xml:id="line_1" n="1"/><w lemma="ἀποστέλλω">ἀπο<unclear>σ</unclear><supplied reason="lost">τ</supplied>είλαντος</w> <w lemma="Ποσειδώνιος">Π<unclear>ο</unclear><supplied reason="lost">σ</supplied><unclear>ε</unclear>ιδ<unclear>ω</unclear><supplied reason="lost">νίο</supplied><unclear>υ</unclear></w> <name type="oracle"><w lemma="χράω"><unclear>χρ</unclear>ησά<unclear>σ</unclear><supplied reason="lost">θα</supplied><unclear>ι</unclear></w></name> 
+
+<lb xml:id="line_2" n="2"/>τῶι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name>, <w lemma="τις">τί</w> <w lemma="ἄν">ἂν</w> <w lemma="αὐτός">αὐτῶι</w> τε καὶ τοῖς <w lemma="ἐκ">ἐξ</w> <w lemma="αὐτός">αὐτοῦ</w> 
+
+<lb xml:id="line_3" n="3"/><w lemma="γίγνομαι">γινομένοις</w> καὶ <w lemma="εἰμί">οὖσιν</w>, <w lemma="ἐκ">ἔκ</w> τε τῶν <name type="person"><w lemma="ἄρσην">ἀρσένων</w></name> καὶ τῶν <name type="person"><w lemma="θῆλυς">θ 
+	
+<lb xml:id="line_4" n="4" break="no"/>ηλειῶν</w></name>, <w lemma="εἰμί">εἴη</w> <w lemma="λωΐων">λώϊον</w> καὶ <w lemma="ἀγαθός">ἄμεινον</w> <w lemma="ποιέω">ποιοῦσιν</w> καὶ <w lemma="πράσσω">πράσ 
+		
+<lb xml:id="line_5" n="5" break="no"/>σουσιν</w>, <name type="oracle"><name type="authority"><w lemma="χράω">ἔχρησεν</w></name></name> ὁ <name type="deity" key="Apollo"><w lemma="θεός">θεός</w></name>, <w lemma="εἰμί">ἔσεσθαι</w> <w lemma="λωΐων">λώϊον</w> καὶ <w lemma="ἀγαθός">ἄμει 
+			
+<lb xml:id="line_6" n="6" break="no"/>νον</w> <w lemma="αὐτός">αὐτοῖς</w> <name type="genericOffering"><w lemma="ἱλάσκομαι">ἱλασκομένοις</w></name> καὶ <name type="genericOffering"><w lemma="τιμάω">τιμῶσιν</w></name>, <w lemma="καθάπερ">καθάπερ</w> 
+
+<lb xml:id="line_7" n="7"/>καὶ οἱ <name type="person"><w lemma="πρόγονος">πρόγονοι</w></name>, <name type="deity" key="Zeus"><w lemma="Ζεύς">Δία</w></name> <name type="epithet" key="Patroios"><w lemma="πατρῷος">Πατρώϊον</w></name> καὶ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνα</w></name> <placeName key="Telemessos"><w lemma="Τελεμέσσος">Τελε 
+	
+<lb xml:id="line_8" n="8" break="no"/>μεσσοῦ</w></placeName> <w lemma="μεδέων">μεδέοντα</w> καὶ <name type="deity" key="Moirai"><w lemma="μοῖρα">Μοίρας</w></name> καὶ <name type="deity" key="generic"><w lemma="θεός">Θεῶν</w></name> <name type="deity" key="Meter"><w lemma="μήτηρ">Μητέρα</w></name>· 
+
+<lb xml:id="line_9" n="9"/><name type="genericOffering"><w lemma="τιμάω">τιμᾶν</w></name> δὲ καὶ <name type="genericOffering"><w lemma="ἱλάσκομαι">ἱλάσκεσθαι</w></name> καὶ <name type="epithet" key="Agathos"><w lemma="ἀγαθός">Ἀγαθ<add place="above">ὸ</add>ν</w></name> <name type="deity" key="Daimon"><w lemma="δαίμων">Δαίμονα</w></name> <w lemma="Ποσειδώνιος">Ποσει 
+	
+<lb xml:id="line_10" n="10" break="no"/>δωνίου</w> καὶ <w lemma="Γόργις">Γοργίδος</w>, τοῖς δὲ <w lemma="οὗτος">ταῦτα</w> <w lemma="διαφυλάσσω">διαφυλάσσουσιν</w> 
+
+<lb xml:id="line_11" n="11"/>καὶ <w lemma="ποιέω">ποιοῦσιν</w> <w lemma="ἀγαθός">ἄμεινον</w> <w lemma="εἰμί">ἔσεσθαι</w>. <space quantity="1" unit="line"/> 
+
+<lb xml:id="line_12" n="12"/><w lemma="Ποσειδώνιος">Ποσειδώνιος</w> <w lemma="Ἰατροκλῆς">Ἰατροκλέους</w> <w lemma="ὑποτίθημι">ὑπέθηκεν</w> τοῖς <w lemma="ἐκ">ἐξ</w> <w lemma="ἑαυτοῦ">ἑαυτοῦ</w> 
+
+<lb xml:id="line_13" n="13"/>καὶ τοῖς <w lemma="ἐκ">ἐκ</w> <w lemma="οὗτος">τούτων</w> <w lemma="γίγνομαι">γινομένοις</w>, <w lemma="ἐκ">ἔκ</w> τε τῶν <name type="person"><w lemma="ἄρσην">ἀρσένων</w></name> 
+
+<lb xml:id="line_14" n="14"/>καὶ τῶν <name type="person"><w lemma="θῆλυς">θηλειῶν</w></name>, καὶ τοῖς <w lemma="λαμβάνω">λαμβάνουσιν</w> <w lemma="ἐκ">ἐξ</w> <w lemma="αὐτός">αὐτῶν</w> 
+
+<lb xml:id="line_15" n="15"/><w lemma="εἰς"><supplied reason="lost">εἰ</supplied>ς</w> <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> οἷς ὁ <name type="deity" key="Apollo"><w lemma="θεός">θεὸς</w></name> <name type="oracle"><name type="authority"><w lemma="χράω">ἔχρησεν</w></name></name> <name type="locality"><w lemma="ἀγρός">ἀγρὸν</w></name> τὸν <w lemma="ἐν">ἐν</w> <placeName key="Astypalaia"><w lemma="Ἀστυπάλαια">Ἀστυ 
+	
+<lb xml:id="line_16" n="16" break="no"/><unclear>πα</unclear>λαίαι</w></placeName> τὸν <w lemma="ὁμορέω">ὁμο<unclear>υ</unclear>ροῦντα</w> <w lemma="Ἄνθης">Ἄνθει</w> καὶ <w lemma="Δαμάγητος">Δαμαγήτωι</w>, 
+
+<lb xml:id="line_17" n="17"/><supplied reason="lost">κ</supplied>αὶ τὴν <name type="structure"><w lemma="αὐλή">αὐλὴν</w></name> καὶ τὸν <name type="locality"><w lemma="κῆπος">κῆπον</w></name> καὶ τὰ <w lemma="περί">περὶ</w> τὸ <name type="structure"><w lemma="μνημεῖον">μνημεῖον</w></name> 
+
+<lb xml:id="line_18" n="18"/><supplied reason="lost">κ</supplied>αὶ τοῦ <w lemma="ἐν">ἐν</w> <placeName key="Taramptos"><w lemma="Τάραμπτος">Ταρά<add place="overstrike">μπ</add>τωι</w></placeName> <w lemma="ἐνηρόσιον">ἐνηροσίου</w> τὸ <w lemma="ἥμισυς">ἥμυσυ</w>· <w lemma="καρπεύω">καρπευ 
+	
+<lb xml:id="line_19" n="19" break="no"/><supplied reason="lost">έ</supplied>τω</w> δὲ καὶ <name type="personnel"><w lemma="ἱερατεύω">ἱερατευέτω</w></name> τῶν <name type="person"><w lemma="ἔκγονος">ἐκγόνων</w></name> τῶν <w lemma="ἐκ">ἐκ</w> <w lemma="Ποσειδώνιος">Ποσει 
+		
+<lb xml:id="line_20" n="20" break="no"/>δωνίου</w> ὁ <name type="person"><w lemma="πρέσβυς">πρεσβύτατος</w></name> <w lemma="εἰμί">ὢν</w> <w lemma="ἀεί">ἀεὶ</w> <w lemma="κατά">κατ’</w> <w lemma="ἀνδρογένεια">ἀνδρογένειαν</w>, 
+
+<lb xml:id="line_21" n="21"/><w lemma="ἀποδίδωμι">ἀποδιδοὺς</w> <w lemma="κατά">κατ’</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <w lemma="χρυσός">χρυσοῦς</w> <w lemma="τέσσαρες">τέσσαρας</w> <w lemma="ἀτελής">ἀτελέ 
+	
+	<lb xml:id="line_22" n="22" break="no"/>ας</w> <pc>⫍</pc> <w lemma="δοκέω">ἔδοξεν</w> <pc>|</pc> <w lemma="Ποσειδώνιος">Ποσ<add place="overstrike">ει</add>δωνίωι</w> καὶ τοῖς <name type="person"><w lemma="ἔκγονος">ἐκγόνοις</w></name> τοῖς 
+
+<lb xml:id="line_23" n="23"/><w lemma="ἐκ">ἐκ</w> <w lemma="Ποσειδώνιος">Ποσειδωνίου</w> καὶ τοῖς <w lemma="λαμβάνω">εἰληφόσιν</w> <w lemma="ἐκ">ἐξ</w> <w lemma="αὐτός">αὐτῶν</w> <w lemma="αἱρέω">αἱρεῖ 
+	
+	<lb xml:id="line_24" n="24" break="no"/>σθαι</w> <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμηνίους</w></name> <w lemma="ἐκ">ἐξ</w> <w lemma="ἑαυτοῦ">ἑαυτῶν</w> <w lemma="τρεῖς">τρεῖς</w> <w lemma="κατά">κατ’</w> <w lemma="ἐνιαυτός">ἐνιαυτό<supplied reason="lost">ν</supplied></w>, 
+
+<lb xml:id="line_25" n="25"/><w lemma="ὅστις">οἵτινες</w> <w lemma="ἀπολαμβάνω">ἀπολαμβάνοντες</w> τῆς <w lemma="ὑποθήκη">ὑποθήκης</w> <w lemma="παρά">π<supplied reason="lost">αρ</supplied>ὰ</w> <supplied reason="lost">τοῦ</supplied> 
+
+<lb xml:id="line_26" n="26"/><name type="personnel"><w lemma="ἱερεύς"><unclear>ἱ</unclear>ερέως</w></name> <w lemma="ἕκαστος">ἑκάστου</w> <w lemma="ἐνιαυτός">ἐνιαυτοῦ</w> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ἐλευθέριος">Ἐλευθερίου</w></name> <w lemma="χρυσός"><supplied reason="lost">χ</supplied>ρυσ<supplied reason="lost">οῦς</supplied></w> 
+
+<lb xml:id="line_27" n="27"/><w lemma="τέσσαρες">τέσσ<supplied reason="lost">α</supplied>ρας</w> <name type="sacrifice"><w lemma="συντελέω">συντελέσουσιν</w></name> τὰς <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name>· <w lemma="ἄν">ἂν</w> δ<supplied reason="lost">ὲ</supplied> <w lemma="μή">μὴ</w> <w lemma="ἀποδίδωμι">ἀπο 
+	
+	<lb xml:id="line_28" n="28" break="no"/>διδῶι</w> ἢ <w lemma="μή">μὴ</w> <w lemma="θέλω">θέληι</w> <w lemma="καρπεύω">καρπεύειν</w>, <w lemma="εἰμί">εἶναι</w> τὰ <w lemma="ὑπόκειμαι">ὑποκείμενα</w> <w lemma="κοινός">κ<supplied reason="lost">οι</supplied>νά</w>, καὶ τοὺς 
+
+<lb xml:id="line_29" n="29"/><name type="personnel"><w lemma="ἐπιμήνιος">ἐπι<supplied reason="lost">μ</supplied>ηνίους</w></name> <w lemma="ἐνδίδωμι">ἐγδιδόναι</w>· τὸ δὲ <name type="structure"><w lemma="τέμενος">τέμενος</w></name> <w lemma="εἰμί">εἶναι</w> <w lemma="κοινός"><supplied reason="lost">κο</supplied><unclear>ι</unclear>νὸν</w> <supplied reason="lost">κ</supplied>αὶ 
+
+<lb xml:id="line_30" n="30"/>τ<supplied reason="lost">οὺ</supplied><unclear>ς</unclear> <name type="personnel"><w lemma="ἐπιμήνιος"><unclear>ἐ</unclear>πιμηνίους</w></name> <w lemma="ἐμμισθόω">ἐγμισθοῦν</w>, καὶ τὸ <w lemma="μίσθωμα">μίσθωμα</w> καὶ τὸ <w lemma="ἐνηρόσιον">ἐνη 
+	
+	<lb xml:id="line_31" n="31" break="no"/><supplied reason="lost">ρό</supplied>σιον</w> <w lemma="κομίζω">κομιζόμενοι</w> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ἑρμαιών">Ἑρμαιῶνος</w></name> <w lemma="ἐπιμελέομαι">ἐπιμελε<unclear>ί</unclear> 
+		
+		<lb xml:id="line_32" n="32" break="no"/>τωσαν</w> <w lemma="ἐπί">ἐπὶ</w> <w lemma="δύο">δύο</w> <w lemma="ἡμέρα">ἡμέρας</w>, τῶι <w lemma="ἱερεύς">ἱερεῖ</w> τὰ <name type="authority"><w lemma="νομίζω">νομιζόμε<supplied reason="lost">ν</supplied><unclear>α</unclear></w></name> 
+
+<lb xml:id="line_33" n="33"/><w lemma="παρέχω">παρέχον<add place="overstrike">τε</add>ς</w> <w lemma="εἰς">εἰς</w> τὰς <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> <w lemma="πᾶς">πάντα</w>, τῆι μὲν <w lemma="πρότερος">π<unclear>ρ</unclear>ώτηι</w> 
+
+<lb xml:id="line_34" n="34"/><name type="sacrifice"><w lemma="θύω">θύειν</w></name> <name type="deity" key="Tyche"><w lemma="τύχη">Τύχηι</w></name> <name type="epithet" key="Agathe"><w lemma="ἀγαθός">Ἀγαθῆι</w></name> <name type="person"><w lemma="πατήρ">πατρὸς</w></name> καὶ <name type="person"><w lemma="μήτηρ">μητρὸς</w></name> <w lemma="Ποσειδώνιος">Ποσε<unclear>ι</unclear><supplied reason="lost">δ</supplied><unclear>ω</unclear>νίου</w> 
+
+<lb xml:id="line_35" n="35"/><name type="animal" key="sheep"><name type="gender"><w lemma="κριός"><unclear>κ</unclear>ριὸν</w></name></name> καὶ <name type="deity" key="Daimon"><w lemma="δαίμων">Δαίμονι</w></name> <name type="epithet" key="Agathos"><w lemma="ἀγαθός">Ἀγαθῶι</w></name> <w lemma="Ποσειδώνιος">Ποσειδωνίου</w> καὶ <w lemma="Γόργις"><supplied reason="lost">Γο</supplied>ργίδος</w> 
+
+<lb xml:id="line_36" n="36"/><name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριόν</w></name></name>, τῆι δὲ <w lemma="δεύτερος">δευτέραι</w> <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <name type="epithet" key="Patroios"><w lemma="πατρῷος">Πατρώιωι</w></name> <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριὸν</w></name></name> καὶ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλων<unclear>ι</unclear></w></name> 
+
+<lb xml:id="line_37" n="37"/><placeName key="Telemessos"><w lemma="Τελεμέσσος">Τελεμεσσοῦ</w></placeName> <w lemma="μεδέων">μεδέοντι</w> <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κρ<supplied reason="lost">ιὸν</supplied></w></name></name> καὶ <name type="deity" key="Moirai"><w lemma="μοῖρα">Μοίραις</w></name> <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριὸν</w></name></name> <space quantity="4" unit="character"/> 
+
+<lb xml:id="line_38" n="38"/>καὶ <name type="deity" key="generic"><w lemma="θεός">Θεῶν</w></name> <name type="deity" key="Meter"><w lemma="μήτηρ">Μητρὶ</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name>· ὁ δὲ <name type="personnel"><w lemma="ἱερεύς">ἱε<unclear>ρ</unclear><supplied reason="lost">ε</supplied>ὺς</w></name> <name type="portion"><w lemma="λαμβάνω"><choice> <corr>λ</corr> <sic>Δ</sic> </choice>αμβανέτω</w></name> <w lemma="ἕκαστος">ἑκάστου</w> 
+
+<lb xml:id="line_39" n="39"/><name type="animal" key="generic"><w lemma="ἱερεῖον"><unclear>ἱ</unclear>ερείου</w></name> <name type="portion"><w lemma="κωλῆ">κωλῆν</w></name> καὶ <name type="portion"><w lemma="τεταρτημορίς">τεταρτη<unclear>μ</unclear><supplied reason="lost">ο</supplied><unclear>ρ</unclear>ίδα</w></name> <name type="portion"><w lemma="σπλάγχνον">σπλάγχνων</w></name>, 
+
+<lb xml:id="line_40" n="40"/>καὶ τῶν <w lemma="ἄλλος">ἄλλων</w> <name type="portion"><w lemma="ἰσόμοιρος">ἰσόμοιρος</w></name> <w lemma="εἰμί">ἔ<unclear>στω</unclear></w>· τὰ δὲ <w lemma="λοιπός">λοιπὰ</w> <name type="portion"><w lemma="κρέας">κρέα</w></name> ο<unclear>ἱ</unclear> 
+
+<lb xml:id="line_41" n="41"/><name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμήνιοι</w></name>, <name type="portion"><w lemma="ἀφαιρέω">ἀφελόντες</w></name> <w lemma="ἱκανός">ἱκανὰ</w> τοῖς <name type="meal"><w lemma="δειπνέω">δειπνοῦσιν</w></name> καὶ 
+
+<lb xml:id="line_42" n="42"/><name type="person"><w lemma="γυνή">γυναιξίν</w></name>, <name type="portion"><w lemma="μερίς">μερίδας</w></name> <name type="portion"><w lemma="ποιέω">ποησάντωσαν</w></name> <name type="quality"><w lemma="ἴσος">ἴσας</w></name> καὶ <name type="portion"><w lemma="ἀποδίδωμι">ἀποδόντω 
+	
+	<lb xml:id="line_43" n="43" break="no"/>σαν</w></name> <w lemma="ἕκαστος">ἑκάστωι</w> <name type="portion"><w lemma="μερίς">μερίδα</w></name> τῶν τε <w lemma="πάρειμι">παρόντων</w> καὶ τῶν <w lemma="ἄπειμι">ἀπόντων</w>, 
+
+<lb xml:id="line_44" n="44"/>τὰς δὲ <name type="portion"><w lemma="κεφαλή">κεφαλὰς</w></name> καὶ τοὺς <name type="portion"><w lemma="πούς">πόδας</w></name> <w lemma="αὐτός">αὐτοὶ</w> <w lemma="ἔχω">ἐχόντων</w>, τὰ δὲ 
+
+<lb xml:id="line_45" n="45"/><name type="portion"><w lemma="κῴδιον">κώιδια</w></name> <w lemma="πωλέω">πωλούντων</w> <w lemma="ἐν">ἐν</w> τῶι <name type="group"><w lemma="θίασος">θιάσωι</w></name> καὶ τῆι <w lemma="δεύτερος">δευτέραι</w> 
+
+<lb xml:id="line_46" n="46"/><w lemma="λόγος">λόγον</w> <w lemma="ἀποδίδωμι">ἀπο<choice> <corr>δ</corr> <sic>Λ</sic> </choice>όντωσαν</w> <w lemma="πρό">πρὸ</w> τοῦ <name type="meal"><w lemma="δεῖπνον">δείπνου</w></name> <w lemma="ἀναγράφω">ἀνα 
+	
+<lb xml:id="line_47" n="47" break="no"/>γράψαντες</w> <w lemma="εἰς">εἰς</w> ὃ <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ἀναλίσκω">ἀνήλωται</w>, καὶ τὸ 
+
+<lb xml:id="line_48" n="48"/><w lemma="περιγίγνομαι">περιγινόμενον</w> <w lemma="ἀναλίσκω">ἀναλίσκειν</w> <w lemma="εἰς">εἰς</w> <name type="genericOffering"><w lemma="ἀνάθημα">ἀναθήματ<unclear>α</unclear></w></name>· 
+
+<lb xml:id="line_49" n="49"/><w lemma="ἀναγράφω">ἀναγράψαι</w> δὲ καὶ τὸν <name type="oracle"><name type="authority"><w lemma="χρησμός">χρησμὸν</w></name></name> καὶ τὴν <w lemma="ὑποθήκη">ὑποθήκην</w> 
+
+<lb xml:id="line_50" n="50"/>κ<supplied reason="lost">αὶ</supplied> τὸ <w lemma="δόγμα">δόγμα</w> ἐν <objectType><w lemma="στήλη">στήληι</w></objectType> <w lemma="λίθινος">λιθίνηι</w> καὶ <w lemma="ἵστημι">στῆσαι</w> <w lemma="ἐν">ἐν</w> τῶι 
+
+<lb xml:id="line_51" n="51"/><name type="structure"><w lemma="τέμενος">τεμένε<supplied reason="lost">ι</supplied></w></name>· τοῖς δὲ <w lemma="οὗτος">ταῦτα</w> <w lemma="διαφυλάσσω">διαφυλάσσουσιν</w> καὶ <w lemma="ποιέω">ποιοῦ 
+	
+<lb xml:id="line_52" n="52" break="no"/>σιν</w> <w lemma="ἀγαθός">ἄμεινον</w> <w lemma="γίγνομαι">γίνοιτο</w> <w lemma="ὑπό">ὑπὸ</w> <name type="deity" key="generic"><w lemma="θεός">θεὸν</w></name> καὶ <name type="person"><w lemma="ἄνθρωπος">ἄνθρωπον</w></name>. <space quantity="4" unit="character"/> 
+
+<lb/><space extent="unknown" unit="line"/> </ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				
+				<p>I (Oracle): When Poseidonios sent away (a delegation) to make an oracular enquiry to Apollo, (asking) what would be better and more advantageous for him and his descendants born from him, and those born (after) both from male and female offspring, to do and to attempt, (5) the god replied that it would be better and more good for them to propitiate and to honour, as their ancestors did, Zeus Patroios, Apollo who rules over Telemessos, the Moirai (Fates) and the Mother of the Gods. And they are also to honour and propitiate the Agathos Daimon of Poseidonios (10) and of Gorgis. May it be better for those who maintain and enact these (commands).</p>
+				
+				<p>II (Pledge/bequest): Poseidonios the son of Iatrokles gave as a pledge to his own descendants, to their descendants both from male and female offspring, and to those who take (wives?) from them (i.e. in-laws), (15) for the sacrifice to those gods whom the god prescribed: the field in Astypalaia, which borders with (the land of) Anthes and Damagetos, and the courtyard, and the garden, and the land surrounding the tomb, as well as a half of the rights of tillage (ploughing) at Taramptos. (20) Let the one who is the oldest among the descendants of Poseidonios, according to the line of male descent, always exploit (these bequests) and serve as priest, handing over four gold pieces net each year.</p>
+				
+				<p>III (Decree): It was decided by Poseidonios, the descendants of Poseidonios and those who have taken (wives?) from them to appoint from their ranks each year three <foreign>epimenioi</foreign>, (25) who, when they have received from the priest during the month of Eleutherios the four gold pieces (derived) each year from the pledge, will put on the sacrifices. But if he (the priest) fails to pay or refuses to exploit (the endowments), then the pledged properties are to be held in common (by the family) and leased out by the <foreign>epimenioi</foreign>. The precinct is also to become common property and (30) to be leased out by the <foreign>epimenioi</foreign>. And providing the rent money and the money from the right of tillage: let them supervise the rites for two days during the month of Hermaion, providing all the customary necessities for the sacrifices to the priest: on the first day, sacrifice a ram to the Good Fortune of the father and mother of Poseidonios, (35) as well as a ram to the Agathos Daimon of Poseidonios and Gorgis; on the second day, a ram is to be sacrificed to Zeus Patroios, a ram to Apollo who rules over Telemessos, a ram to the Moirai (Fates) and a goat to the Mother of the Gods. Let the priest obtain from each animal a thigh and a quarter-portion of the entrails, (40) and he is to have an equal share of the other parts. Let the <foreign>epimenioi</foreign>, having extracted sufficient quantities of the remaining meat for the banqueters and the wives, make equal portions and give such a portion to each of those present and absent. But let them reserve the heads and feet for themselves. And (45) they must sell the fleeces in the <foreign>thiasos</foreign> and give an account on the second day before the dinner, writing up for what each sum was spent, and the remainder (i.e. the profit) is to be spent on dedicatory offerings. The oracle, the pledge (50) and the decree are to be written up on a marble stele and set up in the precinct. May it be better under (the control of) god and man for those who maintain and enact these (commands).</p>
+				
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				
+				<p>I (Oracle) : Lorsque Poseidonios envoya (une délégation) afin de consulter l'oracle d'Apollon, (demandant) ce qui serait le meilleur et le plus avantageux pour lui-même et ses descendants, ceux qui sont nés de lui-même, et ceux qui sont nés (ensuite) à la fois du côté masculin et féminin, de faire et d'entreprendre, (5) le dieu lui répondit qu'il serait meilleur et plus avantageux pour eux de rendre propice et d'honorer, tel que leurs ancêtres l'avait fait, Zeus Patroios, Apollon qui règne sur Telemessos, les Moires, et la Mère des Dieux. Et ils doivent aussi honorer et rendre propice l'Agathos Daimon de Poseidonios (10) et de Gorgis. Que tout se passe au mieux pour ceux qui observent (ces injonctions) et les appliquent.</p>
+				
+				<p>II (Donation) : Poseidonios le fils de Iatroklès a donné en gage à ses propres descendants, à leurs descendants du côté masculin et féminin, et à ceux qui ont pris (des femmes ?) parmi elles (c'est-à-dire: les gendres), (15) pour le sacrifice envers les dieux que le dieu a prescrit : le champ à Astypalaia , qui borde (les terres) d'Anthes et de Damagetos, la cour, le jardin, et les terres autour du tombeau, ainsi que la moitié des revenus de labourage à Taramptos. (20) Pour toujours, que celui qui sera l'aîné parmi les descendants de Poseidonios, selon la lignée mâle, exploite (les gages) et serve de prêtre, fournissant quatre pièces d'or nettes (de revenu pour les sacrifices) chaque année.</p>
+				
+				<p>III (Décret) : Il a été décidé par Poseidonios, les descendants de Poseidonios, et ceux qui ont pris (femme ?) parmi elles, de nommer chaque année trois <foreign>epimenioi</foreign> parmi eux, (25) qui, lorsqu'ils auront chaque année au mois d'Eleutherios reçu du prêtre les quatre pièces d'or nettes (dérivées) du gage, accompliront les sacrifices. Mais s'il (le prêtre) manque de payer ou refuse d'exploiter (les gages), alors les propriétés en gage seront tenues en commun (par la famille) et mises en location par les <foreign>epimenioi</foreign>. L'enceinte sacrée sera également une propriété commune et (30) sera mise en location par les <foreign>epimenioi</foreign>. Et ayant obtenu l'argent de la location et celui des revenus de labourage, qu'ils supervisent les rites pendant deux jours durant le mois d'Hermaion, fournissant toutes les nécessités coutumières pour les sacrifices au prêtre : le premier jour, sacrifier un bélier à la Bonne Fortune du père et de la mère de Poseidonios, (35) ainsi qu'un bélier à l'Agathos Daimon de Poseidonios et de Gorgis; le deuxième jour, un bélier à Zeus Patroios, un bélier à Apollon qui règne sur Telemessos, un bélier aux Moires, et un caprin à la Mère des Dieux. Que le prêtre reçoive de chaque animal sacrificiel une cuisse et un quart des viscères, (40) et qu'il ait une part égale des autres bénéfices. Que les <foreign>epimenioi</foreign>, ayant prélevé des quantités suffisantes de viande pour ceux qui dînent et les femmes, découpent des portions égales et les distribuent à ceux qui sont présents et absents. Mais qu'ils se réservent les têtes et les pieds. Et (45) ils doivent vendre les toisons au sein de l'assemblée du thiase et en rendre compte le second jour avant le repas, inscrivant ce pour quoi chaque somme a été dépensée, et la somme restante doit être utilisée pour des offrandes (dédicaces). L'oracle, le don, (50) et le décret doivent être inscrits sur une stèle de marbre, érigée dans l'enceinte. Que tout se passe au mieux, sous (le regard) divin et humain, pour ceux qui observent (ces injonctions) et les appliquent.</p>
+				
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+				<p>The text as a whole is a dossier describing the cultic foundation of a certain Poseidonios at Halikarnassos. The inscription is composed of three separate sections, each distinguished by a <foreign>paragraphos</foreign> at the left margin (in line 22, also with punctuation). These sections, itemised in lines 49-50, are: an oracle sought by Poseidonios, together with the response of the god (lines 1-11); a bequest or pledge of properties and revenues by Poseidonios to his descendants (lines 12-22); and finally a decree enacted by Poseidonios and his family concerning the rites and other business of the cult group (lines 22-52). The arrangement of the documents may be chronological, though that cannot be confirmed: Poseidonios perhaps first sought an oracle with the intention of founding a cult of his Agathon Daimon (Good Genius or Spirit, on which cf. our Commentary below); then he bequeathed various properties and other sources of revenue to his descendants to fund this cult; finally, a decree passed by his family added further details concerning the functioning of the cult. On cultic foundations in the early Hellenistic period see now Carbon and Pirenne-Delforge, as well as, here, <ref target="CGRN_96">CGRN 96</ref> (Kos) and <ref target="CGRN_152">CGRN 152</ref> (Thera), for other familial foundations. Given the CGRN's current focus on sacrifice, the commentary here will especially concentrate on this aspect of the foundation; for further commentary, see Carbon.</p>
+				
+				<p>Lines 1-11: An oracle is a conventional means of securing divine approval for the installation of a new sanctuary or cult, or for any modification to an existing cult; see also here <ref target="CGRN_24">CGRN 24</ref> (Athens), lines A3-4. The source of the oracle sought by Poseidonios is not known, and the language recorded here is twofold and highly pleonastic, which is typical of oracles and their formulae (such as Delphi and Dodona, for instance). The set of gods recommended by the oracle is explicitly cited as being the one Poseidonios' ancestors worshipped (καθάπερ ... οἱ πρόγονοι). Zeus Patroios is a god typically worshipped by a family, household, or larger familial group such a <foreign>genos</foreign> (cp. also Zeus Ktesios or Pasios). Here he heads a small cohort including a local Apollo, the Moirai and Meter. For the Moirai, see Pironti and Pirenne-Delforge; on Meter, see Roller. For Telemessos, a Karian site near Halikarnassos which was famous for its diviners, possibly to be identified with Alazeitin, see Carbon. For the Agathos Daimon followed by the genitive of individuals, a type of cult which appears to designate a form of worship not unlike heroisation, cf. also Carbon; this type of cult is especially common in Karia. Gorgis is presumed to be Poseidonios' wife.</p>
+				
+				<p>Lines 12-22: Poseidonios employs a <foreign>hypotheke</foreign>, a form of guaranteed pledge instead of a testamentary bequest, to ensure that the cult foundation will be well-financed. The financing of the cult, a total of four Ptolemaic gold pieces annually, consists of revenue derived from a number of properties as well as a sum qualified as half of the rights of ploughing at a place Taramptos (or Tarampton); the latter is rather obscure, but on the basis of an analogy with Delos may be identified as revenue obtained from farmers who tilled and cultivated sacred land. These properties and revenues are to be administered and exploitated in perpetuity by the eldest of Poseidonios' male descendants, who is to serve as priest for the cult. Among the properties bequeathed by Poseidonios is a tomb or memorial, line 17. This suggests a familial grave site of some sort, perhaps near the Maussolleion and the findspot of the inscription (cf. lines 50-51, the stele was set up "in the precinct"). The structure and its surroundings are probably what the decree refers to as the precinct (<foreign>temenos</foreign>). This may also have included the courtyard and the grove which are mentioned alongside this tomb.</p>
+				
+				<p>Lines 12-15 and 22-23: Poseidonios' family and cult group are defined in inclusive terms here, as well as in the oracle. His direct descendants are mentioned, just as their descendants too, both from a male and female line of descent (the third generation). It may be presumed that successive generations would also be included in the familial cult. The phrases "those who take from them" and "those who have taken from them" appear to designate relatives by marriage, probably male in-laws (female ones may also be possible). This high degree of inclusivity is also prominent in the distribution of meat resulting from the sacrifices, where portions are given to members of the family who are present at the rites but also reserved for absentees (line 43), and where women (who presumably do not dine with the men) also receive a portion (lines 41-42).</p>
+				
+				<p>Lines 23-31: The decree envisages the possibility that the appointed priest (the eldest male descendant) may be indisposed or unwilling to perform his duties (lines 27-28 esp.). Accordingly, three 'monthly' officials (<foreign>epimenioi</foreign>) are appointed from members of the family to obtain the financing for the rites and to assist the priest in supervising them. These do not appear to be officials solely appointed for a month, but rather caretakers of the bequest and the cult. For a discussion of <foreign>epimenioi</foreign>, see Carbon - Pirenne-Delforge.</p>
+				
+				<p>Lines 31-38: The calendar of Halikarnassos is poorly understood, but Eleutherios, the month in which the financing for the rites is to be obtained, must occur before (perhaps immediately before) Hermaion, when the sacrifices are to happen. The sacrifices founded by Poseidonios take place over the course of two days, which are apparently numbered rather than being assigned to specific dates. On the first, the Good Genius of Poseidonios and Gorgis is offered a sacrifice, as the oracle prescribed, but this is prefaced by an offering to the Good Fortune of the Poseidonios' parents (his father Iatrokles and his mother). The oracle did not mention this cult and it appears to be a particularity of the familial decree: was it perhaps a traditional cult in the family or a new addition? It may be possible to link this cult of Poseidonios' parents (presumably deceased) with the tomb or memorial mentioned in the document. The ram appears to be the typical sacrificial animal considered here, with only one exception: the goat offered to Meter.</p>
+				
+				<p>Lines 38-40: The priest receives a thigh from each animal sacrificed, a typical priestly portion, as well as a fourth portion of the entrails, a measure which is commonly found in Karia, see also here <ref target="CGRN_42">CGRN 42</ref> (Iasos), and <ref target="CGRN_119">CGRN 119</ref> (Halikarnassos), lines 6-12.</p>
+				
+				<p>Lines 42-43: For the division of meat into equal portions and meat distributions generally, see Ekroth.</p>
+				
+				<p>Line 44: The <foreign>epimenioi</foreign> receive the feet and heads of all sacrificial animals, which are also commonly found as priestly portions (e.g. <ref target="CGRN_193">CGRN 193</ref>, Hyllarima), but are sometimes specifically reserved for other members of the cult personnel (e.g. <bibl type="abbr" n="LSAM">LSAM</bibl> 70, lines 7-8: heads and intestines).</p>
+				
+				
+			</div>
+		</body>
+	</text>
+</TEI>

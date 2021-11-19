@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_163" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt> <title><idno type="filename">CGRN 163</idno>: <rs type="textType" key="priestly contract">Contract</rs> of (sale for?) the priesthood of Nike on Kos</title> <author>Jan-Mathieu Carbon</author> <author>Stéphanie Paul</author> <author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt> <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority> <availability>
+				<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+				<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p> </availability>
+			</publicationStmt>
+			<sourceDesc> <msDesc> <msIdentifier> <repository>n/a</repository> </msIdentifier> <physDesc> <objectDesc> <supportDesc> <support> <p>
+				<rs type="objectType">Stele</rs> of white marble broken at the bottom. The left margin is partly hewed and side A has been chiseled, so that it is no longer legible.</p>
+				<p>
+					<dimensions>
+						<height unit="cm">44.5</height>
+						<width unit="cm">41-44</width>
+						<depth unit="cm">12.5</depth> </dimensions></p> 
+			</support> 
+				</supportDesc> 
+					<layoutDesc> 
+						<layout>
+							<p> Letters: <height unit="cm">0.9-1.1</height>; space between lines: <height unit="cm">0.3</height></p> </layout>
+</layoutDesc> 	
+</objectDesc> 
+</physDesc> 
+<history> 
+<origin>
+				<p><origDate notBefore="-0100" notAfter="-0001">1st century BC</origDate></p>
+								
+				<p><desc>Justification: lettering (Hallof - Bosnakis).</desc></p> 
+</origin> 
+	<provenance>
+		<p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found in secondary use. Now in the Castle (inv. no. E 385). </p> 
+</provenance> 
+</history> 
+</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2016 by Z. Pitz </p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage> 
+				<language ident="eng">English</language> 
+				<language ident="grc">Ancient Greek</language> 
+				<language ident="lat">Latin</language> 
+				<language ident="fre">French</language> 
+				<language ident="ger">German</language> 
+				<language ident="gre">Modern Greek</language> 
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by J.-M. Carbon in 05.2018.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography"> <head>Bibliography</head>
+				
+				<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 330. We only include Face B here.</p>
+				
+				<p> Other editions: 
+					<bibl type="author_date" n="Maiuri 1925">Maiuri 1925</bibl> no. 441, with ph.; 
+					Segre <bibl type="abbr" n="I.Cos">I.Cos</bibl> ED 89 with ph. pl. 29.</p>
+				
+				<p> Cf. also: Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 163; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20330" type="external">IG-online</ref>, with the Greek text and a translation in German. </p>
+				
+				<p> Further bibliography: 
+					<bibl type="author_date" n="Lissarrague 1991">Lissarrague 1991</bibl>: 174-178; 
+					<bibl type="author_date" n="Kaminski 1991">Kaminski 1991</bibl>; 
+					<bibl type="author_date" n="Lupu 2003b">Lupu 2003b</bibl>: 335-339; 
+					<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 150-153; 
+					<bibl type="author_date" n="Peels 2016">Peels 2016</bibl>.</p>
+			</div>
+			
+			<div type="edition"> <head>Text</head>
+				<ab subtype="Face" n="B">Face B 
+					
+					<lb xml:id="line_1" n="1"/><name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θυ</supplied>όντω</w></name> δὲ καὶ τοὶ τὸς <w lemma="γάμος">γάμος</w> <w lemma="ἐν">ἐν</w> τῷ <name type="structure"><w lemma="ἱερός">ἱερῷ</w></name> <name type="person"><w lemma="ποιέω">π<supplied reason="lost">οιεῦ</supplied> 
+						
+						<lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">ντ</supplied>ες</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <name type="age"><w lemma="τέλειος">τέλειον</w></name> <w lemma="ἀπό">ἀπὸ</w> <num value="30">U+10175λ̅</num> · <name type="sacrifice"><w lemma="θύω">θυέτω</w></name> δὲ κ<supplied reason="lost">αὶ</supplied> 
+					
+					<lb xml:id="line_3" n="3"/><supplied reason="lost">τῶ</supplied>ν <w lemma="ἄλλος">ἄλλων</w> ὁ <name type="person"><w lemma="χρῄζω">χρῄζων</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <w lemma="ὅς">ὃ</w> <name type="authority"><w lemma="νομίζω">νομίζετα<supplied reason="lost">ι</supplied></w></name> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> 
+					
+					<lb xml:id="line_4" n="4"/><w lemma="ὅς"><supplied reason="lost">αἷ</supplied>ς</w> <w lemma="ἡμέρα">ἁμέραις</w> <name type="authority"><w lemma="ὅσιος">ὅσιόν</w></name> <w lemma="εἰμί">ἐστιν</w> <name type="sacrifice"><w lemma="θύω">θύεν</w></name>· ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> <w lemma="ἐπί">ἐπὶ</w> <supplied reason="lost">τὰ</supplied> 
+					
+					<lb xml:id="line_5" n="5"/><name type="genericOffering"><w lemma="ἱερός"><supplied reason="lost">ἱε</supplied>ρὰ</w></name> <w lemma="ὅς">ἃ</w> <w lemma="ποιέω">ποιεῖται</w> ὁ <name type="group"><w lemma="δῆμος">δᾶμος</w></name> τᾶι <num value="20">κ̅</num> τοῦ <name type="month"><w lemma="Πεδαγείτνυος">Πεταγει<supplied reason="lost">τν</supplied> 
+						
+						<lb xml:id="line_6" n="6" break="no"/><unclear>ύ</unclear>ου</w></name> <w lemma="μήν">μηνὸς</w> <w lemma="συμπομπεύω">συμπομπευέτω</w> <w lemma="μετά">μετὰ</w> τοῦ <name type="title"><w lemma="μόναρχος">μο 
+							
+							<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">ν</supplied>άρχου</w></name> καὶ τῶν <name type="personnel"><w lemma="ἱεροποιός">ἱεροποιῶν</w></name> καὶ τῶ<supplied reason="omitted">ν</supplied> <name type="person"><w lemma="νικάω">νενικακότω 
+								
+								<lb xml:id="line_8" n="8" break="no"/><supplied reason="lost">ν</supplied></w></name> τὸς <name type="adornment"><w lemma="στεφανίτης">στεφανίτας</w></name> <name type="festival"><w lemma="ἀγών">ἀγῶνας</w></name>, <w lemma="ἔχω">ἔχων</w> καὶ <name type="clothing"><w lemma="χιτών">κιτῶνα</w></name> <name type="colour2"><w lemma="πορφύρεος">π 
+									
+									<lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">ορ</supplied>φύρεον</w></name> καὶ <name type="object"><w lemma="δακτύλιος">δακτυλίος</w></name> <name type="colour2"><w lemma="χρύσεος">χρυσέος</w></name> καὶ <name type="adornment"><w lemma="στέφανος">στέφ 
+										
+										<lb xml:id="line_10" n="10" break="no"/><supplied reason="lost">ανο</supplied>ν</w></name> <name type="vegetal"><w lemma="θάλλινος">θάλλινον</w></name>· τὰν δὲ <w lemma="αὐτός">αὐτὰν</w> <name type="clothing"><w lemma="ἐσθής">ἐσθῆτα</w></name> <w lemma="ἔχω">ἐχέτω</w> 
+					
+					<lb xml:id="line_11" n="11"/><w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τ</supplied>ῷ <name type="structure"><w lemma="ἱερός">ἱερῷ</w></name> καὶ <w lemma="ἐν">ἐν</w> ταῖς <w lemma="λοιπός">λοιπαῖς</w> <name type="sacrifice"><w lemma="θυσία">θυσίαις</w></name> <w lemma="πᾶς">πάσαι 
+						
+						<lb xml:id="line_12" n="12" break="no"/><supplied reason="lost">ς</supplied></w><supplied reason="lost">,</supplied> <name type="clothing"><name type="colour2"><w lemma="λευχειμονέω"><supplied reason="lost">λ</supplied>ευχιμονίτω</w></name></name> δὲ <w lemma="διά">διὰ</w> <w lemma="βίος">βίου</w>, καὶ <name type="purification"><w lemma="ἁγνεύω">ἁγνευέσθω</w></name> 
+					
+					<lb xml:id="line_13" n="13"/><w lemma="ὅσος"><supplied reason="lost">ὅσ</supplied><unclear>ω</unclear>ν</w> καὶ τοῖς <w lemma="λοιπός">λοιποῖς</w> <name type="personnel"><w lemma="ἱερεύς">ἱερεῦσι</w></name> <name type="authority"><w lemma="προστάσσω">ποτιτέτακται</w></name> <name type="purification"><w lemma="ἁγνεύω">ἁ 
+						
+						<lb xml:id="line_14" n="14" break="no"/><supplied reason="lost">γν</supplied>εύεσθαι</w></name>· <name type="portion"><w lemma="γέρας">γέρη</w></name> δὲ <w lemma="λαμβάνω">λαμβανέτω</w> τῶν <name type="sacrifice"><w lemma="θύω">θυομέν 
+							
+							<lb xml:id="line_15" n="15" break="no"/><supplied reason="lost">ω</supplied><unclear>ν</unclear></w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοὸς</w></name> μὲν <w lemma="ἤ">ἢ</w> <name type="animal" key="sheep"><w lemma="ὄϊς">οἰὸς</w></name> <name type="portion"><w lemma="δέρμα">δέρμα</w></name> καὶ <name type="portion"><w lemma="σκέλος">σκέλος</w></name>, τῶν δὲ 
+					
+					<lb xml:id="line_16" n="16"/><w lemma="ἄλλος"><supplied reason="lost">ἄλ</supplied>λων</w> <name type="portion"><w lemma="σκέλος">σκέλος</w></name>, <name type="genericOffering"><w lemma="ἐπιτίθημι">ἐπιτιθέντω</w></name> δὲ τοὶ <name type="sacrifice"><w lemma="θύω">θύοντες</w></name> 
+					
+					<lb xml:id="line_17" n="17"/><w lemma="ἐπί"><supplied reason="lost">ἐ</supplied>πὶ</w> τὰν <name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name> τῶν <name type="genericOffering"><w lemma="ἱερός">ἱερῶν</w></name> τᾶι <name type="deity" key="Nike"><w lemma="θεός">θεῷ</w></name>, <name type="genericOffering"><w lemma="ἐμβάλλω">ἐμβα<supplied reason="lost">λ</supplied> 
+						
+						<lb xml:id="line_18" n="18" break="no"/><supplied reason="lost">λ</supplied>όντω</w></name> δὲ καὶ <w lemma="εἰς">ἐς</w> τὸν <name type="structure"><w lemma="θησαυρός">θησαυρὸν</w></name> τῶν μὲν <name type="animal" key="ox"><w lemma="βοεικός">βοϊ<unclear>κ</unclear><supplied reason="lost">ῶ</supplied> 
+							
+							<lb xml:id="line_19" n="19" break="no"/><supplied reason="lost">ν</supplied></w></name> <w lemma="ἱερεῖον"><supplied reason="lost">ἱ</supplied>ερείων</w> <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="ἕκαστος">ἑκάστου</w> U+10175α̅, τῶν δὲ <w lemma="ἄλλος">ἄλλων</w> <num value="3">U+1017C</num>· <w lemma="οὗτος">τ<supplied reason="lost">ού</supplied> 
+								
+								<lb xml:id="line_20" n="20" break="no"/><supplied reason="lost">τ</supplied>ου</w> δὲ τὸ μὲν <w lemma="ἥμισυς">ἥμισον</w> <w lemma="εἰμί">ἔστω</w> τᾶς <name type="deity" key="Nike"><w lemma="νίκη">Νίκας</w></name>, τὸ δὲ 
+					
+					<lb xml:id="line_21" n="21"/><surplus><supplied reason="lost">τ</supplied>ὸ δὲ</surplus> <name type="portion"><w lemma="ἥμισυς">ἥμισον</w></name> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name>· <w lemma="ἀνοίγνυμι">ἀνοιγόντω</w> δὲ τὸν <name type="structure"><w lemma="θησαυρός">θη 
+						
+						<lb xml:id="line_22" n="22" break="no"/><supplied reason="lost">σ</supplied>αυρὸν</w></name> τοὶ <name type="title"><w lemma="προστάτης">προστάται</w></name> <w lemma="μετά">μετὰ</w> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name> <w lemma="διά">δι᾿</w> <w lemma="ἔτος">ἐτῶ 
+							
+							<lb xml:id="line_23" n="23" break="no"/>ν</w> <num value="2">β̅</num>, καὶ τὸ <w lemma="γίγνομαι">γινόμενον</w> τᾶς <w lemma="ἄνοιξις">ἀνοίξιος</w> <w lemma="τέλεσμα">τέλεσμα</w> 
+					
+					<lb xml:id="line_24" n="24"/><w lemma="ἀφαιρέω">ἀφαιρεύντω</w> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="εὑρίσκω">εὑρεθέντος</w>· <w lemma="ὅπως">ὅπως</w> δὲ 
+					
+					<lb xml:id="line_25" n="25"/>καὶ ἁ <w lemma="πομπή">πομπὰ</w> τᾷ <name type="deity" key="Nike"><w lemma="θεός">θεῷ</w></name> <w lemma="ἐπιφανής">ἐπιφανέστερον</w> <w lemma="συντελέω">συντε 
+						
+						<lb xml:id="line_26" n="26" break="no"/><supplied reason="lost">λ</supplied>ῆται</w>, τοὶ <w lemma="χειροτονέω">χειροτονεύμεν<supplied reason="omitted">ο</supplied>ι</w> <w lemma="ὑπό">ὑπὸ</w> τοῦ <name type="group"><w lemma="δῆμος">δάμου</w></name> 
+					
+					<lb xml:id="line_27" n="27"/><name type="personnel"><w lemma="κιθαριστής">κιθαρισταὶ</w></name> <w lemma="ἄγω">ἀγόντω</w> τὸς <name type="person"><w lemma="παῖς">παῖδας</w></name> <w lemma="κιθαρίζω">κιθαρίζοντας</w> 
+					
+					<lb xml:id="line_28" n="28"/>τὸ <name type="invocation"><name type="liquid"><w lemma="σπονδεῖος">σπονδεῖ<supplied reason="lost">ον</supplied></w></name></name> <name type="authority"><w lemma="καθότι"><supplied reason="lost">κα</supplied>θότι</w></name> καὶ <w lemma="ἐπί">ἐπὶ</w> τᾶν <w lemma="ἄλλος">ἀλλᾶν</w> <w lemma="πομπή">πο<supplied reason="lost">μ</supplied> 
+						
+						<lb xml:id="line_29" n="29" break="no"/><supplied reason="lost">π</supplied>ᾶν</w> <w lemma="ποιέω">ποιεῦ<unclear>ν</unclear><supplied reason="lost">τι</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="κιθαρίζω"><supplied reason="lost">κιθαρίζ</supplied>οντες</w> τά τ᾿ <name type="invocation"><w lemma="ᾆσμα">ᾄσμ<supplied reason="lost">ατα</supplied></w></name> 
+					
+					<lb xml:id="line_30" n="30"/><gap reason="lost" extent="unknown" unit="character"/>Τ<unclear>Ο</unclear>Τ<unclear>Ω</unclear><unclear>Ν</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+					
+					<lb/><gap reason="lost" extent="unknown" unit="line"/> </ab>
+			</div>
+			<div type="translation" xml:lang="eng"> 
+				<head>Translation</head> 
+				<p>Face B</p> 
+				<p>Those who celebrate the marriages in the sanctuary are also to bring a sacrifice of an adult animal of 30 drachmae. Anyone else who wants to may also sacrifice the customary sacrificial animal on those days on which it is religiously sanctioned to sacrifice. The priest, at the sacred ceremonies (5) which the people organize on the 20th of Petageitnyos, is to walk in procession together with the <foreign>monarchos</foreign>, the <foreign>hieropoioi</foreign> and the winners of crown-bearing contests, wearing a purple tunic and golden rings and an olive wreath (10). He should wear the same costume in the sanctuary and during all the other sacrifices. He is to wear white the rest of the time, and he is to keep himself pure from all those things which the other priests are ordered to keep themselves pure. He is to take as perquisites from what has been sacrificed: (15) from an ox or a sheep, the skin and a leg, from other animals, a leg, and those who make sacrifices are to place it on the table of offerings for the goddess, and they should deposit into the money box for each bovine sacrificial animal, one drachma; for other animals, 3(?) obols. Of this the half, is to be the property of Nike, and the other half for the priest. The <foreign>prostatai</foreign> are to open the money-box together with the priest every two years, and they should (first) subtract from what is found (in the money-box) the cost incurred in opening it. And so that (25) also the procession for the goddess may be accomplished in the most conspicuous way possible, those cithara-players who have been selected by the people are to lead the boys playing on the cithara during the libation song as they do during the other processions, while they (themselves) are playing on the cithara the songs [...]</p>
+			</div>
+			<div type="translation" xml:lang="fre"> 
+				<head>Traduction</head> 
+				<p>Face B</p> 
+				<p>Que ceux qui célèbrent les mariages dans le sanctuaire sacrifient également un animal adulte de 30 drachmes. Parmi les autres, que celui qui le souhaite sacrifie un animal conforme à l’usage, les jours où il est religieusement permis de faire un sacrifice. Que le prêtre, lors des cérémonies sacrées (5) qu’organise le peuple le 20 Petageitnyos, défile en compagnie du monarque, des hiéropes et des vainqueurs aux concours stéphanites, vêtu d’un chiton de couleur pourpre, d'anneaux en or et d'une couronne d’olivier. (10) Qu’il porte la même tenue dans le sanctuaire et lors de tous les autres sacrifices. Qu’il soit vêtu de blanc le reste du temps et qu’il se tienne pur de ce qui a été également prescrit aux autres prêtres en matière de pureté. Qu’il reçoive comme parts d’honneur des animaux sacrifiés, (15) d’un bovin ou d’un mouton la peau et une patte, du reste, une patte, et que les sacrifiants (les) placent sur la table à offrandes pour la déesse, et qu’ils déposent dans le tronc à offrandes, pour chaque bovin, une drachme, pour les autres, trois oboles (?). De cela, que la moitié en revienne à Nikè, l’autre moitié au prêtre. Que les prostates ouvrent le tronc à offrandes en compagnie du prêtre tous les deux ans, et qu’ils prélèvent du revenu le coût de l’ouverture. Et afin que (25) la procession soit de même accomplie de la façon la plus éclatante, que les joueurs de cithare élus par le peuple mènent les garçons, en jouant à la cithare le spondée comme il le font lors des autres processions, et qu’en jouant les pièces à la cithare [...] </p>
+				
+			</div>
+			<div type="commentary"> 
+				<head>Commentary</head>
+				
+				<p> We only possess the upper part of face B of this inscription, which was apparently an opisthographic stele detailing various rules concerning the cult of Nike; face A has been rendered illegible and would be presumably have contained the proper beginning of the document. This seems to be confirmed by the fact that our inscription begins <foreign>in media res</foreign>. The regulations as we have them are of varied subject matter. Lines 1-4 of the inscription detail the requirements for various groups of worshippers wishing to perform a sacrifice; there follows a long section of the regulations on the clothing, perquisites and other duties of the priest (lines 5-24); and finally, there is a further section on the duties of cithara-players for the musical accompaniement of the procession (lines 25-29). The final part of the inscription on face B is lost (it may have recorded further rules or the modalities of the inscribing of the text or other details). Given its fragmentary state, we cannot be certain about the type of text we are dealing with; Paul assumes that it is the sale of a priesthood, a type of inscription regularly found at Kos (cf. e.g. <ref target="CGRN_147">CGRN 147</ref>); this is possible, but remains to be confirmed.</p>
+				
+				<p>Nike was an important goddess on Kos. Her cult on this island is first attested as early as 278 BC, when the Koans decreed a series of sacrifices of thanksgiving after the defeat of the Galatian expedition against Delphi (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 68). The goddess was worshipped on this occasion along with Apollo Pythios and Zeus Soter. Elsewhere, Nike's cult on Kos seems to relate essentially to military victory; she was also frequently associated with the gymnasium and thus with victories in athletic contests. In this inscription, too, the victors of games have a special role, since they walk together with the priest and <foreign>monarchos</foreign> in the processions (cf. lines 7-8). For a further description of the role of Nike on Kos, cf. Paul.</p>
+				
+				<p> Lines 1-2: In the founding document of the family cult of Heracles Diomedonteios (<ref target="CGRN_96">CGRN 96</ref>, lines 94ff.), it is permitted for cult participants of little financial means to celebrate their marriages in the sanctuary, on the last day of the festival in honour of the god. We should see the current prescription in a relatively similar light: individuals could come to the sanctuary of Nike to celebrate a marriage, provided that they sacrificed the necessary animal on this occasion. The regulations are related to the more general role of the goddess Nike as a patron of marriage, an aspect of her that is less known, but which is represented on vase paintings (cf. Lissarrague).</p>
+				
+				<p> Lines 3-4: After having presumably detailing required sacrifices for various groups (some now missing on face A), the text concludes by mentioning voluntary sacrifices of all other persons (not belonging to these groups). Here, the requirements are not spelled out, but the regulation refers to traditional knowledge that was orally transmitted or recorded in (an)other inscription(s) now lost (ὅ νομίζεται, τὸ ὅσιον; a similar expression is found in <ref target="CGRN_142">CGRN 142</ref>, lines 5-7, also from Kos). The requirement to make sacrifices on days on which this is religiously sanctioned may imply that the sanctuary was only open on those specific days. We may aptly compare <ref target="CGRN_188">CGRN 188</ref> (Kos), lines 8-9, in which the priestess of Artemis was to open the sanctuary on all days "on which this is ὅσιον". On the recurrent use of the term ὅσιον to describe the "who, what, where, when and how" of ritual actions, cf. Peels.</p>
+				
+				<p> Lines 4-8: The precise nature of these public sacrifices on the 20th of Pedageitnyos (the second month of the calendar, according to Bosnakis and Hallof) eludes us; was this a major occasion for the procession to Nike, which is also described later in lines 24-29? Other celebrations for Nike are known, such as a sacrifice to Zeus and Athena accompanied by a procession for Nike in early Gerastios, attested in the calendar of the gymnasium on Kos, <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 281, lines 1-4. On this type of procession on Kos, cp. <ref target="CGRN_165">CGRN 165</ref>, face B, in which the <foreign>monarchos</foreign> and the victors in a competition are also to participate jointly.</p>
+				
+				<p> Lines 8-12: The outfit of the priest is very similar to the one worn by the priest of Zeus Alseios on Kos, cf. <ref target="CGRN_167">CGRN 167</ref>, lines 15-18. Specific prescriptions concerning the clothing and accessories of priests are given in various sales of priesthoods in this Collection: <ref target="CGRN_221">CGRN 221</ref> (Kos), lines 22-24; cf. Plu. <title>Mor.</title> 956a; see also <ref target="CGRN_118">CGRN 118</ref> (Halikarnassos), lines 34-35; <ref target="CGRN_176">CGRN 176</ref> (Priene), lines 19-20; and <ref target="CGRN_124">CGRN 124</ref> (Pergamon), lines 1-4. The word θάλλος literally refers to a young branch or shoot, but was often used in the more specific sense of "olive"; cf. Paul, p. 49 with n. 105. The olive wreath was associated with victors in gymnastic contests, particularly the Olympic games. Thus, this attribute is particularly well suited to a representant of the goddess Nike. On the requirement for the priest to wear a purple garment, specifically a κιτών, during ritual occasions, cp. <ref target="CGRN_167">CGRN 167</ref> (Kos), lines 15-16. On the wearing of white clothes by priests, here presumably an outer-garment (εἷμα), which would also allow him to wear a purple <foreign>chiton</foreign> on special occasions, cf. <ref target="CGRN_124">CGRN 124</ref> (Pergamon), lines 2-3 (for the interdiction of purple garments, contrast <ref target="CGRN_126">CGRN 126</ref>, Lykosoura, lines 5-7).</p>
+				
+				<p> Lines 12-14: These lines probably refer to purity regulations for priests such as those preserved on Kos for the priestesses of Demeter (<ref target="CGRN_148">CGRN 148</ref>) and other priesthoods (<ref target="CGRN_85">CGRN 85</ref>). In the former case, the priestesses had to stay away from impure persons, from contact with death or with women after childbirth (as well as abortion/miscarriage), from particular foodstuffs (?) and from dead animals; in the latter case, the priests also needed to steer clear of the shrines of heroes.</p>
+				
+				<p> Line 14-17: The hide and the leg were the most common perquisites for priests, as is particularly apparent on Kos (see <ref target="CGRN_164">CGRN 164</ref>, lines 7-9). The genitive τῶν ἱερῶν here complements the noun τράπεζαν (“the table of the offerings”), making for a rare expression; perhaps the reference is to a specific table in the sanctuary that was reserved for ἱερά, i.e. for animal portions and/or sacred objects (it is not clear what the function of the other table(s) may have been). Though here explicitly to be deposited on the table by the participants, these offerings were usually taken by the priest afterwards as part of his perquisites, cf. for instance <ref target="CGRN_188">CGRN 188</ref>, lines 4-5.</p>
+				
+				<p> Lines 17-24: On sacrificial fees deposited in <foreign>thesauroi</foreign>, see also e.g. <ref target="CGRN_70">CGRN 70</ref> (Oropos), and on Kos, <ref target="CGRN_220">CGRN 220</ref>, lines 9-13. The opening of <foreign>thesauroi</foreign>, or money-boxes, is a recurring aspect of the regulations for sales of priesthood, no doubt since it provided a form of remuneration for the purchase of the office. After deduction of a fee, the priest here receives half of the income as his due, while the other half is consecrated for cultic purposes. Lupu provides an Appendix about sacrificial tariffs. On <foreign>thesauroi</foreign>, cf. also Kaminski.</p>
+				
+				<p> Lines 24-29: These prescriptions seem to be an addition to the usual rules for the cult, aimed at making the procession for Nike more splendid through song and musical accompaniment. The procession mentioned is perhaps the same as that which formed part of the festival organised on the 20th of Petageitnyos, mentioned earlier in the text (cf. lines 4-8 above). Music would probably have been a regular and traditional part of any procession, yet in no other inscriptions from Kos are arrangements explicitly made in this respect. The fact that this regulation insists on this subject might be explained by the role of Nike as the personification of victory in musical contests: we often find the goddess represented on vases as offering the prize to winners of musical competitions or in the company of musicians (Paul, p. 152). More broadly, it might be concluded that we cannot precisely evaluate the innovative quotient of the rules at hand (new elected "head musicians" to lead the boy musicians?). At any rate, the σπονδεῖον mentioned in line 28—apparently a song for accompanying libations or victories, part of the νόμος Πυθικός (see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. II)—may well have been a traditional part of the celebration of the cult of Nike on Kos, just like in other processions (κα]θότι καὶ ἐπὶ τᾶν ἀλλᾶν πο[μ|π]ᾶν ποιεῦν̣[τι, lines 28-29).</p>
+				
+				
+			</div>
+		</body>
+	</text>
+</TEI>

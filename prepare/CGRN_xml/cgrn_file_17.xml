@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_17" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 17</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for the Nymphs, Apollo and the Charites on Thasos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Two inscriptions written on a large <rs type="objectType">relief</rs>, perhaps originally part of an altar, and situated in a gateway (see below on provenance). The relief depicts Apollo, Hermes, the Nymphs and the Graces, as a well as a niche in a <foreign>naiskos</foreign> between the figures.</p>
+				<p><dimensions>
+					<height unit="cm">92</height>
+					<width unit="cm">209</width>
+					<depth unit="cm">44</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>A is inscribed on the epistyle of the monument depicted on the relief. B below the figure of Hermes, and parallel to A. The letters are <height unit="cm">1.2-1.5</height>.</p>
+				
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0475" notAfter="-0450">ca. 475-450 BC</origDate></p>
+			<p><desc>Justification: letterforms (Jeffery). The reliefs date to a decade or two prior to this period, suggesting that the inscriptions were added <foreign>a posteriori</foreign>.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thasos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/501634" type="external">Thasos</ref></placeName>, in the so-called "Passage des théores". Now on display in Room 3 of the Louvre  (inv. no. Ma 696A).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by J.-M. Carbon in 05.2018.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+			
+			<p>Edition here based on: Friedrich <bibl type="abbr" n="IG XII.8">IG XII.8</bibl> 358. There are no textual problems.</p>
+				
+			<p>Cf. also: 
+				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 114; 
+				Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 302 and 308 no. 70 (with pl. 58).</p>
+					
+			<p>Further bibliography: 
+				<bibl type="author_date">Pouilloux 1954</bibl>: 59-61; 
+				<bibl type="author_date">Casabona 1966</bibl>: 64.</p>
+					
+			<p>Online records: <ref target="http://cartelfr.louvre.fr/" type="external">Louvre</ref>, with keyword "Theores" (photographs); <ref target="http://poinikastas.csad.ox.ac.uk/" type="external">Poinikastas</ref> website, with ref. no. 308.70 (drawings).</p>	
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="part" n="A">Part A
+				
+<lb xml:id="line_A1" n="A1"/><name type="deity" key="Nymphs"><w lemma="νύμφη">Νύμφηισιν</w></name> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">κἀπόλλωνι</w></name> <name type="epithet" key="Nymphagetes"><w lemma="νυμφαγέτης">Νυμφηγέτηι</w></name> <name type="gender"><w lemma="θῆλυς">θῆλυ</w></name> καὶ <name type="gender"><w lemma="ἄρσην">ἄρσ
+
+<lb xml:id="line_A2" n="A2" break="no"/>εν</w></name> <w lemma="ἄν">ἅμ</w> <w lemma="βούλομαι">βόληι</w> <name type="sacrifice"><w lemma="προσέρδω">προσέρδεν</w></name>· <name type="animal" key="sheep"><w lemma="ὄϊς">ὄϊν</w></name> <w lemma="οὐ">οὐ</w> <name type="authority"><w lemma="θέμις">θέμις</w></name> <w lemma="οὐδέ">οὐδὲ</w> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοῖρον</w></name></name>·
+	    					
+<lb xml:id="line_A3" n="A3"/><w lemma="οὐ">οὐ</w> <name type="invocation"><w lemma="παιωνίζω">παιωνίζεται</w></name> <space quantity="1" unit="line"/>
+	    					</ab>
+	    				<ab subtype="part" n="B">Part B
+	    					
+<lb xml:id="line_B1" n="B1"/><name type="deity" key="Charites"><w lemma="χάρις">Χάρισιν</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <w lemma="οὐ">οὐ</w> <w lemma="θέμις">θέμις</w> <w lemma="οὐδέ">οὐδὲ</w> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοῖρον</w></name></name> <space quantity="1" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					
+	    				<p>Part A</p> 
+<p>To the Nymphs and Apollo Nymphegetes bring to sacrifice a female and a male animal, whichever one wishes. A sheep or swine (literally: a piglet) are not religiously permitted. No paeans are sung.</p>
+	    				
+	    				<p>Part B</p> 
+<p>To the Charites it is not religiously permitted (to sacrifice) a goat or swine (literally: a piglet).</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Partie A</p> 
+<p>Aux Nymphes et à Apollon Nymphagète amener pour le sacrifice une femelle et un mâle, ceux que l'on souhaite. Ni ovin ni porcin (littéralement: un porcelet) ne sont religieusement permis. Aucun péan n'est chanté.</p>
+						<p>Partie B</p> 
+<p>Aux Charites, il n'est pas religieusement permis (de sacrifier) un caprin ou un porcin (littéralement: un porcelet).
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>The archaeological context of these reliefs, found within one of the gateways of a major artery of the city of Thasos, leading from the agora toward the Herakleion and the southwest of the city, is clear. This gateway was called the "Passage des théores", due to a number of lists of <foreign>theoroi</foreign> inscribed on this structure later in the Hellenistic period. However, the cult-sites mentioned in the inscribed reliefs remain to some degree unclear: are they to be situated in the passage itself, or at altars within close proximity of the gateway? Was anything to be placed in the niche depicted between the reliefs?</p>
+						
+<p>The grouping of Apollo in his capacity as leader of the Nymphs with the Nymphs themselves is a natural pairing and occurs elsewhere: <ref target="http://cgrn.ulg.ac.be/CGRN_52/">CGRN 52</ref> (Erchia), col. Ε, line 40 (8th of Gamelion; both receive a goat); cp. also <ref target="http://cgrn.ulg.ac.be/CGRN_56/">CGRN 56</ref> (Marathonian Tetrapolis), col. I, line 45, for another possible attestation of Apollo Nymphagetes, also receiving a goat (in the month Mounychion). The connection of the Charites with Apollo is not unexpected, but the precise configuration of Apollo, the Nymphs and the Charites remains to be more fully explained in this specific context.</p>			
+
+<p>The first inscription (A) makes precisions concerning the sacrifice to the Nymphs and Apollo, and it can be reasonably presumed that any form of sacrificial animal is permitted, with the requisite female one being offered to the Nymphs and the requisite male animal to Apollo. An additional and surprising requirement is not to sacrifice sheep: this is almost unique in the extant epigraphical evidence. Piglets are also excluded, or swine more generally, but these are often prohibited in the regulations from Thasos (see below on B). Given that this leaves only goats and oxen in terms of major sacrificial animals, it is perhaps possible, at least as far as oxen are concerned, that the regulation was motivated at increasing the value and quality of the sacrifices. Conversely, however, the regulation does not appear to have prohibited goats which are often sacrificed to Apollo and Nymphs, nor smaller offerings (such as birds) or even vegetal ones, so the reason for the prohibitions remains difficult to explain.</p>
+
+<p>A, line 2: Casabona interprets προσέρδω as "sacrifice in addition", but the verb is rare (unique in epigraphy as far as we can tell) and this sense is not ideal for the context. Instead, if we think of the "Passage of the theoroi", we might suppose that the sense "bring to sacrifice" is more suitable (cp. φέρω or πέμπω in such a context).</p>
+
+<p>B: The restriction concerning the sacrifice of goats and piglets is widespread on Thasos, see here e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_23/">CGRN 23</ref> (no goats for Hera); <ref target="http://cgrn.ulg.ac.be/CGRN_27/">CGRN 27</ref>, line 2 (no goats and piglets for Heracles). Rather than restricting the sacrifice only of piglets--the young of the swine--, a probable alternative is that these interdictions had a more general scope, aiming to forbid the sacrifice of any animals from this species.</p>					
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_134" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 134</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for Heracles at Athens </title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>Rectangular 
+                            <rs type="objectType" key="altar">altar</rs> of Pentelic marble.</p>
+                            <p><dimensions>
+                                <height unit="cm">53</height>
+                                <width unit="cm">65</width>
+                                <depth unit="cm">40</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Letters:</p> 
+                            <p>Line 1: <height unit="cm">2.2</height></p>
+                            <p>Line 2: <height unit="cm">1.5</height>.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                    <p><origDate notBefore="-0225" notAfter="-0200">End of 3rd century BC</origDate></p>
+                    <p><desc>Justification: lettering (Curbera).</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885" type="external">Athens</ref></placeName>. Found on the southern slope of the acropolis. Ziehen supposes that it may have belonged to the Asklepieion.
+                    </p></provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-07-2014 by S. Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                
+                <p> Edition here based on Kirchner <bibl type="abbr" n="IG II²">IG II²</bibl> 4986.</p>
+                <p> Other editions:
+                    <bibl type="abbr" n="IG II">IG II</bibl> 1665; Curbera <bibl type="abbr" n="IG II³">IG II³</bibl> 4, 1747.</p>
+                <p> Cf. also:
+                    Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 21; 
+                    Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 24. 
+                </p>
+                <p> Further bibliography: 
+                    <bibl type="author_date" n="Kearns 2011">Kearns 2011</bibl>.
+                </p>
+                
+                
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    <lb xml:id="line_1" n="1"/> <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλέως</w></name>·
+                    
+                    <lb xml:id="line_2" n="2"/> <space quantity="1" unit="line"/>
+                    
+                    <lb xml:id="line_3" n="3"/> <name type="sacrifice"><w lemma="θύω">θύειν</w></name> <w lemma="τρεῖς">τρία</w> <name type="bakery"><w lemma="μονόμφαλος">μονόμφαλα</w></name>.
+                    
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    (Altar) of Heracles. 
+                    Sacrifice three cakes with one knob. 
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction </head>
+                <p>
+                    (Autel) d’Héraclès.
+                    Sacrifier trois gâteaux à une seule bosse.
+                    
+                </p>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p> This third- or second-century altar is part of a group of mostly short inscriptions (cf. e.g. <ref target="CGRN_53">CGRN 53</ref> and <ref target="CGRN_54">CGRN 54</ref>) found in Piraeus and in or near the city Asklepieion of Athens, prescribing the (preliminary) offering of cakes to various divinities.</p>
+                <p> Line 1: This inscription starts with the name of the god in the genitive (like e.g. <ref target="CGRN_72">CGRN 72</ref>), indicating that the altar is dedicated to the divinity in question or that this is the place of the cult of the god in question.</p>
+                <p>Line 3: μονόμφαλα sc. πόπανα refer to cakes with a single knob or boss. They are attested in <ref target="CGRN_77">CGRN 77</ref> (recipients unclear), <ref target="CGRN_135">CGRN 135</ref> (recipient unknown), in Athens, and at Samos (<ref target="CGRN_87">CGRN 87</ref>), in which one should prepare for Κουροτρόφος and Hermes, μονόμφαλα, and other cakes. Perhaps the use of θύειν (by contrast to some of the mentioned parallel regulations, where no verb is used) implies that the cakes should be burnt in this case.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

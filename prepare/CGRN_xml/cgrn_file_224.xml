@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_224" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 224</idno>: Small <rs type="textType" key="purity regulation">purity regulation</rs> from Astypalaia</title>
+				<author>Saskia Peels</author>
+				
+				
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support><p>
+									<rs type="objectType" key="block">Block</rs> of stone, dimensions unknown.</p>
+									<p><dimensions>
+										<height unit="cm">unknown</height>
+										<width unit="cm">unknown</width>
+										<depth>unknown</depth>
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+									<p>Letters: <height unit="cm">0.7-1.5</height>. The letters have been carefully engraved.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0325" notAfter="-0275">ca. 300 BC</origDate></p>
+							<p><desc>Justification: letterforms (Hiller von Gaertringen).</desc></p>
+						</origin>
+<provenance><p>Built into the wall of the chapel of St. Eustathius on the island of <placeName type="ancientFindspot" key="Astypalaia" n="Aegean_Islands"><ref target="https://pleiades.stoa.org/places/599535" type="external">Astypalaia</ref></placeName>.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-06-2019 by S. Peels.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				
+				<p> Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 183 and p. 278.</p>
+				
+				<p> Other edition: <bibl type="author_date" n="Dubois 1883">Dubois 1883</bibl>: 477 no. 1. </p>
+				
+				<p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 123; 
+					Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 130; 
+					Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 24; 
+					Brodersen, Günther, Schmitt <bibl type="abbr" n="HGIU">HGIU</bibl> 297; 
+					<bibl type="abbr" n="SEG">SEG</bibl> 60, 891. </p>
+				
+				<p>Further bibliography: 
+					Chaniotis <title>Kernos</title> 2014 <bibl type="abbr" n="EBGR">EBGR</bibl> no. 263; <bibl type="author_date" n="Parker 1983">Parker 1983</bibl>: 252-254 with n. 105; 
+					<bibl type="author_date" n="Karila-Cohen 2010">Karila-Cohen 2010</bibl>; 
+					<bibl type="author_date" n="Michalaki-Kollia 2010">Michalaki-Kollia 2010</bibl>; 
+					<bibl type="author_date" n="Robertson 2012">Robertson 2013</bibl>: 231-232;
+					<bibl type="author_date" n="Harris 2015">Harris 2015</bibl>: 4-5; 
+					<bibl type="author_date" n="Petrovic - Petrovic 2016">Petrovic - Petrovic 2016</bibl>: 287 n. 48. </p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab>
+					
+<lb xml:id="line_1" n="1"/><w lemma="εἰς"><supplied reason="lost">ἐ</supplied>ς</w> τὸ <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> <w lemma="μή">μὴ</w> <w lemma="εἰσέρπω">ἐσέρπεν</w> <w lemma="ὅστις">ὅσ 
+						
+<lb xml:id="line_2" n="2" break="no"/>τις</w> <w lemma="μή">μὴ</w> <name type="purification"><w lemma="ἁγνός">ἁγνός</w></name> <w lemma="εἰμί">ἐστι</w>, ἢ <name type="punishment"><w lemma="τελέω">τελεῖ</w></name>
+					
+<lb xml:id="line_3" n="3"/>ἢ <name type="punishment"><w lemma="αὐτός">αὐτῶι</w> ἐν <w lemma="νόος">νῶι</w> <w lemma="εἰμί">ἐσσεῖται</w></name>. </ab>
+				
+			</div>
+
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				
+				<p>Whoever is not pure may not enter into the sanctuary, otherwise he will pay (a fine), or it will be in his mind.</p>
+			</div>
+			
+			<div type="translation" xml:lang="fre">
+				<head>Traduction </head>
+				
+				<p>Que celui qui n'est pas pur ne pénètre pas dans le sanctuaire; ou alors il paie (une amende), ou bien il aura (l'infraction) en tête.</p>
+				
+			</div>
+			<div type="commentary">
+				
+				<head>Commentary</head>
+				
+<p> This small purity regulation from the Dodecanesian island Astypalaia is enigmatic and imperfectly understood. The inscription was re-used as a building block in a church and so the cult to which the regulation originally belonged is unknown. Michalaki-Kollia has suggested a connection with a local female cult of Artemis Lochia, but such a link seems implausible (cf. Chaniotis; one problem is that ἁγνός is masculine). Robertson has suggested a connection with the popular cult of Asclepius on Astypalaia, but no certainty is possible. The text itself has raised questions, especially concerning the interpretation of the letters ΤΕΛΕΙ at the end of line 2 and the notion of "purity of the mind" in line 3.</p>
+				
+<p> Line 1: The inscription states that one who is not "pure" may not enter, but does not, as might be expected, explain what purity entails. Other purity regulations occasionally elaborate on specific conditions for ἁγνεία. Purity entailed, for example, abstaining from ritual practice for a number of days after (having been present at) childbirth or a funeral; washing or waiting a brief period after sexual intercourse; or abstaining from particular foods (for examples, cf. <ref target="CGRN_203">CGRN 203</ref> Delos, <ref target="CGRN_211">CGRN 211</ref>, Maionia, or <ref target="CGRN_214">CGRN 214</ref>, Miletos). Here, no details regarding ἁγνεία are given, and we may assume that knowledge of what "being pure" entailed in this sanctuary was perhaps inscribed on another document that has perished, or was part of the unwritten collective knowledge in this community.</p>
+				
+<p> Line 2: The interpretation of ΤΕΛΕΙ on the stone is unclear. Three propositions have been made. Ziehen rejected his own suggestion (but which was taken up, for example, by Brodersen et al.) that ΤΕΛΕΙ may be taken as τέλει[ος], referring to integrity of the body as a condition for entry. The text has been carefully inscribed and therefore an omission of these two letters seems unlikely. Moreover, such an entry requirement would be unprecedented. Reading these letters as τελεῖ, future indicative of the verb τελέω, seems to yield two interpretative possibilities. Robertson (followed by Petrovic - Petrovic) proposed to read τελέω in its most basic sense as "fulfill, accomplish" (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. τελέω I.1), here in an absolute sense: he should "see to it", that is "see to it that he does not enter when he is not ἁγνός" (or, see line 3, it will weigh upon his conscience). This interpretation is certainly possible, but no such absolute sense of τελέω is attested and the construction also seems awkward. The expression "he will see to it" would in a way be superfluous, because it is already implicit in the threat introduced by ἤ (“either this… or…"). Here, we tentatively read τελέω as "paying a fine" (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. τελέω II.1.a), as originally proposed by Wilamowitz, but rejected by Ziehen given the absence of a seemingly crucial piece of information: the amount of money to be paid (see Ziehen for discussion and these references; this interpretation is nevertheless followed by some other scholars, such as Le Guen-Pollet). Indeed, τελέω is usually a transitive verb so one would expect the amount to be specified—fines are not usually left vague—but the precise conditions for purity in this inscription are also left implicit. An alternative could be that τελέω is intransitive here, for which cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. I.8, noting esp. S. <title>El.</title> 1417, τελοῦσ’ ἀραί, i.e. "curses are at work”. In other words, one might suppose that τελεῖ here means something like “(a curse) will be applied” or “it will turn out (badly) for him". But this would be a highly implicit phrasing, since at least a subject or an adverb would be expected; moreover, it is not entirely clear how this curse would differ from the following, also implicit threat in line 3. Accordingly, the sense “to pay (a fine)” still seems preferable. In sum, this very brief inscription may be seen as a "sign" (cf. Harris), which was not necessarily intended to provide full information and as a result its phrasing is allusive. Note that whereas many other ritual norms either state the rules without explicitly mentioning a penalty at all, or state the negative consequence of infringing the rules, in the form for example a fine or a religious threat (cf. below on line 3), in this reading of this inscription there seem to be three layers of normativity. First, there is the prohibition itself ("do not enter when not pure"); second, a penalty for transgression (“either pay (a fine) or…"); third, an additional penalty aimed at those who break the rules and fail to pay: it will be in their mind and a threat of divine anger of retribution is implied (cf. below). A text from Ialysos on Rhodes (<ref target="CGRN_90">CGRN 90</ref>) shows a similar structure, providing a list of prohibitions (lines 19-27); then a penalty for transgressors (purifying the sanctuary and making an sacrifice, lines 27-29); finally, a threat of potential further punishment for those who do not comply with these rules (being "liable to ἀσεβεία", lines 29-30). For further discussion of the normative stratigraphy in this inscription, cf. the commentary at <ref target="CGRN_90">CGRN 90</ref>.</p>
+				
+<p> Line 3: The phrase αὐτῶι ἐν νῶι ἐσσεῖται is likely to be a threat, an equivalent to the expression ἐνθύμιον αὐτῷ ἔστω that is sometimes encountered in ritual norms (cf. <ref target="CGRN_148">CGRN 148</ref>, lines A13-15, from Kos). In the latter construction, as here, the person in the dative is the transgressor, for whom breaking the rules will be on his conscience (cf. Parker 1983, p. 252-254; Karila-Cohen). The implicit threat (in some inscriptions made explicit) is that divine retribution is to be feared. The expression occurs in the context of all types of transgressions, such as failing to observe funerary customs, lending money contrary to the rules, or failing to bring preliminary sacrifice. Here, most likely, the transgression of the rules concerning purity and the failure to pay the fine (rather than the impurity itself) will be on the transgressor's mind.</p>
+				
+			</div>
+		</body>
+	</text>
+</TEI>

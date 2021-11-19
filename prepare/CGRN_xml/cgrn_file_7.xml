@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_7" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 7</idno>: Fragments of a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> on a large monument near the Eleusinion at Athens</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Twenty marble fragments, which were assigned by Jeffery to a large structure, possibly an <rs type="objectType" key="altar">altar</rs>. All of the fragments are heavily mutilated, and so we only include the more significant here: face A (fr. c, a and b, in the presumed order); face B (fr. f+g+h). For detailed measurements, see Jeffery.</p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout>
+				<p>Boustrophedon.</p> 
+				<p>Attic letters: <height unit="mm">12-15</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0510" notAfter="-0470">ca. 510-470 BC</origDate></p>
+			<p><desc>Justification: lettering (Jeffery; Lewis; Lambert).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885/" type="external">Athens</ref></placeName>. The fragments were found primarily near the Eleusinion, others in the city centre. Most of the stone fragments are now in the Athenian Agora storehouse; see Lewis for full details.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					
+<p>Edition here based on Lewis <bibl type="abbr" n="IG I³">IG I³</bibl> 232, with a full description description of the fragments, notably based on the work of Jeffery (below). For a more recent edition, focussing particularly on face A fr. c, see Lambert, <bibl type="abbr" n="AIUK 4.1">AIUK 4.1</bibl> 1. We adopt Lambert's reading on face A, line 44. NB that, in the following text, we excerpt only face A, fr. c, a and b; face B, fr. f+g+h. Despite the relative uncertainty in the order of the fragments, we maintain Lewis' continuous numbering for the sake of consistency (see also Lambert).</p>
+	<p>Cf. also: <bibl type="author_date" n="Jeffery 1948">Jeffery 1948</bibl>, with ph.; Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 75-76 no. 44 with pl. 4; Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 2 (fr. a.c.f+g+h).</p>
+	<p>Further bibliography: <bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>, for the Athenian calendar; <bibl type="author_date" n="Lebreton 2105">Lebreton 2015</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="face" n="A">Face A, starting at fragment c, line 15				
+
+<lb xml:id="line_A15" n="A15" rend="right-to-left"/><gap reason="lost" quantity="1" unit="character"/><orig>ια</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A16" n="A16" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="vegetal"><w lemma="κριθή">χρ
+	    					
+<lb xml:id="line_A17" n="A17" break="no" rend="right-to-left"/>ιθ<supplied reason="lost">ο̑ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A18" n="A18" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="object"><w lemma="ἡμιέκτεων">hεμιε<supplied reason="lost">κτ</supplied>
+	    					
+<lb xml:id="line_A19" n="A19" break="no" rend="right-to-left"/>έο<supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A20" n="A20" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig>ουρ</orig>
+	    				
+<lb xml:id="line_A21" n="A21" break="no" rend="right-to-left"/><orig>ιοι</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A22" n="A22" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <pc>∶</pc> κα 
+	    					
+<lb xml:id="line_A23" n="A23" break="no" rend="right-to-left"/>ὶ το̑ι <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_A24" n="A24" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="personnel"><w lemma="βουτύπος"><supplied reason="lost">βο</supplied>τύπ
+	    					
+<lb xml:id="line_A25" n="A25" break="no" rend="right-to-left"/>οι</w></name> <pc>∶</pc> <orig>χ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A26" n="A26" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig>α</orig> <pc>∶∶∶</pc> <name type="deity" key="Zeus"><w lemma="Ζεύς">Δ
+	    					
+<lb xml:id="line_A27" n="A27" break="no" rend="right-to-left"/>ὶ</w></name> <name type="epithet" key="Polieus"><w lemma="Πολιεύς">Πολ<supplied reason="lost">ιεῖ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A28" n="A28" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="τρεῖς">τρῖς</w> <name type="object"><w lemma="χοῖνιξ">χ
+	    					
+<lb xml:id="line_A29" n="A29" break="no" rend="right-to-left"/>οίνι<supplied reason="lost">κες</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A30" n="A30" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig>ε</orig> <pc>∶</pc> <orig>μ</orig><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb/> (uncertain number of lines missing)
+	    					
+<lb xml:id="line_A31" n="A31" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig>ι<unclear>ν</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A32" n="A32" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="πέντε"><supplied reason="lost">πέν</supplied>τε</w> <name type="object"><w lemma="χοῖνιξ">χ<supplied reason="lost">οίνικες</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A33" n="A33" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="vegetal"><w lemma="ἄλφιτον"><supplied reason="lost">ἀλ</supplied>φίτ<unclear>ο</unclear><supplied reason="lost">ν</supplied></w></name> ∶ <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A34" n="A34" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/> <name type="liquid"><w lemma="οἶνος"><supplied reason="lost">οἴ</supplied>νο</w></name> <name type="object"><w lemma="τέταρτος">τε<supplied reason="lost">τάρτε</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A35" n="A35" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig>ν</orig> <pc>∶∶∶</pc> <w lemma="unclear">Κο<unclear>ρ</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_A36" n="A36" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/> <name type="personnel"><w lemma="ἱέρεια">hιερέα<unclear>ι</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A37" n="A37" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="liquid"><w lemma="οἶνος"><supplied reason="lost">ο</supplied>ἴνο</w></name> <name type="object"><w lemma="τέταρτος">τετ<supplied reason="lost">άρτε</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_A38" n="A38" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/> <name type="vegetal"><w lemma="ἔτνος">ἔτνος</w></name> <orig>Ι</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A39" n="A39" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="vegetal"><w lemma="ἄλφιτον"><supplied reason="lost">ἀλ</supplied>φίτον</w></name> <pc>∶</pc> h<gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A40" n="A40" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/><orig>ρτε</orig> h<orig>ε</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A41" n="A41" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ν</unclear></orig> <w lemma="πέντε">πέντ<supplied reason="lost">ε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A42" n="A42" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/> <pc>∶</pc> <name type="vegetal"><w lemma="κριθή">χριθ<unclear>ο̑</unclear><supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A43" n="A43" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="personnel"><w lemma="φυλοβασιλεύς"><supplied reason="lost">φυλοβασι</supplied>λεῦσι</w></name> <pc>∶</pc> <orig><unclear>ν</unclear></orig>
+	    					
+<lb xml:id="line_A44" n="A44" rend="right-to-left" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <name type="object"><w lemma="ἔλυτρον"><supplied reason="lost">ἐ</supplied>λυτρ<unclear>ο</unclear></w></name><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A45" n="A45" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig>ει</orig> <pc>∶</pc> <orig>διι</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_A46" n="A46" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/>  <pc>∶∶∶</pc> <orig>ε</orig><gap reason="lost" extent="unknown" unit="character"/> 
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb/> (uncertain number of lines missing)
+	    					
+<lb xml:id="line_A47" n="A47" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/><orig>ο</orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_A48" n="A48" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig>α</orig> <pc>∶</pc> <gap reason="lost" extent="unknown" unit="character"/> 
+	    				
+<lb xml:id="line_A49" n="A49" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="unclear"><supplied reason="lost">μ</supplied><unclear>υ</unclear>στ<unclear>ε</unclear></w><gap reason="lost" extent="unknown" unit="character"/> 
+	    				
+<lb xml:id="line_A50" n="A50" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/>  <pc>∶∶∶</pc> <name type="deity" key="Erechtheus"><w lemma="Ἐρεχθεύς">Ἐρ<unclear>ε</unclear><supplied reason="lost">χθεῖ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_A51" n="A51" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/> <space quantity="2" unit="character" precision="low"/> <w lemma="unclear">οἰν</w><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_A52" n="A52" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><orig>εντ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_A53" n="A53" rend="right-to-left"/><gap reason="lost" extent="unknown" unit="character"/><orig>οιν<unclear>ε</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    				</ab>
+	    				<ab subtype="face" n="B">Face B	
+	    				<lb/><space quantity="1" unit="line"/>
+	    				
+<lb xml:id="line_B1" n="B1" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="vegetal"><w lemma="κριθή"><supplied reason="lost">χριθο̑ν</supplied></w></name> <supplied reason="lost">(?)</supplied> <supplied reason="lost"><pc>∶</pc></supplied> <name type="object"><w lemma="ἡμίεκτον"><supplied reason="lost">hεμ</supplied>ιεκ<unclear>τ</unclear>έα</w></name> <w lemma="ἑπτά"><unclear>h</unclear><supplied reason="lost">ε</supplied>πτὰ</w> <pc>∶</pc> <name type="liquid"><w lemma="οἶνος"><unclear>ο</unclear><supplied reason="lost">ἴνο</supplied></w></name> <pc>∶</pc> <name type="object"><w lemma="χοῦς"><supplied reason="lost">χ</supplied>
+	    		
+<lb xml:id="line_B2" n="B2" rend="right-to-left" break="no"/><supplied reason="lost">όες</supplied></w></name> <w lemma="ἕξ"><supplied reason="lost">hέ</supplied>χς</w> <pc>∶</pc> κα<supplied reason="lost">ὶ</supplied> <name type="object"><w lemma="ἡμίχοον"><supplied reason="lost">h</supplied>εμίχο<unclear>ν</unclear></w></name> <supplied reason="lost"><pc>∶</pc></supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+	    				
+<lb xml:id="line_B3" n="B3" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <name type="object"><w lemma="ἑκτεύς"><supplied reason="lost">hεκ</supplied>τεὺς</w></name> <pc>∶</pc> <name type="liquid"><w lemma="μέλι">μέ<supplied reason="lost">λ</supplied>ιτος</w></name> <pc>∶</pc> <name type="object"><w lemma="κοτύλη">κ<unclear>ο</unclear><supplied reason="lost">τύλα</supplied>
+	    				
+<lb xml:id="line_B4" n="B4" rend="right-to-left" break="no"/><supplied reason="lost">ι</supplied></w></name> <w lemma="ὀκτώ"><supplied reason="lost">ὀκ</supplied>τὸ</w> <pc>∶</pc> <name type="liquid"><w lemma="ἔλαιον"><unclear>ἐ</unclear>λαίο</w></name> <supplied reason="lost"><pc>∶</pc></supplied> <name type="object"><w lemma="ἡμίχοον">hεμίχο<supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_B5" n="B5" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"><orig>ν</orig></supplied> <supplied reason="lost"><pc>∶</pc></supplied> <name type="object"><w lemma="ἡμιτέταρτον"><supplied reason="lost">hεμ</supplied>ιτεταρ<supplied reason="lost">τ</supplied>έον</w></name> <supplied reason="lost"><pc>∶</pc></supplied> <name type="dairy"><w lemma="τυρός">τυρ<unclear>ο̑</unclear></w></name> <w lemma="τρεῖς"><supplied reason="lost">τρ</supplied>
+	    					
+<lb xml:id="line_B6" n="B6" rend="right-to-left" break="no"/><supplied reason="lost">ῖς</supplied></w> <name type="object"><w lemma="τέταρτος"><unclear>τ</unclear>έτα<supplied reason="lost">ρ</supplied><unclear>ται</unclear></w></name> <pc>∶</pc> <name type="vegetal"><w lemma="κύαμος"><supplied reason="lost">κ</supplied>υάμο<supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="vegetal"><w lemma="σήσαμον"><supplied reason="lost">σεσά</supplied>
+	    					
+<lb xml:id="line_B7" n="B7" break="no" rend="left-to-right"/><supplied reason="lost">μον</supplied></w></name> <name type="colour2"><w lemma="λευκός"><supplied reason="lost">λευκο̑ν</supplied></w></name> <supplied reason="lost"><pc>∶</pc></supplied> <w lemma="τρεῖς"><supplied reason="lost">τ</supplied>ρῖς</w> <name type="object"><w lemma="χοῖνιξ">χο<supplied reason="lost">ίνικες</supplied></w></name> <supplied reason="lost"><pc>∶</pc></supplied> <name type="colour2"><w lemma="μέλας">μελ<supplied reason="lost">ά</supplied>
+	    					
+<lb xml:id="line_B8" n="B8" break="no" rend="right-to-left"/><supplied reason="lost">νον</supplied></w></name> <supplied reason="lost"><pc>∶</pc></supplied> <w lemma="τρεῖς"><supplied reason="lost">τρῖς</supplied></w> <name type="object"><w lemma="χοῖνιξ"><supplied reason="lost">χοί</supplied>νικε<supplied reason="lost">ς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> 
+	    					
+<lb xml:id="line_B9" n="B9" rend="left-to-right"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="δύο"><supplied reason="lost">δ</supplied>ύο</w> <gap reason="lost" quantity="11" unit="character" precision="low"/>
+	    			
+<lb xml:id="line_B10" n="B10" rend="right-to-left"/><gap reason="lost" quantity="11" unit="character" precision="low"/><orig>υ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+	    				
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+				(Given the extremely fragmentary character of the text, no translation is attempted; see Commentary.)	
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+				(En raison du caractère très fragmentaire du texte, aucune tentative de traduction n'est proposée; voir Commentary.)
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>Given its findspot and content, Jeffery hypothesises that the rituals inscribed as part of this originally lengthy account related to the <foreign>genos</foreign> of the Kerykes, one of the two principal ancestral groups involved in the mysteries at Eleusis (the other being the Eumolpidai). Jeffery argued that the document was set up at the city Eleusinion. As Lewis rightly notes, the rituals appear to concern the cult of several gods beyond the strictly Eleusinian ones (Demeter and Kore). However, other elements suggest an Eleusinian context (cf. the expressions at lines A11-12, [μ]ύ̣στε-, and B15-16, μύ|στο-; both not reprised here). While admitting that "the authority responsible for the inscription is obscure", Lambert observes that the fragmentary text, as far as it is preserved, contains only provisions for sacrificial accoutrements and "extras", such as vegetal offerings; that no animals are prescribed and no accounting is present may thus be significant. Accordingly, Lambert suggests that the text may
+originate from a <foreign>genos</foreign>, probably Eleusinian (or even the Kerykes and Eumolpidai acting jointly), and represent the contributions of this group to public festivals (such as the Dipolieia, see below lines A24-27).</p>
+
+<p>The organisation of the inscription suggests an account or a calendar of some sort, probably organised by deity or perhaps by festival, but these are often unclear in the fragments. At any rate, a precise calendrical logic is difficult to substantiate. After the more significant sextuple/hexacolon punctuation (∶∶∶), deities appear to be cited or perhaps ritual occasions (see below on lines A26-27); in many cases, it is uncertain which of these two options is actually the case. Smaller dicolon punctuation (:) separates individual offerings or other clauses. </p>
+
+<p>Lines A20-21: Perhaps the dative of a festival is mentioned here as a heading for a part of the accounts. Possibilities include [Προαρκτ]ουρ|ίοι[σι] as reported in Lewis, or [Ἀπατ]ουρ|ίοι[ς] suggested with some hesitation by Sokolowski. The first occasion would be connected with the Prerosia (cf. Hsch. s.v.), of uncertain/variable date, while the Apatouria are thought to occur in Pyanopsion (cf. Mikalson). But the Apatouria, connected to phratries, would be surprising here if the text is of a public character or stems from a <foreign>genos</foreign>. Lambert additionally considers [Ἐροσ]ουρ|ίοι[ς], thinking of the festival of the Erosouria on 9 Gamelion attested at Erchia, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_52">CGRN 52</ref>, col. B, lines 26-31. None of these interpretations seems completely compelling.</p>
+
+<p>Lines A24-25: The βουτύπος mentioned might designate any sacrificial agent, but in Athens and especially in the context here, he must refer to the sacrificial agent or priest at the festival of the Dipolia, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. and also on the βουφόνια. In this connection, it is noteworthy that the provisions accorded to this official immediately precede a mention of the Dipolia or its honorand (see below on the following lines). On Zeus Polieus, the Dipolia et the Bouphonia at Athens, cf. Lebreton and see immediately below. </p>
+
+<p>Lines A26-27: The sextuple/hexacolon punctuation appears to signal the commencement of a new section in these accounts, either a new occasion or recipient for sacrifices. It occurs before what is likely a deity in line 35, below, and certainly before Erechtheus (almost certainly the deity) in line 50. The two options for restoration in this heading would therefore be Zeus Polieus, as given here, or the Dipolia itself, Διπολ[ίοισι]; both remain possible. The festival is known to have occurred on 14 Skirophorion (see Mikalson). Cf. also <bibl type="abbr" n="IG I³">IG I³</bibl> 241, line 17, for the role of the Kerykes in this festival, and see Lambert for further discussion.</p>
+
+<p>Line A35: The sextuple/hexacolon punctuation marks a new section and the letter traces suggest a goddess, either Κόρ[ει] or Κορ[οτρόφοι], either of which might suit the possible character of the document.</p>
+
+<p>Line A38: The reading ἔτνος refers to a thick soup made with peas or beans, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.; see also Lambert for further refs. and discussion.</p>
+
+<p>Lines A43-44: The <foreign>phylobasileis</foreign> are adopted from the suggestion of Lewis. This group of officials was constituted by βασιλεῖς chosen from each old Ionian φυλή to perform sacrifices, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. citing notably Arist. <title>Ath. Pol.</title> 8.3, Poll. 8.111 and 120, Hsch. s.v.; see further the Athenian state calendar, <ref target="http://cgrn.ulg.ac.be/CGRN_45">CGRN 45</ref>, face A, fr. 1., col. 3. In line 44, Lambert, with discussion, suggests to read a "cover", ἔλυτρον, of some sort; however, it is unclear what its function may have been. </p>
+
+<p>Lines B1-B8: Jeffery's reconstruction of the text, followed by Sokolowski and Lewis, is based on the apparent similarity of the fragment with the provisions of the deme of Cholargos for the Thesmophoria, <ref target="http://cgrn.ulg.ac.be/CGRN_79">CGRN 79</ref>. This part of the account could therefore have pertained to that festival, taking place on 10-13 Pyanopsion. No certainty is possible, however; see Lambert for a nuanced and cautious discussion.
+						</p>			
+					</div>
+			</body>
+    	</text>
+	</TEI>

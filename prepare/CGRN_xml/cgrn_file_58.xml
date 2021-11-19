@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_58" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 58</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for Kore from Thera</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Small <rs type="objectType">altar</rs> made of volcanic rock. There is a sizeable depression at the top of the block, probably sufficient to receive offerings. Broken in two fragments and also broken at the back, but otherwise relatively intact (?).</p>
+				<p><dimensions>
+					<height unit="cm">24</height>
+					<width unit="cm">10</width>
+					<depth unit="cm">19.5</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: no measurements given.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0300">ca. 400-300 BC</origDate></p>
+			<p><desc>Justification: lettering (Hiller von Gaertringen).</desc></p>
+		</origin>
+	    <provenance><p><placeName type="ancientFindspot" key="Thera" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599971/" type="external">Thera</ref></placeName>. Discovered during excavations in 1900 on the western slope of the city, near the so-called <foreign>tholos</foreign> on the south side. Current location unknown (Museum of Thera?).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+				    <p>Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 1369 (add. p. 300), with ph.</p>
+				    <p>Cf. also: 
+				    
+				    	Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 131.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Hiller von Gaertringen 1901">Hiller von Gaertringen 1901</bibl>: 222-223; <bibl type="author_date" n="Hiller von Gaertringen 1904">Hiller von Gaertringen 1904</bibl>: 71-72.</p>
+					
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    			
+<lb xml:id="line_1" n="1"/><name type="deity" key="Kore"><w lemma="κόρη">Κούρης</w></name>
+
+<lb xml:id="line_2" n="2"/><name type="bakery"><w lemma="πελανός">πελαν<unclear>ό</unclear><add>ς</add></w></name>.				
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					(Altar) of Kore. (Sacrifice) a round cake (or: a liquid mixture).
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+					(Autel) de Korè. (Sacrifier) un gâteau rond (ou un mélange de liquides).
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+	<p>Regrettably, the context for this little altar is now lost. However, it can be seen to compare with several other small altars made of volcanic rock found on Thera (cp. e.g. <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 1361, for Zeus Ktesios; there are several others made of porous stone or other rudimentarily cut local rock, see Hiller von Gaertringen 1901). In this case, the altar functioned as a small sign, prescribing the necessary form of sacrifice: cp. here e.g. <ref target="CGRN_9">CGRN 9</ref> from Paros; for rupestral inscriptions with sacrificial instructions on Thera, cp. here <ref target="CGRN_47">CGRN 47</ref> (found near the shrine of Demeter and Kore, see immediately below), and <ref target="CGRN_59">CGRN 59</ref>.</p>
+					
+	<p>On the cult of Kore on Thera, we have some information, however: Hiller von Gaertringen (1904) published a shrine, consisting of five structures cut from the rock that have been identified as altars, which may be identified as a sanctuary of Demeter and Kore. It is possible that the small altar edited here may also have come from the site, or from another cult-site of the goddesses on Thera. Hiller von Gaertringen additionally surmised that the cult of the two goddesses on Thera must be very ancient, since one of the seven districts of Thera was called Eleusis and one of its months was called Eleusinion. Cf. also <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 371 / 1311 (with Suppl. p. 291), an Archaic inscription with the name of Kore; for other evidence of this cult on Thera, cf. <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 418 (cp. 417, for Demeter, found near the Agora).</p>
+						
+<p>On the two possible senses of πελανός, see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. Since little is known about the modalities of the worship of Kore on Thera, we might think that sense II, a mixture of liquids as an offering, is equally likely as a cake (sense III); cf. here <ref target="CGRN_29">CGRN 29</ref> (Delphi), lines 25-26 and <ref target="CGRN_94">CGRN 94</ref> (Eleusis), col. B, line 8.													</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

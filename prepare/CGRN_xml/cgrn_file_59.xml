@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_59" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 59</idno>: Small rupestral <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for the Nymphs from Thera</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p><rs type="objectType">Rupestral</rs> (rock-cut) inscription.</p>
+				<p><dimensions>
+					<height unit="cm">n/a</height>
+					<width unit="cm">n/a</width>
+					<depth unit="cm">n/a</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters, lines 1-2: <height unit="cm">4-7.5</height>; line 3: <height unit="cm">2-5.5</height>, thus likely indicating that line 3 was added <foreign>a posteriori</foreign>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0300">ca. 400-300 BC</origDate></p>
+			<p><desc>Justification: lettering (Hiller von Gaertringen).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thera" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599971/" type="external">Thera</ref></placeName>, near the south entrance of the temple of Apollo; see Hiller von Gaertringen for further details.</p>       
+		</provenance>
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-06-2016 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+				    <p>Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 378.</p>
+					<p> Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 125; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 132.</p>
+				    <p>Further bibliography: <bibl type="author_date" n="Larson 2001">Larson 2001</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    <lb/> <space extent="unknown" unit="line"/>
+	    <lb xml:id="line_1" n="1"/><name type="group"><w lemma="Ὑλλεῖς">Ὑλλέων</w></name>
+	   
+	   <lb xml:id="line_2" n="2"/><name type="deity" key="Nymphs"><w lemma="νύμφη">Νύμφαι</w></name>.
+	    	
+	    <lb xml:id="line_3" n="3"/><space quantity="2" unit="character" precision="low"/> <name type="sacrifice"><name type="gender"><w lemma="δοιοί">δοιαί</w></name></name>· <w lemma="οὐ">οὐκ</w> <name type="meal"><w lemma="ἀποφορά">ἀποφορά</w></name>.
+	    						
+	    			<lb/>	<space extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+				Of the Hylleis, Nymphs: twofold (offerings). No take-away.
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+				Des Hylleis, les Nymphes : (offrandes) doubles. Ne pas emporter.
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+
+<p> This cult-site of the Nymphs of the Dorian tribe of the Hylleis was identified by a rock-cut inscription on the south-east flank of the hill on which the city of Thera was situated. Many rupestral inscriptions were found in this area between the temple of Apollo Karneios and the gymnasium. The Hylleis were one of the three principal Dorian tribes, deriving their name from Hylas, son of Heracles (for the Hylleis, see here <ref target="CGRN_86">CGRN 86</ref> A, Kos, line 12). Close by another, damaged inscription was found in which a sacrifice to the nymphs of the Dymanes seems to be prescribed: <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 377. The Dymanes were another one of the three main tribes. For a discussion of the cult of the Nymphs on Thera, see Larson. For further evidence on the cult of the Nymphs, cf. e.g. here <ref target="CGRN_17">CGRN 17</ref> (Thasos). For other sacrificial prescriptions on a rock-cut inscription from Thera, see <ref target="CGRN_47">CGRN 47</ref>. Compare also the cult of the Nymphs of the genticilial group of the Pyrrhakidai on Delos: <bibl type="abbr" n="ID">ID</bibl> 67.</p> 
+						
+<p>Line 3: Hiller von Gaetringen comments on the word δοιαί: <foreign>Victimarum, non Nympharum numerus indicatur</foreign>. Indeed, while the latter is conceivable, the former is more likely given the additional prescription of "no take-away". But note that the two interpretations are not mutually exclusive: perhaps the specification was both that there were two principal Nymphs at the cult-site and that these received a twin sacrifice of female animals or another form of "twofold sacrifice". The mention of such "twofold offerings" nonetheless remains unusual and enigmatic, though the Nymphs of the Dymanes also may have received a double sacrifice (now missing, but qualified with the number β', cf. again <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 377). The specification of "no take-away", indicating that sacrifices must be consumed on the spot, occurs regularly, cf. here, among many other examples, <ref target="CGRN_52">CGRN 52</ref> (Erchia), <foreign>passim</foreign>, and the commentary to lines 10-12 at <ref target="CGRN_32">CGRN 32</ref> (Thorikos).</p>
+	
+					</div>
+			</body>
+    	</text>
+	</TEI>

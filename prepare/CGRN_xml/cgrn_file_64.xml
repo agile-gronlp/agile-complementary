@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_64" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 64</idno>: <rs type="textType" key="sacrificial regulation">Regulation concerning preliminary sacrifice</rs> at the Asklepieion in Epidauros</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p><rs type="objectType">Stele</rs> of limestone, damaged on the righthand side; otherwise intact.</p>
+                            <p><dimensions>
+                                <height unit="cm">38</height>
+                                <width unit="cm">40</width>
+                                <depth unit="cm">10</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>The preserved portion of the stone is written in stoichedon, though the regularity of the grid is lessened starting already in line 3 (cf. Peek). Given the probable restorations in the text below, not much seems to be missing to the righthand side. The stoichedon is thus to be reckoned of 24 letters.</p> 
+                            <p>Letters: <height unit="cm">1</height>, <height unit="mm">6</height> for rounded letters.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0350" notAfter="-0300">ca. 350-300 BC</origDate></p> 
+                        <p><desc>Justification: fourth-century lettering (Papadimitriou); Peek prefers a late fourth-century date on a similar basis.
+                        </desc></p> 
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Epidauros" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570228" type="external">Epidauros</ref></placeName>. The stone was found in the early-Christian wall to the north-east of the temple of Apollo Maleatas.</p> 
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-07-2014 by S Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                <p> Edition here based on <bibl type="author_date" n="Papadimitriou 1949">Papadimitriou 1949</bibl>: 366-370.</p>
+                <p>Other edition: Peek <bibl type="abbr" n="I.Epidauros">I.Epidauros</bibl> 336.</p>
+                <p> Cf. also:
+                    Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 22; 
+                    <bibl type="abbr" n="SEG">SEG</bibl> 45, 272.
+                </p>
+                <p> Further bibliography: 
+                    <bibl type="author_date" n="Stengel 1896">Stengel 1896</bibl>;
+                    <bibl type="author_date" n="Herzog 1931">Herzog 1931</bibl>: 46;
+                    <bibl type="author_date" n="Edelstein - Edelstein 1945">Edelstein - Edelstein 1945</bibl>: II 99-100;
+                    <bibl type="author_date" n="Papadimitriou 1949">Papadimitriou 1949</bibl>: 367-370; 
+                    <bibl type="author_date" n="Van Straten 1995">Van Straten 1995</bibl>: 162, 277;
+                    Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 300, 308.
+                    
+                </p>
+           
+                
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    
+<lb xml:id="line_1" n="1"/> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱαρεὺς</w></name> ὁ <w lemma="παρά">παρ’</w> <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκλαπιο̑ι</w></name> <w lemma="παρέχω">παρ<supplied reason="lost">ε</supplied>
+    
+<lb xml:id="line_2" n="2" break="no"/>χέτω</w> τοῖς <name type="person"><name type="sacrifice"><w lemma="προθύω">προθυομένοις</w></name></name> <name type="genericOffering"><w lemma="πᾶς">πά<supplied reason="lost">ντ</supplied>
+                            
+  <lb xml:id="line_3" n="3" break="no"/>α</w>, <w lemma="ὅσος">ὅσων</w> <w lemma="δεῖ">δεῖ</w></name> <w lemma="ἐπί">ἐπὶ</w> τᾶι <name type="sacrifice"><w lemma="πρόθυσις">προθύσι</w></name>, <w lemma="ὅσος">ὅσ<supplied reason="lost">α</supplied></w>
+                    
+ <lb xml:id="line_4" n="4"/> <w lemma="κα">κα</w> <w lemma="μή">μὴ</w> <w lemma="ἱκνέομαι">ἵκωντι</w> <w lemma="ἔχω">ἔχοντες</w>· <w lemma="λαμβάνω">λαμ<unclear>β</unclear><supplied reason="lost">αν</supplied>
+     
+ <lb xml:id="line_5" n="5" break="no"/>όντων</w> δὲ <w lemma="οὗτος">τούτων</w> <w lemma="τριώβολον">τριώδελ<supplied reason="lost">ον</supplied></w>,
+                    
+<lb xml:id="line_6" n="6"/> <name type="vegetal"><w lemma="οὐλαί">ὀλᾶν</w></name> δὲ καὶ <name type="adornment"><w lemma="στέμμα">στέμματος</w></name> <w lemma="ἡμιωβέλιον"><supplied reason="lost">ἡμι</supplied>
+                       
+<lb xml:id="line_7" n="7" break="no"/>ωδέλιον</w>, <name type="vegetal"><w lemma="σχίζα">σχιζᾶν</w></name> δὲ <w lemma="ἐπί">ἐπὶ</w> <supplied reason="lost">τοῖς</supplied>
+                    
+<lb xml:id="line_8" n="8"/> <name type="animal" key="generic"><name type="age"><w lemma="ἁπαλίας">ἁπαλίοις</w></name></name> <w lemma="ἡμιωβέλιον">ἡμιωδέλιον</w>, <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <supplied reason="lost">δὲ</supplied>
+                  
+<lb xml:id="line_9" n="9"/> τοῖς <name type="animal" key="generic"><name type="age"><w lemma="τέλειος">τελέοις</w></name></name> <w lemma="ὀβελός">ὀδελόν</w>· <supplied reason="lost">ὁ δὲ</supplied> <w lemma="παρά"><supplied reason="lost">παρ’</supplied></w>
+         
+<lb xml:id="line_10" n="10"/><name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> <name type="personnel"><w lemma="ἱερεύς">ἱαρεὺς</w></name> <name type="vegetal"><w lemma="οὐλαί">ὀλᾶν</w></name> <supplied reason="lost">καὶ</supplied> <name type="adornment"><w lemma="στέμμα"><supplied reason="lost">σ</supplied>
+                    
+  <lb xml:id="line_11" n="11" break="no"/>τέμματος</w></name> καὶ σχιζ<supplied reason="lost">ᾶν</supplied> <gap reason="lost" quantity="6" unit="character"/> <w lemma="ἐπί"><supplied reason="lost">ἐ</supplied>
+                   
+<lb xml:id="line_12" n="12" break="no"/>πὶ</w> τᾶι <name type="sacrifice"><w lemma="πρόθυσις">προθύσι</w></name> τοῖς <gap reason="lost" quantity="6" unit="character"/>                  
+                  
+<lb xml:id="line_13" n="13"/><w lemma="παρά">παρ’</w> <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκλαπιῶ<supplied reason="lost">ι</supplied></w></name> <gap reason="lost" quantity="12" unit="character"/>
+                   
+<lb xml:id="line_14" n="14"/><w lemma="μή">μὴ</w> <w lemma="πλείων">πλέον</w> <orig>δε</orig><gap reason="lost" quantity="15" unit="character"/>
+                    
+<lb xml:id="line_15" n="15" break="no"/><supplied reason="lost">ό</supplied>ντω <orig>το</orig><gap reason="lost" quantity="18" unit="character"/>
+                   
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+                   
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>The priest (serving) at the side of Asclepius must provide to those making preliminary sacrifices everything necessary for this preliminary sacrifice, whatever they do not have at hand when they arrive. For them taking (5) these things, (charge) three obols, for barleycorns and for a wreath a [half]-obol, for the pieces of wood destined for (the sacrifice of) suckling pigs, a half-obol, for (the pieces of wood destined for the sacrifice of) an adult animal, an obol. The (10) priest [(serving) at the side of] Apollo, for barleycorns and a wreath and wood [...] for the preliminary sacrifice to [...] at the side of Asclepius [...] no more [...] (15) let him [...]
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction </head>
+<p>Que le prêtre auprès d'Asclépios fournisse à ceux qui font le sacrifice préliminaire, tout ce qui est nécessaire au sacrifice préliminaire et dont ils seraient dépourvus à leur arrivée; de ceux qui (5) reçoivent (ces nécessités), (que l’on perçoive) trois oboles, pour les grains d’orge et la bandelette, une [demi]-obole, pour le bois coupé destiné aux (sacrifices des) cochons de lait, une demi-obole, pour (le bois coupé destiné aux sacrifices des) bêtes adultes, une obole. Le (10) prêtre [auprès] d'Apollon, pour les grains d'orge et la bandelette et le bois [...] pour le sacrifice préliminaire aux [...] auprès d'Asclépios [...] pas plus de [...] (15) qu'il [...]
+                </p>
+                <p>(traduction d'après Y. Lafond)</p>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                
+<p>This small regulation from Epidauros primarily concerns the duties of the priest of Asclepius. Another section (lines 9-15), more badly damaged, apparently involved the priest of Apollo, but perhaps also other requirements. At any rate, the principal subject of the regulation is an important form of sacrifice in the sanctuary, the πρόθυσις (προθύειν, see also below on lines 2-5). Visitors who came to the sanctuary seeking treatment and dreams from the god had to make obligatory preliminary offerings (προθύματα) before entering the <foreign>adyton</foreign> (cf. Stengel, Papadimitriou). These sacrifices most probably had to be made to Apollo Maleatas, a healing divinity associated with Asclepius (see again on lines 9-15, though restorations there are more elusive). On the god Apollo Maleatas, his role at Epidauros and the association with Asclepius, cf. Herzog, Edelstein, and cp. <bibl type="abbr" n="IG IV².1">IG IV².1</bibl> 128 and here <ref target="http://cgrn.ulg.ac.be/CGRN_34/">CGRN 34</ref>, lines 1-4. For other regulations concerning sacrifices preliminary to incubations, see here <ref target="http://cgrn.ulg.ac.be/CGRN_70/">CGRN 70</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_75/">CGRN 75</ref> (both from Oropos); for πρόθυσις in a cult of Asclepius, see <ref target="http://cgrn.ulg.ac.be/CGRN_54/">CGRN 54</ref> (Piraeus), and in different cults, e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_87/">CGRN 87</ref> (Samos).</p>
+                
+<p>The regulation has a markedly practical concern: worshippers coming to the sanctuary did not necessarily bring their own provisions, as the regulation itself points out (lines 3-4), perhaps since to do so would have been cumbersome, especially for travellers coming from afar. However, the preliminary sarifices could also include animal sacrifices (lines 7-9): worshippers were apparently expected to bring their own animal for sacrifice, or to purchase it on the spot. The regulation specifies the duty of the priest in providing complementary items for the expected preliminary sacrifice: unspecified elements for the πρόθυσις (line 5; "whatever was needed", cf. our commentary below), barley-grains and a crown (line 6), and firewood (lines 7-9). A fixed fee, to be paid by the worshippers, is specified for all of these items. This part of the regulation conforms to the sort of sacrificial tariffs that we find elsewhere in the present Collection, where similar tariffs were imposed depending on which type of animal one chose to sacrifice: cf. e.g. again <ref target="http://cgrn.ulg.ac.be/CGRN_70/">CGRN 70</ref> (Oropos), lines 6-9. In these others cases, it may be suspected that the fees also serve to reimburse the sanctuary for the wood and other substances it had to provide for those offering sacrifices. Often such fees were to be deposited directly in the money-box of the sanctuary; here, this is not specified, though it is possible that it was the case; alternatively, the fees may have been collected directly by the priest or priests.</p>      
+                
+<p>Lines 1-2: The verb παρέχω is typically used in similar descriptions when priests have to provide "sacrificial paraphernalia" (Lupu, p. 300, with parallels) or any other complements for the performance of the sacrifice.</p> 
+                     
+<p>Lines 2-5: The προθυόμενοι are worshippers coming to the Asklepieion with the hope of being cured by Asclepius and who have to sacrifice to Apollo first (and perhaps to Asclepius also). The middle voice may subtly point to the anticipation of receiving a favour (here: improved health) in return for the sacrifice (so Stengel). The unusual dative προθύσι (instead of the expected form προθύσει) must refer to the preliminary sacrifice itself. Elsewhere, the noun πρόθυσις is known to have referred to the base of an altar (Paus. 5.13.9, describing the altar at Olympia, but it is clear that this area was used for the preliminary part of the sacrifice). Though προθυσία is epigraphically attested (<bibl type="abbr" n="SEG">SEG</bibl> 37, 866, line 4, Keramos), we perhaps need not be overly troubled by the alternation of the two compound words: cf. for instance how both ἐκθυσία and ἔκθυσις (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v.) are acceptable alternatives derived from ἐκθύω. What the worshippers need and thus what the priest of Asclepius must provide is not made explicit. Papadimitriou plausibly suggested these were θυλήματα or πόπανα. Cakes are indeed well-attested as preliminary offerings in the cult of Asclepius, cp. for example <ref target="http://cgrn.ulg.ac.be/CGRN_54/">CGRN 54</ref> (Piraeus), and a vase described by Van Straten (p. 277). We take <w lemma="λαμβάνω">λαμ<unclear>β</unclear><supplied reason="lost">αν</supplied>όντων</w> as a present participle in the genitive plural, agreeing with these worshippers described in previous lines, and representing the first of the cases listed in the genitive as part of these sacrificial tariffs. This requires us to presume that a verb has been left aside or omitted (e.g. δίδοσθαι). An alternative would be to take the word as a plural imperative (cp. the singular imperatives in lines 1-2 and 14-15), i.e. "let them take (as a fee)". This yields good sense, but the subject of the verb is then left very allusive (it cannot be the worshippers; the priests of Asclepius and Apollo?).</p>
+                    
+<p>Lines 6-7: Barley groats or grains (οὐλαί) were used to sprinkle over the altar and/or the head of the animal (Lupu, p. 308 with further refs), cf. also here <ref target="http://cgrn.ulg.ac.be/CGRN_126/">CGRN 126</ref> (Lykosoura), line 15. The στέμμα was used to adorn (καταστέφειν or στεφανοῦν) the sacrificial animal, prior to its being sacrificed. This was a ribbon "formed of loose strand of wool with pieces of string tied round it at regular intervals", hung over the horns of bulls or occasionally round the belly of pigs (Van Straten, p. 162); cf. also the word λημνίσκος: <ref target="http://cgrn.ulg.ac.be/CGRN_45/">CGRN 45</ref> (Athens) and <ref target="http://cgrn.ulg.ac.be/CGRN_146/">CGRN 146</ref> (Kos, Phyxa), line 16.</p>
+                     
+<p>Lines 7-9: A distinction is being made between the firewood needed for the sacrifice of a suckling animal (ἁπαλίας is a young pig, cf. Diog. Laert. 8.20 and Hsch. s.v. ἁπάλιον) and for an adult animal. An adult animal appears to require twice as much firewood as a younger one. Is the distinction between a young pig and any other adult animal meant to be specific, or perhaps more simply, meant to suggest a generic contrast between a suckling animal and a more mature one (cp. the genitive γαλαθηνοῦ, often found in sacrificial tariffs in opposition to τελείου in <ref target="http://cgrn.ulg.ac.be/CGRN_61/">CGRN 61</ref>, Athens, lines 6-7, and cp. <bibl type="abbr" n="IG II²">IG II²</bibl> 1361 / <bibl type="abbr" n="LSCG">LSCG</bibl> 45; as well as  <ref target="http://cgrn.ulg.ac.be/CGRN_80/">CGRN 80</ref>, Erythrai, lines B10-11)? If the former is the case, then this might suggest little piglets were commonly offered in the preliminary sacrifice at the Asklepieion.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

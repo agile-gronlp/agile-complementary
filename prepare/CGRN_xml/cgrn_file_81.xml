@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_81" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 81</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> with a small calendar of pastoral sacrifices at Thebes-on-the-Mykale</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of <rs type="objectType">stele</rs> of blue marble, heavily broken at the top. Otherwise intact on the left and right and at the bottom. The stele is opisthographic and preserves <bibl type="abbr" n="I.Priene">I.Priene</bibl> 363 (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 465) on its back. Another probable fragment of 363 is <bibl type="abbr" n="I.Priene">I.Priene</bibl> 361 (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 414; cf. Mack, p. 55-58, with illustrations): both texts concern the definition of boundaries in the territory of Mykale. 361 perhaps came near the top of the stele as it appears to preserve part of an introductory statement concerning the definition of boundaries. Yet 361, if correctly coming at the top of 363, regrettably cannot help us with the top of the present sacrificial regulation, since its back is not preserved (361 is apparently lost and now only known from a squeeze); otherwise, it might have contained an earlier portion of the present text. </p>
+				<p><dimensions>
+					<height unit="cm">48</height>
+					<width unit="cm">40</width>
+					<depth unit="cm">12</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">10</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0375" notAfter="-0325">ca. 350 BC</origDate></p>
+			<p><desc>Justification: lettering and style (Hiller von Gaetringen; Blümel - Merkelbach, with comments on the strong retention of Ionic forms).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thebes-Mykale" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599805" type="external">Thebes</ref></placeName> on Mt. Mykale (note that the link only refers to the mountain near Priene). Currently in the Staatlich Museen zu Berlin (inv. no. 122).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Blümel - Merkelbach <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 416, with ph. p. 178 (vol. II). </p>
+					<p>Other editions: Hiller von Gaertringen <bibl type="abbr" n="I.Priene">I.Priene</bibl> 362 and p. 312; <bibl type="author_date" n="Mack 2015">Mack 2015</bibl>: no. 2, with ph.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 39; Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 64; <bibl type="author_date" n="Thonemann 2011">Thonemann 2011</bibl>: 196-197, with English transl.</p>
+
+					<p>Further bibliography: <bibl type="author_date" n="Labarbe 1953">Labarbe 1953</bibl>; <bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>; <bibl type="author_date" n="Trümpy 1997">Trümpy 1997</bibl>; <bibl type="author_date" n="Hallof 1999">Hallof 1999</bibl>; <bibl type="author_date" n="Larson 2001">Larson 2001</bibl>: 201-202.</p>
+				<p/>	
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_1" n="1"/><gap reason="lost" quantity="6" unit="character"/> <name type="month"><w lemma="Κυανοψιών"><supplied reason="lost">Κυαν</supplied><unclear>οψ</unclear>ιῶνος</w></name> <w lemma="ὄγδοος">ὀ<unclear>γδ</unclear><supplied reason="lost">όηι</supplied></w>
+	    				
+<lb xml:id="line_2" n="2"/><w lemma="ἄνω"><unclear>ἀ</unclear>ν<unclear>ο</unclear><supplied reason="lost">μ</supplied>ένου</w> <name type="sacrifice"><w lemma="φέρω"><supplied reason="lost">φέρ</supplied><unclear>ε</unclear>ι<unclear>ν</unclear></w></name> τῆι <name type="deity" key="Mykale"><w lemma="Μύκαλη">Μυκάληι</w></name> <orig>ΟΡ</orig><gap reason="lost" quantity="4" unit="character" precision="low"/>
+	    					
+<lb xml:id="line_3" n="3" break="no"/><orig><unclear>α</unclear>ν</orig> τὸν <gap reason="lost" quantity="8" unit="character"/> καὶ <w lemma="παραδίδωμι">παρα<unclear>δ</unclear>οῦν<unclear>α</unclear>ι</w> τοῖ<unclear>ς</unclear>
+	    				
+<lb xml:id="line_4" n="4"/><name type="personnel"><w lemma="ἱεροποιός">ἱεροποιοῖς</w></name> <name type="invocation"><w lemma="ἐπόμνυμι"><unclear>ἐ</unclear><supplied reason="lost">π</supplied>ομόσαντ<unclear>α</unclear></w></name> τὴμ <name type="deity" key="Mykale"><w lemma="Μύκαλη">Μυκάλην</w></name>,
+	    				
+<lb xml:id="line_5" n="5"/>καὶ τοῦ <name type="month"><w lemma="Ταυρεών">Τα<supplied reason="lost">υ</supplied>ρ<unclear>ε</unclear>ῶνος</w></name> <name type="sacrifice"><w lemma="φέρω">φ<unclear>έ</unclear>ρ<unclear>ε</unclear><supplied reason="lost">ι</supplied>ν</w></name> <w lemma="τρίτος">τρίτηι</w> <w lemma="ἐπί">ἐπὶ</w> <w lemma="δέκα">δέ
+	    					
+<lb xml:id="line_6" n="6" break="no"/>κα</w> ταῖς <name type="deity" key="Nymphs"><w lemma="νύμφη">Νύμφαις</w></name> <w lemma="καθότι">καθότι</w> καὶ τῆι <name type="deity" key="Mykale"><w lemma="Μύκαλη">Μυκάληι</w></name>,
+	    					
+<lb xml:id="line_7" n="7"/>καὶ τοῖς <name type="festival"><w lemma="Θαργήλια">Ταργηλίοις</w></name> <name type="sacrifice"><w lemma="φέρω">φέρ<unclear>ε</unclear>ιν</w></name> τῆι <w lemma="ὄγδοος">ὀγδόηι</w>
+	    					
+<lb xml:id="line_8" n="8"/><name type="dairy"><w lemma="τυρεία">τυρείην</w></name> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμῆι</w></name> τῶι <name type="epithet" key="Ktenites"><w lemma="κτηνίτης">Κτηνίτηι</w></name> <w lemma="καθότι">καθό
+	    					
+<lb xml:id="line_9" n="9" break="no"/>τι</w> καὶ τῆι <name type="deity" key="Mykale"><w lemma="Μύκαλη">Μυκάληι</w></name>, καὶ <w lemma="εἰς">ἐς</w> τὴν <w lemma="ὑστεραῖος">ὑστεραίην</w>
+	    					
+<lb xml:id="line_10" n="10"/><name type="sacrifice"><w lemma="φέρω">φέρειν</w></name> <name type="dairy"><w lemma="τυρεία">τυρείην</w></name> τῶι <name type="deity" key="Maeander"><w lemma="Μαίανδρος">Μαιάνδρωι</w></name> <w lemma="καθότι">καθότι</w>
+	    					
+<lb xml:id="line_11" n="11"/>καὶ τοῖς <w lemma="ἄλλος">ἄλλοις</w> <name type="invocation"><w lemma="ἐπόμνυμι">ἐπομόσ<unclear>α</unclear>ντα</w></name>· <name type="sacrifice"><w lemma="φέρω">φέρειν</w></name> δὲ
+	    					
+<lb xml:id="line_12" n="12"/><name type="sacrifice"><w lemma="κουρεῖον">κούρειον</w></name> τῶι <name type="deity" key="Hermes"><w lemma="Ἑρμῆς">Ἑρμῆι</w></name> <name type="animal" key="goat"><name type="age"><w lemma="ἔριφος">ἔριφον</w></name></name> <name type="quality"><w lemma="θύσιμος">θύσιμον</w></name>
+	    					
+<lb xml:id="line_13" n="13"/><w lemma="ἀπό">ἀπ’</w> <w lemma="ἕκαστος">ἑκάστου</w> <w lemma="αἰπόλιον">αἰπολίου</w> <w lemma="ἐκ">ἐκ</w> τοῦ <w lemma="ἑαυτοῦ">ἑαυτοῦ</w>,
+	    					
+<lb xml:id="line_14" n="14"/><w lemma="πρίαμαι">πριάμενον</w> δὲ <w lemma="μή">μὴ</w> <w lemma="ἔξεστι">ἐξεῖναι</w>, καὶ <name type="bakery"><w lemma="ἐπίπεμμα">ἐπιπέμμα
+	    				
+<lb xml:id="line_15" n="15" break="no"/>τα</w></name> <w lemma="ἐκ">ἐξ</w> <w lemma="ἡμιχοινίκιον">ἡμιχοινικίου</w> καὶ <w lemma="δύο">δύο</w> <w lemma="ἡμιτεσσέριον">ἡμιτεσσέρια</w>
+	    					
+<lb xml:id="line_16" n="16"/><name type="liquid"><w lemma="οἶνος">οἴνου</w></name> <name type="sacrifice"><w lemma="σπονδή">σπονδήν</w></name>· <name type="sacrifice"><w lemma="φέρω">φέρειν</w></name> δὲ καὶ τοὺς τὰ
+	    					
+<lb xml:id="line_17" n="17"/><name type="animal" key="sheep"><w lemma="πρόβατον">πρόβατα</w></name> <name type="person"><w lemma="βόσκω">βόσκοντας</w></name> <w lemma="ἀπό">ἀπὸ</w> τὴς <w lemma="ποίμνη">ποίμνη
+	    					
+<lb xml:id="line_18" n="18" break="no"/>ς</w> <name type="animal" key="sheep"><name type="age"><w lemma="ἀρήν">ἄρνα</w></name></name>, <w lemma="ἐάν">εἰὰν</w> <w lemma="πέντε">πέντε</w> <w lemma="τίκτω">τέκωσι</w>· <name type="sacrifice"><w lemma="φέρω">φέρειν</w></name> δὲ καὶ
+	    					
+<lb xml:id="line_19" n="19"/>τὰ <w lemma="ἄλλος">ἄλ<supplied reason="omitted">λ</supplied>α</w> <w lemma="καθότι">κατότι</w> καὶ οἱ τὰς <name type="animal" key="goat"><w lemma="αἴξ">αἶγας</w></name> <name type="person"><w lemma="βόσκω">βόσκον
+	    					
+<lb xml:id="line_20" n="20" break="no"/>τες</w></name>· <name type="portion"><w lemma="λαμβάνω">λαμβάνειν</w></name> δὲ τοὺς <w lemma="εἰσάγω">εἰσάγοντας</w> το̑ <name type="sacrifice"><w lemma="κουρεῖον">κου
+	
+<lb xml:id="line_21" n="21" break="no"/>ρείο</w></name> τὸ <name type="portion"><w lemma="δέρμα">δέρμα</w></name> καὶ <name type="portion"><w lemma="σκέλος">σκέλος</w></name> καὶ <name type="portion"><w lemma="νεφρός">νεφρὸν</w></name>
+	    						
+<lb xml:id="line_22" n="22"/>καὶ <name type="portion"><w lemma="σκολιός">σκολιόν</w></name>, τοὺς δὲ <name type="personnel"><w lemma="ἱεροποιός">ἱροποιοὺς</w></name> <name type="portion"><w lemma="παραλαμβάνω">παραλ
+	    						
+<lb xml:id="line_23" n="23" break="no"/>αβόντας</w></name> τὰ <name type="portion"><w lemma="κρέας">κρεῖα</w></name> τῶν <name type="sacrifice"><w lemma="κουρεῖον">κουρείων</w></name> καὶ τὰ
+	    					
+<lb xml:id="line_24" n="24"/><w lemma="αὐτός">αὐτοὶ</w> <name type="sacrifice"><w lemma="θύω">θύουσι</w></name> <name type="portion"><w lemma="νέμω">νέμειν</w></name> <name type="portion"><w lemma="μερίς">μερίδας</w></name> <w lemma="κεφαληδόν">κεφα<unclear>λ</unclear>ηδὸν</w>
+	    						
+<lb xml:id="line_25" n="25"/><w lemma="πᾶς">πᾶσι</w> <name type="ethnic" key="Thebes"><w lemma="Θηβαῖος">Θηβαίοις</w></name> καὶ τοῖς <name type="group"><w lemma="πολίτης">πο<unclear>λ</unclear>ίταις</w></name> <w lemma="ὅσος">ὅσοι</w> ἄν
+	  
+<lb/><space extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+[...] On the 22nd of the [month] Kyanopsion, bring to Mykale [...] the [...] and the one who has sworn an oath by Mykale is to hand it over to the <foreign>hieropoioi</foreign>. (5) On the 13th of Taureon, bring (an offering) to the Nymphs, just like for Mykale, and on the Thargelia, on the 8th day, bring (an offering of) cheese to Hermes Ktenites, just as for Mykale, and on the following day (of the Thargelia), (10) the one who has sworn an oath is to bring (an offering of) cheese to Maiander, just like for the other (gods). (Goatherds) are to bring also as a <foreign>koureion</foreign> to Hermes a kid suitable for sacrifice, each from his own herd—it is not possible for it to be purchased—, and (bring also) cakes (15) from a half-<foreign>choinix</foreign> as well as two half-<foreign>tesseria</foreign> of wine as a libation. Those who pasture sheep are to bring a lamb from their flock, if five (sheep) have given birth (in season). They are to bring the rest, just as those who pasture goats (are to bring for sacrifice). (20) Those who bring in the <foreign>koureion</foreign> are to receive the skin and a leg and a kidney and the small intestine, while the  <foreign>hieropoioi</foreign>, having taken the meat from the <foreign>koureia</foreign> and the animals which they themselves sacrifice, are to distribute portions man by man to (25) all the Thebans and to the citizens however many happen (to be present).
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+						[...] Le 22 du [mois] de Kyanopsion, apporter à Mykalè [...] le [...] et celui qui a prêté serment par Mykalè le transmettra aux hiéropes. (5) Le 13 Taureon, apporter (une offrande) aux Nymphes, comme pour Mykalè, et aux Thargelia, le 8, apporter du fromage à Hermès Ktenites, comme pour Mykalè. Le jour suivant, (10) celui qui a prêté serment apportera du fromage à Maiandros tout comme aux autres (dieux). (Les chevriers) apporteront en <foreign>koureion</foreign> à Hermès un chevreau qui convient pour le sacrifice, chacun de son propre troupeau — il n'est pas permis de l'acheter —, ainsi que des gâteaux (15) d'un demi-chénice et deux demi-tessères de vin en libation. Les éleveurs de moutons apporteront un agneau de leur troupeau si cinq (bêtes) ont mis bas. Qu'ils apportent le reste tout comme les chevriers. (20) Ceux qui amènent le <foreign>koureion</foreign> prendront la peau, une patte, un rein et le petit intestin, tandis que les hiéropes, après avoir prélevé la viande des <foreign>koureia</foreign> et des animaux qu'ils sacrifient eux-mêmes, distribueront des portions par personne à (25) tous les Thébains et aux citoyens présents.
+				
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+												
+<p> This regulation is concerned with the sacrifices that were to be undertaken by shepherds, local inhabitants of Thebes on Mount Mykale. The sacrifices are to be made to the local mountain (Mykale), the local river (the Maiander), to the Nymphs inhabiting the area and to Hermes, protector of shepherds. The text forms an integral part of a dossier on the scope of the territory of Thebes on Mount Mykale and its cults. A roughly contemporaneous document was inscribed on the other side of the stone (<bibl type="abbr" n="I.Priene">I.Priene</bibl> 363 / <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 465), concerning the definition of boundaries. The two sides of the stele together thus codify the limits and the use of the territory of Thebes on Mount Mykale (for the site, see Thonemann, with p. 279-283; Blümel - Merkelbach, p. 551; and now esp. Mack, p. 51-55).</p> 
+						
+<p> The political context for the inscribing of this document is a particularly intriguing question. The principal reason for this act of inscribing both sides of the stele is thought to be the incorporation of the community of Thebes into a nearby <foreign>polis</foreign>; note especially in this connection the distribution of meat during the "shearing offering", which is to occur individually to "all the Thebans and those citizens who happen (to be present)" (lines 24-25). The Thebans are therefore differentiated from the citizens of the enacting body, and scholars have debated whether Thebes at this time was controlled by Miletos to the south, or by another nearby city such as Priene or Samos (to whose Peraia it belonged in the 5th century BC). It is now generally concluded that Miletos had seized control of Thebes by the period 411-394 BC and that it probably retained this territory well into the mid 4th century BC (so Blümel - Merkelbach; cf. also Thonemann); for further discusssion of Thebes-on-the-Mykale and its historical context, see also here <ref target="CGRN_122">CGRN 122</ref>. </p>
+						
+<p> Since the beginning of the regulation is missing, its precise type is unclear, though some form of decree is probable. Apparently, the shepherds and other pastoralists from the area were compelled by the regulation to swear oaths prior to accomplishing a series of sacrifices (ἐπομόσαντα, lines 4 and 11). Mack discusses the possible substance of this oath, which may have been in some way an oath of loyalty to Miletos, perhaps inscribed on an earlier, now missing part of the stele. As Thonemann has elegantly put it, the regulation "serves as a way of integrating the pastoral class into the conceptual framework of the city" (p. 197). By contrast, Blümel and Merkelbach think of a more practical oath: "Der Hird soll unter Eid erklären, wie groß seine Herde war" (following Sokolowski, Le Guen-Pollet). Indeed, a good partial parallel for such a procedure is found in <bibl type="abbr" n="LSG">LSCG</bibl> 105 (Ios), where we find oaths to be sworn by those taking care of the pasturing of
+sacred flocks. </p>
+						
+<p>Presumably several, if not all, of the rites mentioned in the regulation will otherwise have formed a traditional sequence in the religious year and seasonal rhythms of the pastoralists (see also Mack). Yet, for some reason, they are now explicitly mandated. Indeed, the first part of the regulation (lines 1-11), containing four calendrical entries, presents us with an eloquent snapshot of the rhythms of pastoral life on Mt. Mykale near the delta of the Maiander river: sacrifices to a mountain and a river and Nymphs, offerings of new lambs and fresh cheese, etc. We do not know whether any dated sacrifices were missing above the extent text. But it is not unlikely that the sacrifice to Mykale actually occurred first: note that the second, third and fourth sacrifice (to the Nymphs, Hermes and Maiander) are modelled on it (καθότι καὶ τῆι Μυκάληι, line 6, lines 8-9; and in lines 10-11 καθότι καὶ τοῖς ἄλλοις—including here the sacrifices to all the aformentioned gods). This modelling on
+the sacrifice to Mykale may occur simply because it was the first in the sequence, or because it was the most important offering, or perhaps both. In the absence of other evidence, we may take the order of the small calendar at face value. It will then have begun in Kyanopsion/Pyanopsion, in the fall, followed only then by the spring months. This presents an attractive pastoral sequence in and of itself: the local goddess of Mykale is propitiated in the Autumn when the herds mate and are put to feed for the winter; the rites then culminate with an elaborate sequence in the Spring, when the herds give birth to new young and their lactation is used to produce cheese. </p>
+												
+<p>Lines 1-4: A sanctuary of the goddess Mykale is attested in the settlement of Mykale itself, <bibl type="abbr" n="I.Priene">I.Priene</bibl> 363 / <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 415, line 14. Hiller von Gaertringen preferred to see the figure not as a mountain goddess, but as a spring and thus probably a Nymph herself (comparing Paus. 5.7.5); Mack probably rightly supposes that a homonymous mountain goddess is also possible. The sacrifice which was to be brought by the  pastoralist remains unclear. Since the cheesy sacrifice for Hermes Ktenites in lines 8-9 is to made καθότι καὶ τῆι Μυκάληι, we expect this offering to have been mentioned somewhere in the section concerning the sacrifice to Mykale (see also Blümel - Merkelbach’s commentary at lines 8-9). However, it is unlikely that a sacrifice of cheese occurred in lines 2-3 of the extant part of the inscription. First of all, the item must be handed over to the <foreign>hieropoioi</foreign>, the ritual experts of
+the city; an animal sacrifice seems more likely than an offering of cheese. Moreover, the traces, ΟΡ, do not seem to match. We should probably think of the specification an animal sacrifice here: perhaps a form of a oath sacrifice (cp. ὅρκιον, ὅρκια), or much less certainly some form of a mountain animal (ὄρειος?). However, a precise restoration is elusive.</p>
+						
+<p>Lines 5-6: A sacrifice to the Nymphs takes place on 13 Taureon. This date is unknown at Miletos as a ritual occasion in connection with these deities; though the major rites of the festival of Apollo of the Molpoi occurred at the beginning of this month, <ref target="CGRN_201">CGRN 201</ref>. The occasion at Thebes thus seems to bear no specific relationship with the Milesian calendar. As Hiller von Gaertringen acutely notes, the Nymphs in question will have been the Μυκαλησσίδες, known to have helped Leto on her way to Delos (citing Call. 4.50). Cf. Blümel and Merkelbach’s discussion for several other pieces of evidence for the cult in the area of Mykale, including <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 405, and see also Larson. For the cult of the Nymphs, see here e.g. <ref target="CGRN_17">CGRN 17</ref> (Thasos) and <ref target="CGRN_59">CGRN 59</ref> (Thera) </p>
+						
+<p>Line 7: Given the phrasing "during the Targelia, on the eighth day", Trümpy (p. 94, n. 427) hypothesised that the Theban and Milesian festival of the Thargelia would have lasted at least 8 days (followed by Blümel - Merkelbach). Lengthy festivals are certainly well attested and there is some evidence for an ordinal referring to a day (esp. the first day) of a festival in this sort of construction (cp. e.g. <bibl type="abbr" n="IG XII.7">IG XII.7</bibl> 235, line 9: τ]οῖς Ἑρμαίοις τῆι πρώτηι ἡμέραι; <bibl type="abbr" n="I.Iasos">I.Iasos</bibl> 76, lines 19-20 ἐν τοῖς Διονυσί|[οις τῆ]ι πρώτηι ἡμέραι [τ]ῶν τραγωιδῶν). Nevertheless, such a lengthy Thargelia may be surprising (see also the doubts of Mack), given that the festival is known to have been focussed on rites for Apollo and to have taken place principally on the seventh of Thargelion at Athens (see Mikalson, p. 153-154; all major festivals for Apollo took place on a seventh day). A more natural  interpretation of the date
+here would therefore be to assume that the reference is to the 8th of Thargelion, during the Thargelia; for a probably similar dating formula at Istros, see <bibl type="abbr" n="IScM I">IScM I</bibl> 60, lines 6-7: τοῖς Ταυρέοις τῆ[ι (e.g.) τεσσερεσκαι]|δεκάτ[ῃ], where it seems clear that the reference is to a day in the month and not a day in the sequence of the festival itself; and also <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 364 (Kos), lines 1-2: ἐν τοῖς Πυθαίοις· τᾶι ιζ' (i.e. 17 Dalios, during the Pythia). Rites for Hermes at Thebes will therefore have followed closely those for Apollo on the 7th. The "next" day is also mentioned (line 9), thus the 9th of Thargelion; this may also have still been part of the festival (perhaps its last day?).</p> 
+							
+<p> Lines 8-11: Hermes Ktenites ("Herder") is a god "of the flocks and herds", and thus very appropriately worshipped in this context, as Hiller von Gaertringen noted. The specific epithet appears to only be attested here, but one can readily find parallels for the protective role of Hermes (and other gods) over flocks (cp. e.g. Hermes Ἐπιμήλιος at Koroneia in Boiotia, as adduced by Paus. 9.34.3). For the river Maiander, the central watercourse of the region, see generally Thonemann; cp. the offering of new lambs to Apollo and to the river Acheloos in the summertime at Mykonos, see here <ref target="CGRN_156">CGRN 156</ref>, lines 35-38. For offerings of cheese made by shepherds, see the attractive parallels collected by Blümel and Merkelbach ad loc.; for "pure cheese" at Miletos and Priene respectively, cf. here <ref target="CGRN_6">CGRN 6</ref>, line 4, and <ref target="CGRN_175">CGRN 175</ref>, line 35. In this case, it is likely that the offering qualified as τυρείη was closely tied with the process of the making of new cheese during this period.</p>
+										
+<p>Lines 11-20: As has been well explained by several scholars, already since Labarbe and others, the κουρεῖον here is to be seen as "shearing offering", analogous though clearly distinct from the "cutting of hair" known as a <foreign>rite de passage</foreign> for young boys and others; for that sense of the κουρεῖον, see here <ref target="CGRN_74">CGRN 74</ref> (Athens, Demotionidai), line 6. The timing of the shearing is not explicitly specified by the regulation, but it seems to follows naturally from the aforementioned sacrifice during the Thargelia, also in honour of Hermes (cf. lines 7-11). It may thus have also taken place around the same time. Shearing is indeed known to occur in the Spring, after the protective lengthening of hair during the winter months, and it normally preceded lambing, the birth of new young. Incidentally, Mack (with n. 27; cf. also n. 33) attractively notes that goathair was especially prized in the local textile industries from the area of Miletos; the economic dimension of all of the rituals is thus also worth bearing in mind. Two separate offerings are to be brought by each group of pastoralist: goatherds and shepherds.</p>
+							
+<p> Lines 11-16: Goatherds are to provide one "sacrifice-worthy" (θύσιμος) billy-goat from each of their herds. This probably stresses that the newborn must be well-formed and thus having a "pure" or "integral" body; see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v., noting especially Ar. <title>Ach.</title> 784 concerning a piglet that is not reckoned suitable for sacrifice because missing a tail. Each sacrifice by a goatherd was to be accompanied by the offering of a small baked cake and a libation of wine (see Blümel - Merkelbach for a discussion of the measures used here; that of wine, ἡμιτεσσέριον, is perhaps unique here). For cakes called (ἐπι)πέμματα, cf. <ref target="CGRN_177">CGRN 177</ref> (Priene), lines A15 and B15, and <ref target="CGRN_186">CGRN 186</ref> (Ilion), line 21. </p>
+							
+<p> Lines 16-20: Shepherds are to provide a single lamb from their flocks, but only in a specific scenario. The latter, εἰὰν πέντε τέκωσι, is interpreted by Sokolowski (followed by Blümel - Merkelbach) as a form of tithing of the herd: one in five newborn lambs; but the sense is clearly instead, "if (at least) five are born" to the flock (so Thonemann; Mack). Literally, the clause prescribes that the shepherds are only to provide a lamb for sacrifice "only if they (i.e. the ewes in their flock) gave birth to (at least) five" new lambs during the lambing season. Note that the kid (ἔριφος, line 12) offered by goatherds will also no doubt have been a new baby goat born during the Spring. Furthermore, the clause τὰ δὲ ἄλ<supplied reason="omitted">λ</supplied>α καθότι καὶ ... (line 19) designates the supplementary components of the sacrifice for goatherds as in the case of shepherds (namely, cakes and libations).</p>
+							
+<p>Lines 20-22: This clause lists the perquisites attributed to the shepherds who have "brought the κουρεῖον)". These are strongly reminiscent of the priestly perquisites known from the area of Thebes and Miletos: cf. e.g. <ref target="CGRN_122">CGRN 122</ref>, lines 4-6. Accordingly, we may infer that in the case of the "shearing offerings" the pastoralists sacrificed the animals themselves and thus received these portions as sacrificers. See also lines 1-4 and immediately below, lines 22-24, for the contrast with the animals sacrificed by the <foreign>hieropoioi</foreign> (who presumably received some or the same perquisites when they officiated).</p>
+							
+<p>Lines 22-24: This clause concerning the distribution of meat certainly relates to the aforementioned offerings of κουρεῖα, but it also concerns animals sacrificed by the <foreign>hieropoioi</foreign> themselves (τὰ αὐτοὶ θύουσι). Were these other sacrificial animals which the <foreign>hieropoioi</foreign> needed to offer on the occasion of the κουρεῖον? Another and perhaps better explanation might be that the clause applied generally to all the animal sacrifices mentioned in the regulation, and that it thus also qualified the other major animal sacrifice which with the regulation begins (lines 1-4, the offerings to Mykale). That sacrifice in the Autumn would therefore also have been followed by a large distribution of sacrificial meat. For distribution of equal portions of meat among the citizenry and other participants, see here the discussion at <ref target="CGRN_19">CGRN 19</ref> (deme of Skambonidai in Attica).</p>
+							
+<p>Line 25: For discussion of the political context implied by this line, see above. The text ends <foreign>in medias res</foreign>, with empty space below it. Most probably, the stone cutter left a portion of the copy of the document uninscribed, especially if only one word is missing from the conclusion of the last clause of the extant text (the cutter also started to make a few mistakes in the final lines, 24-25; cf. the app. crit. in Blümel - Merkelbach). Wilamowitz ap. Hiller von Gaetringen attractively suggested that the verb in question might have been παραγένωνται or παροικῶσι; see also Tod, reported in Mack and Blümel - Merkelbach, for other similar options.</p>
+							
+							
+					</div>
+			</body>
+    	</text>
+	</TEI>

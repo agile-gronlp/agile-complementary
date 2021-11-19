@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_160" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 160</idno>: One or two <rs type="textType" key="decree">decrees</rs> concerning the Sarapieion and the perquisites of the neokoros on Delos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Two fragments of a white marble <rs type="objectType">stele</rs>. Fragment A is broken below and on the right; fragment B is broken on all sides but is nearly intact at the right-hand edge. </p>
+
+		<p>Fragment A<dimensions>
+
+	<height unit="cm">24</height>
+	<width unit="cm">19.5</width>
+	<depth unit="cm">6</depth>
+	</dimensions></p>;
+
+		<p>Fragment B<dimensions>
+
+			<height unit="cm">25</height>
+			<width unit="cm">18.5</width>
+			<depth unit="cm">6</depth>
+		</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p> The text has been carefully inscribed and the letters are placed between lines.</p>
+			<p>Letters: <height unit="cm">0.7</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0181" notAfter="-0180">181/0 BC</origDate></p>
+
+						<p><desc>Justification: names of the <foreign>hieropoioi</foreign> (fragment B, line 12). </desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Delos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599588" type="external">Delos</ref></placeName>. Found in the canal south of the lower reservoir of the Inopos river. Now in the Museum (inv. no. Δ 572 a, b).</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+<p> Edition here based on Roussel <bibl type="abbr" n="IG XI">IG XI</bibl>.4 1032, except for the restoration in lines B5, B7-B8, and B17-18 (partially).
+	    			</p>
+	    			<p> Other edition:
+	    				<bibl type="author_date" n="Roussel 1916">Roussel 1916</bibl>: 203-204 no. 215.
+	    			</p>
+
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 52;
+	    				Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 51; Bricault <bibl type="abbr" n="RICIS">RICIS</bibl> 202/0113.
+	    			</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Bruneau 1970">Bruneau 1970</bibl>: 502-503;
+	    				<bibl type="author_date" n="Dunand 1973">Dunand 1973</bibl> III: 155-156.
+	    				<bibl type="author_date" n="Aleshire 1994">Aleshire 1994</bibl>;
+	    				<bibl type="author_date" n="Siard 2003">Siard 2003</bibl>;
+	    				<bibl type="author_date" n="Blok - Lambert 2009">Blok - Lambert 2009</bibl>.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    				<ab subtype="Fragment" n="A">Fragment A
+
+	    				<lb/>
+	    				<lb xml:id="line_A1" n="A1"/> <w lemma="δοκέω">ἔδοξεν</w> τῆι  <name type="group"><w lemma="βουλή">βο<supplied reason="lost">υλῆι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τῶι</supplied>  <name type="group"><w lemma="δῆμος"><supplied reason="lost">δήμωι</supplied></w></name>·
+
+	    				<lb xml:id="line_A2" n="A2"/> Τηλέμνηστος <supplied reason="lost">Ἀριστείδου</supplied> <w lemma="λέγω"><supplied reason="lost">εἶπεν</supplied></w>·
+
+	    				<lb xml:id="line_A3" n="A3"/> <w lemma="ὅπως">ὅπως</w> <w lemma="εὐσεβής">εὐσεβῶς</w> κα<supplied reason="lost">ὶ</supplied> <w lemma="καλός"><supplied reason="lost">καλῶς</supplied></w> <w lemma="ἔχω"><supplied reason="lost">ἔχει</supplied></w>
+
+	    				<lb xml:id="line_A4" n="A4"/> τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name> τῶι  <name type="ethnic"><w lemma="Δήλιος">Δηλ<supplied reason="lost">ίων</supplied></w></name> <supplied reason="lost">τὰ</supplied> <w lemma="πρός"><supplied reason="lost">πρὸς</supplied></w>
+
+	    					<lb xml:id="line_A5" n="A5"/> <supplied reason="lost">τοὺ</supplied>ς  <name type="deity" key="generic"><w lemma="θεός">θεούς</w></name>· <w lemma="ἀγαθός">ἀγαθεῖ</w> <w lemma="τύχη">τ<supplied reason="lost">ύχει</supplied></w><supplied reason="lost">·</supplied> <w lemma="δοκέω"><supplied reason="lost">δεδόχθαι</supplied></w>
+
+	    					<lb xml:id="line_A6" n="A6"/> <supplied reason="lost">τῆι</supplied>  <name type="group"><w lemma="βουλή"><supplied reason="lost">βουλ</supplied>ῆι</w></name> καὶ τῶι  <name type="group"><w lemma="δῆμος">δή<supplied reason="lost">μωι</supplied></w></name><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_A7" n="A7"/> <gap reason="lost" extent="unknown" unit="character"/> τὴν  <name type="group"><w lemma="βουλή">βουλὴν</w></name> τὴ<supplied reason="lost">ν</supplied> <w lemma="ἀεί"><supplied reason="lost">ἀεὶ</supplied></w> <w lemma="βουλεύω"><supplied reason="lost">βου</supplied>
+
+	    					<lb xml:id="line_A8" n="A8" break="no"/> <supplied reason="lost">λεύουσαν</supplied></w> <w lemma="εἰς">εἰς</w> τὸ  <name type="structure"><w lemma="ἱερός">ἱε<supplied reason="lost">ρὸν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_A9" n="A9"/> <gap reason="lost" extent="unknown" unit="character"/><orig>τ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				</ab>
+	    				<ab subtype="Fragment" n="B">Fragment B
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				<lb xml:id="line_B1" n="B1"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="δίδωμι"><supplied reason="lost">δ</supplied><unclear>ότ</unclear>ωσ<supplied reason="lost">αν</supplied></w>
+
+	    				<lb xml:id="line_B2" n="B2"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τῶι</supplied> <name type="personnel"><w lemma="νεωκόρος"><supplied reason="lost">νε</supplied><unclear>ω</unclear>κόρωι</w></name> <w lemma="ὅς">ὧν</w> <w lemma="ἄν">ἂ<supplied reason="lost">ν</supplied></w>
+
+	    				<lb xml:id="line_B3" n="B3"/> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύωσιν</supplied></w></name> <w lemma="ἀπό"><supplied reason="lost">ἀφ’</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἑκάστου</supplied></w> <name type="animal" key="generic"><w lemma="ἱερεῖον"><supplied reason="lost">ἱ</supplied>ερείου</w></name> <name type="portion"><w lemma="κωλῆ">κωλῆν</w></name> <supplied reason="lost">καὶ</supplied>
+
+	    				<lb xml:id="line_B4" n="B4"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">·</supplied> <w lemma="δίδωμι"><supplied reason="lost">δώ</supplied>σουσι</w> δὲ καὶ <w lemma="ὅσος">ὅσο<supplied reason="lost">ι</supplied></w>
+
+	    				<lb xml:id="line_B5" n="B5"/><supplied reason="lost">ἂν</supplied> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> τῆι <name type="structure"><w lemma="στοά">στοᾶι</w></name> τεῖ <w lemma="πρός">πρὸ<supplied reason="lost">ς</supplied></w>
+
+	    				<lb xml:id="line_B6" n="B6"/> <supplied reason="lost">τῶι</supplied> <name type="structure"><name type="deity" key="Sarapis"><w lemma="Σάραπις"><supplied reason="lost">Σαραπιείωι</supplied></w></name></name> <supplied reason="lost">τ</supplied>ῶι <w lemma="λαγχάνω">λαχόντι</w> <name type="personnel"><w lemma="νεωκόρος">νεωκόρωι</w></name>
+
+	    				<lb xml:id="line_B7" n="B7"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἕξ"><supplied reason="lost">ἓ</supplied>ξ</w> καὶ <name type="portion"><w lemma="μερίς">μερίδα</w> <w lemma="κρέας">κρεῶν</w></name>· <w lemma="ὅσος">ὅσ<supplied reason="lost">οι</supplied></w>
+
+	    					<lb xml:id="line_B8" n="B8"/> <supplied reason="lost">δὲ</supplied> <w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>ημένων <name type="sacrifice"><w lemma="θύω">θύωσιν</w></name>, <w lemma="προσλαμβάνω">προ<supplied reason="lost">σ</supplied>
+
+	    					<lb xml:id="line_B9" n="B9" break="no"/> <supplied reason="lost">λήψονται</supplied></w> <supplied reason="lost">τὰ</supplied> <name type="portion"><w lemma="κρέας"><supplied reason="lost">κρέα</supplied></w></name> <w lemma="ἑαυτοῦ">ἑαυτοῖς</w>, τὰ δὲ <name type="portion"><w lemma="γέρας">γέρα</w></name> <w lemma="δίδωμι">δ<unclear>ώ</unclear>
+
+
+	    					<lb xml:id="line_B10" n="B10" break="no"/> <supplied reason="lost">σουσι</supplied></w> <supplied reason="lost">τῶι</supplied> <w lemma="λαγχάνω"><supplied reason="lost">λαχόντι</supplied></w> <name type="personnel"><w lemma="νεωκόρος"><supplied reason="lost">ν</supplied>εωκόρωι</w></name>· <w lemma="κυρέω">κυρωθέντος</w> δ<supplied reason="lost">ὲ</supplied>
+
+	    				<lb xml:id="line_B11" n="B11"/> <w lemma="ὅδε"><supplied reason="lost">τοῦδε</supplied></w> <supplied reason="lost">τοῦ</supplied> <name type="authority"><w lemma="ψήφισμα"><supplied reason="lost">ψηφίσ</supplied>ματος</w></name>, <w lemma="ἀναγράφω">ἀναγραψάτω
+
+	    					<lb xml:id="line_B12" n="B12" break="no"/> <supplied reason="lost">σαν</supplied></w> <supplied reason="lost">οἱ</supplied> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">ἱεροποιοὶ</supplied></w></name> Εὐβοεὺς καὶ Παρμενί
+
+	    				<lb xml:id="line_B13" n="B13" break="no"/> <supplied reason="lost">ων</supplied> <w lemma="εἰς"><supplied reason="lost">εἰς</supplied></w> <rs type="objectType"><w lemma="στήλη"><supplied reason="lost">στήλην</supplied></w></rs> <w lemma="λίθινος"><supplied reason="lost">λι</supplied>θίνην</w> <w lemma="ὅδε">τόδε</w> τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισ
+
+	    					<lb xml:id="line_B14" n="B14" break="no"/> <supplied reason="lost">μα</supplied></w></name> <supplied reason="lost">καὶ</supplied> <w lemma="ἵστημι"><supplied reason="lost">στησάτωσαν</supplied></w> <w lemma="εἰς"><supplied reason="lost">ε</supplied>ἰς</w> <w lemma="ἐπιφανής">ἐπιφανέστα</w>
+
+	    				<lb xml:id="line_B15" n="B15" break="no"/> <supplied reason="lost">τον</supplied> <w lemma="τόπος"><supplied reason="lost">τόπον</supplied></w> <supplied reason="lost">τοῦ</supplied> <name type="deity" key="Sarapis"><name type="structure"><supplied reason="lost">Σαραπιείο</supplied>υ</name></name>· <w lemma="εἰμί">εἶναι</w> δὲ τῶν
+
+	    				<lb xml:id="line_B16" n="B16"/> <name type="personnel"><w lemma="νεωκόρος"><supplied reason="lost">νεωκόρων</supplied></w></name> <supplied reason="lost">τὸν</supplied> <supplied reason="lost">μὲν</supplied> <w lemma="πρότερος"><supplied reason="lost">πρῶτον</supplied></w> <w lemma="κλῆρος"><supplied reason="lost">κλ</supplied>ῆρον</w> <w lemma="ἐκ">ἐξ</w> <name type="group"><w lemma="ἅπας">ἁπάν
+
+	    					<lb xml:id="line_B17" n="B17" break="no"/><supplied reason="lost">των</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_B18" n="B18"/> <orig>των</orig><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὸν</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="δεύτερος"><supplied reason="lost">δε</supplied><unclear>ύ</unclear>τερον</w> <w lemma="ἐκ">ἐ<supplied reason="lost">κ</supplied></w>
+
+	    				<lb xml:id="line_B19" n="B19"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">,</supplied> <supplied reason="lost">τὸν</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="τρίτος"><supplied reason="lost">τρίτον</supplied></w> <w lemma="κλῆρος">κλῆρο<supplied reason="lost">ν</supplied></w>
+
+	    				<lb xml:id="line_B20" n="B20"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="personnel"><w lemma="νεωκόρος"><supplied reason="lost">νεω</supplied>κόρον</w></name>
+
+	    					<lb xml:id="line_B21" n="B21"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ιαι</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>  Fragment A</p>
+					<p>It was decided by the council [and the people]. Telemnestos [son of Aristeides proposed]: so that the affairs concerning (5) the gods are conducted with piety [and elegance] for the Delian people, with good fortune, may it be decided by the council and the people that the council [in function at any particular moment ...] to the sanctuary [...]</p>
+						<p>Fragment B</p>
+					<p>[...] that they give [...] to the <foreign>neokoros</foreign>, from what [they sacrifice, from each] animal a thigh and [...] all those who [... (5) in] the stoa situated near [the Sarapieion] will give to the <foreign>neokoros</foreign> who holds the function by lot [6 ...] and a piece of meat. Those [...] who sacrifice will [receive the meat] for themselves, but will give the perquisites to (10) the <foreign>neokoros</foreign> [selected by lot]. [This decree] having been ratified, [the <foreign>hieropoioi</foreign>] Euboeus and Parmenion should engrave it on a stone [stele] and [set it up in] the most visible [place of (15) the Sarapieion]. That all [...] take part in the [first] drawing of lots [for the <foreign>neokoroi</foreign>], and the second from [..., and the third] drawing of lots (20) [...] <foreign>neokoros</foreign> [...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p> Fragment A</p>
+					<p>Il a plu au conseil et au peuple. Telemnestos [fils d’Aristeidès, a fait la proposition] : afin que les affaires relatives (5) aux dieux se fassent de manière pieuse [et convenable] dans l’intérêt du peuple des Déliens, à la bonne fortune, qu'il plaise au conseil et au peuple [...] que le conseil [régulièrement en charge ...] au sanctuaire [...]</p>
+
+						<p>Fragment B</p>
+					<p>[...] qu’ils donnent [...] au néocore, [pour chaque] animal sacrifié, une cuisse, [et ...] et tous ceux qui [... (5) dans] la stoa située à proximité du [Sarapieion] donneront au néocore désigné par le sort [6 ...] et une part de viande. Tous ceux qui [...] sacrifient, [prendront les viandes] pour eux-mêmes, et ils donneront les parts d'honneur  au (10) néocore [désigné par le sort]. Ce décret ayant été ratifié, que [les hiéropes] Euboeus et Parménion fasse graver [sur une stèle] en pierre ce décret et [qu’ils l’érigent] dans le lieu le plus en vue (15) [du Sarapieion]; que le [premier] tirage au sort [des néocores] se fasse parmi tous [...] le deuxième parmi [..., le troisième] tirage au sort [...] (20) néocore [...] </p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p> This document consists of two fragments that were part of the same stele. Fragment A is the beginning of a decree, recording a decision (now lost) that was made in order to ensure the pious and good relation between the Delians and their gods. Lines 1-5 is the preamble of the decree, stating its purpose; line 6 onwards is the substance of the decree, but this is mostly lost. Fragment B may be part of the same decree, but this is unclear. It records, first of all, the perquisites for the <foreign>neokoros</foreign> in three types of situations (lines 1-10, due to the fragmentary state of the inscription, it is difficult to know which precisely these distinctions were (cf. the Commentary below). The text also specifies the functionaries responsible for the inscribing and setting up of the inscription on 'the most visible' spot (in the sanctuary?) (lines10-15) and describes the procedure for the selection by lot of the <foreign>neokoros</foreign> (lines 15-21).</p>
+
+<p> A <foreign>neokoros</foreign> of the Sarapieion on Delos is attested in the accounts for the first time in 179, two years after the present decree, which seems to specify the details of this office and the modes of selection for the first time (Roussel; Bruneau, p. 502). Though the <foreign>neokoros</foreign> is not explicitly identified in the text as functionary of a sanctuary of Sarapis, the findspot of these fragments near the Sarapieion C (on which cf. Siard) makes the identification plausible (hence the restorations in A6 and B15). Sarapieion C is the only public sanctuary of the three Sarapieia on Delos, and the <foreign>neokoros</foreign> would have been attached to this sanctuary. Cf. also <ref target="http://cgrn.ulg.ac.be/CGRN_172/">CGRN 172</ref>. Thus, the deity to which sacrifice is made is more likely to be Sarapis than Sokolowski's sugggestion of Asclepius and this also accords with the date of the official acknowledgment of Sarapis as a deity on Delos around 180.</p>
+
+<p> The <foreign>neokoros</foreign> was an assistant of the priest who resided in the sanctuary. Recent studies, notably the work of Friesen, have enabled us to better understand the prerogatives and duties of <foreign>neokoroi</foreign> in Greek sanctuaries. Originally, the <foreign>neokoros</foreign> seems to have been some sort of caretaker who performed a number of secondary tasks related to the maintenance of the sanctuary. Progressively the <foreign>neokoros</foreign> seems to carry out more important tasks related to the finance and religious life at the sanctuary. On Delos the <foreign>neokoroi</foreign> fulfilled an increasingly crucial role (especially those who were involved in the administration of Apollo's possessions) and they functioned as intermediaries between a sanctuary and the civic authorities. Here, the decision to set up the stele a the most conspicuous spot, and the elaborate description of the selection procedure confirm the importance of this <foreign>neokoros</foreign> as well. </p>
+
+	<p> Fragment A</p>
+
+<p> Lines 3-5: The phrase ὅπως εὐσεβῶς καὶ καλῶς ἔχει τῶι δήμωι ... τὰ πρὸς τοὺς θεούς is formulaic. Cf. e.g. <bibl type="abbr" n="LSCG">LSCG</bibl> 41 (Athens, 220/219 BC). </p>
+
+	<p> Fragment B</p>
+
+<p> Lines 1-10: In these lines, three situations seem to be specified in which worshippers provided the <foreign>neokoros</foreign> with a perquisite. Apparently not only priests, but also the <foreign>neokoroi</foreign> were entitled to gifts of honour in various situations, and this is indicative of their perceived importance. The first of these is given in lines 1-3, in a particular group of sacrificers (due to the lacuna, it is unclear who is intended) should give the <foreign>neokoros</foreign> the ham, a common perquisite for a priest. The second occasion seems to be specified in lines 4-7, but the lines are very fragmentary. If we were to follow Roussel's suggestion [καθεύδωσιν], this passage would then refer to worshippers who incubate in the stoa. But incubation as far as Sarapieia in Greece are concerned is not well documented: cf. Dunand.The prescription that one should give μερίδα κρεῶν 'portions of meat' refers to a generic portion from the available meat. The third occasion in lines 7-10 may then concern those worshippers who have participated in incubation, if Roussel's restitutions yield the correct sense. In line 9 (ἑαυτοῖς ... τὰ δε γέρα) an explicit distinction seems to be made between parts of the sacrifice that the worshippers keep 'for themselves' and the γέρα, which they should give (here, to the <foreign>neokoros</foreign>). But the system of such a division of sacrificial parts would be self-evident, and consequently we do not encounter such a phraseology elsewhere. Instead of a contrast drawn between parts for the worshippers themselves and the provision of perquisites, we would rather expect the γέρα to be further specified.</p>
+
+<p> Lines 10-15: These lines detail the responsibilities of the hieropoioi to have the stone engraved and set it up in a very visible place, if the identification of this office of <foreign>neokoros</foreign> with the Sarapieion C is correct, the restitution [τοῦ Σαραπιείο]υ seems plausible. </p>
+
+<p> Lines 15-21: The <foreign>neokoros</foreign> was selected by lot, as was the case for many priests. In the contexts of priesthoods, sortition was preferred to election in those cases in which humans could not or did not want to motivate the choice for a particular person, and instead the gods were thought to select the right candidate (cf. Aleshire and Blok - Lambert). These lines seem to specify the method of selection for the first, second and third person to hold the office (rather than describing a very complex procedure in which lots need to be drawn three times to select one official). In the case of the first <foreign>neokoros</foreign> (lines 15-18), he is chosen from among all the members of a group (according to Roussel, citizens of a minimum of 40 years-old); in the case of the second and the third drawing of lots for <foreign>neokoroi</foreign> (lines 18-21), the exact procedures are not clear.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

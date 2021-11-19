@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_211" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 211</idno>: Short <rs type="textType" key="purity regulation">purity regulation</rs> from Maionia</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p><rs type="objectType">Stele</rs> of blue marble.</p>
+
+	<p><dimensions>
+		<height unit="cm">67</height>
+		<width unit="cm">29.5</width>
+		<depth unit="cm">11</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p>The inscribed text has partly faded.</p>
+			<p>Letters: <height unit="cm">1.1-1.3</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+<p><origDate notBefore="-0147" notAfter="-0146">147/6 BC</origDate></p>
+<p><desc>Justification: internal dating (13th year of the rule of King Attalos II)</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Maionia" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/550701" type="external">Maionia</ref></placeName>. Found in the wall of a private house in the present town of Menye.</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Hermann <bibl type="abbr" n="TAM V">TAM V</bibl> 530.
+	    			</p>
+	    			<p> Other edition:
+	    			<bibl type="author_date" n="Keil - von Premerstein 1911">Keil - von Premerstein 1911</bibl>: 82-83 no. 167.
+	    			</p>
+
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 52;
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSAM</bibl> 18;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 39, 986.
+	    			</p>
+
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+	    				<lb xml:id="line_1" n="1"/><w lemma="βασιλεύω">βασιλεύοντος</w> <unclear>Ἀ</unclear>ττ<unclear>ά</unclear><supplied reason="lost">λου</supplied>
+
+	    				<lb xml:id="line_2" n="2"/><w lemma="ἔτος">ἔτους</w> <w lemma="τρεισκαιδέκατος">τρεισκαιδεκάτου</w>·
+
+	    				<lb xml:id="line_3" n="3"/><w lemma="ἀγαθός">ἀγαθῆι</w> <w lemma="τύχη">τύχῃ</w>· <w lemma="ἵστημι">ἔστησαν</w>
+
+	    				<lb xml:id="line_4" n="4"/>τὴν <objectType key="stele"><w lemma="στήλη">στήλην</w></objectType> <unclear>Λ</unclear><gap reason="lost" quantity="8" unit="character"/>
+
+	    				<lb xml:id="line_5" n="5"/><gap reason="lost" quantity="8" unit="character"/> οἱ <orig>ΕΜΦΥΣΗ</orig>
+
+	    				<lb xml:id="line_6" n="6"/><gap reason="lost" quantity="8" unit="character"/><orig>Χ<unclear>Η</unclear></orig><gap reason="lost" quantity="4" unit="character"/>· <name type="purification"><w lemma="ἁγνεύω">ἁγνεύειν</w></name> δὲ
+
+	    				<lb xml:id="line_7" n="7"/><w lemma="ἀπό">ἀπὸ</w> μὲν <name type="death"><w lemma="κῆδος">κ<supplied reason="lost">ή</supplied>δους</w></name> <name type="person"><w lemma="ὅμαιμος">ὁμαίμ
+
+	    					<lb xml:id="line_8" n="8" break="no"/>ου</w></name> <w lemma="πεμπταῖος">πεμπταῖον</w>, τοῦ δὲ <w lemma="ἄλλος">ἄλ
+
+	    						<lb xml:id="line_9" n="9" break="no"/>λου</w> <w lemma="τριταῖος">τριταῖον</w>, <w lemma="ἀπό">ἀπὸ</w> δὲ <name type="sex"><w lemma="γυνή">γυναι
+
+	    							<lb xml:id="line_10" n="10" break="no"/>κὸς</w></name> <w lemma="εἰς">εἰς</w> τὸν <w lemma="περιορίζω">περιωρισμέ<surplus>νο</surplus>
+
+	    								<lb xml:id="line_11" n="11" break="no"/>νον</w> <w lemma="τόπος">τόπον</w> τοῦ <name type="deity" key="Meter"><name type="structure"><w lemma="μητρῷος">Μητρ<unclear>ω</unclear>ίου</w></name></name>
+
+	    				<lb xml:id="line_12" n="12"/>τῆι <w lemma="αὐτός">αὐτῆι</w> <name type="purification"><name type="liquid"><w lemma="λούω">λουσά<unclear>μ</unclear>ενον</w></name></name> <w lemma="εἰσπορεύω">εἰσ
+
+	    			<lb xml:id="line_13" n="13" break="no"/>πορεύεσθαι</w>· <name type="sex"><name type="person"><w lemma="ἑταῖρος">ἑταίρα</w></name></name> <w lemma="τριταῖος">τριτ
+
+	    						<lb xml:id="line_14" n="14" break="no"/>αία</w> <name type="purification"><w lemma="περιαγνίζω">περιαγνισαμένη</w></name>, <w lemma="">καθ<unclear>ὼ</unclear>
+
+	    							<lb xml:id="line_15" n="15" break="no"/>ς</w> <name type="authority"><w lemma="ἐθίζω">εἴθισται</w></name>.
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>When Attalos (II) was king for the thirteenth year, with good fortune, the [...] have set up the stele (5) [...] And one should be pure: from the funeral of a relative, on the fifth day; (from the funeral) of someone else, on the third day; (having had intercourse) with one's wife, (10) one may enter the marked-off space (i.e. the precinct) of the Metroon on the same day, having washed himself; a hetaira (also), on the third day, having purified herself all around, as (15) is customary.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p> Attale (II) étant roi pour la treizième année, à la bonne fortune, les [...] ont affiché la stèle (5) [...]. Et on doit être pur : des funérailles d’un familier, le cinquième jour; (des funérailles) de quelqu'un d'autre, le troisième jour; (ayant eu des relations sexuelles) avec sa femme, (10) on peut entrer dans l’espace circonscrit du Metroon, le jour même, après s'être lavé; une prostituée, le troisième jour, après s’être purifiée tout autour, comme (15) à l’habitude.</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+	<p> This short purity regulation belongs and relates to the Metroon at Maionia. Three 'Mother Goddesses' are attested in this place: Akraia, Hipta and Tarsene, but it is uncertain if they were worshipped in distinct sanctuaries. The text concerns the temporary pollution caused by contact with the dead and through sexual intercourse, stating the amount of days one has to wait to enter the sanctuary. As often in these texts, different degrees of pollution were considered to result from familial vs. non-familial exposure to sources of pollution. Thus, having attended the funeral of a blood relative, one is polluted for five days as opposed to three days for a non-relative. The regulation shows a practical mindset when indicating that one may enter on the same day after having sex with one's wife; washing oneself suffices. More singular, the final prescription in lines 13-14 apparently deals with the case of a prostitute herself, and not the purity of a man from (ἀπό) intercourse with a prostitute (as in <ref target="http://cgrn.ulg.ac.be/CGRN_71/">CGRN 71</ref>, Metropolis, line 6), as we might have expected. For a more extensive commentary on pollution caused by familial and non-familial death and by sex with one's own spouse or another person, along with further references, cf. again <ref target="http://cgrn.ulg.ac.be/CGRN_71/">CGRN 71</ref>. </p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

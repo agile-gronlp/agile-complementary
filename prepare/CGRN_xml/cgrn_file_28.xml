@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_28" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 28</idno>: Fragmentary <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> on Thasos (set up privately)</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Tapered <rs type="objectType">stele</rs>, broken above and missing a substantial part of its top right corner. The front face is worn. The back is rough-picked and there are traces of fixtures near the bottom, indicating that the stele was set up on a base.</p>
+		
+	<p><dimensions>
+		<height unit="cm">32.5</height>
+		<width unit="cm">(from top to bottom) 42.8-43.1</width>
+		<depth unit="cm">14.5</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Written in the Parian alphabet, in quasi-stoichedon.</p> 
+			<p> Letters: <height unit="mm">15-17</height>; the last two words in the final line are somewhat larger and perhaps in a different hand: <height unit="mm">20</height> on average.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0450" notAfter="-0425">ca. 450-425 BC</origDate></p>
+<p><desc>Justification: lettering and other particularities (Lupu, who gives ca. 430-420 BC, but also points to a possibly earlier date).</desc></p>
+						</origin>
+	<provenance><p><placeName type="ancientFindspot" key="Thasos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/501634" type="external">Thasos</ref></placeName>. Found south of Potos in 1969 among the remains of a Byzantine chapel near the coast. Now in the Thasos Archaeological Museum (inv. no. Λ 2726).</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p>Edition here based on: Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 21, with ph. fig. 29</p>
+	    			
+	    			<p>Cf. also: 
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 38, 853.</p>
+	    			
+	    			<p>Further bibliography: 
+	    				<bibl type="author_date" n="Veligianni 1988">Veligianni 1988</bibl>, with pl. 19a; 
+	    				<bibl type="author_date" n="Duchêne 1992">Duchêne 1992</bibl>: 127-128 no 29, with pl. 20.1.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+<lb/><gap extent="unknown" unit="line" reason="lost"/>		
+	    				
+<lb xml:id="line_1" n="1"/><gap precision="low" quantity="4" unit="character" reason="lost"/><orig><unclear>Ι</unclear>ΑΧ<unclear>Ω</unclear>ΣΤ</orig><gap precision="low" quantity="21" unit="character" reason="lost"/>
+	    				
+<lb xml:id="line_2" n="2"/><name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θυέτ</supplied>ω</w></name> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">β</supplied>ο̑ν</w></name> καὶ <name type="portion"><w lemma="λαμβάνω">λαμ<supplied reason="lost">βανέτω</supplied></w></name> <gap precision="low" quantity="10" unit="character" reason="lost"/>
+	    				
+<lb xml:id="line_3" n="3"/><name type="portion"><w lemma="μοῖρα"><unclear>μ</unclear>οῖρ<unclear>αν</unclear></w></name> <orig>Τ</orig><gap quantity="1" unit="character" reason="lost"/><orig><unclear>Λ</unclear>ΤΑ</orig><gap precision="low" quantity="19" unit="character" reason="lost"/>
+	    				
+<lb xml:id="line_4" n="4"/><gap quantity="1" unit="character" reason="lost"/><orig><unclear>Λ</unclear>ΓΥ</orig><gap precision="low" quantity="4" unit="character" reason="lost"/><orig>ΤΟΙ</orig> <w lemma="unclear">ἐπιπ<unclear>ρο</unclear><supplied reason="lost">σθ</supplied></w><gap precision="low" quantity="13" unit="character" reason="lost"/>
+	    				
+<lb xml:id="line_5" n="5"/><name type="sacrifice"><name type="liquid"><w lemma="σπένδω">σπεσάτ<supplied reason="lost">ω</supplied></w></name></name> τὸν <w lemma="τρίτος">τρίτο<unclear>ν</unclear></w> <gap precision="low" quantity="10" unit="character" reason="lost"/> <name type="portion"><w lemma="ἀπονέμω"><supplied reason="lost">ἀπον</supplied>
+	    					
+<lb xml:id="line_6" n="6" break="no"/>εμέ<unclear>τ</unclear><supplied reason="lost">ω</supplied></w></name> <gap reason="lost" quantity="3" unit="character"/> <name type="portion"><w lemma="μοῖρα">μοῖραν</w></name> <name type="genericOffering"><w lemma="τίθημι">τιθ<supplied reason="lost">έτω</supplied></w></name> <gap precision="low" quantity="11" unit="character" reason="lost"/>
+	    				
+<lb xml:id="line_7" n="7"/><name type="portion"><w lemma="κωλῆ"><supplied reason="lost">κωλ</supplied>ῆν</w></name> καὶ <name type="portion"><w lemma="πλευρόν">πλευρίο<supplied reason="lost">ν</supplied></w></name> <gap precision="low" quantity="13" unit="character" reason="lost"/>	    	
+	    				
+<lb xml:id="line_8" n="8"/><name type="portion"><w lemma="σπλάγχνον"><unclear>σ</unclear>πλάνχνων</w></name> καὶ <name type="bakery"><w lemma="ἄρτος">ἄρτ<supplied reason="lost">ον</supplied></w></name> <gap precision="low" quantity="9" unit="character" reason="lost"/><orig>ΤΕ<unclear>Ι</unclear></orig><gap quantity="1" unit="character" reason="lost"/> <name type="sacrifice"><name type="liquid"><w lemma="σπένδω"><supplied reason="lost">σ</supplied>
+	    					
+<lb xml:id="line_9" n="9" break="no"/>πενδ</w></name></name><gap precision="low" quantity="4" unit="character" reason="lost"/> τὸ <w lemma="τρίτος">τρίτον</w> <gap precision="low" quantity="8" unit="character" reason="lost"/><orig>Σ<unclear>Η</unclear>ΧΣ<unclear>Λ</unclear></orig><gap quantity="2" unit="character" reason="lost"/>
+	    				
+<lb xml:id="line_10" n="10" break="no"/><w lemma="unclear">χσετα<unclear>ι</unclear></w> <gap precision="low" quantity="3" unit="character" reason="lost"/> <w lemma="ἐπί"><unclear>ἐ</unclear>πὶ</w> τὸ <w lemma="πῦρ">πῦρ</w> <orig>ΕΠ</orig><gap precision="low" quantity="7" unit="character" reason="lost"/><orig>ΕΝΘΑ<unclear>Ο</unclear></orig><gap quantity="1" unit="character" reason="lost"/>
+	    				
+<lb xml:id="line_11" n="11"/><unclear>ΤΟ</unclear>Ν<gap quantity="1" unit="character" reason="lost"/>ΠΓ<gap quantity="1" unit="character" reason="lost"/>ΕΝ <unclear>τὸ</unclear> <w lemma="τρίτος">τρίτον</w> <name type="sacrifice"><name type="liquid"><w lemma="σπένδω">σπέ<unclear>ν</unclear>δει</w></name></name> καὶ <name type="genericOffering"><w lemma="ἱερός">ἱρὰ</w></name> <name type="portion"><w lemma="ἀπονέμω"><unclear>ἀ</unclear>
+	    					
+<lb xml:id="line_12" n="12" break="no"/>πονέμει</w></name>· <w lemma="Ἀντίοχος">Ἀντίοχος</w> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνέθηκεν</w></name>. <space extent="unknown" unit="line"/>	
+	    
+	    	</ab>
+				</div>
+	    		
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...] let him [sacrifice] an ox and take [...] a portion [...] before (?) [...] (5) let him libate the third [...] let him distribute (?) [and?] place (?) a portion [...] a [thigh] and a small part of the side (or rib) [...] (a portion) of the entrails and bread(s) [...] libate [...] for the third time [...] (10) onto the fire [...] for the third time he libates and distributes sacred (portions?). Antiochos dedicated (this).</p>
+					</div>
+	    		
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>...] que l'on sacrifie un bovin et prenne [...] une part [...] avant (?) [...] (5) que l'on offre en libation le troisième [...] que l'on distribue (?) [et ?] dépose (?) une part [...] une [patte ?] et une petite partie du flanc [...] (une part) des viscères et du/des pain(s) [...] que l'on offre en libation pour la troisième fois [...] (10) sur le feu [...] que l'on offre en libation pour la troisième fois et que l'on distribue des (parts ?) sacrées. Antiochos a fait la dédicace.</p>
+					<p>(traduction Z. Pitz)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>   
+						
+<p> Much of the context surrounding this fragmentary document is murky and open to debate: we do not know the cultic community, god(s) and sanctuary to which the regulation applied, nor who was the issuing authority. Crucial information on these matters may have been included in the first lines of the inscription, now lost. The available information may suggest a form of private or at least non-civic cult, though that remains to be confirmed. The provenance of the inscription indeed suggests a rural, extra-urban  sanctuary in the south of the island of Thasos, and the conclusion of the inscription more pointedly indicates a private initiative: it records the consecration of the regulation or of the inscription (or both, of course) by a man calling himself simply Antiochos (without mentioning his father's name).</p> 
+						
+<p> Perhaps this man was the founder of the cult. If he was a priest who took matters of regulating the cult into his own hands, we may have expected him to mention his priestly capacity. Alternatively, Antiochos may simply have been someone who added his name to the text at a somewhat later date, thus appropriating it (see above on the Support). We can only speculate. Cp. the boundary stone from Thera which is also inscribed by a private individual as a model for future use: <ref target="http://cgrn.ulg.ac.be/CGRN_60/">CGRN 60</ref>. The fragmentary clauses of the inscription mention several unusual prescriptions, see below, most of which appear to be concerned with the distribution of sacrificial portions and with the procedure(s) employed for libations. Regrettably, none of them can really help us to identify the cult in question.</p>
+	
+<p>Line 3: If the restoration is correct, [β]ο̑ν suggests a costly and significant offering, cp. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_45">CGRN 45</ref>. Note that the third-person singular imperative ([θυέτ]ω) is plausibly restored in this line (regulations using the third person singular imperative being common), but perhaps might also be doubted. The verb forms throughout the inscription are unclear, and the seeming conjunction of various moods and tenses is both inconsistent and unusual. It is not obvious how we should interpret the third-person singular active present indicative forms in lines 12 and 13 (σπένδει ... ἀπονέμει), or the future ending -χσεται in line 11. On Paros, the indicative present middle explains how things are done: "libations are made with honey" (μέλιτι σπένδεται, <ref target="http://cgrn.ulg.ac.be/CGRN_9/">CGRN 9</ref>). This sentence in the indicative, literally an expression of a state of affairs, seems to have the illocutionary force of a prescription. Perhaps the active forms σπένδει and ἀπονέμει are to be interpreted similarly. That is, though referring to the way in which an individual (the priest? the worshipper?) acts when libating and distributing portions, in fact these verbs mean to convey how this person ‘should act’. We might then also think of alternative third-person indicative forms in lines 6 (νέμετ[αι]?), and 9 (σπένδ[ει] or σπένδ[εται]?). At any rate, the alternation of third-person imperatives and third-person indicatives seems odd, even if the speech act is in both cases a prescription. It is not impossible, though given the fragmentary character of the text, we may continue to wonder if it is correct.</p>
+		
+<p>Lines 3 and 6: a portion is mentioned, apparently (though not assuredly) without further qualification. It is unclear what portion might be intended in both cases. In line 6, Lupu hesitatingly interjects [καὶ?] between the two verbs, which yields good sense with μοῖραν as an object for the verb τιθ[έτω] following it. In inscriptions on ritual norms, the OV wordorder is less usual, but it occurs here at least in lines 11-12 (ἱρα ἀπονέμει). If, in line 6, this portion was indeed "placed" somewhere (μοῖραν is the object of τιθέτω), for instance on an altar or cult-table, this might go some way towards identifying it. Perhaps the μοῖρα was not a generic one but a sacred portion (ἱερὰ μοῖρα) to be placed on the altar or given to the priest as sometimes mentioned in the present Collection: <ref target="http://cgrn.ulg.ac.be/CGRN_39/">CGRN 39</ref> (Milet), lines 6-7; <ref target="http://cgrn.ulg.ac.be/CGRN_76/">CGRN 76</ref> (Erythrai), lines 33-34; <ref target="http://cgrn.ulg.ac.be/CGRN_122/">CGRN 122</ref> (Thebes-on-the-Mykale), line 5, and <ref target="http://cgrn.ulg.ac.be/CGRN_138/">CGRN 138</ref> (Milet), line 17. Alternatively, μοῖραν is the object of ἀπονεμέτ[ω] and the lexeme may refer in both cases to ‘portioning out’ or ‘assigning’ a share to the priest or the worshippers.</p>
+		
+<p>Line 5: Here in lines 9 and 11, we find variations on an enigmatic phrase which is unparalleled in the extant evidence for ritual norms. All passages employ the verb σπένδω and the expression τὸν τρίτον (here) or τὸ τρίτον (in the other lines). The latter is correctly interpreted by Lupu as a neuter adverbial phrase meaning probably "for the third time" (or possibly "thrice", see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. τρίτος III.1-2). In the first case, here in line 6, we have the masculine, which causes further uncertainty (unless a mistakenly inserted <foreign>nu</foreign> may be presumed). Lupu envisages the possibility that τὸν τρίτον might agree with a krater (or another ritual vessel for liquids), the recurrence of the verb σπένδω with τὸν τρίτον strengthens this idea: libations could be poured over offerings from kraters of wine, <ref target="http://cgrn.ulg.ac.be/CGRN_86/">CGRN 86</ref> A (Kos), line 49-50; and cp. the intriguing libations also apparently "poured (from) kraters" in the norms of the Molpoi at Miletos, <ref target="http://cgrn.ulg.ac.be/CGRN_201/">CGRN 201</ref>, lines 8, 16-17 (e.g. κρητῆρες ... σπεσθέωσι; κρητῆρας σπένδονται).  The interpretation of these "triple" ritual acts remains to be elucidated, however. A possible connection, suggested by Lupu, might be with the habitual tripartite division of kraters at banquets, the first in honour of Zeus Olympios, the second to the heroes, and the third to Zeus Soter or Teleios (cf. Lupu p. 319-320 with n. 9, including further refs., and also <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. τριτόσπονδος).</p> 
+		
+<p>Lines 7-9: These lines in particular seem to be considered with specific portions from the sacrificial animal, perhaps with a list of priestly perquisites. The thigh is reasonably restored and it is found in line 8 with πλευρίον, the epigraphically unattested diminutive of πλευρόν, a side or rib. For thighs distributed together with ribs or portions thereof, cp. <ref target="http://cgrn.ulg.ac.be/CGRN_103/">CGRN 103</ref> (Phrearrhioi), line 5. The genitive plural case of the entrails suggests that only a portion of them was granted. At Miletos and in Karia, the standard portion of entrails granted to a priest is a fourth, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_42/">CGRN 42</ref> (Iasos), line 3; <ref target="http://cgrn.ulg.ac.be/CGRN_104/">CGRN 104</ref> (Halikarnassos), line 39; <ref target="http://cgrn.ulg.ac.be/CGRN_118/">CGRN 118</ref> (Halikarnassos), line 14; <ref target="http://cgrn.ulg.ac.be/CGRN_119/">CGRN 119</ref> (Theangela), line 9-10. A bread is a reasonable restoration as a further perquisite; cp., <ref target="http://cgrn.ulg.ac.be/CGRN_84/">CGRN 84</ref> (Athens), lines 43-46.</p>
+		
+<p>Lines 10-12: The phrase ἐπὶ τὸ πῦρ suggests a gesture taking place on the altar fire, but this is singularly explicit for ritual norms. Similarly unusual or distinctive is the phrase ἱρὰ ἀπονέμει, which might point to the distribution of sacred portions from a sacrificial animal, but could also designate other forms of ἱερά such as vegetal offerings to be burned (though probably not sacred objects, as Lupu considers). It is impossible to know, also because the precise point of reference of this prescription is unclear: to whom are these <foreign>hiera</foreign> being ‘portioned out’ or ‘assigned’? This may have been obvious to the readers, or specified in the uninterpreted letters at the end of line 9 and the start of line 10. </p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

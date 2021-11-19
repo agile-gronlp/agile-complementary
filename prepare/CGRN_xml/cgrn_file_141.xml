@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_141" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 141</idno>: Excerpt from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> (?) at Lindos (concerning Apollo)</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Small <rs type="objectType">plaque</rs> (or stele) of Lartian marble. The stone is broken above, below and to the right, but all of these breaks appear to be relatively minor. Only the left side and the back (rough-picked) are intact.</p>
+			<p><dimensions>
+					<height unit="cm">20</height>
+					<width unit="cm">21</width>
+				<depth unit="cm">(bottom) 7.5 - (top) 9</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">14-17</height>; round letters: <height unit="mm">12-13</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0275" notAfter="-0225">ca. 250 BC</origDate></p>
+			<p><desc>Justification: lettering (Lupu).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Lindos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589913" type="external">Lindos</ref></placeName>. Found in 1982 in the yard of a private house, Lindos town. Now in the Archaeological Museum of Rhodes (inv. no. E 2273).</p>   
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 16, with ph. figs. 25-26.</p>
+				    <p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 38, 786. </p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    			
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_1" n="1"/><name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> <orig>εν<unclear>ο</unclear></orig><gap quantity="3" reason="lost" unit="character" precision="low"/>
+	    				
+<lb xml:id="line_2" n="2"/><name type="animal" key="goat"><name type="gender"><w lemma="χίμαρος">χίμαρος</w></name></name>· <name type="sacrifice"><w lemma="θύω">θυέτ<supplied reason="lost">ω</supplied></w></name>
+	    					
+<lb xml:id="line_3" n="3"/>τῶν <name type="group"><w lemma="φυλέτης">φυλετᾶ<supplied reason="lost">ν</supplied></w></name>
+	    					
+<lb xml:id="line_4" n="4"/>ὁ <name type="person"><w lemma="γεραιός">γεραίτατ<supplied reason="lost">ος</supplied></w></name>·
+	    					
+<lb xml:id="line_5" n="5"/>τὰ <name type="sacrifice"><w lemma="θύω">θυθέντ<supplied reason="lost">α</supplied></w></name> <w lemma="αὐτοῦ"><supplied reason="lost">αὐτεῖ</supplied></w>
+	    					
+<lb xml:id="line_6" n="6"/><name type="meal"><w lemma="καταχράομαι">καταχρ<unclear>ῆ</unclear><supplied reason="lost">σθαι</supplied></w></name>.
+	    				
+<lb/><space quantity="1" unit="line"/>
+	    					</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<ab n="translation1">
+					[...] to Apollo [...] a winter-old he-goat. Let the eldest of the tribesmen sacrifice it. (5) What has been sacrificed is to be consumed [on the spot].
+					</ab>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<ab n="translation2">
+					[...] à Apollon [...] un chevreau âgé d'un hiver. Que l'aîné des membres de la tribu fasse le sacrifice. (5) Ce qui a été sacrifié est consommé [sur place].
+					</ab>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>By its terse content and general form, the document is extremely similar to the numerous excerpts from a sacrificial calendar known on Rhodes and at Lindos itself: see here <ref target="CGRN_62">CGRN 62</ref> and <ref target="CGRN_63">CGRN 63</ref>, for two early examples from Lindos, with further discussion and references. That being said, the document entirely lacks a date, which differentiates it from the other excerpts known. This date would have been expected in lines anterior to the first one preserved, as would an identification of the tribe mentioned in this text (line 3), for instance as a heading before the date in the genitive plural: see e.g. <ref target="CGRN_117">CGRN 117</ref> (Λάκων); <ref target="CGRN_154">CGRN 154</ref> (Ποντωρέων, a deme of Ialysos).</p>
+						
+<p>There are two possible solutions. Lupu argues that not much is missing above the break at the top of the stone, which does indeed appear fairly even. In other words, the first idea would be that we have here a type of sacrifical prescription which is similar yet at the same time different to the calendar extracts, whose context (and date) would have been more or less self-evident: cp. <ref target="CGRN_153">CGRN 153</ref> (Mainyros; but there are very few instances of this type of prescription on Rhodes). To our mind, the second alternative is preferable: this is another excerpt from the local calendar; the break at the top has regrettably caused the disappearance of the identification of the Lindian tribe in question and of the date of the sacrifice to Apollo.</p>
+						
+<p>Lines 1-2: The traces following the mention of Apollo are best interpreted as an epithet. The most likely candidate, though still otherwise unattested at Lindos, would be Enolmos (sitting on the tripod), as discussed by Lupu (cf. also <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.), but no certainty is possible. Though goats are often sacrificed to Apollo, the young he-goat (one winter-old, i.e. less than a year-old) is not the most typical sacrifice, but is attested in at least a few cases. It is permitted as a sacrifice to Apollo Apotropaios at Cyrene along with other goats: <ref target="CGRN_99">CGRN 99</ref>, lines 6-7. A sacrifice to Apollo at Thorikos in the month Boedromion involves a χίμαρον κριτόν, <ref target="CGRN_32">CGRN 32</ref>, lines 13-14. Cf. also the sacrifice of an ἔριφος (among other animals) to Apollo Karneios in the calendar from Miletupolis: <ref target="CGRN_83">CGRN 83</ref>, line 11.</p>
+						
+<p>Lines 3-4: For the eldest male member of a group as the 'priest' and sacrificial agent, a common traditional practice in families and other kinship groups, see here <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 19-20.</p>
+						
+<p>Lines 5-6: For this phrase, recurring in the Lindian excerpts, see <ref target="CGRN_62">CGRN 62</ref>, lines A4, B5. It denotes the requirement that a meal happen on the spot and an implicit interdiction to carry away portions, which is usually spelled out more explicitly (and more negatively) by the phrase οὐ (ἀπο)φορά vel sim.; see more widely, <ref target="CGRN_32">CGRN 32</ref>, with commentary to lines 10-12 and further refs.
+</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

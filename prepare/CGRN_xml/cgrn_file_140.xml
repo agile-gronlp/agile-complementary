@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_140" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 140</idno>: <rs type="textType" key="decree">Decree (?)</rs> concerning the cult of the Nymphs at the Asklepieion of Kos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Stéphanie Paul</author>
+	    			<author>Saskia Peels</author>	
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support>
+				<p> White marble <rs type="objectType">block</rs>. The sides have been worn and there are traces of <foreign>anathyrosis</foreign> as well as of two support holes.</p>
+			<p>	<dimensions>
+					<height unit="cm">53</height>
+					<width unit="cm">60</width>
+					<depth unit="cm">30</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+	
+			<layoutDesc><layout>
+				<p> The letters are carefully and elegantly inscribed and the ends of the <foreign>hastae</foreign> resemble dots.</p>
+				<p> <height unit="cm">2.2-2.6</height>; round letters as well as <foreign>zeta</foreign> and <foreign>xi</foreign>: <height unit="cm">1.6</height>. The interlinear space is <height unit="cm">1.2</height>.</p>
+			</layout></layoutDesc>
+			
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0325" notAfter="-0300">ca. 300 BC or shortly before</origDate></p>
+			<p><desc>Justification: letterforms (Hallof - Bosnakis) and the same proposer as <bibl type="abbr" n="LSCG">LSCG</bibl> 151B / <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 284 (contra Sherwin-White, who suggests a date of ca. 250 BC).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599528" type="external">Kos</ref></placeName>. Once in the Asklepieion. Found in 1933 in the baths of the town. Now in the new storage house in Kos town.</p>
+		</provenance> 
+	</history>
+	
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 2-7-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					
+					<p>Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 285. None of the readings are doubtful.</p>
+					<p>Other edition: <bibl type="author_date" n="Segre 1938">Segre 1938</bibl>: 191-193 no. 57, with ph.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 152; Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 15, with French translation; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20285" type="external">IG-online</ref>, with the Greek text and translation in German.</p>
+					<p>Further bibliography: 
+<bibl type="author_date" n="Sherwin-White 1978">Sherwin-White 1978</bibl>: 178 n. 18 and 335 n. 397; 
+						<bibl type="author_date" n="Cole 1988">Cole 1988</bibl>; 
+						<bibl type="author_date" n="Ginouvès 1994">Ginouvès 1994</bibl>: 240-241;
+						<bibl type="author_date" n="Larson 2001">Larson 2001</bibl>;
+						<bibl type="author_date" n="Kearns 2010">Kearns 2010</bibl>: 222-223;
+						<bibl type="author_date" n="Kah 2012">Kah 2012</bibl>;
+						<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 185.
+		
+					</p>
+					
+					<p/>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb xml:id="line_1" n="1"/>Φίλιστος Αἰσχίνα <w lemma="εἶπον">εἶπε</w>· <w lemma="ὅσος">ὅσσοι</w>
+	    					
+<lb xml:id="line_2" n="2"/>κα <name type="sacrifice"><name type="genericOffering"><w lemma="θύω">θύωντι</w></name></name> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> τοῦ <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσ
+	
+<lb xml:id="line_3" n="3" break="no"/>κλαπιοῦ</w></name> ταῖς <name type="deity" key="Nymph"><w lemma="νύμφη">Νύμφαις</w></name>, <name type="sacrifice"><name type="genericOffering"><w lemma="θύω">θυόν
+	
+<lb xml:id="line_4" n="4" break="no"/>τω</w></name></name> <w lemma="ἐπί">ἐπὶ</w> τῶν <name type="structure"><w lemma="βωμός">βωμῶν</w></name>· <w lemma="εἰς">εἰς</w> δὲ τὰς
+	    					
+<lb xml:id="line_5" n="5"/><name type="locality"><w lemma="κρήνη">κράνας</w></name> τὰς <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> <w lemma="μή">μὴ</w> <w lemma="ἔξειμι">ἐξέ
+	
+<lb xml:id="line_6" n="6" break="no"/>στω</w> <w lemma="μηθείς">μηθενὶ</w> <name type="bakery"><w lemma="πέμμα">πέμμα</w></name> <w lemma="μηθείς">μηθὲν</w> <name type="genericOffering"><w lemma="ἐνβάλλω">ἐνβάλ
+	    					
+<lb xml:id="line_7" n="7" break="no"/>λειν</w></name> <w lemma="μηδέ">μηδὲ</w> <w lemma="ἄλλος">ἄλλο</w> <w lemma="μηθείς">μηθέν</w>· <w lemma="εἰ">εἰ</w> δέ <w lemma="τις">τίς</w>
+	    					
+<lb xml:id="line_8" n="8"/>κα <name type="genericOffering"><w lemma="ἐνβάλλω">ἐνβάληι</w></name>, <name type="purification"><w lemma="καθαίρω">καθαράτω</w></name> τὸ <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name>
+	    					
+<lb xml:id="line_9" n="9"/>τᾶν <name type="deity" key="Nymph"><w lemma="νύμφη">Νυμφᾶν</w></name> <w lemma="ὡς">ὡς</w> <name type="authority"><w lemma="νομίζω">νομίζεται</w></name>. <space extent="unknown" unit="line"/>
+	    					
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>Philistos son of Aischinas proposed (the following): whoever sacrifices to the Nymphs in the sanctuary of Asclepius, let him sacrifice on the altars. And no one is allowed to throw any (sort of) cake, nor anything else, into the (5) fountains that are in the sanctuary. But if anyone does so, let him purify the sanctuary of the Nymphs as is customary.</p> </div>
+	    	
+	    		
+				<div type="translation" xml:lang="fre">
+					<head>Traduction </head>
+<p>Proposition de Philistas, fils d’Aischinas. Que tous ceux qui sacrifient aux Nymphes dans le sanctuaire d’Asclépios le fassent sur les autels, qu’il ne soit permis à personne de jeter dans les (5) fontaines du sanctuaire, ni gâteau ni rien d'autre. Si quelqu’un jette quoi que ce soit, qu’il purifie le sanctuaire des Nymphes comme c’est l’usage.</p>
+						<p>(traduction S. Paul)</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+									
+	<p>The precise character of the worship of the Nymphs in the Asklepieion of Cos is unknown: the cult-site within the sanctuary has not been precisely identified, but it must have been related to a nearby spring. It is not entirely certain whether the "altars" mentioned in line 4 are those of Asclepius and his associated divinities, or a separate structure destined for the Nymphs. On the Asklepieion of Kos, see also here <ref target="CGRN_139">CGRN 139</ref>, with discussion of the other deities associated with Asclepius (Apollo Kyparissios, Epione, and Hygieia). In general, the recurrent worship of Nymphs within Asklepieia is probably due to their close connection with (healing) springs and water. For example, one of the oldest cult sites of the Nymphs in Athens is attested at the Asklepieion, on the south slope of the Acropolis (Larson, p. 129). In the case of Kos, this need not have been a "private" cult, as Segre argues. Rather, the abbreviated (probouleutic?) decree and the identity of the
+proposer with the one who moved a second, almost contemporaneous decree concerning the protection of the grove of Asclepius (cf. <bibl type="abbr" n="LSCG">LSCG</bibl> 150B), suggests that we are dealing with the regulation of a public cult. On the cult of the Nymphs in Kos, see further <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 282 and cf. Larson (p. 205-206, also on the connection of these goddesses with the Koan Charites). For further evidence of the cult of the Nymphs in the present Collection, cf. e.g. <ref target="CGRN_17">CGRN 17</ref> (Thasos) and <ref target="CGRN_59">CGRN 59</ref> (Thera).</p>
+
+<p>The regulation prevented the worshippers from throwing cakes or any other kind of offering into the springs of the Asklepieion, a procedure which was actually quite standard in the case of cults of Nymphs, particularly in rural shrines (Larson, p. 205). This measure would have been aimed at preserving the purity of the water, which could have been used for ritual or healing purposes in the Asklepieion (Cole; Ginouvès). For similar prescriptions outside Kos, see e.g. <bibl type="abbr" n="LSS">LSS</bibl> 50 (Delos) and <bibl type="abbr" n="IG I³">IG I³</bibl> 257 (Athens); cf. also the extensive collection material found in Kah's study.</p>
+		
+<p> Lines 2-4: The verb θύω here seemingly refers to simple bringing or deposition of offerings on the altars; it might, but does not necessarily point to combustion of the cakes on these altars.</p>
+						
+<p> Line 6: On the offering of πέμματα, cp. here <ref target="CGRN_186">CGRN 186</ref> (Ilion), line 21.</p>																		
+<p> Lines 7-9: If someone failed to comply with these rules, he or she had to proceed with a purification of the whole precinct consecrated to the Nymphs. Such prescriptions to purify the sanctuary in case of infractions of the rules occur also e.g. in <ref target="CGRN_127">CGRN 127</ref> (Dyme), lines 8-11, where the transgressions relate to wearing the wrong type of clothes or accessories, and in <ref target="CGRN_90">CGRN 90</ref> (Ialysos), lines 27-30, where the transgression was the introduction of certain animals, shoes and anything else made from a pig. Here, as probably in <ref target="CGRN_90">CGRN 90</ref> (Ialysos), but unlike <ref target="CGRN_127">CGRN 127</ref> (Dyme), the purification had a purpose which was not only ritual, but also practical in that it may have involved an actual cleaning of the spring (so also Kearns; cf. Paul).</p>
+				
+					</div>
+			</body>
+    	</text>
+	</TEI>

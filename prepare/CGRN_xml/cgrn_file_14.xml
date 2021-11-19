@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_14" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 14</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> from Gortyn</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Prioject no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Relatively intact <rs type="objectType">block</rs> of limestone, probably originally part of a wall. The first line near the top of the block is abraded and only very partially preserved. Otherwise, the top, bottom and right edges are well-preserved. The left side is used and somewhat broken off at the margin of the text, with 1 missing letter, or a partially preserved letter in some lines. </p>
+				<p><dimensions>
+					<height unit="cm">49</height>
+					<width unit="cm">36.2</width>
+					<depth unit="cm">unknown</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The text is inscribed boustrophedon and the inscription would very likely have extended to another adjacent block placed on the righthand side, now lost. An uncertain proportion of the text is preserved. See Gagarin and Perlman for discussion of the layout in line 1.</p>
+				<p>Letters: <height unit="cm">2.8-3.5</height></p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0500" notAfter="-0450">ca. 500-450 BC</origDate></p>
+			<p><desc>Justification: boustrophedon style and survival of early Gortynian lettering, e.g. <foreign>beta</foreign> (so Halbherr, Jeffery).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Gortyn" n="Crete"><ref target="http://pleiades.stoa.org/places/589796/" type="external">Gortyn</ref></placeName>. Found reused in the Odeion; the exact origin is difficult to ascertain.</p></provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-04-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					
+<p>Edition here based on that of <bibl type="author_date" n="Halbherr 1897">Halbherr 1897</bibl>: 162-166 no. 1, with ph. We print a conservative text, with few of the proposed or uncertain supplements.</p>
+					
+<p>Other edition: Guarducci <bibl type="abbr" n="IC IV">IC IV</bibl> 65, with ph.; and now Gagarin - Perlman <bibl type="abbr" n="LAC">LAC</bibl> G65.</p>
+					
+<p>Cf. also: 
+	Blass <bibl type="abbr" n="SGDI">SGDI</bibl> 4990; 
+	Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 151; 
+	Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 413 no. 5, pl. 59; 
+	Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 147.</p>
+					
+<p>Further bibliography: <bibl type="author_date" n="Larsen 1936">Larsen 1936</bibl>: esp. 12-13.</p>
+					
+<p>Online record: <ref target="http://poinikastas.csad.ox.ac.uk/" type="external">Poinikastas</ref> website, with ref. no. 315.05.
+						</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb xml:id="line_1" n="1" rend="left-to-right"/><name type="deity" key="generic"><w lemma="θεός"><supplied reason="lost">θι</supplied>οί</w></name>· <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_2" n="2" rend="left-to-right"/><unclear>τ</unclear>ο̑ι <name type="deity" key="Zeus"><w lemma="Ζεύς">Ζενὶ</w></name> το̑ι <gap reason="lost" extent="unknown"/>
+	    					
+	    <lb xml:id="line_3" n="3" rend="right-to-left"/><gap reason="lost" extent="unknown"/> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶις</w></name> <name type="gender"><w lemma="θῆλυς">θέλεια</w></name>
+	    					
+<lb xml:id="line_4" n="4" rend="left-to-right"/><name type="colour1"><w lemma="λευκός">λευκά</w></name>, τὸ δὲ <orig>κο</orig><gap reason="lost" extent="unknown"/> 
+	    					
+<lb xml:id="line_5" n="5" rend="right-to-left"/><gap reason="lost" extent="unknown"/> <name type="portion"><name type="animal" key="sheep"><name type="age"><w lemma="ἀμνεῖος">ἀμμνα<choice><corr>ῖ</corr><sic>τ</sic></choice>α</w></name></name></name>, τὰν δ
+	    					
+<lb xml:id="line_6" n="6" rend="left-to-right" break="no"/>ὲ <name type="portion"><name type="animal" key="ox"><w lemma="βόειος">βοΐαν</w></name></name> ὀ <name type="personnel"><w lemma="ἱερεύς">ἰαρε<supplied reason="lost">ὺς</supplied></w></name>
+	    					
+	    <lb xml:id="line_7" n="7" rend="right-to-left"/><gap reason="lost" extent="unknown"/> <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριὸν</w></name></name>· το̑ι <name type="deity" key="Helios"><w lemma="ἥλιος">Ἀλί
+	
+	    <lb xml:id="line_8" n="8" rend="left-to-right" break="no"/>οι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶιν</w></name> <name type="gender"><w lemma="ἄρσην">ἔρσεν<supplied reason="lost">α</supplied></w></name> <gap reason="lost" extent="unknown"/> 
+	    					
+<lb xml:id="line_9" n="9" rend="right-to-left"/><gap reason="lost" extent="unknown"/><orig>α</orig>· <w lemma="ὅδε">τάδε</w> <name type="sacrifice"><w lemma="πάρθυμα">παρθύ<unclear>μ</unclear>
+	
+	<lb xml:id="line_10" n="10" rend="left-to-right" break="no"/>ατα</w></name> <surplus>ι</surplus> <name type="person"><w lemma="περίοικος">περιϝοι<supplied reason="lost">κο</supplied></w></name><gap reason="lost" extent="unknown"/>
+	    					
+<lb xml:id="line_11" n="11" rend="right-to-left"/><gap reason="lost" extent="unknown"/><orig>τε</orig> <w lemma="τρεῖς">τρίινς</w> κ’ <name type="animal" key="sheep"><name type="age"><name type="gender"><w lemma="ἀμνή">ἀμ
+	
+<lb xml:id="line_12" n="12" rend="left-to-right" break="no"/><unclear>ν</unclear>άν</w></name></name></name>, το̑ν δ’ <w lemma="ἄλλος">ἄλλο<supplied reason="lost">ν</supplied></w> <gap reason="lost" extent="unknown"/>
+	    					
+<lb xml:id="line_13" n="13" rend="right-to-left"/><gap reason="lost" extent="unknown"/> <w lemma="μεδιμναῖος">μεδιμνιαία<supplied reason="lost">ν</supplied></w>
+	    					
+<lb xml:id="line_14" n="14" rend="left-to-right"/>καὶ <name type="dairy"><w lemma="τυρός">τυρο̑</w></name> ἐμι<unclear>π</unclear><gap reason="lost" extent="unknown"/>
+<lb xml:id="line_15" n="15" rend="right-to-left"/><gap reason="lost" extent="unknown"/> 	    		
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>Gods. To Zeus the [(cult-epithet), an animal; to ...] a white female (5) sheep; and the [...] the lambskins, and the ox-hide the priest [e.g. receives]; [to ...] a ram, to Helios a male sheep [...]. The following sacrificial complements [e.g. are provided by] (10) neighbouring people both three [...] and a female lamb; and for the rest [... (a thing)] holding a measure of one <foreign>medimnos</foreign> and of cheese half-[...]     
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction </head>
+<p>Dieux. À Zeus le [(épiclèse), un animal; à ...] une (5) brebis blanche; et le [...] les peaux d'agneau, et la peau de boeuf le prêtre [e.g. la recevra]; [à ...] un bélier, à Hélios un mouton mâle [...]. Les compléments sacrificiels suivants [e.g. seront fournis par les] (10) habitants voisins à la fois trois [...] et une agnelle; pour le reste [... (une chose)] contenant une mesure d'un médimne et de fromage un demi-[...]</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>A wall, of which this sizeable block probably formed a part, may have been divided into columns (Halbherr), and so this text may have constituted part of a series of decrees or laws (as in the case of other early Gortynian inscriptions). Given the fragmentary character of the text, it is difficult to know what sort of regulation it might be or what sort of sacrifices it might relate to. However, a decree or law of some sort is likely: the heading in the first line indeed suggests an abbreviated decree. Lines 2-4 define some sacrifice to Zeus, and perhaps a goddess and others (see below on lines 1-3). Lines 4-6 probably move on to consider sacrificial portions like hides and fleeces, part of which the priest would have received. Lines 7-8 concern a sacrifice to another god or goddess and Helios. The remaining lines appear to introduce a list of sacrificial complements, παρθύματα, which had to be provided by worshippers from the nearby countryside (περίοικοι?, cf. line 10).</p>
+
+<p>Lines 1-3: The regulation begins with a sacrifice to Zeus, whose epithet is impossible to restore in the absence of further contextual evidence. Since the hypothesis of an adjacent block on which the text continued must be correct (probably for a roughly equal amount of letters, viz. 11, and then another 11 boustrophedon letters in line 2), the epithet and the sacrificial animal offered to Zeus would probably also have been specified in this missing portion of the inscription. An ox is a possibility for this offering since the text later goes to discuss a βοΐαν, line 6. The white female sheep specified in the next lines must very probably be attributed to a goddess following Zeus. Given the evidence of the calendrical fragment from Gortyn itself, here <ref target="http://cgrn.ulg.ac.be/CGRN_2/">CGRN 2</ref>, a sacrifice to Hera is a strong possibility (see already Halbherr for this suggestion): τᾶι Ἤραι | ὄις | θ̣ή[λ]ε[ια] (without colour specified; but note also that perhaps another goddess, whose name is now missing, received the same animal in that text). Though at some distance, this conjecture may be strengthened by noting the analogous sacrifice of a white female sheep to Hera Antheia in the archaic Milesian calendar: <ref target="http://cgrn.ulg.ac.be/CGRN_6/">CGRN 6</ref>, A line 6. </p>
+							
+<p>Lines 4-6: Line 4 appears to introduce a consideration of specific perquisites from the sacrificial animals, which are continued in the two following lines. The traces τὸ δὲ ΚΟ could be interpreted in two ways. The best explanation, given the skins which probably follow, is τὸ δὲ <name type="portion"><w lemma="κῴδιον">κό<supplied reason="lost">ιδιον</supplied></w></name> suggested by Halbherr and followed by Sokolowski (but without the expected <foreign>iota adscriptum</foreign>; the idea is considered by Guarducci but not adopted in her text). An alternative would be τὸ δὲ <name type="portion"><w lemma="κῶλον">κό<supplied reason="lost">λον</supplied></w></name>, referring to a limb of the animal(s). In line 6, general agreement following Halbherr holds that ἡ βοΐα ought properly to designate an ox-hide. If κό<supplied reason="lost">ιδιον</supplied> is also right in line 4, this leads us to consider the traces in line 5 as portions of lambs, probably skins. The traces there are problematic, giving ΑΜΝΑΤΑΤΑΝ. Guarducci plausibly suggests a dittography, but we could also suppose that the cutter has made an anticipatory mistake. We suggest to correct this to ἀμμνα⌈ῖ⌉α, meaning lambskins (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. ἀμνεῖος). At the end of line 6, Halbherr, followed by Sokolowski, suggests ὀ ἰαρε<supplied reason="lost">ὺς λαβέτο</supplied>; this gives the right sense, but other forms of the verb λαμβάνειν are equally possible, and more damning is the fact that no verbs are attested in the inscription.</p>
+
+<p>Lines 7-8: A ram is given to a deity preceding Helios, but given the frequency of this sacrificial animal and the absence of a qualifier we cannot say much more about this sacrifice. A male sheep is then sacrificed to Helios. We know little about sacrifices to Helios, though the emphasis here seems to be on the maleness of the sacrificial animal offered to the god. It is possible that a prescription about the light colour was also added in the missing text, viz. λευκόν as suggested by Halbherr and Sokolowski. Two sacrifice to Helios attested in the present Collection both specify the light or pale colour (λευκὸν ἢ πυρρόν) of the animal: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_117/">CGRN 117</ref> (Lindos), line 5, and <ref target="http://cgrn.ulg.ac.be/CGRN_110/">CGRN 110</ref> (Camiros), line 4.</p>
+	
+<p>Lines 9-12: The abbreviated style of the text (no verbs attested) makes it difficult to suppose that what we have in line 9 is a clause which employs a verb. Halbherr suggested [κατ]ὰ τάδε παρθύσ̣αται περίϝοι[κος], which is to some degree a good interpretation of the traces, but we might not expect the aorist in this form and in type of general sacrificial rule. Blass and Sokolowski's παρθύμ̣ατ᾽ αἰ suggests the start of a conditional clause, but is equally improbable given the style of the inscription. We suggest παρθύμ̣ατα {ι}, which regrettably entails suppressing a letter, but does yield an expected continuation of the set of abbreviated sacrificial requirements, here with a new list (τάδε...) of offerings. The word πάρθυμ̣α is extremely rare, perhaps unique to this text (so <bibl type="abbr" n="LSJ">LSJ</bibl> s.v., also no verb παρ(α)θύω). Sokolowski adduces a papyrus (<title>P. Giess.</title> I 2), which does not appear to be an apt comparandum, for the sense "sacrifice despite the regulation". Given what follows in the list, namely further sacrificial animals and other measures of offerings, the sense must be comparable to other expressions for "additional sacrifices" or "offerings placed beside the altar (or cult-table)". Ziehen rightly compares παραβώμια, i.e. other portions to be offered next to the altar; see also the many expressions for sacrificial offerings placed on the cult-table (e.g. παρατιθέμενα). These offerings, supplementary or complementary to those prescribed earlier in the text, are apparently to be given by a <foreign>perioikos</foreign> or a number of <foreign>perioikoi</foreign>. On this group, see Larsen, who links them with the more prevalent ὑπόβοικοι in Crete and the ἀπέταιροι defined as a class in the Gortyn Law Code. Our text presumably contrasts this type of individual or group with citizens and the priest of the cult or sanctuary, who would have fulfilled the prescriptions stipulated earlier. The <foreign>perioikoi</foreign>, if correctly restored here, remains little understood, but no doubt non-citizens or shepherds from the surrounding countryside are intended. As additional offerings, these individuals must provide three other animals of some sort and a lamb. Cp. the newborn animals and cheese offerings which are to be provided by shepherds and goatherds at Thebes-on-the-Mykale: <ref target="http://cgrn.ulg.ac.be/CGRN_81/">CGRN 81</ref>. What follows in the last two fragmentary lines are a measure of something, probably grains, using the surprising feminine adjective of <foreign>medimnos</foreign>. Finally, an offering of cheese is prescribed: the final traces, ε̄̓μιπ̣ or less plausibly ε̄̓μιο̣, are difficult to interpret with any conviction. If a measure of cheese is envisaged, then one might think of the quantity πόρπαξ, "a handle", attested at <ref target="http://cgrn.ulg.ac.be/CGRN_16/">CGRN 16</ref>, line 6. Otherwise, we might think of a qualifier for the type of cheese, e.g. ἡμιπαγής "half-hard" or ἡμίπεπτος "half-ripe, half-cooked".
+
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

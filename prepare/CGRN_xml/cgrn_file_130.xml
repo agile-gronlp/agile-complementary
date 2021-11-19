@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_130" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 130</idno>: Excerpt from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> at Kamiros (concerning sacrifices to Poseidon)</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+<msIdentifier>
+	<repository>n/a</repository>
+</msIdentifier>
+<physDesc>
+	<objectDesc>
+		<supportDesc>
+			<support><p>Small marble <rs type="objectType">stele</rs>, broken in two but generally intact. The stele has a socket for insertion in a base.</p>
+				<p><dimensions>
+<height unit="cm">45</height>
+<width unit="cm">22</width>
+<depth unit="cm">7.5</depth>
+				</dimensions></p>
+			</support>
+		</supportDesc>
+		<layoutDesc>
+			<layout><p>Letters: <height unit="cm">1.2</height>.</p>
+			</layout>
+		</layoutDesc>
+	</objectDesc>
+</physDesc>
+<history>
+	<origin>
+		<p><origDate notBefore="-0300" notAfter="-0200">ca. 300-200 BC</origDate></p>
+		<p><desc>Justification: early to mid-Hellenistic lettering (Pugliese Carratelli).</desc></p>
+	</origin>
+	<provenance><p><placeName type="ancientFindspot" key="Kamiros" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589836" type="external">Kamiros</ref></placeName>, on the island of Rhodes. Now in the Museum of Rhodes.</p>
+	</provenance>
+</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by JM Carbon in 01.2019.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				
+				<p>Edition here based on Pugliese Carratelli <bibl type="abbr" n="Tit.Cam.">Tit.Cam.</bibl> 153, with ph. fig. 112. There are virtually no problems with the edition or with the readings.</p>
+				
+				<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 94.</p>
+				
+				<p>Further bibliography: <bibl type="author_date" n="Segre 1951">Segre 1951</bibl>; 
+<bibl type="author_date" n="Robertson 1984">Robertson 1984</bibl>; 
+<bibl type="author_date" n="Badoud 2015">Badoud 2015</bibl>: 11-35; 
+<bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>: 192-197; 
+<bibl type="author_date" n="Carbon forthc.">Carbon forthc.</bibl></p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab>
+
+
+<lb xml:id="line_1" n="1"/><name type="month"><w lemma="θεοδαίσια"><supplied reason="lost">Θ</supplied>ευδαισίου</w></name> 
+
+<lb xml:id="line_2" n="2"/><space quantity="2" unit="character"/> <w lemma="">νευμηνίαι</w>· 
+
+<lb xml:id="line_3" n="3"/><name type="deity" key="Poseidon"><w lemma="Ποσειδῶν"><supplied reason="lost">Π</supplied>οτειδᾶνι</w></name> <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταῦρον</w></name></name> 
+
+<lb xml:id="line_4" n="4"/><w lemma="μή"><supplied reason="lost">μ</supplied>ὴ</w> <w lemma="νέος">νεώτερον</w> 
+
+<lb xml:id="line_5" n="5"/><name type="age"><w lemma="ἐνιαύσιος"><supplied reason="lost">ἐ</supplied>νιαυτίου</w></name>, <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριὸν</w></name></name> 
+
+<lb xml:id="line_6" n="6"/><name type="age"><w lemma="πρατήνιον">πρατήνιον</w></name>, <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοῖρον</w></name></name> 
+
+<lb xml:id="line_7" n="7"/><name type="personnel"><w lemma="ἱερεύς">ἰερεὺς</w></name> <name type="sacrifice"><w lemma="θύω">θύει</w></name>. 
+
+<lb xml:id="line_8" n="8"/><name type="festival"><w lemma="Ἱπποκαθεσία">Ἱπποκαθεσίοις</w></name> 
+
+<lb xml:id="line_9" n="9"/><name type="sacrifice"><w lemma="θύω">θύεται</w></name> <name type="month"><w lemma="Ἀγριάνιος">Ἀγριανίου</w></name> 
+
+<lb xml:id="line_10" n="10"/><w lemma="ἑνδέκατος">ἑνδεκάται</w> ἢ <w lemma="πρότερος">πρό 
+	
+	<lb xml:id="line_11" n="11" break="no"/>τερον</w>· <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριὸν</w></name></name> <name type="age"><w lemma="πρατήνιον">πρα 
+		
+		<lb xml:id="line_12" n="12" break="no"/>τήνιον</w></name> <name type="personnel"><w lemma="ἱερεύς">ἰερεὺς</w></name> 
+
+<lb xml:id="line_13" n="13"/><name type="sacrifice"><w lemma="θύω">θύει</w></name>· <name type="portion"><w lemma="κρέας">κρῆ</w></name> <w lemma="αὐτεῖ">αὐτεῖ</w> 
+
+<lb xml:id="line_14" n="14"/><space quantity="2" unit="character"/> <name type="meal"><w lemma="ἀναλίσκω">ἀναλοῦται</w></name>. </ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+<p> On the first of the month Theudaisios: to Poseidon a bull not younger than (5) a year-old, a yearling ram, a piglet; the priest sacrifices them.</p>
+				
+<p>During the festival of the Hippokathesia, (10) on the 11th of Agrianios or earlier, a yearling ram is sacrificed (to Poseidon). The priest sacrifices it. The meat is consumed on the spot. </p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+<p> Le premier du mois de Theudaisios: à Poséidon un taureau âgé d'au moins (5) un an, un bélier d'un an, un porcelet; le prêtre les sacrifie.</p>
+				
+<p>Durant la fête des Hippokathesia, (10) le 11 Agrianios ou plus tôt, un bélier d'un an est sacrifié (à Poséidon). Le prêtre accomplit le sacrifice. La viande est consommée sur place. </p>
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+				
+<p>The inscription is one of a large number of extracts from a sacrificial calendar inscribed or recodified in the late Classical or early Hellenistic period and disseminated at various local sanctuaries, presumably as punctual reminders and short regulations in and of themselves (for the early beginning of such excerpts, cf. here <ref target="CGRN_62">CGRN 62</ref> and <ref target="CGRN_63">CGRN 63</ref>, both from Lindos). The excerpts perhaps come from the general sacrificial calendar of the unified city of Rhodes or perhaps equally probably from that of Kamiros itself. See e.g. <ref target="CGRN_110">CGRN 110</ref> for further examples from Kamiros; e.g. <ref target="CGRN_115">CGRN 115</ref> for others from Lindos. For a general discussion of these excerpts, see Segre and Carbon forthc.</p>
+				
+<p>Here, the excerpt joins together two different occasions relating to the cult of Poseidon, to be performed by the priest of the god at Kamiros. The first date is in the winter month Theudaisios. In the reconstruction of the Rhodian calendar refined by Badoud and generally adopted here (for a different view, see Iversen), Theudaisios was the 5th month (ca. December/January). The precise occasion is unknown, but it has been tied by Robertson with other celebrations for Poseidon around the time of the winter solstice; for Theudaisios specifically, cp. the sacrifice to Poseidon Phytalmios in the area of Lindos, <ref target="CGRN_115">CGRN 115</ref>. This appears to have been a major celebration at Kamiros, involving a triple sacrifice for the god. The second occasion listed in the excerpt is an intriguing celebration called the Hippokathesia in the spring month of Agrianios (see below on lines 8-13). The major celebration of this festival took place in Rhodes town itself. The local celebration in Kamiros appears comparatively minor.</p>
+				
+<p>Line 2: The new moon was a particularly holy day, sometimes reserved for monthly cult to all the gods, but other times for specific sacrifices and festivals: cp. here <ref target="CGRN_205">CGRN 205</ref> (Antiocheia ad Pyramum), line 19, and also <ref target="CGRN_147">CGRN 147</ref> (Kos), lines 28 and 95. Given the major sacrifice, it is possible that the occasion is to be identified with the local (and annual?) festival of Poseidon at Kamiros, i.e. the Poteidania.</p>
+				
+<p>Lines 3-6: The sacrifice offered to Poseidon is tantamount to a <foreign>trittoa</foreign>, a triple sacrifice typically involving an ox, sheep and swine. Here, the age and gender of the animal species are further specified. All are male, a gender usually privileged by Poseidon. The piglet is a very young animal, having less than one year, but the others are older: the ram is approximately or exactly one-year old: πρατήνιον. The word is rare, but equated by Hsch. s.v. with πρητήν (cp. also ἐπιπρητήν), which was a term for one year-old lambs: πρητῆνας, τοὺς ἐνιαυσίους ἄρνας. As in other cases, the age of the animal might be determined by the loss of the milk-teeth or by the age of weaning (on the former, cf. <ref target="CGRN_105">CGRN 105</ref>, line 7; on the latter, cf. the term γαλαθηνός, <ref target="CGRN_21">CGRN 21</ref>, Athens, line 9), but the growth of the horns might also be used as an indicator (a one year-old sheep is usually only starting to grow horns; little buds might be visible on the head; cf. the term πτόρθιον in <ref target="CGRN_21">CGRN 21</ref>, lines 12-13, and <ref target="CGRN_21">CGRN 26</ref>, line A18). The same might be the case for the bull: an older animal would be distinguishable from a younger calf (uncastrated bulls would also become fertile after 6 months to a year, something which would readily become visible in their general size and genital anatomy). For minimum age requirements of animals, as in the case of the bull, cp. here <ref target="CGRN_109">CGRN 109</ref>, lines 8-9 (also from Kamiros: a heifer). Furthermore, the order in which the animals are listed is not irrelevant: the bull comes first, leading the other two, a feature of the sacrifice which parallels the <foreign>trittoia boarchos</foreign> found in Attica for instance, cf. <ref target="CGRN_8">CGRN 8</ref>, line 5.</p>
+				
+<p>Lines 8-13: As far is known, the Hippokathesia ("Horse-Descent") is a specifically Rhodian festival and an important one. It was enneteric (happening every eight years), cf. Pugliese Carratelli, <bibl type="abbr" n="SEG">SEG</bibl> 5 (1st century BC). Our text helps in dating the festival, since it appears to prescribe a deadline for the offering "before the 11th of Agrianios": the Hippokathesia will therefore in all likelihood have taken place in the early part of that spring month, perhaps over the course of several days. In the reconstruction of the Rhodian calendar refined by Badoud and generally adopted here (for a different view, see Iversen), Agrianios was the 10th month (ca. May/June). Investigation of the rites involved during the festival has been somewhat muddled by the idea reported in Festus (s.v. October) that a quadriga was thrown into the sea for Helios on Rhodes. It is possible that a confusion with horse-races during the Halia (festival of the sun god on Rhodes) has arisen and that this rite is to be assigned to Poseidon instead of Helios (cp. also especially Poseidon Hippios on Lindos: <bibl type="abbr" n="IG XII.1">IG XII.1</bibl> 786, Ποτιδᾶνος Γιλαίου καὶ Ἱππίου; <bibl type="abbr" n="IG XII.1">IG XII.1</bibl> 809 and 835). The question remains open, however, whether Poseidon was indeed honoured with a form of horse sacrifice, or whether the "descent of horses" was part of the symbolism or mythical past of the celebration preserved in its name; see Robertson for a wider discussion. Here at Kamiros, at any rate, the god receives a much more modest single ram, though the sacrifice presumably takes place and is consumed in a specific place, perhaps by the sea-shore (yet this remains conjectural; see also below).</p>
+				
+<p>Lines 13-14: This specification for consuming meat on the spot is often found in ritual norms, most commonly in the form οὐκ ἀποφορά, "no take-away". It appears to relate only to the previously mentioned sacrifice for the Hippokathesia, rather than to both occasions. For the specific use of the verb ἀναλίσκω in this context, cf. <ref target="CGRN_38">CGRN 38</ref>, line A8 (Chios); cp. also the different formulation in excerpts from Lindos, <ref target="CGRN_115">CGRN 115</ref>. </p>
+			</div>
+		</body>
+	</text>
+</TEI>

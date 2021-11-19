@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_37" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 37</idno>: Fragment of a <rs type="textType" key="priestly contract">contract</rs> of sale for a priesthood on Chios</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p>Grey limestone <rs type="objectType" key="block">block</rs>, "perhaps an architectural member" (Parker). Broken at the bottom and roughly recut at the left. The right, back, and top sides may be original.</p>
+	<p><dimensions>
+		<height unit="cm">30</height>
+		<width unit="cm">22</width>
+		<depth unit="cm">40</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Letters: <height unit="mm">7-9</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0425" notAfter="-0375">ca. 425-375 BC</origDate></p>
+							
+							<p><desc>Justification: lettering (especially V-shaped <foreign>upsilon</foreign>) and context of similar finds (Parker).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Chios" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550497" type="external">Chios</ref></placeName>, exact findspot unknown. Now in the Museum of Chios (inv. no. MX 1023).</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by J.M. Carbon and S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p>Edition here based on <lb/><bibl type="author_date" n="Parker 2006">Parker 2006</bibl>: 67-79, with ph. figs. 1-2, with a squeeze and transcripts by Forrest and Matthaiou.</p>
+	    			<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 56, 996.</p>
+	    			<p>Further bibliography: <bibl type="author_date" n="Paul 2013b">Paul 2013b</bibl>.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	    	
+	    	<lb xml:id="line_1" n="1"/><gap extent="unknown" unit="character" reason="lost"/><orig>ΑΤΟ</orig><gap quantity="1" unit="character" reason="lost"/><orig>Ε</orig><gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    				<lb xml:id="line_2" n="2"/><gap extent="unknown" unit="character" reason="lost"/> <w lemma="πέρνημι"><supplied reason="lost">πρ</supplied>αθήσε<unclear>τ</unclear><supplied reason="lost">αι</supplied></w> <gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    				<lb xml:id="line_3" n="3"/><gap extent="unknown" unit="character" reason="lost"/> <supplied reason="lost">ἡ</supplied> <w lemma="πρίαμαι"><supplied reason="lost">πριαμέ</supplied>νη</w> <unclear>τὴ</unclear>ν <name type="personnel"><w lemma="ἱερατεία">ἱ<supplied reason="lost">ρητ</supplied><unclear>ή</unclear>ιη<unclear>ν</unclear></w></name> <gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    				<lb xml:id="line_4" n="4"/><gap extent="unknown" unit="character" reason="lost"/>εσται <w lemma="αὐτός">αὐ<unclear>τ</unclear><supplied reason="lost">ῆι</supplied></w> καὶ <name type="personnel"><w lemma="θεράπαινα">θερα<unclear>π</unclear><supplied reason="lost">αίνηι</supplied></w></name> <gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    				<lb xml:id="line_5" n="5"/><gap extent="unknown" unit="character" reason="lost"/> <name type="personnel"><w lemma="ἱερόω"><supplied reason="lost">ἱ</supplied>ρήσε<unclear>τ</unclear>αι</w></name> <w lemma="ζωή"><supplied reason="lost">ζ</supplied>ωὴν</w> τ<supplied reason="lost">ὴ</supplied>ν <w lemma="αὐτός">α<supplied reason="lost">ὑτῆς</supplied></w> <gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    				<lb xml:id="line_6" n="6"/><gap extent="unknown" unit="character" reason="lost"/> <supplied reason="lost">ἡ</supplied> <name type="personnel"><w lemma="κατιερόω"><supplied reason="lost">κατι</supplied>ρομένη</w></name> <w lemma="δίδωμι">διδότω</w> <orig>ΗΡ</orig><gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    				<lb xml:id="line_7" n="7"/><gap extent="unknown" unit="character" reason="lost"/> <w lemma="οὗτος"><supplied reason="lost">τ</supplied>οῦτο</w> <w lemma="δέχομαι">δεχομέν<supplied reason="lost">η</supplied></w> <unclear>ἀ</unclear>πο<gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    				<lb xml:id="line_8" n="8"/><gap extent="unknown" unit="character" reason="lost"/> <supplied reason="lost">τῆι</supplied> <name type="personnel"><w lemma="κατιερόω"><supplied reason="lost">κα</supplied>τιρομένηι</w></name> <w lemma="πᾶς">πάν<supplied reason="lost">τα</supplied></w> τὰ <name type="authority"><w lemma="νομίζω">νο<supplied reason="lost">μιζόμε</supplied>
+	    					
+	    					<lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">να</supplied></w></name> <gap extent="unknown" unit="character" reason="lost"/>ιον <w lemma="παρέχω">παρεχέσθ<supplied reason="lost">ω</supplied></w> <supplied reason="lost">ἡ</supplied> <name type="personnel"><w lemma="κατιερόω"><supplied reason="lost">κ</supplied>ατιρομ<supplied reason="lost">ένη</supplied></w></name>
+	    				
+	    				<lb xml:id="line_10" n="10"/><gap extent="unknown" unit="character" reason="lost"/> <supplied reason="lost">ὁ</supplied> <name type="person"><w lemma="ἰδιώτης"><supplied reason="lost">ἰδιώ</supplied>της</w></name> τῆι <name type="personnel"><w lemma="ἱέρεια">ἱρῆι</w></name> <name type="portion"><w lemma="δίδωμι">διδ<supplied reason="lost">ότ</supplied>ω</w></name> <name type="portion"><w lemma="σκέλος">σκέλ<supplied reason="lost">ος</supplied></w></name> <gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    				<lb xml:id="line_11" n="11"/><gap extent="unknown" unit="character" reason="lost"/> <name type="portion"><w lemma="πρότμησις"><supplied reason="lost">πρό</supplied>τμησιγ</w></name>, <name type="portion"><w lemma="γνάθος"><supplied reason="omitted">γ</supplied>νάθον</w></name> <name type="quality"><w lemma="εὐώνυμος">εὐ<supplied reason="lost">ώ</supplied>νυμο<supplied reason="lost">ν</supplied></w></name> <gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    				<lb xml:id="line_12" n="12"/><gap extent="unknown" unit="character" reason="lost"/><orig>ο</orig> <w lemma="ἕκαστος">ἑκάστο</w> <w lemma="ἀγείρω">ἀγειρόσ<supplied reason="lost">η</supplied>ι</w> <orig>ΑΠΑ</orig><gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    				<lb xml:id="line_13" n="13"/><gap extent="unknown" unit="character" reason="lost"/> <name type="portion"><w lemma="τεταρτημόριον"><supplied reason="lost">τετ</supplied>αρτημόριον</w></name> <name type="vegetal"><w lemma="πυρός">πυρῶν</w></name> καὶ <orig>Ι</orig><gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    				<lb xml:id="line_14" n="14"/><gap extent="unknown" unit="character" reason="lost"/> <name type="portion"><w lemma="τεταρτημόριον"><supplied reason="lost">τετ</supplied>αρτημόριον</w></name>· ἂν δέ <w lemma="τις">τις</w> <w lemma="ἀφαιρέω">ἀ<supplied reason="lost">φέληι</supplied></w>
+	    				
+	    				<lb xml:id="line_15" n="15"/><w lemma=""><supplied reason="lost">τι</supplied></w> <supplied reason="lost">τῶν</supplied> <name type="portion"><w lemma="γέρας"><supplied reason="lost">γερέων</supplied></w></name> <gap extent="unknown" unit="character" reason="lost"/> <name type="punishment"><w lemma="ὀφείλω"><supplied reason="lost">ὀφ</supplied><unclear>ε</unclear>ιλέτω</w></name> <pc>:</pc> <num value="10">Δ</num> <pc>:</pc> τῆι <w lemma="πρίαμαι">πριαμέν<supplied reason="lost">ηι</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost">ἂν</supplied>
+	    				
+	    				<lb xml:id="line_16" n="16"/><supplied reason="lost">δὲ</supplied> <w lemma="ἄλλος"><supplied reason="lost">ἄλλο</supplied></w> <w lemma="τις"><supplied reason="lost">τι</supplied></w> <w lemma="λαμβάνω"><supplied reason="lost">λάβηι</supplied></w><supplied reason="lost">,</supplied> <name type="punishment"><w lemma="ἀποδίδωμι"><supplied reason="lost">ἀποδότω</supplied></w></name> <w lemma="στατήρ"><supplied reason="lost">στατῆρ</supplied>ας</w> <pc>:</pc> <num value="10">Δ</num> <space quantity="1" unit="line"/>
+	    				
+	    				<lb xml:id="line_17" n="17"/><gap extent="unknown" unit="character" reason="lost"/> <w lemma="πρίαμαι"><supplied reason="lost">ἐπρίατο</supplied></w> <supplied reason="lost">τὴν</supplied> <name type="personnel"><w lemma="ἱερατεία"><supplied reason="lost">ἱρητ</supplied>είην</w></name> <orig>τ</orig><gap extent="unknown" unit="character" reason="lost"/>
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...] will be sold [...] the woman who purchases the priesthood [...] for her and her assistant [... (5) ...] she will serve as priestess for the duration of her life [...] the consecrated woman is to give [...] having received this from [...] to the consecrated woman all the customary necessities [...] the consecrated woman is to provide [...] (10) a private individual is to give (the following) to the priestess: a leg [...], an abdominal portion (or loin), the left jaw (or cheek) [...] (from?) each she will make a collection [...] a quarter portion of barley groats and [...] a quarter portion. But if anyone removes (15) [any of the perquisites...], let him owe 10 drachmae to the woman who has purchased the priesthood. [If (anyone) takes anything else, let him owe] 10 staters. [... (Name) ...] bought the priesthood [(for the price of) ...].</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[...] sera vendue [...] celle qui achète la prêtrise [...] à elle et à son assistante [... (5) ...] elle sera prêtresse à vie [...] que la femme consacrée donne [...] ayant reçu ceci de [...] à la femme consacrée tout ce qui est traditionnel [...] que la femme consacrée fournisse (10) [...] qu'un particulier fournisse (les choses suivantes) à la prêtresse : une patte [...], un portion abdominale (ou des reins), la mâchoire (ou joue) gauche [...] (de ?) chaque elle fera une collecte [...] un quart des grains d'orge et [...] un quart. Mais si quelqu'un enlève (15) [n'importe quelle des parts d'honneur...], qu'il doive 10 drachmes à la femme qui a acheté la prêtrise. [Si on enlève quelque chose d'autre, qu'on paye] 10 statères. [... (Nom) ...] a acheté la prêtrise [(pour le prix de ...].</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p> Along with several other regulations specifically concerned with priesthoods, this text is among the earliest group of contracts for the sale of priesthoods. Most of these come from the island of Chios, which has led Parker (p. 69 with n.10) to comment: "The explanation for the extraordinary abundance of priesthood texts must surely lie in the early emergence on Chios of the practice of sale of priesthoods". That is possible, but remains to be confirmed. It is certainly the case that the Chian documents show a remarkable  level of coherence. They typically specify the conditions of sale and the tenure of the office (here lines 1-4; usually a sale of the office for the duration of a lifetime); this is followed by detailed consideration of priestly perquisites and privileges (here probably lines 10-14, perhaps earlier lines too); the conclusion of the contract then specifies various fines or penalties if anyone contravenes it (lines 14-16). Though fragmentary, the text we have here may essentially run the full course of this type of short contract. As Parker comments (p. 69): "Line 2 apparently contains a declaration of intention to sell"—he means the verb [πρ]αθήσετ̣[αι]—"and line 17 probably gives the name of the eventual purchaser. Apparently therefore little if anything has been lost at top or bottom of the decree."</p>
+						
+<p> Line 4: As Parker notes, provisions for an attendant (θεράπων) are seldom found elsewhere in sacred laws. See, however, a number of cases where a priestess might be assisted by a female helper or "under-priestess", cf. e.g. <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 304, lines 18ff., and cp. the mention of an ἀκολουθῶν, or "attendant" to the priest in the sacrificial calendar of Thorikos, <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref>, lines 15-16.</p>
+						
+		<p> Lines 6-9: Parker notes the difficulties in interpreting the identity of the woman referred to as ἡ κατιρομένη in these lines. Without any certainty, he suggests that this might be another way of referring to the priestess, who had been initiated or confirmed in the cult in question (cp. the τελετή of priests on Kos, with the commentary of Paul). Chaniotis in SEG wonders whether this woman might be "one who devotes [dedicates] herself to the cult of the goddess", perhaps another woman or official. In our view, this participle might be more plausibly related or linked to the attendant mentioned earlier in the inscription, the θεράπαινα (see above line 4; viz. a θεράπαινα ἡ κατιρομένη). Individuals, often of servile status, could be 'consecrated' and thus become cult attendants and personnel: cf. LSJ s.v. θεράπων (notably citing Eust. ad D.P. 533 for this sense on Chios).</p>
+						
+		<p> Line 11: For the portion from the loins or the abdomen, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_120/">CGRN 120</ref>, lines 5-8, and Parker here ad loc. for further discussion. Parker discusses the singular portion which might be a jaw but also a “cheek” (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. γνάθος 2). Perhaps the priestess only received the left cheek or perhaps the word is a synecdoche, implying that the priestess received the whole left side of the head (cp. instances of ἡμίκραιρα, a half-head, e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_57/">CGRN_57</ref>, Aixone, lines 4, 8, 11, etc.). On seldom attested left portions, see esp. Amipsias fr. 7 (Kassel-Austin, ap. Athen. 368e; a left 'half-head', ἡμίκραιρ᾽ ἀριστερά, no doubt a priestly portion quite similar to the one envisaged here), and also <ref target="http://cgrn.ulg.ac.be/CGRN_147/">CGRN 147</ref> (Kos), line 61 (left leg).</p>
+			
+<p>Line 12: Various readings and interpretations of the beginning of this line are noted in Parker. What does seem clear is that the priestess must perform a collection or a form of ritual begging to raise funds for sacrifices. On collecting, seemingly exclusively attested in female cults, cf. e.g. <bibl type="abbr" n="LSCG">LSCG</bibl> 175.2 (Demeter) and <ref target="http://cgrn.ulg.ac.be/CGRN_118/">CGRN 118</ref> (Halikarnassos), line 26 (Artemis Pergaia).</p>
+					
+		<p> Lines 13-14: Parker ad loc. discusses the possible interpretations of these "quarter portions", whether they consisted grains, and of what size they might have been. The question remains difficult to resolve given the fragmentary context.</p>
+						
+		<p> Lines 14-16: It seems clear that two transgressions and punishments are detailed here. Parker surmises: "Penalties can be imposed both on persons who fail to give priests their perquisites and on priests who demand more than their due". We maintain his suggestions, but we note that lines 15-16 are not necessarily confidently restored, nor is the significance of the second fine clearly understood.</p>
+						
+		<p> Line 17: This final line will have contained a record of the name of purchaser and the price obtained for the sale of the priesthood, cp. <ref target="http://cgrn.ulg.ac.be/CGRN_176/">CGRN 176</ref> (Priene), lines 35-38.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

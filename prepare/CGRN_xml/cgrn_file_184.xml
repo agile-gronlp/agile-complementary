@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_184" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 184</idno>: <rs type="textType" key="priestly contract">Contract of sale for the priesthood</rs> of Zeus (?) at Kasossos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p> <rs type="objectType">Block</rs> of blue marble, probably originally belonging to a wall from the sanctuary or temple (Blümel). The block appears broken or abraded, both at the top and at the bottom. Given the restorations proposed in the text below, it would appear that the stone was only lightly abraded on the left and top right sides of the front face.</p>
+			<p><dimensions>
+					<height unit="cm">34</height>
+					<width unit="cm">40</width>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="cm">1.4</height>. Hellenistic
+lettering with smaller round letters, open <foreign>omega</foreign> and somewhat
+open <foreign>sigma</foreign>; but three bar <foreign>xi</foreign>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0200" notAfter="-0100">ca. 200-100 BC</origDate></p>
+			<p><desc>Justification: mid-Hellenistic lettering and use of the Macedonian calendar (Carbon; see above, Layout; below, Commentary).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Kasossos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599697/" type="external">Kasossos</ref></placeName>, ca. 15 km almost directly south of Mylasa. Found by E. Szanto on a hill northwest of the village of Ulaş; near the find lie the foundations of a Byzantine church, probably indicating reuse of a sanctuary site from earlier periods.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-04-2016 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Blümel <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 942, with a facsimile of Szanto's drawing. For the restoration at the
+end of line 2, see below Commentary ad loc.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 71.</p>
+
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    			
+<lb/><gap reason="lost" extent="unknown" unit="line"/>		
+	    					
+<lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΩΙΙ</orig><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ΕΙ</unclear>Λ<unclear>Ε</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="λαμβάνω"><supplied reason="lost">λή</supplied>
+
+<lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">ψε</supplied>ται</w></name> <w lemma="ἐκ">ἐ<supplied reason="lost">ξ</supplied></w> <name type="gender"><w lemma="ἅπας">ἁπασῶν</w></name> <supplied reason="lost">τῶν</supplied> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">β</supplied>οῶν</w></name>, <supplied reason="lost">καὶ</supplied> <w lemma="ὅταν"><supplied reason="lost">ὅταν</supplied></w> <w lemma="κατά"><supplied reason="lost">κα</supplied>
+	    					
+<lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">τὰ</supplied></w> <name type="group"><w lemma="κοινός">κοινὸν</w></name> <name type="sacrifice"><w lemma="θύω"><unclear>θ</unclear>ύωσιν</w></name> <name type="ethnic" key="Kasossos"><w lemma="Κασώσσος">Κασωσσεῖς</w></name>, <w lemma="κατά">κ<supplied reason="lost">αθ’</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἑ</supplied>κ<supplied reason="lost">άσ</supplied>
+
+<lb xml:id="line_4" n="4" break="no"/><supplied reason="lost">τη</supplied>ν</w>
+<name type="sacrifice"><w lemma="θυσία">
+<unclear>θ</unclear>υσίαν</w></name> <w lemma="ἀπό">ἀφ’</w> <w lemma="εἷς">ἑνὸς</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείου</w></name> τῶν <name type="sacrifice"><w lemma="θύω">θυομέ
+	    					
+<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">νω</supplied>ν</w></name>· <w lemma="ὅταν">ὅταν</w> δὲ <name type="sacrifice"><w lemma="ποιέω">ποιῶσιν</w></name> <name type="vegetal"><name type="dairy"><w lemma="τυράλφιτον">τυράλφιτον</w></name></name> κ<supplied reason="lost">αὶ</supplied> <name type="sacrifice"><w lemma="θύω"><unclear>θ</unclear>ύω
+	    					
+<lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">σι</supplied>ν</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦν</w></name>, <name type="portion"><w lemma="λαμβάνω">λήψεται</w></name> τοῦ <name type="animal" key="ox"><w lemma="βοῦς">βοὼς</w></name> <name type="portion"><w lemma="κωλῆ">κωλεὸν</w></name> <name type="quality"><w lemma="ἕλκω">ἕλ
+	    						
+<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">κο</supplied>ντα</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἔλασσον</w> <w lemma="μνᾶ">μ<surplus>η</surplus>ῶν</w> <num value="10"><w lemma="δέκα">δέκα</w></num>, <name type="portion"><w lemma="λαμβάνω">λήψε
+	    					
+<lb xml:id="line_8" n="8" break="no"/><supplied reason="lost">τα</supplied>ι</w></name> δὲ <w lemma="ἐν">ἐν</w> τῆι <name type="sacrifice"><w lemma="θυσία">θυσίαι</w></name> <w lemma="οὗτος">ταύτηι</w> <name type="portion"><w lemma="δέρμα">δέρμα</w></name> καὶ
+	    					
+<lb xml:id="line_9" n="9"/><name type="portion"><w lemma="σκέλος"><supplied reason="lost">σ</supplied>κέλος</w></name> <w lemma="ἀπό">ἀφ’</w> <w lemma="ὅς">οὗ</w> <w lemma="ἄν">ἂν</w> <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριοῦ</w></name></name> <w lemma="βούλομαι">βούληται</w>, <name type="portion"><w lemma="λαμβάνω">λήψε
+	    				
+<lb xml:id="line_10" n="10" break="no"/><supplied reason="lost">τ</supplied>αι</w></name> δὲ <w lemma="ἐν">ἐν</w> ταῖς <name type="group"><w lemma="συναγωγή">συναγωγαῖς</w></name> <w lemma="πᾶς">πάσαις</w>
+	    					
+<lb xml:id="line_11" n="11"/><name type="portion"><w lemma="διμοιρία"><supplied reason="lost">δ</supplied>ιμοιρίαν</w></name>· <w lemma="ὑπάρχω">ὑπάρξει</w> δὲ <w lemma="αὐτός">αὐτῶι</w> καὶ <w lemma="ἀτέλεια">ἀτέ
+	    					
+<lb xml:id="line_12" n="12" break="no"/><supplied reason="lost">λ</supplied>εια</w> <w lemma="ἐν">ἐγ</w> <placeName key="Kasossos"><w lemma="Κασώσσος">Κασωσσῶι</w></placeName> <w lemma="ὅς">ὧν</w> ἂν <name type="ethnic" key="Kasossos"><w lemma="Κασωσσεύς">Κασωσ
+	    					
+<lb xml:id="line_13" n="13" break="no"/><supplied reason="lost">σε</supplied>ῖς</w></name>
+<name type="authority"><w lemma="κύριος">κύριοι</w></name> <w lemma="εἰμί">ὦσιν</w>· ὁ
+<unclear>δ</unclear>ὲ <w lemma="πρίαμαι">πριάμενος</w> τὴν <name type="personnel"><w lemma="ἱερωσύνη">ἱ
+	    					
+<lb xml:id="line_14" n="14" break="no"/><supplied reason="lost">ερω</supplied>σύνην</w></name> <w lemma="διορθόω">διορθώσεται</w> τὸ <w lemma="ἀργύριον">ἀργύριον</w>
+	    					
+<lb xml:id="line_15" n="15"/><supplied reason="lost">τοῖς</supplied> <w lemma="ἀνθαιρέομαι"><supplied reason="lost">ἀν</supplied><unclear>θ</unclear>ειρημένοις</w> <name type="title"><w lemma="ταμίας">ταμίαις</w></name> τοῖς <w lemma="περί">πε
+	    					
+<lb xml:id="line_16" n="16" break="no"/><supplied reason="lost">ρὶ</supplied></w> <supplied reason="lost">Διομ</supplied>ήδην, <w lemma="ποιέω">ποιούμενος</w> <w lemma="καταβολή">καταβολὰς</w>
+	    					
+<lb xml:id="line_17" n="17"/><supplied reason="lost">τὴ</supplied>ν μὲν <w lemma="πρότερος">πρώτην</w> <w lemma="ἐν">ἐν</w> <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Δίος">Δίωι</w></name>, τὴ<unclear>ν</unclear>
+	    					
+<lb xml:id="line_18" n="18"/><supplied reason="lost">δὲ</supplied> <w lemma="δεύτερος"><supplied reason="lost">δευ</supplied>τέραν</w> <w lemma="ἐν">ἐμ</w> <w lemma="μείς">μηνὶ</w>
+<name type="month"><w lemma="Ξανδικός">Ξανδικῶι</w></name>, τὴν δὲ
+	    					
+<lb xml:id="line_19" n="19"/><w lemma="τρίτος"><supplied reason="lost">τρίτη</supplied>ν</w> <w lemma="ἐν">ἐμ</w> <w lemma="μείς">μηνὶ</w>
+<name type="month"><w lemma="Ὑπερβερεταῖος">Ὑπερβερεταίωι</w></name> τῶι <w lemma="μετά">με<unclear>τ</unclear><supplied reason="lost">ὰ</supplied></w>
+	    					
+<lb xml:id="line_20" n="20"/><name type="personnel"><w lemma="στεφανηφόρος"><supplied reason="lost">στεφανηφόρον</supplied></w></name> <supplied reason="lost">Ἀπελ</supplied>λαῖον· οἱ δὲ <w lemma="ἀνθαιρέομαι">ἀν<unclear>θε</unclear><supplied reason="lost">ιρη</supplied>
+	    					
+<lb xml:id="line_21" n="21" break="no"/><supplied reason="lost">μένοι</supplied></w>
+<name type="title"><w lemma="ταμίας">ταμίαι</w></name> <gap reason="lost" extent="unknown" unit="character"/><orig>Τ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					
+[... he will receive... ] from all the female oxen, [and also whenever] the Kasosseis sacrifice jointly, for each sacrifice from one of the animals among those sacrificed. (5) And whenever they make a "cheese-and-barley" offering and sacrifice an ox, he will receive a thigh weighing no less than 10 minai from the ox, and, during this sacrifice, he will also receive the skin and the leg from whichever ram he wishes, and he will receive a double portion (10) during all of the meetings. He will also be exempt at Kasossos from all (of the taxes and liturgies) over which the Kasosseis have authority. The purchaser of the priesthood will pay the money to (15) the appointed treasurers who (work) with Diomedes, making (three) instalments: the first in the month of Dios, the second in the month of Xandikos, the third in the month Hyperberetaios, the one [after the (20) <foreign>stephanephoros</foreign>] Apellaios. The appointed [treasurers ...]</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+[... il recevra... ] de toutes les vaches, [et aussi lorsque] les Kasosseis sacrifient en commun, de chaque sacrifice, d'un des animaux parmi ceux qui sont sacrifiés. (5) Et lorsqu'ils font une offrande de "fromage-et-orge" et qu'ils sacrifient un boeuf, qu'il reçoive une hanche du boeuf pesant non moins de 10 mines, et, durant ce sacrifice, qu'il reçoive aussi la peau et la patte du bélier qu'il souhaite, et qu'il reçoive aussi une double part (10) durant toutes les réunions. Qu'il soit aussi exempt à Kasossos de toutes (taxes et liturgies) sur lesquelles les Kasosseis ont l'autorité. L'acquéreur de la prêtrise versera l'argent (15) aux trésoriers désignés qui (travaillent) avec Diomède, en faisant (trois) versements : le premier au mois de Dios, le second au mois de Xandikos, le troisième au mois d'Hyperberetaios, celui [après le (20) stéphanéphore] Apellaios. Les [trésoriers] désignés [...] </p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+
+<p>Though the beginning of the inscription is missing, its conclusion is probably nearly entirely preserved. It is clear from the content of the later portion of the extant text, especially lines 13-21, that the document is a contract for the sale of a priesthood at Kasossos. Sales of priesthoods are well attested in the region of Karia (cf. here <ref target="CGRN_118">CGRN 118</ref>, Halikarnassos, <ref target="CGRN_119">CGRN 119</ref>, Theangela, and <ref target="CGRN_196">CGRN 196</ref>, Iasos), as well as in other areas of Asia Minor and in the islands of the eastern Aegean (e.g. on Chios, <ref target="CGRN_37">CGRN 37</ref>). As often, the first extant portion of the contract contains a detailed description of the prerogatives of the priest during a variety of sacrificial occasions (lines 1-11); exemptions from taxation and/or liturgies are also defined (lines 11-13); finally, the modalities of payment for the purchase of the office are given (lines 13-20). It is possible that further lines (20ff.) prescribed other modalities of the purchase, or perhaps the inscribing of the inscription. Additionally, a record of the purchaser and the price obtained might also have been appended to the regulation, as is also common in this type of inscription (cp. again <ref target="CGRN_37">CGRN 37</ref>, Chios, line 17).</p>
+
+<p>Having never been properly excavated, the site of Kasossos is not particularly well understood (see Blümel, vol. II, p. 121, for further refs.). Though the present inscription does not explicitly state to which cult the priesthood belongs, two other seemingly contemporary inscriptions from the site both relate to the cult of Zeus of the Kasosseis:  <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 941 is a Hellenistic regulation concerning the guarding and protection of the sanctuary of Zeus; <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 943 is a highly fragmentary regulation concerning land and inheritance but which appears to mention a sacred grove of Zeus (line 6). It is therefore highly probable that our priesthood sale concerns the cult of Zeus of the Kasosseis, the principal cult known at the site.</p>
+					
+<p> Lines 1-4: It is probable that these lines meant to set up a parallel between the perquisites the priest received during two types of sacrificial events: occasions (perhaps private sacrifices, or even sacrifices by the Mylaseis) when cows were expected to be sacrificed; and other occasions on which the community of the Kasosseis was expected to be involved as a group offering the sacrifices. The restoration [ὅταν δὲ] by Blümel seems slightly awkward, resulting in an odd string of clauses defining the conditions on which perquisites may be given to the priest: this is both "from all the oxen" (line 2) and "from one of the sacrificial animals" (lines 4-5). Rather than restoring [ὅταν δὲ] like Blümel at the end of line 2, it seems to us that a simple solution would be to change this to [καὶ ὅταν]: thus the priest will have received some portion both "from all the oxen" sacrificed, and also from only one of the animals "whenever the Kasosseis sacrifice in common". Finally, we would expect the object of λήψεται in lines 1-2 to have been defined as a concrete portion (as in lines 7-11). Being the most salient element of the sentence, it is not very likely to have been omitted by the engraver, though this is a possibility. Therefore, the object was probably specified in line 1, somewhere in the lacuna. This portion may well have been a thigh or leg, as with the other perquisites defined below.</p>
+
+<p>Lines 5-9: These lines define an at present unparelleled rite, presumably in the cult of Zeus at Kasossos. This is the making of a cheese-and-barley offering, known by the neologistic compound name τυράλφιτον. This may have taken the form of cake or bread made from the combination of these two ingredients. Intriguingly, cults of Zeus and other gods in Karia also involved unusual cakes: cf. here <ref target="CGRN_42">CGRN 42</ref> (Iasos), line 4, for ἔνθρυπτα. In any case, this clearly marked a special occasion at Kasossos and was accompanied both the sacrifice of an ox, and at least by several rams (the priest is to select from among many in order to obtain his prerogatives). The minimum weight of the ham provided from the ox is striking and also uniquely specific in ritual norms: the concern was clearly to provide a sizeable portion of meat (perhaps with the bone removed) for the priest. 10 minai was equivalent to ca. 4.3 kg. For the right to select a portion from the animal or the side of the animal of the priest's choice, cp. again <ref target="CGRN_42">CGRN 42</ref> (Iasos), line 2.</p>
+						
+<p> Lines 11-13: As Blümel remarks (with further refs.), the phraseology suggests that Kasossos could only grant local and highly circumscribed exemptions from taxation and/or liturgies to the purchaser of the priesthood: these applied only at Kasossos (presumably when the priest resided there), and only in such cases where "the Kasosseis had the authority" to grant exemptions. In other words, this may suggest that the site was not completely free or independent, and that Kasossos had at this point during the Hellenistic period become a dependent community of the nearby city of Mylasa, perhaps through a process of synoikism; cp. the situation at Chalketor near Mylasa, <ref target="CGRN_183">CGRN 183</ref>.</p>
+
+<p>Lines 13-20: This detailed section on the modalities of the payment informs us about several technical details concerning the contract. Since the first payment is to take place in Dios and this is the first month of the calendar, it is almost certain that the regulation was passed in the year of the <foreign>stephanephoros</foreign> Apellaios (line 20), perhaps during that same month; alternatively, it may have been passed when the <foreign>stephanephoros</foreign> had already been designated, in Hyperberetaios, the last month of the preceding year. The instalments are thus envisaged over the course of two years: one coming soon after the inscribing of the contract, another in Xandikos about five months later, and lastly, one at the end of the following year in Hyperberetaios. If the interpretation of the context of the regulation is correct (see Commentary on lines 11-13 above), it is probable that the officials mentioned, the <foreign>stephanephoros</foreign> and the board of <foreign>tamiai</foreign>, whose head was a certain Diomedes, are those belonging to Mylasa.</p>
+</div>
+			</body>
+    	</text>
+	</TEI>

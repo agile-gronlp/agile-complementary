@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_127" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 127</idno>: Short <rs type="textType" key="purity regulation">purity regulation</rs> from Dyme</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>
+                            <rs type="objectType">Plaque</rs> of grey stone, damaged on the upper side.</p> 
+                            <p><dimensions>
+                                <height unit="cm">48</height>
+                                <width unit="cm">40</width>
+                                <depth unit="cm">7-10</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Carefully inscribed. Letters: <height unit="cm">1.5</height>.
+                            Space between lines: <height unit="cm">0.5</height>.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0300" notAfter="-0200">ca. 300-200 BC</origDate></p>
+                        <p><desc>Justification: early Hellenistic lettering (Rizakis).</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Dyme" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570205" type="external">Dyme</ref></placeName>. Found at Petrochorion, in a sanctuary in a valley close to the village. N.B. It was not found at Patras, as has been erroneously assumed by some. Now in the Museum of Patras (inv. no. 149).</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by S Peels.</p>
+            <p> 
+               
+            </p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                <p> Edition here based on Rizakis <bibl type="abbr" n="I.Patras">I.Patras</bibl> 6.
+                
+                </p>
+                <p> Other Edition:                         
+                    <bibl type="author_date" n="Chatzis 1947-1948">Chatzis 1947-1948</bibl>: 91-93.
+                </p>
+                <p> Cf. also:
+                    Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 33; 
+                    Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 26;
+                    <bibl type="abbr" n="SEG">SEG</bibl> 40, 395.
+                </p>
+                <p> Further bibliography:
+                    <bibl type="author_date" n="Jost 1985">Jost 1985</bibl>: 326-328;
+                    <bibl type="author_date" n="Bielman 2002">Bielman 2002</bibl> no. 48;
+                    <bibl type="author_date" n="Petropoulos 2010">Petropoulos 2010</bibl>;
+                    <bibl type="author_date" n="Delli Pizzi 2011">Delli Pizzi 2011</bibl>.
+                </p>
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    
+<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="festival"><name type="deity" key="Demeter"><w lemma="Δημήτηρ">Δ<supplied reason="lost">α</supplied>
+                        
+<lb xml:id="line_2" n="2" break="no"/> ματρίοις</w></name></name> τὰς <name type="group"><w lemma="γυνή">γυν<supplied reason="lost">αῖ</supplied>
+                            
+<lb xml:id="line_3" n="3" break="no"/> κες</w></name> <w lemma="μήτε">μήτε</w> <name type="adornment"><w lemma="χρυσίον">χρυσίον</w></name> <w lemma="ἔχω">ἔ
+                                
+<lb xml:id="line_4" n="4" break="no"/> χεν</w> <w lemma="πλείων">πλέον</w> <w lemma="ὀβελός">ὀδελοῦ</w> <w lemma="ὁλκή">ὁλ
+                                    
+<lb xml:id="line_5" n="5" break="no"/> κάν</w>, <w lemma="μηδέ">μηδὲ</w> <name type="clothing"><w lemma="λώπιον">λωπίον</w></name> <name type="colour2"><w lemma="ποικίλος">ποικί
+                                        
+<lb xml:id="line_6" n="6" break="no"/> λον</w></name>, <w lemma="μήτε">μήτε</w> <name type="colour2"><w lemma="πορφύρεος">πορφυρέαν</w></name>,
+                    
+<lb xml:id="line_7" n="7"/> <w lemma="μήτε">μήτε</w> <name type="adornment"><w lemma="ψιμυθιόω">ψημυθιοῦσθαι</w></name>
+                    
+<lb xml:id="line_8" n="8"/> <w lemma="μήτε">μήτε</w> <w lemma="αὐλέω">αὐλῆν</w>· <w lemma="εἰ">εἰ</w> δέ <w lemma="κα">κα</w>
+                    
+<lb xml:id="line_9" n="9"/> <w lemma="παραβάλλω">παρβάλληται</w>, τὸ <name type="structure"><w lemma="ἱερόν">ἱ
+                        
+<lb xml:id="line_10" n="10" break="no"/> ερὸν</w></name> <name type="purification"><w lemma="καθαίρω">καθαράσθω</w></name>
+                    
+<lb xml:id="line_11" n="11"/> <w lemma="ὡς">ὡς</w> <name type="punishment"><w lemma="παρασεβέω">παρσεβέουσα</w></name>. <space extent="unknown" unit="line"/>
+
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    [...] For the Demetria, the women should not wear gold jewellery weighing more than one obol (5) or a many-coloured robe, or a purple one; and they should not wear makeup nor play the aulos. In case of disrespect of the rules, (10) she must purify the sanctuary as one who has acted impiously.
+                </p>
+                </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction </head>
+                <p>
+                   [...] pour les Demetria que les femmes ne portent ni or d'un poids supérieur à une obole, (5) ni vêtement chatoyant, ni pourpre; qu'elles ne se fardent pas et qu'elles ne jouent pas de l'aulos. En cas d'infraction, (10) qu'elle purifie le sanctuaire en tant qu'impie.        
+                </p>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p>
+                    This regulation from Dyme is only fragmentarily preserved, though perhaps not much is missing at the top. As we have it, it lists prohibitions regarding dress, makeup and jewellery, as well as the playing of the aulos, during the festival of Demeter. Transgressions of these rules is implicitly framed as a pollution of the sanctuary: whoever does not respect the guidelines should purify not herself, but rather the sanctuary. For similar short regulations concerned with norms of proper behaviour in sanctuaries, and associated infractions resulting in the requirement to perform purifications, see the examples cited below.</p>
+                <p>The context of the find is not completely understood, though it has recently been revisited by Petropoulos (summary in <bibl type="abbr" n="SEG">SEG</bibl> 60, 482 and 483). Illegal excavations have yielded traces of a sanctuary with numerous terracotta figurines and rooftiles, most likely suggesting a extra-urban sanctuary of Demeter. We may reasonably presume that the stele will have been usefully set up in a location visible to the female worshippers attending the sanctuary.</p>
+ 
+                <p>Lines 3-6: Similar restrictions on wearing gold and on bright-coloured or purple clothes are found elsewhere, and may occur particularly conspicuously in cults of Demeter. For a detailed discussion, cf. <ref target="CGRN_126">CGRN 126</ref> (Lykosoura); cp. also <ref target="CGRN_222">CGRN 222</ref> (Andania), though with a wider range of deities involved in the cult.</p>
+                    
+                <p>Line 8: Explicit regulations against music are rare in the present Collection (cp. perhaps demands for <foreign>euphemia</foreign>, implicitly ritual silence, <ref target="CGRN_86">CGRN 86</ref> A, Kos, lines 31-32, but these are less specific). Le Guen-Pollet associates the restriction against aulos-playing with the "chthonic" character of the goddess Demeter. Though this inference may have some truth to it, since rituals for Demeter are sometimes marked by sombreness or at least solemnity, the "chthonic" designation also represents an overinterpretation in the absence of any further knowledge of the epithet of Demeter or the characteristics of her festival, the Demetrieia.</p>
+ 
+ <p>Lines 9-11: Other regulations in the present Collection also aim to curb illicit behaviour in specific sanctuaries and to prescribe purification as the remedy. In a parallel inscription from Kos, it is stated that no one may throw cakes in the springs of the sanctuary; the punishment for transgression of this ritual norm is a purification of the sanctuary: cf. <ref target="CGRN_140">CGRN 140</ref>, lines 5-9. A further, yet again different, case is presented in <ref target="CGRN_90">CGRN 90</ref> from Ialysos, where it is forbidden to introduce certain animals, shoes and anything else made from a pig; the transgressor should again purify the sanctuary. In all of these cases, as here at Dyme, the precise mode of purification is left implicit, perhaps to be defined by local norms (such as those specifically for impious individuals) and/or prescribed by local cult personnel. We may surmise that the purification will have involved a degree of washing or other cathartic rituals, perhaps concluded by an expiatory sacrifice. The unusual verb παρασεβέω, a virtual <foreign>hapax legomenon</foreign> (except in the apocryphal <title>Acta Philippi</title> 64.3), seemingly denotes that an individual acts "beyond what is respectful" to the gods, perhaps an analogous (or even stronger?) sense of ἀσέβεια. Cp. especially the phrasing in the regulation from Gambreion, <ref target="CGRN_108">CGRN 108</ref>, lines 25-26, where women disobeying the oath will be barred from sacrifices for ten years, "as individuals who have acted impiously" (ὡς ἀσεβούσαις). On impiety in ritual norms, see Delli Pizzi.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

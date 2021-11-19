@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_157" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 157</idno>: Fragment of a <rs type="textType" key="decree">decree</rs> concerning the priesthood (?) of Sarapis and Isis at Priene</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Sylvain Lebreton</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support>
+                            <p>Marble quadrangular <rs type="objectType">block</rs>, damaged and broken on the left. The block was probably originally a part of an <foreign>anta</foreign>.</p>
+
+                            <p><dimensions>
+                                <height unit="cm">66</height>
+                                <width unit="cm">26</width>
+                                <depth unit="cm">32</depth>
+                            </dimensions></p>
+
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout>
+
+                            <p>The inscribed surface of the stone is strongly eroded. According to the photo in <bibl type="abbr" n="IK.Priene">IK.Priene</bibl>, the text is cramped and not easily legible, but the layout seems quite regular, though the lines are incomplete on the right. The beginning as well as the end of the text is lost.</p>
+                            <p>Letters: <height unit="cm">0.9</height> cm. Space between lines: <height unit="cm">0.6</height> cm. </p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0225" notAfter="-0175">ca. 200 BC</origDate></p>
+
+                        <p><desc>Justification: lettering (Hiller von Gaertringen; Blümel - Merkelbach)</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Priene" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599905" type="external">Priene</ref></placeName>. Found reused in a late wall in the sanctuary of the Egyptian Gods, located northeast of the lower town of Priene. Three other inscriptions pertaining to the cult of these gods have been found there: two hellenistic dedications (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 197 and 198, see commentary below), and a graffito probably referring to Isis from the Roman imperial period (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 199). Actual location unknown; squeeze in the archives of the <title>Inscriptiones Graecae</title> in Berlin (see the photo in <bibl type="abbr" n="IK.Priene">IK.Priene</bibl>).</p>
+                    </provenance>
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 27-10-2015 by S.G. Caneva.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Last revised by XX in 20XX.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"/></facsimile>
+    <text>
+        <body>
+            <div type="bibliography">
+                <head>Bibliography</head>
+
+                <p> Edition here based on Blümel - Merkelbach <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 196, with German transl. and ph. vol. II, p. 136.
+                </p>
+                <p> Other edition:
+                    Hiller von Gaertrigen <bibl type="abbr" n="I.Priene">I.Priene</bibl> 195.
+                 </p>
+
+                <p> Cf. also:
+                    Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 36; <bibl type="abbr" n="SEG">SEG</bibl> 15, 688; Vidman <bibl type="abbr" n="SIRIS">SIRIS</bibl> 294;
+                    Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 83 (French transl.);
+                    Bricault <bibl type="abbr" n="RICIS">RICIS</bibl> 304/0802.
+                                    </p>
+
+                <p> Further bibliography:
+                    <bibl type="author_date" n="Debord 1982">Debord 1982</bibl>: 92-94;
+                    <bibl type="author_date" n="Rumscheid 1998">Rumscheid 1998</bibl>: 190-194;
+                    <bibl type="author_date" n="Stavrianopoulou 2009">Stavrianopoulou 2009</bibl>: 216-220;
+                    <bibl type="author_date" n="Patera 2010b">Patera 2010b</bibl>: 226;
+                    <bibl type="author_date" n="Wiemer - Kah 2011">Wiemer - Kah 2011</bibl>.
+                </p>
+
+            </div>
+            <div type="edition">
+
+                <head>Text</head>
+
+                             <ab>
+                    <lb/><gap reason="lost" extent="unknown" unit="line"/>
+                                 <lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Sarapis"><w lemma="Σάραπις"><supplied reason="lost">Σαράπιδι</supplied></w></name> <supplied reason="lost">καὶ</supplied>
+
+                                 <lb xml:id="line_2" n="2"/><supplied reason="lost">τῆι</supplied> <name type="deity" key="Isis"><w lemma="Ἶσις"><supplied reason="lost">Ἴσιδι</supplied></w></name> <supplied reason="lost">κ</supplied><unclear>α</unclear>ὶ τοῖς <name type="deity" key="unclear"><w lemma="θεός">θε<supplied reason="lost">οῖς</supplied></w></name> <supplied reason="lost">τοῖς <w lemma="σύν">σὺν</w></supplied> <w lemma="αὐτός"><supplied reason="lost">αὐτοῖς</supplied></w><supplied reason="lost">,</supplied> <w lemma="μείς"><supplied reason="lost">μηνὸς</supplied></w> <name type="month"><w lemma="Ἀπατουριών"><supplied reason="lost">Ἀπατου</supplied>
+
+                                 <lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">ριῶνος</supplied></w></name> <w lemma="εἴκοσι"><supplied reason="lost">ε</supplied>ἰκάδι</w> <w lemma="συντελέω">συν<unclear>τ</unclear><supplied reason="lost">ελ</supplied><gap reason="lost" extent="unknown" unit="character"/></w>
+
+                                 <lb xml:id="line_4" n="4"/><gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">ὁ</supplied> <name type="personnel"><w lemma="νεωποίης"><supplied reason="lost">νεω</supplied><unclear>π</unclear>όης</w></name> <w lemma="εἰς">εἰς</w> τὴν <name type="sacrifice"><w lemma="θυσία"><unclear>θ</unclear><supplied reason="lost" cert="low">υσίαν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_5" n="5"/><gap reason="lost" quantity="4" unit="character"/> <w lemma="δίδωμι"><supplied reason="lost">δίδ</supplied>οσ<unclear>θ</unclear>αι</w> <w lemma="εἰς">εἰς</w> <gap reason="lost" quantity="8" unit="character"/> τὸ <name type="structure"><w lemma="ἱερόν">ἱ<supplied reason="lost" cert="low">ερὸν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_6" n="6"/><gap reason="lost" quantity="4" unit="character"/><orig><unclear>Ε</unclear>Ι</orig><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character" cert="low"/><orig>ΩΙ</orig> <w lemma="δραχμή">δραχμὰς</w> <w lemma="τέσσαρες">τέ<unclear>σ</unclear>σερ<supplied reason="lost">ας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_7" n="7"/><gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">κ</supplied><unclear>α</unclear>ὶ <w lemma="εἰς">εἰς</w> <name type="sacrifice"><w lemma="θυσία"><unclear>θ</unclear>υσίαν</w></name> τῶι <name type="deity" key="Sarapis"><w lemma="Σάραπις">Σ<unclear>α</unclear>ρά<supplied reason="lost">πιδι</supplied></w></name> <supplied reason="lost">καὶ τῆι</supplied> <name type="deity" key="Isis"><w lemma="Ἶσις"><supplied reason="lost">Ἴσιδι</supplied></w></name> <w lemma="κατά"><supplied reason="lost">καθ’</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἕ</supplied>
+
+                                     <lb xml:id="line_8" n="8" break="no"/><supplied reason="lost">κ</supplied><unclear>α</unclear>στον</w> <w lemma="ἐνιαυτός">ἐ<supplied reason="lost">νι</supplied><unclear>α</unclear>υτὸμ</w> <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ἀπατουριών">Ἀπατουριῶ<supplied reason="lost">νος</supplied></w></name> <w lemma="εἴκοσι"><supplied reason="lost">εἰκάδι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_9" n="9"/><gap reason="lost" quantity="2" unit="character"/>ας <w lemma="δύο">δύο</w>· <name type="sacrifice"><w lemma="θύω">θύσει</w></name> δὲ ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> τῶι <name type="deity" key="Sarapis"><w lemma="Σάραπις">Σαρά<supplied reason="lost">πιδι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_10" n="10"/><supplied reason="lost">κ</supplied>αὶ τ<unclear>ῆ</unclear>ι <name type="deity" key="Isis"><w lemma="Ἶσις">Ἴσιδι</w></name> τῶν <name type="authority"><w lemma="νομίζω">νομιζομένων</w></name> <name type="animal" key="bird"><w lemma="νεοσσός">νοσ<supplied reason="lost">σῶν</supplied></w></name> <supplied reason="lost"><w lemma="δύο">δύο</w> καὶ <name type="genericOffering"><w lemma="τίθημι">θήσει</w></name> <w lemma="ἐπί">ἐπὶ</w></supplied>
+
+                                 <lb xml:id="line_11" n="11"/><name type="structure"><w lemma="τράπεζα"><supplied reason="lost">τ</supplied>ραπέ<unclear>ζ</unclear><supplied reason="lost">η</supplied>ς</w></name>· <w lemma="συντελέω">συντελ<supplied reason="lost">έσ</supplied><unclear>ε</unclear>ι</w> δὲ καὶ τὰς <w lemma="ἄλλος">ἄλλ<supplied reason="lost">ας</supplied></w> <supplied reason="lost"><name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> τῶι</supplied>
+
+                                 <lb xml:id="line_12" n="12"/><name type="deity" key="Sarapis"><w lemma="Σάραπις">Σαράπιδι</w></name> καὶ τῆι <name type="deity" key="Isis"><w lemma="Ἶσις">Ἴσιδι</w></name> καὶ τοῖς <name type="deity" key="unclear"><w lemma="θεός">θεοῖς</w></name> το<supplied reason="lost">ῖς <w lemma="σύν">σὺν</w> <w lemma="αὐτός">αὐτοῖς</w></supplied>
+
+                                 <lb xml:id="line_13" n="13"/>καὶ τὴν <name type="festival"><w lemma="λαμπαδεία">λαμπαδείαν</w></name> τῆι <name type="deity" key="Isis"><w lemma="θεά">θεᾶι</w></name> καθότ<supplied reason="lost">ι <name type="authority"><w lemma="ἐθίζω">εἴθισται</w></name>· <w lemma="παρίστημι">παραστήσει</w></supplied>
+
+                                 <lb xml:id="line_14" n="14"/>δὲ ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> καὶ τῆι <name type="festival"><w lemma="λαμπαδεία">λαμπαδείαι</w></name> τον<gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_15" n="15" break="no"/>ως <name type="object"><w lemma="λαμπάς"><supplied reason="lost">λ</supplied><unclear>α</unclear>μ<supplied reason="lost">π</supplied>άδας</w></name> <w lemma="ταλαντιαῖος">ταλαντιαίας</w> <w lemma="δύο">δύο</w>· <name type="sacrifice"><w lemma="θύω"><unclear>θ</unclear>ύ<supplied reason="lost">σει</supplied></w></name> <supplied reason="lost">δὲ ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name></supplied>
+
+                                 <lb xml:id="line_16" n="16"/>καὶ τῶι <name type="deity" key="Apis"><w lemma="Ἆπις"><supplied reason="lost">Ἄ</supplied>πιδι</w></name> <w lemma="ἐν">ἐν</w> τοῖς <w lemma="χρόνος"/>χρόνοις τοῖς <name type="authority"><w lemma="νόμιμος">νο<supplied reason="lost">μίμοις</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_17" n="17"/><orig><unclear>ΣΕ</unclear>Ι<unclear>Μ</unclear>Ω<unclear>Λ</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig>ΔΙ</orig> <supplied reason="lost">κ</supplied><unclear>α</unclear>θότι <name type="authority"><w lemma="νομίζω">νομίζεται</w></name>
+                    ὁ κ<supplied reason="lost">α</supplied><unclear>θ</unclear>ιστ<gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_18" n="18"/>θήσει <supplied reason="lost">δὲ</supplied> ὁ <name type="personnel"><w lemma="νεωποίης">νεωπόης</w></name> <w lemma="ἀπό">ἀπὸ</w> τοῦ <w lemma="ἐξαιρέω">ἐξαιρου<unclear>μ</unclear><supplied reason="lost">ένου</supplied></w> <name type="portion"><w lemma="μέρος"><supplied reason="lost">μέρους</supplied></w></name> <name type="vegetal"><w lemma="κριθή"><supplied reason="lost">κρι</supplied>
+
+                                     <lb xml:id="line_19" n="19" break="no"/>θῶ<unclear>ν</unclear></w></name> <w lemma="τέταρτος">τε<supplied reason="lost">τ</supplied>αρτῆ</w>, <name type="vegetal"><w lemma="πυρός">πυρῶν</w></name> <w lemma="τέταρτος"><supplied reason="lost">τε</supplied>ταρτ<supplied reason="omitted">έ</supplied>ας</w> <w lemma="δύο"><unclear>δ</unclear>ύο</w> <orig>Υ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_20" n="20"/><orig>Λ<unclear>Η</unclear>Ν</orig> <w lemma="χαλκός">χ̣αλκῶν</w> <w lemma="ἑπτά"><unclear>ἑ</unclear>πτ’</w> <w lemma="ὀβολός">ὀβολούς</w>· <w lemma="παρέχω">παρέ<supplied reason="lost">ξ</supplied>ε<supplied reason="lost">ται</supplied></w> <supplied reason="lost">δὲ ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> καὶ</supplied>
+
+                                 <lb xml:id="line_21" n="21"/><unclear>τ</unclear>ὸν <name type="personnel"><name type="ethnic" key="Egypt"><name type="person"><w lemma="Αἰγύπτιος">Αἰγύπτιον</w></name></name></name> τὸν <w lemma="συντελέω">συντελέσοντα</w> τὴ<supplied reason="lost">ν</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_22" n="22"/>μὴ <name type="authority"><w lemma="ἔξειμι">ἐξέστω</w></name> δὲ <w lemma="μηθείς">μηθενὶ</w> <w lemma="ἄλλος">ἄλλωι</w> <w lemma="ἄπειρος">ἀπείρως</w> τὴ<supplied reason="lost">ν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> <w lemma="ποιέω">ποεῖν</w> τῆι</supplied>
+
+                                 <lb xml:id="line_23" n="23"/><name type="deity" key="Isis"><w lemma="θεά">θε<unclear>ᾶ</unclear>ι</w></name> <unclear>ἢ</unclear> <w lemma="ὑπό">ὑπὸ</w> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name>· <unclear>ε</unclear>ἰ δέ <name type="person"><w lemma="τις">τις</w></name> <w lemma="ἄλλος">ἄλλος</w> <w lemma="ἄπειρος">ἀ<unclear>π</unclear><supplied reason="lost">είρως</supplied></w> <w lemma="ποιέω"><supplied reason="lost">ποῆι</supplied></w><supplied reason="lost">,</supplied>
+<name type="punishment"><w lemma="ζημιόω"><supplied reason="lost">ζημιούσ</supplied>
+
+                                     <lb xml:id="line_24" n="24" break="no"/><supplied reason="lost">θ</supplied>ω</w></name> <w lemma="δραχμή">δραχμὰς</w> <w lemma="χίλιοι">χιλίας</w> <unclear>κ</unclear>αὶ <name type="authority"><w lemma="εἰμί">ἔστω</w></name> <w lemma="φάσις">φάσι<unclear>ς</unclear></w> <w lemma="αὐτός"><unclear>αὐ</unclear><supplied reason="lost">τοῦ</supplied></w> <supplied reason="lost"><w lemma="πρός">πρὸς</w></supplied> <supplied reason="lost">τοὺς</supplied> <name type="title"><w lemma="ἄρχων"><supplied reason="lost">ἄρ</supplied>
+
+                                     <lb xml:id="line_25" n="25" break="no"/><unclear>χ</unclear>ον<supplied reason="lost">τα</supplied>ς</w></name> <gap reason="lost" quantity="1" unit="character"/><unclear>ε</unclear><gap reason="lost" quantity="1" unit="character"/><unclear>εα</unclear> <w lemma="λαμβάνω">λήψεται</w> τῶν <gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="2" unit="character"/><orig>ν</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_26" n="26"/><unclear>τ</unclear>ου καὶ <name type="sacrifice"><w lemma="ἐπίσπονδον">ἐπίσπονδον</w></name> <name type="liquid"><w lemma="οἶνος">οἴνου</w></name> <orig>κ</orig><gap reason="lost" quantity="3" unit="character"/><orig>Λ</orig><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_27" n="27"/>μ<unclear>έ</unclear>νωγ καὶ <name type="structure"><w lemma="τράπεζα">τραπεζῶν</w></name> τῶγ <name type="genericOffering"><w lemma="κοσμέω">κοσμουμένων</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_28" n="28" break="no"/>τη· <w lemma="ἀπό">ἀπὸ</w> δὲ τῶν <name type="structure"><w lemma="τράπεζα">τραπε<unclear>ζ</unclear>ῶν</w></name> ὧν ἂν <name type="group"><w lemma="δῆμος"><unclear>δ</unclear>ῆ<unclear>μ</unclear><supplied reason="lost">ος</supplied></w></name> <w lemma="κοσμέω"><supplied reason="lost">κοσμῆι</supplied></w> <w lemma="δίδωμι"><supplied reason="lost">δεδόσθω</supplied></w>
+
+                     <lb xml:id="line_29" n="29"/><supplied reason="lost">τ</supplied>οῖς <name type="person"><w lemma="κατέχω">κατεχομένοις</w></name> <w lemma="ὑπό">ὑπὸ</w> τοῦ <name type="deity" key="Sarapis"><w lemma="θεός">θεοῦ</w></name> τ<unclear>ε</unclear> <gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="λαμβάνω"><supplied reason="lost">λήψεται</supplied></w></name> <supplied reason="lost">δὲ</supplied>
+
+<lb xml:id="line_30" n="30"/>ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> <w lemma="παρά">παρὰ</w> τοῦ <name type="personnel"><w lemma="νεωποίης">νεωποίου</w></name> καὶ τ<supplied reason="lost">ὸ</supplied> <w lemma="ἀργύριον"><supplied reason="lost" cert="low">ἀργύριον</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_31" n="31"/>τὸ <name type="authority"><w lemma="τάσσω">τεταγμένον</w></name> <w lemma="κατά">κατὰ</w> τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισ<supplied reason="lost">μα</supplied></w></name> <supplied reason="lost"><w lemma="οὗτος">τόδε</w> <w lemma="εἰς">εἰς</w> τὴν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name></supplied>
+
+                                 <lb xml:id="line_32" n="32"/>ἥ<unclear>τ</unclear>ις <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Ἀπατουριών">Ἀπα<unclear>τ</unclear>ουριῶνι</w></name> τῆι <w lemma="εἴκοσι">εἰκά<supplied reason="lost">δι</supplied></w> <w lemma="συντελέω"><supplied reason="lost">συντελεῖται</supplied></w><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/> <name type="liquid"><w lemma="οἶνος"><supplied reason="lost">οἴ</supplied>
+
+                                     <lb xml:id="line_33" n="33" break="no"/><unclear>ν</unclear>ου</w></name> <supplied reason="lost">δ’</supplied> <w lemma="αὐτός">αὐτῶι</w> <w lemma="ἐξαιρέω">ἐξαι<supplied reason="lost">ρ</supplied>ε<supplied reason="omitted">ῖ</supplied>σθαι</w> <orig>εχο</orig><gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="λαμβάνω"><supplied reason="lost">λήψε</supplied>
+
+                                         <lb xml:id="line_34" n="34" break="no"/><supplied reason="lost">τ</supplied>αι</w></name> δὲ ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> καὶ <w lemma="παρά">παρὰ</w> τῶν <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_35" n="35"/><gap reason="lost" quantity="3" unit="character"/>σαντα <orig>ΣΙΟΙΑ</orig> <name type="authority"><w lemma="εἰμί">ἔ<unclear>στ</unclear>ωσαν</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_36" n="36"/><supplied reason="lost">τὸ </supplied><name type="structure"><w lemma="ἱερόν"><supplied reason="lost">ἱερ</supplied>ὸν</w></name> <name type="purification"><w lemma="καθαίρω">κα<unclear>θα</unclear>ιρέτω</w></name> <name type="animal" key="bird"><w lemma="νεοσσός">νοσσ<supplied reason="lost">ῶι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+                                 <lb xml:id="line_37" n="37"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> τὰ δὲ <w lemma="ἐκ">ἐκ</w> τοῦ <name type="structure"><w lemma="θησαυρός">θησ<supplied reason="lost">αυροῦ</supplied></w></name> <supplied reason="lost"><w lemma="γίγνομαι">γενόμενα</w> <name type="authority"><name type="genericOffering"><w lemma="δίδωμι">δεδόσθω</w></name></name> <w lemma="ὑπό">ὑπὸ</w> τοῦ</supplied>
+
+                                 <lb xml:id="line_38" n="38"/><name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱερέ</supplied>ως</w></name> τοῖς <name type="deity"><w lemma="θεός">θεοῖς</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                                 <lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+                </ab>
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>[... to Sarapis and to Isis] and to the gods [who are with them], on the 20th [of the month Apatourion], the <foreign>neopoios</foreign> should perform (?) [the ...] for the [sacrifice (?) ... (5) ...] give for [...] the [sanctuary (?) ...] 4 (?) drachmae [...] and for the sacrifice to Sarapis [and to Isis], each year, [the 20th] of the month Apatourion two [...]; the priest shall sacrifice to Sarapis [...] (10) and to Isis, [two] of the customary young chickens [and he shall deposit them on the] table; he shall also perform the other [sacrifices to] Sarapis, to Isis and to the gods who [are with them] and the torchlit celebration for the goddess as [it is customary]; the priest [shall] also [provide] for the torchlit celebration [...] (15) two lamps (i.e. torches?) of a talent (each); [the priest] shall also sacrifice to Apis at prescribed times [...] as it is prescribed [...]; the <foreign>neopoios</foreign> shall deposit, from the set aside [portion] of barley, a fourth measure of barley, two quarter measures of wheat [...] (20) 7 bronze obols; [the priest] shall [also] provide the Egyptian man who is to perform the [...]; let it be permitted to no one else [to make the sacrifice for the] goddess in an inexperienced way, except by the priest. If someone else [performs it in an incompetent way], let him pay a fine of 1000 drachmae and let there a denunciation [before the] archons ; (25) [...] he shall receive, from the [...] and a libation of wine [...] and from the adorned tables [...]; from the tables that the people [adorn, he must give] for those who are held by the god [...]; (30) the priest [shall] also [receive] from the <foreign>neopoios</foreign> [the money (?) ...] prescribed by [this] decree [for the sacrifice] which is [performed] on the 20th of the month of Apatourion; [...] of wine to set aside for him [...] the priest [shall] also [receive] from the [... (35) ...] they shall be [...]; he shall purify [the sanctuary] with a young chicken [...]; the (funds) [coming] from the money-box [shall be given by the priest] to the gods [...]
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>[... à Sarapis et à Isis] et aux dieux [qui sont avec eux] le 20 [du mois d'Apatourion], le néope accomplira (?) [le ...] pour le [sacrifice (?) ... (5) ...] donnera pour [...] le [sanctuaire (?) ...] 4 (?) drachmes [...] [...] et pour le sacrifice à Sarapis [et à Isis], chaque année, [le 20] du mois d'Apatourion [...] deux [...]; le prêtre sacrifiera à Sarapis [...] (10) et à Isis, [deux] des volailles traditionnelles, [et il les déposera sur la] table; il accomplira aussi les autres [sacrifices à] Sarapis, à Isis et aux dieux qui [sont avec eux] et la fête aux flambeaux pour la déesse comme [il est d'usage]; le prêtre [mettra] aussi [à disposition] pour la fête aux flambeaux [...] (15) deux lampes d'un talent (chacune); [le prêtre] sacrifiera aussi à Apis aux temps prescrits [...] comme le prescrit le [...] établi (?) [...]; le néope déposera, sur la [part] provisionnelle d'orge, un quart, (sur celle) de froment, deux quarts [...] (20) 7 oboles de bronze; [le prêtre] recrutera [aussi] l'Égyptien qui accomplira la [...]; il ne sera permis à personne d'autre, sans compétence, [de faire le sacrifice pour la] déesse, sinon par le prêtre; si quelqu'un d'autre, sans compétence, [le faisait, qu'il soit redevable] de 1000 drachmes et que [son] accusation soit faite [devant les] archontes; (25) [...] il recevra, des [...] et une libation de vin [...] et des tables apprêtées [...]; des tables que le peuple [apprêtera, il donnera] pour ceux qui sont détenus par le dieu [...]; (30) le prêtre [recevra] aussi du néope [l'argent (?) ...] prévu par [ce] décret [pour le sacrifice] qui est [accompli] le 20 du mois d'Apatourion; [...] prélever pour lui-même du vin [...] le prêtre [recevra] aussi de la part des [... (35) ...] qu'ils soient [...]; qu'il purifie [le sanctuaire] avec une volaille [...]; que les (fonds) [provenant] du tronc à offrandes [soient donnés par le prêtre] aux dieux [...]
+                </p>
+            </div>
+            <div type="commentary">
+                <head>Commentary</head>
+                <p>This fragmentary decree (cf. line 31), found in the sanctuary of the Egyptian deities, lists sacrifices and rituals which are to be performed by the civic priest and funded by the <foreign>neopoios</foreign>; publicly funded offerings are also mentioned in line 28. As preserved, the main concern of the regulation seems to be to detail the duties and prerogatives of the priest. As such, the text may have been a διαγραφή, a contract of sale for the priesthood (for this hypothesis, see Wiemer - Kah); alternatively, it could reflect the city's decision to transform the cult of the Egyptian gods from a private to a public one; this appears more clearly in the nearly contemporary <ref target="CGRN_187">CGRN 187</ref> from Magnesia-on-the-Maeander. For further discussion of both these hypotheses, cf. Le Guen-Pollet; for sales of priesthoods from Priene in the present Collection, see <ref target="CGRN_175">CGRN 175</ref>, <ref target="CGRN_176">CGRN 176</ref> and <ref target="CGRN_177">CGRN 177</ref>.</p>
+
+                <p>In terms of its content, the text seems to mention a major festival on the 20th of Apatourion and other sacrifices to Sarapis and Isis (lines 1-11), a nightly procession (lines 13-15) perhaps associated with the principal festival, and a sacrifice to Apis (line 16). The second half of the text, equally fragmentary, includes prescriptions about the supply of cereals and grains by the <foreign>neopoios</foreign> (lines 18-20), the recruitment of an Egyptian ritual expert or specialist (lines 20-25), the adornment of cultic tables and distribution of their contents to certain individuals in the sanctuary (lines 27-29), the purification of the sanctuary (line 36) and the administration of the money deposited in the <foreign>thesauros</foreign> (line 37).</p>
+
+                    <p> Lines 1-2 (idem 11-12): On the expression "those who are with them", cf. Patera, according to whom the phrase does not necessarily imply that these divinities share the same sanctuary or altar. Yet it seems to have been the case in this sanctuary, since a common altar of Isis, Sarapis and Anubis has been found (cf. <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 197, 3rd century BC). Apis may have been one of the gods, cf. line 16, and also, possibly at the same time or at least a century later, Harpocrates and Heracles Aniketos, cf. <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 198 (end of 2nd century BC).</p>
+
+                <p> Lines 2-3 (idem 7-8 and 31-32): The annual θυσία of the 20th of Apatourion (the third month, occurring in winter at Priene) corresponds to the Egyptian festival of Osiris during the month of Hathyr, also known as the Is(e)ia (cf. Bricault, with references).</p>
+
+                <p> Line 4 (idem 18 and 30): The <foreign>neopoios</foreign> in Priene was the official in charge of the administration of the sanctuary. He collected the sums paid by purchasers of priesthoods (cf. <ref target="CGRN_176">CGRN 176</ref>, lines 30-31). Here, he gives to the priest the funds and provisions needed for the cult, a role quite similar to that of the <foreign>oikonomoi</foreign> at Magnesia-on-the-Maeander (cf. <ref target="CGRN_187">CGRN 187</ref>, lines 4 and 16). He is no doubt to be distinguished from the <foreign>neokoros</foreign>, probably an official of the sanctuary, who dedicated an altar to the Egyptian gods in Priene a century later (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 198).</p>
+
+                <p>Line 10: The word νοσσός (= νεοσσός) refers literally to a young bird, a nestling, or a chick (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v.), and here more widely may indicate poultry or chickens of either gender (or any age). Cp. <bibl type="abbr" n="IG II²">IG II²</bibl> 1367 (<bibl type="abbr" n="LSCG">LSCG</bibl> 52), for a hen sacrificed to Nephthys and Osiris in Boedromion at Athens; geese and guinea fowl were offered to Isis at Tithorea (Paus. 10.32.16). From the reference to "customary" sacrifices it appears that the cult is not new, but meant to be perceived as "traditional"; indeed, many parts of the rituals need to follow a pre-existing norm (cp. line 13, καθότ[ι εἴθισται]; line 16: ἐν τοῖς χρόνοις τοῖς νο[μίμοις] and line 17: [κ]<unclear>α</unclear>θότι νομίζεται ὁ κ[α]<unclear>θ</unclear>ιστ[...]).</p>
+
+                <p> Lines 10-11: The offerings placed on a cult table usually went to the priest; cp. <ref target="CGRN_206">CGRN 206</ref>, lines 12-15; cf. Bricault for further references in an Isiac context.</p>
+
+                <p> Lines 13-15: Τhe λαμπαδεία was a nighttime procession with torches, possibly commemorating Isis' quest for Osiris (Le Guen-Pollet), or at least representative of the importance of lamps in Isiac cult (cf. Bricault and Blümel - Merkelbach for further references). Since the "lamps" here are to weight two talents (50-52 kg) each, giant torches or bundles for burning must have been intended (cp. those used during the Eleusinian mysteries). For λαμπαδείαι in different cults, cf. e.g. here <ref target="CGRN_165">CGRN 165</ref>, line 12 (regulation of the cult of Artemis on Kos).</p>
+
+                <p> Line 16: For other (rare) occurrences of Apis in inscriptions, cf. Bricault.</p>
+
+                <p> Lines 20-23: The lacuna makes it difficult to interpret the specificities of the ritual and the apparent need of an "Egyptian" specialist to perform it (on the subject, see Stavrianopoulou). One may think of the linguistic competence required for a song or any other type of prayer performed in Egyptian language (cp. Porph. <title>Abst.</title>  4.9.5: the hymnod of the sanctuary of Sarapis, probably at Alexandria, uses the Egyptian language to wake the god). Other forms of ritual (such as sacrificial) expertise are also possible.</p>
+
+                <p> Line 23: The correct interpretation of the adverb ἀπείρως is not completely clear: does this mean that only the priest may perform ritual actions (sacrifice?) since others would not be able to do so in the proper way? Or is it allowed for individuals to sacrifice, provided they do so in a "skilled manner"? For cases in which individuals can explicitly make sacrifices themselves, cf. here <ref target="CGRN_36">CGRN 36</ref> (Chios), lines 7-11, and <ref target="CGRN_128">CGRN 128</ref> (Lissos).</p>
+
+               <p> Lines 23-25: The very high fine, as well as the fact that the offender is to be accused before the archons, shows the great concern of the city in controlling this cult and guaranteeing the "authenticity" and adequate performance of the rituals at its core.</p>
+
+                <p> Line 26: The word ἐπίσπονδον is an apparent <foreign>hapax legomenon</foreign>. This term may be synonymous to a σπονδή (cp. Th. 5.32 for the compound term ἐπισπονδή, used of supplementary treaties), and thus mean an "additional libation of wine" (Blümel - Merkelbach). Alternatively, it may refer to the remainder of wine left over after the libations (cf. Sokolowski, with parallels). The fragmentary state of the inscription makes it impossible to draw a definite conclusion. For the use of wine in the cult of Sarapis, cf. also <ref target="CGRN_187">CGRN 187</ref> (Magnesia-on-the-Maeander), lines 27-28.</p>
+
+                <p> Lines 27-28: For the notion of "dressing" a table with offerings, cf. here <ref target="CGRN_94">CGRN 94</ref> (Eleusis), lines 14-15.</p>
+
+                <p> Line 29: The precise identification of the individuals "held fast by the god" remains problematic. As it appears here, they are fed from the offerings on the table while they are kept in the sanctuary. A reference to sacred slaves, or to refugees seeking asylum in the sanctuary, by this description is unexpected, but possible (cf. Debord). Perhaps these persons should rather be identified with ἐγκάτοχοι, the recluse who stayed in Sarapieia (esp. in Memphis) in order to be healed by incubation (Blümel - Merkelbach).</p>
+
+                <p> Line 36: The precise context of the prescribed purification by the sacrifice of a chicken and its agency eludes us, but it may be that this was a purification of the sanctuary performed by the priest, using the blood of the animal. See the commentary at line 10 above; and cp. <ref target="CGRN_136">CGRN 136</ref>, lines 23-24: the sanctuary of Aphrodite Pandemos in Athens was purified with a dove, a bird often associated with this goddess.</p>
+
+                <p> Lines 37-38: The expression refers to sacrificial fees which had been deposited into the money-box; these funds were designated as sacred money belonging to Sarapis and Isis. On sacrificial tariffs and the collection of fees in money-boxes, cf. here <ref target="CGRN_70">CGRN 70</ref> (Oropos), with commentary and further references; cf. Bricault for cases in an Isiac context.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

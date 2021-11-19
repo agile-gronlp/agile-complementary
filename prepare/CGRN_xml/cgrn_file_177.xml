@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_177" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 177</idno>: <rs type="textType" key="priestly contract">Contract of sale for the priesthood</rs> of Poseidon Helikonios at Priene (3 copies)</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Sylvain Lebreton</author>
+	    			<author>Saskia Peels</author>
+
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p>A: four fragments (fr. Aa-d) of a marble (?) <rs type="objectType">stele</rs>, broken on all sides. Fragments Aa-c are joining.</p>
+
+		<p> Aa-c: <dimensions>
+			<height unit="cm">58</height>
+			<width unit="cm">46</width>
+			<depth unit="cm">15</depth>
+		</dimensions> </p>
+
+		<p> Ad: <dimensions>
+			<height unit="cm">40</height>
+			<width unit="cm">33</width>
+			<depth unit="cm">12</depth>
+		</dimensions> </p>
+
+		<p>B: eight fragments (fr. Ba-h) of a white marble <rs type="objectType">stele</rs>, broken on all sides. It is not certain that the two last fragments belong to the same inscription (probable for Bg, more hypothetical for Bh).</p>
+
+		<p>Ba: <dimensions>
+			<height unit="cm">20</height>
+			<width unit="cm">32</width>
+			<depth unit="cm">7</depth>
+		</dimensions></p>
+
+		<p> Bb: <dimensions>
+			<height unit="cm">27</height>
+			<width unit="cm">25</width>
+			<depth unit="cm">10</depth>
+		</dimensions></p>
+
+		<p> Bc: <dimensions>
+			<height unit="cm">34</height>
+			<width unit="cm">37.5</width>
+			<depth unit="cm">10</depth>
+		</dimensions></p>
+
+		<p> Bd: <dimensions>
+			<height unit="cm">27</height>
+			<width unit="cm">22</width>
+			<depth unit="cm">13</depth>
+		</dimensions></p>
+
+		<p> Be: <dimensions>
+			<height unit="cm">32</height>
+			<width unit="cm">25</width>
+			<depth unit="cm">14</depth>
+		</dimensions></p>
+
+		<p> Bf: <dimensions>
+			<height unit="cm">unknown</height>
+			<width unit="cm">unknown</width>
+			<depth unit="cm">13</depth>
+		</dimensions></p>
+
+		<p> Bg: <dimensions>
+			<height unit="cm">18</height>
+			<width unit="cm">25</width>
+			<depth unit="cm">15</depth>
+		</dimensions></p>
+
+		<p> Bh: <dimensions>
+			<height unit="cm">23</height>
+			<width unit="cm">19</width>
+			<depth unit="cm">6</depth>
+		</dimensions></p>
+
+		<p> C : two fragments (fr. Ca-b) of a marble (?) <rs type="objectType">stele</rs>, broken on all sides.</p>
+
+		<p>Ca: <dimensions>
+			<height unit="cm">30</height>
+			<width unit="cm">39</width>
+			<depth unit="cm">9</depth>
+		</dimensions></p>
+
+		<p>Cb: <dimensions>
+			<height unit="cm">23</height>
+			<width unit="cm">27</width>
+			<depth unit="cm">13</depth>
+		</dimensions></p>
+
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+
+<p> A: Aa-c: lines 1-14, Ad: lines 15-21. The text is regular, including a large space between lines 5 and 6.</p>
+<p> Letters: <height unit="cm">1.2</height>; space between lines: <height unit="cm">1.2</height>.</p>
+
+<p> B: Ba: lines 1-5; Bb: lines 6-12 left; Bc: lines 6-12 right; Bd: lines 12-20; Be: lines 20-27, left; Bf: lines 22-26, right; Bg: lines 28-33; Bh: lines 34-41. The text is regular, including a larger space between lines 5 and 6. </p>
+<p> Letters: <height unit="cm">1.5</height>; space between lines: <height unit="cm">1.5</height>.</p>
+
+<p> C: Ca: lines 1-9; Cb: lines 10-15. The text is regular, including a space between lines 4 and 5. </p>
+<p> Letters: <height unit="cm">2</height>; space between lines: <height unit="cm">1.5-2</height>.</p>
+
+		</layout></layoutDesc>
+
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p> A: <origDate notBefore="-0225" notAfter="-0175">ca. 200 BC</origDate></p>
+		<p> B and C: <origDate notBefore="-0200" notAfter="-0175">beginning of 2nd century BC</origDate></p>
+<p><desc>Justification: lettering (Hiller von Gaertringen, followed by Blümel - Merkelbach).</desc></p>
+						</origin>
+						<provenance><p><ref target="http://pleiades.stoa.org/places/599905" type="external"><placeName type="ancientFindspot" key="Priene" n="Asia_Minor_and_Anatolia">Priene</placeName></ref>.</p>
+
+		<p>A: all four fragments found on the terrasse of the temple of Athena; fr. Aa-c now in the British Museum (inv. no. 426a); fr. Ad once in the museum of Priene (inv. no. 73), now lost.</p>
+		<p> B: fr. Ba found east of the theater, now lost; fr. Bb: exact provenance unknown, now lost; Bc from the temple of Athena, now in the British Museum (inv. no. 427b); fr. Bd found near the east propylon of the temple of Athena, now in the Museum of Izmir (inv. no. 3485); Be from the temple of Athena, now in the British Museum (inv. no. 427a); Bf found on the terrasse of the temple of Athena, now lost; Bg found on the "Athenastrasse", near the first private house west of the bouleuterion, today lost; Bh from the temple of Athena, now in the British Museum (inv. no. 427c). </p>
+		<p> C: fr. Ca found on the terrasse of the temple of Athena, now in the Museum of Izmir (inv. no. 2895); Cb found on the path north of the agora, today lost.</p>
+<p> Squeezes of all fragments in the archives of the <title>Inscriptiones Graecae</title> in Berlin.</p>
+			</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Blümel - Merkelbach <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 146 (A), 147 (B) and 148 (C), with German transl. and ph. in vol. II, p. 122 (fr. Ad), 123 (fr. Ba, Bb, Bd, Bf) and 124 (fr. Bg, Ca, Cb).</p>
+
+	    	<p> Other edition: Hiller von Gaertringen <bibl type="abbr" n="I.Priene">I.Priene</bibl> 201 (A), 202 (B) and 203 (C).</p>
+
+	    	<p> Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 38 (A and B only).</p>
+
+	    	<p> Further bibliography:
+			<bibl type="author_date" n="Robert 1946">Robert 1946</bibl>;
+	    		<bibl type="author_date" n="Robert 1960">Robert 1960</bibl>;
+	    		<bibl type="author_date" n="Mylonopoulos 2003">Mylonopoulos 2003</bibl>;
+	    		<bibl type="author_date" n="Lohmann 2004">Lohmann 2004</bibl>;
+	    		<bibl type="author_date" n="Herda 2006">Herda 2006</bibl>;
+	    		<bibl type="author_date" n="Lohmann 2007">Lohmann 2007</bibl>;
+	    		<bibl type="author_date" n="Herda 2009">Herda 2009</bibl>;
+	    		<bibl type="author_date" n="Graf 2010b">Graf 2010b</bibl>: 65-66;
+	    		<bibl type="author_date" n="Wiemer - Kah 2011">Wiemer - Kah 2011</bibl>: 38-48;
+	    		<bibl type="author_date" n="Hennemeyer 2013">Hennemeyer 2013</bibl>: 97.
+	    	</p>
+
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    	<ab subtype="text" n="a">Text A
+
+<lb xml:id="line_A1" n="A1"/> <name type="epithet" key="Agathe"><w lemma="ἀγαθός"><unclear>ἀ</unclear>γαθῆι</w></name> <name type="deity" key="Tyche"><w lemma="τύχη">τύχηι</w></name>· <w lemma="ἐπί">ἐ<unclear>π</unclear><supplied reason="lost">ὶ</supplied></w> <name type="title"><w lemma="στεφανηφόρος"><supplied reason="lost">στεφανηφόρου</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <name type="deity" key="Poseidon"><w lemma="θεός"><supplied reason="lost">θεοῦ</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <w lemma="μετά"><supplied reason="lost">μετὰ</supplied></w>
+
+<lb xml:id="line_A2" n="A2"/> <unclear>Κ</unclear>ορυλᾶν <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Μεταγείτνιος">Μ<supplied reason="lost">εταγειτνιῶνος</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="πρίαμαι"><supplied reason="lost">ἐπρίατο</supplied></w> <supplied reason="lost">τὴν</supplied>
+
+<lb xml:id="line_A3" n="A3"/> <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύνην</w></name> το<supplied reason="lost">ῦ</supplied> <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν"><supplied reason="lost">Ποσειδῶνος</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <name type="epithet" key="Helikonios"><w lemma="Ἑλικώνιος"><supplied reason="lost">Ἑλικωνίου</supplied></w></name> <w lemma="διά"><supplied reason="lost">διὰ</supplied></w> <w lemma="βίος"><supplied reason="lost">βίου</supplied></w>
+
+<lb xml:id="line_A4" n="A4"/> Ἐπαμείνων Γ<gap reason="lost" extent="unknown" unit="character"/> <w lemma="δραχμή"><supplied reason="lost">δραχμῶν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τοῦ</supplied>
+
+<lb xml:id="line_A5" n="A5"/> <w lemma="ἐπιδέκατος">ἐπιδεκάτ<supplied reason="lost">ου</supplied></w>·
+
+<lb/> <space quantity="1" unit="line"/>
+
+<lb xml:id="line_A6" n="A6"/> <name type="personnel"><w lemma="ἱεράομαι"><supplied reason="lost">ἱερήσ</supplied>εται</w></name> δὲ τὸμ <w lemma="βίος">βίον</w> τὸν <w lemma="ἑαυτοῦ">α<supplied reason="lost">ὑτοῦ</supplied></w> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὴν</supplied> <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυσίαν</supplied></w></name> <supplied reason="lost">τῶι</supplied>
+
+<lb xml:id="line_A7" n="A7"/> <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν"><supplied reason="lost">Πο</supplied>σειδῶνι</w></name> <w lemma="συντελέω">συντελεῖ</w> <w lemma="κατά">κ<supplied reason="lost">ατὰ</supplied></w> <supplied reason="lost">τ</supplied>ο<supplied reason="lost">ὺς</supplied> <name type="authority"><w lemma="νόμος"><supplied reason="lost">νόμους</supplied></w></name> <supplied reason="lost">τοὺς</supplied> <name type="group"><name type="ethnic" key="Ionia"><w lemma="Ἴων"><supplied reason="lost">Ἰώνων</supplied></w></name></name>·
+
+<lb xml:id="line_A8" n="A8"/> <w lemma="ἀτελής"><unclear>ἀ</unclear>τελὴς</w> δὲ <w lemma="εἰμί">ἔσται</w> <w lemma="πᾶς">πά<supplied reason="lost">ντω</supplied>ν</w>, <name type="authority"><w lemma="καθάπερ">καθάπε<supplied reason="lost">ρ</supplied></w></name> <name type="group"><name type="ethnic" key="Ionia"><w lemma="Ἴων"><supplied reason="lost">Ἴωνες</supplied></w></name></name> <w lemma="δίδωμι"><supplied reason="lost">δεδώκασιν</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w>
+
+<lb xml:id="line_A9" n="A9"/> <supplied reason="lost">τῆ</supplied>ι <name type="authority"><objectType key="stele"><w lemma="στήλη">στήληι</w></objectType></name> <w lemma="ἀναγράφω">ἀναγέγ<supplied reason="lost">ραπτα</supplied>ι</w>, καὶ τὰ <w lemma="ἄλλος">ἄλλ<unclear>α</unclear></w> <w lemma="ὅσος"><supplied reason="lost">ὅσα</supplied></w> <w lemma="δίδωμι"><supplied reason="lost">δέδοται</supplied></w> <w lemma="ὑπό"><supplied reason="lost">ὑπὸ</supplied></w> <name type="group"><name type="ethnic" key="Ionia"><w lemma="Ἴων"><supplied reason="lost">Ἰώνων</supplied></w></name></name>
+
+<lb xml:id="line_A10" n="A10"/> <w lemma="πᾶς"><supplied reason="lost">πάντα</supplied></w><supplied reason="lost">·</supplied> <w lemma="ἔξειμι"><supplied reason="lost">ἐξ</supplied>εῖ<unclear>ν</unclear><supplied reason="lost">αι</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="αὐτός"><supplied reason="lost">αὐτ</supplied>ῶι</w> καὶ <w lemma="ἐν">ἐμ</w> <name type="structure"> <w lemma="πρυτανεῖον">πρυταν<supplied reason="lost">είωι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <w lemma="ἐν"><supplied reason="lost">ἐμ</supplied></w> <name type="structure"><w lemma="Πανίωνες"><supplied reason="lost">Πανιωνίωι</supplied></w></name>
+
+<lb xml:id="line_A11" n="A11"/> <name type="meal"><w lemma="σίτησις"><supplied reason="lost">σίτησιν</supplied></w></name> <w lemma="ὅταν"><supplied reason="lost">ὅταμ</supplied></w> <name type="group"><w lemma="πόλις"><supplied reason="lost">πόλις</supplied></w></name> <name type="genericOffering"><w lemma="ἱερός"><supplied reason="lost">ἱε</supplied>ρὰ</w></name> <w lemma="ποιέω">ποιῆι</w>, καὶ <w lemma="προεδρία">προε<supplied reason="lost">δρίαν</supplied></w> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τοῖς</supplied> <w lemma="ἀγών"><supplied reason="lost">ἀγῶ</supplied>
+
+<lb xml:id="line_A12" n="A12" break="no"/><supplied reason="lost">σι</supplied></w> <w lemma="πᾶς"><supplied reason="lost">πᾶσι</supplied></w> <name type="adornment"><w lemma="στέφανος"><supplied reason="lost">στέφανον</supplied></w></name> <w lemma="ἔχω"><supplied reason="lost">ἔχο</supplied>ντι</w> <name type="colour2"><w lemma="χρύσεος">χρύσεον</w></name>· <w lemma="ἔξειμι">ἐ<supplied reason="lost">ξεῖναι</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="αὐτός"><supplied reason="lost">αὐτῶι</supplied></w> <w lemma="ἐν"><supplied reason="lost">ἐμ</supplied></w> <name type="structure"><w lemma="Πανίωνες"><supplied reason="lost">Πανι</supplied>
+
+<lb xml:id="line_A13" n="A13" break="no"/><supplied reason="lost">ωνίωι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="adornment"><w lemma="στροφίσκος"><supplied reason="lost">στροφίσκ</supplied>ον</w></name> <w lemma="φορέω">φορεῖν</w> <name type="colour2"><w lemma="χρύσεος">χρ<unclear>ύ</unclear><supplied reason="lost">σεον</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_A14" n="A14"/> <w lemma="ἐν"><supplied reason="lost">ἐμ</supplied></w> <name type="structure"><w lemma="Πανίωνες"><supplied reason="lost">Πανιωνίωι</supplied></w></name><supplied reason="lost">·</supplied> <supplied reason="lost">τὰ</supplied> <supplied reason="lost">τε</supplied> <w lemma="παρά"><supplied reason="lost">πα</supplied>ρὰ</w> <name type="group"><name type="ethnic" key="Ionia"><w lemma="Ἴων">Ἰώνω<unclear>ν</unclear></w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_A15" n="A15"/> <gap reason="lost" quantity="6" unit="character"/> <name type="bakery"><w lemma="ἐπίπεμμα"><supplied reason="lost">ἐ</supplied>π<unclear>ι</unclear>π<supplied reason="lost">έμματ</supplied><unclear>α</unclear></w></name> δὲ <w lemma="παρέχω"><supplied reason="lost">παρέξεται</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_A16" n="A16"/> <w lemma="ἐκ"><supplied reason="lost">ἐκ</supplied></w> <w lemma="τεταρτεύς"><supplied reason="lost">τεταρ</supplied><unclear>τ</unclear>έως</w> <w lemma="ἑκάτερος">ἑκατέρωι</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερ<supplied reason="lost">είωι</supplied></w></name> <supplied reason="lost">καὶ</supplied> <orig><unclear>λ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὸν</supplied>
+
+<lb xml:id="line_A17" n="A17"/> <supplied reason="lost">δὲ</supplied> <w lemma="ὠνέομαι"><supplied reason="lost">ἐ</supplied><unclear>ω</unclear>νηκότα</w> <w lemma="μήτε">μήτε</w> <w lemma="ἀφαιρέω">ἀφελέ<supplied reason="lost">σθαι</supplied></w> <w lemma="μήτε"><supplied reason="lost">μήτε</supplied></w> <w lemma="ἐνεχυράζω"><supplied reason="lost">ἐνεχυράσαι</supplied></w> <supplied reason="lost">τὴν</supplied> <name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱερωσύνην</supplied></w></name>
+
+<lb xml:id="line_A18" n="A18"/> <w lemma="μήτε"><supplied reason="lost">μήτ</supplied>ε</w> τὰ <w lemma="δίδωμι">διδόμενα</w> <name type="portion"><w lemma="γέρας">γέρα</w></name> <w lemma="ἀφαιρέω">ἀφ<supplied reason="lost">αιρεῖσθαι</supplied></w> <w lemma="μηχανή"><supplied reason="lost">μηχανῆι</supplied></w> <w lemma="μηδείς"><supplied reason="lost">μηδεμιᾶι</supplied></w><supplied reason="lost">·</supplied> <w lemma="ἐάν"><supplied reason="lost">ἐὰν</supplied></w> <supplied reason="lost">δέ</supplied> <w lemma="τις"><supplied reason="lost">τις</supplied></w>
+
+<lb xml:id="line_A19" n="A19"/> <w lemma="παρά"><unclear>π</unclear>αρὰ</w> <w lemma="οὗτος">ταῦτα</w> <w lemma="προτίθημι">προθείη</w> καί <w lemma="τις">τι</w> τ<supplied reason="lost">ῶν</supplied> <name type="authority"><w lemma="δοκέω"><supplied reason="lost">δεδογμένων</supplied></w></name> <w lemma="λύω"><supplied reason="lost">λύοι</supplied></w><supplied reason="lost">,</supplied> <name type="punishment"><w lemma="ἐξώλης"><supplied reason="lost">ἐξώλης</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">εἴη</supplied></w>
+
+<lb xml:id="line_A20" n="A20"/> <supplied reason="lost">κ</supplied>αὶ τὰ <w lemma="ἐκεῖνος">ἐκείνου</w> <w lemma="πᾶς">πάντα</w>· <w lemma="ἀτελής">ἀτ<supplied reason="lost">ελῆ</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="εἰμί"><supplied reason="lost">ἔστω</supplied></w> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὰ</supplied> <supplied reason="lost">τοῦ</supplied> <w lemma="πατήρ"><supplied reason="lost">πατρός</supplied></w>
+
+<lb xml:id="line_A21" n="A21"/> <w lemma="ἕως">ἕως</w> <w lemma="ἄν">ἂν</w> <w lemma="ζῶ">ζῆι</w>. <space quantity="1" unit="line"/>
+
+<lb/> <space extent="unknown" unit="line"/>
+	    	</ab>
+
+<ab subtype="text" n="B"> Text B
+
+	    		<lb xml:id="line_B1" n="B1"/> <gap reason="lost" extent="unknown" unit="character"/>ς Σωσιβίου <w lemma="πρίαμαι">ἐπρία<supplied reason="lost">το</supplied></w> <supplied reason="lost">τὴν</supplied> <name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱερωσύ</supplied>
+
+	    		<lb xml:id="line_B2" n="B2" break="no"/><supplied reason="lost">νην</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν"><supplied reason="lost">Ποσ</supplied>ειδῶνος</w></name> τοῦ <name type="epithet" key="Helikonios"><w lemma="Ἑλικώνιος">Ἑλι<unclear>κ</unclear><supplied reason="lost">ωνίου</supplied></w></name> <w lemma="διά"><supplied reason="lost">διὰ</supplied></w>
+
+<lb xml:id="line_B3" n="B3"/> <w lemma="βίος"><supplied reason="lost">βίου</supplied></w> <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <name type="title"><w lemma="στεφανηφόρος"><supplied reason="lost">στεφα</supplied><unclear>ν</unclear>ηφόρου</w></name> τοῦ <name type="deity" key="Poseidon"><w lemma="θεός"><supplied reason="lost">θεοῦ</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <w lemma="μετά"><supplied reason="lost">μετὰ</supplied></w>
+
+<lb xml:id="line_B4" n="B4"/> <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ιν</unclear></orig> <name type="month"><w lemma="μείς">μ<unclear>η</unclear>ν<unclear>ὸ</unclear><supplied reason="lost">ς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B5" n="B5"/> <gap reason="lost" quantity="1" unit="line"/>
+
+<lb/> <space quantity="1" unit="line"/>
+
+<lb xml:id="line_B6" n="B6"/> <name type="personnel"><w lemma="ἱεράομαι"><supplied reason="lost">ἱερήσεται</supplied></w></name> <supplied reason="lost">δ</supplied>ὲ τὸμ <w lemma="βίος">βί<unclear>ο</unclear><supplied reason="lost">ν</supplied></w> <supplied reason="lost">τὸν</supplied> <w lemma="ἑαυτοῦ"><supplied reason="lost">αὑ</supplied>τοῦ</w> καὶ τὴν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name>
+
+<lb xml:id="line_B7" n="B7"/> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν"><supplied reason="lost">Ποσειδῶ</supplied>νι</w></name> <w lemma="συντελέω">συντελε<supplied reason="lost">ῖ</supplied></w> <w lemma="κατά"><supplied reason="lost">κατὰ</supplied></w> <unclear>τ</unclear>οὺς <name type="authority"><w lemma="νόμος">νόμους</w></name> τοὺς <name type="group"><name type="ethnic" key="Ionia"><w lemma="Ἴων">Ἰώνω<supplied reason="lost">ν</supplied></w></name></name>·
+
+<lb xml:id="line_B8" n="B8"/> <w lemma="ἀτελής"><supplied reason="lost">ἀτελὴς</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="εἰμί"><supplied reason="lost">ἔ</supplied>σται</w> <w lemma="πᾶς">πάντωγ</w>, <name type="authority"><w lemma="καθάπερ"><supplied reason="lost">καθ</supplied>άπερ</w></name> <name type="group"><name type="ethnic" key="Ionia"><w lemma="Ἴων">Ἴωνες</w></name></name> <w lemma="δίδωμι">δεδώκασιν</w>
+
+<lb xml:id="line_B9" n="B9"/> <supplied reason="lost">καὶ</supplied> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τῆι</supplied> <name type="authority"><objectType key="stele"><w lemma="στήλη"><supplied reason="lost">στ</supplied>ήλ<supplied reason="omitted">ηι</supplied></w></objectType></name> <w lemma="γράφω">γέγραπ<supplied reason="lost">τα</supplied>ι</w> καὶ <w lemma="ἄλλος">τἄλλα</w> <w lemma="ὅσος">ὅσα</w> <w lemma="δίδωμι">δέδοται</w>
+
+<lb xml:id="line_B10" n="B10"/> <w lemma="ὑπό"><supplied reason="lost">ὑπὸ</supplied></w> <name type="group"><name type="ethnic" key="Ionia"><w lemma="Ἴων"><supplied reason="lost">Ἰώνων</supplied></w></name></name> <w lemma="πᾶς">πάντα</w>· <w lemma="ἔξειμι">ἐξεῖναι</w> δὲ <w lemma="αὐτός">αὐτῶι</w> καὶ <w lemma="ἐν">ἐμ</w> <name type="structure"><w lemma="πρυτανεῖον">πρυτανείωι</w></name>
+
+<lb xml:id="line_B11" n="B11"/> <supplied reason="lost">καὶ</supplied> <w lemma="ἐν"><supplied reason="lost">ἐμ</supplied></w> <name type="structure"><w lemma="Πανίωνες"><supplied reason="lost">Πανιω</supplied><unclear>ν</unclear>ίωι</w></name> <name type="meal"><w lemma="σίτησις">σίτησιν</w></name> <w lemma="ὅταν"><supplied reason="lost">ὅτ</supplied>αμ</w> <name type="group"><w lemma="πόλις">πόλις</w></name> <name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name> <w lemma="ποιέω">ποιῆι</w> <space extent="unknown" unit="character"/>
+
+<lb xml:id="line_B12" n="B12"/> <supplied reason="lost">καὶ</supplied> <w lemma="προεδρία"><supplied reason="lost">προεδρίαν</supplied></w> <supplied reason="lost">ἐν</supplied> τοῖς <w lemma="ἀγών">ἀγ<supplied reason="lost">ῶσι</supplied></w> <w lemma="πᾶς"><supplied reason="lost">πᾶ</supplied>σι</w> <name type="adornment"><w lemma="στέφανος">στέφανον</w></name> <w lemma="ἔχω">ἔχοντι</w> <name type="colour2"><w lemma="χρύσεος">χρύσεο<supplied reason="lost">ν</supplied></w></name>·
+
+<lb xml:id="line_B13" n="B13"/> <w lemma="ἔξειμι"><supplied reason="lost">ἐξεῖναι</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="αὐτός"><supplied reason="lost">αὐτῶι</supplied></w> <w lemma="ἐν"><supplied reason="lost">ἐμ</supplied></w> <name type="structure"><w lemma="Πανίωνες"><supplied reason="lost">Πανιωνί</supplied>ωι</w></name> καὶ <name type="adornment"><w lemma="στροφίσκος">στροφίσκομ</w></name> <w lemma="φορέω">φ<supplied reason="lost">ορεῖν</supplied></w> <name type="colour2"><w lemma="χρύσεος"><supplied reason="lost">χρύσε</supplied>
+
+<lb xml:id="line_B14" n="B14" break="no"/><supplied reason="lost">ον</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐν"><supplied reason="lost">ἐμ</supplied></w> <name type="structure"><w lemma="Πανίωνες"><supplied reason="lost">Πανι</supplied>ωνίωι</w></name>· τά τε <w lemma="παρά">παρὰ</w> <name type="group"><name type="ethnic" key="Ionia"><w lemma="Ἴων">Ἰώ<supplied reason="lost">νων</supplied></w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B15" n="B15"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="bakery"><w lemma="ἐπίπεμμα"><supplied reason="lost">ἐ</supplied>πιπέμματά</w></name> τε <w lemma="παρέχω">παρέ<supplied reason="lost">ξεται</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B16" n="B16"/> <gap reason="lost" extent="unknown" unit="character"/>  <w lemma="ἐκ"><supplied reason="lost">ἐκ</supplied></w> <w lemma="τεταρτεύς"><supplied reason="lost">τεταρτέως</supplied></w> <w lemma="ἑκάτερος"><supplied reason="lost">ἑκα</supplied>τέρωι</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείωι</w></name> καὶ <orig><unclear>λ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B17" n="B17"/> <gap reason="lost" extent="unknown" unit="character"/>  <supplied reason="lost">τὸν</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="ὠνέομαι"><supplied reason="lost">ἐωνηκό</supplied>τα</w> <w lemma="μήτε">μήτε</w> <w lemma="ἀφαιρέω">ἀφελέσθ<supplied reason="lost">αι</supplied></w> <w lemma="μήτε"><supplied reason="lost">μήτε</supplied></w> <w lemma="ἐνεχυράζω"><supplied reason="lost">ἐνεχυρά</supplied>
+
+<lb xml:id="line_B18" n="B18" break="no"/><supplied reason="lost">σαι</supplied></w> <supplied reason="lost">τὴν</supplied> <name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱερωσύνην</supplied></w></name> <w lemma="μήτε"><supplied reason="lost">μήτε</supplied></w> <supplied reason="lost">τὰ</supplied> <w lemma="δίδωμι"><supplied reason="lost">διδ</supplied>όμενα</w> <name type="portion"><w lemma="γέρας">γέρα</w></name> <w lemma="ἀφαιρέω">ἀφαι<supplied reason="lost">ρεῖσθαι</supplied></w> <w lemma="μηχανή"><supplied reason="lost">μηχανῆι</supplied></w>
+
+<lb xml:id="line_B19" n="B19"/> <w lemma="μηδείς"><supplied reason="lost">μηδεμιᾶι</supplied></w><supplied reason="lost">·</supplied> <w lemma="ἐάν"><supplied reason="lost">ἐὰν</supplied></w> <supplied reason="lost">δέ</supplied> <w lemma="τις"><supplied reason="lost">τις</supplied></w> <w lemma="παρά"><supplied reason="lost">παρὰ</supplied></w> <w lemma="οὗτος"><supplied reason="lost">ταῦ</supplied>τα</w> <w lemma="προτίθημι">προθείηι</w> καί <w lemma="τις"><unclear>τ</unclear><supplied reason="lost">ι</supplied></w> <supplied reason="lost">τῶν</supplied> <name type="authority"><w lemma="δοκέω"><supplied reason="lost">δεδογμε</supplied>
+
+<lb xml:id="line_B20" n="B20" break="no"/><supplied reason="lost">νων</supplied></w> </name> <w lemma="λύω"><supplied reason="lost">λύοι</supplied></w><supplied reason="lost">,</supplied> <name type="punishment"><w lemma="ἐξώλης"><supplied reason="lost">ἐξώ</supplied>λη<supplied reason="lost">ς</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">εἴη</supplied></w> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὰ</supplied> <w lemma="ἐκεῖνος"><supplied reason="lost">ἐ</supplied><unclear>κ</unclear>είνου</w> <w lemma="πᾶς">πάντα</w>· <w lemma="ἀτελής"><supplied reason="lost">ἀτελῆ</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="εἰμί"><supplied reason="lost">ἔστω</supplied></w>
+
+<lb xml:id="line_B21" n="B21"/> <gap reason="lost" extent="unknown" unit="character"/>  <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὰ</supplied> <supplied reason="lost">το</supplied>ῦ <w lemma="πατήρ">πατρὸς</w> <w lemma="ἕως">ἕως</w> <w lemma="ἄν">ἂν</w> <w lemma="ζῶ">ζ̣<supplied reason="lost">ῆι</supplied></w> <space extent="unknown" unit="character"/>
+
+<lb xml:id="line_B22" n="B22"/> <w lemma="δοκέω"><supplied reason="lost">ἔδοξε</supplied></w> <supplied reason="lost">τῶι</supplied> <name type="group"><w lemma="δῆμος"><supplied reason="lost">δήμ</supplied>ω<unclear>ι</unclear></w></name>· <w lemma="γνώμη">γν<unclear>ώ</unclear>μη</w> <w lemma="στρατηγός">στρα<supplied reason="lost">τ</supplied>ηγῶν</w>· τὸν <name type="personnel"><w lemma="νεωποίης">νεωποίη<supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B23" n="B23"/> <gap reason="lost" extent="unknown" unit="character"/>  <w lemma="μείς"><supplied reason="lost">μηνὸς</supplied></w> <name type="month"><w lemma="Ταυρεών"><supplied reason="lost">Τα</supplied>υρεῶνος</w></name> <w lemma="ἐν">ἐν</w> τ<supplied reason="lost">ῆ</supplied>ι <name type="authority"><w lemma="νόμαιος">νομαίαι</w></name> <name type="group"><w lemma="ἐκκλησία">ἐκκλησί<unclear>α</unclear><supplied reason="lost">ι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B24" n="B24"/> <gap reason="lost" extent="unknown" unit="character"/> τοῦ <name type="deity" key="Poseidon"><w lemma="Ποσειδῶν">Ποσειδ<supplied reason="lost">ῶν</supplied><unclear>ο</unclear>ς</w></name> τοῦ <name type="epithet" key="Helikonios"><w lemma="Ἑλικώνιος">Ἑλικωνίου</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B25" n="B25"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="χρυσίον">χρυσίον</w>, <w lemma="λογίζομαι">λ<unclear>ο</unclear><supplied reason="lost">γιζό</supplied>μενον</w> τὸγ χρυ<supplied reason="lost">σ</supplied><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B26" n="B26"/> <gap reason="lost" extent="unknown" unit="character"/>  <w lemma="ἐπί"><supplied reason="lost">ἐ</supplied>φ’</w> ὅτωι ὁ <w lemma="πρίαμαι">π<supplied reason="lost">ριάμεν</supplied><unclear>ο</unclear>ς</w> <name type="personnel"><w lemma="ἱεράομαι">ἱερήσε<supplied reason="lost">ται</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B27" n="B27"/> <gap reason="lost" quantity="1" unit="line"/>
+
+<lb xml:id="line_B28" n="B28"/> <gap reason="lost" extent="unknown" unit="character"/><unclear>ΕΙΛ</unclear>ΟΙΣ<gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B29" n="B29"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="authority"><w lemma="καθάπερ"><supplied reason="lost">καθάπερ</supplied></w></name> <w lemma="ὑπό">ὑπὸ</w> <name type="group"><name type="ethnic" key="Ionia"><w lemma="Ἴων">Ἰώνων</w></name></name> <w lemma="δίδωμι">δέ<unclear>δ</unclear><supplied reason="lost">οται</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B30" n="B30"/> <gap reason="lost" extent="unknown" unit="character"/>  <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> τῆι <name type="authority"><objectType key="stele"><w lemma="στήλη">στήληι</w></objectType></name> <w lemma="ἀναγράφω">ἀναγ<supplied reason="lost">έγραπται</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B31" n="B31"/> <gap reason="lost" extent="unknown" unit="character"/> καὶ <w lemma="λειτουργία">λῃτουργιῶμ</w> <w lemma="πᾶς">π<supplied reason="lost">ασῶν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B32" n="B32"/> <gap reason="lost" extent="unknown" unit="character"/> δὲ <w lemma="αὐτός">αὐτῶι</w> τῆς <orig>α</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B33" n="B33"/> <gap reason="lost" extent="unknown" unit="character"/>  <w lemma="λειτουργία"><supplied reason="lost">λ</supplied>ῃτουργι<gap reason="lost" extent="unknown" unit="character"/></w>
+
+<lb xml:id="line_B34" n="B34"/> <orig><gap reason="lost" extent="unknown" unit="character"/>θ<unclear>λ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B35" n="B35"/> <gap reason="lost" extent="unknown" unit="character"/>  <name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱερ</supplied>ωσύ<supplied reason="lost">νη</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B36" n="B36"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἱερός"><supplied reason="lost">ἱερ</supplied>ὰν</w> <name type="structure"><w lemma="ἐσχάρα">ἐσχά<supplied reason="lost">ραν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B37" n="B37"/> <gap reason="lost" extent="unknown" unit="character"/>σομένου <orig>με</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B38" n="B38"/> <gap reason="lost" extent="unknown" unit="character"/>τω τῶι <w lemma="πρίαμαι">πριαμ<unclear>έ</unclear><supplied reason="lost">νωι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B39" n="B39"/> <gap reason="lost" extent="unknown" unit="character"/>ων ἢ <name type="animal" key="generic"><w lemma="κτῆνος">κτην<unclear>ῶ</unclear><supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B40" n="B40"/> <gap reason="lost" extent="unknown" unit="character"/>  <w lemma="ὀφείλω"><supplied reason="lost">ὀφε</supplied><unclear>ι</unclear>λέτω</w> τ<gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B41" n="B41"/> <gap reason="lost" extent="unknown" unit="character"/><orig>γ</orig> καὶ <orig>φ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    		</ab>
+
+<ab subtype="text" n="C"> Text C
+
+<lb xml:id="line_C1" n="C1"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐπί"><unclear>ἐ</unclear>πὶ</w> <unclear>Πρ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_C2" n="C2"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="μείς"><supplied reason="lost">μηνός</supplied></w> <name type="month"><w lemma="Θαργήλια"><supplied reason="lost">Θ</supplied>αργηλιῶ<unclear>ν</unclear><supplied reason="lost">ος</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+	<lb xml:id="line_C3" n="C3"/> <w lemma="δραχμή"><supplied reason="lost">δραχμῶν</supplied></w> <w lemma="ἀλεξάνδρειος"><supplied reason="lost">Ἀλ</supplied>εξανδρείων</w> <w lemma="τετρακόσιοι">τ<supplied reason="lost">ετρακοσίων</supplied></w>
+
+<lb xml:id="line_C4" n="C4"/> <w lemma="ἑβδομήκοντα"><supplied reason="lost">ἑβδομήκ</supplied>οντα</w> <w lemma="δύο">δύο</w> καὶ τοῦ <w lemma="ἐπιδέκατος">ἐπ<supplied reason="lost">ιδεκάτου</supplied></w><supplied reason="lost">·</supplied>
+
+<lb/> <space quantity="1" unit="line"/>
+
+<lb xml:id="line_C5" n="C5"/> <name type="personnel"><w lemma="ἱεράομαι"><supplied reason="lost">ἱερήσεται</supplied></w></name> δὲ τὸμ <w lemma="βίος">βίον</w> τὸν <w lemma="ἑαυτοῦ">ἑαυτοῦ</w> <w lemma="ἀτελής">ἀ<supplied reason="lost">τελὴς</supplied></w> <w lemma="εἰμί"><supplied reason="lost">ὢν</supplied></w> <w lemma="λειτουργία"><supplied reason="lost">λῃ</supplied>
+
+<lb xml:id="line_C6" n="C6" break="no"/><supplied reason="lost">τουργιῶν</supplied></w> <w lemma="πᾶς"><supplied reason="lost">πα</supplied><unclear>σ</unclear>ῶν</w>· <w lemma="εἰμί">εἶναι</w> δὲ <w lemma="αὐτός">αὐτῶι</w> <w lemma="ἐν">ἐμ</w> <name type="structure"><w lemma="πρυτάνειος"><supplied reason="lost">πρυτανείωι</supplied></w></name>
+
+<lb xml:id="line_C7" n="C7"/> <supplied reason="lost">καὶ</supplied> <w lemma="ἐν"><supplied reason="lost">ἐμ</supplied></w> <name type="structure"><w lemma="Πανίωνες"><supplied reason="lost">Πανιωνίω</supplied>ι</w></name> <name type="meal"><w lemma="σίτησις">σίτησιν</w></name> <w lemma="ὅταν">ὅταμ</w> <name type="group"><w lemma="πόλις">πόλι<supplied reason="lost">ς</supplied></w></name> <name type="genericOffering"><w lemma="ἱερός"><supplied reason="lost">ἱερὰ</supplied></w></name> <w lemma="ποιέω"><supplied reason="lost">ποιῆι</supplied></w>,
+
+<lb xml:id="line_C8" n="C8"/> <supplied reason="lost">καὶ</supplied> <w lemma="προεδρία"><supplied reason="lost">προεδρίαν</supplied></w> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τοῖς</supplied> <w lemma="ἀγών"><supplied reason="lost">ἀ</supplied>γ̣ῶσι</w> <w lemma="πᾶς">πᾶσι</w> <name type="adornment"><w lemma="στέφανος"><supplied reason="lost">στέφανον</supplied></w></name> <w lemma="ἔχω"><supplied reason="lost">ἔ</supplied>
+
+<lb xml:id="line_C9" n="C9" break="no"/><supplied reason="lost">χοντι</supplied></w> <name type="colour2"><w lemma="χρύσεος"><supplied reason="lost">χρύσεον</supplied></w></name><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb xml:id="line_C10" n="C10"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὸν</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="ὠνέομαι"><supplied reason="lost">ἐωνηκότ</supplied>α</w> <supplied reason="lost">τὴν</supplied> <name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱερωσύνην</supplied></w></name>
+
+<lb xml:id="line_C11" n="C11"/> <w lemma="μήτε"><supplied reason="lost">μήτε</supplied></w> <w lemma="ἀφαιρέω"><supplied reason="lost">ἀφελέσθαι</supplied></w> <w lemma="μήτε"><supplied reason="lost">μήτ</supplied>ε</w> <w lemma="ἐνεχυράζω">ἐνεχυρά<supplied reason="lost">σαι</supplied></w> <w lemma="μήτε"><supplied reason="lost">μήτε</supplied></w> <supplied reason="lost">τὰ</supplied> <w lemma="δίδωμι"><supplied reason="lost">δι</supplied>
+
+<lb xml:id="line_C12" n="C12" break="no"/><supplied reason="lost">δόμενα</supplied></w> <name type="portion"><w lemma="γέρας"><supplied reason="lost">γέρα</supplied></w></name> <w lemma="ἀφαιρέω"><supplied reason="lost">ἀφαι</supplied>ρεῖσθαι</w> <w lemma="μηχανή">μη<supplied reason="lost">χανῆι</supplied></w> <w lemma="μηδείς"><supplied reason="lost">μηδεμιᾶι</supplied></w>·
+
+<lb xml:id="line_C13" n="C13"/> <w lemma="ἐάν"><supplied reason="lost">ἐὰν</supplied></w> <supplied reason="lost">δέ</supplied> <w lemma="τις"><supplied reason="lost">τις</supplied></w> <w lemma="παρά"><supplied reason="lost">παρὰ</supplied></w> <w lemma="οὗτος">ταῦτα</w> <w lemma="προτίθημι">προθ<supplied reason="lost">είη</supplied></w> <supplied reason="lost">καί</supplied> <w lemma="τις"><supplied reason="lost">τι</supplied></w> <supplied reason="lost">τῶν</supplied> <name type="authority"><w lemma="δοκέω"><supplied reason="lost">δε</supplied>
+
+<lb xml:id="line_C14" n="C14" break="no"/><supplied reason="lost">δογμένων</supplied></w></name> <w lemma="λύω"><supplied reason="lost">λύοι</supplied></w>, <name type="punishment"><w lemma="ἐξώλης">ἐξώλης</w></name> <w lemma="εἰμί">εἴ<supplied reason="lost">η</supplied></w> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τὰ</supplied> <w lemma="αὐτός"><supplied reason="lost">αὐτοῦ</supplied></w> <w lemma="πᾶς"><supplied reason="lost">πάν</supplied>
+
+<lb xml:id="line_C15" n="C15" break="no"/><supplied reason="lost">τα</supplied></w>. <space extent="unknown" unit="character"/>
+
+	    		</ab>
+	</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>Text A</p>
+<p>With good fortune. Under [the <foreign>stephanephoria</foreign> of the god which followed] Korylas in the month [of Metageitnion ...] Epameinon son of G[... bought the] priesthood of [Poseidon Helikonios for life ... drachmae plus the] (5) tenth.</p>
+
+<p>He shall be [priest] throughout [his] life [and] perform [the sacrifice] to Poseidon [according the laws of the Ionians]; he shall be exempt from all charges, in accordance with [(what) the Ionians have granted and (what)] is engraved [on the] stele and (he shall benefit) from [all] the other things, [granted by the Ionians; (10) a meal] in the prytaneion [and in the Panionion shall] also be granted [to him, when the city] makes sacrifices, and also the proedry [in all contests, wearing a] gold [crown]; the (privilege) to wear [in the Panionion a golden head]band shall also be granted to him [... in the Panionion; and those things] by the Ionians [... (15) he shall provide] cakes [... of a quarter (of a <foreign>medimnos</foreign>)] for each sacrificial animal [and ...]; nobody shall deprive [of the priesthood he] who bought it, [nor pawn it, nor] deprive (the purchaser) of the honorific portions granted (to him) [in any way; if anybody] makes a proposal against these (dispositions) and [undoes] one [of these decisions, he shall be destroyed] (20) along with all his possessions; [his father's properties shall be exempted from taxes] as long he shall be alive.</p>
+
+<p>Text B</p>
+<p>[...]s son of Sosibios bought [the priesthood of] Poseidon Helikonios [for life under the] <foreign>stephanephoria</foreign> of the [god which followed...] in the month [of ... (5) ...].</p>
+
+<p>[He shall be priest] throughout his life and perform the sacrifice [to Poseidon according] the laws of the Ionians; he shall be [exempt] from all charges, in accordance with (what) the Ionians have granted [and (what)] is engraved [on the] stele and (he shall benefit) from all the other things, granted by (10) [the Ionians]; a meal in the prytaneion [and in the] Panionion shall also be granted to him, when the city makes sacrifices, [and also the proedry in] all contests, wearing a gold crown; [the (privilege) to wear in the Panionion a golden] headband [shall] also [be granted to him... in the] Panionion; and those things by the Ionians [... (15) ...] he shall provide cakes [... of a quarter (of a <foreign>medimnos</foreign>)] for each sacrificial animal and [...; nobody] shall deprive [of the priesthood he who bought it, nor pawn it, nor] deprive (the purchaser) [of the] honorific portions granted (to him) [in any way; if anybody] makes a proposal [against these (dispositions)] and [undoes one of these decisions, (20) he shall be destroyed and] along with all his possessions; [his] father's [properties shall be exempted from taxes] as long he shall [be alive].</p>
+
+<p>[The people have decided]; on motion of the generals; the <foreign>neopoios</foreign> [... of the month of] Taureon during the customary assembly [...] of Poseidon Helikonios [... (25) ...] of gold, counted [...] the golden [...] according to which the [purchaser] shall be priest [... as] it was granted by the Ionians [... (30) ...] was engraved [on] the stele [...] and of [all] the liturgies [...] to him the [...] liturg[... (35) ...] priesthood [...] sacred hearth [...] for the purchaser [...] or goods/cattle [...] he shall be liable [...] and [...].</p>
+
+<p>Text C</p>
+<p>In [the <foreign>stephanephoria</foreign> (?) of] Pr[...] in the month of] Thargelion [... 47]2 (?) [drachmae] of Alexander plus the [tenth].</p>
+
+<p>(5) [He shall be priest] throughout his life, [being exempt from] all [liturgies]; the meal in the [prytaneion and in the Panionion] shall also be granted to him, when the city [makes sacrifices, and also the proedry in] all contests, [wearing a gold crown; ...] (10) [... nobody shall deprive of the priesthood he who bought it, nor] pawn it, [nor] deprive (the purchaser) [of the privileges granted (to him) in any way; if anybody] makes a proposal [against] these (dispositions) [and undoes one of these decisions], he shall be destroyed, [him and everything that is (15) his].</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Texte A</p>
+<p>À la bonne fortune. Sous [la stéphanéphorie du dieu qui suivit] Korylas au mois [de Metageitnion ...] Epameinon fils de G[... a acheté la] prêtrise de [Poséidon Helikonios à vie ... drachmes plus le] (5) dixième. </p>
+
+<p>Il sera [prêtre sa] vie durant [et] accomplira [le sacrifice] à Poséidon [selon les lois des Ioniens]; il sera exempté de toute charge, conformément [(à ce) qu'ont accordé les Ioniens et (à ce) qui] est gravé [sur la] stèle et (il bénéficiera) de [toutes] les autres choses, [sans exception, accordées par les Ioniens; (10) que lui soient] octroyés aussi [le repas] au prytanée [et au Panionion, quand la cité] fait des sacrifices, et la proédrie [dans tous les concours, en portant une couronne] d'or; [que lui soit également octroyé] de porter [au Panionion un bandeau] en or [... au Panionion; et ceux] par les Ioniens [... (15) il fournira] des gâteaux [... d'un quart (de médimne)] pour chaque animal sacrificiel [et ...]; que personne ne prive [de la prêtrise celui] qui l'a achetée, [ni ne la mette en gage, ni] ne prive (l'acheteur) des privilèges (qui lui sont) accordés [par aucune manoeuvre; si quelqu'un] émet une proposition contraire à ces (dispositions) et [casse] une [de ces décisions, que soient anéantis, lui] (20) et tout ce qui est à lui; [les biens de son père doivent être exemptés de taxes] tant qu'il vivra.</p>
+
+<p>Texte B</p>
+<p>[...]s fils de Sosibios a acheté [la prêtrise de] Poséidon Helikonios [à vie sous la] stéphanéphorie du [dieu qui suivit ...] au mois [de ... (5) ...].</p>
+
+<p>[Il sera prêtre] sa vie durant et accomplira le sacrifice [à Poséidon selon] les lois des Ioniens; il sera [exempté] de toute charge, conformément (à ce) qu'ont accordé les Ioniens [et (à ce)] qui est gravé [sur la] stèle et (il bénéficiera) de toutes les autres choses, sans exception, accordées (10) [par les Ioniens]; que lui soient octroyés aussi le repas au prytanée [et au] Panionion, quand la cité fait des sacrifices, [et la proédrie dans] tous les concours, en portant une couronne d'or; [que lui soit] également [octroyé de porter au Panionion] un bandeau [en or... au] Panionion; et ceux par les Ioniens [...] (15) [...] il fournira des gâteaux [... d'un quart (de médimne)] pour chaque animal sacrificiel et [...; que personne] ne prive [de la prêtrise celui qui l'a achetée, ni ne la mette en gage, ni ne] prive (l'acheteur) [des] privilèges (qui lui sont) accordés [par aucune manoeuvre; si quelqu'un] émet une proposition [contraire à ces (dispositions)] et [casse une de ces décisions, (20) que soient anéantis, lui et] tout [ce qui est] à lui; [les biens de son] père [doivent être exemptés de taxes] tant qu'il [vivra]. </p>
+
+<p>[Il a plu au peuple]; motion des stratèges; le néope [... du mois de] Taureon lors de l'assemblée coutumière [...] de Poséidon Helikonios [...] (25) [...] d'or, compté [...] en or [...] selon quoi l'[acquéreur] sera prêtre [... comme] cela a été accordé par les Ioniens [... (30) ...] a été gravé [sur] la stèle [...] et [toutes] les liturgies [...] celui de la [...] liturg[... (35) ...] prêtrise [...] foyer sacré [...] pour l'acquéreur [...] ou richesses/bétail [...] il doit être redevable [...] et [...].</p>
+
+<p>Texte C</p>
+<p>Sous [la stéphanéphorie (?)] de Pr[... du mois de] Thargelion [... 47]2 (?) [drachmes] d'Alexandre plus le [dixième].</p>
+
+<p>(5) [Il sera prêtre] sa vie durant, [en étant exempté de] toutes [les liturgies]; que lui soient (octroyés) aussi le repas au [prytanée et au Panionion], quand la cité [fait des sacrifices, et la proédrie dans] tous les concours, [en portant une couronne d'or; ... (10) ... que personne ne prive de la prêtrise celui qui l'a achetée, ni] ne la mette en gage, [ni ne] prive (l'acheteur) [des privilèges (qui lui sont) accordés par aucune manoeuvre; si quelqu'un] émet une proposition [contraire à] ces (dispositions) [et casse une de ces décisions], que soient anéantis [lui et tout ce qui est à (15) lui].</p>
+					</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p> These three inscriptions record contracts of sale (διαγραφαί) of the same priesthood of Poseidon Helikonios (for two similar documents from Priene, see <ref target="CGRN_175">CGRN 175</ref> and <ref target="CGRN_176">CGRN 176</ref>). The texts were engraved on three different stelai, A being inscribed around the year 200; B and C somewhat later. Apart from the "amendment" at the end of contract B, which is a decree of the city of Priene, the texts appear to be highly similar, allowing for many secure restorations in each text on the basis of the two others (cf. Wiemer - Kah, p. 39-40, for a convenient synoptic layout of the three texts, and the edition of <bibl type="abbr" n="IK.Priene">IK.Priene</bibl>, where these restorations are underlined). Each text begins with a separate section listing the date, namely the year of the eponymous <foreign>stephanephoros</foreign>—who was the god (Zeus Olympios) in A and B, appointed in years when no mortal assumed the office; cf. Robert 1946: 51-64 and 154-155—and the month; the identity of the purchaser (lost in C); and the price he paid (lost in A and B, only partially preserved in C). The prerogatives and privileges of the priest are recorded next in a more detailed section. These contracts focus strongly on fiscal and honorific issues (tax exemption, meals, proedry, wreath-wearing, etc.), while hardly anything is said about ritual, except that the priest has to perform a θυσία for Poseidon (A, lines 6-7 and B, lines 6-7) and that he is to provide cakes in this capacity. A guarantee clause is added to each of these contracts, by which those who deprive the buyer of the priesthood of any of his privileges, or try to change any of the decisions made, are cursed with utter destruction, both for themselves and their possessions. </p>
+
+<p> The fact that this priesthood has been sold three times for life during a rather short period of time (probably less than half a century) may lead us to postulate one or two hypotheses: either the priests did not actually hold the priesthood throughout their whole life, or each purchaser died within a few years of having bought the priesthood. The second option is more probable and leads us to consider the possible age of the priests: one might suppose that the priesthood was each time bought by a man of fairly advanced age. However, the tax exemption on the father's properties (A, lines 20-21; B, lines 20-21) may also imply that the purchaser had not already inherited his ancestral properties and thus the priest would in some cases be expected to have been relatively young.</p>
+
+<p> The cult of Poseidon Helikonios was widely spread in the specific regions of Ionia and the Ionian Pontic colonies (cf. here <ref target="CGRN_120">CGRN 120</ref> from Sinope). It possibly originated from Helike in Achaia (on which see Mylonopoulos, p. 35-40) or otherwise from Mount Helicon in Boeotia (see below on line A3). The god was worshipped by the twelve cities of the Ionians in eastern Anatolia, at the Panionion which lay in the territory of Priene, and during the festival of the Panionia (Hdt. 1.148). The sanctuary was probably founded already in the eighth century BC at Otomatik Tepe, near Güzelçamlı (Herda 2006; cf. <bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 398 and 399 for fourth-century inscriptions from this area; but see Lohmann for a different view, with Lohmann 2007 and Herda 2009 for a continuation of this discussion). At the end of the third and beginning of the second century BC, the Panionian cult of Poseidon Helikonios still took place at Otomatik Tepe, but the priesthood was exclusively controlled by Priene. Apart from their participation in the Panionian cult, Ionian cities also worshipped the god in local sanctuaries of the god (cf. e.g. the Helikonion on Samos, (<bibl type="abbr" n="IG XII.6">IG XII.6</bibl> 168 / <bibl type="abbr" n="LSCG">LSCG</bibl> 122). At Priene, a local cult also seems to have taken place in the city: one dedication has been found at the theatre (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 177, 3rd century BC), while another was found reused near Athena's treasury (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl>  178, 2nd century BC); an altar of the god, associated with Augustus, was also found near the Asklepieion (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl>, 179). For a possible local cult-place of the god in the city, near the temple of Athena, cf. Hennemeyer.</p>
+
+<p>Lines A3 (and B2): The geographical origin of the epithet Helikonios, already disputed in antiquity, has still not been fully resolved. Etymology would support the view that the epithet is connected to Mount Helicon in Boeotia, because, if the cult had originated from Helike in Achaia, the epithet Helik-eios (rather than Helikonios) for “from Helike”, would be expected (Chantraine, <bibl type="abbr" n="DELG">DELG</bibl>, s.v. Ἑλικών). The connection with Helike could be a later creation (Lohmann, p. 35-36), whereas an ancient link with the Boeotian Helicon has to be taken in consideration, since a dedication found there (<bibl type="abbr" n="I.Thesp.">I.Thesp.</bibl> 273) could be an evidence that the god was worshipped with this epithet as early as the seventh or sixth century BC.</p>
+
+<p>Line A4 : An Epameinon is known in second-century-BC Priene, as a <foreign>neopoios</foreign> (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 117b), and two other homonyms as the father and son of a priestess (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 193). Whether the purchaser of the priesthood of Poseidon should be identified with or was related to one of them remains enigmatic, since his father's name has disappeared; yet it would be unsurprising that priesthoods and liturgies such as the <foreign>neopoia</foreign> were held by members of the same families.</p>
+
+<p>Lines A10-11 (and B10-11 / C6-7): Compare the privileges of the priest of Dionysus Phleos (<ref target="CGRN_176">CGRN 176</ref>, lines 6-8), who gets to eat daily in the prytaneion and in the Panionion. The fact that the Prienians were able to grant such privileges to priests not directly involved in the Panionian cult is revealing of their influence on the federal sanctuary at this time; alternatively, it may suggest that the privileges granted by Priene to the priests (and particularly that of Dionysus) relate to a Panionion located at Priene itself (see above for further discussion).</p>
+
+<p>Lines A11-12 (and B12 / C8-9): The privilege to sit in the front row and the wearing of a (golden) wreath are recurrent priestly perquisites; cp. here <ref target="CGRN_123">CGRN 123</ref> (Tomis), lines 7-9, <ref target="CGRN_124">CGRN 124</ref> (Pergamon), with the commentary on lines 16-18, and <ref target="CGRN_167">CGRN 167</ref> (Kos), lines 12-13. </p>
+
+<p>Lines A12-13 (and B14-15): The word στροφίσκος is an expected diminutive of στρόφιον, “headband worn by priests” (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.). The two different kinds of crowns, worn on different occasions and in different locals—the στέφανος during contests in Priene and the στροφίσκος in the Panionion—seem to develop the articulation between the two different levels of the priesthood—the Prienian and the Panionian respectively (cf. Robert 1960: 452-453).</p>
+
+<p>Lines A14-16 (and B14-16): For each animal sacrificed, the priest shall furnish sacrificial cakes called ἐπιπέμματα; cp. here <ref target="CGRN_81">CGRN 81</ref> (Thebes-on-the-Mykale), lines 14-15. For the <foreign>tetarteus</foreign> (literally “a quarter”, of a <foreign>medimnos</foreign>) and other dry measures used for such provisions at Priene, cf. <ref target="CGRN_176">CGRN 176</ref>, lines 10-12, with commentary.</p>
+
+<p>Line B1 (and B22): The name of the purchaser's father, Sosibios, is attested for a <foreign>neopoios</foreign> without patronym (<bibl type="abbr" n="IK.Priene">IK.Priene</bibl> 109, mid 190's BC), but no identification is certain; see the commentary on line A4, above. On the role of the civic <foreign>neopoios</foreign> in Priene, cf. <ref target="CGRN_157">CGRN 157</ref>, line 4, with commentary.</p>
+
+<p>Lines B22-41: These lines represent an amendment to the contract. In spite of their very fragmentary state, the additions seem to deal with other privileges and prerogatives attached to the priesthood, as may be discerned for example from the mention of gold(en crowns?) (line 25) and liturgies (lines 30 and 32). It is not completely certain that lines B28-41 of a separate fragment, Bh, belong to the same inscription. The fragmentary content of this part of the inscription precludes the drawing of firm conclusions in this respect. In line B23, the name of the month Taureon is probably connected with the sacrifice of a bull to Poseidon Helikonios during the festival of the Taureia, cf. Hom. <title>Il.</title> 20.402-405. For the importance of this month in the cult of this god, cf. <ref target="CGRN_120">CGRN 120</ref> (Sinope), line 9, and <bibl type="abbr" n="Milet VI.3">Milet VI.3</bibl> 1218 (437/6 BC).</p>
+
+<p>Line B31 (cf. also lines C5-6): If the proposed restoration is correct, this would mean that an exemption from all liturgies has been added as a privilege for the priest as part of this amendment (which would at the same time allow a similar restoration in lines C5-6). This could have been a way for the city of making the priesthood more attractive to potential purchasers. We might even infer that such potential purchasers, coming from the elite of Priene and having a vested  interest in being exempted from liturgies, themselves had some influence on the drafting of this amendment or on the contracts (διαγραφαί) themselves. For another element in this phenomenon, compare <ref target="CGRN_176">CGRN 176</ref>, lines 24-30 (from ca. 130 BC, i.e. some decades later), which indexes the exemption from liturgies to the price paid for the priesthood at Priene.</p>
+
+<p>Line B36: The role of the hearth or altar for burnt-offerings in this part of the inscription remains enigmatic. An ἐσχάρα is only attested on one occasion elsewhere in this Collection, also in the context of the specification of priestly perquisites, cf. <ref target="CGRN_57">CGRN 57</ref> (Aixone), line 33. An ἐσχάρα of Poseidon Helikonios is attested in Athens, though perhaps dubiously (<bibl type="abbr" n="FGrH">FGrH</bibl> 323 F 1—Klei(to)demos).</p>
+
+<p>Lines C3-4: The selling-price, lacking in texts A and B, is (rather highly) restored here: Wiemer - Kah's proposition of 472 dr. is based on the order of magnitude of the selling-price in <ref target="CGRN_175">CGRN 175</ref>, lines 41-42 (from Priene) and on an estimation of the number of letters missing in the lines. But if the clause about (exemption from) all liturgies in line B31 actually pertains to this contract, then an amount of more than 4000 dr. (cf. Wilamowitz, apud Hiller von Gaertringen: τ[ετρακισχιλίων]) should not be considered as implausible. About the "tenth" or 10% tax and other modalities of payment for priesthoods at Priene, cf. here <ref target="CGRN_176">CGRN 176</ref> lines 30-35, with commentary.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

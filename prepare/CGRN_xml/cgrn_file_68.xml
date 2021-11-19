@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_68" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 68</idno>: Fragmentary <rs type="textType" key="purity regulation">purity regulation</rs> from Thasos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Marble <rs type="objectType">fragment</rs>, perhaps from a stele, broken on the top and the right. The left margin appears to be intact and the gap of approximately two empty lines at the bottom indicates that the bottom of the stele is preserved (Pouilloux also notes a bulge at the bottom: "bourrelet formant talon en saillie"), and thus marks the end of the text.</p>
+			<p><dimensions>
+					<height unit="cm">22.5</height>
+					<width unit="cm">25</width>
+					<depth unit="cm">13</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">10</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0350">ca. 400-350 BC</origDate></p>
+			<p><desc>Justification: lettering (Pouilloux).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thasos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/501634" type="external">Thasos</ref></placeName>. Found in the remains reused as part of a modern wall on the agora, near the paleochristian Basilica. Now in the Thasos Museum (inv. no. 645).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Pouilloux 1954">Pouilloux 1954</bibl>: 82-85 no. 10 C, with ph. pl. 8 (5-7). Pouilloux includes two others small fragments (A+B) presumed to be from the same text, which are not reprised here (but see below, Commentary).</p>
+				<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 65, with additional restorations.</p>
+			<p>Further bibliography: <bibl type="author_date" n="Parker 1983">Parker 1983</bibl>: 57-58, 227-228; <bibl type="author_date" n="Chaniotis 1988">Chaniotis 1988</bibl>: 14-19, with another fragment from the same dossier; <bibl type="author_date" n="Kah 2012">Kah 2012</bibl>.</p>	
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="Fragment" n="C">Fragment C
+	    			<lb/><gap extent="unknown" unit="line" reason="lost"/>		
+
+<lb xml:id="line_1" n="1"/>καὶ <name type="liquid"><name type="purification"><w lemma="πλύνω">πλύν<supplied reason="lost">ειν</supplied></w></name></name> <gap extent="unknown" unit="character" reason="lost"/> <w lemma="οὐ"><supplied reason="lost">οὐ</supplied></w>
+	    					
+<lb xml:id="line_2" n="2"/><name type="authority"><w lemma="θέμις">θέμις</w></name> τῶν <gap extent="unknown" unit="character" reason="lost"/>
+	    					
+<lb xml:id="line_3" n="3"/><name type="meal"><w lemma="δαίνυμι">δαίνυσθαι</w></name> <orig>επη</orig><gap extent="unknown" unit="character" reason="lost"/>
+	    				
+<lb xml:id="line_4" n="4"/><name type="sacrifice"><name type="liquid"><w lemma="σπένδω">σπείσας</w></name></name> <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <name type="epithet" key="Katharsios"><w lemma="καθάρσιος">Καθαρσίωι</w></name> <gap extent="unknown" unit="character" reason="lost"/> <w lemma="ἔξω"><supplied reason="lost">ἔξω</supplied></w> <supplied reason="lost">τῆς</supplied> <name type="structure"><w lemma="στέγη"><supplied reason="lost">στέ</supplied>
+	    					
+<lb xml:id="line_5" n="5" break="no"/>γης</w></name> ἢ τῆς <name type="structure"><w lemma="οἰκία">οἰκίης</w></name> <gap extent="unknown" unit="character" reason="lost"/>
+	    					
+<lb xml:id="line_6" n="6"/><w lemma="θεῖος">θεῖον</w> <w lemma="περιφέρω">περιφέρον<supplied reason="lost">τ</supplied></w><gap extent="unknown" unit="character" reason="lost"/>
+	    					
+<lb xml:id="line_7" n="7"/><name type="liquid"><w lemma="εἰσχέω">ἐσχέαι</w></name> καὶ τὸ <w lemma="πῦρ">πῦρ</w> <w lemma="καίω">καῦσαι</w> <gap extent="unknown" unit="character" reason="lost"/> <supplied reason="lost">καὶ</supplied> <name type="liquid"><w lemma="λούω"><supplied reason="lost">λούσασθαι</supplied></w></name>
+	    					
+<lb xml:id="line_8" n="8"/><w lemma="κατά">κατὰ</w> <name type="person"><w lemma="κεφαλή">κεφαλῆς</w></name>· οἱ <orig>δ</orig><gap extent="unknown" unit="character" reason="lost"/>
+	    				
+	    		<lb/><space quantity="2" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					(Given the extremely fragmentary character of the text, no translation is attempted; see Commentary.)	
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+					(En raison du caractère très fragmentaire du texte, aucune tentative de traduction n'est proposée; voir Commentary.)
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>Some debate has been stimulated concerning the integrity and the character of the fragments purported to belong to this dossier. Pouilloux's edition suggested that the fragments published belonged together as part of a "chronique sacrée" of the athlete and hero Theogenes of Thasos. Sokolowski doubted this conclusion, noting that it was unsure that the fragments actually belonged together. Indeed, while the letterforms on all three fragments appear to be strikingly similar and of the same relative size, it is perhaps troubling that the blocks published by Pouilloux do not have the same depth (A is about twice as thick, perhaps from a wall block rather than a stele, like our present fragment C). More recently, Chaniotis made the argument that the small fragments published as Pouilloux' no. 9, also belong to this group (though again they are quite slight and varied; note also that the letterforms are often much larger, 2-2.7 cm, and the style is sometimes stoichedon). This part of the dossier, if does indeed belong together, appears to be a catalogue of Theogenes' athletic victoires. See Pouilloux and Chaniotis for further details, on this hero of the city and his relationship with Heracles.</p>
+							
+<p>We reserve judgement about the unity and context of all of these fragments. It may be that our present text, C, belongs to the same period (i.e. the same cutter), but it might only form a looser part of this dossier, if at all. Fragment A may belong in the same group, and its brief phrase with an Ionic infinitive δ̣᾽ εἰνάτευεν (line 1; perhaps [οὐ]|δ̣') could match closely the prescriptions found in the regulation concerning the cult of Heracles on the agora, where "division into nine parts" is prohibited: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_27/">CGRN 27</ref>, lines 4-5. But the remainder of fragment A is enigmatic to say the least (ὁ τίκτων ...; καλύψαι) and we opt not to reprise it here.</p>
+
+<p>In the present fragment (Pouilloux's C), as with several regulations from Thasos, there is fairly high level of detail in the prescriptions, for instance washing but using sulfur and lighting a fire. One notes that is extremely unclear if the prescriptions list here relate to the cult of Theogenes or Heracles, instead they mention Zeus Katharsios and seemingly elaborate purifications.</p>
+
+<p>Lines 1-2: Sokolowski hesitatingly restores <supplied reason="lost">ἱερῶν μέτεχειν</supplied> as the object of οὐ θέμις restriction, which is possible but conjectural. It may be that the restriction is to be connected with the action of washing in the preceding line: cp. e.g. interdictions against washing in sacred springs (Kah). For the recurrent expression οὐ θέμις on Thasos, see <ref target="http://cgrn.ulg.ac.be/CGRN_23/">CGRN 23</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_27/">CGRN 27</ref>, lines 3-4, <ref target="http://cgrn.ulg.ac.be/CGRN_48/">CGRN 48</ref>, line 4, <ref target="http://cgrn.ulg.ac.be/CGRN_178/">CGRN 178</ref>, and Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 68.</p>
+
+<p>Line 3: This mention of feasting is enigmatic given the remainder of the regulation, which is focussed on purification. </p>
+
+<p>Lines 4-5: A libation is to be performed to Zeus Katharsios, perhaps in a case of impurity. If correct, the restoration "out from under the roof or outside the house" (or building) might point to the removal of a source of impurity from this area.</p>
+
+<p>Line 6: The action of "bring around sulfur", or perhaps burning it around with a torch or another device, is a purificatory gesture. Cp. the "pouring into" and the lighting of a fire in the next line, and cf. Parker, p. 57-58, 227-228 on the use of sulfur.</p>
+
+<p>Lines 7-8: If correctly restored, the phrase "wash from the head down" is reminiscent of later cathartic regulations, which regularly invoke such lustral showers; cf. <bibl type="abbr" n="IG II²">IG II²</bibl> 1365, lines 23-25 (Sounion).
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_203" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 203</idno>: Small <rs type="textType" key="purity regulation">purity regulation</rs> from Delos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Part of a <rs type="objectType">base</rs> of white marble. Intact above, below and on the right. </p>
+
+	<p><dimensions>
+		<height unit="cm">19</height>
+		<width unit="cm">26</width>
+		<depth unit="cm">7.7</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p>Carefully engraved.</p>
+			<p>Letters:
+				<height unit="cm">1.7</height> (lines 1-4);
+				<height unit="cm">1.2</height> (lines 5-6).
+				Space between lines: <height unit="cm">1</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0166" notAfter="-0001">after 166 BC</origDate></p>
+
+		<p><desc>Justification: lettering of the period posterior to Delian independence (314-166 BC).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Delos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599588" type="external">Delos</ref></placeName>.</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Roussel - Launey <bibl type="abbr" n="ID">ID</bibl> 2367.
+	    			</p>
+	    			<p> Other editions:
+	    				<bibl type="author_date" n="Fougères 1887">Fougères 1887</bibl>: 258 no. 9;
+	    				<bibl type="author_date" n="Roussel 1913">Roussel 1913</bibl>: 275 no. 3.</p>
+
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 92;
+	    				<bibl type="author_date" n="Zingerle 1924">Zingerle 1924</bibl>;
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 95.
+
+	    			</p>
+
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+	    				<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/> Κλεοστράτη
+
+	    				<lb xml:id="line_2" n="2"/> <w lemma="ὑπέρ"><supplied reason="lost">ὑπὲρ</supplied></w> <w lemma="ἑαυτοῦ"><supplied reason="lost">ἑαυτῶν</supplied></w> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">τῶν (?)</supplied> <w lemma="παῖς">παιδίων</w> Κλεῶς
+
+	    				<lb xml:id="line_3" n="3"/> <gap reason="lost" extent="unknown" unit="character"/>ς Κλεοστράτης,
+
+	    				<lb xml:id="line_4" n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Artemis"><w lemma="Ἄρτεμις"><supplied reason="lost">Ἀρ</supplied>τέμιδι</w></name>.
+
+	    				<lb xml:id="line_5" n="5"/> <w lemma="πάρειμι"><supplied reason="lost">παριέναι</supplied></w> <name type="purification"><w lemma="ἁγνός"><supplied reason="lost">ἁγν</supplied>ὸν</w></name> <w lemma="ἀπό">ἀπὸ</w> <name type="sex"><w lemma="γυνή">γυναικὸς</w></name>
+
+	    				<lb xml:id="line_6" n="6"/> <supplied reason="lost">καὶ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">κ</supplied>αὶ <name type="meal"><name type="animal" key="fish"><w lemma="τάριχος">ταρίχου</w></name></name>.
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						[...] Kleostrate [on behalf of her own and her (?)] children, Kleos [...] of Kleostrate [...] to Artemis. [Enter] pure from a woman [and from ... and] from fish.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p/>
+					<p> [...] Kleostratè [pour les siens et ses (?)] enfants, Kleos [...] de Kleostratè [...] à Artémis. [Entrer] pur de (relations avec) une femme [et de ... et] (d'avoir mangé) du poisson.</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p>This inscription contains a dedication to Artemis by a woman, the precise subject of which is lost—it may have involved her children (or young slaves?). This is followed by brief rules concerning ritual purity. A short-term impurity resulted from sex in many purity regulations, usually "with a woman" or "with one's wife" (cf. our discussion in the commentary on <ref target="http://cgrn.ulg.ac.be/CGRN_71/">CGRN 71</ref>). By contrast, the interpretation of the word τάριχος is contested and unclear. Roussel plausibly thinks of a smoked fish; cp. our commentary on <ref target="http://cgrn.ulg.ac.be/CGRN_217/">CGRN 217</ref>, lines 2-3, in which eating fish results in a (brief) impurity. Ziehen connects dietary prohibitions of this type to the influence of so-called 'Oriental' religions; this, according to Roussel, may be a suitable interpretation with respect to the context of the cult of Artemis on Delos at this date (Roussel 1913: 275 n. 5; Zingerle interpreted the term τάριχος as referring to a corpse, since this word is used to refer to mummified bodies in Egypt). At any rate, though the inferences of Ziehen and Roussel are possible or even probable, the context of this dedication and this cult nonetheless remain unclear.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

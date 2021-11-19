@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_165" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 165</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> for Artemis on Kos</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Stéphanie Paul</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<p> Fragment of white marble <rs type="objectType">stele</rs> broken on all sides, inscribed on the front (A) and right (B) sides.</p>
+									<p>
+										<dimensions>
+											<height unit="cm">30</height>
+											<width unit="cm">18.5</width>
+											<depth unit="cm">25</depth>
+										</dimensions>
+									</p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+									<p> Letters: <height unit="cm">1</height>; space between lines: <height unit="cm">0.6</height>.</p>
+								</layout>
+							</layoutDesc>
+
+
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p>
+								<origDate notBefore="-0200" notAfter="-0150">ca. 200-150 BC</origDate>
+							</p>
+							<p>
+								<desc>Justification: lettering (Hallof - Bosnakis). </desc>
+							</p>
+						</origin>
+						<provenance>
+							<p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found in the modern town. Now in the repository in the Castle.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2016 by Z. Pitz </p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+
+				<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 339. For the restoration of line 21, see Carbon (below); for line 22, see Paul 2013b (below) and again Carbon.</p>
+				<p> Other edition: Segre <bibl type="abbr" n="I.Cos">I.Cos</bibl> ED 25 with ph. pl. 9.</p>
+
+				<p>Cf. also: <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20339" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+
+				<p> Further bibliography: <bibl type="author_date" n="Parker - Obbink 2000">Parker - Obbink 2000</bibl>: 423; <bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>: 304; <bibl type="author_date" n="Piolot 2005">Piolot 2005</bibl>; <bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 142-143, 346-351; <bibl type="author_date" n="Paul 2013b">Paul 2013b</bibl>: 272 with n. 138; <bibl type="author_date" n="Carbon 2017">Carbon 2017</bibl>: n. 45.</p>
+			</div>
+
+			<div type="edition">
+				<head>Text</head>
+				<ab subtype="Face" n="A">Face A 
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+					
+<lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>σ</orig> <space quantity="1" unit="character"/>
+					
+<lb xml:id="line_2" n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἀμείνων"><supplied reason="lost">ἄμει</supplied>νον</w> <w lemma="εἰμί">ἔστω</w> καὶ <w lemma="αὐτός">αὐτοῖς</w>
+										
+<lb xml:id="line_3" n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name type="person"><w lemma="ποιέω"><supplied reason="lost">ποιευμένοις</supplied></w></name> <supplied reason="lost">τὰ</supplied> <name type="authority"><w lemma="γράφω"><supplied reason="lost">γεγ</supplied>ραμμένα</w></name>· ταῖς δὲ 
+					
+<lb xml:id="line_4" n="4"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τοὶ</supplied> <name type="title"><w lemma="προστάτης"><supplied reason="lost">προ</supplied>στάται</w></name> τοὶ <w lemma="ἐν">ἐν</w> <w lemma="ἀρχή">ἀρχᾶι</w>
+					
+<lb xml:id="line_5" n="5"/><w lemma="εἰμί"><supplied reason="lost">εὖντες</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐξαιρέω"><supplied reason="lost">ἐ</supplied><unclear>ξ</unclear>αιρείσθων</w>
+					
+<lb xml:id="line_6" n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="συντελέω">συντελουμένων</w>
+
+<lb xml:id="line_7" n="7"/><gap reason="lost" extent="unknown" unit="character"/><orig>ον</orig> <w lemma="ἐκ">ἐξ</w> <w lemma="ἕκαστος">ἑκάστας</w>
+										
+<lb xml:id="line_8" n="8"/><gap reason="lost" extent="unknown" unit="character"/> <name type="personnel"><w lemma="ὑφιέρεια">ὑπιερείας</w></name>
+					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+				</ab>
+
+				<ab subtype="Face" n="B"> Face B 
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+<lb xml:id="line_9" n="9"/><gap reason="lost" extent="unknown" unit="character"/><orig>λ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_10" n="10"/><gap reason="lost" extent="unknown" unit="character"/><orig>ων</orig> <orig>σ<unclear>υμ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_11" n="11"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="καθότι">καθότι</w> <name type="authority"><w lemma="γράφω">γέ<unclear>γ</unclear><supplied reason="lost">ραπται</supplied></w></name>
+					
+<lb xml:id="line_12" n="12"/><w lemma="περί"><supplied reason="lost">περὶ</supplied></w> <name type="festival"><w lemma="λαμπαδεία"><supplied reason="lost">λαμ</supplied><unclear>π</unclear>αδείας</w></name>· τοὶ <name type="personnel"><w lemma="προστάτης"><unclear>π</unclear><supplied reason="lost">ροστά</supplied>
+
+<lb xml:id="line_13" n="13" break="no"/><supplied reason="lost">ται</supplied></w></name> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θυσ</supplied>άντω</w></name> τᾶι <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτάμι<supplied reason="lost">τι</supplied></w></name>
+					
+<lb xml:id="line_14" n="14"/><name type="animal" key="ox"><name type="gender"><w lemma="δάμαλις"><supplied reason="lost">δάμ</supplied>αλιν</w></name></name> <name type="quality"><w lemma="χρυσόκερως">χρυσοκέρων</w></name> <w lemma="πομπεύω">π<supplied reason="lost">ομ</supplied>
+
+<lb xml:id="line_15" n="15" break="no"/><supplied reason="lost">πε</supplied>ύσαντες</w> <w lemma="ἐκ">ἐκ</w> τοῦ <name type="structure"><w lemma="πρυτανεῖον">πρυτα<supplied reason="lost">νεί</supplied>
+							
+<lb xml:id="line_16" n="16" break="no"/><supplied reason="lost">ο</supplied>υ</w></name> <w lemma="ὡς">ὡς</w> <w lemma="καλός">κάλλιστα</w> <w lemma="μετά">μετά</w> τε τ<supplied reason="lost">οῦ</supplied>
+					
+<lb xml:id="line_17" n="17"/><name type="title"><w lemma="μόναρχος"><supplied reason="lost">μ</supplied>ονάρχου</w></name> καὶ <name type="personnel"><w lemma="ἱεροποιός">ἱεροποιῶν</w></name> κα<supplied reason="lost">ὶ</supplied>
+					
+<lb xml:id="line_18" n="18"/> τῶν <w lemma="ἄλλος">ἄλλων</w> τῶν <w lemma="ἐπί">ἐπὶ</w> τᾶς <name type="festival"><w lemma="λαμπαδεία">λ<supplied reason="lost">αμ</supplied>
+						
+<lb xml:id="line_19" n="19" break="no"/>παδείας</w></name> <w lemma="ἡγέομαι">ἁγησαμένων</w>· τ<supplied reason="lost">ᾶς</supplied> <supplied reason="lost">δὲ</supplied>
+					
+<lb xml:id="line_20" n="20"/><name type="animal" key="ox"><name type="gender"><w lemma="δάμαλις">δαμάλιος</w></name></name> <w lemma="ὅς">ἇς</w> κα <name type="sacrifice"><w lemma="θύω">θύσω<unclear>ν</unclear><supplied reason="lost">τι</supplied></w></name> <w lemma="δίδωμι"><supplied reason="lost">διδό</supplied>
+					
+<lb xml:id="line_21" n="21" break="no"/>μεν</w> <name type="portion"><w lemma="γέρας">γέρη</w></name> τᾶι <name type="personnel"><w lemma="ἱέρεια">ἱερῆι</w></name> τὸ<supplied reason="lost">ν</supplied> <name type="portion"><w lemma="ὦμος"><supplied reason="lost">ὦμον</supplied></w></name>,
+					
+<lb xml:id="line_22" n="22"/><w lemma="ἐκ">ἐξ</w> <w lemma="ὅς">οὗ</w> ἁ <name type="portion"><w lemma="θεομοιρία">θευμορί<unclear>α</unclear></w></name> <name type="portion"><w lemma="τέμνω"><supplied reason="lost">τάμνεται</supplied></w></name> <supplied reason="lost">καὶ</supplied>
+					
+<lb xml:id="line_23" n="23"/> ταῖς <name type="group"><w lemma="γέραιρα">γεραίραι<supplied reason="lost">ς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὰ</supplied> <supplied reason="lost">δὲ</supplied>
+						
+<lb xml:id="line_24" n="24"/><w lemma="λοιπός">λοιπὰ</w> <name type="portion"><w lemma="κρέας">κρ<supplied reason="lost">έα</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+<lb xml:id="line_25" n="25"/> τοῖς <gap reason="lost" extent="unknown" unit="character"/>
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+				</ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				<p>Face A</p>
+				<p> [...] may it be better also for them [... doing what] is prescribed. But for the [...] the <foreign>prostatai</foreign> who are in function [...] (5) are to choose (or remove?) [...] of those who fulfill [...] from each [...] under-priestesses [...] </p>
+				<p>Face B</p>
+				<p> [... (10) ...] as it is prescribed [with respect to] the torchlight procession. The <foreign>prostatai</foreign> are to sacrifice to Artemis a heifer with gilded horns, after (15) having taken part in a procession in the most elegant way possible from the <foreign>prytaneion</foreign> together with the <foreign>monarchos</foreign> and the <foreign>hieropoioi</foreign> and the others who have led the torchlight procession. Of the (20) heifer that they have sacrificed, they should give as perquisites: to the priestess the [shoulder] from which the divine part [is cut, and] for the elder women [..., but the] rest of the meat [...] (25) to those [...]</p>
+			</div>
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				<p>Face A</p>
+				<p>[... (10) ...] que cela aille mieux pour eux aussi [... en faisant ce qui] est prescrit. Pour les [... que les] prostates qui sont en fonction [...] (5) choisissent (ou prélèvent ?) [...] de ceux qui accomplissent [...] de chaque [...] sous-prêtresses [...]</p>
+				<p>Face B</p>
+				<p>[...] comme il est prescrit [au sujet de la] procession aux flambeaux. Que les prostates sacrifient à Artémis une génisse aux cornes dorées, après (15) avoir défilé en procession à partir du prytanée de la plus belle des manière possible, avec le monarque, les hiéropes et les autres qui ont mené la procession aux flambeaux. De la (20) génisse qu’ils ont sacrifiée, qu’on donne comme parts d’honneur : à la prêtresse, l'[épaule] d’où la part divine [est coupée et] aux femmes âgées [..., mais le] reste des viandes [...] (25) à ceux [...]</p>
+			
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+ 
+<p> The exact nature of this document is unclear. It has been classified among the sales of priesthood by Parker and Obbink, but the text is too fragmentary for this identification to be certain. Due to its fragmentary state, it is difficult to determine the nature of Side A, in which we can only decipher some individual words and phrases. This part of the inscription seems to determine the authority for particular ritual actions that are to be organized (lines 2-3), to specify responsible officials (lines 4-5) and then to detail some sacrifices or offerings (lines 5-6) followed by other fragments. Side B preserves rules for the organisation of a procession on the model of another procession with torches, a sacrifice to Artemis, and the distribution of perquisites and the rest of the sacrificial meat.</p> 
+	
+<p> Lines 2-3: The preserved part of Side A may have started out with some claim(s) of authority for the ritual guidelines that apparently follow further on. The reference to what is "better" (ἄμεινον) might be part of a formulaic oracular phrase. In questions to oracles one would often ask whether a particular course of action would be λώϊον καὶ ἄμεινον "better and more good" (cf. e.g. <ref target="CGRN_104">CGRN 104</ref>, line 4); the oracle's affirmation that some action was (to be considered) λώϊον καὶ ἄμεινον could then serve as an authority statement in decrees, for example in <ref target="CGRN_24">CGRN 24</ref>, line 10. Alternatively, the clause with ἄμεινον could have formed a part of an oath, an imprecation, or more generally, a speech-act indicating that a certain course of action was recommended (and blessed), while the alternative was (implicitly) religiously condemned. Cf. e.g. the clauses in two inscriptions from Kos, <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 302 (sale of the priesthood of Aphrodite Pandamos), lines 20-21: ταῖ<supplied reason="omitted">ς</supplied> δὲ συντελούσαις τὰ ἐψαφισμένα ἄμεινον ἦμεν; and <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 68, lines 41-42: τοῖς δὲ στεφαναφορήσασι λώϊον καὶ ἄμεινον ἦμεν, where the echo of the oracle is more perceptible given the context of the celebration of the Delphic Soteria on the island. However, since the word ἄμεινον is heavily restored, these interpretations must remain tentative. In line 3, the probable mention of "the writings" (τὰ γεγραμμένα) seems also to represent an authoritative claim, perhaps referring to another set of rules set in stone.</p>
+				
+<p> Lines 4-6: On Side B of this inscription, the <foreign>prostatai</foreign> are responsible for making a sacrifice to Artemis. We may tentatively infer that they are the agents of the actions of that follow here in lines 5-6 as well. The verb ἐξαιρέω sometimes refers to dedicating objects to a god (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v., A II, cf. e.g. Hdt 1.148 ἐξαραιρημένος Ποσειδέωνι). It is also used to refer to the extraction of portions of meat and γέρα from the carcass of the sacrificial animal, cf. here <ref target="CGRN_183">CGRN 183</ref> (Chalketor), lines 4-5: ἐ[ξ]αιρεθέντων δὲ τῶν | [κρε]ῶν καὶ τὰ γέρα τῆι ἱερείαι. In <ref target="CGRN_29">CGRN 29</ref> (Delphi), line 25, the phrase τὰ ἐξαίρετα introduces a list, possibly of perquisites. The term συντελουμένων seems to be a reference to rituals or ceremonies which have been completed or accomplished.</p>
+					
+<p> Lines 7-8: The sense is hopelessly lost here. Perhaps this part of the inscription would have referred to particular groups from which officials should be selected, e.g. ἐξ ἑκάστας φυλᾶς. A <foreign>hyphiereia</foreign>, an assistant priestess, is also known for the cult of Dionysus Thyllophoros on Kos, cf. <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 304 and 326. A priestly assistant called ἀκόλουθος is mentioned e.g. in <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 15-16.</p>
+
+<p> Line 10-12: The figure of Artemis is well-known as torch-bearing. This part of the inscription does not concern the torch-race or procession per se, but it is here mentioned as a point of reference for the organisation of something else, perhaps another procession, aspects of which are to be organized in the same way (cf. also Piolot). The torch-race or procession in and of itself must have been an occasion celebrated for Artemis on Kos.</p>
+				
+<p> Lines 12-14: Cp. the sacrifice of a heifer with gilded horns to Athena and Homonoia in <ref target="CGRN_205">CGRN 205</ref> (Antiocheia-ad-Pyramum), line 10. For the sacrifice of cows (with gilded horns), cp. also the commentary on <ref target="CGRN_139">CGRN 139</ref> (Kos), at lines 8-11, and <ref target="CGRN_192">CGRN 192</ref> (Panamara), lines 8-9.</p>
+
+<p> Lines 14-19: Cp. the procession in the cult of Nike on Kos, <ref target="CGRN_163">CGRN 163</ref>, in which the monarch and the victors in a competition are also to participate in a procession.</p>
+	
+<p> Line 22: The supplement [διανειμάσθω] proposed by the edition of <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> is not entirely satisfactory, and has been rightly questioned by Paul 2013b, on the basis of a similar passage in the sacrificial calendar of Kos, <ref target="CGRN_86">CGRN 86</ref> D, lines 19-20: τῶν δὲ ὀΐων τὸ<supplied reason="omitted">ν</supplied> ὦμον, ἐξ οὗ ἁ θευμορία τάμνεται; Paul 2013b thus convincingly suggests the restoration of the verb [τάμνεται] here instead. Taking this further, Carbon proposes that both in the sacrificial calendar and here, we should think that it was the shoulder or a foreleg "from which the divine portion [was cut]"; this thus entails the restoration τὸ<supplied reason="lost">ν ὦμον</supplied>, rather than a σκέλος that would properly designate a hind leg. The <foreign>theomoira</foreign> is the part devoted to the gods and burnt on the altar, which was cut from the same foreleg or shoulder that was attributed to the priestess as a honorary share. For other portions from the shoulder which were offered or burned on the altar for the gods, i.e. as a divine share, see here e.g. <ref target="CGRN_103">CGRN 103</ref> (Phrearrhioi), lines 6-7: μασχαλίσματα); at <ref target="CGRN_156">CGRN 156</ref>, ines 7-8, in one sacrifice of the calendar from Mykonos, the shoulderblade is to be extracted and "libated", i.e. either poured over with a libation or offered as a divine portion on the altar (or both). On the meaning and usage of the term <foreign>theomoira</foreign> on Kos, see Paul 2013a: 346-351; for further discussion and a comparison with the term ἱερὰ μοῖρα, see <ref target="CGRN_39">CGRN 39</ref> (Miletos), lines 3-8, and Carbon.</p>
+				
+<p> Line 23: The <foreign>gerairai</foreign> are otherwise unknown on Kos, but are attested in Athens in connection with the cult of Dionysus (Parker) as well as, for instance, on Thera (cf. <bibl type="abbr" n="IG XII.3">IG XII.3</bibl> 420). These "old women" involved in the cult of Artemis presumably received a special perquisite, different from that of the priestess; see Carbon for a suggestion of [ταρσός], again following the sacrificial calendar of Kos.</p>
+				
+<p> Lines 24-25ff: After the perquisites for special individuals have been assigned, the rest of the meat would have been distributed among the members of the cultic group. This part of the inscription may have prescribed a general distribution among the citizen body (cp. <ref target="CGRN_19">CGRN 19</ref>, Athens, lines 10-11, where we find a distribution of meat in the Agora) or a more limited groups; it would also potentially have specified other modalities of the portions to be distributed (size or weight, raw or cooked, etc).</p>
+				
+			</div>
+		</body>
+	</text>
+</TEI>

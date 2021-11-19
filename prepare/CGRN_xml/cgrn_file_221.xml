@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_221" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 221</idno>: <rs type="textType" key="priestly contract">Contract</rs> of sale for the priesthood of Heracles Kallinikos on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Stéphanie Paul</author>
+	    			<author>Saskia Peels</author>
+	    		
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> <rs type="objectType">Stele</rs> of white marble, broken at the bottom.</p>
+			
+			<p> <dimensions>
+				<height unit="cm">53.5</height>
+				<width unit="cm">40-42</width>
+				<depth unit="cm">10-11</depth>
+			</dimensions></p>
+			
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p> Letters: <height unit="cm">0.8</height>; space between lines: <height unit="cm">0.5</height>.</p> 	
+		</layout></layoutDesc>
+		
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0125" notAfter="-0100">ca. 125-100 BC</origDate></p>
+		<p><desc>Justification: lettering (Hallof - Bosnakis).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found in the town near the church of Hagios Dimitrios. Now in the Castle (inv. no. E 382). </p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2016 by Z. Pitz </p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by J.-M. Carbon in 05.2018.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 320.</p>	
+	    			<p> Other editions: Segre,                  
+	    				<bibl type="abbr" n="I.Cos">I.Cos</bibl> ED 180.</p>
+
+	    			<p>Cf. also: <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20320" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+	    			
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Graf 1985">Graf 1985</bibl>: 174-175 n. 103;
+					<bibl type="author_date" n="Jones 1999">Jones 1999</bibl>;
+	    				<bibl type="author_date" n="Rocco 2004">Rocco 2004</bibl>;
+	    				<bibl type="author_date" n="Parker 2011">Parker 2011</bibl>: 64-102; 
+	    				<bibl type="author_date" n="Versnel 2011">Versnel 2011</bibl>: 23-159;
+	    				<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 99-108;
+	    				<bibl type="author_date" n="Pirenne-Delforge - Pironti 2015">Pirenne-Delforge - Pironti 2015</bibl>.
+	    			</p>
+	    		</div>
+
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab> 
+	    			
+	    				<lb xml:id="line_1" n="1"/><w lemma="ἐπί">ἐπὶ</w> <name type="title"><w lemma="μόναρχος">μονάρχου</w></name> 
+	    	
+	   <lb xml:id="line_2" n="2"/>Παρμενίσκου,  
+	    	
+	   <lb xml:id="line_3" n="3"/><w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ὑακίνθιος">Ὑακινθίου</w></name> <num value="16">ι̅ς̅</num>,
+	    	
+	   <lb xml:id="line_4" n="4"/><name type="epithet" key="Agathe"><w lemma="ἀγαθός">ἀγαθᾶι</w></name> <name type="deity" key="Tyche"><w lemma="τύχη">τύχαι</w></name>, <w lemma="ὅδε">τάδε</w> <name type="authority"><w lemma="συγγράφω">συνέγραψαν</w></name> <name type="title"><w lemma="προστάτης">προστάτα<supplied reason="lost">ι</supplied></w></name> <unclear>Φ</unclear>ίλιππος Φί 
+	    	
+	   <lb xml:id="line_5" n="5" break="no"/>λωνος, Σώστρατος Φιλίνου, Λαμπίας Φιλίππου, Κάλλιπ
+	    	
+	   <lb xml:id="line_6" n="6" break="no"/>πος Καλλίππου <w lemma="κατά">καθ᾿</w> <w lemma="υἱοθεσία">ὑοθεσίαν</w> δὲ Ἡρακλείτου, Εὔκαρπος Κλε
+	    	
+	   <lb xml:id="line_7" n="7" break="no"/>ονίκου, καὶ <name type="group"><w lemma="βουλή">βουλ<surplus>λ</surplus>ᾶς</w></name> <name type="title"><w lemma="γραμματεύς">γραμματεὺς</w></name> Ἡράκλειτος Ἰατροκλεῦς,
+	    	
+	   <lb xml:id="line_8" n="8"/><w lemma="περί">περὶ</w> τᾶς <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύνας</w></name> τοῦ <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλεῦς</w></name> τοῦ <name type="epithet" key="Kallinikos"><w lemma="καλλίνικος">Καλλινίκου</w></name> <unclear>τ</unclear>οῦ <w lemma="ἐπί">ἐ 
+	    	
+	 <lb xml:id="line_9" n="9" break="no"/><unclear>π</unclear>ὶ</w> <name type="locality"><w lemma="ἀγορά">ἀγορᾶι</w></name> καὶ <w lemma="ἐπί">ἐπὶ</w> <name type="locality"><w lemma="λιμήν">λιμένι</w></name>· τοὶ <name type="title"><w lemma="προστάτης">προστάται</w></name> <w lemma="ἐπεί">ἐπεί</w> <w lemma="ἄν">κα</w> <w lemma="μέλλω">μέ<supplied reason="omitted">λ</supplied>λωντι</w> <w lemma="πωλέω">πω 
+	    	
+	 <lb xml:id="line_10" n="10" break="no"/>λεῖν</w> τὰν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύναν</w></name>, <name type="sacrifice"><w lemma="θύω">θυσάντω</w></name> <w lemma="ἑκάτερος">ἑκατέρωι</w> τῶν <name type="deity" key="Heracles"><w lemma="θεός">θεῶν</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖ	    	
+	    			
+	    <lb xml:id="line_11" n="11" break="no"/>ον</w></name> <w lemma="ἀπό">ἀπὸ</w> <w lemma="δραχμή">δραχμᾶν</w> <w lemma="ἑκατόν">ἑκατὸν</w> <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="ὑγίεια">ὑγιείας</w> τῶν τε <name type="group"><w lemma="πολίτης">πολ<supplied reason="lost">ιτᾶ</supplied><unclear>ν</unclear></w></name> <unclear>κ</unclear>αὶ <name type="group"><w lemma="πόλιτις">πο	    	
+
+	    <lb xml:id="line_12" n="12" break="no"/><supplied reason="omitted">λ</supplied>ιτίδων</w></name> καὶ τῶν <name type="group"><w lemma="κατοικέω">κατοικεύντων</w></name> <w lemma="ἐν">ἐν</w> τᾶι <name type="locality"><w lemma="πόλις">πόλει</w></name>, τοὶ δὲ <name type="title"><w lemma="ταμίας">ταμία<unclear>ι</unclear></w></name> <w lemma="προτελέω"><unclear>π</unclear><supplied reason="lost">ρο</supplied>
+	    	
+	    <lb xml:id="line_13" n="13" break="no"/>τελεσάντω</w> <w lemma="αὐτός">αὐτοῖς</w> <w lemma="εἰς">ἐς</w> τὰν <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> τὸ <name type="authority"><w lemma="προγράφω">προγεγραμμένον</w></name> <w lemma="ἀργύριον">ἀρ
+	    	
+	    <lb xml:id="line_14" n="14" break="no"/>γύριον</w>· τοὶ <name type="title"><w lemma="πωλητής">πωληταὶ</w></name> <w lemma="ἀποδίδωμι">ἀποδόσθων</w> τὰν <name type="personnel"><w lemma="ἱερωσύνη">ἱερωσύναν</w></name> <w lemma="ἐν">ἐμ</w> <w lemma="μείς">μηνὶ</w> <name type="month"><w lemma="Πάναμος">Πα
+	    	
+	    <lb xml:id="line_15" n="15" break="no"/><unclear>ν</unclear>άμωι</w></name> <supplied reason="omitted">τ</supplied>ᾶι <w lemma="νουμηνία">νουμηνίαι</w>· ὁ δὲ <w lemma="πρίαμαι">πριάμενος</w> <w lemma="εἰμί">ἔστω</w> <w lemma="ὑγιής">ὑγιὴς</w> <supplied reason="omitted">κ</supplied>αὶ <w lemma="ὁλόκληρος">ὁλόκλα
+	    
+	    <lb xml:id="line_16" n="16" break="no"/><supplied reason="lost">ρ</supplied>ος</w> καὶ <w lemma="μή">μὴ</w> <w lemma="νεώτερος">νεώτερος</w> <w lemma="ἔτος">ἐτέων</w> <w lemma="δέκα">δέκα</w>· <name type="personnel"><w lemma="ἱερόω">ἱεράσθω</w></name> δὲ <w lemma="ἐπί">ἐπὶ</w> <w lemma="βίος">βίου</w>· <w lemma="ἀτελής">ἀτε
+	    
+	    <lb xml:id="line_17" n="17" break="no"/><unclear>λ</unclear>ὴς</w> δὲ <w lemma="εἰμί">ἔστω</w> τᾶν <w lemma="λειτουργία">λειτου<supplied reason="omitted">ρ</supplied>γιᾶν</w> <w lemma="πᾶς">πασᾶν</w> <w lemma="πλήν">πλὰν</w> <w lemma="λαμπαδαρχία">λαμπαδαρχίας̣</w>
+	    				
+	    <lb xml:id="line_18" n="18"/>καὶ <w lemma="τριηραρχία">τριηραρχίας</w>· <w lemma="ἀπολύω">ἀπολελύσθω</w> δὲ
+καὶ <w lemma="σιτοφυλακία">σιτοφυλακίας</w> καὶ <name type="meal"><w lemma="ὑποδοχή">ὑ<supplied reason="lost">πο</supplied>
+	    				
+	    <lb xml:id="line_19" n="19" break="no"/>δοχᾶς</w></name> <w lemma="Ῥωμαῖος">Ῥωμαίων</w> καὶ <name type="personnel"><w lemma="ἐπιμηνιεία">ἐπιμηνιείας</w></name> <w lemma="πᾶς">πάσας</w> <w lemma="ἐπί">ἐφ᾿</w> <w lemma="ὅς">ἇς</w> <w lemma="αἱρέω"><unclear>α</unclear>ἱρεῖται</w> <supplied reason="lost">ὁ</supplied> <name type="group"><w lemma="δῆμος"><supplied reason="lost">δᾶ</supplied>
+	    			
+	    <lb xml:id="line_20" n="20" break="no"/>μος</w></name>· <w lemma="καθίστημι">καθήσθω</w> δὲ καὶ <w lemma="ἐν">ἐν</w> <w lemma="προεδρία">προεδρίαι</w> καὶ <name type="sacrifice"><name type="liquid"><w lemma="σπένδω">σπενδέτω</w></name></name> <w lemma="ἐν">ἐν</w> <w lemma="πᾶς">πᾶσ<supplied reason="lost">ι</supplied></w>
+	    				
+	   <lb xml:id="line_21" n="21"/><supplied reason="lost">τ</supplied>οῖς <w lemma="χορικός">χορικοῖς</w> <w lemma="ἀγών">ἀγῶσι</w> <w lemma="μετά">μετὰ</w> τῶν <w lemma="ἄλλος">ἄλλων</w> <name type="personnel"><w lemma="ἱερεύς">ἱερέων</w></name> τῶν <name type="group"><w lemma="δημώδης">δ<unclear>α</unclear>μ<supplied reason="lost">ω</supplied>    		
+	   	
+	  <lb xml:id="line_22" n="22" break="no"/>δῶν</w></name>, καὶ <w lemma="φορέω">φορείτω</w> <name type="clothing"><w lemma="χιτών">κιθῶνα</w></name> <name type="colour2"><w lemma="διάλευκος">διάλευκον</w></name>·
+<name type="adornment"><w lemma="στεφανόω">ἐστε<supplied reason="lost">φ</supplied><unclear>α</unclear>νώσθω</w></name> δὲ
+	    			
+	   <lb xml:id="line_23" n="23"/>καὶ <name type="adornment"><w lemma="στέφανος">στεφάνωι</w></name> <name type="colour2"><w lemma="λεύκινος">λευκίνωι</w></name>, <w lemma="ἔχω">ἐχέτω</w> δὲ καὶ <name type="object"><w lemma="ἄφαμμα">ἄφαμμα</w></name> καὶ <w lemma="χρύσεος">χρυσέος</w>
+	    				
+	   <lb xml:id="line_24" n="24"/><name type="object"><w lemma="δακτύλιος">δακτυλίος</w></name>· <w lemma="ὅπως">ὅπως</w> δὲ καὶ αἱ <name type="sacrifice"><w lemma="θυσία">θυσίαι</w></name> τοῖς <name type="deity" key="Heracles"><w lemma="θεός">θεοῖς</w></name> <w lemma="οὗτος">τούτοις</w> <w lemma="ἐπιφανής">ἐπιφ<unclear>α</unclear>
+	    				
+	    <lb xml:id="line_25" n="25" break="no"/>νέστερον</w> <w lemma="συντελέω">συντελῶνται</w>, <w lemma="ὅς">ἃς</w> μὲν <name type="sacrifice"><w lemma="θύω">θύει</w></name> ὁ <name type="title"><w lemma="μόναρχος">μόναρχος</w></name> καὶ τοὶ <name type="personnel"><w lemma="ἱεροποιός">ἱερο
+	    			
+	 <lb xml:id="line_26" n="26" break="no"/>ποιοὶ</w></name>, <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> <unclear>τ</unclear>ὰ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> <w lemma="πρός">ποτὶ</w> τὸ <w lemma="διαγράφω">διαγραφόμενον</w> <w lemma="αὐτός">αὐτοῖς</w> <w lemma="ἀργύριον">ἀργύ
+	    			
+	 <lb xml:id="line_27" n="27" break="no"/>ριον</w> <w lemma="παρά">παρὰ</w> τῶν <name type="title"><w lemma="ταμίας">ταμιᾶν</w></name>· καὶ <w lemma="ὅπως">ὅπως</w> ὁ <name type="group"><w lemma="δῆμος">δᾶμος</w></name> <w lemma="φαίνω">φαίνηται</w> <w lemma="συνεπαύξω">συνεπαύ	    			
+	
+	<lb xml:id="line_28" n="28" break="no"/>ξων</w> τὰς <w lemma="τιμή">τιμὰς</w> τῶν <w lemma="θεός">θεῶν</w>, τοὶ <w lemma="χειρίζω">χειρίζοντες</w> τὰ τοῦ <name type="deity" key="Heracles"><w lemma="Ἡρακλέης">Ἡρακλεῦ<supplied reason="lost">ς</supplied></w></name>	    
+	    				
+	<lb xml:id="line_29" n="29"/>τοῦ <name type="epithet" key="Kallinikos"><w lemma="καλλίνικος">Καλλινίκου</w></name> <w lemma="χρῆμα">χρήματα</w> <w lemma="διαγράφω">διαγραφόντω</w> τοῖς <name type="title"><w lemma="προστάτης">προστάταις</w></name>
+	    			
+	 <lb xml:id="line_30" n="30"/><w lemma="εἰς">ἐς</w> <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name>, τοῖς μὲν τὰν <w lemma="θερινός">θερινὰν</w> <w lemma="ἄρχω">ἄρχουσιν</w> <name type="month"><w lemma="Ἀρτεμίσιος">Ἀρταμιτίου</w></name> <w lemma="νουμηνία">νου
+	    				
+	 <lb xml:id="line_31" n="31" break="no"/>μηνίαι</w> <w lemma="δραχμή">δραχμὰς</w> <w lemma="πεντήκοντα">πεντήκοντα</w>· <w lemma="κατά">κατὰ</w> <w lemma="αὐτός">ταὐτὰ</w> δὲ <w lemma="διαγράφω">διαγραψάντω</w>	    				
+	    				
+	  <lb xml:id="line_32" n="32"/><unclear>κ</unclear>αὶ τοῖς <w lemma="ἐν">ἐν</w> <w lemma="ἀρχή">ἀρχᾶι</w> <name type="title"><w lemma="προστάτης">προστάταις</w></name> <w lemma="εἰς">ἐς</w> <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> <w lemma="δραχμή">δραχμὰς</w> <w lemma="πεντήκοντα">πεντή
+	    				
+	  <lb xml:id="line_33" n="33" break="no"/><supplied reason="lost">κ</supplied>οντα</w>, <w lemma="ἐπεί">ἐπεί</w> <w lemma="ἄν">κα</w> ἁ <w lemma="τελετή">τελετὰ</w> τοῦ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name> καὶ τᾶς <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> <w lemma="ἐπιτελέω">ἐπιτελ<unclear>ῆ</unclear>   			
+	   
+	  <lb xml:id="line_34" n="34" break="no"/><supplied reason="lost">τ</supplied>αι</w>· τοὶ δὲ <w lemma="διαγράφω">διαγραψάμενοι</w> <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> <w lemma="πρός">πρὸς</w> τὸ <w lemma="διαγράφω">διαγραφὲν</w> <w lemma="αὐτός">αὐτοῖς</w>	    					   
+<lb xml:id="line_35" n="35"/><w lemma="ἀργύριον">ἀργύριον</w>· <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> δὲ καὶ τοὶ <w lemma="πρός">πο<unclear>τὶ</unclear></w> τὸ <name type="group"><w lemma="πολίτευμα">πολίτευμα</w></name> <w lemma="προσπορεύομαι">ποτιπορευό	    			
+	
+	    <lb xml:id="line_36" n="36" break="no"/>μενοι</w>, <w lemma="ἐπεί">ἐπεί</w> <w lemma="ἄν">κα</w> <w lemma="συντέλεια">συντέλειαν</w> <w lemma="λαμβάνω">λάβῃ</w> ἁ <w lemma="πολιτεία">πολιτία</w> τοῦ <w lemma="δικαστήριον">δικαστηρί<supplied reason="lost">ου</supplied></w>,
+	    				
+<lb xml:id="line_37" n="37"/><w lemma="ἕκαστος"><supplied reason="lost">ἕκ</supplied>αστος</w> <w lemma="αὐτός">αὐτῶν</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάσσονος</w> <w lemma="ἄξιος">ἄ<supplied reason="lost">ξιον</supplied></w> <w lemma="δραχμή"><supplied reason="lost">δραχμᾶν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>·
+	    				
+<lb xml:id="line_38" n="38"/><name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θυόντ</supplied>ω</w></name> δὲ καὶ τ<unclear>ο</unclear><supplied reason="lost">ὶ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    	
+	    <lb/><gap reason="lost" extent="unknown" unit="line"/>	
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>In the year of the <foreign>monarchos</foreign> Parmeniskos, on the 16th of the month Hyakinthios, with good fortune, the <foreign>prostatai</foreign>, Philippos son of (5) Philon, Sostratos son of Philinos, Lampias son of Philippos, Kallippos son of Kalippos and of Herakleitos by adoption, Eukarpos son of Kleonikos, and the secretary of the council Herakleitos son of Iatrokles, have written down the following draft contract concerning the priesthood of Heracles Kallinikos at the agora and at the harbour. The <foreign>prostatai</foreign>, given that they are about to (10) sell the priesthood, are to sacrifice to each of the two gods a sacrificial animal worth 100 drachmae for the health of the male and female citizens and those who are settled in the city, and the treasurers are to make an advance payment to them of the prescribed amount of money for the sacrifice. The <foreign>poletai</foreign> should sell the priesthood in the month (15) Panamos on the first day. The buyer must be
+in good health and perfect and not younger than ten years. He is to be priest for life. He is to be exempt from all liturgies except the <foreign>lampadarchia</foreign> and the trierarchy. He is also to be free from the office of corn-inspector and the reception of Romans and from all monthly offices for which the people elect (someone). (20) He is to have a front seat and to make a libation in all choral competitions together with the other public priests, and he should wear a thoroughly white tunic. And he is to be crowned with a wreath of white poplar, and he is also to have a brooch and golden rings. So that also the sacrifices for these gods, which the <foreign>monarchos</foreign> and the <foreign>hieropoioi</foreign> make, are accomplished in the (25) most conspicuous way, they should sacrifice the animals from the money paid to them by the treasurers. And so that the people show that they help to increase the honours of the gods, those who manage the money of Heracles Kallinikos should pay to the <foreign>prostatai</foreign>, to those in function in the summer season on the first of Artamitios, 50 drachmae (30) for the sacrifice. In the same way they should pay the <foreign>prostatai</foreign> in function 50 drachmae for the sacrifice when the priest and the priestess are installed. Those who have received the money are to make a sacrifice from the (35) money paid to them. Individuals who enter into the body of citizens should also make a sacrifice, once their citizenship has received the sanction of the law-court, each of them a sacrificial animal worth not less than [... drachmae]. Those who [...] should also [make a sacrifice ...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Sous la monarchie de Parmeniskos, le 16 du mois de Hyakinthios. À la bonne fortune. Voici ce qu’ont rédigé les prostates Philippos fils de (5) Philon, Sostratos fils de Philinos, Lampias fils de Philippos, Kallippos fils de Kallippos et d’Herakleitos par adoption, Eukarpos fils de Kleonikos, et le secrétaire du conseil Herakleitos fils d’Iatroklès, concernant la prêtrise d’Héraclès Kallinikos sur l’agora et sur le port. Que les prostates, lorsqu’ils sont sur le point de (10) vendre la prêtrise, sacrifient à chacun des deux dieux un animal de 100 drachmes pour la santé des citoyens et citoyennes, et de ceux qui vivent dans la cité, que les trésoriers leur paient d’avance l’argent prescrit pour le sacrifice. Que les polètes mettent la prêtrise en vente (15) le 1er du mois de Panamos. Que l’acheteur de la prêtrise soit en bonne santé et d’une totale intégrité physique, et qu’il ne soit pas plus jeune que dix ans. Qu’il exerce la prêtrise à vie. Qu’il soit exempté de toutes les
+liturgies, hormis la lampadarchie et la triérarchie, qu’il soit libre également de la sitophylachie, de l’accueil des Romains, et de toute charge mensuelle que le peuple choisit. (20) Qu’il s’asseye au premier rang et qu’il fasse les libations lors de tous les concours choraux avec les autres prêtres publics, et qu’il porte un chiton blanc. Qu’il soit couronné d’une couronne de peuplier blanc, qu’il porte également une broche et des anneaux d’or. Afin que, en outre, soient accomplis de manière plus éclatante pour ces dieux les sacrifices (25) qu’accomplissent le monarque et les hiéropes, qu’ils sacrifient les animaux pour l’argent qu’ils ont reçu des trésoriers. Et afin que le peuple accroisse ensemble de manière évidente les honneurs des dieux, que ceux qui administrent les biens d’Héraclès Kallinikos versent le 1er Artamitios, aux prostates qui sont en fonction au semestre d’été, 50 drachmes (30) pour le sacrifice. De la même manière, qu’ils versent également aux prostates en fonction 50 drachmes pour le sacrifice, lors de l’installation du prêtre et de la prêtresse. Que ceux qui ont reçu de l’argent sacrifient pour la (35) somme qui leur a été versée. Que sacrifient également ceux qui entrent dans le corps civique, une fois que leur droit de cité a obtenu la sanction du tribunal, chacun d’eux un animal valant au moins [... drachmes]. Que [sacrifient] également [...].</p>
+					<p> (traduction S. Paul)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head> 
+					
+<p> This document belongs to the category of sales of priesthood, which are very well-attested on Kos: cf. esp. <ref target="CGRN_147">CGRN 147</ref>, usually in the form of an actual contract of sale (διαγραφή).  As we have it here, the document is a draft decree (συνέγραψαν, line 4), concerning the upcoming sale of the priesthood (cf. lines 9-10: ἐπεί κα μέλλωντι πω|λεῖν τὰν ἱερωσύναν) and describing some of the standard features of the contract for the office; for this terminology of συγγραφή indicating the drafting of a contract of sale for a priesthood on Kos, cp. here <ref target="CGRN_164">CGRN 164</ref>, line 1; <ref target="CGRN_167">CGRN 167</ref>, with commentary, and <ref target="CGRN_218">CGRN 218</ref>, line 11. The text is divided into several sections: description of the committee (lines 1-9); regulations concerning the sacrifice in connection with the sale (lines 9-14); prerequisites and benefits of the priesthood (lines 15-24); and finally, regulations concerning sacrifice to Heracles (lines 24-38), before breaking off.</p>
+						
+<p> The titles of the priesthoods of Heracles Kallinikos, ἐπὶ ἀγορᾶι καὶ ἐπὶ λιμένι, respectively "at the agora and at the harbour", imply the existence of two distinct precincts dedicated to the god (indeed, the god is often referred to as multiple "gods" in the inscription, cf. below on lines 8-10). Excavations at the harbour of the town of Kos have brought to light, close to the sanctuary of Aphrodite Pandamos and Pontia (on these cults, see here <ref target="CGRN_220">CGRN 220</ref>), a small trapezoidal precinct with a temple that has been identified with the sanctuary of Heracles Kallinikos ἐπὶ λιμένι (Rocco; for further discussion, cf. Paul, p. 103-105). As of yet, the sanctuary at the agora has not been located. The epithet of Kallinikos, literally "of the beautiful victory", is well attested outside of Kos and exclusively associated with Heracles (for a list, cf. Graf, with Paul, p. 105-108, for further discussion). Comparative evidence allows us
+to infer a protective significance for the name, especially in relation with gateways. This plausibly explains the presence of the god at the harbour, since he would have acted as protector of the access to the city against enemies. The god also had a metaphorical significance as the protector of "gateways", when he would oversee the "entry" of new citizens into the civic community (cf. lines 35-37).</p>
+	
+<p> Lines 8-10: Note that the plural is used throughout the inscription to refer to "the gods", namely Heracles at the agora and at the harbour (ἑκατέρωι τῶν θεῶν, line 10; αἱ θυσίαι τοῖς θεοῖς, line 24; τὰς τιμὰς τῶν θεῶν, line 28). Does this plural refer to the double location at which "one" Heracles Kallinikos is present, or does the choice of words imply that these gods were envisaged as two deities that were worshipped separately? Or, more suitably, are both alternatives mutually compatible? This complex question is typical of the study of Greek polytheism. For a more extensive discussion of this subject of the identity of the gods and the plurality of their manifestations, cf. for example Parker, Versnel, and Pirenne-Delforge - Pironti. In this case, as Versnel, p. 76 rightly remarks, the syntax of the conjunction ὁ ἐπὶ ἀγορᾷ καὶ ἐπὶ λιμένι (rather than ὁ ... καὶ ὁ) seems to imply that Heracles Kallinikos is seen as a single god with two different cult locations. However, it is clear from the inscription that, at the same time, Heracles could at the same time be envisaged as a pair of "gods" (θεοί), with two different cult-sites.</p>
+	
+<p> Lines 9-14: A sacrifice marking the sale of the priesthood, to be organised by the <foreign>prostatai</foreign>, is a recurrent characteristic of the contracts from Kos. Sometimes this sacrifice was to be financed by the person who bought the priesthood (cf. <ref target="CGRN_142">CGRN 142</ref>, lines 25-29, <ref target="CGRN_208">CGRN 208</ref>, lines 58-59, and <ref target="CGRN_220">CGRN 220</ref>, lines 47-50), but here, as in Solokowski, <bibl type="abbr" n="LSCG">LSCG</bibl> 162, the sacrifice was paid with the god's money. In the roughly contemporaneous <ref target="CGRN_208">CGRN 208</ref>, lines 29-31, a sacrifice of a pig worth 100 drachmae is prescribed, but only a generic sacrificial animal seems to be envisaged here. The new contract also prescribes sacrifices for "those who are settled in the city"; on expressions regarding various co-inhabitants of the city of Kos, cf. the commentary at <ref target="CGRN_188">CGRN 188</ref>, lines 13-20.</p>
+	
+<p> Lines 15-16: The requirement that the priest or priestess be in good health and of perfect physical integrity frequently recurs in sales of Koan priesthoods, cp. for example <ref target="CGRN_147">CGRN 147</ref>, line 5, and <ref target="CGRN_167">CGRN 167</ref>, lines A8-9. On this type of prescription and on the minimum age required for accessing the priesthood, cf. the commentary at <ref target="CGRN_164">CGRN 164</ref>, lines 5-6.</p>
+	
+<p> Lines 19-20: For the varied duties of <foreign>epimenioi</foreign> as punctually appointed cult officials on Kos, see here <ref target="CGRN_139">CGRN 139</ref> (management of the festival of the Asklepieia), lines 16-20, <ref target="CGRN_147">CGRN 147</ref> (sale of the priesthood of Hermes Enagonios), lines 93-110, and <ref target="CGRN_197">CGRN 197</ref>, lines 46-65 (administration of a donation); cp. <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), with commentary at lines 23-31, for such officials in a familial context.</p>
+						
+<p> Line 20-22: According to the sales of the priesthoods of Hermes Enagonios and of Zeus Alseios (<ref target="CGRN_147">CGRN 147</ref>, lines 8-10, and <ref target="CGRN_167">CGRN 167</ref>, lines A11-13), the priests of these gods also had to perform libations during contests and were allowed to sit in the first row during these occasions. On the prerogative of sitting in the first row, cp. also e.g. <ref target="CGRN_206">CGRN 206</ref> (Pergamon), line 23, among other examples.</p> 
+		
+<p> Lines 22-24: In these lines, the clothes and accesories of the priest are discussed, but it is not entirely certain whether these prescriptions concern only the outfit to be worn during choral competitions or more generally. The priest is also required to wear white in general in <ref target="CGRN_124">CGRN 124</ref> (Pergamon), lines 2-3; and in the priesthood of Nike on Kos (<ref target="CGRN_163">CGRN 163</ref>, line 12), the priest must also wear white on non-ritual occasions (purple during more special circumstances). More generally, white clothing is recurrently prescribed for worshippers, for example in <ref target="CGRN_121">CGRN 121</ref> (Priene) and <ref target="CGRN_126">CGRN 126</ref> (Lykosoura), lines 4-7, with further references in the commentary. Concerning the white poplar, Pausanias (5.14.1-2) recounts that it was brought back from the shores of the Acheron by Heracles, and was thus closely associated with the god. The priest of Zeus Alseios (<ref target="CGRN_167">CGRN 167</ref>, Kos) wore a golden brooch (on the word ἄφαμμα, cf. the commentary at line A17); the priest of Nike (<ref target="CGRN_163">CGRN 163</ref>, Kos, line 9) was also enjoined to wear  rings. The plural is unusually unspecific: presumably at least one ring on each hand was meant. More generally, on the colours worn by priests and participants in processions, cf. Jones.</p>
+	
+<p> Line 33: On the "initiation" of the priest on Kos, a ritual inauguration of the office, see esp.  <ref target="CGRN_85">CGRN 85</ref>, lines 1-5 (with commentary) and <ref target="CGRN_220">CGRN 220</ref>, lines 47-50; on the conjunction of a priest and a priestess as officials for the same cult on Kos, cp. <ref target="CGRN_208">CGRN 208</ref>, lines 59-60.</p>		
+		
+<p> Line 35-37: New citizens of Kos were also required to perform sacrifices to Homonoia: <ref target="CGRN_208">CGRN 208</ref>, lines 1-8.</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

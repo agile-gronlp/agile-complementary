@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_4" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 4</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs>  concerning strangers at Olympia</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p><rs type="objectType">Bronze tablet</rs> intact on all sides except the righthand one. For a description of interesting geometrical motifs on the back of the tablet, see Minon with further refs. A sizeable hole pierces the tablet in its middle, presumably for fixing or nailing it.</p>
+				<p><dimensions>
+					<height unit="cm">7.4</height>
+					<width unit="cm">17.7</width>
+					<depth unit="mm">1-1.5</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Carefully incised, with an absence of punctuation. Letters, <height unit="mm">8-10</height>, but <foreign>theta</foreign>, <foreign>omicron</foreign> and <foreign>phi</foreign> are rounded and <height unit="mm">7</height> in diameter.</p>
+			<p>Minon provides a full description. See Jeffery for a comparison with <bibl type="abbr" n="IvO">IvO</bibl> 6, a fragment from perhaps the same cutter, but which however is unlikely to come from the same tablet (different height; findspot at the south of the temple). Blass, following Roehl, suggests that the fragment may have belonged to the left of the tablet, but it is not broken on that side: Minon describes the letters in the left margin (3 mm wide) as well-aligned. Moreover, the fragment is hard to reconcile with line 1 here, and it cannot have been placed on the right given the <foreign>vacat</foreign> in line 6.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0525" notAfter="-0500">ca. 525-500 BC</origDate></p>
+			<p><desc>Justification: lettering (Minon). The absence of punctuation also supports a date in the late Archaic period.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Olympia" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570531/center-of-the-temple-of-zeus-at-olympia" type="external">Olympia, temple of Zeus</ref></placeName> (east corner).</p>
+		</provenance>
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 02-01-2014 by J.-M. Carbon and S. Peels.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile>
+	    <text>
+	    	<body>
+				<div type="bibliography">
+					<head>Bibliography</head>
+<p>Edition here based on Minon <bibl type="abbr" n="IED">IED</bibl> 3.</p>
+
+<p>Editions:
+	<bibl type="author_date" n="Fraenkel 1877">Fraenkel 1877</bibl>: 48 no. 56, pl. 4.2 with facsimile of R. Weil and G. Hirschfeld;
+	<bibl type="author_date" n="Comparetti 1880-1881">Comparetti 1880-1881</bibl>: 78-81, with facsimile of L. Milani;
+	Roehl <bibl type="abbr" n="IGA">IGA</bibl> 115 and 179, with new readings of K. Purgold (cf. also Roehl <bibl type="abbr" n="IIGA">IIGA</bibl>  12);
+	Dittenberger <bibl type="abbr" n="IvO">IvO</bibl> 5, with facsimile of K. Purgold.</p>
+
+<p>Cf. also:
+	Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 60;
+	Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl> 219-220 no. 4 and 408;
+	van Effenterre - Ruzé <bibl type="abbr" n="Nomima I">Nomima I</bibl> 4.</p>
+
+<p>Further bibliography:
+	Blass ap. Collitz <bibl type="abbr" n="SGDI">SGDI</bibl> I 1158;
+	<bibl type="author_date" n="Casabona 1966">Casabona 1966</bibl>: 98-99;
+	<bibl type="author_date" n="Taita 2004-2005">Taita 2004-2005</bibl>: 99-102.</p>
+
+<p>Online record: <ref target="http://poinikastas.csad.ox.ac.uk/" type="external">Poinikastas</ref> website, with ref. no. 220.04.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb xml:id="line_1" n="1"/>ὀ δέ <w lemma="κε">κα</w> <name type="person"><w lemma="ξένος">ξένος</w></name>, <w lemma="ἐπεί">ἐπεὶ</w> <w lemma="βλώσκω">μ<supplied reason="omitted">ό</supplied>λοι</w> <w lemma="ἐν">ἐν</w> <name type="structure"><w lemma="ἱερόν">τἰα<supplied reason="lost">ρο</supplied></w></name><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_2" n="2" break="no"/><orig>ΙΧΟΣ</orig> <name type="sacrifice"><w lemma="καταθύω">καθύσας</w></name> <w lemma="ἐπί">ἐπὶ</w> τοῖ <name type="structure"><w lemma="βωμός">βομοῖ</w></name> <orig>ΤΑ</orig><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τοῖ <name type="deity" key="Zeus"><w lemma="Ζεύς">Δὶ</w></name></supplied> <name type="epithet" key="Olympios"><w lemma="Ὀλύμπιος"><supplied reason="lost">Ὀλυνπίο</supplied>
+
+<lb xml:id="line_3" n="3" break="no"/>ι</w></name> <w lemma="ἀποδίδωμι">ἀποδός</w>, <w lemma="unclear">ἐνεβέ<unclear>ο</unclear><supplied reason="lost">ι</supplied></w> ὀ <name type="person"><w lemma="ξένος">ξένος</w></name>· <w lemma="εἰ">αἰ</w> δ<supplied reason="lost">ὲ</supplied> <w lemma="κε">κα</w> <gap reason="lost" extent="unknown" unit="character"/><w lemma="δραχμή"> <supplied reason="lost">δα</supplied>
+
+<lb xml:id="line_4" n="4" break="no"/>ρχμὰς</w> <name type="punishment"><w lemma="ἀποτίνω">ἀποτίνοι</w></name> τοῖ <name type="deity" key="Zeus"><w lemma="Ζεύς">Δὶ</w></name> <name type="epithet" key="Olympios"><w lemma="Ὀλύμπιος">Ὀλυν<supplied reason="lost">πίοι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_5" n="5"/><orig>ΟΑΔΟΟΝΤΑΔΕΚΥΑΙΥΣΕΒΟΙΚΑ</orig>
+
+<lb xml:id="line_6" n="6"/><w lemma="κατά">κατ’</w> <choice><corr>τ</corr><sic>ι</sic></choice>ὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name> <space extent="unknown" unit="character"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+	    				<p>If a stranger (foreigner), when he goes into the sanctuary [and x...], having sacrificed [x] on the altar [...] having paid (his debt?) to [Zeus Olympios], the stranger may (?) go in. But if [... then] he is to pay [x] drachmae to Zeus Olympios [... (incomprehensible) ...] according to the ancestral customs.</p>
+
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Si un étranger, quand il va dans le sanctuaire [et x...], ayant sacrifié (x) sur l'autel [...] et payé (son dû ?) à [Zeus Olympios], l'étranger peut (?) y entrer. Mais si [... alors] il paie [x] drachmes à Zeus Olympios [... (incompréhensible) ...] selon les coutumes ancestrales.</p>
+
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p>The text appears to be complete, except for a lacuna of uncertain extent on the right. It appears to follow a case-by-case or casuistic format (line 1 and end of line 3) that we find in several other ritual norms, particularly cathartic or purity regulations, though here the optative is used. As it stands, the inscription begins with a regulation specifying a penalty for the entrance of a stranger within the sanctuary (presumably of Zeus), perhaps in a case where this individual did not accomplish the necessary ritual beforehand. The spatial component of the inscription is very interesting, though elusive: entry into the <foreign>hiaron</foreign> is first forbidden, then a sacrifice or offering is made "on the altar" (emphatically outside the temple?). After the ritual has been accomplished or acquitted (ἀποδο̄́ς, line 3), the stranger may enter (the sanctuary or the temple?). Another contravention, lines 3-4, appears to only require the payment of a fine in drachmae.</p>
+
+<p>Lines 1-2: Differently from Minon we opt to not prejudge the case of  ἐν τἰα<supplied reason="lost">ρο</supplied>; dative and accusative are both possible. These lines appear to state that if a stranger is to enter the sanctuary (or the temple?), then he must perform a sacrifice or pay a fine of some sort. Casabona adduces three examples from Olympia for the adjective <foreign>katathutos</foreign> which appears to qualify sums of money that are "consecrated" to Zeus Olympios (now Minon <bibl type="abbr" n="IED">IED</bibl> 13, 20 and 22, e.g. [...] μναῖς κα ἀποτίνοι καθύταις τοῖ Δὶ Ὀλυνπίοι). He however explains that the verb καταθύω in literary sources always takes an animal as its sacrificial object. The resolution depends on what the object of the verb might be, and this only compounds the problem. Various proposals have been suggested for the masculine accusative plural word ending in -ιχος. Roehl and later Blass apud Collitz suggest ϝαρίχο̄ς (Hsch s.v. βαρίχοι, ἄρνες; s.v. ἀρίχα, ἄρρεν προβάτον); Minon suggests perhaps ὀρταλίχοι (young chickens) or κοψίχοι (birds or roosters). The other option would be Ziehen's κάδδιχος (cf. again Hsch. s.v.), which would either refer to the consecration of "jugs" or to the burning of cakes on the altar. In any case, the plurality of offerings does not appear to pose a problem or preclude any of these possibilities. It seems difficult to be sure, but καταθύω may well have had the sense of an expiatory offering (cp. e.g. the hyperbolic <bibl type="abbr" n="SEG">SEG</bibl> 23, 566, Axos, end of 4th century BC, lines 15-16: μὴ ἀκέσασθαι πρὶν τῶι | Δηνὶ τῶι Ἀγοραίωι ἑκατὸ<unclear>μ</unclear> <unclear>β</unclear>οῦς καταθύσας). Alternatively, it may simply have designated the fulfillment of regular sacrificial actions expected at Olympia (cf. <bibl type="abbr" n="NIO">NIO</bibl> 1, ca. 570-550 BC, still not fully published, where the <foreign>theokolos</foreign> enjoined to do as follows: ἐν ταῖς πέντ᾽ ἀμάραις καθύϝεν πλὰν ἐν τ᾽ Ὀλυμπίαδι).</p>
+
+<p>Line 3: The grammatical form behind the reading ἐνεβέο̣[ι] remains problematic. Taita following Blass interprets the form as an optative aorist of ἐνηβάω, but this is not only malformed but makes difficult sense: "to be in full vigour" or even "quiet". Minon, by contrast, proposes a derivation from *ἐνβάω, reading ἐν{ε}βέο[ι], which makes good sense: "may he enter". But this requires several conjectures: a weak version of ἐμβαίνω, a deletion of the second <foreign>epsilon</foreign>, and the supposition that the conjugation of a-stems and e-stems were conflated in this period (cf. Minon, p. 396). We only note that the (uncontracted) optative εὐσαβέοι is attested in the contemporaneous <bibl type="abbr" n="IED">IED</bibl> 22, line 15, and is perhaps possible here as ε<choice><corr>ὐσ</corr><sic>ν</sic></choice>εβέοι, but this would also require a substantial correction of the text; see also the enigmatic traces ΚΥΑΙΥΣΕΒΟΙ (= καὶ εὐσεβέοι again?) in line 5.</p>
+
+<p>Lines 5-6: For suggested restorations, none of which are compelling, see Minon ad loc.
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

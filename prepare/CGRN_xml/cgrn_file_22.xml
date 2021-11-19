@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_22" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 22</idno>: Treaty between Knossos and Tylissos containing <rs type="textType" key="sacrificial regulation">sacrificial regulations</rs></title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Two joining fragments of a <rs type="objectType">stele</rs> of a grey limestone.</p>
+
+	<p>Fragment A <dimensions>
+	<height unit="cm">37</height>
+	<width unit="cm">72.5</width>
+	<depth unit="cm">24-25.5</depth>
+	</dimensions></p>
+
+	<p>Fragment B <dimensions>
+			<height unit="cm">87</height>
+			<width unit="cm">73.5</width>
+			<depth unit="cm">19</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p>Stoichedon 37, with the exception of B 22, 25-28. The letters of fragment B, lines 24ff., are in a different hand.</p>
+			<p> Letters: <height unit="cm">unknown</height>.</p>
+		</layout></layoutDesc>
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0475" notAfter="-0425">ca. 450 BC</origDate></p>
+
+		<p><desc>Justification: orthography, letterforms (Vollgraff 1910: 335-336).</desc></p>
+						</origin>
+						<provenance><p><ref target="http://pleiades.stoa.org/places/570106" type="external"><placeName type="ancientFindspot" key="Argos" n="Peloponnese">Argos</placeName></ref>. Found inside the temple on the Agora (fragment B was discovered in 1906, fragment A in 1912.</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+
+<p> Edition here based on Guarducci <bibl type="abbr" n="IC I">IC I</bibl> viii 4.
+	    			</p>
+	    			<p> Other editions:
+	    				<bibl type="author_date" n="Vollgraff 1910">Vollgraff 1910</bibl>;
+	    				<bibl type="author_date" n="Vollgraff 1913">Vollgraff 1913</bibl>;
+	    				<bibl type="author_date" n="Vollgraff 1948">Vollgraff 1948</bibl>.
+	    			</p>
+
+	    			<p> Cf. also:
+	    				Bengston <bibl type="abbr" n="Staatsverträge II">Staatsverträge II</bibl> 148;
+	    				Meiggs - Lewis <bibl type="abbr" n="SGHI">SGHI</bibl> 42;
+	    				Broderson <bibl type="abbr" n="HGIU">HGIU</bibl> 72;
+	    				van Effenterre - Ruzé <bibl type="abbr" n="Nomima I">Nomima I</bibl> 54.
+	    			</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Willetts 1962">Willetts 1962</bibl>;
+	    				<bibl type="author_date" n="Merrill 1991">Merrill 1991</bibl>;
+	    				<bibl type="author_date" n="Trümpy 1997">Trümpy 1997</bibl>: 188-197;
+	    				<bibl type="author_date" n="Pirenne-Delforge 2001">Pirenne-Delforge 2001</bibl>;
+	    				<bibl type="author_date" n="Kyriakidis 2012">Kyriakidis 2012</bibl>;
+	    				<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>: 321-324; <bibl type="author_date" n="Cinalli 2015">Cinalli 2015</bibl>.
+
+
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+
+<ab subtype="fragment" n="A">Fragment A
+
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb xml:id="line_A1" n="A1"/><gap reason="lost" extent="unknown" unit="character"/><orig>νεσε</orig><gap reason="lost" quantity="10" unit="character"/>
+
+
+<lb xml:id="line_A2" n="A2"/><gap reason="lost" extent="unknown" unit="character"/>ατον <orig>χο</orig><gap reason="lost" quantity="5" unit="character"/><orig>να</orig><gap reason="lost" quantity="2" unit="character"/>
+
+
+<lb xml:id="line_A3" n="A3"/> <supplied reason="lost">το̑ι</supplied> <name type="ethnic" key="Tylissos"><w lemma="Τυλίσιος"><supplied reason="lost">Τυλισίοι</supplied></w></name> <name type="punishment"><w lemma="ἀδεής"><supplied reason="lost">ἀδεο̑ς</supplied></w></name> <w lemma="ἔξειμι"><supplied reason="lost">ἐξε̑μ</supplied>εν</w> <w lemma="συλάω">ξύλλεσθαι</w> <w lemma="πλήν">πλὰ<supplied reason="lost">ν</supplied></w> τ
+
+
+<lb xml:id="line_A4" n="A4" break="no"/><supplied reason="lost">ὰ</supplied> <w lemma="μέρος"><supplied reason="lost">μέρε</supplied></w> <supplied reason="lost">τὰ</supplied> <name type="ethnic" key="Knossos"><w lemma="Κνόσιος"><supplied reason="lost">Κνοσίον</supplied></w></name> <w lemma="συντελέω"><supplied reason="lost">συν</supplied>τέλλοντα</w> <w lemma="ἐν">ἐνς</w> <name type="group"><w lemma="πόλις">πόλιν</w></name>· <w lemma="ὅτι">hότ<supplied reason="lost">ι</supplied></w>
+
+
+<lb xml:id="line_A5" n="A5"/> <supplied reason="lost">δέ</supplied> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <w lemma="ἐκ"><supplied reason="lost">ἐκ</supplied></w> <w lemma="δυσμενής"><supplied reason="lost">δυσμεν</supplied>έον</w> <w lemma="αἱρέω">hέλομες</w> <w lemma="συμαμφότεροι">συνανφότεροι</w>, <w lemma="δασμός">δα<supplied reason="lost">σ</supplied>
+
+
+<lb xml:id="line_A6" n="A6" break="no"/><supplied reason="lost">μο̑</supplied>ι</w> <supplied reason="lost">το̑ν</supplied> <w lemma="κατά"><supplied reason="lost">κὰτ</supplied></w> <w lemma="γῆ">γᾶν</w> τὸ <w lemma="τρίτος">τρίτον</w> <w lemma="μέρος">μέρος</w> <w lemma="ἔχω">ἔχεν</w> <w lemma="πᾶς">πάντον</w>, τ<supplied reason="lost">ο̑</supplied>
+
+<lb xml:id="line_A7" n="A7" break="no"/><supplied reason="lost">ν</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="κατά"><supplied reason="lost">κὰτ</supplied></w> <w lemma="θάλασσα">θάλασαν</w> τὰ <w lemma="ἥμισυς">hέμισα</w> <w lemma="ἔχω">ἔχεν</w> <w lemma="πᾶς">πάντον</w>· τὰν δὲ <w lemma="δέκατος"><supplied reason="lost">δ</supplied>
+
+<lb xml:id="line_A8" n="A8" break="no"/><supplied reason="lost">εκ</supplied>άταν</w> τὸνς <name type="ethnic" key="Knossos"><w lemma="Κνόσιος">Κνοσίονς</w></name> <w lemma="ἔχω">ἔχεν</w>, <w lemma="ὅτι">hότι</w> <w lemma="κα">χ’</w> <w lemma="αἱρέω">ἕλομες</w> <w lemma="κοινός">κοι<supplied reason="lost">ν</supplied>
+
+<lb xml:id="line_A9" n="A9" break="no"/><supplied reason="lost">ᾶ</supplied>ι</w>· το̑ν δὲ <w lemma="λάφυρα">φαλύρον</w> τὰ μὲν <w lemma="καλλιστεῖον">καλλ<supplied reason="omitted">ι</supplied>στεῖα</w> <placeName key="Delphi"><w lemma="Πυθώ">Πυθο̑δε</w></placeName> <w lemma="ἀπάγω">ἀπ<supplied reason="lost">ά</supplied>
+
+	<lb xml:id="line_A10" n="A10" break="no"/>γεν</w> <w lemma="κοινός">κοινᾶι</w> <w lemma="ἀμφότερος">ἀμφοτέρονς</w>, τὰ δ’ <w lemma="ἄλλος">ἄλλα</w> το̑ι <name type="deity" key="Ares"><w lemma="Ἄρης">Ἄ<supplied reason="lost">ρει</supplied></w></name> <placeName key="Knossos"><w lemma="Κνοσός"><supplied reason="lost">Κν</supplied>ο<supplied reason="lost">σ</supplied>
+
+	    									<lb xml:id="line_A11" n="A11" break="no"/>οῖ</w></placeName> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀντιθέμεν</w></name> <w lemma="κοινός">κοινᾶι</w> <w lemma="ἀμφότερος">ἀμφοτέρονς</w>· <w lemma="ἐξάγω">ἐξ<supplied reason="lost">αγογὰν</supplied></w> <supplied reason="lost">δ’</supplied> <w lemma="εἰμί"><supplied reason="lost">ἐ̑</supplied>
+
+	    										<lb xml:id="line_A12" n="A12" break="no"/>μεν</w> <placeName key="Knossos"><w lemma="Κνοσός">Κνοσόθεν</w></placeName> <w lemma="ἐν">ἐνς</w> <placeName key="Tylissos"><w lemma="Τύλισος">Τύλισον</w></placeName> <w lemma="ἐκ">κἐκ</w> <placeName key="Tylissos"><w lemma="Τύλισος">Τυλί<supplied reason="lost">σο</supplied></w></placeName> <placeName key="Knossos"><w lemma="Κνοσός"><supplied reason="lost">Κνοσόνδ</supplied>
+
+	    					<lb xml:id="line_A13" n="A13" break="no"/>ε</w></placeName>· <w lemma="εἰ">α<supplied reason="lost">ἰ</supplied></w> δὲ <w lemma="πέρα">πέρανδε</w> <w lemma="ἐξάγω">ἐξάγοι</w>, <w lemma="τελέω">τελίτο</w> <w lemma="ὅσος">hόσσα<supplied reason="lost">περ</supplied></w> <supplied reason="lost">οἱ</supplied> <name type="ethnic" key="Knossos"><w lemma="Κνόσιος"><supplied reason="lost">Κν</supplied>
+
+	    					<lb xml:id="line_A14" n="A14" break="no"/>όσιοι</w></name>· τὰ δ’ <w lemma="ἐκ">ἐκ</w> <placeName key="Tylissos"><w lemma="Τύλισος">Τυλίσο</w></placeName> <w lemma="ἐξάγω">ἐξαγέσθο</w> <w lemma="ὅπυι">hοπυ<supplied reason="lost">ῖ</supplied></w> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <w lemma="λῶ"><supplied reason="lost">λοίε</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost">το̑</supplied>
+
+	    					<lb xml:id="line_A15" n="A15" break="no"/>ι <name type="deity"><w lemma="Ποσειδῶν">Ποσειδᾶνι</w></name> το̑ι <w lemma="ἐν">ἐν</w> <placeName key="Iouktas"><w lemma="Ἰυτός">Ἰυτο̑ι</w></placeName> τὸν <name type="ethnic" key="Knossos"><w lemma="Κνόσιος">Κνοσίο<supplied reason="lost">ν</supplied></w></name> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἰαρέα</supplied></w></name> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύ</supplied>
+
+<lb xml:id="line_A16" n="A16" break="no"/>εν</w></name>· τᾶι <name type="deity" key="Hera"><w lemma="Ἥρα">hέραι</w></name> <w lemma="ἐν">ἐν</w> <name type="structure"><w lemma="Ἡραῖος">Ἑραίοι</w></name> <name type="sacrifice"><w lemma="θύω">θύεν</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βο̑ν</w></name> <name type="age"><name type="gender"><w lemma="τέλειος">θέλει<supplied reason="lost">αν</supplied></w></name></name> <w lemma="ἀμφότερος"><supplied reason="lost">ἀμφοτ</supplied>
+
+<lb xml:id="line_A17" n="A17" break="no"/>έρον<supplied reason="lost">ς</supplied></w> <w lemma="κοινός"><supplied reason="lost">κ</supplied>οινᾶι</w>, <name type="sacrifice"><w lemma="θύω">θύεν</w></name> δὲ <w lemma="πρό">πρὸ</w> <name type="festival"><w lemma="Ὑακίνθιος">Ϝακινθ<supplied reason="lost">ίον</supplied></w></name> <gap reason="lost" quantity="8" unit="character"/>
+
+<lb xml:id="line_A18" n="A18"/> <gap reason="lost" quantity="1" unit="character"/><orig>κο</orig><gap reason="lost" quantity="3" unit="character"/><orig><unclear>κ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+
+	    			</ab>
+	    					<ab subtype="fragment" n="B"> Fragment B
+<lb xml:id="line_B1" n="B1"/> <gap reason="lost" quantity="14" unit="character"/><orig>ανον</orig> το<gap reason="lost" quantity="14" unit="character"/> <name type="month"><w lemma="πρατομηνία">πρ<supplied reason="lost">α</supplied>
+
+<lb xml:id="line_B2" n="B2" break="no"/>τομενίαν</w></name> <w lemma="ἄγω">ἄγεν</w> <w lemma="κατά">κατὰ</w> <w lemma="οὗτος">ταὐτ<supplied reason="lost">ὰ</supplied></w> <gap reason="lost" quantity="12" unit="character"/>ο <w lemma="ἀμφότερος">ἀμ<supplied reason="lost">φ</supplied>
+
+<lb xml:id="line_B3" n="B3" break="no"/>οτέρον</w>. <w lemma="χρῆμα">χρέματα</w> δὲ <w lemma="μή">μὲ</w> <w lemma="ἐμπιπάσκομαι">’νπιπασκέσθο</w> hο <name type="ethnic" key="Knossos"><w lemma="Κνόσιος">Κνόσιο<supplied reason="lost">ς</supplied></w></name>
+
+<lb xml:id="line_B4" n="B4"/> <w lemma="ἐν">ἐν</w> <placeName key="Tylissοs"><w lemma="Τύλισος">Τυλίσοι</w></placeName>, hο δὲ <name type="ethnic" key="Tylissos"><w lemma="Τυλίσιος">Τυλίσιος</w></name> <w lemma="ἐν">ἐν</w> <placeName key="Knossos"><w lemma="Κνοσός">Κνοσο̑ι</w></placeName> hο <w lemma="χρῄζω">χρέιζ<supplied reason="lost">ο</supplied>
+
+<lb xml:id="line_B5" n="B5" break="no"/>ν</w>· <w lemma="μηδέ">μεδὲ</w> <w lemma="χώρα">χόρας</w> <w lemma="ἀποτέμνω">ἀποτάμνεσθαι</w> <w lemma="μηδέτερος">μεδατέρονς</w> <w lemma="μηδέ">μεδ’</w> <w lemma="ἅπας">ἅ<supplied reason="lost">π</supplied>
+
+<lb xml:id="line_B6" n="B6" break="no"/>ανσαν</w> <w lemma="ἀφαιρέω">ἀφαιρῖσθαι</w>· <w lemma="ὅρος">ροι</w> τᾶς <w lemma="γῆ">γᾶς</w>· <w lemma="ὗς">hυο̑ν</w> <w lemma="ὅρος">ὄρος</w> καὶ <w lemma="ἀετός">Α
+
+<lb xml:id="line_B7" n="B7" break="no"/>ἰετοὶ</w> <name type="deity" key="Artemis"><name type="structure"><w lemma="Ἀρτεμίσιον">κἀρταμίτιον</w></name></name> καὶ τὸ το̑ <name type="deity" key="Archos"><w lemma="ἀρχός">Ἀρχο̑</w></name> <name type="structure"><w lemma="τέμενος">τέμενος</w></name> κα<supplied reason="lost">ὶ</supplied>
+
+<lb xml:id="line_B8" n="B8"/> hο <w lemma="ποταμός">ποταμὸς</w> <w lemma="ἐν">κἐλ</w> Λευκόπορον κἀγάθοια, hᾶι <w lemma="ὕδωρ">hύδο
+
+<lb xml:id="line_B9" n="B9" break="no"/>ρ</w> <w lemma="ῥέω">ῥεῖ</w> <w lemma="ὄμβριος">τὄμβριον</w>, καὶ Λᾶος· <w lemma="εἰ">hῖ</w> <w lemma="κα">κα</w> το̑ι <name type="epithet" key="Machaneus"><w lemma="Μαχανεύς">Μαχανεῖ</w></name> <name type="sacrifice"><w lemma="θύω">θύομ
+
+<lb xml:id="line_B10" n="B10" break="no"/>ες</w></name> τὸνς <w lemma="ἑξήκοντα">ϝεξέκοντα</w> <name type="gender"><name type="age"><w lemma="τέλειος">τελέονς</w></name></name> <name type="animal" key="sheep"><w lemma="ὄϊς">ὄϝινς</w></name>, καὶ τᾶι <name type="deity" key="Hera"><w lemma="Ἥρα">h<supplied reason="omitted">έ</supplied>ραι</w></name>
+
+<lb xml:id="line_B11" n="B11"/> τὸ <name type="portion"><w lemma="σκέλος">σκέλος</w></name> <w lemma="ἕκαστος">ϝεκάστο</w> <w lemma="δίδωμι">διδόμεν</w> το̑ <name type="animal" key="generic"><w lemma="θῦμα">θύματος</w></name>· <w lemma="εἰ">αἰ</w> δὲ <w lemma="σύμπλεος">συ
+
+<lb xml:id="line_B12" n="B12" break="no"/>μπλέονες</w> <name type="group"><w lemma="πόλις">πόλιες</w></name> <w lemma="ἐκ">ἐκ</w> <w lemma="πολέμιος">πολεμίων</w> <w lemma="αἱρέω">ἕλοιεν</w> <w lemma="χρῆμα">χρήματα</w>
+
+<lb xml:id="line_B13" n="B13"/> <w lemma="ὅπη">hοπᾶι</w> <w lemma="συγγίγνομαι">συνγνοῖεν</w> hοι <name type="ethnic" key="Knossos"><w lemma="Κνόσιος">Κνόσιοι</w></name> καὶ τοὶ <name type="ethnic" key="Argos"><w lemma="Ἀργεῖος">Ἀργεῖοι</w></name>
+
+<lb xml:id="line_B14" n="B14"/> <w lemma="οὗτως">hούτο</w> <w lemma="εἰμί">ἐ̑μεν</w>· το̑ι <name type="deity" key="Ares"><w lemma="Ἄρης">Ἄρει</w></name> καὶ <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">τἀφροδίται</w></name> τὸν <name type="ethnic" key="Knossos"><w lemma="Κνόσιος">Κνόσι
+
+<lb xml:id="line_B15" n="B15" break="no"/>ον</w></name> <name type="personnel"><w lemma="ἱερεύς">ἰαρέα</w></name> <name type="sacrifice"><w lemma="θύω">θύεν</w></name>, <w lemma="φέρω">φέρεν</w> δὲ τὸ <name type="portion"><w lemma="σκέλος">σκέλος</w></name> <w lemma="ἕκαστος">ϝεκάστο</w>· τὸν <name type="deity" key="Archos"><w lemma="ἀρχός">Ἀ
+
+<lb xml:id="line_B16" n="B16" break="no"/>ρχὸν</w></name> τὸ <name type="structure"><w lemma="τέμενος">τέμενος</w></name> <w lemma="ἔχω">ἔχεν</w> τὀν <placeName key="Archana?"><w lemma="Ἀχαρναί">Ἀχάρναι</w></placeName>· τοῖς <name type="group"><name type="sacrifice"><w lemma="θύω">θύονσι</w></name></name>
+
+<lb xml:id="line_B17" n="B17"/> <name type="object"><name type="meal"><w lemma="ξένιος">ξένια</w></name></name> <w lemma="παρέχω">παρέχεν</w> τὸνς <name type="ethnic" key="Knossos"><w lemma="Κνόσιος">Κνοσίονς</w></name>, τὸνς δ’ <name type="ethnic" key="Argos"><w lemma="Ἀργεῖος">Ἀργείονς</w></name>
+
+<lb xml:id="line_B18" n="B18"/>το̑ι <name type="group"><w lemma="χορός">χορο̑ι</w></name> <w lemma="ἐν">ἐν</w> <placeName key="Tylissos"><w lemma="Τύλισος">Τυλίσοι</w></placeName>. <w lemma="εἰ">αἴ</w> <w lemma="κα">κα</w> <name type="speechAct"><w lemma="καλέω">καλε̑ι</w></name> hο <name type="ethnic" key="Knossos"><w lemma="Κνόσιος">Κνόσιος</w></name> <w lemma="πρεῖγυς">πρ
+
+<lb xml:id="line_B19" n="B19" break="no"/>εσγέαν</w>, <w lemma="ἕπομαι">hέπεσθαι</w> <w lemma="ὅπυι">hοπυῖ</w> <w lemma="κα">κα</w> <w lemma="δεῖ">δέεται</w>· καἴ χὀ <name type="ethnic" key="Tylissos"><w lemma="Τυλίσιος">Τυλίσ
+
+<lb xml:id="line_B20" n="B20" break="no"/>ιος</w></name> τὸν <name type="ethnic" key="Knossos"><w lemma="Κνόσιος">Κνόσιον</w></name> <w lemma="κατά">κατὰ</w> <w lemma="οὗτος">ταὐτά</w>· <w lemma="εἰ">αἰ</w> δὲ <w lemma="μή">μὲ</w> <w lemma="δίδωμι">δοῖεν</w> <name type="object"><name type="meal"><w lemma="ξένιος">ξένι
+
+<lb xml:id="line_B21" n="B21" break="no"/>α</w></name></name>, <name type="group"><w lemma="βουλή">βολὰ</w></name> <w lemma="ἐπάγω">ἐπαγέτο</w> <name type="punishment"><w lemma="ῥύτιον">ῥύτιον</w></name> <w lemma="δέκα">δέκα</w> <w lemma="στατήρ">στατέρον</w> <w lemma="αὐτίκα">αὐτίκα</w> <w lemma="ἐπί">ἐ
+
+	<lb xml:id="line_B22" n="B22" break="no"/>πὶ</w> <name type="title"><w lemma="κόσμος">κόσμος</w></name>, <w lemma="ἐν">κἐν</w> <placeName key="Tylissos"><w lemma="Τύλισος">Τυλίσοι</w></placeName> <w lemma="κατά">κατὰ</w> <w lemma="οὗτος">ταὐτὰ</w> hο <name type="ethnic" key="Knossos"><w lemma="Κνόσιος">Κνόσιος</w></name>· <space quantity="1" unit="character"/>
+
+<lb xml:id="line_B23" n="B23"/> hα <objectType key="stele"><w lemma="στήλη">στάλα</w></objectType> <w lemma="ἵστημι">ἔσστα</w> <w lemma="ἐπί">ἐπὶ</w> Μελάντα <name type="title"><w lemma="βασιλεύς">βασιλέος</w></name> <name type="title"><w lemma="ἀρητεύω">ἀϝρέτευ
+
+<lb xml:id="line_B24" n="B24" break="no"/>ε</w></name> Λυκοτάδας hυλλεύς. <space quantity="1" unit="character"/> <name type="group"><w lemma="ἁλία">ἀλιαίαι</w></name> <w lemma="δοκέω">ἔδοξε</w> τᾶι το̑ν <space quantity="1" unit="character"/>
+
+<lb xml:id="line_B25" n="B25"/> <w lemma="ἱερός">ἰαρο̑ν</w>· <space quantity="1" unit="character"/> <name type="title"><w lemma="ἀρητεύω"><expan><abbr>ἀ</abbr><ex>ϝρέτευε</ex></expan></w></name> <space quantity="1" unit="character"/> <name type="group"><w lemma="βουλή">βολᾶς</w></name> <space quantity="1" unit="character"/> Ἀρχίστρατος Λυκοφρονίδας·
+
+<lb xml:id="line_B26" n="B26"/> τοὶ <name type="ethnic" key="Tylissos"><w lemma="Τυλίσιος">Τυλίσιοι</w></name> <w lemma="πρός">ποὶ</w> τὰν <objectType key="stele"><w lemma="στήλη">στάλαν</w></objectType> <w lemma="προσγράφω">ποιγραψάνσθο</w> <w lemma="ὅδε">τάδε</w>·
+
+<lb xml:id="line_B27" n="B27"/> <w lemma="εἰ">αἴ</w> <w lemma="τις">τις</w> <w lemma="ἀφικνέομαι">ἀφικνοῖτο</w> <name type="ethnic" key="Tylissos"><w lemma="Τυλίσιος">Τυλισίον</w></name> <w lemma="ἐν">ἐνς</w> <placeName key="Argos"><w lemma="Ἄργος">Ἄργος</w></placeName>, <w lemma="κατά">κατὰ</w> <w lemma="οὗτος">ταὐτά</w>
+
+<lb xml:id="line_B28" n="B28"/> <w lemma="σφεῖς">σφιν</w> <w lemma="εἰμί">ἔστο</w> <w lemma="ὅσπερ">hᾶιπερ</w> <name type="ethnic" key="Knossos"><w lemma="Κνόσιος">Κνοσίοις</w></name>.
+
+	    			</ab>
+
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p> Fragment A</p>
+<p> [...] It is to be permitted [to the Tylisians] to plunder [without punishment] except for [the parts] which belong to the city [of the Knossians]. And (what) (5) we will seize both together [from enemies], through division they (i.e. the Tylisians) shall take a third part [of] all (spoils) on land, and half of all the (spoils made) at sea. The Knossians are to have a tenth part of what we have commonly seized. Both together are to send off an offering of the most beautiful of the war-spoils to Delphi, (10) and both together are to dedicate the rest to A[res in Knossos]. [Exporting] from Knossos to Tylissos and from Tylissos [to Knossos] are to be permitted. If someone (i.e. a Tylisian) exports to a foreign city, he should pay as much as the Knossians (pay). Goods from Tylissos may be exported to wherever [one (i.e. a Tylisian) wishes]. [The priest] of the Knossians is to sacrifice (15) [to] Poseidon in Iytos. To Hera in the Heraion both (cities) together should sacrifice a cow, they should sacrifice it before the Hyakinthia [...]</p>
+
+<p> Fragment B</p>
+<p> [...] they are to observe the new month according to the same [...] of both. A Knossian should not acquire possessions in Tylissos, but a Tylisian who wishes it may do so in Knossos. (5) Neither of the two should cut off land (of the other) nor take it away completely. Boundaries of the land: the "Mountain of the Swine" and the "Eagles" and the temple of Artemis  and the precinct of Archos and the river and following the course of the rain-water into Leukoporos and Agathoia, and finally Laos. When we sacrifice to Machaneus (10) the sixty adult (male) sheep, then to give also the leg of each sacrificial animal to Hera. When several cities together take goods from enemies, then it is to be as the Knossians and the Argives have agreed upon. The priest of the Knossians is to sacrifice to Ares (15) and to Aphrodite, he is to carry away from each animal the leg. Archos is to have the precinct which is in Acharna. The Knossians are to offer gifts of hospitality to those making sacrifices, and the Argives to the chorus in Tylissos. If a Knossian calls for an ambassador (in Tylissos), he should follow him wherever it is needed, (20) and (when) a Tylissian (is asking) a Knossian, (he should proceed) according to the same guidelines. And if he does not give gifts of hospitality, the council is immediately to inflict a sanction of ten staters on the <foreign>kosmos</foreign>, and a Knossian should do the same in Tylissos. The stele was set up under the kingship of Melantas. Lykotadas of the tribe of the Hylleis was president. The Assembly in charge of sacred matters took the decision. (25) Archistratos the son of Lykophron was president of the Council. The Tylissians are to add the following writing to the stele: if some Tylissian comes to Argos, he is to have the same (rights) as the Knossians.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p> Fragment A</p>
+<p>  [...] Il sera permis [aux Tylissiens] de dépouiller [en toute impunité] hormis [les parts] qui appartiennent à la cité [des Knossiens]. Et (ce que) (5) nous saisirons l'un et l'autre, en commun, [sur des ennemis], ils (les Tylissiens) prendront en partage le tiers [de] tout ce qui a été pris sur terre et la moitié de ce qui a été pris sur mer. La dîme sur ce qui a été pris en commun sera pour les Knossiens. Les plus belles des pièces de butin seront envoyées à Delphes (10), en commun, par l'une et l'autre partie. Le reste sera consacré à A[rès, à Knossos], en commun par l'une et l'autre partie. Il sera permis [d'exporter] de Knossos à Tylissos et de Tylissos [à Knossos]. Si l'on exporte au-delà, on paiera autant que les Knossiens. Que les marchandises de Tylissos soient exportées [où l'on veut]. [Le prêtre] des Knossiens sacrifiera (15) à Poséidon à Iytos. À Héra dans l'Héraion, l'une et l'autre partie sacrifieront en commun une vache : sacrifier avant les Hyakinthia [...]</p>
+
+<p> Fragment B</p>
+<p> [...] ils observeront le nouveau mois en fonction du même [...] l'une et l'autre partie. Un Knossien ne pourra acquérir de biens à Tylissos, mais un Tylissien qui en a besoin pourra le faire à Knossos. (5) Aucune des deux parties ne prélèvera une partie du territoire (de l'autre) ni ne se l'appropriera en entier. Limites du territoire : le "Mont des sangliers" et les "Aigles", l'Artémision et l'enceinte d'Archos, le fleuve, vers Leukoporos et Agathoia, en suivant le ruissellement des pluies, et Laos. Quand nous sacrifions à Machaneus (10) les soixante ovins mâles adultes, que l'on donne aussi la patte de chaque animal sacrificiel à Héra. Si plusieurs cités ensemble prélèvent des biens sur des ennemis, alors on appliquera ce que les Knossiens et les Argiens auront décidé. Le prêtre des Knossiens sacrifiera à Arès (15) et à Aphrodite; il prendra la patte de chaque animal. Archos conservera son enceinte à Acharna. Les Knossiens offriront des présents d'hospitalité à ceux qui sacrifient, et les Argiens (les offriront) au choeur à Tylissos. Si un Knossien en appelle à un ambassadeur, qu'il le suive partout où il le faut (20) et de même (si) le Tylissien (en appelle) à un Knossien. Mais s'il ne donne pas de présents d'hospitalité, le conseil infligera sur-le-champ au kosme le paiement de dix statères en compensation, et le Knossien fera la même chose à Tylissos. La stèle a été érigée sous la royauté de Melantas. Lykotadas, de la tribu des Hylleis, était président. L'assemblée en charge des affaires sacrées a pris la décision (25). Archistratos, fils de Lykophron, était président du conseil. Que les Tylissiens ajoutent ceci à la stèle : si un Tylissien vient à Argos, il sera traité comme le sont les Knossiens.</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p> These two fragments are likely to have belonged to the same treaty, concerning the peace between two adjacent Cretan cities, Knossos and Tylissos. The treaty, which discusses territorial, political, and religious agreements (the various topics do not seem to be presented in any systematic order) can be presumed to have been concluded in the mid-fifth century, after a period of strife between the two communities. The second fragment (B) can be divided into twelve different topics, the very last one having been added at a somewhat later period. Cf. Vollgraff (1913: 282-283) for references to other peace treaties between Cretan towns, which partly use the same (formulaic) language. Argos features in various clauses of the agreement (B13, 17, 27): the precise involvement of this city is disputed and not completely understood. Perhaps Argos had been a mediator in the peace treaty, or perhaps Knossos and Tylissos were reckoned to be colonies of Argos. The following line-by-line Commentary focuses mainly on references to deities and cultic practice in the inscription. For different, extensive commentaries on the political aspects and context of the treaty, cf. Vollgraff 1910 and 1913. For a different sort of agreement about religious matters, also regularly specifying joint actions (see here e.g. κοινᾶι ἀμφοτέρονς, line A11), cp. the dossier of the Salaminioi in Attica, <ref target="CGRN_84">CGRN 84</ref>.</p>
+
+	<p> Fragment A</p>
+
+	<p>Lines A9-11: The most beautiful spoils of war were to be sent to Delphi for dedication and display. For the sanctuary of Ares at Knossos and the cult of this god on Crete, see Willetts (p. 286 with n. 22) and also below lines B14-15, where he appears associated with Aphrodite.</p>
+
+<p> Line A15: Perhaps Ἰυτός may be identified with the mountain Ἰουκτάς (at the foot of which lay the village called Ἀρχάναις, cf. below on lines B15-16). On this mountain, we indeed find the remains of an ancient sanctuary (Vollgraff 1913). In the Cretan dialect, κ was sometimes assimilated to τ. On the cult of Poseidon in Crete and specifically at Iouktas, see Willetts (p. 289-290).</p>
+
+<p> Lines A16-17: According to Vollgraff (1913), the reference is to the month Heraios, rather than to a sanctuary of Hera; according to Willetts (p. 253), the reference was to a sanctuary at Knossos or Tylissos. Both perhaps remain possible. A month Heraios is not otherwise attested at Knossos or Tylissos, but it is found at Olus: <bibl type="abbr" n="IC I">IC I</bibl> 5, line 88. For another example of the worship of Hera on Crete, specifically at Gortyn, cf. here <ref target="CGRN_2">CGRN 2</ref>, line 3. See also below, on lines B9-11. Another sacrifice, now missing in the lacuna, was to be performed before the festival of the Hyakinthia (for sources on this festival in Sparta, see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. Ὑακίνθια; a month Bakinthios, i.e. Hyakinthios, is known in some Cretan cities, for instance at Lato and Mallia--see Trümpy).</p>
+
+	<p> Fragment B</p>
+
+<p>Lines B1-3: In Greek cities, the timing of the official "first of the month" or "new moon" did not always coincide with the astronomical observation of the new moon. This part of the treaty thus aimed at achieving a synchronisation of the two cities' calendars (Vollgraff 1910).</p>
+
+<p>Lines B6-9: The geographical locations of the "boundaries of the land" mentioned  here, i.e. either the borders between Tylissos and Knossos, or the boundary lines around one of these cities (in which case, the reference is most likely to Knossos, the most significant of the two communities), are generally unknown. For an effort to identify the landmarks and the borders of the territory of Tylisson, see Kyriakidis. For an effort to identify the landmarks and the borders of the territory of Tylisson, see Kyriakidis 2012. The precinct of Archos is again mentioned further on in the inscription, lines B15-16. Archos was perhaps the epithet of a minor deity or, aptly, an Archagetes or founding hero (cp. e.g. here <ref target="CGRN_57">CGRN 57</ref>, Aixone, lines 31-36). The possibly theophoric tribal name Ἀρχήια is found at Knossos (<bibl type="abbr" n="IC I">IC I</bibl> viii 4) and other Cretan cities.</p>
+
+<p>Lines B9-11: The large sacrifice of sixty adult sheep to Machaneus is described in the first person plural. It is not certain whether "we" are the Knossians or the Tylissians or also the Argives, or whether this represents a joint action on the part of the parties to the treaty. Speaking in the first person plural was one of the conventions of this genre of text. It is not clear whether the honorary parts—a leg from each animal—awarded to Hera were traditional for these sacrifices or a new addition. In any case, what is clear is that the offering of legs to Hera allows her to be honoured at the same time as her husband, (Zeus) Machaneus; the legs may have been taken away by her priest, perhaps for deposition on an offering table. Hera is Argos' principal goddess and her worship was also prominent in Crete; see also above on lines A16-17. A Heraion at Knossos has however not been identified. A cult of Zeus Machaneus is also now attested at Eleutherna on Crete: <ref target="CGRN_210">CGRN 210</ref>, line D4 (Zeus Machaneus was also honoured among other places at Kos, cf. Paul; see here <ref target="CGRN_86">CGRN 86</ref> D, lines 10-11, 14). A cult of Zeus Machaneus is also known at Argos (mentioned by Pausanias, 2.22.2), but this need not have inspired the cult described here (so Willetts, p. 244). The epithet Machaneus refers to the function of the god as a Saviour; it was interpreted already in antiquity as "the one who knows μηχαναί", cf. e.g. A. <title>Suppl.</title> 594: τὸ πᾶν μῆχαρ οὔριος Ζεύς (and cp. 1073).</p>
+
+<p>Lines B14-15: The cult of Ares and Aphrodite is served by τὸν Κνόσιον ἰαρέα, which points to the existence of an established cult for these gods at Knossos, served by an already appointed priest (note also the definite article). Evidence of the worship of Ares and Aphrodite on Crete has been observed at various places: cf. Pirenne-Delforge. At Knossos, a temple with a double <foreign>cella</foreign> was dedicated to these gods in the Hellenistic period. At Argos, there was also a cult of Ares and Aphrodite, as emerges from the mention by Pausanias (2.25.1) of another double sanctuary for these gods. On the leg as a standard priestly perquisite, see here e.g. <ref target="CGRN_86">CGRN 85</ref> (Kos).</p>
+
+<p>Lines B15-16: Given that the precinct of Archos is already mentioned in B7 (cf. above), the intention of the clause saying that Archos is to "have" (ἔχειν) the precinct at Acharna most likely serves to confirm that Archos should remain situated there and the deity should retain control of this precinct. Possibly a dispute over the proper place of worship for Archos had previously arisen or concerning the ownership of the god over the precinct in question. The place called Acharna is perhaps to be identified with the modern village Ἀρχάναις to the south of Knossos (Vollgraff 1910).</p>
+
+<p>Lines B16-22: Knossians are to provide gifts of friendship (e.g. meat) to those offering sacrifice (at Knossos); Argives are to offer gifts of friendship (e.g. meat) to the chorus (when they come for the festival and sacrifice) at Tylissos. On gifts of friendship analysed in a political perspective, see Cinalli. The dative modifier το̑ι χορο̑ι is slightly puzzling: does it mean that they finance hospitality in case a group of dancers and singers (a festival musical group) is involved in the rituals (which may have involved a larger amount of people)? Potentially, the financial situation of the Tylissians did not allow for the promise of generosity on this scale. It is highly unusual that a fine is prescribed for those who fail to provide hospitality. The proper treatment of guests (and hosts) was one of the universal "unwritten laws" that were upheld throughout the Greek world, a fundamental value. Transgression was believed to cause the anger of the gods (in general, and of Zeus Xenios in particular), but no human sanctions were normally involved. In this case, the explicit enforcement of the norm may point to the strong expectation that it would not be respected otherwise. The "ambassadors" which can be called during a visit may have been responsible for acting as sacrificial surrogates to the visitors, but we cannot be certain. In any case, their involvement seems to form an integral part of this section on cult visits.</p>
+
+<p>Lines B25: ἀ Βολᾶς is the abbreviation of ἀϜρέτευε βολᾶς. The abbreviation is indicated by a blank space after the α; for comparable cases, cf. Vollgraff 1910: 349 n. 4.</p>
+
+<p>Lines B26-27: The final clause of the treaty, explicitly identified as a later addition (ποιγραψάνσθο), gives to Tylissians who come to Argos rights equal to those of visiting Knossians. The extent of these rights is unclear. Vollgraff (1913: 304) has suggested that they may refer mainly to religious privileges: the option of participating in the Argive cultic life. This is indeed a good possibility, even if we might expect the text to be more explicit. Many ritual norms discuss the particular rights of strangers to take part in particular cults (cf. e.g. <ref target="CGRN_100">CGRN 100</ref>, Miletos, lines 6-8, with commentary). However, given the lack of further context and the diversity of topics discussed in the treaty, we cannot be certain.</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

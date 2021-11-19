@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_132" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 132</idno>: Honorific <rs type="textType" key="decree">decree</rs> of the tribe Aiolis at Methymna (Lesbos)</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<p>
+										<rs type="objectType">Stele</rs> of grey marble. A crown of leaves is incised above the inscription.</p>
+									<p>
+										<dimensions>
+											<height unit="cm">51</height>
+											<width unit="cm">38</width>
+											<depth unit="cm">unknown</depth>
+										</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout>
+									<p>Letters: <height unit="cm">0.7</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0300" notAfter="-0100">3rd or 2nd century BC.</origDate>.</p>
+							<p><desc>Justification: lettering (Paton).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Methymna" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550738" type="external">Methymna</ref>, on the island of Lesbos. Found in Molyvo, built into a wall of the church of St. Pantelemon.
+						</placeName></p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 15-02-2016 by S. Peels</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				
+				<p> Edition here based on Paton <bibl type="abbr" n="IG XII.2">IG XII.2</bibl> 505. </p>
+				
+				<p> Other editions: 
+<bibl type="author_date" n="Conze 1865">Conze 1865</bibl>: 23; 
+<bibl type="author_date" n="Pottier - Hauvette-Besnault 1880">Pottier - Hauvette-Besnault 1880</bibl>: 438-440; 
+<bibl type="author_date" n="Labarre 1996">Labarre 1996</bibl>: 312-313 no. 55.</p>
+				
+				<p> Further bibliography: <bibl type="author_date" n="Robert 1960">Robert 1960</bibl>: 126-131; 
+					<bibl type="author_date" n="Jones 1987">Jones 1987</bibl>: 189-191; 
+					<bibl type="author_date" n="Ekroth 2008a">Ekroth 2008a</bibl>: 272-279.</p>
+			</div>
+			
+			<div type="edition">
+				<head>Text</head>
+				
+				<ab>
+
+
+<lb xml:id="line_1" n="1"/> <w lemma="ἀγαθός"><supplied reason="lost">ἀγαθὴ</supplied></w> <w lemma="τύχη"><supplied reason="lost">τύχη</supplied></w>· <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <supplied reason="lost">Κ</supplied>τησιφ<supplied reason="lost">ῶν</supplied>τος το<supplied reason="lost">ῦ</supplied> <supplied reason="lost">Ἀ</supplied>ντικράτου 
+
+<lb xml:id="line_2" n="2"/> <w lemma="ἄρχων"><supplied reason="lost">ἄρχοντος</supplied></w> <supplied reason="lost">τοῦ</supplied> <name type="group"><w lemma="κοινός">κοινοῦ</w></name>, <w lemma="δοκέω">ἔδοξεν</w> τῶι <name type="group"><w lemma="κοινός">κοινῶι</w></name> τῆς <name type="group"><w lemma="φυλή">φυλῆς</w></name> 
+
+<lb xml:id="line_3" n="3"/> <supplied reason="lost">τῆς</supplied> <supplied reason="lost">Αἰολίδ</supplied>ος· <w lemma="ἐπειδή">ἐπειδὴ</w> Ἀριστοφάνης Ἀριστοφῶν 
+
+<lb xml:id="line_4" n="4" break="no"/><supplied reason="lost">τος</supplied> <w lemma="δείκνυμι"><supplied reason="lost">δειχθ</supplied>εὶς</w> <name type="personnel"><w lemma="φύλαρχος">φυλάρχης</w></name> <w lemma="ἐπιμελέομαι">ἐπεμελήθη</w> τῆς <name type="group"><w lemma="φυλή">φυλῆς</w></name> 
+
+<lb xml:id="line_5" n="5"/> <w lemma="φιλοδωρία"><supplied reason="lost">φιλοδοσ</supplied>ίας</w> καὶ <w lemma="χορηγία">χορηγίας</w> <w lemma="οὐδείς">οὐδὲν</w> <w lemma="ἐλλείπω">ἐνλείπων</w>, 
+
+<lb xml:id="line_6" n="6"/> <w lemma="ἀποδείκνυμι"><supplied reason="lost">ἀποδει</supplied>κνύμενος</w> τὴν <w lemma="εὔνοια">εὔνοιαν</w> <w lemma="ὅς">ἣν</w> <w lemma="ἔχω">ἔχει</w> <w lemma="πρός">πρὸς</w> 
+
+<lb xml:id="line_7" n="7"/> <supplied reason="lost">τὸ</supplied> <name type="group"><w lemma="κοινός"><supplied reason="lost">κοι</supplied>νόν</w></name>· <w lemma="ἵνα">ἵνα</w> <w lemma="οὖν">οὖγ</w> καὶ ἡ <name type="group"><w lemma="φυλή">φυλὴ</w></name> <w lemma="φανερός">φανερὰ</w> <w lemma="γίγνομαι">γίνηται</w> <w lemma="τιμάω">τιμῶσα</w> 
+
+<lb xml:id="line_8" n="8"/> <supplied reason="lost">τοὺ</supplied>ς <w lemma="φιλοδοξέω">φιλοδοξοῦντας</w> <w lemma="εἰς">εἰς</w> <w lemma="αὐτός">αὐτήν</w>, <w lemma="ἀγαθός">ἀγαθὴ</w> <w lemma="τύχη">τύχη</w> <w lemma="ψηφίζω">ἐψη 
+	
+	<lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">φί</supplied>σθαι</w>· <name type="adornment"><w lemma="στεφανόω">στεφανοῦν</w></name> Ἀριστοφάνην Ἀριστοφῶντος <w lemma="κατά">κα 
+		
+		<lb xml:id="line_10" n="10" break="no"/><supplied reason="lost">θ’</supplied></w> <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <w lemma="διά">διὰ</w> <w lemma="βίος">βίου</w> τοῦ <w lemma="ἑαυτοῦ">ἑαυτοῦ</w> τοῦ <name type="month"><w lemma="Ἀπολλώνιος">Ἀπολ 
+			
+			<lb xml:id="line_11" n="11" break="no"/><supplied reason="lost">λ</supplied>ωνίου</w></name> <w lemma="μείς">μηνὸς</w> τῆι <w lemma="πέμπτος">πέμπτηι</w> <w lemma="πρός">πρὸς</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> τῆς <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶ<supplied reason="lost">ς</supplied></w></name>, 
+
+<lb xml:id="line_12" n="12"/> <name type="speechAct"><w lemma="ἀναγορεύω">ἀναγορεύοντος</w></name> τοῦ <name type="personnel"> <w lemma="κῆρυξ">κήρυκος</w></name> "ἡ <name type="group"><w lemma="φυλή">φυλὴ</w></name> ἡ Αἰολὶς <name type="adornment"><w lemma="στεφανόω">στεφανοῖ</w></name> 
+
+<lb xml:id="line_13" n="13"/> <supplied reason="lost">Ἀ</supplied>ριστοφάνην Ἀριστοφῶντος <w lemma="φυλαρχέω">φυλαρχήσαντα</w> <w lemma="ἀρετή">ἀρετῆς</w> <w lemma="ἕνεκα">ἕνε 
+	
+	<lb xml:id="line_14" n="14" break="no"/>κεν</w> καὶ <w lemma="εὔνοια">εὐνοίας</w> τῆς <w lemma="εἰς">εἰς</w> <w lemma="ἑαυτοῦ">ἑαυτὴν</w> <name type="adornment"><w lemma="στέφανος">στεφάνωι</w> <w lemma="χρυσός">χρυσῶι</w></name> τῶι 
+
+<lb xml:id="line_15" n="15"/> <w lemma="ἐκ"><supplied reason="lost">ἐ</supplied>κ</w> τοῦ <name type="authority"><w lemma="νόμος">νόμου</w></name>"· τοὺς δὲ <name type="personnel"><w lemma="ἐπιμήνιος">ἐπιμηνίους</w></name> τοὺς <w lemma="ἀεί">ἀεὶ</w> <w lemma="γίγνομαι">γινομέ 
+	
+	<lb xml:id="line_16" n="16" break="no"/>νους</w> <w lemma="παρίστημι">παριστάναι</w> <w lemma="αὐτοῦ">αὐτῶ</w> <w lemma="ἀπό">ἀπὸ</w> τῶν <name type="quality"><w lemma="μισθόω">μισθουμένων</w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεί 
+		
+		<lb xml:id="line_17" n="17" break="no"/>ων</w></name> <name type="animal" key="sheep"><name type="age"><w lemma="ἀρήν">ἄρνα</w></name></name> <name type="gender"><w lemma="θῆλυς">θηλεῖαν</w></name>, τὸν δὲ <name type="sacrifice"><w lemma="θύω">θύειν</w></name> τῆι <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶ</w></name> <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="ὑγίεια">ὑγιείας</w> 
+
+<lb xml:id="line_18" n="18"/> <supplied reason="lost">κ</supplied>αὶ <w lemma="σωτηρία">σωτηρία<supplied reason="lost">ς</supplied></w> τῶν <name type="group"><w lemma="συμφυλέτης">συμφυλετῶν</w></name>· <name type="adornment"><w lemma="στεφανόω">στεφανοῦν</w></name> δὲ <w lemma="αὐτός">αὐτὸν</w> 
+
+<lb xml:id="line_19" n="19"/> <supplied reason="lost">τ</supplied>ῆι <w lemma="πέμπτος">πέμπτηι</w> καὶ <w lemma="ἐν">ἐν</w> τῆι <w lemma="σύνοδος">συνόδωι</w> <w lemma="μετά">μετὰ</w> τὰς <name type="sacrifice"><w lemma="σπονδή">σπονδὰς</w></name> 
+
+<lb xml:id="line_20" n="20"/> <name type="speechAct"><w lemma="ἀνακηρύσσω">ἀνακηρύσσοντος</w></name> τοῦ <name type="personnel"><w lemma="κῆρυξ">κήρυκος</w></name> "ἡ <name type="group"><w lemma="φυλή">φυλὴ</w></name> <name type="adornment"><w lemma="στεφανόω">στεφανο<supplied reason="lost">ῖ</supplied></w></name> 
+
+<lb xml:id="line_21" n="21"/> Ἀριστο<supplied reason="lost">φάνην</supplied> Ἀριστοφῶντος <name type="title"><w lemma="φυλαρχέω">φυλαρχήσαν<supplied reason="lost">τα</supplied></w></name> <w lemma="φιλοδωρία"><supplied reason="lost">φι</supplied> 
+	
+	<lb xml:id="line_22" n="22" break="no"/>λοδοσίας</w> <w lemma="ἕνεκα">ἕνεκεν</w> τῆς <w lemma="εἰς">εἰς</w> <w lemma="αὐτός">αὐτὴν</w> <name type="adornment"><w lemma="στέφανος">στεφάνωι</w></name> <supplied reason="lost">τῶι</supplied> <name type="authority"><w lemma="ἔννομος"><supplied reason="lost">ἐννό</supplied> 
+		
+		<lb xml:id="line_23" n="23" break="no"/><supplied reason="lost">μ</supplied>ωι</w></name>, <name type="portion"><w lemma="διμοιρία">δι<supplied reason="lost">μοιρ</supplied>ίαι</w></name> <name type="animal" key="sheep"><w lemma="μήλειος"><supplied reason="lost">μη</supplied>λέαι</w></name>"· <name type="adornment"><w lemma="στεφανόω">στεφανοῦν</w></name> δὲ <w lemma="αὐτός">αὐ<supplied reason="lost">τὸν</supplied></w> <supplied reason="lost">καὶ</supplied> 
+
+<lb xml:id="line_24" n="24"/> <supplied reason="lost">ταῖς</supplied> <w lemma="ἄλλος">ἄλ<supplied reason="lost">λα</supplied>ις</w> <w lemma="ἡμέρα"><supplied reason="lost">ἡ</supplied>μέραις</w> <w lemma="ὅς">αἷς</w> <w lemma="ἄν">ἂν</w> <w lemma="συνάγω">συνά<supplied reason="lost">γηται</supplied></w> <supplied reason="lost">τὸ</supplied> <name type="group"><w lemma="κοινός"><supplied reason="lost">κοινὸν</supplied></w></name> 
+
+<lb/> <gap reason="lost" extent="unknown" unit="line"/> </ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+				<p>With good fortune, during the archonship of the group by Ktesiphon son of Antikrates, the group (<foreign>koinon</foreign>) of the tribe Aiolis decided: given that Aristophanes son of Aristophon, having been appointed chief officer of the tribe, took care of the tribe, (5) not lacking any desire for giving or in financing choruses, and showing his goodwill towards the group; in order that the tribe in its turn shows that it honours those seeking credit with her, with good fortune, it is decided: to crown Aristophanes son of Aristophon (10) every year throughout his life on the 5th of the month Apollonios in the sanctuary of Athena, with the herald proclaiming publicly: "The tribe Aiolis crowns Aristophanes son of Aristophon who has acted as chief officer of the tribe, because of his excellence and his goodwill towards the tribe, with a golden crown, (15) the one allowed by law." The <foreign>epimenioi</foreign> successively in office shall provide him a female lamb from the sacrificial animals that have been contracted out, and he should sacrifice (this) to Athena for the health and salvation of the fellow-tribesmen. And he is to be crowned both on the 5th (of the month Apollonios) and during the gathering after the drink-offerings, (20) where the herald is to proclaim: "The tribe Aiolis crowns Aristophanes son of Aristophon who has acted as chief officer of the tribe because of his fondness for giving to the tribe with a crown, the one allowed by law, (and it also honours him with) with a double portion of sheep meat." He is also to be crowned on the other days on which [the group] comes together.</p> 
+				
+			</div> 
+			<div type="translation" xml:lang="fre"> 
+				<head>Traduction</head> 
+<p>À la bonne fortune. Sous l'archontat du <foreign>koinon</foreign> assuré par Ktesiphon fils d'Antikratos, il a plu au <foreign>koinon</foreign> de la tribu Aiolis : attendu qu'Aristophanès fils d'Aristophon, sous sa présidence, a pris soin de la tribu (5) en ne lésinant ni sur les dons si sur l'organisation de choeurs, démontrant son dévouement envers le <foreign>koinon</foreign>; afin donc qu'il soit manifeste que la tribu honore ceux qui recherchent pour elle la gloire, à la bonne fortune, il est décidé par décret de couronner Aristophanès fils d'Aristophon (10) chaque année sa vie durant, le 5 du mois d'Apollonios au sanctuaire d'Athéna, le héraut proclamant : « La tribu Aeolis couronne Aristophanès fils d'Aristophon qui a été président de tribu pour sa valeur et son dévouement envers elle d'une couronne d'or (15) légalement prescrite. » Que les <foreign>epimenioi</foreign> successivement en fonction mettent à sa disposition une agnelle provenant des animaux sacrificiels mis en adjudication, qu'il (la) sacrifie à Athéna pour la santé et le salut des membres de la tribu; de le couronner le 5 du mois d'Apollonios en réunion après les libations, (20) le héraut proclamant : « La tribu Aeolis couronne Aristophanès fils d'Aristophon qui a été président de tribu d'une couronne légalement prescrite pour ses dons envers elle et (lui accorde) une part double de brebis. » Il sera également couronné les autres jours où [le <foreign>koinon</foreign>] se réunit.</p>
+				<p> (traduction d'après G. Labarre)</p> 
+				
+			</div> 
+			<div type="commentary"> 
+				<head>Commentary</head> 
+				<p>The inscription concerns the bestowing of honours on a certain Aristophanes, who served as chief officer (φύλαρχος) of the tribe Aiolis: it is an honorific decree of this tribe, which also describes itself as a group or community (κοινόν). Aristophanes is to be crowned with a special crown each year on a specific day (the 5th of Apollonios, lines 9-18) and publically lauded, in return for the generous gifts to the tribe he made during his time in office. We do not know the specific context of this festival occasion, but it clearly took place at a sanctuary of Athena where sacrifices were performed. Aristophanes is also to be honoured on at least two other occasions: "after the libations" or "drink-offerings"—on this occasion, a very similar proclamation is to be made and Aristophanes is also to be given an extra portion of meat—and during any other meetings held by the tribesmen, at which Aristophanes is also to be crowned or at least to wear his crown.</p>
+				
+				<p> Two different units of organisation are known on Methymna: besides the tribe (φυλή), the χέλληστυς ('thousand division') is also attested (see Jones, also on what follows). The relation between these units is not known. However, the activities of the tribes and χελλήστυες seem to "create an impression of a vigourous corporate life" (Jones, p. 191). Various periodical meetings of these groups are attested, and they apparently had enough recources to organize recurrent rituals and other honorific ceremonies, such as we find in the present inscription. Τhe tribe Aiolis is attested only in the present text, and thus little is known about it. Its name may have provided a way for the Aiolic population of Methymna to identify itself as a group, perhaps in opposition to inhabitants with other (mythical or real) origins.</p>
+				
+				<p> Line 15: The reference to a "lawful" golden crown (στεφάνωι χρυσῶι τῶι [ἐ]κ τοῦ νόμου, cp. the restored στεφάνωι [τῶι ἐννόμ]ωι in lines 22-23) is commonly found in honorary decrees of many cities. The expression στεφάνος ὁ ἐννόμος is particularly common on Lesbos and in the nearby Aiolis and Troad: cf. e.g. <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> 139, honorary decree of the city of Eresos for Miletos. It is possible that the tribe had its own laws concerning crowns, but more likely the <foreign>polis</foreign> of Methymna has established the legal parameters for golden crowns.</p>
+				
+				<p> Line 16-17: The provision of animals for sacrifices made by the tribe seems to have been contracted out: the tribe may have drawn up contracts with individuals to rear animals to the proper age and size, and it is from these contracted animals that a lamb is to be given to Aristophanes in order to make a sacrifice. On the award of sacrificial animals to individuals in order to make a supplementary sacrifice (or a sacrifice in their name), see Robert; this honorific mechanism was often, as here, called παράστασις. Sheep are commonly offered to many gods, Athena included: cp. e.g. <ref target="CGRN_32">CGRN 32</ref> (Thorikos), line 54, and <ref target="CGRN_85">CGRN 85</ref> (Athens), line 23-24.</p>
+				
+				<p> Line 19: It is likely that the two occasions mentioned, namely the 5th of Apollonios and the libations, are no more than a few days apart, since the double portion of sheep meat to be distributed to Aristophanes as a further honour probably derived from the meat of the sheep that was sacrificed to Athena. The equal portions of the meat may have been distributed after hanging out for some days, thus increasing their quality (cf. Ekroth). The "libations" mentioned here may refer to solemn oaths that were sworn before an important or annual meeting of the tribe; this may have been the occasion on which new officials were elected, followed by a communal meal: for σπονδαί in this sense, cp. here <ref target="CGRN_107">CGRN 107</ref> (Kalaureia), line 28.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

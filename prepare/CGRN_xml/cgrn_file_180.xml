@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_180" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 180</idno>: Excerpt from a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> at Ialysos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Sizeable <rs type="objectType">base</rs> of gray marble. Pugliese-Carratelli's description of the block is to some degree unclear. He detects two phases of reuse: one, as a statue base since it shows a large depression for the insertion of the "plinth" of a statue; the other, as a reused block. Since it is difficult to confirm these observations from the published photograph, the best that we can state is that there is a large depression on the front face of the block, which is damaged but seems to have been reworked for the insertion of the feet of an anthropomorphic bronze statue. This is clearly due to one phase of reuse, with the inscription now lying at the top (and thus rendered much less visible). The original disposition of the block may thus have been as an architectural member of some sort, since it perhaps shows finishing at the edges (a band called <foreign>tainia</foreign>, especially at the top of the front face).</p>
+			<p><dimensions>
+					<height unit="cm">48</height>
+					<width unit="cm">66</width>
+					<depth unit="cm">40</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="cm">1.2</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+		<p><origDate notBefore="-0300" notAfter="-0150">ca. 300-150 BC</origDate></p>
+			<p><desc>Justification: early to mid-Hellenistic lettering (Carbon; cp. Sokolowski). Note the four-bar <foreign>xi</foreign>, elegant ovoid <foreign>phi</foreign> and open <foreign>sigma</foreign> and <foreign>omega</foreign>.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Ialysos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589815" type="external">Ialysos</ref></placeName>. Found on the acropolis of Mount Philerimos. Current location unknown.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+				  <p>Edition here based on Pugliese Carratelli <bibl type="abbr" n="NSER">NSER</bibl> 14  (p. 164), with ph. For the reading adopted at the beginning of line 1, printed only in majuscules by Pugliese-Carratelli, see Commentary below.</p>
+			<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 93.</p>
+					
+					<p>Further bibliography: <bibl type="author_date" n="Puttkammer 1912">Puttkammer 1912</bibl>: 24.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>	
+
+<lb/><space quantity="1" unit="line"/>
+			
+<lb xml:id="line_1" n="1"/>καὶ <w lemma="εἰμί">ἐστί</w> (?) <name type="portion"><w lemma="ὦμος">ὤμου</w></name> <name type="quality"><w lemma="δεξιός">δεξιοῦ</w></name> <name type="portion"><w lemma="κρέας">κρῆ</w></name> <w lemma="τρεῖς">τρία</w> καὶ <name type="portion"><w lemma="τρίπλευρος">τρίπλευρον</w></name> καὶ <name type="portion"><w lemma="ὀσφῦς">ὀσφῦς</w></name>
+	    						    					
+<lb xml:id="line_2" n="2"/>καὶ <name type="portion"><w lemma="ἀκρίσχιον">ἀκρίσχιον</w></name>, <name type="portion"><w lemma="κεφαλή">κεφαλᾶς</w></name> <name type="quality"><w lemma="ἥμισυς">ἥμυσυ</w></name>, <name type="portion"><w lemma="γλῶσσα">γλῶσσαν</w></name>, <name type="portion"><w lemma="ἐγκέφαλος">ἐγκέφαλον</w></name>.
+
+<lb/><space extent="unknown" unit="line"/>
+	    						
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+	    				<p>[...] and there are (?) three portions of meat from the right shoulder and a triple-rib and a sacrum and a top of a hip, half a head, a tongue, a brain.
+						</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[...] et il y a (?) trois parts de viande de l'épaule droite et trois côtes, et le sacrum et le dessus d'une hanche, une demi-tête, une langue, une cervelle.</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>This is an enigmatic but fascinatingly detailed list of sacrificial portions. As the first editor, Pugliese Carratelli, remarked, the original context of the structure from which the block derived is now unknown, but it could have been part of an altar (Pugliese Carratelli's hypothesis) or perhaps another structure at a cult-site on the Acropolis of Ialysos, such as a cult-table or wall of a sanctuary. The content of the inscription also raises several questions. Since it begins <foreign>in medias res</foreign> with the conjunction καί, Pugliese-Carratelli conjectured that the text, which is the only visible inscription on the stone, is an excerpt from a larger regulation. This is indeed a possibility: several other excerpts, notably from sacrificial calendars, have been found inscribed at different cult-sites on the island of Rhodes, cf. here <ref target="CGRN_154">CGRN 154</ref>, for an example from Ialysos (many others from Kamiros and Lindos are known and included in the present Collection). However, starting such an excerpt with καί is still unexpected and unparalleled in the other excerpts. Another possibility is that the text was a separate continuation of a larger document, originally inscribed on adjacent blocks as part of the larger structure of which this block may have been a part (cf. also Support).</p> 
+						
+<p> At any rate, it seems that much of the context of the inscription is now lost. Accordingly, we find the proposal of Pugliese Carratelli to restore the second word as Ἑστί<supplied reason="omitted">αι</supplied> unlikely, though not wholly implausible (it is adopted by Sokolowski). Thinking that this is an excerpt or only a section of a regulation, it seems better to leave this second word uncorrected as the third person of εἰμί. The subject of ἐστί will presumably have been a third person plural neuter form, whether implicit or introduced as part of an earlier portion of the regulation (e.g. τὰ γέρα). As it turns out, most of the portions which follows in line 1 are either neuter singular or plural (thus ambiguous between nominative and accusative), and one form is in the nominative: ὀσφῦς; if we take these portions as nominatives, all of them therefore follow well from (e.g. τάδε) ἐστί. Only the second part of the list (line 2, after ἀκρίσχιον) is principally in the accusative and thus unexpected following ἐστί; but see immediately below for the different or separate character of this second list.</p> 
+						
+<p>The substance of the text is exclusively comprised of lists of sacrificial portions. Pugliese Carratelli (followed more confidently by Sokolowski) suggested that the list was essentially concerned with defining priestly portions. This is a strong possibility, since most of the portions match other attestations of priestly prerogatives. Compare the better preserved material from Attic lists, esp. e.g. those in the account of the deme of Aixone, <ref target="CGRN_57">CGRN 57</ref> (<foreign>passim</foreign>) or in the regulation from the deme of Phrearrhioi, <ref target="CGRN_103">CGRN 103</ref>, lines 14-22. There is, however, a possibility that the portions were also, or at least partially, meant as a divine offerings, to be burned on the altar. As explained below at lines 1-2 (see there for an analysis of each individual portion), several of the portions mentioned in the list are found in the present Collection as divine portions: meat from the shoulder, the half-head, the sacrum or tail (cf. again <ref target="CGRN_103">CGRN 103</ref>, lines 15ff., for the portions set on the altar); the portion which perhaps most speaks against being a divine prerogative is the tongue (which, moreover, does not burn). As a matter of fact, the difficulty in determining whether these portions were divine or priestly in and of itself testifies to the fundamental idea that divine and priestly portions were coextensive or at least contiguous in the body of the sacrificial animal: for instance, the god might receive a shoulderblade, while the priest received meat from the shoulder; the god and the priest might share a half-head or divide the head in two symmetrical halves amongst themselves. Additionally, portions which were burned for the god on the altar or set aside on a table would typically be taken away by a priest or priestess as their due. In terms of the structure of the list, it is also worth remarking that there are perhaps two subsets of portions envisaged here: one is syndetic and consists of elements from the core of the animal (line 1 and the beginning 2), while the final three portions (line 2) are presented asyndetically and concern the half-head and its contents (the tongue and brain). Only this latter list is presented in the accusative, a fact which may further testify to the 'excerpted' or unusually composite character of the regulation. Overall, whatever its precise context of composition, the regulation is a singularly specific regulation concerning sacrificial portions, inscribed at the cult-site as a sign for the cult personnel and/or worshippers.</p>
+
+<p>Line 1: The first two portions cited in the extant regulation are marked by their triple character. Apart from mentions of the shoulderblade (see <ref target="CGRN_80">CGRN 80</ref>, Erythrai, lines A1-3, with further refs. in the present Collection) the shoulder of the animals was a common priestly perquisite, see <ref target="CGRN_75">CGRN 75</ref> (Oropos), lines 29-36. In this case, however, it is not the whole shoulder that is granted, but rather three portions of meat deriving from it; cp. the divine portion (θεομοίρια) which derived from the shoulder on Kos, cf. <ref target="CGRN_86/">CGRN 86</ref> D, line 20, and also the "bits from under the shoulder" (μασχαλίσματα), which are attested as offerings to be placed on the altar at <ref target="CGRN_103">CGRN 103</ref> (Phrearrhioi), lines 16-17. Triple portions of meat were set aside on the table at <ref target="CGRN_76">CGRN 76</ref> (Erythrai), lines 14-17, thus constituting both a divine offering and an eventual priestly perquisites. For righthand portions, occasionally specified in ritual norms, see Puttkammer and cf. here <ref target="CGRN_80">CGRN 80</ref> (Erythrai), lines A1-3, and <ref target="CGRN_88">CGRN 88</ref> (Chios), line 4. As Pugliese Carratelli ably remarked, τρίπλευρον is a specific anatomical portion, denoting the meat covering three ribs (perhaps again from the right side of the ribcage); cf. esp. <ref target="CGRN_196">CGRN 196</ref> (Iasos), lines 13-15, with further discussion—it is granted to the priest in this case; for the term used in a relatively generic sense, cf. <ref target="CGRN_212">CGRN 212</ref> (Pergamon), lines 20-22 (portions granted to subsidiary cult personnel). The ὀσφῦς technically denoted the sacrum bone as well as perhaps some of the vertebrae of the tail, and any meat surrounding or marrow within it. It was typically burned on the altar, but would then be granted to the priest: see esp. <ref target="CGRN_42">CGRN 42</ref> (Iasos), line 2, and <ref target="CGRN_100">CGRN 100</ref> (Miletos), line 2.</p>
+
+<p>Line 2: The term ἀκρίσχιον is rare; for the same word as a prerogative for cult personnel, cf. <ref target="CGRN_85">CGRN 85</ref> (Kos), line 33. Otherwise, it is only found in one medical source (Oribasius 48.55-59), where it seems to denote the area of the pelvic girdle, or the meat and fat surrounding it. In Attica, a side of hip, πλεύρον ἰσχίο is found as a priestly portion, presumably as portion containing both meat and bone, cf. again <ref target="CGRN_57">CGRN 57</ref> (Aixone), lines 4, 8-9, 11, 15, 19, 23, and <ref target="CGRN_103">CGRN 103</ref> (Phrearrhioi), lines 5 and 21. It is possible that this is a similar portion to that found in the Dorian world, here on Rhodes and also on Kos. For bits just above the hip, portions of meat from around the navel and the abdomen, cp. also the word πρότμησις, <ref target="CGRN_37">CGRN 37</ref> (Chios), line 11, and <ref target="CGRN_120">CGRN 120</ref> (Sinope), line 7. For the head cut into a half, widely attested as both a divine and priestly portion, cf. <ref target="CGRN_37">CGRN 37</ref> (Chios), line 11 (priestly); <ref target="CGRN_61">CGRN 61</ref> (Athens), line 8 (priestly); and esp. <ref target="CGRN_57">CGRN 57</ref> (Aixone-priestly) and <ref target="CGRN_103">CGRN 103</ref> (Phrearrhioi-divine). For the tongue, cf. esp. the evidence from Chios, where it is found as a prevalent priestly prerogative: e.g. <ref target="CGRN_41">CGRN 41</ref>, line 9. For the brain, cp. perhaps <ref target="CGRN_196">CGRN 196</ref> (Iasos), lines 12-16.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

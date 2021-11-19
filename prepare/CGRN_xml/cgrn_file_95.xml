@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_95" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 95</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for Mnemosyne at Athens</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+               
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>Part of a large
+                            <rs type="objectType">block</rs> of Pentelic marble, broken on all sides.</p>
+                            <p><dimensions>
+                                <height unit="cm">25</height>
+                                <width unit="cm">30</width>
+                                <depth unit="cm">15</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Letters: Line 1: <height unit="cm">2.5</height>, line 2: <height unit="cm">1.2</height>.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0325" notAfter="-0300">end of 4th century BC</origDate></p>
+                        <p><desc>Justification: lettering (Meritt, Curbera).</desc></p>
+                    </origin>
+                    <provenance>
+                        <p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885" type="external">Athens</ref></placeName>. Found as part of the wall of a modern house over the Heliaia.
+                    </p></provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by S. Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                <p> Edition here based on <bibl type="author_date" n="Meritt 1963">Meritt 1963</bibl>: 46 no. 62. See now Curbera <bibl type="abbr" n="IG II³">IG II³</bibl> 4, 1759.
+                </p>
+
+                <p> Cf. also:
+                Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 26; <bibl type="abbr" n="SEG">SEG</bibl> 21, 786.</p>
+      
+        <p> Further bibliography: 
+            <bibl type="author_date" n="Bruit Zaidman 2005">Bruit Zaidman 2005</bibl>: 38.
+        </p>
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                        
+                    <lb xml:id="line_1" n="1"/> <name type="deity" key="Mnemosyne"><w lemma="Μνημοσύνη"><supplied reason="lost">Μνη</supplied>μοσύνη<supplied reason="lost">ι</supplied></w></name> 
+                    <lb xml:id="line_2" n="2"/> <name type="bakery"><w lemma="ἀρεστήρ"><supplied reason="lost">ἀρεστῆ</supplied>ρα</w></name> <supplied reason="lost">καὶ</supplied> <name type="liquid"><name type="vegetal"><w lemma="κηρίον">κηρία</w></name></name>.
+                    
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>To Mnemosyne.</p> 
+                <p>One propitiatory cake and honeycombs.
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction </head>
+                <p>À Mnemosyne.</p> 
+                <p>Un gâteau propitiatoire et des rayons de miel.
+                </p>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p>This fourth-century text is part of a group of mostly short inscriptions (e.g. <ref target="CGRN_53">CGRN 53</ref> and <ref target="CGRN_54">CGRN 54</ref>) found in Piraeus and in or near the city Asklepieion of Athens, prescribing the (preliminary) offering of cakes to various divinities. Meritt connects the cult of Mnemosyne in this inscription to a sanctuary of Dionysus discussed by Pausanias (1.2.5) at the north-west entrance of the Athenian Agora. This god was honoured together with other deities: Athena Paionia, Zeus, Mnemosyne, the Muses, and Apollo.</p>
+                <p> The offerings of the cake ἀρεστήρ and honeycomb often go together. The inscription <ref target="CGRN_54">CGRN 54</ref>, lines B1-8, found at Piraeus, prescribes an ἀρεστῆρ[α] and a κηρίον for Helios and Mnemosyne. Another one, <ref target="CGRN_53">CGRN 53</ref>, found at Piraeus, prescribes ἀρεστῆρας and κηρία for the Moirai. The inscription <ref target="CGRN_87">CGRN 87</ref>, found on Samos, prescribes ἀρεστῆρας and κηρία for Kourotrophos and Hermes. Sokolowski supplies [ἀρεστῆ]ρα [καὶ] in this inscription, but as pointed out in <bibl type="abbr" n="SEG">SEG</bibl> 25, 231 [ἀρεστῆ]ρα[ς καὶ] (plural) may be more likely. Cp. <ref target="CGRN_54">CGRN 54</ref>, with two singular forms: Μνημοσύνηι ἀρεσ[τῆ]ρα κηρίον, and <ref target="CGRN_53">CGRN 53</ref>, with two plural forms: Μοίραις ἀρεστῆρας ΙΙΙ κηρία ΙΙΙ. The name of the cake called ἀρεστήρ is derived from the verb ἀρέσκω, "to appease, conciliate", and should be seen as a propitiatory gesture. Bruit Zaidman explains that honey has an 'appeasing' (sweetening) function too.             </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_69" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 69</idno>: Fragmentary <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> for a Hero and Dionysus on Thasos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Moulded marble <rs type="objectType">stele</rs>, only slightly broken on the left, but not significantly (as can be seen from the moulding); also broken below. Otherwise intact, but heavily worn on the surface, especially to the left of the legible traces.</p>
+			<p><dimensions>
+					<height unit="cm">29</height>
+					<width unit="cm">14</width>
+					<depth unit="cm">14.5</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">8</height>, with smaller <foreign>omega</foreign> and <foreign>omicron</foreign>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0325" notAfter="-0275">ca. 325-275 BC</origDate></p>
+			<p><desc>Justification: lettering (Pouilloux).</desc></p>
+		</origin>
+		<provenance><p/><placeName type="ancientFindspot" key="Thasos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/501634" type="external">Thasos</ref></placeName>. Found in a building on the north-east of the agora (see Pouilloux for further details). Now in the Thasos Museum (inv. no. 888).<p/>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Pouilloux 1954">Pouilloux 1954</bibl>: 344 no. 129, ph. pl. 37 (5), who gives a majuscule text only. The readings presented here are based on the published photograph.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 70. Sokolowski mistakenly prints a gap on the right, whereas it lies to the left of the legible traces. All lines except line 6 preserve the righthand margin.</p>
+					<p>Note: From the published photograph, the inscription appears to have been poorly deciphered and further progress is doubtless possible.</p>	
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    					
+<lb xml:id="line_1" n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΛΛ<unclear>Φ</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig>ΥΣ</orig> τοῦ <w lemma="ἐν">ἐν</w> <placeName key="Ainyra"><w lemma="Αἰνύρα">Αἰνύροις</w></placeName>
+	
+<lb xml:id="line_2" n="2"/> <gap reason="illegible" extent="unknown" unit="character"/> <name type="deity" key="Hero"><w lemma="ἥρως">ἥρωι</w></name> <orig>το<unclear>ν</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>Ν</unclear></orig><gap reason="lost" quantity="4" unit="character"/>αλλοις <name type="animal" key="ox"><w lemma="βοῦς">βοῦν</w></name>, τῶι <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διονύσωι</w></name> 
+	    					
+	    					<lb xml:id="line_3" n="3"/><gap reason="illegible" extent="unknown" unit="character"/>καὶ <name type="portion"><name type="bakery"><w lemma="στέαρ">στέ<unclear>α</unclear><supplied reason="lost">τος</supplied></w></name></name> <gap reason="lost" quantity="4" unit="character"/><orig><unclear>ι</unclear>ων</orig>, <name type="portion"><w lemma="νεφρός">νεφρῶν</w></name>, <name type="portion"><w lemma="ἥπατος"><supplied reason="lost">ἡπά</supplied><unclear>τ</unclear>ων</w></name>, τρι<gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_4" n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Δ<supplied reason="lost">ι</supplied>ονύ<supplied reason="lost">σωι</supplied></w></name> <gap reason="lost" quantity="5" unit="character"/><orig>ωι</orig> <w lemma="πεπτός">πεπτὰ</w> καὶ <name type="portion"><name type="bakery"><w lemma="στέαρ">στέατος</w></name></name> 
+	    				
+<lb xml:id="line_5" n="5"/><gap reason="lost" extent="unknown" unit="character"/><orig>τος</orig> <w lemma="ἀμφότερος">ἀμφοτέρων</w> <w lemma="ἄχρι">ἄχρι</w> τῆς <name type="portion"><w lemma="κύστις">κύστιος</w></name> <orig>ΑΝ</orig>
+	    				
+<lb xml:id="line_6" n="6"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΙΝΑΝΔ</orig><gap reason="lost" quantity="2" unit="character"/><orig>Ε</orig><gap reason="lost" quantity="1" unit="character"/><orig>ΟΜΓΛ</orig><gap reason="lost" quantity="11" unit="character"/><orig>Ο</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					(Given the extremely fragmentary character of the text, no translation is attempted; see Commentary).	
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+					(En raison du caractère très fragmentaire du texte, aucune tentative de traduction n'est proposée; voir Commentary).
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						<p>This fragment of a regulation contains an unusual amount of anatomical detail about sacrifices. For instance, it conspicuously mentions either animal fat, perhaps related to internal organs (line 3), or suet cakes, since στέαρ can mean both (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.). The apparent recurrence of genitives in the lists preserved remains puzzling. Given that it so illegible and fragmentary, the understanding of the text remains to be improved and the precise character of the rituals in question remain essentially beyond our comprehension.</p>
+
+<p>Line 1: "of the one in Ainyra". Ainyra is the region of the large bay of Potamia to the south-east of the city, on the eastern shore of Thasos. To our knowledge, no significant ancient site has been excavated there, though cf. Hdt. 6.47 who describes mines at Kinyra. Pouilloux thought of reading a hero or name ending in -αλφ<supplied reason="lost">ε</supplied>υς, which may be a good possibility.</p>
+
+<p>Line 2: Rather than the comma placed after the dative plural inserted by Sokolowski, we prefer to think that the ox was offered to some recipients ending in -αλλοις or simply to ἀλλοῖς, i.e. other gods or heroes. Another option would a deity or group of deities identified with a plural place name, as we found in line 1, ἐν Αἰνύροις.  Dionysus would then have been more appropriately followed by an offering in the next line.</p>
+
+<p>Line 3: Sokolowski reads the nominative στέα<supplied reason="lost">ρ</supplied> and makes the internal organs which follow depend on this word, also restoring <supplied reason="lost">ἐγκοιλ</supplied>ίων. This could be an interesting reading, but it is surprising that the hard abdominal fat called στέαρ would be directly connected with these internal organs (also the kidneys, and the liver if the restoration is correct), rather than forming a fatty layer in its own right. Moreover, one find καὶ στέατος in line 4, which may be worth restoring here too (though the genitive after the conjunction is puzzling without any further context). At the end of the line, Sokolowski supplements τρί<supplied reason="lost">πλευρον</supplied>, which is possible but less certain given the unusual list of portions (and the genitives) presented in this text.</p>
+
+<p>Line 4: Sokolowski, following the readings of Pouilloux, gives Δ<gap reason="illegible" quantity="1" unit="character"/>ΟΝΥ<gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost">ἐν</supplied> ἐλ<unclear>α</unclear><supplied reason="lost">ί</supplied>ωι. We would therefore have portions which are "cooked in olive oil". On the basis of the photograph, however, Pouilloux' readings might be cautioned and it is perhaps better to interpret the first set of traces as the repeated name of Dionysus, in which case the restoration of the olive oil would probably be precluded. Thus, we would have Dionysus, perhaps followed by an epithet ([M]ela-? [P]ela[gi]os? Ela[phr]os? Ela[phi]os?, if we wish to maintain the readings), and then by offerings. Whichever reading is adopted, what lies behind the πεπτά, apparently a 'substantivised adjective' meaning "cooked things", remains enigmatic (perhaps grains, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.).</p>
+											
+<p>Line 5: It is regrettable that this part of the fragment is poorly contextualised, since it appears to refer to an aspect of butchery of which we are not otherwise informed: "from both sides (?) up to the bladder", presumably thereby indicating a method of cutting up an animal or extracting internal organs. The mention of the bladder, κύστις, is unique in the present Collection.  
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

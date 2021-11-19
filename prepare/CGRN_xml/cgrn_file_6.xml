@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_6" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 6</idno>: Civic <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> of Miletos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>One major element (Fr. A), consisting of an intact ashlar <rs type="objectType">wall block</rs>, inscribed on two contiguous sides. Six further but much smaller fragments from the same inscribed wall, probably arranged in calendrical columns, have been published. Two of these are included here (B and C). B preserves intact sides, and uninscribed space at the bottom, but the top is broken. C is broken on all sides.</p>
+				<p>Fragment A <dimensions>
+					<height unit="cm">54</height>
+					<width unit="cm">226</width>
+					<depth unit="cm">24</depth>
+				</dimensions></p>
+				<p>Fragment B <dimensions>
+				<height unit="cm">46</height>
+				<width unit="cm">129</width>
+				<depth unit="cm">20</depth>
+				</dimensions></p>
+				<p>Fragment C  <dimensions>
+					<height unit="cm">23</height>
+					<width unit="cm">23</width>
+					<depth unit="cm">20</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The text is very carefully incised in boustrophedon lettering. Fragment A also shows clear uninscribed space to the right of the preserved column of text, thus assuring a fixed beginning for the lines running right-to-left. Incised registers separate each line. The quintuple star punctuation (⁙) prefixes and indicates each new month, date or occasion. The tricolon (⁝) demarcates words or phrases. </p>
+				<p>Letters: <height unit="cm">2.5-4</height> on average in all fragments.</p>
+			
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0525" notAfter="-0500">ca. 525-500 BC</origDate></p>
+			<p><desc>Justification: Jeffery, on the basis of lettering and style.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Miletos" n="Asia_Minor_and_Anatolia"><ref target="http:/pleiades.stoa.org/places/599799" type="external">Miletos</ref>. Fragment A has been found reused in the Hellenistic South Stoa of the Delphinion, and other fragments in a nearby Turkish bath.</placeName></p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 02-01-2014 by J.-M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+<p>Edition of A and B here based on Rehm <bibl type="abbr" n="Milet I.3">Milet I.3</bibl> 31 a-b, p. 162-164 and 401-404, with photographs.</p>
+<p>Cf. also: Tod <bibl type="abbr" n="SEG">SEG</bibl> 15, 673; Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 41; Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 334-335, 343 no. 33 with pl. 64.</p>
+<p>For fragment C see: Hermann - Günther - Ehrhardt <bibl type="abbr" n="Milet VI,3">Milet VI.3</bibl> 1215 a.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Herda 2006">Herda 2006</bibl>: 249-256, on the γυλλοί and Apollo Delphinios more generally; cf. also Herda forthc.</p>
+<p>Online record for A: <ref target="http://poinikastas.csad.ox.ac.uk/" type="external">Poinikastas</ref> website, with ref. no. 343.33.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="fragment" n="A">Fragment A
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_A1" n="A1" rend="right-to-left"/><name type="meal"><w lemma="προδόρπια"><supplied reason="lost">πρ</supplied>οδόρ<unclear>π</unclear>ια</w></name> <name type="portion"><w lemma="δίδωμι">δίδο<unclear>τ</unclear>αι</w></name>  <pc>⁝</pc> <orig>δ</orig><gap reason="lost" quantity="6" unit="character"/><orig><unclear>σ</unclear>ιν</orig>  <pc>⁝</pc> <w lemma="δύο">δ<unclear>ύ</unclear><supplied reason="lost">ο</supplied></w> <name type="object"><w lemma="γυλλός"><supplied reason="lost">γ</supplied>υλ<unclear>λ</unclear><supplied reason="lost">οὶ</supplied></w></name> <gap reason="lost" extent="unknown"/>
+	    					
+<lb xml:id="line_A2" n="A2" rend="left-to-right"/><gap reason="lost" extent="unknown"/> <name type="sacrifice"><w lemma="σπονδή">σπονδαί</w></name>  <pc>⁝</pc> <name type="quality"><w lemma="διφάσιος">διφάσι<unclear>α</unclear></w></name> <name type="liquid"><w lemma="μελίχματα"><supplied reason="lost">μ</supplied><unclear>ελ</unclear>ίχματα</w></name>  <pc>⁝</pc> <w lemma="δύο">δύο</w> <name type="object"><w lemma="γυλλός">γυλλοὶ</w></name> <name type="adornment"><w lemma="στέφω">ἐστεθμ
+	    					
+<lb xml:id="line_A3" n="A3" rend="right-to-left" break="no"/>ένοι</w></name>  <pc>⁝</pc> <name type="vegetal"><w lemma="ξύλον">ξύλα</w></name> <pc>⁙</pc> <w lemma="δωδέκατος">δωδεκάτηι</w>  <pc>⁝</pc> <w lemma="εἰς">ἐς</w> <name type="personnel"><w lemma="βασιλεύς">βασιλέως</w></name> <name type="portion"><w lemma="δίδωμι">δίδοται</w></name> <pc>⁝</pc> <name type="deity" key="Dionysus"><w lemma="Διόνυσος">Διο<supplied reason="lost">νυσ</supplied></w></name><gap reason="lost" extent="unknown"/>
+	    					
+<lb xml:id="line_A4" n="A4" rend="left-to-right"/><gap reason="lost" extent="unknown"/> <name type="object"><w lemma="λαμπάς">λαμπάδα</w></name> <pc>⁝</pc> <name type="vegetal"><w lemma="ἄλφιτον">ἄλφιτα</w></name>  <pc>⁝</pc> <name type="vegetal"><w lemma="ἀλείατα">ἀλέατα</w></name>  <pc>⁝</pc> <name type="dairy"><w lemma="τυρός">τυρὸν</w></name> <name type="purification"><w lemma="ἁγνός">ἀγνόν</w></name> <pc>⁝</pc> <name type="liquid"><w lemma="μέλι">μέλι</w></name>  <pc>⁝</pc> <name type="object"><w lemma="δαΐς">δᾶι
+
+<lb xml:id="line_A5" n="A5" rend="right-to-left" break="no"/>δα</w></name>  <pc>⁝</pc> <name type="portion"><w lemma="μαλλός">μαλλόν</w></name>  <pc>⁝</pc> <name type="sacrifice"><w lemma="σπονδή">σπονδήν</w></name>  <pc>⁝</pc> <name type="liquid"><w lemma="μελίχματα">μελίχματα</w></name> <pc>⁝</pc> <name type="vegetal"><w lemma="σκόροδον">σκόροδα</w></name>  <pc>⁝</pc> τῆς <gap reason="lost" extent="unknown"/>
+	    					
+	    					<lb xml:id="line_A6" n="A6" rend="left-to-right"/><gap reason="lost" extent="unknown"/> <w lemma="τρίτος"><supplied reason="lost">τρίτηι</supplied></w> <w lemma="ἐπί"><supplied reason="lost">ἐπ</supplied>ὶ</w> <w lemma="δέκα">δέκα</w> <pc>⁝</pc> <name type="deity" key="Hera"><w lemma="Ἥρα">Ἤρηι</w></name> <name type="epithet" key="Antheia"><w lemma="Ἄνθεια">Ἀνθέηι</w></name>  <pc>⁝</pc> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶς</w></name> <name type="colour1"><w lemma="λευκός">λευκὴ</w></name> <pc>⁝</pc> <name type="quality"><name type="gender"><w lemma="ἔγκυαρ">ἔγκυαρ</w></name></name> <pc>⁝</pc> <name type="colour1"><w lemma="λευκός">λευκῶι</w></name> <name type="quality"><w lemma="ἀναβαίνω">ἀν
+	    					
+<lb xml:id="line_A7" n="A7" rend="right-to-left" break="no"/>αβεβαμένη</w></name> <pc>⁝</pc> <name type="object"><w lemma="χοῦς">χοῦς</w></name> τῇ <name type="personnel"><w lemma="ἱέρεια">ἰερῆι</w></name> <w lemma="δίδωμι">δίδοται</w> <pc>⁝</pc> καὶ <name type="vegetal"><w lemma="ξύλον">ξύλων</w></name>  <pc>⁝</pc> <orig>ο</orig><gap reason="lost" extent="unknown"/>
+	    
+<lb xml:id="line_A8" n="A8" rend="left-to-right"/><gap reason="lost" extent="unknown"/> <w lemma="ἡμίεκτον"><supplied reason="lost">ἠ</supplied>μιέκτο</w> <pc>⁝</pc> <w lemma="εἰς">ἐς</w> το̑ <name type="personnel"><w lemma="ἱερεύς">ἰερέως</w></name> <pc>⁝</pc> <w lemma="δίδωμι">δίδοται</w> <name type="object"><w lemma="χοῦς">χοῦς</w></name> <name type="vegetal"><w lemma="ξύλον">ξύλα</w></name> <pc>⁝</pc> <w lemma="ἐπί">κἀπὶ</w> <name type="structure"><w lemma="βωμός">βωμὸ
+	    					
+<lb xml:id="line_A9" n="A9" rend="right-to-left" break="no"/>ν</w></name> <pc>⁝</pc> <name type="object"><w lemma="ἀμφορεύς">ἀμφορεὺς</w></name> <name type="liquid"><w lemma="οἶνος">οἴνο</w></name> <pc>⁙</pc> <w lemma="τετράς">τετράδι</w> <w lemma="ἐπί">ἐπὶ</w> <w lemma="δέκα">δέκα</w> <pc>⁝</pc> <name type="deity" key="unclear"><w lemma="unclear"><orig>διν<unclear>οσιω</unclear>ι</orig></w></name>  <pc>⁝</pc> <gap reason="lost" extent="unknown"/> 
+	    					
+<lb xml:id="line_A10" n="A10" rend="left-to-right"/><gap reason="lost" extent="unknown"/><orig>ι</orig> <pc>⁝</pc> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶς</w></name> <name type="gender"><w lemma="ἄρσην">ἄρσην</w></name> <pc>⁝</pc> <name type="object"><w lemma="ἑκτεύς">ἐκτεὺς</w></name> <name type="vegetal"><w lemma="πυρός">πυρῶν</w></name> <pc>⁝</pc> <name type="object"><w lemma="ἑκτεύς">ἐκτεὺς</w></name> <name type="vegetal"><w lemma="κριθή">κριθέων</w></name>  <pc>⁝</pc> <name type="object"><w lemma="ἕκτη">ἔκτη</w></name> <name type="liquid"><w lemma="οἶνος">οἴ
+
+<lb xml:id="line_A11" n="A11" rend="right-to-left" break="no"/>νο</w></name> <pc>⁝</pc> <name type="vegetal"><w lemma="ξύλον">ξύλα</w></name>  <pc>⁝</pc> <name type="liquid"><w lemma="μέλι">μέλι</w></name> <pc>⁝</pc> <name type="vegetal"><w lemma="ἄλειφα">ἄλειφα</w></name> <pc>⁙</pc> <name type="deity" key="Leukos"><w lemma="Λεῦκος">Λεύκωι</w></name> <pc>⁝</pc> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶς</w></name> <name type="gender"><w lemma="ἄρσην">ἄρσην</w></name> <pc>⁝</pc> <name type="colour1"><w lemma="ἀργός">ἀργῆι</w></name> <pc>⁝</pc> <gap reason="lost" extent="unknown"/>
+	    
+<lb xml:id="line_A12" n="A12" rend="left-to-right"/><gap reason="lost" extent="unknown"/> <w lemma="ἕκτος"><supplied reason="lost">ἔκ</supplied>τηι</w> <w lemma="ἵστημι">ἰσταμένου</w> <pc>⁝</pc> <name type="festival"><w lemma="ἑορτή">ἐορτὴ</w></name> <name type="speechAct"><w lemma="κηρύσσω">κηρύσσεται</w></name> <pc>⁝</pc>  <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλ<unclear>λ</unclear>ωνος</w></name> <name type="epithet" key="Delphinios"><w lemma="Δελφίνιος">Δε<unclear>λ</unclear>φιν
+	    					
+<lb xml:id="line_A13" n="A13" rend="right-to-left" break="no"/><supplied reason="lost">ιο̑</supplied></w></name> <gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    				<ab subtype="fragment" n="B">Fragment B
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+<lb xml:id="line_B1" n="B1" rend="right-to-left?"/><gap reason="lost" extent="unknown"/><orig><unclear>δ</unclear></orig><gap reason="lost" quantity="10" unit="character"/><orig><unclear>ελο</unclear></orig><gap reason="lost" quantity="3" unit="character"/><orig><unclear>υ</unclear></orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>υ</unclear></orig><gap reason="lost" extent="unknown"/>
+<lb xml:id="line_B2" n="B2" rend="left-to-right"/><pc>⁙</pc> τῆι <w lemma="δωδέκατος"><supplied reason="lost">δω</supplied>δεκάτ<supplied reason="lost">η</supplied>ι</w> <pc>⁝</pc> <orig>εν<unclear>ε</unclear></orig><gap reason="lost" quantity="7" unit="character"/> <supplied reason="lost">⁙</supplied> <w lemma="τετράς"><unclear>τ</unclear>ε<unclear>τ</unclear>ρά<supplied reason="lost">δι</supplied></w><gap reason="lost" extent="unknown"/>
+<lb xml:id="line_B3" n="B3"/><space extent="unknown" unit="character"/>
+	    					
+	    				</ab>
+	    				<ab subtype="fragment" n="C">Fragment C
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+<lb xml:id="line_C1" n="C1" rend="right-to-left"/><gap reason="lost" extent="unknown"/><orig><unclear>ρ</unclear>ι</orig><gap reason="lost" extent="unknown"/>
+<lb xml:id="line_C2" n="C2" rend="left-to-right"/><gap reason="lost" extent="unknown"/> <name type="purification"><name type="quality"><w lemma="ἁγνός"><supplied reason="lost">ἀ</supplied>γνοῦ</w></name></name> <gap reason="lost" extent="unknown"/>
+<lb xml:id="line_C3" n="C3" rend="right-to-left"/><gap reason="lost" extent="unknown"/> <pc>⁝</pc> <w lemma="δύο">δύο</w> <gap reason="lost" extent="unknown"/>
+<lb xml:id="line_C4" n="C4" rend="left-to-right"/><gap reason="lost" extent="unknown"/><orig>ος </orig><pc>⁝</pc> <orig>ν</orig><gap reason="lost" extent="unknown"/>
+<lb xml:id="line_C5" n="C5" rend="right-to-left"/><gap reason="lost" extent="unknown"/><orig><unclear>α</unclear>λ</orig><gap reason="lost" extent="unknown"/>
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    				
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+	    				<p>(Fragment A only)</p> 
+	    				<p>[...] predinner meals are given to [...]; two <foreign>gylloi</foreign> (sacred stones?) ... libations, two kinds of honey-offerings, two wreathed <foreign>gylloi</foreign>, wood. On the 12th: is given to the (house?) of the king, to Dio[nysus? ...] a lamp, barley-grains, coarse wheat-grains, pure cheese, honey, a torch, (5) wool, a libation, honey-mixture, garlic cloves, [...]  On the 13th: to Hera Antheia, a white female sheep, pregnant, mated by a white (ram); a <foreign>chous</foreign> is given to the priestess; and of wood [...] a <foreign>half-hekteus</foreign>; to the (house?) of the priest is given a <foreign>chous</foreign>, wood; and on the altar, an amphora of wine. On the 14th: to Zeus Nosios (?) [... (10) ...] a male sheep, a <foreign>hekteus</foreign> of wheat-grain, a <foreign>hekteus</foreign> of barley-grain, a sixth measure of wine, wood, honey, oil; to Leukos, a male sheep, with shining (?) [...] On the 6th [of another month: Taureon?]: the festival of Apollo Delphinios is announced by the herald; [...]</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction </head>
+					<p>(Fragment A seulement)</p> 
+					<p>[...] qu'on offre les collations à [...]; deux <foreign>gylloi</foreign> (pierres sacrées ?) [...], des libations, deux sortes de mélanges miellés, deux <foreign>gylloi</foreign> couronnés;  du bois. Le 12, chez le roi que l'on offre, à Dio[nysos ? ...] une torche, de la farine, du gruau, du fromage pur, du miel, une torche, (5) de la laine, une libation, des mélanges miellés, de l'ail [...]. Le 13 à Héra Antheia, une brebis blanche, pleine, qui aura été saillie par un (bélier) blanc; qu'un <foreign>chous</foreign> soit donné à la prêtresse; et sur le bois [...] d'un demi-setier, chez le prêtre; qu'on donne un <foreign>chous</foreign>, du bois et, sur l'autel, une amphore de vin. Le 14, pour Zeus Nosios (?) [... (10) ...] un mouton mâle, un setier de froment, un setier d'orge, un setier de vin, du bois, du miel, de l'huile; pour Leukos, un bélier; avec un lumineux (?) [...]. [Autre mois : Taureon ?] le 6, le héraut annoncera la fête d'Apollon Delphinios [...]</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This appears to be the civic and comprehensive sacrificial calendar of Miletos, which was displayed on the walls of the major sanctuary of the Delphinion or a building part of that complex (a stoa, according to Herda forthc.). Given that this was apparently destroyed during the Persian conquest of Miletos in 494 BC, this version of the calendar will have seen only about two decades in its original context of publication. </p>
+						
+<p>Herda (forthc.) will soon publish a revision of the calendar, including a new fragment which he has found. The whole layout of the calendar remains highly uncertain. The major fragment A appears to preserve an important and complete sequence of days within a month (12-13-14), as well as, quite strangely, the beginning of another month immediately afterward (and on the 6th day). Given the rather puzzling gap in fr. A between the short sequence (12-13-14) and the beginning of the new month, the layout raises several questions. The fragments may have continued on other blocks in unexpected ways, but they may be also be complete as is. Fragment B also appears to preserve the conclusion of a month in or around the 14th (or perhaps 24th) day. On the basis of the sacrifices described in some detail in A, this month could be assigned to the end of the Milesian year, Artemision (so Rehm; Herda forthc.), followed then by the month Taureon, the first month of the year, in close succession and in some ways to "symbolize the repetitive cycle" of the calendar. But this solution is far from satisfactory and one would have expected the beginning of the calendar to have been more clearly marked. No absolute certainty of the identification of the months seems possible at the present time, and comments are best limited to an elucidation of the rites and their possible points of comparison.</p>
+						
+<p>The calendar several times alludes to provisions for meals and libations (δίδοται), apparently given to various cultic officials: cf. the meals in line 1, and also the provisions in lines 3 (?), 7.  In other instances, however, it adopts the typical formulary of calendars: date - deity in the dative - sacrificial animal (most obviously e.g. in line 6 or 11 (cp. perhaps lines 9-10). Several elaborate lists of offerings and provisions are also detailed; see for instance below on lines 3-5.</p>
+
+<p>Line 1: Rehm plausibly suggested restoring Δ[ιονυσίοι]σιν, which would make the offerings of perhaps these first two lines relate to the Dionysia at Miletos, and make sense given the sacrifices occurring on the 12th, lines 3-5 (Διο[νυσι-). However, this restoration also seems too long for the available space in the lacuna and perhaps one might think of other plural recipients or occasions for the sacrifices. On the <foreign>gyllos</foreign>, an object which is usually interpreted as an cubic stone, see <ref target="http://cgrn.ulg.ac.be/CGRN_201/">CGRN 201</ref> (Miletos), lines 25-27, with the commentary of Herda. It was certainly an object that was movable, could be wreathed, and could be set up at a cult-site.</p>
+	
+<p>Lines 3-5: Line 3 introduces new sacrifices taking place on the 12th, apparently to Dionysus and involving a reception or meal at the house (?) of the official known as the basileus. For the cultic role of this official at Miletos, see again <ref target="http://cgrn.ulg.ac.be/CGRN_201/">CGRN 201</ref>, line 22. The construction ἐς + the genitive is not grammatical and therefore assumes an implicit complement. Various possibilities might be suggested for this omitted word. The most straightforward of these is the house or household of the individual in question, e.g. οἰκίαν. The list of offerings which follows is quite elaborate and includes elements which are perhaps better understood as general provisions for the celebrations rather than as offerings properly speaking. For instance, the lamp and torch imply a nocturnal celebration. On the other hand, vegetals are included, probably as table or sacrificial offerings, and libations are clearly to be performed. Garlic was often used as a snack or as part of a poor meal (it could form a part of a medical or other concoction), cf. the literary sources cited in <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. σκόροδον (esp. e.g. Ar. <title>Lys.</title> 690). For 'pure' cheese, see on <ref target="http://cgrn.ulg.ac.be/CGRN_175/">CGRN 175</ref> (Priene), line 35. It is not known exactly where this 'purity' stems from; perhaps it derives from the transformation or fermentation of the dairy product, or the lack thereof; alternatively, the term might point to a distinction between 'fresh' (more pure?) and aged cheese.</p>
+	
+<p>Lines 6-9: Immediately following on the occasion presumed to be for Dionysus is a celebration in honour of Hera Antheia, a goddess associated with spring flowering and known in Argos, see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. Ἄνθεια (citing Paus. 2.22.1). See <ref target="http://cgrn.ulg.ac.be/CGRN_2/">CGRN 2</ref> (Gortyn) for other sacrifices of (sometimes white) female sheep offered to Hera. Here, the offering is described in elaborate detail: the animal is pregnant and seems to have been mated by a white male, perhaps a means of drawing attention to or of emphasising the colour of the embryo itself. Another translation would be "wrapped in white (cloth/wool)"; for filetting and other ornaments on sacrificial animals, see e.g. the word λημνίσκος restored in <ref target="http://cgrn.ulg.ac.be/CGRN_45/">CGRN 45</ref> (Athens) and <ref target="http://cgrn.ulg.ac.be/CGRN_146/">CGRN 146</ref> (Phyxa, Kos), line 16. At line 8, one may have expected the punctuation to frame the phrase ἐς το̑ ἰερέως δίδοται χοῦς (cp. lines 3 and 7) rather than intervening in the middle (the wood usually occurs separately, cf. lines 7 and 11).</p>
+	
+<p>Lines 9-11: Two rather enigmatic gods are honoured on the 14th. The first almost certainly cannot be Dionysus, unless the stonecutter has made several mistakes. We might instead think of a Zeus Nosios, following the suggestion of Tod in <bibl type="abbr" n="SEG">SEG</bibl>. This might then be a healing god, or if a variant on Notios, then one of the south wind and hence of rain. In the former case, the epithet is unattested; for the latter, cf. <title>REG</title> 1964 <bibl type="abbr" n="BE">BE</bibl> no. 222 (a dedication from Krannon in Thessaly). Leukos is also a highly uncertain figure, perhaps a hero.</p>
+
+<p>Lines 12-13: These lines stipulate the proclamation (<foreign>prorrhesis</foreign>) of a feast involving Apollon Delphinios, or for the god himself. Following Rehm and Herda, we would thus expect to be on the cusp of the major festival for the god taking place from the 7th of Taureon and described in detail in <ref target="http://cgrn.ulg.ac.be/CGRN_201/">CGRN 201</ref>, line 6 and commentary. But there are other festivals of Apollo at Miletos which this might correspond to, for instance the Thargelia (7th Thargelion), and one might well think of celebrations on the 7th of any month in the calendar (the sacred day for Apollo: Hes. <title>Op.</title> 770-771, etc.). In other words, this lacunary mention of a date and festival is not probative for assigning it to a specific month in the calendar of Miletos.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

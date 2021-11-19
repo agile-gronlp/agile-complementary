@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_205" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 205</idno>: <rs type="textType" key="decree">Decree</rs> concerning the fondation of the cult of Homonoia at Antiocheia-ad-Pyramum </title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> <rs type="objectType">Stele</rs> of white marble, broken above. </p>
+
+	<p><dimensions>
+		<height unit="cm">51</height>
+		<width unit="cm">36.5-38.5</width>
+		<depth unit="cm">9</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p>About 50 letters per line, but in lines 20 and 21, there are only 36 and 30 letters respectively, very widely spaced. This appears to be an aberration due to the stonecutter.</p>
+			<p>Letters: <height unit="cm">unknown</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0200" notAfter="-0150">ca. 200-150 BC</origDate></p>
+		<p><desc>Justification: letterforms (Savalli-Lestrade).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Antiocheia-ad-Pyramum" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/648701" type="external">Antiocheia-ad-Pyramum</ref></placeName>. Found in Karataş and evidently belonging to the sanctuary of Athena Magarsia there. Now in the Archaeological Museum of Istanbul (inv. no. 5124).</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on <bibl type="author_date" n="Savalli-Lestrade 2006">Savalli-Lestrade 2006</bibl>, with ph. fig. 2 and squeeze fig 3.
+	    			</p>
+	    			<p> Other edition:
+	    			<bibl type="author_date" n="Werner - Werner 1951">Werner - Werner 1951</bibl>, with ph. pl. 32.</p>
+				<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 81;
+	    				<bibl type="author_date" n="Sayar 2004">Sayar 2004</bibl>: 221-223 no. 1;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 12, 511.</p>
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Robert 1951">Robert 1951</bibl>: 256-258;
+	    				<bibl type="author_date" n="Merkelbach 1980">Merkelbach 1980</bibl>;
+	    				<bibl type="author_date" n="Thériault 1996">Thériault 1996</bibl>: 85-88.
+
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+	    <lb xml:id="line_1" n="1"/> <gap reason="lost" quantity="40" unit="character"/> <w lemma="ἐπί">ἐπί</w> <w lemma="σωτηρία">σωτηρίαι</w>
+
+	    <lb xml:id="line_2" n="2"/>  τοῦ τε <w lemma="ἡμέτερος">ἡμετέρου</w> <name type="group"><w lemma="δῆμος">δήμου</w></name> καὶ τ<supplied reason="lost">οῦ</supplied> <name type="ethnic" key="Antiocheia-on-the-Kydnos"><w lemma="Ἀντιόχειος"><supplied reason="lost">Ἀντιοχέων</supplied></w></name> <supplied reason="lost">τῶν</supplied> <w lemma="πρός"><supplied reason="lost">πρὸς</supplied></w> <supplied reason="lost">τῶι</supplied>
+
+	    	<lb xml:id="line_3" n="3"/> <placeName key="Antiocheia-on-the-Kydnos">Κύδνωι</placeName> καὶ τῶν <w lemma="συναυξάνω">συναυξησόντων</w> τὰ τῆ<supplied reason="lost">ς</supplied> <w lemma="συγγένεια"><unclear>σ</unclear><supplied reason="lost">υγγε</supplied><unclear>ν</unclear>ίας</w> καὶ
+
+<lb xml:id="line_4" n="4"/> <w lemma="φιλία">φιλίας</w> καὶ <w lemma="ὁμόνοια">ὁμονοίας</w> <w lemma="δίκαιος">δίκαια</w>· <w lemma="δοκέω">δεδόχθαι</w> τῆι <name type="group"><w lemma="βουλή">βουλῆι</w></name> καὶ τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>·
+
+	   <lb xml:id="line_5" n="5"/> <w lemma="συντελέω">συντελεσθῆναι</w> τὰ <w lemma="προσδηλόω">προδεδηλωμένα</w> <w lemma="κατά">καθ’</w> <w lemma="ὅς">ἃ</w> <name type="authority"><w lemma="φαίνω">ἐφάνη</w></name> τῶι <name type="group"><w lemma="πλῆθος">πλήθει</w></name>· τῆς δὲ
+
+	   <lb xml:id="line_6" n="6"/> <w lemma="κατασκευή">κατασκευῆς</w> τοῦ <name type="structure"><w lemma="βωμός">βωμοῦ</w></name> <w lemma="προνοέω">προνοηθῆναι</w> τοὺς <name type="title"><w lemma="πρύτανις">πρυτάνεις</w></name>· <w lemma="ἐν">ἐν</w> <w lemma="ὅς">ἧι</w> δ’ <w lemma="ἄν">ἂν</w> <w lemma="ἡμέρα">ἡμέραι</w>
+
+	    <lb xml:id="line_7" n="7"/> <w lemma="καθιδρύω"><supplied reason="lost">κ</supplied>αθιδρυθῆι</w> ὁ <name type="structure"><w lemma="βωμός">βωμὸς</w></name>, <w lemma="πέμπω">πεμφθῆναι</w> <w lemma="πομπή">πομπὴν</w> <w lemma="ἀπό">ἀπὸ</w> τῆς <name type="structure"><name type="deity" key="Hestia"><w lemma="ἑστία">Ἑστίας</w></name></name> τῆς <name type="group"><name type="epithet" key="Boulaia"><w lemma="βουλαῖος">Βουλαίας</w></name></name>
+
+	   <lb xml:id="line_8" n="8"/> <w lemma="ὡς">ὡς</w> <w lemma="καλός">καλλίστην</w> καὶ <w lemma="ἐπιφανής">ἐπιφανεστάτην</w> <w lemma="διά">διὰ</w> τοῦ <name type="title"><w lemma="δημιουργός">δημιουργοῦ</w></name> καὶ τῶν
+
+	   <lb xml:id="line_9" n="9"/> <name type="title"><w lemma="πρύτανις">πρυτάνεων</w></name> <w lemma="εἰς">εἰς</w> τὸ <name type="structure"><w lemma="ἱερόν">ἱερὸν</w></name> τῆς <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶς</w></name> τῆς <name type="epithet" key="Magarsia"><w lemma="Μαγαρσία">Μαγαρσίας</w></name>· <name type="sacrifice"><w lemma="θύω">θυθῆναι</w></name> δὲ
+
+	    				<lb xml:id="line_10" n="10"/> τῆι τε <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶι</w></name> καὶ <name type="deity" key="Homonoia"><w lemma="ὁμόνοια">Ὁμονοίαι</w></name> <w lemma="ἑκάτερος">ἑκατέραι</w> <name type="animal" key="ox"><name type="gender"><w lemma="δάμαλις">δάμαλιν</w></name></name> <name type="quality"><w lemma="χρυσόκερως">χρυσοκέρω</w></name>·
+
+	    <lb xml:id="line_11" n="11"/> <w lemma="συμπομπεύω">συμπομπεῦσαι</w> δὲ τούς τε <name type="personnel"><w lemma="ἱερεύς">ἱερεῖς</w></name> καὶ τὴν <name type="title"><w lemma="συναρχία">συναρχίαν</w></name> καὶ τοὺς <name type="group"><w lemma="νικάω">νενικηκότα<supplied reason="lost">ς</supplied></w></name>
+
+	    <lb xml:id="line_12" n="12"/> τοὺς <name type="adornment"><w lemma="στεφανίτης">στεφανίτας</w></name> <w lemma="ἀγών">ἀγῶνας</w> καὶ τὸν <name type="title"><w lemma="γυμνασίαρχος">γυμνασίαρχον</w></name> <w lemma="μετά">μετὰ</w> τῶν
+
+	    <lb xml:id="line_13" n="13"/> <name type="group"><w lemma="ἔφηβος">ἐφήβων</w></name> καὶ τῶν <name type="group"><w lemma="νέος">νέων</w></name> καὶ τὸν <name type="title"><w lemma="παιδονόμος">παιδονόμον</w></name> <w lemma="μετά">μετὰ</w> τῶν <name type="group"><w lemma="παῖς">παίδων</w></name>· <w lemma="εἰμί">εἶναι</w> δὲ
+
+	    <lb xml:id="line_14" n="14"/> καὶ <name type="festival"><w lemma="ἐκεχειρία">ἐχεχειρίαν</w></name> καὶ <name type="adornment"><w lemma="στεφανηφορία">στεφανηφορίαν</w></name> καὶ <w lemma="ἔργον">ἔργων</w> καὶ <w lemma="δεσμός">δεσμῶν</w> <w lemma="ἀφίημι">ἀφεῖσθαι</w>
+
+	    <lb xml:id="line_15" n="15"/> <w lemma="πᾶς">πάντας</w>· <w lemma="συνάγω">συναχθῆναι</w> δὲ τοὺς μὲν <name type="title"><w lemma="ἄρχων">ἄρχοντας</w></name> καὶ τοὺς <name type="group"><name type="adornment"><w lemma="στεφανίτης">στεφανίτας</w></name></name>
+
+	    <lb xml:id="line_16" n="16"/> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> τῆς <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶς</w></name> τῆς <name type="epithet" key="Magarsia"><w lemma="Μαγαρσία">Μαγαρσίας</w></name>, τοὺς δὲ <name type="group"><w lemma="πολίτης">πολίτας</w></name> <w lemma="κατά">κατὰ</w> <name type="group"><w lemma="φυλή">φυλάς</w></name>·
+
+	    <lb xml:id="line_17" n="17"/> τῆς δὲ <w lemma="περί">περὶ</w> τὴν <name type="festival"><w lemma="πανήγυρις">πανήγυριν</w></name> <w lemma="εὐκοσμία">εὐκοσμίας</w> <w lemma="προνοέω">προνοηθῆναι</w> τόν τε <name type="personnel"><w lemma="ἱερομνήμων">ἱερομνήμονα</w></name>
+
+	    <lb xml:id="line_18" n="18"/> καὶ τοὺς <name type="title"><w lemma="φύλαρχος">φυλάρχους</w></name>· <w lemma="ἐν">ἐν</w> δὲ τοῖς <w lemma="μετά">μετὰ</w> <w lemma="οὗτος">ταῦτα</w> <w lemma="χρόνος">χρόνοις</w> <name type="sacrifice"><w lemma="θύω">θύεσθαι</w></name> <w lemma="ἐπί">ἐπὶ</w> τοῦ
+
+	    <lb xml:id="line_19" n="19"/> <name type="structure"><w lemma="βωμός">βωμοῦ</w></name> <w lemma="κατά">κατὰ</w> <name type="month"><w lemma="μείς">μῆνα</w></name> τῆι <w lemma="νουμηνία">νουμηνίαι</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖον</w></name>, <w lemma="κατά">κατὰ</w> δὲ <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <w lemma="ἕκαστος">ἕκαστον</w>
+
+	    <lb xml:id="line_20" n="20"/> τήν τε <w lemma="πομπή">πομπὴν</w> καὶ τὰς <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> καὶ <w lemma="ἄλλος">τἆλλα</w> <w lemma="πᾶς">πάντα</w> <w lemma="γίγνομαι">γίνεσθαι</w> <w lemma="ἀκόλουθος">ἀκολούθως</w>
+
+<lb xml:id="line_21" n="21"/> τοῖς <w lemma="προσγράφω">προγεγραμμένοις</w>· τὰ δὲ <w lemma="προδηλόω">προδεδηλωμένα</w> <space extent="unknown" unit="character"/>
+
+	    <lb xml:id="line_22" n="22"/> <w lemma="ἑτοιμάζω">ἑτοιμάζεσθαι</w> <w lemma="διά">διὰ</w> τῶν <name type="personnel"><w lemma="ταμίας">ταμιῶν</w></name> <w lemma="ἀπό">ἀπὸ</w> τῶν <space extent="unknown" unit="character"/>
+
+	    <lb xml:id="line_23" n="23"/> <w lemma="δημόσιος">δημοσίων</w>· <w lemma="ὅπως">ὅπως</w> δὲ <w lemma="ἐκφανής">ἐκφανὴς</w> <w lemma="πᾶς">πᾶσιν</w> <w lemma="ὑπαρχή">ὑπάρχῃ</w> ἡ τοῦ <name type="group"><w lemma="δῆμος">δήμου</w></name>
+
+	    <lb xml:id="line_24" n="24"/> <w lemma="πρός">πρὸς</w> τοὺς <w lemma="συγγενής">συγγενεῖς</w> <w lemma="ἁληθινός">ἀληθινὴ</w> καὶ <w lemma="οἰκεῖος">οἰκεία</w> <w lemma="διάθεσις">διάθεσις</w>, <w lemma="καλέω">καλεῖσθαι</w>
+
+	    <lb xml:id="line_25" n="25"/> <w lemma="ὑπό"><supplied reason="lost">ὑ</supplied>πὸ</w> τοῦ <name type="personnel"><w lemma="ἱεροκῆρυξ">ἱεροκήρυκος</w></name> <w lemma="εἰς">εἰς</w> <w lemma="προεδρία">προεδρίαν</w> <w lemma="ἐν">ἐν</w> τοῖς <w lemma="μουσικός">μουσικοῖς</w> <w lemma="ἀγών">ἀγῶσ<supplied reason="lost">ιν</supplied></w>
+
+	    <lb xml:id="line_26" n="26"/> <name type="ethnic" key="Antiocheia-on-the-Kydnos"><w lemma="Ἀντιόχειος">Ἀντιοχεῖς</w></name> τοὺς <w lemma="πρός">πρὸς</w> τῶι <placeName key="Antiocheia-on-the-Kydnos">Κύδνωι</placeName> τοὺς <w lemma="συγγενής">συγγενεῖς</w> καὶ <w lemma="φίλος">φίλους</w>·
+
+	    <lb xml:id="line_27" n="27"/> καὶ <w lemma="ἐπειδάν">ἐπειδὰν</w> <w lemma="συντελέω">συντελῶνται</w> αἱ <name type="authority"><w lemma="νομίζω">νενομισμέναι</w></name> <name type="invocation"><w lemma="κατευχή">κατευχαὶ</w></name> καὶ <name type="sacrifice"><w lemma="σπονδοποιός">σπον
+
+	    <lb xml:id="line_28" n="28" break="no"/> δοποΐαι</w></name> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="θέατρον">θεάτρωι</w></name> τοῖς τε <name type="deity" key="generic"><w lemma="θεός">θεοῖς</w></name> καὶ τοῖς <name type="title"><w lemma="βασιλεύς">βασιλεῦσιν</w></name>,
+
+	    <lb xml:id="line_29" n="29"/> <name type="invocation"><w lemma="κατεύχομαι">κατεύχεσθαι</w></name> <w lemma="αὐτός">αὐτὸν</w> <w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="πάτριος">πάτρια</w></name> <w lemma="γίγνομαι">γίνεσθαι</w> καὶ <name type="ethnic" key="Antiocheia-on-the-Kydnos"><w lemma="Ἀντιόχειος">Ἀντιοχεῦσιν</w></name> τοῖς
+
+	    <lb xml:id="line_30" n="30"/> <w lemma="πρός">πρὸς</w> τῶι <placeName key="Antiocheia-on-the-Kydnos">Κύδνωι</placeName> τὰ <w lemma="ἀγαθός">ἀγαθὰ</w> <w lemma="πᾶς">πάντα</w>, <w lemma="ὅσος">ὅσαπερ</w> <w lemma="ἄν">ἂν</w> καὶ τῶι <w lemma="ἡμέτερος">ἡμετέρωι</w> <name type="group"><w lemma="δῆμος">δήμωι</w></name>
+
+	    <lb xml:id="line_31" n="31"/> <name type="invocation"><w lemma="κατεύχομαι">κατεύχηται</w></name>· τὸν δὲ <name type="title"><w lemma="γραμματεύς">γραμματέα</w></name> τῆς <name type="group"><w lemma="βουλή">βουλῆς</w></name> καὶ τῆς <name type="group"><w lemma="ἐκκλησία">ἐκκλησίας</w></name>
+
+	   <lb xml:id="line_32" n="32"/> Λῦσιν Μνασέου <w lemma="ἀναγράφω">ἀναγράψαντα</w> <w lemma="ὅδε">τόδε</w> τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισμα</w></name> <w lemma="ἐν">ἐν</w> <objectType key="stele"><w lemma="στήλη">στήληι</w></objectType> <w lemma="Πάρος">Παρίου</w>
+
+	    <lb xml:id="line_33" n="33"/> <w lemma="λίθος">λίθου</w> <w lemma="ὡς">ὡς</w> <w lemma="χρηστός">χρηστοτάτου</w> <w lemma="παρίστημι">παραστῆσαι</w> τῶι <name type="group"><w lemma="βωμός">βωμῶι</w></name>· τὸ δὲ <w lemma="εἰς">εἰς</w> τὴν <w lemma="κατασκευή">κατα
+
+	    <lb xml:id="line_34" n="34" break="no"/> σκευὴν</w> καὶ <w lemma="ἀναγραφή">ἀναγραφὴν</w> καὶ <w lemma="ἀνάθεσις">ἀνάθεσιν</w> τῆς <objectType key="stele"><w lemma="στήλη">στήλης</w></objectType> <w lemma="δίδωμι">δοῦναι</w> τοὺς
+
+	    <lb xml:id="line_35" n="35"/>  <name type="title"><w lemma="ταμίας">ταμίας</w></name> <w lemma="ἀπό">ἀπὸ</w> τῶν <w lemma="δημόσιος">δημοσίων</w>· τὸν δὲ <name type="title"><w lemma="δημιουργός">δημιουργὸν</w></name> Δημήτριον
+
+	    <lb xml:id="line_36" n="36"/> Δημητρίου τοῦ Ἀναξίππου καὶ <w lemma="ἄλλος">ἄλλους</w> <name type="title"><w lemma="πρεσβευτής">πρεσβευτὰς</w></name> <w lemma="δύο">δύο</w>, <w lemma="ὅς">οὓς</w> <w lemma="ἄν">ἂν</w> ἡ
+
+	    <lb xml:id="line_37" n="37"/>  <name type="group"><w lemma="ἐκκλησία">ἐκκλησία</w></name> <w lemma="αἱρέω">ἕληται</w>, <w lemma="ἀποδημέω">ἀποδημήσαντας</w> <w lemma="πρός">πρὸς</w> <name type="ethnic" key="Antiocheia-on-the-Kydnos"><w lemma="Ἀντιόχειος">Ἀντιοχεῖς</w></name> καὶ <w lemma="ἀποδίδωμι">ἀποδόντας</w>
+
+	    <lb xml:id="line_38" n="38"/> τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισμα</w></name> <w lemma="ἀσπάζομαι">ἀσπάσασθαί</w> τε <w lemma="αὐτός">αὐτοὺς</w> <w lemma="παρά">παρὰ</w> τοῦ <name type="group"><w lemma="πλῆθος">πλήθους</w></name> καὶ <w lemma="ἐμφανίζω">ἐμφαν<supplied reason="lost">ί</supplied>
+
+	    <lb xml:id="line_39" n="39" break="no"/> σαντας</w> τὴν τῶν <name type="group"><w lemma="πολίτης">πολιτῶν</w></name> <w lemma="εὔνοια">εὔνοιαν</w> <w lemma="διαλέγω">διαλεχθῆναι</w> <w lemma="περί">περὶ</w> τῶν <w lemma="συμφέρω">σ<supplied reason="lost">υ</supplied>μ
+
+	    <lb xml:id="line_40" n="40" break="no"/> φερόντων</w> <w lemma="ἀμφότερος">ἀμφοτέραις</w> ταῖς <name type="group"><w lemma="πόλις">πόλεσιν</w></name>· <w lemma="αἱρέω">ἡιρέθησαν</w> Διονύσιος
+
+	    <lb xml:id="line_41" n="41"/>  Ἀλεξάνδρου, Μουσαῖος Νικολάου. <space extent="unknown" unit="character"/>
+
+	    			</ab>
+
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p> [...] for the safety of our people and that of the [Antiocheians-on-the-]Kydnos and of those who assist in increasing the justice that comes from kinship, friendship and concord. May it be decided by the council and the people: (5) the things that were made clear beforehand should be completed as it appears (best) to the people, the <foreign>prytaneis</foreign> should take care of the construction of the altar. On the day on the which the altar is consecrated a most beautiful and splendid procession should be sent from (the hearth of) Hestia Boulaia, led by the <foreign>demiourgos</foreign> and the <foreign>prytaneis</foreign>, to the sanctuary of Athena Magarsia. A sacrifice should be made (10) to Athena and Homonoia, for each (goddess) a young cow with gilded horns. The priests are to walk in the procession and all the magistrates and the prize-winners of the contests in which the prize is a crown and the gymnasiarch together with the ephebes and the youths, and the <foreign>paidonomos</foreign> for the boys. This day should be a judicial truce; there shall be wearing of crowns and all shall be released from work and chains. (15) The archons and the crown-wearers shall gather together in the sanctuary of Athena Magarsia, the citizens (shall gather together) according to tribe. The <foreign>hieromnemon</foreign> and the presidents of the tribes should take care of the orderliness of the festival. After this, a sacrificial animal is to be sacrificed on the altar each month on the first day; each year, (20) the procession and the sacrifice and all the other things are to take place, in accordance with what is written above; the things that were made clear beforehand should be arranged by the treasurers from the public funds. So that the genuine and friendly disposition of the people towards their kinsmen becomes manifest to all,  the Antiocheians-on-the-Kydnos, our kinsmen and friends, are to be called to take the front seat in the musical contest (25) by the sacred herald. And when the customary prayers and libations have been performed in the theatre for the gods and the kings, he (the sacred herald) should pray according to ancestral custom for all good things to happen to the Antiocheians-(30)-on-the-Kydnos, the same things which are prayed for the sake of our people. The secretary of the council and the assembly Lysis son of Mnaseas, having inscribed this decree on a stele of Parian marble of the best quality, should set it up beside the altar. The treasurers should give the money towards the preparation and inscribing and setting up of the stele (35) from the public funds. The <foreign>demiourgos</foreign>, Demetrios son of Demetrios, grandson of Anaxippos, and two other ambassadors chosen by the assembly, when they have gone to visit the Antiocheians (on-the-Kydnos) and have given them the decree, should greet them in the name of the people and having made clear the goodwill of the citizens, should discuss the interests (40) of both cities. (The following) have been chosen: Dionysios son of Alaxandros, Mousaios son of Nikolaos.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[...] pour le salut de notre peuple et de celui des [Antiochéens-du-]Kydnos et de ceux qui accroîtront les justes liens de [parenté], d'amitié et de concorde. Qu'il plaise au conseil et au peuple (5) que ce qui a été exposé ci-dessus soit exécuté, comme il a paru bon à la communauté; que les prytanes veillent à la construction de l'autel. Le jour où l'autel aura été consacré, que le démiurge et les prytanes fassent partir une procession, la plus belle et la plus éclatante possible, depuis (le foyer d')Hestia Boulaia jusqu'au sanctuaire d'Athéna Magarsia. Que l'on sacrifie (10) à Athéna et à Homonoia, à chacune une génisse aux cornes dorées. Que prennent part à la procession les prêtres, les collèges des magistrats, les vainqueurs aux concours stéphanites, le gymnasiarque avec les éphèbes et les jeunes gens, et le pédonome avec les garçons. Qu'il y ait aussi une trêve judiciaire et une stéphanéphorie, et que tous soient exempts de travaux et délivrés de liens. (15) Que les magistrats et les stéphanites se réunissent pour un banquet dans le sanctuaire d'Athéna Magarsia, et que les citoyens (fassent de même) par tribu. Que le hiéromnémon et les présidents de tribu veillent au bon ordre de la panégyrie. Qu'à l'avenir, un animal soit sacrifié sur l'autel le premier jour de chaque mois et que chaque année aient lieu (20) la procession, les sacrifices et tout le reste conformément aux prescriptions ci-dessus. Que les trésoriers exécutent les dispositions ci-dessus exposées en puisant dans les fonds publics. Afin que soit évidente pour tous la disposition sincère et amicale du peuple envers ses parents, (25) que le héraut sacré invite les Antiochéens-du-Kydnos à occuper des places de choix dans les concours musicaux, en tant qu'ils sont nos parents et amis, et, après l'accomplissement dans le théâtre des voeux et des libations d'usage aux dieux et aux rois, qu'il (le héraut) fasse des voeux selon la tradition ancestrale afin qu'il en aille en tout point aussi bien pour les Antiochéens-(30)-du-Kydnos que pour notre peuple. Que le secrétaire du conseil et du peuple, Lysis fils de Mnaséas, fasse graver ce décret sur une stèle de marbre de Paros, de la plus belle qualité possible, et qu'il l'érige à côté de l'autel. Que les trésoriers versent l'argent pour la confection, la gravure et la consécration de la stèle, (35) sur les fonds publics. Que le démiurge Démétrios fils de Démétrios, petit-fils d'Anaxippos, et deux autres ambassadeurs, désignés par l'assemblée, après s'être rendus chez les Antiochéens-du-Kydnos et leur avoir remis le décret, les saluent au nom de notre communauté et, ayant manifesté le dévouement de nos concitoyens, discutent avec eux des intérêts (40) de l'une et de l'autre cité. Ont été désignés : Dionysios fils d'Alexandros, Mousaios fils de Nikolaos.</p>
+<p> (traduction d'après I. <bibl type="author_date" n="Savalli-Lestrade 2006">Savalli-Lestrade 2006</bibl>)</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p> This decree from Antiocheia-ad-Pyramum (the name adopted by the city of Magarsos, a port on the territory of Mallos, during the third century BC) concerns the construction of an altar, presumably that of Homonoia (Concord) in the santuary of Athena Magarsia (cf. Robert for this plausible hypothesis). Together with this, we find the institution of monthly sacrifices as well as an annual celebration, in which the inhabitants of Antiochia-on-the-Kydnos (the alternative name of Tarsos in this period) were invited to participate and to be especially honoured. This decree is thus an interesting case in which the political agenda drove the institution of cultic activities. Thériault, in a study of the cult of Homonoia in Greek cities, compares the decree of Antiocheia-ad-Pyramum to an inscription of Entella and Nakona (<bibl type="abbr" n="SEG">SEG</bibl> 30, 1119), instituting, after a period of internal conflict, annual sacrifices to Homonoia and involving all citizens in the celebrations. According to Thériault, we should think the present decree intended to solve a conflict or boost the relationship between Antiocheia-ad-Pyramum and the homonymous inhabitants of Anchiochos-on-the-Kydnos. The precise political circumstances of the diplomatic situation between the two cities remain unclear, however.</p>
+
+<p>As preserved, the decree starts (lines 1-18) by prescribing the festivities surrounding the consecration of an altar that is to be constructed under the supervision of the prytaneis. These include a procession from the council altar to the sanctuary of Athena Magarsia, the organisation of a festival and the sacrifice of a cow to Athena and Homonoia each. The text goes on (lines 18-21) to discuss subsequent sacrifices on a monthly basis. The Antiocheians-on-the-Kydnos are to received special honours during annual festivities, the musical contests (lines 23-31): a front seat during the musical contests, and a separate mention during the prayers. The final part of the text (lines 31ff.) notably discusses the inscribing and setting up of the inscription, together with its financing. Various aspects of the inscription testify to the perceived importance of these regulations. First, the material: all other inscriptions found at the site were made of a local stone, but for this regulation more expensive, imported Parian marble was used. Second, and more importantly, the proposed religious activities that were to be added to the city's cultic calendar were on a large scale: monthly sacrifices, and a yearly festival and procession in which the majority of the community of Antiochia-ad-Pyramum was intended to participate. Robert calls this "une bonne préface psychologique et religieuse pour les négociations que l'on décide de faire mener". Indeed, the final part of the inscription (lines 35-41) discusses the sending of three ambassadors to discuss "the common interests of the two cities".</p>
+
+<p>For a more extensive commentary, cf. Savalli-Lestrade.</p>
+
+<p> Line 3: The phrase τὰ τῆ[ς] σ̣[υγγε]ν̣ίας ... δίκαια refers to the privileges that derive from the perceived kinship between the two cities: for parallels, cf. Savalli-Lestrade.</p>
+
+<p> Lines 5 and 21: The phrase τὰ προδεδηλωμένα most probably refers to what was discussed earlier in the decree, in a lost part of it (perhaps above the current line 1), or possibly in earlier decrees connected to this context.</p>
+
+<p> Line 6: This was most probably an altar of Homonoia to be placed in the sanctuary of Athena Magarsia, who seems to have been the city's main deity. It is unclear if a priesthood of Homonoia was also instituted; more probably, the priests of Athena (cf. line 11) would incorporate the cult of Homonoia into their duties.</p>
+
+<p> Line 7: Savalli-Lestrade interpret the phrase ἀπὸ τῆς Ἑστίας τῆς Βουλαίας as referring not the the hearth of the council (Boule; or the prytaneion), but to a sacred structure (i.e. an enclosure) belonging to the goddess Hestia Boulaia, attested infrequently in different parts of the Greek world in association with Zeus Boulaios and Athena Boulaia. However, parallels from Athens suggest that important civic processions would start from the hearth in the prytaneion: <bibl type="abbr" n="IG II³">IG II³</bibl> 1176 (203/2 BC), lines 7-8, and <bibl type="abbr" n="IG  II²">IG II²</bibl> 1283 (ca. 250 BC), lines 6-7. On the cult of the goddess Hestia in the Prytaneion, see Merkelbach.</p>
+
+<p> Lines 9-11: The fact that the sacrifices to Athena Magarsia and Homonoia are equal and conspicuously decorated testifies to the perceived importance of this cult of Homonoia. For the sacrifice of cows with gilded horns, cp. our commentary on <ref target="http://cgrn.ulg.ac.be/CGRN_139/">CGRN 139</ref>, at line 7.</p>
+
+<p> Lines 11-16: The procession is organised on a large scale, with the participation of many citizens and involving a suspension of judicial activities and even a temporary release of prisoners: cp. the sacred day instituted at <ref target="http://cgrn.ulg.ac.be/CGRN_200/">CGRN 200</ref> (Magnesia-on-the-Maiander), lines 24-25.</p>
+
+<p> Line 28: The reference to 'kings' includes both the present and the previous kings (Savalli-Lestrade); the reference to 'gods' is probably meant to be even wider or more generic.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

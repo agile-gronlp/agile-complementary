@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_124" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 124</idno>: Letter (probably of an Attalid King) containing a <rs type="textType" key="priestly contract">contract for a priesthood</rs> at Pergamon</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>Lower portion of a white marble 
+                            <rs type="objectType" key="parastas">door post (παραστάς)</rs>, found in two pieces, and broken above.</p>
+                            <p><dimensions>
+                           <height unit="cm">80</height>
+                                <width unit="cm">33.5-34.5</width>
+                                <depth unit="cm">19-21</depth>
+                            </dimensions>
+                            </p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>Letters: <height unit="cm">1.3-1.5</height>. Variable spacing between the letters.</p>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0250" notAfter="-0200">ca. 250-200 BC</origDate></p>
+                        <p><desc>Justification: letterforms (Fraenkel).</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Pergamon" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/507446" type="external">Pergamon</ref></placeName>. Found close (southwest) to the main gate of the citadel. Supposedly stored in the State Museum in Berlin, but Welles (in 1934) reports that it seems to be lost.</p></provenance>
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by S Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                
+                <p> Edition here based on
+                    Fraenkel <bibl type="abbr" n="IvP I">IvP I</bibl> 40, with facsimile.
+                </p>
+                
+                <p> Cf. also: 
+                    <bibl type="author_date" n="Welles 1934">Welles 1934</bibl>: no. 24;
+                    Sokolowski <bibl type="abbr" n="LSCG">LSAM</bibl> 11;       
+                    Le Guen-Pollet <bibl type="abbr" n="CDE">CDE</bibl> 37.
+                   
+                </p>
+                <p> Further bibliography: <bibl type="author_date" n="Stengel 1920">Stengel 1920</bibl>: 43 n. 13; <bibl type="author_date" n="Aleshire 1994">Aleshire 1994</bibl>; Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 44-49, 164; <bibl type="author_date" n="Strootman 2001">Strootman 2014</bibl>: 215-217; <bibl type="author_date" n="Blok - Lambert 2009">Blok - Lambert 2009</bibl>.</p>
+                
+               
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+ 
+<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+ 
+<lb xml:id="line_1" n="1"/> <supplied reason="lost">ὁ</supplied> <supplied reason="lost">δ’</supplied> <w lemma="ἀεί"><supplied reason="lost">ἀε</supplied><unclear>ὶ</unclear></w> <w lemma="λαγχάνω"><unclear>λ</unclear>αχὼν</w> <w lemma="φορέω">φορείτω</w>
+                    
+<lb xml:id="line_2" n="2"/> <name type="clothing"><w lemma="χλαμύς"><supplied reason="lost">χ</supplied>λαμύδα</w></name> <name type="colour2"><w lemma="λευκός">λευκὴν</w></name> καὶ <name type="adornment"><w lemma="στέφανος">σ<unclear>τ</unclear><supplied reason="lost">έ</supplied>
+                    
+ <lb xml:id="line_3" n="3" break="no"/> φανον</w></name> <name type="vegetal"><w lemma="ἔλαιος">ἐλάας</w></name> <w lemma="μετά">μετὰ</w> <name type="adornment"><w lemma="ταινίδιον">ταιν<unclear>ι</unclear>
+                    
+ <lb xml:id="line_4" n="4" break="no"/> δίου</w></name> <name type="colour2"><w lemma="φοινίκεος">φοινικιοῦ</w></name> καὶ <w lemma="λαμβάνω">λαμβα
+                    
+ <lb xml:id="line_5" n="5" break="no"/> νέτω</w> τῶν <name type="sacrifice"><w lemma="θύω">θυομένων</w></name> <name type="portion"><w lemma="γέρας">γέ
+                    
+ <lb xml:id="line_6" n="6" break="no"/> ρα</w></name> τὸ <name type="portion"><w lemma="δέρμα">δέρμα</w></name> καὶ <name type="portion"><w lemma="κωλῆ">κωλέαν</w></name>
+                                      
+ <lb xml:id="line_7" n="7"/> καὶ τῶν <name type="structure"><w lemma="ἐργαστήριον">ἐργαστηρίων</w></name> <w lemma="ὅς">ὧν</w>
+                    
+<lb xml:id="line_8" n="8"/> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνατέθηκα</w></name> τὴν <w lemma="πρόσοδος">πρόσο
+                    
+<lb xml:id="line_9" n="9" break="no"/> δον</w>· <w lemma="μισθόω">μισθούτω</w> δ’ <w lemma="ἀεί">ἀεὶ</w> ὁ <w lemma="λαγχάνω">λα
+                    
+<lb xml:id="line_10" n="10" break="no"/> χών</w>, <w lemma="ἐπισκευάζω">ἐπεσκευασμένα</w>
+                    
+<lb xml:id="line_11" n="11"/> δὲ <w lemma="παραδίδωμι">παραδιδότω</w> ὁ <w lemma="ἔξειμι">ἐξι
+                    
+  <lb xml:id="line_12" n="12" break="no"/> ὼν</w> <w lemma="ἤ">ἢ</w> <name type="punishment"><w lemma="ἀποτίνω">ἀποτινέτω</w></name> τὸ <w lemma="γίγνομαι">γε
+                    
+<lb xml:id="line_13" n="13" break="no"/> νόμ<unclear>ε</unclear>νον</w> <w lemma="εἰς">εἰς</w> τὴν <w lemma="ἐπισκευή">ἐπι
+                    
+ <lb xml:id="line_14" n="14" break="no"/> <unclear>σ</unclear>κευὴν</w> <w lemma="δαπάνημα">δαπάνημα</w>·
+                    
+<lb xml:id="line_15" n="15"/> <w lemma="ἀφίημι">ἀφείσθω</w> δὲ καὶ τῶν <w lemma="λειτουργία">λῃ
+                    
+<lb xml:id="line_16" n="16" break="no"/> τουργιῶν</w> <w lemma="πᾶς">πασῶν</w>, <w lemma="ὅς">ὃν</w> <w lemma="ἄν"><unclear>ἂ</unclear>ν</w>
+                    
+<lb xml:id="line_17" n="17"/> <w lemma="χρόνος">χρόνον</w> <w lemma="ἔχω">ἔχηι</w> τὸν <name type="adornment"><w lemma="στέφανος">στέ
+                    
+<lb xml:id="line_18" n="18" break="no"/> φανον</w></name>· τὰ δὲ <name type="object"><w lemma="ἀργύρωμα">ἀργυρώμα</w></name>
+                    
+<lb xml:id="line_19" n="19" break="no"/> τα τοῦ <name type="deity" key="unclear"><w lemma="θεός">θεοῦ</w></name> καὶ τὰ <w lemma="ἄλλος">ἄλ
+                    
+<lb xml:id="line_20" n="20" break="no"/> λα</w> <name type="genericOffering"><name type="object"><w lemma="ἀνάθεμα">ἀναθέματα</w></name></name> <w lemma="τηρέω">τηρή
+                    
+<lb xml:id="line_21" n="21" break="no"/> σας</w> τῶι <w lemma="εἴσειμι">εἰσιόντι</w> <w lemma="παραδίδωμι">παρα
+                    
+<lb xml:id="line_22" n="22" break="no"/> διδότω</w>· <w lemma="ῥώννυμι">ἔρρωσο</w>. 
+   
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    [...] He who holds the office by lot [at a particular time] must wear a white cloak and a wreath of olive with a small crimson band, and let him receive (5) as prerogatives from the sacrificed animals the skin and a ham, as well as the income from the workshops that I have dedicated. He who holds the office by lot at a particular time must let (them) out for hire, and he must hand them over (10) all repaired when he leaves the job, or he must pay the cost of the reparation. (15) He is to be exempt from all liturgies during the time that he wears the crown. Having taken good care of the silverware of the god and the other (20) dedicated offerings, he must hand them over to the one entering into function. Farewell.
+                    
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>[...] Celui qui est désigné [à son tour] par le sort doit porter une chlamyde blanche et une couronne d’olivier avec une bandelette écarlate et doit recevoir (5) comme part des animaux sacrifiés la peau et le jarret, ainsi que le revenu des boutiques que j’ai dédiées. Celui qui est désigné à son tour par le sort doit les mettre en location, et doit les transmettre (10) réparées à sa sortie de charge, sous peine de devoir payer la somme générée par la réparation. (15) Qu'il soit exempté de toutes les liturgies, tout le temps qu’il portera la couronne. Ayant pris soin de l’argenterie du dieu et des autres (20) offrandes, il doit les transmettre à celui qui entre en fonction. Porte-toi bien.</p>
+                    <p>(traduction S. Lebreton)</p>
+                    
+                
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p>The regulations preserved in this inscription are embedded in a letter, likely written by an Attalid sovereign or a royal official (note the greeting ἔρρωσο in line 22 and the first person singular perfect verb in line 8, ἀνατέθηκα). Given the date assigned to the letterforms, we are most probably in the period of Attalus I (ca. 241-197 BC), or if earlier, in that of Eumenes I (ca. 263-241 BC). Regrettably, since the top section of the pillar on which the text was recorded is now missing, much of the content of the document has apparently been lost. We cannot be sure which king or which officials were concerned by this document. Welles thinks of an Attalid king writing to one of his officials (p. 116). According to Sokolowski, the letter and the stipulation that the priest is to be exempt from all liturgies suggest that this was not a civic cult. In the absence of further evidence, we prefer to remain cautious on this point: it is possible that the Attalid king had the power and authority to found or augment a cult in Pergamon, to define its priesthood for the city, and to stipulate certain benefits (even exemptions from civic liturgies).</p>
+                
+              <p>Similarly, the context of the find remains unclear in the otherwise well-understood topography of Pergamon. The pillar was likely an entrance pillar for the precinct or sanctuary of the cult in question, presumably located near the entrance to the citadel above the city (cf. Provenance, above). The identity of the male god under discussion in the letter (cf. line 19) remains completely uncertain, despite highly tentative attempts to identify him (according to Fraenkel, the wreath of olives with a crimson-band may point to a priesthood of Zeus, a conjecture which is accepted by Welles; other gods or even a form of ruler-cult—with an echo of the 'royal purple', see below on lines 2-3—are equally possible). For a foundation of the cult of the Seleucid rulers at Aigai in this general timeframe, cp. <ref target="CGRN_137">CGRN 137</ref>.</p>
+                
+                <p>Apart from its formal characteristics as a letter, the inscription adopts a similar style to other ritual norms, with a straightforward, concise listing of instructions in the imperatival mood. (It is perhaps conceivable that the letter was intended as a regulation for display or that contents of the original letter were rewritten to give them a more 'normative' or 'legal' character.) As preserved, the regulation is wholly concerned with the rights and obligations of the priest and is thus analogous to other contracts for priests and priestesses found in the present Collection, cf. e.g. <ref target="CGRN_36">CGRN 36</ref>. The regulation first discusses the priest's clothing and accessories (lines 1-4), next his perquisites (lines 4-9), the obligation to lease out and maintain workshops and to safeguard the sacred silver objects (lines 9-14, 18-21), his exemption from liturgies (lines 15-18), and finally the transmission of the office to an appointed successor (lines 18-22). The priest is chosen through sortition and his function is almost certainly not for life but for a limited amount of time, perhaps a year, as we gather from the formula ὁ ἀεὶ λαχών, "he who holds the function by lot for the time being". This refers to the regular rotation of this priestly function, as is also clear from the mention of a successor to an appointed priest (line 21, τῶι εἰσιόντι).</p>
+                   
+                <p>Line 1: There were four types of mechanisms of selection for priesthoods: election, inheritance, sale and selection by lot (cf. Lupu, p. 44-49). Our earliest evidence of the use of sortition for priesthoods comes from the second half of the fifth century (<bibl type="abbr" n="LSCG">LSCG</bibl> 12, concerning Athena Nike). In the contexts of priesthoods, this procedure was seemingly used in those cases in which humans could not or did not want to motivate the choice for a particular person, and instead a god was thought to select the right candidate. Cf. Aleshire, Blok - Lambert.</p>
+                       
+                <p>Lines 2-3: The <foreign>chlamys</foreign> was a typically "Macedonian cloak which had become in the Hellenistic monarchies the dress of kings and nobles" (Welles, p. 116); for a description of this piece of clothing, cf. also Le Guen-Pollet. For the recurrent prescription of clear and sober clothing in cultic contexts, cp. <ref target="CGRN_126">CGRN 126</ref> (Lykosoura). It is thus particularly appropriate that a priest appointed as defined in an Attalid royal letter should wear a white <foreign>chlamys</foreign>, not to mention a small headband (ταινίδιον) of crimson colour. On purple generally as a symbol of royalty, finding widespread currency in Hellenistic courts, cf. Strootman; for the combination of a band (not purple) with a wreath as part of priestly garb, cp. <bibl type="abbr" n="IG II²">IG II²</bibl> 1292, lines 11-12 (decree of the Sarapiastai in Athens, ca. 250 BC).</p>
+   
+                <p>Lines 4-14: These lines regulate the perquisites in kind and the monetary rewards of the priesthood. Hides and hams were the most customary priestly perquisites (cf. Lupu, p. 164; see here e.g. <ref target="CGRN_86">CGRN 86</ref> A, line 47, etc. [Kos]). The ἐργαστήρια were either workshops or shops—the term can refer to both, and thus perhaps imply both production and selling. These buildings were part of the sacred possession of the god, having been consecrated by the ruler or official writing the letter (line 8). Just as sacred lands, these possessions were to be leased out, but the money obtained would form part of the income of the priest, who apparently had to pay for various cultic expenses. Indeed, the letterwriter ensures that the workshops are well taken care of by the priests, who either have to hand them over "in good repair" or must pay for any necessary repairs.</p>
+                       
+                <p>Lines 15-16: The exemption from liturgies is a recurrent advantage of priesthoods (cf. Stengel), though priests are usually said to be exempt from certain specific liturgies (and implicitly not from others) rather than from any liturgies whatsoever, cp. e.g. here <ref target="CGRN_176">CGRN 176</ref>, lines 6, 25-30.</p>
+                     
+                <p>Lines 16-18: The action of wearing a crown (στεφανηφορεῖν) here defines the priest in his function; in other priestly contracts, the wearing of a crown is stipulated only on special occasions, such as during religious festivals, cp. <ref target="CGRN_176">CGRN 176</ref>, lines 15, 20-24. At Pergamon especially, it seems that the wearing of a crown was a durative marker of the priestly office, cp. <ref target="CGRN_206">CGRN 206</ref>, lines 11-12, on the priesthood of Asclepius (στεφανηφορεῖν ... ἀεἰ τὸν ἔχοντα τὴν ἱερωσύνην).</p>
+                 
+                <p>Lines 18-20: From these lines that discuss the transferral of the priestly office to a successor we infer that the priest's tasks also included the care of the "silverwear of the god and other dedicated objects", which was a common part of the priestly function (cf. Welles; cp. here <ref target="CGRN_42">CGRN 42</ref>, Iasos, lines 8-10).</p>                
+
+            </div>
+        </body>
+    </text>
+</TEI>

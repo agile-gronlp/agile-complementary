@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_182" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 182</idno>: Fragment of a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> from Mytilene</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Sylvain Lebreton</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Fragment of a white marble <rs type="objectType">stele</rs>, broken on all sides.</p>
+
+	<p><dimensions>
+	<height unit="cm">unknown</height>
+	<width unit="cm">unknown</width>
+	<depth unit="cm">15</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p> Although the fragment is badly broken, the text starts with a vacat of at least one line. Therefore, it is possible that we have the beginning of the text. The layout proposed by Hiller (<bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> p. 14) indicates that many lines may be missing at the top, but this does not appear to be supported by the layout given in earlier editions. At line 6, a <foreign>vacat</foreign> of at least 1-2 letters seems to indicate the start of a new section. The letters are very carefully engraved.</p>
+			<p>Letters: <height unit="cm">1.2</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0200" notAfter="-0100">2nd century BC</origDate></p>
+
+		<p><desc>Justification: lettering (Bechtel).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Mytilene" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550763/" type="external">Mytilene</ref></placeName>. Found in the foundation of the 'hospital'.</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 03-06-15 by J.M. Carbon and S. Peels.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			<p> Edition here based on Paton <bibl type="abbr" n="IG XII.2">IG XII.2</bibl> 72, as well as adapted from Hiller von Gaertringen <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl>, p. 14.
+	    			</p>
+
+	<p> Cf. also:
+	Bechtel <bibl type="abbr" n="SGDI">SGDI</bibl> I 216;
+	Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 118;
+	Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 125;
+	<bibl type="author_date" n="Lupu 2003b">Lupu 2003b</bibl>: 335-339 no. 6.
+	</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Debord 1982">Debord 1982</bibl>: 194-196 and 466 n. 88;
+	    				<bibl type="author_date" n="Ekroth 2013">Ekroth 2013</bibl>;
+	    				<bibl type="author_date" n="Ekroth - Wallensten 2013">Ekroth - Wallensten 2013</bibl>.
+
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    				<ab>
+<lb/> <space atLeast="1" unit="line"/>
+	    					<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ὁ δέ</supplied> <w lemma="κε"><supplied reason="lost">κε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύῃ</supplied></w></name> <name type="genericOffering"><name type="structure"><w lemma="τραπεζόω"><supplied reason="lost">τρ</supplied>απεζώσθω</w></name></name> <w lemma="ὅδε">τά<supplied reason="lost">δε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_2" n="2"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ν</orig> καὶ <name type="portion"><w lemma="ὠμοπλάτη">ὠμοπλάτα<supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_3" n="3"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="σπλάγχνον">σπλάνχνων</w></name> κα<supplied reason="lost">ὶ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_4" n="4"/> <w lemma="ἐμβάλλω"><supplied reason="lost">ἐνβαλ</supplied>λέτω</w> <w lemma="εἰς">εἰς</w> τὸν <name type="structure"><w lemma="θησαυρός">θησα<supplied reason="lost">υρὸν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_5" n="5"/><gap reason="lost" extent="unknown" unit="character"/> <space atLeast="1" unit="character"/> ὁ δέ <w lemma="κε">κε</w> <name type="animal" key="other"><w lemma="δασύπους">δασύπο<supplied reason="lost">δα</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύῃ</supplied></w></name><supplied reason="lost">,</supplied>
+
+	    					<lb xml:id="line_6" n="6"/> <name type="structure"><name type="genericOffering"><w lemma="τραπεζόω"><supplied reason="lost">τραπεζώ</supplied>σθω</w></name></name> μὲν <w lemma="αὐτός">ταὐτά</w>, <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_7" n="7"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ον</orig> <w lemma="ἐμβάλλω">ἐνβαλλέ<unclear>τ</unclear><supplied reason="lost">ω</supplied></w> <w lemma="εἰς"><supplied reason="lost">εἰς</supplied></w> <supplied reason="lost">τὸν</supplied> <name type="structure"><w lemma="θησαυρός"><supplied reason="lost">θησαυρόν</supplied></w></name>·
+
+	    					<lb xml:id="line_8" n="8"/> <supplied reason="lost">ὁ</supplied> <supplied reason="lost">δέ</supplied> <w lemma="κε"><supplied reason="lost">κε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/><orig>α</orig> <name type="sacrifice"><w lemma="θύω">θύῃ</w></name>, <name type="structure"><name type="genericOffering"><w lemma="τραπεζόω">τρ<supplied reason="lost">απεζώσθω</supplied></w></name></name>
+
+	    					<lb xml:id="line_9" n="9"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="σκέλος"><supplied reason="lost">σκέλος</supplied></w></name><supplied reason="lost"> (?)</supplied> <name type="quality"><w lemma="δεξιός"><unclear>δ</unclear>εξι<unclear>ό</unclear><supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    					<lb xml:id="line_10" n="10"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ὁ</supplied> <supplied reason="lost">δέ</supplied> <w lemma="κε"><supplied reason="lost">κε</supplied></w> <name type="animal" key="sheep"><w lemma="ὄϊς">ὄιν</w></name> (?) <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύῃ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+				<p>[... Whoever sacrifices ...] shall place on the table the [following things : ...] and a shoulderblade [... and (a part)] of the entrails and [...] he shall deposit into the money-box  [...] </p>
+				<p>(5) Whoever [sacrifices] a hare shall place on the table the same things, and [...] he shall put [into the money-box...]
+ </p>
+<p>[Whoever sacrifices ... shall place on the] table [... a] right [leg ?...] </p>
+				<p>	(10) [Whoever sacrifices ...] a sheep (?) [...]</p>
+
+					</div>
+
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+				<p> [... Que celui qui sacrifie ...] mette sur la table [ceci : ...] et une omoplate [... et (une part)] des viscères et [...] qu’il dépose dans le tronc à offrandes [...]</p>
+				<p> (5) Que celui qui [sacrifie] un lièvre mette sur la table les mêmes choses, [...] qu’il dépose [dans le tronc à offrandes...] </p>
+				<p> [Que celui qui sacrifie... mette sur la] table [... une patte (?)] droite [...]</p>
+				<p>  (10) [Que celui qui sacrifie] un mouton (?) [...] </p>
+				<p> (traduction S. Lebreton)	</p>			</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p> Since the inscription is badly damaged and the provenance is poorly understood, we are unsure as to what cult this regulation concerned. The find is described as coming from the foundations of a 'hospital'. We do not know the original functions of this area (for a find from the same spot, cf. <bibl type="abbr" n="SEG">SEG</bibl> 36, 752). It is interesting to note, however, that regulations of a similar type as this one are relatively well-attested at Epidauros and Oropos, in healing cults (<ref target="http://cgrn.ulg.ac.be/CGRN_64/">CGRN 64</ref>, <ref target="http://cgrn.ulg.ac.be/CGRN_70/">CGRN 70</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_75/">CGRN 75</ref>; perhaps a similar context might be envisaged here too.</p>
+
+<p> The regulation appears to be directed at worshippers coming to the sanctuary in question, and as preserved consists of at least four sections. In each of these, instructions are given on the one hand for the deposition of portions on a cult table (eventually a perquisite for the priest, cf. Lupu) and on the other hand for fees to be paid in the money-box (of the sanctuary). The list of different options of sacrificial animals given in these sections implies that the worshipper was free in his or her choice of animal to offer. It is impossible to know who controlled the money collected in the money-box: if it was shared—e.g. between the god(dess) and the priest(ess)—or if it was reused for sacrificial purposes (on this subject, cf. Lupu, p. 339 and <ref target="http://cgrn.ulg.ac.be/CGRN_212/">CGRN 212</ref>, Pergamon, lines 14-16, which is more explicit on this matter). For more extensive commentaries on <foreign>thesauroi</foreign> and sacrificial tariffs, cf. Debord, Lupu and the above-mentioned <title>CGRN</title> references; cf. also the now famous money-box of Aphrodite Ourania, from Athens (<bibl type="abbr" n="SEG">SEG</bibl> 41, 182).</p>
+
+<p> Line 2: On the use of the shoulderblade and forelegs more generally, see now Ekroth. Cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_120/">CGRN 120</ref> (Sinope), line 8, where it is given as a priestly perquisite. Most likely, the term does not only designate the bone, but probably a portion with some meat on it.</p>
+
+<p> Line 5: The hare is the only animal sacrificed whose name is legible with any certainty in this text, and it remarkably constitutes the only epigraphical evidence for it. However, bones of hares have been found in many different sanctuaries; on this subject cf. the index of Ekroth - Wallensten. </p>
+
+<p> Line 8: The animal sacrificed here is uncertain. Some proposals have included a bird, [ὄρνιθ]α (Ziehen), or a pig, [δέλφακ]α (Sokolowski).</p>
+
+<p> Line 9: Besides a leg, other options for a "righthand" portion include a shoulder or other parts of the animal. For the right leg alongside a sacrificial tariff, cp. e.g. <bibl type="abbr" n="IvP II">IvP II</bibl> 255 (Pergamon, post 133 BC), line 14.</p>
+
+<p> Line 10: This restitution is not certain, especially since no mention of the tariff to be paid in the money-box seems to have been preserved in the previous line. It is therefore not certain that the text begins a new section concerning the sacrifice of a sheep here.</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

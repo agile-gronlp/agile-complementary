@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_80" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 80</idno>: Two fragments of a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> from Erythrai</title>
+	    			<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Two fragments from blue-grey marble <rs type="objectType">stelai</rs>, A and B. In 1910, Keil suggested on the basis of appearance and content that both fragments might belong to the same regulation. A is only preserved on the lefthand side, and broken at the top and bottom. B is manifestly also preserved on the lefthand side and at the bottom, otherwise heavily broken.</p>
+				<p>Fragment A<dimensions>
+					<height unit="cm">29</height>
+					<width unit="cm">34</width>
+					<depth unit="cm">16.5</depth>
+				</dimensions></p>
+				<p>Fragment B</p>&gt; 
+				<p>Dimensions are not available.</p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Stoichedon 22, probably on both fragments, though neither is intact. This count depends on the highly plausible restorations in B8-11 (as well as A2-3).</p> <p>Letters: <height unit="mm">12</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0375" notAfter="-0325">ca. 350 BC</origDate></p>
+			<p><desc>Justification: lettering and style (Engelmann - Merkelbach).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Erythrai" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/550535" type="external">Erythrai</ref></placeName>. Found at Aridsa, probably near the southwestern area of the Acropolis. Current location unknown, perhaps lost.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Engelmann - Merkelbach <bibl type="abbr" n="I.Erythrai">I.Erythrai</bibl> 203 (for A) + 204 (for B).</p>
+					<p>Other edition: <bibl type="author_date" n="Keil 1910">Keil 1910</bibl>, with ph.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 21 (for A) and 22 (for B).</p>
+
+<p>Further bibliography: <bibl type="author_date" n="Carbon 2017">Carbon 2017</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="fragment" n="A">Fragment A
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	   
+<lb xml:id="line_A1" n="A1"/><name type="bakery"><w lemma="ἄρτος"><supplied reason="lost">ἄ</supplied><unclear>ρτ</unclear>ο<unclear>γ</unclear></w></name> καὶ <name type="liquid"><w lemma="ἔλαιον">ἔλαι<supplied reason="lost">ον</supplied></w></name> <gap reason="lost" quantity="8" unit="character"/>
+	    				
+<lb xml:id="line_A2" n="A2" break="no"/><orig>ι</orig> δὲ <w lemma="ἐπί">ἐπὶ</w> τὸμ <name type="structure"><w lemma="βωμός">βωμ<supplied reason="lost">ὸν</supplied></w></name> <name type="portion"><w lemma="ὠμοπλάτη"><supplied reason="lost">ὠμοπλάτη</supplied>
+	    					
+<lb xml:id="line_A3" n="A3" break="no"/>ν</w></name> <name type="quality"><w lemma="δεξιός">δεξιὴν</w></name> καὶ <name type="portion"><w lemma="γλῶσσα">γλ<supplied reason="lost">ῶσσαν</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="portion"><w lemma="ῥύγχος"><supplied reason="lost">ῥυ</supplied>
+	    					
+<lb xml:id="line_A4" n="A4" break="no"/>γχὸν</w></name> καὶ <name type="portion"><w lemma="unclear">πλευρ</w></name><gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">τὰ</supplied> <w lemma="περί"><supplied reason="lost">πε</supplied>
+	    					
+<lb xml:id="line_A5" n="A5" break="no"/><unclear>ρ</unclear>ὶ</w> τῆς <name type="portion"><w lemma="unclear">νόθης</w></name> κ<gap reason="lost" quantity="9" unit="character"/> <name type="quality"><w lemma="δεξιός"><supplied reason="lost">δε</supplied>	   
+	    					
+<lb xml:id="line_A6" n="A6" break="no"/>ξιὴν</w></name> καὶ <name type="portion"><w lemma="κεφαλή">κεφ<unclear>α</unclear><supplied reason="lost">λὴν</supplied></w></name> <gap reason="lost" quantity="8" unit="character"/>
+	    					
+<lb xml:id="line_A7" n="A7"/><gap reason="lost" quantity="1" unit="character"/><orig>τον</orig> <name type="bakery"><w lemma="ἄρτος">ἄρτον</w></name> <unclear>κ</unclear><supplied reason="lost">αὶ</supplied> <gap reason="lost" quantity="10" unit="character"/>
+	    					
+<lb xml:id="line_A8" n="A8"/><gap reason="lost" quantity="1" unit="character"/><orig>ν</orig> <name type="bakery"><w lemma="ἄρτος">ἄρτον</w></name> <unclear>κ</unclear><supplied reason="lost">αὶ</supplied> <gap reason="lost" quantity="11" unit="character"/>
+	    				
+<lb xml:id="line_A9" n="A9"/><gap reason="lost" quantity="2" unit="character"/><orig>νοσε</orig><gap reason="lost" quantity="16" unit="character"/>
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					</ab>
+	    				<ab subtype="fragment" n="B">Fragment B
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb xml:id="line_B1" n="B1"/><orig>σ</orig><gap reason="lost" quantity="21" unit="character"/>
+	    				
+<lb xml:id="line_B2" n="B2"/><name type="bakery"><w lemma="ἄρτος">ἄρ<supplied reason="lost">τον</supplied></w></name> <gap reason="lost" quantity="17" unit="character"/>
+	    				
+<lb xml:id="line_B3" n="B3"/><orig>οτε</orig><gap reason="lost" quantity="19" unit="character"/>
+	    				
+<lb xml:id="line_B4" n="B4"/><orig>νεωσ</orig><gap reason="lost" quantity="18" unit="character"/>
+	    					
+<lb xml:id="line_B5" n="B5"/><name type="portion"><w lemma="κρέας">κρέα</w></name> τὰ <gap reason="lost" quantity="16" unit="character"/>
+	    					
+<lb xml:id="line_B6" n="B6"/>αι <w lemma="οὗτος">ταῦτα</w> <gap reason="lost" quantity="13" unit="character"/> <name type="bakery"><w lemma="φθόϊς"><supplied reason="lost">φ</supplied>
+	    					
+<lb xml:id="line_B7" n="B7" break="no"/>θοῖν</w></name> <w lemma="δίδωμι">διδότ<supplied reason="lost">ω</supplied></w> <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> <w lemma="ἐάν">ἢν</w></supplied> <supplied reason="lost">δὲ</supplied> <name type="person"><w lemma="ἰδιώτης"><supplied reason="lost">ἰδιώτ</supplied>
+	    					
+<lb xml:id="line_B8" n="B8" break="no"/>ης</w></name> <name type="sacrifice"><w lemma="θύω">θύῃ</w></name>, τὰ <name type="portion"><w lemma="δέρμα">δέ<unclear>ρ</unclear><supplied reason="lost">ματα</supplied></w></name> <supplied reason="lost">καὶ τὰ</supplied> <w lemma="περί"><supplied reason="lost">πε</supplied>
+	    					
+<lb xml:id="line_B9" n="B9" break="no"/>ρὶ</w> τῆς <name type="portion"><w lemma="γλῶσσα">γλώσσης</w></name> <name type="portion"><w lemma="δίδωμι"><supplied reason="lost">διδότω</supplied></w></name> <w lemma="ὅσπερ"><supplied reason="lost">ἃπερ</supplied></w>
+	    					
+<lb xml:id="line_B10" n="B10"/>καὶ ἡ <name type="group"><w lemma="πόλις">πόλις</w></name>, <w lemma="ἀργύριον">ἀργύριο<supplied reason="lost">ν</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="ἐμβάλλω"><supplied reason="lost">ἐμβάλ</supplied>
+	    					
+<lb xml:id="line_B11" n="B11" break="no"/><supplied reason="lost">λ</supplied>εν</w> <num value="2">U+10142U+10142</num> <name type="age"><w lemma="τέλειος">τελείου</w></name>, <supplied reason="lost"><num value="1">U+10142</num></supplied> <name type="age"><w lemma="γαλαθηνός">γ<supplied reason="lost">α</supplied><choice><corr>λ</corr><sic>Χ</sic></choice><supplied reason="lost">αθηνοῦ</supplied></w></name>.
+	    					
+<lb/><space extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Fragment A</p>
+	    				<p>[...] a bread and olive-oil [...] and on the altar the right [shoulderblade?] and the tongue [and] the snout and rib[... the portions] (5) around the false-rib [...] the right [...] and the head [...] bread [and...] bread [and...]
+					</p>
+	    				<p>Fragment B</p>
+	    				<p>[...] a bread [...] (5) meat the [...] these [...] let him give a flat-cake [... And if a private individual] sacrifices, [let him give] the skins [and the portions around] the tongue [as] (10) the city also (provides). Money [to deposit (i.e. in the money-box)], 2 drachmae for an adult animal, [1 dr. for a suckling animal.] 	
+	    				</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Fragment A</p>
+					<p>[...] un pain et de l'huile [...] et sur l'autel  [l'omoplate ?] droite et la langue [et] le museau et côt[... les portions] (5) autour de la côte flottante [...] la droite [...] et la tête [...] du pain [et ...]</p>	
+					<p>Fragment B</p>
+					<p>[...] un pain [...] (5) de la viande de [...] ces [...] que l'on donne un gâteau plat [... Et si un particulier] sacrifie, [qu'il donne] les peaux [et les portions autour] de la langue [comme] (10) la cité (le fait) également. [Déposer] de l'argent : 2 drachmes pour un animal adulte, [1 dr. pour un animal de lait.]
+				
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p>Though it remains to some degree unclear if Keil's hypothesis that the two fragments belong together is absolutely correct (see above on Support), it is nonetheless clear that they share many points of similarity. Both inscriptions apparently had a similar appearance and format (see above and Layout), and their content has much common ground. Even if one were to suppose that they did not form part of the same stele, then, the two fragments taken together form a small dossier on sacrificial portions and tariffs at Erythrai. Unfortunately, their context is almost completely lost and little can be discerned about it on the basis of the texts themselves. For a detailed regulation  concerning the cult of Asclepius at Erythrai, notably mentioning rules for table-offerings and other portions to be given to the priestly personnel in the case of adult and a suckling animal, cf. here <ref target="CGRN_76">CGRN 76</ref>.</p>
+						
+	<p>The precise organisation and content of fragment A is not completely clear. It mentions several times breads (lines A1, A7-8), and in one case makes a specific reference to portions which must be placed "on the altar" (line A2). For list of portions to be placed on the altar, apparently juxtaposed with priestly portions, cp. here <ref target="CGRN_103">CGRN 103</ref> (Phrearrhioi). Fragment B also apparently contained lists of sacrificial portions to be provided and mentions in at least one case a prescriptive verb in the imperative (line B7). There are perhaps two sections of the regulations preserved here: first, probably rules for private individuals performing sacrifices (lines B7-10), followed by a short prescription concerning sacrificial tariffs (lines B10-11). For such sacrificial tariffs occurring as part of larger cultic regulations, cp. here <ref target="CGRN_61">CGRN 61</ref> (Athens), and <ref target="CGRN_70">CGRN 70</ref> (Oropos), lines 5-9. As usual here, the tariff for an adult animal is double that of suckling animal (according to the plausible correction of Sokolowski in line 11, adopted by Engelmann and Merkelbach).</p>
+												
+						
+<p>Lines A1-3: As Keil and Sokolowski note, in line 1 a verb denoting the placement of the portions on the altar is a likely restoration, i.e. [τιθένα]|ι or one of its compounds. As Keil also notes, the shoulderblade is attractive restoration in line 2, filling the available space in the stoichedon; alternatives include most prominently the right thigh, κωλῆν. For the role of the shoulderblade in Greek sacrifice, see here <ref target="CGRN_120">CGRN 120</ref> (Sinope), line 8, and esp. <ref target="CGRN_129">CGRN 129</ref> (Patara), lines 4-5. For righthand portions, cf. <ref target="CGRN_182">CGRN 182</ref> (Mytilene), line 9, and <ref target="http://cgrn.ulg.ac.be/CGRN_98/">CGRN 98</ref> (Erythrai), lines A12-16, for the right leg (see Commentary). Cf. also the other righthand (feminine) portion mentioned in lines A5-6. For the tongue, see here <ref target="CGRN_41">CGRN 41</ref> (Chios), line 9; this portion will not have produced much of a burned effect on the altar, and it may subsequently have been granted to the priestly personnel.</p>
+										
+<p>Lines A4-6: The traces at the beginning of line 4 can only be interpreted as part of the word for a snout. As Engelmann and Merkelbach remark, the word ῥύγχος is typically used of the snout of swine, but in fact it could also be used for the muzzle of any quadruped (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.); we therefore cannot be sure about the type of animal in question here. For "extremities" of the head such as the snout, see here <ref target="CGRN_39">CGRN 39</ref> (Miletos), lines 10-13, with ref. to <bibl type="abbr" n="I.Didyma">I.Didyma</bibl> 482, lines 4-5 (where they were sold). A portion of the ribs seems to be offered in line 4; for such portions, cp. again here <ref target="CGRN_103">CGRN 103</ref> (Phrearrhioi), line 5.  Accordingly, we should also think of the portion called here νόθη, whose precise interpretation has escaped all of the editors of the text, in connection with the ribs of the animal. Indeed, νόθη was an adjective used to qualify πλεύρη (or
+πλευραί), and thus is a technical term of anatomy: the so-called "false ribs", especially the last two bones of the ribcage which are to some degree "floating", connected only to the vertebral column and unfused with the other ribs and the sternum; see esp. Paus. 1.35.6, or e.g. Aret. <title>SA</title> 2.6, for human anatomy). The portions envisaged here remain a bit unclear, though perhaps what was meant was a cut of meat "around the false rib", to be related or distinguished from the portion of the ribs mentioned immediately before. For further discussion of this interpretation and for ribs as sacrificial portions, see Carbon. For the head as a portion, mentioned in line 6, see here <ref target="CGRN_38">CGRN 38</ref> (Chios), line B7.</p>												
+
+<p>Lines B6-7: For the type of cake known as φθόϊς, cf. esp. <ref target="CGRN_76">CGRN 76</ref> (Erythrai), line 22.</p>
+						
+<p>Lines B8-10: If the restoration is correct (which seems plausible), then private individuals were allowed to keep the skins of sacrificed animals as their prerogative: cp. here <ref target="CGRN_39">CGRN 39</ref> (Miletos), lines 3-8. The portion or portions mentioned as "around the tongue" is intriguing and recalls the phrasing found in lines A4-6 for the false rib. Presumably what is meant here are portions of meat in the throat or around the mouth of the animal. For the left "cheek" (probably a side of the head) granted to a priestess on Chios, cf. here <ref target="CGRN_37">CGRN 37</ref>, line 11. The precise restoration at the end of line 9 remains problematic: were the aforementioned portions to be given "as the <foreign>polis</foreign> does also", or was this a reference to other portions, i.e. that the remainder of the portions was to be given "as the <foreign>polis</foreign> does"?</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

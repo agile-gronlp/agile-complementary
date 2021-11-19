@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_198" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 198</idno>: <rs type="textType" key="decree">Decree</rs> of Megalopolis conferring posthumous honors on Philopoimen</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Sylvain Lebreton</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+				<physDesc>
+					<objectDesc>
+						<supportDesc><support>
+							<p> Tall <rs type="objectType">block</rs> of marble, perhaps a stele, but no further description is available. The stone appears to have perhaps been damaged heavily to the right, abraded on the left, and possibly broken at the top and/or bottom. The measurements provided here have been converted from those given by Hiller von Gaertringen for the block: 7 σπιθαμαί high and 3 wide. This conversion uses a ca. 18 cm equivalent for these 19th century Greek units (though these equivalents may be low estimates, since European units at the time could be larger, much like the ancient σπιθαμή which spanned ca. 22-24 cm or more):</p>
+
+							<p><dimensions>
+								<height unit="cm">ca. 126</height>
+								<width unit="cm">ca. 54</width>
+								<depth unit="cm">unknown</depth>
+							</dimensions></p>
+
+						</support>
+						</supportDesc>
+						<layoutDesc><layout>
+
+							<p>No information is available. </p>
+							<p>Letters: <height unit="cm">unknown</height>.</p>
+
+						</layout></layoutDesc>
+					</objectDesc>
+				</physDesc>
+				<history>
+					<origin>
+						<p><origDate notBefore="-0183" notAfter="-0182">183 or 182 BC</origDate></p>
+
+						<p><desc>Justification: context; see Commentary.</desc></p>
+					</origin>
+					<provenance><p><ref target="http://pleiades.stoa.org/places/570467" type="external"><placeName type="ancientFindspot" key="Megalopolis" n="Peloponnese">Megalopolis</placeName></ref>, found inside a grave. The stone is presumed lost since its discovery in 1813.</p>
+					</provenance>
+				</history>
+			</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by S. Peels.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+
+				<p> Edition here based on <bibl type="author_date" n="Winand 1990">Winand 1990</bibl>: 191-198, with our own suggestion in line 10. A new edition by C.P. Jones is in preparation.</p>
+
+				<p> Other edition:
+					Hiller von Gaertringen <bibl type="abbr" n="IG V.2">IG V.2</bibl> 432.</p>
+
+				<p> Cf. also:
+					Hiller von Gaertringen <bibl type="abbr" n="SIG³">SIG³</bibl> 624;
+					<bibl type="abbr" n="SEG">SEG</bibl> 40, 372.
+				</p>
+
+				<p> Further bibliography: <bibl type="author_date" n="Jost 1985">Jost 1985</bibl>: 540; <bibl type="author_date" n="Hughes 1999">Hughes 1999</bibl>; <bibl type="author_date" n="Ekroth 2002">Ekroth 2002</bibl>; <bibl type="author_date" n="Kató 2006">Kató 2006</bibl>.</p>
+			</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+
+<lb xml:id="line_1" n="1"/> <gap reason="lost" quantity="28" unit="character" precision="low"/> <w lemma="ὅπως"><supplied reason="lost">ὅπως</supplied></w>
+
+
+<lb xml:id="line_2" n="2"/> <supplied reason="lost">δ</supplied>ὲ κα<unclear>ὶ</unclear> <w lemma="ἐν">ἐν</w> τᾶι <w lemma="πατρίς">π<supplied reason="lost">ατ</supplied>ρ<supplied reason="lost">ίδι</supplied></w> <gap reason="lost" quantity="15" unit="character" precision="low"/>
+
+<lb xml:id="line_3" n="3"/> <gap reason="lost" quantity="2" unit="character"/> <w lemma="ὡς">ὡς</w> <w lemma="ἐπαυξάνω">ἐπαύξηται</w> <w lemma="κατά">κατὰ</w> <w lemma="πᾶς">π<supplied reason="lost">άντα</supplied></w><supplied reason="lost">,</supplied> <w lemma="δοκέω"><supplied reason="lost">δεδόχθαι</supplied></w> <supplied reason="lost">τᾶι</supplied>
+
+<lb xml:id="line_4" n="4"/> <name type="group"><w lemma="πόλις"><supplied reason="lost">π</supplied>όλει</w></name> <w lemma="τιμάω">τιμᾶσαι</w> Φιλο<supplied reason="lost">π</supplied>ο<supplied reason="lost">ίμενα</supplied> <supplied reason="lost">Κραύγιος</supplied>
+
+<lb xml:id="line_5" n="5"/> <w lemma="τιμή"><supplied reason="lost">τ</supplied>ιμαῖς</w> <w lemma="ἰσόθεος">ἰσοθέοις</w> <w lemma="ἀρετή"><supplied reason="lost">ἀρε</supplied>τᾶς</w> <w lemma="ἕνεκα"><supplied reason="lost">ἕνεκεν</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="εὐεργεσία"><supplied reason="lost">εὐ</supplied>
+
+<lb xml:id="line_6" n="6" break="no"/><supplied reason="lost">ε</supplied>ργεσίας</w>· <w lemma="ἱδρύω">ἱδρύσα<supplied reason="lost">σθαι</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="εἰς"><supplied reason="lost">εἰς</supplied></w> <w lemma="τιμή"><supplied reason="lost">τιμὰν</supplied></w> <w lemma="αὐτός"><supplied reason="lost">αὐτοῦ</supplied></w>
+
+<lb xml:id="line_7" n="7"/> <w lemma="ἐν"><supplied reason="lost">ἐ</supplied>ν</w> τᾶι <name type="locality"><w lemma="ἀγορά">ἀγορᾶι</w></name> τὸ <w lemma="μνήμη">μ<supplied reason="lost">νᾶμα</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="μεταίρω"><supplied reason="lost">μετᾶραι</supplied></w> <w lemma="ἐκ"><supplied reason="lost">ἐκ</supplied></w> <w lemma="Μεσσανία"><supplied reason="lost">Μεσσα</supplied>
+
+<lb xml:id="line_8" n="8" break="no"/>νίας</w> τ<supplied reason="lost">ὰ</supplied> <w lemma="ὀστέον">ὀστέα</w> <w lemma="εἰς">εἰς</w> τ<supplied reason="lost">ὰν</supplied> <w lemma="ἡμέτερος"><supplied reason="lost">ἁμετέραν</supplied></w> <name type="locality"><w lemma="πόλις"><supplied reason="lost">πόλιν</supplied></w></name>,
+
+<lb xml:id="line_9" n="9"/> καὶ <name type="structure"><w lemma="βωμός">βωμὸν</w></name> <w lemma="κατασκευάζω">κα<supplied reason="lost">τασκευάξαι</supplied></w> <w lemma="λευκόλιθος"><supplied reason="lost">λευκόλιθον</supplied></w> <w lemma="ὡς"><supplied reason="lost">ὡς</supplied></w>
+
+<lb xml:id="line_10" n="10"/> <w lemma="καλός"><supplied reason="lost">κ</supplied>άλλιστον</w>, καὶ <name type="sacrifice"><w lemma="βουθυτέω">β<supplied reason="lost">ουθυτεῖν</supplied></w></name> <supplied reason="lost">τᾶι</supplied> <name type="festival"><w lemma="ἑορτή"><supplied reason="lost">ἑορτᾶι</supplied></w></name> <supplied reason="lost">τᾶι</supplied>
+
+<lb xml:id="line_11" n="11"/> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Δι</supplied>ὸς</w></name> <name type="epithet" key="Soter"><w lemma="σωτήρ">Σωτῆρος</w></name>, <name type="adornment"><w lemma="στεφανόω">στεφα<supplied reason="lost">νῶσαι</supplied></w></name> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">καὶ</supplied> <w lemma="αὐτός"><supplied reason="lost">αὐτὸν</supplied></w> <w lemma="εἴκοσι"><supplied reason="lost">εἰ</supplied>
+
+<lb xml:id="line_12" n="12" break="no"/><supplied reason="lost">κ</supplied>όσι</w> <w lemma="χάλκεος">χαλκέαι<supplied reason="lost">ς</supplied></w> <w lemma="τέσσαρες"><supplied reason="lost">τέσσαρσι</supplied></w><supplied reason="lost">,</supplied> <supplied reason="lost">καὶ</supplied> <w lemma="ἵστημι"><supplied reason="lost">στᾶσαι</supplied></w> <supplied reason="lost">τὰν</supplied>
+
+<lb xml:id="line_13" n="13"/> <supplied reason="lost">μὲ</supplied>ν <w lemma="εἷς">μίαν</w> <w lemma="ἐν">ἐν</w> <name type="structure"><supplied reason="lost">τῶι</supplied> <w lemma="θέατρον"><supplied reason="lost">θ</supplied>εάτ<supplied reason="lost">ρωι</supplied></w></name> <gap reason="lost" quantity="13" unit="character" precision="low"/>
+
+<lb xml:id="line_14" n="14"/> <w lemma="πεζικός"><supplied reason="lost">π</supplied>εζικάν</w>, τὰ<supplied reason="lost">ν</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="ἄλλος"><supplied reason="lost">ἄλλαν</supplied></w> <gap reason="lost" quantity="15" unit="character" precision="low"/>
+
+<lb xml:id="line_15" n="15"/> <gap reason="lost" quantity="2" unit="character"/>κον, τὰν δὲ <w lemma="ἄλλος">ἄλ<supplied reason="lost">λαν</supplied></w> <gap reason="lost" quantity="17" unit="character" precision="low"/>
+
+<lb xml:id="line_16" n="16"/> <supplied reason="lost">τ</supplied>ὰν δὲ <w lemma="ἄλλος">ἄλλ<supplied reason="lost">αν</supplied></w> <gap reason="lost" quantity="14" unit="character" precision="low"/>  <supplied reason="lost">καὶ</supplied> <name type="speechAct"><w lemma="ἀνακηρύσσω"><supplied reason="lost">ἀνακα</supplied>
+
+<lb xml:id="line_17" n="17" break="no"/><supplied reason="lost">ρ</supplied>ῦξαι</w></name> <w lemma="ἐν">ἐν</w> τῶ<supplied reason="lost">ι</supplied> <name type="festival"><w lemma="ἀγών"><supplied reason="lost">ἀγῶνι</supplied></w></name> <supplied reason="lost">τῶν</supplied> <name type="epithet" key="Soter"><w lemma="σωτήρ"><supplied reason="lost">Σωτηρίων</supplied></w></name> <supplied reason="lost">τὸν</supplied> <supplied reason="lost">τε</supplied>
+
+<lb xml:id="line_18" n="18"/> <name type="adornment"><w lemma="στέφανος"><supplied reason="lost">στ</supplied>έφ<supplied reason="lost">α</supplied>νον</w></name> <gap reason="lost" quantity="24" unit="character" precision="low"/>
+
+<lb xml:id="line_19" n="19"/> <supplied reason="lost">τ</supplied>αῖς δὲ <gap reason="lost" quantity="26" unit="character" precision="low"/>
+
+<lb xml:id="line_20" n="20"/> <gap reason="illegible" quantity="1" unit="line"/>
+
+<lb xml:id="line_21" n="21"/> <gap reason="illegible" quantity="1" unit="line"/>
+
+<lb xml:id="line_22" n="22"/> <gap reason="illegible" quantity="1" unit="line"/>
+
+<lb xml:id="line_23" n="23"/> <gap reason="illegible" quantity="1" unit="line"/>
+
+<lb xml:id="line_24" n="24"/> <gap reason="illegible" quantity="1" unit="line"/>
+
+<lb xml:id="line_25" n="25"/> <gap reason="illegible" quantity="1" unit="line"/>
+
+<lb xml:id="line_26" n="26"/> <name type="group"><w lemma="πόλις"><supplied reason="lost">π</supplied>όλιας</w></name> <orig>γ</orig><gap reason="lost" quantity="25" unit="character" precision="low"/>
+
+<lb xml:id="line_27" n="27"/> <supplied reason="lost">τὰ</supplied>ν <name type="group"><w lemma="πόλις">πόλι<supplied reason="lost">ν</supplied></w></name><gap reason="lost" quantity="24" unit="character" precision="low"/>
+
+<lb xml:id="line_28" n="28"/> <gap reason="lost" quantity="1" unit="character"/><orig>ντ</orig><gap reason="lost" quantity="1" unit="character"/><orig>ντε</orig><gap reason="lost" quantity="25" unit="character" precision="low"/>
+
+<lb xml:id="line_29" n="29"/> <gap reason="lost" quantity="1" unit="character"/>ολεος καὶ <gap reason="lost" quantity="6" unit="character"/><orig>μ</orig><gap reason="lost" quantity="16" unit="character" precision="low"/>
+
+<lb xml:id="line_30" n="30"/> <gap reason="lost" quantity="1" unit="character"/>αις φ<gap reason="lost" quantity="2" unit="character"/>ος καὶ ἀπιγ<gap reason="lost" quantity="10" unit="character" precision="low"/> <w lemma="πομπή"><supplied reason="lost">πομπὰν</supplied></w>
+
+<lb xml:id="line_31" n="31"/> <w lemma="πέμπω"><supplied reason="lost">πέ</supplied>μπην</w> <w lemma="ἀμφί">ἀ<supplied reason="lost">μ</supplied>φὶ</w> <name type="epithet" key="Akersekomes"> <w lemma="ἀκερσεκόμης">Ἀκερσ<unclear>ε</unclear>κό<supplied reason="lost">μαν</supplied></w></name> <gap reason="lost" quantity="11" unit="character" precision="low"/>
+
+<lb xml:id="line_32" n="32"/> <name type="structure"><w lemma="τέμενος"><supplied reason="lost">τ</supplied>έμενες</w></name> <w lemma="εἰς">ἐς</w> τὰν <gap reason="lost" quantity="2" unit="character"/>ολιδ<gap reason="lost" quantity="14" unit="character" precision="low"/>
+
+<lb xml:id="line_33" n="33"/> <gap reason="lost" quantity="1" unit="character"/><orig>ς</orig> <w lemma="ὁνί">ταινὶ</w> ταὶ <w lemma="τιμή"><supplied reason="lost">τ</supplied>ι<supplied reason="lost">μ</supplied>αὶ</w> <orig>αν</orig><gap reason="lost" quantity="15" unit="character" precision="low"/>
+
+<lb xml:id="line_34" n="34"/>  <gap reason="lost" quantity="1" unit="character"/> <name type="group"><name type="ethnic" key="Arcadia"><w lemma="Ἀρκάς">Ἀρκάσι</w></name></name> <w lemma="ἄξιος">ἀξίαν</w>, <w lemma="τίθημι">τ<supplied reason="lost">ιθ</supplied>έν<supplied reason="lost">αι</supplied></w> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">καὶ</supplied> <name type="festival"><w lemma="ἀγών"><supplied reason="lost">ἀγῶνα</supplied></w></name> <w lemma="γυμνικός"><supplied reason="lost">γυ</supplied>
+
+<lb xml:id="line_35" n="35" break="no"/><supplied reason="lost">μ</supplied>νικὸν</w> καὶ <w lemma="ἱππικός">ἱππικ<supplied reason="lost">ὸν</supplied></w> <gap reason="lost" quantity="15" unit="character" precision="low"/>
+
+<lb xml:id="line_36" n="36"/> <supplied reason="lost">τ</supplied>ὸν δὲ <w lemma="ταμίας">ταμίαν</w> <w lemma="ἀναδίδωμι">ἀνα<supplied reason="lost">διδόναι</supplied></w> <w lemma="εἰς"><supplied reason="lost">εἰς</supplied></w> <supplied reason="lost">τὰν</supplied> <name type="sacrifice"><w lemma="θυσία"><supplied reason="lost">θυσίαν</supplied></w></name>
+
+<lb xml:id="line_37" n="37"/> τοῖς τᾶς <name type="group"><w lemma="πόλις">πόλιος</w></name> <name type="personnel"><w lemma="ἱεροθύτης">ἱ<supplied reason="lost">ερο</supplied>θ<supplied reason="lost">ύτ</supplied>αι<supplied reason="lost">ς</supplied></w></name> <gap reason="lost" quantity="9" unit="character"/>
+
+<lb xml:id="line_38" n="38"/> <w lemma="μνᾶ"><unclear>μ</unclear>νᾶς</w>, τὰ δὲ <name type="portion"><w lemma="κρέας">κρέα</w></name> τ<supplied reason="lost">ὰ</supplied> <name type="portion"><w lemma="βρώσιμος">βρώσ<supplied reason="lost">ιμ</supplied>α</w></name> <name type="meal"><w lemma="καταχράομαι">κ<supplied reason="lost">αταχρᾶσθαι</supplied></w></name><supplied reason="lost">, </supplied><supplied reason="lost">τὸ</supplied>
+
+<lb xml:id="line_39" n="39"/> <supplied reason="lost">δ</supplied>ὲ <name type="portion"><w lemma="δέρμα">δέρμα</w></name> <w lemma="καταδίδωμι">καταδίδοσθαι</w> τοῖς <gap reason="lost" quantity="9" unit="character"/>
+
+<lb xml:id="line_40" n="40" break="no"/>μένοις· τοῖς δὲ <name type="festival"><w lemma="σωτήρ">Σωτηρίοις</w></name> <gap reason="lost" quantity="11" unit="character" precision="low"/>
+
+<lb xml:id="line_41" n="41" break="no"/>νοισιν τοῖς <w lemma="κτάομαι">κτωμένο<supplied reason="lost">ις</supplied></w> <gap reason="lost" quantity="13" unit="character" precision="low"/>
+
+<lb xml:id="line_42" n="42"/> του τὸν <name type="deity" key="Zeus"><w lemma="Ζεύς">Δία</w></name> τὸν <name type="epithet" key="Soter"><w lemma="σωτήρ">Σωτῆρ<supplied reason="lost">α</supplied></w></name> <gap reason="lost" quantity="14" unit="character" precision="low"/> <supplied reason="lost">ἐ</supplied>
+
+<lb xml:id="line_43" n="43" break="no"/>ν τὸ <name type="structure"><w lemma="τέμενος">τέμενες</w></name> τὸ Φιλοπ<supplied reason="lost">οίμενος</supplied><supplied reason="lost">,</supplied> <supplied reason="lost">καὶ</supplied> <w lemma="παρίστημι"><supplied reason="lost">παρισ</supplied>
+
+<lb xml:id="line_44" n="44" break="no"/>τ<supplied reason="lost">ά</supplied>τω</w> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶν</w></name> <name type="quality"><w lemma="ἱερόθυτος">ἱερόθυτον</w></name> τόν τ’ <name type="liquid"><w lemma="οἶνος">οἶ<supplied reason="lost">νον</supplied></w></name><supplied reason="lost">,</supplied> <supplied reason="lost">καὶ</supplied> <name type="speechAct"><w lemma="ἀναγορεύω"><supplied reason="lost">ἀναγο</supplied>
+
+<lb xml:id="line_45" n="45" break="no"/><supplied reason="lost">ρε</supplied>υέτω</w></name> <w lemma="ἐπί">ἐπὶ</w> ταῖς <name type="sacrifice"><w lemma="θυσία">θυσίαις</w></name> <w lemma="κατά">κα<supplied reason="lost">τ’</supplied></w> <w lemma="ἐνιαυτός"><supplied reason="lost">ἐνιαυτὸν</supplied></w> <supplied reason="lost">καὶ</supplied>
+
+<lb xml:id="line_46" n="46"/> <name type="adornment"><w lemma="στεφανόω"><supplied reason="lost">σ</supplied>τεφανώτω</w></name> ὃ καὶ τᾶι <name type="deity" key="Hestia"><w lemma="Ἑστία">Ἑστία<supplied reason="lost">ι</supplied></w></name> <gap reason="lost" quantity="10" unit="character" precision="low"/>
+
+<lb xml:id="line_47" n="47"/> <supplied reason="lost">κα</supplied>ὶ τὰ <name type="portion"><w lemma="γέρας"><supplied reason="lost">γέρ</supplied>η</w></name> <w lemma="λαμβάνω">λαμβανέτω</w> καὶ <gap reason="lost" quantity="11" unit="character" precision="low"/>
+
+<lb xml:id="line_48" n="48"/> <gap reason="lost" quantity="10" unit="character" precision="low"/>  <name type="speechAct"><w lemma="κηρύσσω"><supplied reason="lost">καρ</supplied>υσσ<supplied reason="lost">έ</supplied>σθ<supplied reason="lost">ω</supplied></w></name> <gap reason="lost" quantity="12" unit="character" precision="low"/>
+
+<lb xml:id="line_49" n="49"/> <gap reason="illegible" unit="line" quantity="1"/>
+
+<lb xml:id="line_50" n="50"/> <gap reason="illegible" unit="line" quantity="1"/>
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[... so that] in the fatherland [...] grow as much as [possible, may it be decided by the] city to honor Philopoimen [son of Craugis] with (5) honours of divine magnitude for his excellence and his beneficence; to erect [in his honor his memorial] on the agora and [to transfer] his bones from Messenia to [our city], to [build] a most beautiful altar of [white marble] (10) and to [sacrifice an ox during the festival of] of Zeus Soter, to honour [him] (lit. "crown") with [four] bronze [statues and to place] one (depicting him) [as an] infantryman in the theater [...], an[other one... (15) ...], another one [...], another one [... and] that the herald anounce during [the contest of the Soteria...] the honour (lit. "wreath") [...]</p>
+
+<p>(lines 19-29 are too fragmentary to attempt a translation)</p>
+
+<p>(30) [...] conduct [a procession] around Akersekomes [...] precinct to the [...] the following honors [...] worthy for the Arcadians, and to establish a gymnastic (35) and hippic [contest ...] that the treasurer pays [for the sacrifice] to the <foreign>hierothytai</foreign> of the city [...] minae, the edible meats [are to be consumed], give out the skin to the [...]. (40) During the Soteria [...] to the ones who own [...]  the Zeus Soter [...] in the precinct of Philopoimen, and let [...] give a sacrificable sheep and the wine and (45) proclaim (his name?) at the sacrifices, each [year] and let one crown the [... (consecrated animal?)] also to Hestia, and take the [priestly portions], and [...] it shall be proclaimed [...] </p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[... afin que] dans la patrie [...] s'accroisse pour [toujours, qu'il plaise à la] cité de conférer à Philopoimen [fils de Craugis] (5) des honneurs équivalents à ceux des dieux pour sa valeur et ses bienfaits; de dresser [en son honneur son monument] sur l'agora et [de transférer] ses ossements de Messénie vers [notre cité], de [construire] un autel de [marbre blanc] (10) le plus beau et de [sacrifier un bovin à la fête] de Zeus Soter, de [l']honorer (litt. "couronner") de [quatre portraits] de bronze [et d'en placer] un (le représentant) en fantassin au théâtre [...], un [autre...], un autre [...], (15) un autre [... et] de faire annoncer par le héraut lors [du concours des Soteria...] l'honneur (litt. "la couronne") [...]</p>
+
+<p> (les lignes 19-29 sont trop fragmentaires pour établir une traduction suivie) </p>
+
+<p> (30) [...] faire [une procession] autour de l'Akersekomes [...] enceinte vers la [...] les honneurs suivants [...] digne des Arcadiens, et instaurer [un concours] (35) gymnique et hippique [...] le trésorier versera [pour le sacrifice] aux hiérothytes de la cité [...] mines, [on consommera] les viandes comestibles, on distribuera la peau aux [...]. (40) Lors des Soteria [...] à ceux qui possèdent [...] le Zeus Soter [...] dans l'enceinte de Philopoimen, et que l'on amène un mouton à sacrifier et le vin, et que l'on (45) proclame (son nom ?) lors des sacrifices, chaque [année] et que l'on couronne l'[(animal consacré ?) ...] aussi pour Hestia, que l'on prenne les parts d'honneur et [...] que le héraut annonce [...]</p>
+
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p>This decree was passed by the Megalopolitans between the death of Philopoimen, in May or June of 182 (or in 183 according to the date retained in Winand and <bibl type="abbr" n="SEG">SEG</bibl>), and the expedition of the Achaeans led by Lycortas against the Messenians in order to get back the body of the late general (<foreign>strategos</foreign>). About two months later, the expedition was successful. After a cremation of the body in Messene, the return of the Achaeans took the form of a funeral procession, led by the young Polybius, who himself held the funeral urn containing the ashes and bones (about these events and their context, cf. Kató; see Paus. 8.51.8 and Plut. <title>Phil.</title> 21.3).</p>
+
+<p>Although the text is fragmentary, its content is quite clear, at least in its less damaged parts. The restorations adopted here are not to be taken as completely assured, but intend to transcribe the substance of the decree, which is known from the accounts of Diodorus (29.18) and Livy (39.50.9). Apart from exceptional tribute for a benefactor (at least four bronze statues, lines 11-16), the Megalopolitains grant Philopoimoen divine honours by this decree. The repatriation of the bones (lines 7-8), the building of a memorial tomb (line 7) inside a proper precinct (line 43) and the establishment of a contest (line 34-35) form parts of a process of heroisation or divinisation which takes place in a long tradition (cf. Hughes for contextualisation). The expression τιμαὶ ἰσόθεοι (line 5; also used by Diodorus) leaves no doubt that the cult of the late Philopoimen was meant to place him on the level of the gods. The characteristics of the rituals envisaged by the text confirm this scale of the honours: a marble altar is to be built for Philopoimen (lines 9-10), and the meats of the sacrificial animals are to be shared and eaten (line 38; see Jost, Winand; the distinction between heroic honours for the dead and divine honours is stressed by Hughes, p. 172, n. 28, though the opposition need not be taken so strictly, cf. Ekroth). For further examples of cultic honours, usually for prominent living individuals, see <ref target="http://cgrn.ulg.ac.be/CGRN_137/">CGRN 137</ref> (Aigai), <ref target="http://cgrn.ulg.ac.be/CGRN_143/">CGRN 143</ref> (Laodikeia-on-the-Lykos), <ref target="http://cgrn.ulg.ac.be/CGRN_150/">CGRN 150</ref> (Mylasa), and <ref target="http://cgrn.ulg.ac.be/CGRN_168/">CGRN 168</ref> (Keramos).</p>
+
+<p>Line 5 : Much later, Megalopolitans also granted τιμαὶ ἰσόθεοι to the procurator Geminus (<bibl type="abbr" n="IG V.2">IG V.2</bibl> 435).</p>
+
+<p>Lines 10-11: For βουθυτεῖν, cf. again Diodorus 29.18. Winand and earlier scholars restore [τᾶι ἁμέραι τᾶι] in line 10, but a direct mention of the festival of Zeus seems more plausible. On the cult of Zeus Soter in Megalopolis, cf. Jost, p. 225-227 and 271-272 (she dates the foundation of the cult back to the fourth century BC as an aftermath of the battle of Leuktrai; archaeological remains are attested from the third century BC). Unsurprisingly, the sanctuary was located in the agora (cf. also Paus. 8.30.10). It seems to have been the major sanctuary of Megalopolis, at least in the urban center, which explains that (honorary) decrees were published within it, at least from the second century BC (<bibl type="abbr" n="IG V.2">IG V.2</bibl> 437 and perhaps 436), and continuing into the Imperial period (<bibl type="abbr" n="IG V.2">IG V.2</bibl> 435 and perhaps <bibl type="abbr" n="SEG">SEG</bibl> 14, 347). The honours granted to Philopoimen seem to associate him closely with Zeus Soter, finding a place within an apparently preexisting cultic framework (the Soteria, the festival of the god and the games: see line 17). The choice of the holiday of Zeus Soter for the sacrifice to Philopoimen owes nothing to chance, since this god held a prominent position in the political center of the city. Above all, the association makes sense because Zeus Soter was frequently invoked to ensure the safety, integrity and freedom of the political community, especially against foreign enemies: Philopoimen held that role for the Achaeans (and especially his Megalopolitan compatriots), and his death, coupled with the worry about external threats (from the Messenians and Spartan neighbours as well as the Romans) explains that the Megalopolitans placed such an emphasis on their freedom and σωτηρία.</p>
+
+<p>Line 31: Akersekomes is usually a poetic epithet of Apollo (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.), which may have been used at Megalopolis. Here, the reference seems to be the fact that the procession involves a circumambulation of the statue of the god (the epithet refers to the physical appearance of Apollo with "Unshorn Hair", a youthful aspect perhaps depicted in this statue).</p>
+
+<p>Lines 36-38: The <foreign>hierothytai</foreign> are public magistrates in charge of the cult of deities lacking of a permanent priesthood, as the cult of Philopoimen did. Here, they are supposed to organize the sacrifice (purchasing an expensive ox) and probably perform it too: they are given few <foreign>mnai</foreign> by the treasurer for this purpose (see Winand).</p>
+
+<p>Lines 39-40: Since the skin was to be given out to unknown recipients (see Winand for discussion), the sacrificial animal (i.e. the ox mentioned in lines 10-11?) was not completely burnt. Hence, the consumption of the meat is more plausible than its destruction: Winand's καταχρᾶσθαι is thus to be preferred to Hiller von Gaertringen's κατακαίειν. For the same verb referring to consumption of sacrificial meat "on the spot", see here <ref target="CGRN_62">CGRN 62</ref> (Lindos), lines A3-4 and B4-5, <ref target="CGRN_117">CGRN 117</ref> (Lindos), lines 6-7, and <ref target="CGRN_141">CGRN 141</ref> (Lindos), lines 5-6.</p>
+
+<p>Line 44: Winand interprets ἱερόθυτον as a verbal adjective, implying that a sheep was to be sacrificed by the <foreign>hierothytai</foreign>. Indeed, ἱερόθυτον cannot be the subject of δ[ό]τω (or of Winand's restoration [παρισ]|τ[ά]τω), so this seems to be the most likely interpretation. The remainder of this line is problematic (see Winand for a conjecture); τόν τ’ οἶ[νον] is almost certainly to be doubted, though a solution is elusive.</p>
+
+<p>Line 46 : There is no other evidence for the cult of Hestia in Megalopolis (cp. Jost). Some (cf. Winand) read ὁ καὶ ..., as the subject of the verb, and thus assumed that some individual involved in the cult of the goddess is probably alluded to here. Given the sacrificial context, an alternative is think that we have a neuter relative pronoun ὅ and thus that a sacrificial animal also consecrated (?) to Hestia might be meant. On the sacrificial relationship between Zeus and Hestia, cf. here <ref target="CGRN_86">CGRN 86</ref> A (Kos), lines 25-30.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

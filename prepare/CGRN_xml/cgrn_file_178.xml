@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_178" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title>	<idno type="filename">CGRN 178</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> for Peitho on Thasos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Marble <rs type="objectType">block</rs>, of intact length, but damaged to the right. On the left side, there is anathyrosis, indicating that the block was set into a wall or structure of some sort.</p>
+				<p><dimensions>
+					<height unit="cm">26</height>
+					<width unit="cm">36</width>
+					<depth unit="cm">25.5</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The field in which the inscription is engraved is fairly deeply set, as a sort of cartouche. </p>
+				<p>Letters: <height unit="cm">2.3</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0200" notAfter="-0100">ca. 200-100 BC</origDate></p>
+			<p><desc>Justification: lettering (Picard; Hiller von Gaertringen).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Thasos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/501634" type="external">Thasos</ref></placeName>. Found in the area of the Prytaneion. Current location unknown, but perhaps in the Museum of Thasos.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2016 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Picard 1923">Picard 1923</bibl>: 244.</p>
+					<p>Other edition: Hiller von Gaertringen <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> 394.</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 73.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Seyrig 1927">Seyrig 1927</bibl>: 197; <bibl type="author_date" n="Pirenne-Delforge 1991">Pirenne-Delforge 1991</bibl>; <bibl type="author_date" n="Pirenne-Delforge 1994">Pirenne-Delforge 1994</bibl>.</p>
+					
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    					
+	    					<lb xml:id="line_1" n="1"/><name type="deity" key="Peitho"><w lemma="Πειθώ">Πειθοῖ</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <w lemma="οὐδέ">οὐ
+	    					
+	    					<lb xml:id="line_2" n="2" break="no"/>δὲ</w> <name type="animal" key="swine"><name type="age"><w lemma="χοῖρος">χοῖρον</w></name></name> <w lemma="οὐ">οὐ</w> <name type="authority"><w lemma="θέμις">θέμ<supplied reason="lost">ις</supplied></w></name>.
+		
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+	    				<p>To Peitho neither a goat nor swine (literally: a piglet) is religiously permitted.</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Pour Peitho, ni un caprin ni un porcin (littéralement: porcelet) ne sont religieusement permis.</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This short text is a sacrificial regulation of a type regularly found on Thasos; it would have been set up directly at the cult-site, as a sign for worshippers; and it consists in a form of interdiction (οὐ θέμις, line 2) which is widely prevalent on the island (cf. also Seyrig). In particular, the sacrifice of goats and piglets, or more probably and more broadly, swine in general, is prohibited in a multiplicity of cults known on Thasos: cf. here <ref target="CGRN_17">CGRN 17</ref> (no piglets, or swine more generally, for the Nymphs or Apollo; for the Charites, the same restrictions as for Peitho); <ref target="http://cgrn.ulg.ac.be/CGRN_23">CGRN 23</ref> (no goats for Hera); <ref target="http://cgrn.ulg.ac.be/CGRN_27">CGRN 27</ref> (the same interdictions for Heracles as for Peitho).</p>
+						
+<p>The figure of Peitho, the goddess personifying persuasion, is attested already in Hesiod, where she adorns Pandora together with the Graces (<title>Op.</title> 73-75). As a feminine power, she is often associated with Aphrodite and the Charites (Peitho and the Graces: cf. Sokolowski; Peitho and Aphrodite: cf. Pirenne-Delforge 1991 and 1994). On Thasos, the cult of the Charites had the same sacrificial restrictions as the cult of Peitho (see again <ref target="CGRN_17">CGRN 17</ref>), which may suggest a connection between the cults of these goddesses. However, given the findspot of the inscription near the prytaneion, it might also be tempting to think that Peitho was worshipped here as a goddess of rhetorical (rather than sexual) persuasion, with her cult-site close to the center of the city and its political institutions (for the cult of Peitho by magistrates, see esp. Pirenne-Delforge 1994: 471); for the cult of Peitho in the present Collection, cf. notably <ref target="CGRN_136">CGRN 136</ref>, with a mention of "statues" (plural) in the sanctuary of Aphrodite Pandemos in Athens, again in a strongly civic context.</p>
+						
+					</div>
+			</body>
+    	</text>
+	</TEI>

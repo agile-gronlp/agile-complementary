@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_204" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 204</idno>: <rs type="textType" key="decree">Decree</rs> of Delphi concerning the organisation of the Eumeneia with the donation of Eumenes II</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		
+		<p> The text is inscribed on two connecting <rs type="objectType">blocks</rs> of grey limestone (inv. nos. 3680 + 900), belonging to south face of the column of Eumenes II. Inv. no. 3680 is situated on the left and inv. no. 900 is situated on the right. In each line, a few letters are missing where the blocks connect. Inv. no. 3680 is empty on the left half: the text starts more or less in the middle of the block; the lines continue on to inv. no. 900, which is inscribed on its entire breadth. Above the text reproduced here, another text is inscribed <bibl type="author_date" n="Bringmann - von Steuben 1995-2000">Bringmann - von Steuben 1995-2000</bibl>: no. 93 E2) describing king Eumenes II's gift of a large sum of money to buy grain and a smaller sum to celebrate the Eumeneia, to restore the theatre, and to carry out other works.</p>
+			
+			<p> Inv. no. 3680 <dimensions>
+				<height unit="cm">51</height>
+				<width unit="cm">80.5</width>
+				<depth unit="cm">38.5</depth>
+			</dimensions></p>
+		
+		<p> Inv. no. 900<dimensions>
+			<height unit="cm">51</height>
+			<width unit="cm">94.5</width>
+			<depth unit="cm">47.4</depth>
+		</dimensions></p>
+			
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p>The lettering of the two fragments is identical.</p>
+			<p> Letters: <height unit="cm">0.6</height>; space between lines: <height unit="cm">0.6</height>.</p> 	
+		</layout></layoutDesc>
+		
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0160" notAfter="-0159">160-159 BC</origDate></p>
+							
+							<p><desc>Justification: dating relative to the other three texts in this dossier (cf. Daux <bibl type="abbr" n="FD III.3">FD III.3</bibl>, p. 207-208).</desc></p>
+						</origin>
+						<provenance><p><ref target="http://pleiades.stoa.org/places/540726/" type="external"><placeName type="ancientFindspot" key="Delphi" n="Central_and_Northern_Greece">Delphi</placeName></ref>. Inv. no. 900: found on the sacred way close to the north-east corner of the temple; inv. no. 3680: found on the sacred way between the altar of the Chians and the Stoa of the Athenians.</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 15-01-2016 by S. Peels.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on <bibl type="author_date" n="Bringmann - von Steuben 1995-2000">Bringmann - von Steuben 1995-2000</bibl>: 151-152 no. 93 E 3. In line 20, we follow the reading of Choix Delphes.</p>
+	    		
+					<p> Cf. also:	    				 
+	    				Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 44;
+	    				<bibl type="author_date" n="Laum 1914">Laum 1914</bibl>: no. 29;
+					Daux <bibl type="abbr" n="FD III.3">FD III.3</bibl> 238;
+					Jacquemin - Mulliez - Rougemont <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl> 167. 						
+	    			</p>
+	    			
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Daux 1935">Daux 1935</bibl>;
+	    				<bibl type="author_date" n="Daux 1936">Daux 1936</bibl>: 682-685;
+	    				<bibl type="author_date" n="Bommelaer - Laroche 1991">Bommelaer - Laroche 1991</bibl>.
+					</p>
+	    			
+
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>	    	
+	    				
+<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="καθίστημι">καταστα<supplied reason="lost">θ</supplied>έντες</w> <name type="speechAct"><w lemma="ὄμνυμι">ὀ<supplied reason="lost">μνυόντω</supplied></w></name> <name type="authority"><w lemma="καθώς"><supplied reason="lost">κ</supplied>αθ<supplied reason="lost">ὼ</supplied>ς</w></name> <supplied reason="lost">καὶ τὰ</supplied> <w lemma="ἄλλος">ἄλλα</w> <name type="group"><w lemma="ἀρχεῖον">ἀρχεῖα</w></name> καὶ <w lemma="ἐκπράσσω">ἐκπρ<supplied reason="lost">ά</supplied>ξαντες</w> τοῦ <w lemma="ἀργύριον">ἀργυρίο<supplied reason="lost">υ</supplied></w>
+	    				
+	    				
+<lb xml:id="line_2" n="2"/> <supplied reason="lost">τοὺς</supplied> <w lemma="τόκος"><supplied reason="lost">τόκ</supplied>ους</w> <w lemma="συντελέω">συντελείντω</w> τὰν <name type="sacrifice"><w lemma="θυσία">θ<supplied reason="lost">υσίαν</supplied></w></name> <supplied reason="lost">καὶ τὰς</supplied> <name type="genericOffering"><w lemma="τιμή">τιμὰς</w></name> καὶ τὰν <name type="meal"><w lemma="δαμοθοινία">δαμοθοινίαν</w></name> <w lemma="ἐν">ἐν</w> τῶι <name type="month"><w lemma="Ἡράκλειος">Ἡρακλείωι</w></name> <w lemma="μείς">μηνὶ</w> τᾶ<supplied reason="lost">ι</supplied>
+	    				
+	    				
+<lb xml:id="line_3" n="3"/> <w lemma="δωδέκατος"><supplied reason="lost">δωδεκ</supplied>άται</w> <w lemma="ὡς">ὡς</w> <w lemma="καλός">κάλλιστα</w> καὶ <w lemma="λόγος">λόγον</w> <w lemma="ἀποδίδωμι">ἀ<supplied reason="lost">ποδιδόντ</supplied>ω</w> τοῖς <name type="title"><w lemma="μαστρός">μαστροῖς</w></name> <w lemma="ἐν">ἐν</w> τῶι <w lemma="αὐτός">αὐτῶι</w> <w lemma="μείς">μηνὶ</w> <w lemma="ὑπεύθυνος">ὑπεύθυνοι</w> <w lemma="εἰμί">ὄντες</w>,
+	    				
+	    				
+<lb xml:id="line_4" n="4"/> <w lemma="ὥσπερ"><supplied reason="lost">ὥσ</supplied>περ</w> καὶ οἱ τὰ <w lemma="ἄλλος">ἄλλα</w> <name type="genericOffering"> <w lemma="ποθίερος">ποθίερα</w></name> καὶ <w lemma="δημόσιος">δαμ<supplied reason="lost">ό</supplied>σια</w> <w lemma="χειρίζω"><supplied reason="lost">χε</supplied>ιρίζοντες</w>, καὶ <w lemma="ἐν">ἐν</w> τοῖς <w lemma="αὐτός">αὐτοῖς</w> <name type="punishment"><w lemma="ἐπιτίμιον">ἐπιτιμίοις</w></name> <w lemma="ἔνοχος">ἔνοχοι</w> <w lemma="εἰμί">ἔστ<supplied reason="lost">ω</supplied>
+	    					
+	    					
+<lb xml:id="line_5" n="5" break="no"/>σαν</w> <w lemma="κατά">κατὰ</w> τὸμ <name type="title"><w lemma="μαστρικός">μαστρικὸν</w></name> <name type="authority"><w lemma="νόμος">νόμον</w></name>· <name type="sacrifice"><w lemma="θύω">θυόντω</w></name> δ<supplied reason="lost">ὲ</supplied> <supplied reason="lost">ο</supplied>ἱ <name type="title"><w lemma="ἐπιμελητής">ἐπιμεληταὶ</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοῦς</w></name> <w lemma="τρεῖς">τρεῖς</w> <name type="age"><name type="gender"><w lemma="τέλειος">τελείους</w></name></name> τῶι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> καὶ
+	    				
+	    				
+<lb xml:id="line_6" n="6"/> τᾶι <name type="deity" key="Leto"><w lemma="Λητώ">Λατοῖ</w></name> καὶ τᾶι <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιτι</w></name>, καὶ τὰ <w lemma="λοιπός">λοιπὰ</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱε<supplied reason="lost">ρε</supplied>ῖα</w></name> <w lemma="οἰκονομέω">οἰκονομεόντω</w> <w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="διατάσσω">διατεταγμένα</w></name>, καὶ τὰ <name type="portion"><w lemma="κρέας">κρ<supplied reason="lost">έα</supplied></w></name>
+	    				
+<lb xml:id="line_7" n="7"/> <name type="meal"><w lemma="καταχρέομαι">καταχρείσθωσαν</w></name> <w lemma="ἐν">ἐν</w> τὰν <name type="meal"><w lemma="δαμοθοινία">δαμοθοινίαν</w></name> <w lemma="καθώς">κα<supplied reason="lost">θ</supplied>ὼς</w> <name type="authority"><w lemma="εἰθίζω">εἴθισται</w></name>· <name type="liquid"><w lemma="οἶνος">οἴνου</w></name> δὲ <w lemma="ἀναλίσκω">ἀναλισκόντω</w> <w lemma="μετρητός">μετρητὰς</w> <w lemma="τεσσαράκοντα">τεσ<supplied reason="lost">σα</supplied>
+	    					
+<lb xml:id="line_8" n="8" break="no"/>ράκοντα</w>· τᾶι δὲ <w lemma="ἑνδέκατος">ἑνδεκάται</w> τοῦ <name type="month"><w lemma="Ἡράκλειος">Ἡρακλείου</w></name> <w lemma="μείς">μ<supplied reason="lost">η</supplied>νὸς</w> <w lemma="ἔχω">ἐχέτωσαν</w> τὰ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερεῖα</w></name> <w lemma="ἑτοῖμος">ἕτοιμα</w> καὶ τᾶι <w lemma="δωδέκατος">δωδεκάται</w> <w lemma="πομπεύω">π<supplied reason="lost">ομ</supplied>
+	    						
+<lb xml:id="line_9" n="9" break="no"/>πευόντω</w> <w lemma="ὥρα">ὥρας</w> <w lemma="δεύτερος">δευτέρας</w> <w lemma="ἐκ">ἐκ</w> τᾶς <name type="locality"><w lemma="ἅλως">ἅλωο<supplied reason="lost">ς</supplied></w></name> οἵ τε <name type="personnel"><w lemma="ἱερεύς">ἱερεῖς</w></name> τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνος</w></name> καὶ τῶν <w lemma="ἄλλος">ἄλλων</w>
+	    					    				
+<lb xml:id="line_10" n="10"/> <name type="deity" key="generic"><w lemma="θεός">θεῶν</w></name> καὶ οἱ <name type="title"><w lemma="πρύτανις">πρυτάνεις</w></name> καὶ <name type="title"><w lemma="ἄρχων">ἄρχοντες</w></name> καὶ τ<supplied reason="lost">ὰ</supplied> <w lemma="ἄλλος">ἄλλα</w> <name type="group"><w lemma="ἀρχεῖον">ἀρχεῖα</w></name> καὶ οἱ <name type="group"><w lemma="λαμπάδιος">λαμπαδισταί</w></name>, <w lemma="ἀπό">ἀφ’</w> <w lemma="ἕκαστος">ἑκάστας</w> <name type="group"><w lemma="φυλή">φυλᾶς</w></name> <name type="person"><w lemma="ἀνήρ">ἄν
+	    					
+	    					
+<lb xml:id="line_11" n="11" break="no"/>δρες</w></name> <w lemma="δέκα">δέκα</w>· <w lemma="καταγράφω">καταγραψάτωσαν</w> δὲ τοὺς <w lemma="λαμπαδίζω">λαμπαδίξοντας</w> οἱ <name type="title"><w lemma="ἡγεμών">ἁγεμόνες</w></name> τᾶν <name type="group"><w lemma="φυλή">φυλᾶν</w></name>· <w lemma="εἰ">εἰ</w> δέ <w lemma="τις">τις</w> τῶν <name type="title"><w lemma="ἡγεμών">ἁ
+	    						
+	    						
+<lb xml:id="line_12" n="12" break="no"/>γεμόνων</w></name> <w lemma="μή">μὴ</w> <w lemma="παρέχω">παράσχοι</w> <w lemma="εὔτακτος">εὐτάκτους</w> τοὺς <name type="group"><w lemma="λαμπαδίζω">λαμπαδίξοντας</w></name>, <name type="punishment"><w lemma="πράκτιμος">πράκτιμος</w></name> <w lemma="εἰμί">ἔστω</w> τᾶι <name type="group"><w lemma="πόλις">πόλει</w></name> <w lemma="ἀργύριον">ἀργυρίου</w> <w lemma="δέκα">δέκα</w>
+	    				
+	    				
+<lb xml:id="line_13" n="13"/> <w lemma="στατήρ">στατήρων</w> <name type="genericOffering"><w lemma="ποθίερος">ποθιέρων</w></name>· καὶ οἱ <name type="title"><w lemma="ἄρχων">ἄρχοντες</w></name> <w lemma="ἐκπράσσω">ἐκπρ<supplied reason="lost">ά</supplied>ξαντες</w> καὶ <w lemma="ἐν">ἐν</w> ταῖς <name type="festival"><w lemma="ἱερομηνία">ἱερομηνίαις</w></name> τὸ μὲν <w lemma="ἥμισυς">ἥμισον</w> <w lemma="αὐτός">αὐτοὶ</w>
+	    					    				
+<lb xml:id="line_14" n="14"/> <w lemma="ἔχω">ἐχέτωσαν</w>, τὸ δὲ <w lemma="ἥμισυς">ἥμισον</w> <w lemma="προσφέρω">ποτιφερόντω</w> <w lemma="ἐν">ἐν</w> <w lemma="λόγος">λόγ<supplied reason="lost">ο</supplied>ν</w>· <w lemma="εἰ">εἰ</w> δὲ <w lemma="μή">μὴ</w> <w lemma="δύναμαι">δύναιντο</w> <w lemma="ἐκπράσσω">ἐκπρᾶξαι</w>, <w lemma="ἀναγράφω">ἀναγραψάτωσαν</w> <w lemma="ἐν">ἐν</w>
+	    					    				
+<lb xml:id="line_15" n="15"/> τὸν <name type="group"><w lemma="δημόσιος">δαμόσιον</w></name> <name type="object"><w lemma="πίναξ">πίνακα</w></name>, <w lemma="καθώς">καθὼς</w> <name type="authority"><w lemma="νομίζω">νομίζεται</w></name>· ὁ δ<supplied reason="lost">ὲ</supplied> <w lemma="δρόμος">δρόμος</w> <w lemma="γίγνομαι">γινέσθω</w> <w lemma="ἐκ">ἐκ</w> τοῦ <name type="structure"><w lemma="γυμνάσιον">γυμνασίου</w></name> <w lemma="ἄχρι">ἄχρι</w> <w lemma="πρός">ποτὶ</w> τὸν <name type="structure"><w lemma="βωμός">βω
+	    					
+<lb xml:id="line_16" n="16" break="no"/>μόν</w></name>, ὁ δὲ <name type="person"><w lemma="νικάω">νικέων</w></name> <w lemma="ὑφάπτω">ὑφαπτέτω</w> τὰ <name type="genericOffering"><w lemma="ἱερός">ἱερά</w></name>· <w lemma="εἰ">εἰ</w> δέ <w lemma="τις">τ<supplied reason="lost">ι</supplied>ς</w>, τῶν <name type="title"><w lemma="ἡγεμών">ἁγεμόνων</w></name> <w lemma="καταγράφω">καταγραψάντων</w> τοὺς <w lemma="ἐν">ἐν</w> <w lemma="ἡλικία">ἁλικίαι</w>, <w lemma="μή">μὴ</w>
+	    				
+<lb xml:id="line_17" n="17"/> <w lemma="θέλω">θέλοι</w> <w lemma="πειθαρχέω">πειθαρχεῖν</w> <w lemma="δυνατός">δυνατὸς</w> <w lemma="εἰμί">ὤν</w>, <name type="punishment"><w lemma="πράκτιμος">πράκτιμο<supplied reason="lost">ς</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">ἔ</supplied>στω</w> τῶι <name type="title"><w lemma="ἡγεμών">ἁγεμόνι</w></name> καὶ τοῖς <w lemma="ἄλλος">ἄλλοις</w> <name type="group"><w lemma="λαμπάδιος">λαμπαδισταῖς</w></name> <w lemma="ἀργύριον">ἀ<supplied reason="lost">ρ</supplied>
+	    						    				
+<lb xml:id="line_18" n="18" break="no"/>γυρίου</w> <w lemma="δέκα">δέκα</w> <w lemma="στατήρ">στατήρων</w> <w lemma="ἴδιος">ἰδίαι</w> καὶ <w lemma="ἐν">ἐν</w> ταῖς <name type="festival"><w lemma="ἱερομηνία">ἱερ<supplied reason="lost">ο</supplied>μηνίαις</w></name>· <w lemma="εἰ">εἰ</w> δὲ <w lemma="φημί">φαίη</w> <w lemma="ἀδύνατος">ἀδύνατος</w> <w lemma="εἰμί">εἶμεν</w> ἢ <w lemma="πρέσβυς">πρεσβύτερος</w>,
+	    					    				
+<lb xml:id="line_19" n="19"/> <name type="speechAct"><w lemma="ἐξόμνυμι">ἐξομοσάσθω</w></name>, οἱ δὲ <name type="title"><w lemma="ἡγεμών">ἁγεμόνες</w></name> <w lemma="ἄλλος">ἄλλον</w> <w lemma="ἀντί">ἀντ’</w> <w lemma="αὐτός">αὐ<supplied reason="lost">τ</supplied>οῦ</w> <w lemma="καταγράφω">καταγραψάντω</w>· οἱ δὲ <name type="personnel"><w lemma="ἱερεύς">ἱερεῖς</w></name> τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνος</w></name>, <w lemma="ἐπεί">ἐ	    					
+	    				
+<lb xml:id="line_20" n="20" break="no"/>πεί</w> <w lemma="κα">κα</w> <w lemma="πομπεύω">πομπεύσωντι</w>, <name type="invocation"><w lemma="κατεύχομαι">κατευχέσ<surplus>σ</surplus>θωσαν</w></name> τὰ <name type="festival"><w lemma="Εὐμένειος">Εὐμένεια</w></name> <w lemma="καθώς">καθὼς</w> <name type="authority"><w lemma="νομίζω">νομίζεται</w></name>· ἁ δὲ <name type="group"><w lemma="νικάω">νικέουσ<supplied reason="lost">α</supplied></w></name> τᾶν <name type="group"><w lemma="φυλή">φ<supplied reason="lost">υ</supplied>	    						
+	    				
+<lb xml:id="line_21" n="21" break="no"/>λᾶν</w></name> τὰν <w lemma="λαμπάς">λαμπάδα</w>, <w lemma="λαμβάνω">λαμβανέτω</w> <w lemma="εἰς">εἰς</w> <name type="sacrifice"><w lemma="θύσις">θυσί<supplied reason="lost">α</supplied>ν</w></name> <w lemma="ἀργύριον">ἀργυρίου</w> <w lemma="δέκα">δέκα</w> <w lemma="στατήρ">στατῆρας</w>· <w lemma="ἀναγράφω">ἀναγράψαι</w> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">τὸ</supplied> <name type="authority"><w lemma="ψήφισμα"><supplied reason="lost">ψάφισ</supplied>
+	    							
+	<lb xml:id="line_22" n="22" break="no"/>μα</w></name> <w lemma="ἐν">ἐν</w> τὰν <name type="structure"><w lemma="βάσις">βάσιν</w></name> τὰν <w lemma="ὑπάρχω">ὑπάρχουσαν</w> τοῦ <name type="title"><w lemma="βασιλεύς">βασιλέος</w></name> <w lemma="παρά">παρὰ</w> τὸν <name type="structure"><w lemma="βωμός">βωμὸν</w></name> τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνος</w></name> τ<supplied reason="lost">οὺς</supplied> <w lemma="ἔναρχος"><supplied reason="lost">ἐνάρ</supplied>
+	    								
+<lb xml:id="line_23" n="23" break="no"/>χους</w> <name type="title"><w lemma="βουλευτής">βουλευτάς</w></name>, καὶ <w lemma="διαποστέλλω">διαποστεῖλαι</w> <w lemma="πρός">ποτὶ</w> <supplied reason="lost">τ</supplied>ὸν <name type="title"><w lemma="βασιλεύς">βασιλῆ</w></name> τὸ <w lemma="ἀντίγραφος">ἀντίγραφον</w> τοῦ <name type="authority"><w lemma="ψήφισμα">ψαφίσματ<supplied reason="lost">ος</supplied></w></name>.
+	    				
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p> [...] those who have been appointed [must swear an oath, just as the] other boards of magistrates, and having exacted the payments of interest on the money, they should perform the sacrifice and the honours and the public feast in the month Herakleios on the 12th, as beautifully as possible, and render the account to the <foreign>mastroi</foreign> in the same month, being responsible just as the other persons managing sacred and public affairs, and let them be liable to the same penalties (5) according to the law of the <foreign>mastroi</foreign>. The <foreign>epimeletai</foreign> should sacrifice three adult male oxen to Apollo and Leto and Artemis, and they should manage the remaining animals according to what has been ordained and they should consume the meat during the public feast, as is usual; and they are to consume fourty <foreign>metretai</foreign> of wine (during the feast). On the 11th of the month Herakleios, they should have the sacrificial animals ready, and on 12th, during the second hour, the priests of Apollo and of the other (10) gods and the <foreign>prytaneis</foreign> and the <foreign>archons</foreign> and the other boards of magistrates and the runners in the torchrace, ten men from each tribe, should make the procession from the circular place. The leaders of the tribes should enroll the runners in the torchrace. If one of the leaders does not provide a well-ordered group of runners in the torch-race, let him be liable to a fine of 10 <foreign>staters</foreign> payable to the city and dedicated (to the god). The <foreign>archons</foreign>, having exacted (the payment) during the sacred months should keep half for themselves, and deposit the other half in the account. If they are unable to exact the payment, they should write this up (15) on the public tablet, as is customary. The race should start from the gymnasium up to the altar, and the winner should set fire to the sacred offerings. If someone, after the leaders have enrolled those persons who are in the proper age-group, does not want to obey the authorities, even though he is capable, let him be liable to a fine of 10 <foreign>staters</foreign> payable to the leader and the other runners in the torch-race, from his private means, even during the sacred months. If this person says that he is incapable of running or too old, let him swear an oath upon it, and the leaders need to enroll someone else in his place. The priests of Apollo, (20) when they have finished the procession, should make a prayer, (annoucing the festival as) the Eumeneia, as is customary. The tribe which wins the torch-race should receive 10 <foreign>staters</foreign> to make a sacrifice. The councillors in function should have the decree inscribed on the existing base (of the statue) of the king beside the altar of Apollo, and they should dispatch a copy of the decree to the king.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[...] qu'une fois nommés ils [prêtent serment dans les mêmes] conditions que les autres magistrats; qu'après avoir perçu les intérêts de l'argent, ils accomplissent le sacrifice, les cérémonies honorifiques et le banquet, le 12 du mois d'Herakleios, avec le plus d'éclat possible, et qu'ils rendent compte aux <foreign>mastroi</foreign> au cours de ce même mois, étant sujets à poursuites dans les mêmes conditions que tous ceux qui manient les fonds sacrés et publics, et qu'ils soient passibles des mêmes amendes, (5) conformément à la loi relative aux <foreign>mastroi</foreign>. Que les épimélètes sacrifient trois boeufs adultes à Apollon, Léto et Artémis, qu'ils répartissent les autres animaux sacrificiels selon les règles établies, et qu'ils disposent des viandes pour le banquet selon les modalités habituelles; qu'ils dépensent quarante mérètres de vin. Le 11 du mois d'Herakleios, qu'ils tiennent prêts les animaux sacrificiels et le 12, à la deuxième heure, que partent de la place circulaire en procession les prêtres d'Apollon et des autres (10) dieux, les prytanes, les archontes, tous les magistrats, et les coureurs de la course aux flambeaux, à raison de dix hommes par tribu. Que les chefs des tribus désignent ceux qui participeront à la course; si l'un des chefs ne présente pas ses coureurs en bon ordre, la cité pourra lui infliger une amende de 10 statères d'argent, qui seront consacrés; que les magistrats recouvrent l'argent dès avant la fin de la fête, qu'ils en gardent la moitié pour eux-mêmes et fassent entrer l'autre moitié en compte; s'ils ne peuvent le recouvrer, qu'ils fassent l'inscription (15) au panneau public selon l'usage. Que la course se fasse du gymnase à l'autel et que le vainqueur allume le feu pour le sacrifice. Quand les chefs auront désigné les gens en âge de courir, si l'un de ceux-ci ne veut pas obéir alors qu'il est valide, son chef et les autres coureurs pourront lui infliger une amende de 10 statères d'argent sur ses biens personnels, dès avant la fin de la fête. Mais si l'on prétend que l'on n'a pas les capacités physiques nécessaires ou que l'on a dépassé l'âge, qu'on se récuse sous la foi du serment et que les chefs désignent quelqu'un d'autre. Que les prêtres d'Apollon, (20) une fois la procession terminée, prient (en proclamant la fête du nom) les Eumeneia, comme c'est la règle. Que la tribu victorieuse de la course aux flambeaux reçoive une somme de 10 statères pour un sacrifice. Que les bouleutes en fonction fassent transcrire le décret sur la base (de la statue) du roi qui se trouve près de l'autel d'Apollon et fassent parvenir au roi la copie du décret.
+					</p>
+					<p> (traduction d'après A. Jacquemin, D. Mulliez, G. Rougemont <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl> 167)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+						
+<p> This document is part of a group of four decrees concerning donations by Attalos II and his brother Eumenes II to the city of Delphi (see <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl> 165-168). Two other decrees describe the sending of ambassadors to Eumenes II to petition the benevolence of the king, and the king's gift of a large sum of money to buy grain and a smaller sum to celebrate the Eumenia, to restore the theatre, and to carry out other works (cf. Bringmann - von Steuben, no. 93 E1, E2). One slightly later decree concerns a donation by Attalos II for the education of boys and honorific ceremonies and sacrifices (<ref target="CGRN_202">CGRN 202</ref>), also including a procession, a banquet and a torch-race. Those festivities were to be celebrated from the interest made on loans from the donation, on the 13th of the month Herakleios: this is thus one day after the Eumenia (see lines 2-3). Many phrases in <ref target="CGRN_202">CGRN 202</ref> are highly similar or identical to the text of the present inscription, and the Eumeneia includes the same festive elements as the Attaleia. Moreover, the Delphic foundation of Alkesippos, a somewhat earlier document dated to 182 BC (<bibl type="abbr" n="LSCG">LSCG</bibl>  81 / <bibl type="abbr" n="Choix Delphes">Choix Delphes</bibl> 137) apparently served as a partial model for the foundations of the Attaleia and the Eumeneia. As part of his will, this private individual from Kalydon donated a sum of gold and silver so that the Delphians could organize, using the interest on the capital, a sacrifice and a civic feast (δαμοθοινία); it was also stipulated that they should call the festival (ποτονομάζειν) the Alkesippeia, after the benefactor himself. The festival was also to include a procession departing from the so-called "Circular Area" (lit. circular "threshing-floor") in the sanctuary, led by the priest of Apollo and prominent magistrates (the Alkesippeia took place in the month Heraios rather than Herakleios). Clearly, many elements of Alkesippos' endowment match those of Eumenes and Attalos. The parallel phrasing in this decree may be taken as a further argument that the Attaleia and Eumeneia are not strictly speaking examples of divine honours for these rulers: rather, they represent gifts to the city which honored the local gods, while at the same time memorialising the benefactors themselves, most notably in the names of the new festivals and their associated prayers and proclamations (see line 20).</p>		
+						
+<p> Lines 1-5: Possibly, the appointed officials are a group of <foreign>epimeletai</foreign>, as in <ref target="CGRN_202">CGRN 202</ref> (Attalos II), line 53, who were charged with lending out the money, collecting the interest on the loans, and organizing the festival from the interest accrued. For the phrase τιμαὶ καὶ θυσίαι "honorific ceremonies and sacrifices", cp. also <ref target="CGRN_202">CGRN 202</ref>, line 9: the τιμαί should be interpreted as all those events organised to honour the donator, here Eumenes II. The <foreign>mastroi</foreign> were Delphic magistrates in charge of the management and control of financial assets. These officials are also found on Rhodes, on Crete, and various cities of the Peloponnese. For the prescription of organising a procession, sacrifice or festival "as beautifully as possible", cp. here for example <ref target="CGRN_91">CGRN 91</ref> (Eretria), line 2, <ref target="CGRN_92">CGRN 92</ref> (Athens), line 34, and <ref target="CGRN_205">CGRN 205</ref> (Antiocheia-ad-Pyramum), line 8.</p>						
+			
+<p> Line 5-8: In <ref target="CGRN_202">CGRN 202</ref> (Attalos II), a sacrifice of three adult male oxen to Apollo and Leto and Artemis is also prescribed; in that case, that animals had to be provided by the citizens. On sacrifice to the "Delphic triad", cf. the commentary there at lines 54-55. The prescription to "handle" or "manage" (οἰκονομέομαι) the "rest of the sacrificial animals" (τὰ λοιπὰ ἱε[ρε]ῖα) according to the established rules is elusive. Possibly this refers to sacrificing other animals to other deities according to a known set of rules: we may compare the prescription in <ref target="CGRN_202">CGRN 202</ref> where mention is made of "the other sacrificial animals" which need to be *sacrificed* according to the rules (lines 53-55: θυόντω δὲ οἱ ἐπιμεληταὶ ... καὶ τὰ ἄλλα ἱερεῖα [καθ]ὼς διατέτακ[ται]. The requirement to consume the meat during the public feast as well as fourty <foreign>metretai</foreign> of wine is also found exactly in <ref target="CGRN_202">CGRN 202</ref>, cf. the commentary at lines 57-58 there.</p>
+						
+<p> Lines 8-16: On the requirement of having the animals "ready" one day in advance, cf. the commentary at <ref target="CGRN_202">CGRN 202</ref>, lines 58-59. The important list of participants in the procession is almost the same as is prescribed in <ref target="CGRN_202">CGRN 202</ref>, but here the other boards of magistrates and the runners in the torchrace are included instead of boys (recipients of the educational donation of Attalos II in <ref target="CGRN_202">CGRN 202</ref>). The procession during the Attaleia (<ref target="CGRN_202">CGRN 202</ref>) at Delphi and the one held in context of the Alkesippeia (<bibl type="abbr" n="LSCG">LSCG</bibl>)  81, also started from the ἅλως, the "Circular Area" which has traditionally been located at the heart of the sanctuary, in front of the Stoa of the Athenians and near the inscribed statue of Attalos II (see also the commentary in Choix Delphes, and the map in Bommelaer - Laroche, p. 140). This seems unreasonably close to the temple of Apollo and its altar; the ἅλως as literally a "threshing-floor" might instead be sought outside the sanctuary. The torch-race from the gymnasium up to the altar (of Apollo) would have had a length of more or less 1.5 km (Bringmann).</p>
+
+<p> Line 20: In and of itself, κατευχέσθωσαν τὰ Εὐμένεια is a strange phrase: the verb κατεύχομαι does not take an accusative without an infinitive as its complement. But when we compare <ref target="CGRN_202">CGRN 202</ref>, lines 53-57: θυόντω δὲ οἱ ἐπιμεληταὶ βοῦς τελεί|[ους τρ]εῖς ... [ὑπ]ὲρ τὸν βασιλέα Ἄτταλον, ποταγ[ορ]εύοντες τὰν θυσ[ί]|αν Ἀττάλεια; and lines 63-65: ἐπεὶ δέ κα πομπεύσωντι οἱ ἱερεῖς τοῦ Ἀπόλλω|νος, κατευχέστων ποταγορεύοντες τὰν θυσίαν Ἀττά|λεια, καθὼς εἴθισται, it actually seems not unlikely that the word ποταγορεύοντες has dropped out or is to be implied here. The meaning of the phrase is therefore to be read as: "they should make a prayer, (announcing the sacrifice as) the Eumenia".</p>
+				</div>
+			</body>
+    	</text>
+	</TEI>

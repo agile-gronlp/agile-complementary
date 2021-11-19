@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_128" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 128</idno>: Dedication with <rs type="textType" key="sacrificial regulation">sacrificial regulations</rs> from the Asklepieion at Lissos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p><rs type="objectType">Statue-base</rs>, with statue of Asclepius, made of bluish marble.</p>
+
+	<p><dimensions>
+		<height unit="cm">17.4</height>
+		<width unit="cm">65.5</width>
+		<depth unit="cm">44</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p> Letters are "nicely cut but the stone is somewhat carelessly inscribed" (Lupu, p. 337). The letters are not of equal size. It seems that the cutter started out optimistically with large letters, then realised that the text would not fit, and thus continued with smaller letters. The spaces between lines are also unequal. For further description cf. Lupu.</p> 
+			<p>Letters: </p>
+			<p>Lines 1-2: <height unit="cm">1.1-1.7</height>.</p>
+			<p>Lines 3-5: <height unit="cm">0.8-1.8</height>.</p>
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0325" notAfter="-0200"> ca. 325-200 BC</origDate>.
+			</p>
+							
+			<p><desc>Justification: Pleket dated the inscription to the early Hellenistic period on the basis of the letterforms.</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Lissos" n="Crete"><ref target="http://pleiades.stoa.org/places/589914" type="external">Lissos</ref></placeName>, in Crete. Found at the Asklepieion in 1957. Now on display in the Archaeological Museum in Chania.</p></provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	<p> Edition based on Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 24.</p>
+	    			<p> Other editions:	
+	    				<bibl type="author_date" n="Peek 1977">Peek 1977</bibl>: 80-81 no. 10;
+	    				Pleket <bibl type="abbr" n="SEG">SEG</bibl> 28, 750. </p>
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Bile 1988">Bile 1988</bibl> no. 56;
+	    				<bibl type="author_date" n="Bultrighini 1993">Bultrighini 1993</bibl>.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				<ab>
+
+	    					<lb xml:id="line_1" n="1"/> Θυμίλος <name type="genericOffering"><w lemma="ἵζω">ἵσσατο</w></name>  <w lemma="ὅδε">τόνδ'</w> <name type="deity" key="Asclepius"><name type="object"><w lemma="Ἀσκληπιός">Ἀσκληπιὸν</w></name></name>  <w lemma="ἐνθάδε">ἐνθάδε</w>  <w lemma="πρότερος">πρότερος</w>·
+	    					
+	    					<lb xml:id="line_2" n="2"/> Θαρσύτας δ' <w lemma="υἱός">υἱὸς</w>  <w lemma="ὅδε">τόνδ'</w> <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνέθηκε</w></name> <name type="deity" key="Asclepius"> <w lemma="θεός">θεῶι</w></name>·
+	    					
+	    					<lb xml:id="line_3" n="3"/> <name type="sacrifice"><w lemma="θύω">θύην</w></name> τὸν <name type="person"><w lemma="βούλομαι">βωλόμενον</w></name>·
+	    					
+	    					<lb xml:id="line_4" n="4"/> <name type="meal"><name type="portion"><w lemma="κρέας">κρεῶν</w></name></name>  <w lemma="οὐ">οὐκ</w>  <w lemma="ἀποφορά">ἀποφορά</w>·
+	    					
+	    					<lb xml:id="line_5" n="5"/> τὸ <name type="portion"><w lemma="δέρμα">δέρμα</w></name> τῶι <name type="deity" key="Asclepius"><w lemma="θεός">θεῶι</w></name>. 
+	    				</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Thymilos first set up this (statue of) Asclepius here. Tharsytas his son dedicated it to the god. Whoever wishes can sacrifice. There is no carrying away of meat. (5) The skin (is given) to the god.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p/>
+					<p>Thymilos, le premier, érigea cette (statue) d'Asclépios ici. Tharsytas son fils la consacra au dieu. Quiconque le souhaite peut sacrifier. On n'emporte pas de viande. (5) La peau (revient) au dieu.</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+	
+	<p>The inscription evidently belonged to the sanctuary of Asclepius at Lissos on Crete. Among the archaeological remains are a Doric temple with a mosaic floor, a basin with a drain, and a fountain house. Lupu mentions the existence of a source of water (with therapeutic qualities) in the area, perhaps related to these structures. The findings include many statues of Asclepius and Hygieia (but also of the god Plutus). Cf. Lupu for a further description of the site, and Bultrighini for a study of the cults of healing deities (Asclepius, Ilithyia and the Nymphs) on Crete—these were highly popular in the Hellenistic and Imperial periods—and the (abundant) evidence for Asklepieia on the island.</p> 
+						
+	<p> The base of a statue of Asclepius discussed here is inscribed with a dedication (lines 1-2, a hexameter and a pentameter respectively), as well as with two cult regulations (lines 3-5).The combination of a dedication and regulation is rare, and the precise context of their inscribing eludes us. What authority would an individual setting up and dedicating a statue to the god have to issue or codify rules? Perhaps Thymilos and his son Tharsytas held an inheritary priesthood, though they do not explicitly refer to themselves in this capacity (cf. Peek). The regulations may have been connected to an incubation ritual, but the sacrifices envisaged may also have been independent of any healing ritual.</p>
+	  
+	<p> Line 3: Cf. <ref target="http://cgrn.ulg.ac.be/CGRN_36/">CGRN 36</ref> (Chios), lines 7-11, <ref target="http://cgrn.ulg.ac.be/CGRN_50/">CGRN 50</ref> (Chios), lines 10-14, and <ref target="http://cgrn.ulg.ac.be/CGRN_75/">CGRN 75</ref> (Oropos), lines 27-28, for other cases in which worshippers are explicitly allowed to make a sacrifice themselves, without the supervision of a priest (if the priest is absent).</p>
+	
+	<p> Line 4: The prescription against carrying away meat occurs regularly; cf. <ref target="http://cgrn.ulg.ac.be/CGRN_32/">CGRN 32</ref> for a more elaborate commentary (on lines 10-12).</p>
+	
+	<p> Line 5: The skin may have been placed on a cult table and most probably ended up as a priestly perquisite. Alternatively, but more speculatively given the absence of any corroborative evidence here, the skin may have been consecrated to the god (or sold for his benefit) after its use during incubation: see <ref target="http://cgrn.ulg.ac.be/CGRN_75/">CGRN 75</ref>, lines 29-36, for further discussion of this possibility at the Amphiaraion of Oropos.</p>
+	
+					</div>
+			</body>
+    	</text>
+	</TEI>

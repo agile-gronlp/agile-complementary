@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_70" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 70</idno>: Fragment of a <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> from Oropos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+										<availability>
+											<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>A white marble <rs type="objectType">stele</rs>. One small fragment, broken on all sides. The left side "may be cut rather than broken [and] seems covered by some rough corroded matter" (Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 219).</p> 
+		
+				<p><dimensions>
+					<height unit="cm">27</height>
+					<width unit="cm">7.1-8</width>
+					<depth unit="cm">0.85</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The stone is inscribed on one face.</p> 
+<p>Letters: <height unit="mm">5-8</height>.</p> 
+				<p>Space between letters: <height unit="mm">9</height>.</p>
+			<height/>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0300">4th century BC</origDate></p>
+			<p><desc>Justification: Petrakos <title>I.Oropos</title>, p. 183 (no motivation). Lupu <title>NGSL</title> accepts this dating.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Oropos" n="Central_and_Northern_Greece"> <ref target="http://pleiades.stoa.org/places/580044" type="external">Oropos</ref></placeName>. Found north of the Curio monument.</p>
+		</provenance> 
+		
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 11-03-2014 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 9. </p>
+					<p> Other editions: Petrakos <bibl type="abbr" n="I.Oropos">I.Oropos</bibl> 278.</p>
+					<p>Further bibliography: 
+						<bibl type="author_date" n="Lupu 2003b">Lupu 2003b</bibl>;
+						<title>Kernos</title> 2000 <bibl type="abbr" n="EBGR">EBGR</bibl> no. 296; 
+						<bibl type="abbr" n="SEG">SEG</bibl> 47, 488.
+						 </p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    					<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/><orig>αςμε</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_2" n="2"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="object"><w lemma="τράπεζα"><w lemma="τραπεζόω">τραπεζ</w></w></name><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_3" n="3"/> <gap reason="lost" extent="unknown" unit="character"/> τὴν <w lemma="δεξιός">δεξ<supplied reason="lost">ιὰν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_4" n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="object"><w lemma="τρίπους"><supplied reason="lost">τρ</supplied>ίποδι</w></name> <orig>τω</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_5" n="5"/> <gap reason="lost" extent="unknown" unit="character"/><orig>α</orig> <space quantity="4" unit="character"/> <orig>ε</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_6" n="6"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐμβάλλω"><supplied reason="lost">ἐμβά</supplied>λλειν</w> <orig>τ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_7" n="7"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="bird"><w lemma="ὄρνις"><supplied reason="lost">ὄρ</supplied>νιθος</w></name> <w lemma="ὀβολός">ὀ<unclear>β</unclear><supplied reason="lost">ολο</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_8" n="8"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ος</orig> <w lemma="δύο">δύο</w> <w lemma="ὀβολός">ὀ<unclear>β</unclear><supplied reason="lost">ολ</supplied><gap reason="lost" extent="unknown" unit="character"/> </w>
+	    					
+	    					<lb xml:id="line_9" n="9"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="animal" key="ox"><w lemma="βοῦς">βοὸς</w></name> <orig>δε</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_10" n="10"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ων</orig> <w lemma="χρεία">χρεία</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_11" n="11"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="μίσθωμα"><w lemma="μισθόω">μιστωμ</w></w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_12" n="12"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="vegetal"><w lemma="σχίζα">σχιζῶ<supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					<lb xml:id="line_13" n="13"/> <gap reason="lost" extent="unknown" unit="character"/><orig>θ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					 (Given the extremely fragmentary character of the text, no translation is attempted; see Commentary.)
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+					(En raison du caractère très fragmentaire du texte, aucune tentative de traduction n'est proposée; voir Commentary.)
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This seems to be a regulation that lists offerings and sacrifices (Petrakos <bibl type="abbr" n="I.Oropos">I.Oropos</bibl>, ad loc.; Chaniotis, <bibl type="abbr" n="EBGR">EBGR</bibl>). The text seems to refer to (items placed on/placing items on) a sacrifical table (τραπεζ, line 1), and perhaps specificies sacrificial tariffs for different animals offered (lines 5ff.). There is a <foreign>vacat</foreign> above the first line. Perhaps this was the first line of the document. Another possibility is that the text consisted of multiple paragraphs, divided by empty space (cf. the space in line 5). The text may refer to pre-incubation sacrifices, because of elements that this fragment shares with pre-incubation documents from sanctuaries of Asclepius, and because "pre-incubation sacrifice may have been the most common occasion for sacrifice at the Amphiareion" (Lupu 2003: 332). </p>
+							
+<p>Line 2: Perhaps a form of τράπεζα is to be read here, in which case this is a reference to a cult table. But a form of τραπέζωμα or τραπεζόω is also possible. What is placed on the cult table usually goes to the priest. </p>
+							
+<p>Line 3: Chaniotis <bibl type="abbr" n="EBGR">EBGR</bibl> thought that δεξ<supplied reason="lost">ιάν</supplied> referred to the right part of the thigh or ham (κωλῆ). These are often priestly prerogatives. Cf. Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 222 for references, and see <bibl type="abbr" n="LSCG">LSCG</bibl> 45, line 5, for a right ham.</p>
+							
+<p>Line 6: Chaniotis <bibl type="abbr" n="EBGR">EBGR</bibl> restored [ἐμβά]λλειν and suggested that this refers to money put in the money-box; cf. the note on lines 5-9 below. </p>
+							
+<p>Line 7: ὄρνις according to Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, p. 223 (with references), is usually a chicken. For a direct parallel of a fee of one obol for the bird, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_220">CGRN 220</ref> (Kos), line 12.</p>
+							
+<p>Line 8: Perhaps <gap reason="lost" extent="unknown" unit="character"/>ος is the genitive ending of another animal. </p>
+							
+<p>Lines 5-9: Lupu has argued (Lupu 2003b: 330; <bibl type="abbr" n="NGSL">NGSL</bibl>, ad loc.) these lines list what fees worshippers should pay for sacrificing different animals. Lupu 2003b: 335-339 adds an illuminating appendix about sacrificial tariffs, giving examples of payments in cash for the sacrifice of animals, sometimes accompanied by payment in kind. Sometimes the payment is formally part of the priest’s prerogative. In other cases, this money should be put into a money-box. This money goes to the account of the god, the priest may also receive money out of it. Various inscriptions, e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_182">CGRN 182</ref> (Mytilene), line 7, or <ref target="http://cgrn.ulg.ac.be/CGRN_118">CGRN 118</ref> (Halikarnassos), lines 30-31, use the verb ἐμβάλλειν to describe the action of putting money into the money-box (sometimes εἰς τὸν θησαυρόν). In these inscriptions the animal usually appears in the genitive. The underlying suggestion of such a list of different animals would be that the worshipper is free in his choice. Petrakos <bibl type="abbr" n="I.Oropos">I.Oropos</bibl>, ad loc. gave the parallel of <ref target="http://cgrn.ulg.ac.be/CGRN_75">CGRN 75</ref>, lines 30-31, which contains a stipulation that worshippers in the Amphiareion can make private sacrifice with whatever animal they wish. </p>
+							
+<p>Line 10: These lines may "refer to other items needed for the sacrifice" (e.g. [ὅσ]ων χρεία [ἐστι], <bibl type="abbr" n="SEG">SEG</bibl> 53, 466). Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, ad loc. refers to a text in <bibl type="abbr" n="SEG">SEG</bibl> 30, 1119 in which it is said that the treasurer should provide anything else that is needed for the sacrifice [ὅσ]ων χρεία [ἐστι].</p>
+							
+<p>Line 11: Perhaps a reference τὸ μίσθωμα (prize agreed on in hiring, contract-prize, contract, rent) may be read here, or a perfect middle/passive form of μισθόω. This may refer to the ‘leasing of sacred property or to contracting services essential for the performance of cult’ (Lupu <bibl type="abbr" n="NGSL">NGSL</bibl>, ad loc.). Chaniotis <bibl type="abbr" n="SEG">SEG</bibl> 47, 488, thought that perhaps this regulation refers to the duties and rights of a person who leased a priesthood, but Lupu 2003b: 331 points out that though "during the Hellenistic period the sale of priesthoods became common in parts of Asia Minor and adjacent islands [...] it is rarely attested elsewhere. In mainland Greece the practice appears to have been almost entirely avoided". For further discussion: <bibl type="abbr" n="SEG">SEG</bibl> 53, 466.</p>
+							
+<p>Line 12: On firewood, cf. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_57">CGRN 57</ref> (Aixone), lines 3, 8, 18, etc., and <ref target="http://cgrn.ulg.ac.be/CGRN_199">CGRN 199</ref> (Delos), line 5.
+</p>			
+					</div>
+			</body>
+    	</text>
+	</TEI>

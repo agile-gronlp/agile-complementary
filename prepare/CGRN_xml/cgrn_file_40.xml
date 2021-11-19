@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_40" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 40</idno>: <rs type="textType" key="dossier of regulations">Dossier of regulations</rs> from Apollonia in Illyria</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Lead <rs type="objectType">tablet</rs>, broken into fragments and inscribed in the same hand on both faces (A and B).</p>
+			<p><dimensions>
+					<height unit="cm">6</height>
+					<width unit="cm">10.7</width>
+					<depth unit="mm">1</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters, face A: <height unit="mm">5</height>; on face B: <height unit="mm">4-6</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0405" notAfter="-0375">ca. 405-375 BC</origDate></p>
+			<p><desc>Justification: lettering of the late 5th or early 4th century BC (Cabanes). The letterforms are otherwise comparable with those of other tablet edited by Cabanes (no. 1, with ph. fig. 1). The alphabet and graphic style suggest a date close to the Attic alphabetic reform of ca. 403/2 BC. The absence of <foreign>omega</foreign> might tend to date the inscription before the end of the 5th century. Η seems to stand for the aspirate, not for eta, in A3 and B6. However, it appears to represent eta in δέκησθαι (for Doric δέκεσθαι, line A5) as well as in ἡ[μι]ολίαν (A6). This surely conforms with the hymn to Asclepius on the other tablet (Cabanes 2013: no. 1; <bibl type="abbr" n="SEG">SEG</bibl> 63, 407), where line 1 must  be read as [χαῖ]ρέ μοι hίλαο(ς), not ἡίλαον; for the hymn, see now Lhôte (with Carbon). For further remarks on the date and the script, see also Lhôte.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Apollonia" n="Central_and_Northern_Greece"><ref target="http://pleiades.stoa.org/places/481728" type="external">Apollonia</ref></placeName>, in Illyria. The findspot is only described by Cabanes as the portico bordering the agora. Current location unclear.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 03-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by JM Carbon in 6.2020.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>					
+<p>Edition here based on <bibl type="author_date" n="Cabanes 2013">Cabanes 2013</bibl>: 51-54 no. 2, with ph. figs. 2-3. We include a full <foreign>apparatus criticus</foreign> (Carbon) below. Readings and restorations by Carbon are based on the published photograph, with the kind consultation of F. Quantin, whose readings are based on autopsy and another photograph (2014).</p>
+
+<p>Cf. also: Chaniotis <title>Kernos</title> 2017 <bibl type="abbr" n="EBGR">EBGR</bibl> no. 28; Chaniotis <bibl type="abbr" n="SEG">SEG</bibl> 63, 408; <bibl type="author_date" n="Rigsby 2018">Rigsby 2018</bibl>; Lhôte <ref target="https://dodonaonline.com/ciod/seg/" type="external">CIOD</ref>, responding to SEG 63, 408 (also with a provisional text of Face A by S. Minon, 2020, and an alternative text of Face A by Carbon—the CGRN version remains more cautious in interpreting face A).</p>
+					
+<p>Further bibliography: <bibl type="author_date" n="Edelstein - Edelstein 1945">Edelstein - Edelstein 1945</bibl>: 190 n. 23; <bibl type="author_date" n="Guarducci 1978">Guarducci 1978</bibl>: 123-125; <bibl type="author_date" n="Casevitz 2004">Casevitz 2004</bibl>; <bibl type="author_date" n="Casevitz 2004">Casevitz 2006</bibl>; <bibl type="author_date" n="Flower 2008">Flower 2008</bibl>: 211-239; <bibl type="author_date" n="Bremmer 2008">Bremmer 2008</bibl>: 149-150; <bibl type="author_date" n="Hupfloher 2008">Hupfloher 2008</bibl>; <bibl type="author_date" n="Hitch 2011">Hitch 2011</bibl>; <bibl type="author_date" n="Carbon 2015a">Carbon 2015a</bibl>; <bibl type="author_date" n="Dillon 2017">Dillon 2017</bibl>: 112-114.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="face" n="A">Face A
+	
+<lb xml:id="line_A1" n="A1"/><name type="deity" key="generic"><w lemma="θεός">θεός</w></name>, <name type="deity" key="Tyche"><w lemma="τύχη"><unclear>τ</unclear><supplied reason="lost">ύ</supplied>χα</w></name> <name type="epithet" key="Agathe"><w lemma="ἀγαθός">ἀγαθά</w></name>· <orig>Δ</orig><gap reason="lost" quantity="5" unit="character" precision="low"/>
+
+<lb xml:id="line_A2" n="A2" break="no"/><orig>αι</orig> τοῖς <name type="ethnic" key="Apollonia"><w lemma="Ἀπολλωνιάτης">Ἀπολλονι<unclear>ά</unclear><supplied reason="lost">ταις</supplied></w></name>·
+	    					
+<lb xml:id="line_A3" n="A3"/>hα <name type="personnel"><w lemma="μάντις"><unclear>μάν</unclear>τις</w></name> το̑ν <name type="oracle"><name type="object"><w lemma="κλῆρος">κλά<unclear>ρ</unclear><supplied reason="lost">ον</supplied></w></name></name> <gap reason="lost" quantity="2" unit="character" precision="low"/>		
+	    					
+<lb xml:id="line_A4" n="A4"/><name type="authority"><name type="speechAct"><w lemma="ἀπηγορέω">ἀπαγόρεσε</w></name></name> τὸν <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσ<unclear>χ</unclear><supplied reason="lost">λα</supplied>	
+	    					
+<lb xml:id="line_A5" n="A5" break="no"/>πιὸν</w></name> <w lemma="δέχομαι">δέκησθαι</w> <orig>ΚΑ</orig><gap reason="lost" quantity="4" unit="character" precision="low"/>	
+	    					
+<lb xml:id="line_A6" n="A6"/>καὶ <name type="object"><w lemma="ἡμιολία">ἡ<supplied reason="lost">μι</supplied>ολία<unclear>ν</unclear></w></name> κ<unclear>αὶ</unclear> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character" precision="low"/>
+	    					
+<lb xml:id="line_A7" n="A7" break="no"/><orig>νες</orig> <orig>α<unclear>υ</unclear></orig><gap reason="lost" quantity="2" unit="character" precision="low"/> κα<supplied reason="lost">ὶ</supplied> <gap reason="lost" quantity="4" unit="character" precision="low"/>
+	    					
+<lb xml:id="line_A8" n="A8"/><unclear>καὶ</unclear> <orig>Π</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+	    				</ab>
+	    			<ab subtype="face" n="B">Face B
+	    					
+<lb xml:id="line_B1" n="B1"/><gap reason="lost" quantity="3" unit="character"/><orig><unclear>Λ</unclear>ΑΝ</orig> <w lemma="ἀρχαῖος">ἀρχαία<supplied reason="lost">ν</supplied></w>· τᾶι <name type="deity" key="Diona"><w lemma="Διώνη">Διό
+	    						    				
+<lb xml:id="line_B2" n="B2" break="no"/><supplied reason="lost">ναι</supplied></w></name> <name type="clothing"><w lemma="ἐσθής">ἐσθᾶτα</w></name>, <name type="clothing"><w lemma="ζώνη">ζόναν</w></name>, <name type="object"><w lemma="πόρπη">πόρ<choice><corr>π</corr><sic>ν</sic></choice>α<supplied reason="omitted">ν</supplied></w></name>·
+		    						    				
+<lb xml:id="line_B3" n="B3"/><name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Δὶ</supplied></w></name> <name type="epithet" key="Naios"><w lemma="Νάϊος"><supplied reason="lost">Ν</supplied>αίοι</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βο̑ν</w></name>, <name type="animal" key="sheep"><w lemma="ὄϊς">οἶας</w></name> <w lemma="τρεῖς"><unclear>τ</unclear><supplied reason="lost">ρ</supplied>ῖς</w>· <name type="deity" key="unclear"><w lemma="unclear"><orig><unclear>Ο</unclear></orig><gap reason="lost" quantity="1" unit="character"/>	
+	    						    				
+<lb xml:id="line_B4" n="B4"/><gap reason="lost" quantity="3" unit="character"/>ρρανιο<unclear>ι</unclear></w></name> <name type="animal" key="ox"><w lemma="βοῦς">βο̑ν</w></name>· <name type="deity" key="Themis"><w lemma="θέμις"><unclear>Θ</unclear>έμ<unclear>ιτι</unclear></w></name> <space quantity="1" unit="character"/>
+	    					
+<lb xml:id="line_B5" n="B5"/><gap reason="lost" quantity="3" unit="character"/>· <name type="deity" key="Enyalios"><w lemma="Ἐνυάλιος">Ἐνυάλιοι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">οἶ<supplied reason="lost">α</supplied>ς</w></name> <name type="quality"><name type="gender"><w lemma="ἐνόρχης">ἐνόρχα
+	    					
+<lb xml:id="line_B6" n="B6" break="no"/><supplied reason="lost">ς</supplied></w></name></name> <w lemma="τρεῖς"><supplied reason="lost">τρῖς</supplied></w>· <name type="deity" key="Heroes"><w lemma="ἥρως"><unclear>h</unclear>ερόεσσ<supplied reason="lost">ι</supplied><unclear>ν</unclear></w></name> <name type="genericOffering"><w lemma="ξένιος">ξένια</w></name>	
+	    						    				
+<lb xml:id="line_B7" n="B7"/><gap reason="lost" quantity="7" unit="character" precision="low"/> <name type="animal" key="goat"><w lemma="αἴξ">α<unclear>ἶ</unclear>γ<unclear>α</unclear></w></name>· <supplied reason="lost"><space quantity="1" unit="character"/></supplied> <name type="deity" key="Athena"><w lemma="Ἀθήνη"><supplied reason="lost">Ἀ</supplied>θανᾶι</w></name> <space quantity="1" unit="character"/>
+	    					
+<lb xml:id="line_B8" n="B8"/><gap reason="lost" quantity="12" unit="character" precision="low"/> <name type="animal" key="sheep"><name type="age"><w lemma="ἀμνός">ἀμ<supplied reason="lost">ν</supplied><unclear>ὰς</unclear></w></name></name>
+	    						    				
+<lb xml:id="line_B9" n="B9"/><gap reason="lost" quantity="13" unit="character" precision="low"/><orig><unclear>Θ</unclear></orig><gap reason="lost" quantity="3" unit="character" precision="low"/>
+
+	    			</ab>	
+<ab subtype="Apparatus">Apparatus
+	    				
+<lb/>Line A1: δ[εδόχθ]|αι sugg. Cabanes, Quantin, CGRN (2018), Lhôte, δ[ιατ]|ᾶι Minon ap. Cabanes, δ[έδοτ]|αι Chaniotis, δ[οῦν]|αι Rigsby.
+	    				
+<lb/>Line A2: Ἀπολλονιά[ταις] Cabanes, Quantin.
+	    				
+<lb/>Line A3: ΚΛΑΙ̣ ph., κλάρ̣[ον] Carbon, sugg. Quantin: κλά[δον] Cabanes, Rigsby.
+	    				
+<lb/>Line A4: ἀπαγόρεσε Carbon, Chaniotis, Lhôte: ἀπαγόρε(υ)σε Cabanes, Quantin; Ἀσχ̣[λα]|πιὸν Quantin, Carbon: Ἀσκ[λα]|πιὸν Cabanes.
+
+<lb/>Line A5: ΔΕΚΗΣΘΑΙ ph., δέκησθαι Cabanes, Quantin: δέκhεσθαι Chaniotis; ΚΑ Cabanes: καὶ̣ Quantin, CGRN (2018), κα[θὼς] Rigsby, κα[ὶ μίαν] Minon, κα[ρπὸν] or κα[ρπὸς] sugg. Carbon ap. Lhôte.
+	    				
+<lb/>Line A6: Η[..]ΟΛΙΑΝ ph., ἡ[μι]ολίαν Cabanes, Quantin, Chaniotis, Lhôte: Η[..]ΟΛΙΑΝ CGRN (2018).
+
+<lb/>Lines A6-8: [τρίτα]|ν ἐς αὐ̣[τὸν] κα[ὶ Μαχάονα | καὶ] Π[οδαλείριον] Minon, Π[οδαλείριον καὶ] Lhôte.
+
+<lb/>Line B1: [φιά]λ̣αν (?) Lhôte with Carbon.
+	    				
+<lb/>Lines B1-2: Διό|[ναι] Cabanes, Quantin.
+
+<lb/>Line B2: ΠΟΡΝΑ ph., πόρ(π)α[ν] Lhôte from A. Johnston: πόρνα CGRN (2018) (i.e. περόνα).
+	    				
+<lb/>Line B3: [Δὶ Ν]αίοι Quantin; ΟΙΑΣΤ̣[.]ΙΣΟ̣[.] ph.: οἵας [..]ΙΣΟ[.] Cabanes, ὄϊας [..]ΙΣ[..] Quantin, ὄϊας τ̣[ρε]ῖς CGRN (2018), οἶας [τρ]ῖς Lhôte with Minon. 
+	    		
+<lb/>Line B4: [Τυ]ρρανίοι Cabanes, [Δὶ Τυ]ρρανίοι Lhôte; Θ̣ΕΜΙΤΙ ph., Θ̣έμιτι Quantin: Θέμι(σ)τι Cabanes.
+	    				
+<lb/>Lines B5-6: οἶ[α]ς ἐνόρχα|[ς τρῖς] Carbon: οι[.]ς ἐν ὀρχά|[τοι] Cabanes, ὄϊ[α]ς ἐνόρχα|[- -] Quantin, οἶ[α]ς ἐνόρχα|[ς] CGRN (2018); ḥερόεσσ[ι]ν̣ ξένια Carbon: έροες σ[ὺ]ν Cabanes, Η̣ΕΡΟΕΣΣ[..]ΞΕΝΙΑ Quantin.
+	    				
+<lb/>Line B7: αἶ̣γα̣ Quantin, Carbon: ΑΙ τα[ῖ] Cabanes.
+	    				
+<lb/>Line B8: ἀμ[ν]ὰς̣ Carbon: ΑΜΑ[.]ΑΣ Cabanes, ΑΜ[.]ΑΣ Quantin.
+	    				
+<lb/>Line B9: Θ̣ ph., Quantin: Α[.] Cabanes.
+	    				</ab>
+	    			</div>
+	    		
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Face A</p>
+<p>God, good fortune. [...] to the citizens of Apollonia; the female seer, from the lots, proclaims that Asclepius (5) receive (or: be received) [...] and a <foreign>hemiolia</foreign>
+and [...] and [...] and [...]  </p>
+	    				
+	    				<p>Face B</p>
+<p>[...] ancient. To Diona, a vestment, a girdle, a pin. To [Zeus] Naios, an ox, [three] sheep. To [...]rhanios, an ox. To Themis (5) [...]. To Enyalios, [three] non-castrated male sheep (i.e. rams). To the heroes, gifts of hospitality. [To ...], a goat. To Athena [...] female lambs [... (number missing)...]
+	    				</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Face A</p>
+<p>Dieu, bonne fortune. [...] pour les Apolloniates; la devineresse, des lots, proclame qu'Asclépios (5) reçoive (ou : soit reçu) [...] et une <foreign>hemiolia</foreign> et [...] et  [...] et [...]</p>
+					<p>Face B</p>
+<p>[...] ancienne. Pour Dionè, un vêtement, une ceinture, une épingle. Pour [Zeus] Naios, un bovin, [trois] ovins. Pour [...]rhanios, un bovin. À Thémis (5) [...]. Pour Enyalios, [trois] moutons mâles non
+castrés (c'est-à-dire des béliers). Pour les héros, des cadeaux d'hospitalité. [Pour ...], un caprin. Pour Athéna [...] des agnelles [... (le nombre manque) ...].	</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head> 
+						
+<p>Though fragmentary, this tablet is of great interest for the study of the development of ritual norms and their forms of authority. The tablet was found together with another one, which probably exhibits the same hand, and with which it is certainly contemporary: this second tablet contains a fragment of a hymn to Asclepius, known notably from copies at Dion and Ptolemais, cf. Guarducci and the discussion in Cabanes; for an improved text of the hymn, see now Lhôte (with Carbon, Minon). The present tablet is also concerned with the cult of Asclepius in the city. The first lines of the text on Face A could preserve an official enactment of the community, though the restoration of the verb at the end of line A1 and the beginning of line A2 remains uncertain. At any rate, the substance of the text on Face A clearly derives from another source of authority than the city: a female seer (line A5) proclaims that Asclepius receive from the community a list of portions or offerings (or, less likely, be received by it, along these things). Such a list is apparently what followed in the remainder of the text on this face: elements of rather unclear import, each connected by καί.</p> 
+						
+<p>Equally intriguingly, Face B of the tablet appears to preserve a list of sacrificial prescriptions and other offerings. Yet the precise connection of both faces of the tablet is not obvious, though it is possible that Face B continues directly from face A (see Lhôte). Face B is somewhat distinct in that it concerns other deities, as well as by its style: it presents other lists, but of offerings not connected by καί. It is perhaps possible that these prescriptions were the result of another oracular consultation by the Apolloniatai or a set of supplementary rituals prescribed by the female seer. Indeed, the prescriptions on Face B display a remarkable affinity with the oracle of Dodona, especially in the very probable presence of both Diona and Zeus Naios as recipients (lines B1-2). For a study of analogous oracular responses from Dodona which contain sacrificial prescriptions, see Carbon. The inscribing of Face B is either a record of one-time offerings made at Dodona or part of an oracle which had a more long-lasting value as a ritual norm: the prescriptions will then have had an impact in shaping cultic practice at Apollonia, as Face A manifestly did or was intended to in connection with the cult of Asclepius. On the question of the impact of oracles on ritual practice in Greek cities, see again Carbon, with further refs.</p>
+						
+<p>Reports indicate that, during excavations at Apollonia in 2014, a further lead tablet was found, apparently containing another fragment of the hymn to Asclepius. This may yet shed further light on the subject of these tablets. Taken together, the tablets may have formed a dossier concerning the introduction or the further elaboration of the cult of Asclepius at Apollonia (though, as mentioned, face B of the present tablet could perhaps be of a different or ancillary character). For a complex lead tablet with a similarly bipartite character and whose interpretation is equally, though differently, problematic, see the dossier from Selinous, <ref target="CGRN_13">CGRN 13</ref>.</p> 
+						
+<p>Restorations suggested in the edition here (Carbon) incorporate and develop the efforts and suggestions of Cabanes and Quantin, as well as more recent work by Lhôte and his collaborators (2019-2020, which also include Carbon). They also hinge on the probability that very little of the tablet is now missing. Indeed, from the supplements in lines A2 and A4, it seems clear that not much is missing to the right of this face: probably space for 2-4 letters. While lines A2-5 all contain 15 preserved letters, in line A1 only the first 14 letters are secure, so the gap to the right there should be ca. 5 letters. Similarly, we would thus expect ca. 3 letters to be missing to the left of face B, and this is well confirmed by some of the more certain restorations on that side of the tablet: cf. lines B2-3.</p>
+												
+<p>Lines A1-2: The first text begins with a standard twofold invocation of the deity and good fortune; this is then probably followed by traces of a verb and by the dative plural of the local ethnic, <foreign>Apolloniatai</foreign>. An enactment formula employing the verb δ[εδόχθ]|αι, originally adopted by the CGRN (2018), remains but a possibility, since what follows is not necessarily or even apparently a decree. The suggestion of Minon in Cabanes involving the verb δ[ιατ]|ᾶι would presume a form of arbitration by the female seer, for the benefit of the Apolloniatai; this has later been set aside by Minon (2020) in favour of δ[εδόχθ]|αι. Other possibilites are equally uncertain, with Chaniotis and Rigsby thinking of something, such as the oracle, "given" or "granted" to the people of Apollonia. No definitive solution seems possible at present.</p>
+						
+<p>Line A3: On female seers, see the detailed discussion in Flower, p. 211-239, cf. also Bremmer, Hupfloher, and Dillon. It is unclear if the female ritual expert is to be seen as an unnamed "freelance" agent such as a chresmologue. She could also be identified with one of the female cult personnel from the oracular sanctuary at Dodona, who were known by various titles but never as μάντεις (see Hdt. 2.55.1, Paus. 7.21.2, 10.12.10; cf. Strabo 7.7.12; cf. also <bibl type="abbr" n="DVC">DVC </bibl> 70A, oracular selection of an ἀμφίπολος at the sanctuary); for arguments in favour of this view, see Lhôte. For the priest as a figure providing authoritative instructions concerning sacrifice, see also <ref target="CGRN_189">CGRN 189</ref> (Lykosoura), line 6 (verb missing). For a study of proclamations by priestly personnel and "embedded speech" in ritual norms, see Hitch. For the reference to lots here, see further below on line A4.</p>
+												
+<p>Line A4: If ἀπαγόρεσε were derived from ἀπαγορεύω, a verb normally denoting official and oral interdiction, we would have expected μὴ δεκήσθαι, followed then by a series of restrictions in the form
+μήδε ... μήδε or οὐδὲ ... οὐδέ, rather than with καὶ ... καὶ as the text clearly reads (for the negative sense of ἀπαγορεύω, prevalent in ritual norms, cf. <bibl type="abbr" n="NGSL">NGSL</bibl> 4, lines 7-8: ἀπαγορεύει ὁ θεός; <bibl type="abbr" n="IG II²">IG II²</bibl> 1289, lines 9-10: ἀπαγορεύει δὲ καὶ ἡ θεὸς καὶ ὁ προφήτης Καλλίστρατος; <bibl type="abbr" n="IG II²">IG II²</bibl> 1362, line 3). Chaniotis is therefore correct to reason that ἀπαγόρεσε must not have a negative sense here, as originally assumed in CGRN (2018), but only imply a public proclamation (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. ἀπαγορεύω III, citing the Code of Gortyn, where the twice recurring phrase κατ’ ἀγορὰν ... ἀπὸ το͂ λάο ὀ͂ ἀπαγορεύοντι designates a stone in the agora from which public proclamations could be made; see <bibl type="abbr" n="LAC">LAC</bibl> G72, col. 10, lines 34-36, and col. 11, lines 12-13). The form ἀπαγόρεσε still warrants an explanation, suggesting an original verb ἀπηγορέω, which must have the sense "to proclaim" (so Chaniotis; cf. the attested medio-passive ἀπηγορέομαι and see further Lhôte). The following word is to be read as a form of κλῆρος, "lot", rather than κλάδος, a "branch" (Cabanes, a view rehabilitated by Rigsby, thinking of the branch of a suppliant). It is possible that the expression hα μάντις το͂ν κλάρ̣[ον] in the preceding line is to be taken as a self-standing expression (cf. CGRN [2018]), an interpretation which Chaniotis contests, thinking instead that the female seer "approved of the lot". Paying particular attention to the verb ἀπηγορέω with its prefix ἀπ- and particularly the parallel from Gortyn cited above where the proclamation is to be made from the stone (ἀπὸ το͂ λάο), it also seems possible to interpret το͂ν κλάρ̣[ον] as a genitive of source or cause following ἀπηγορέω (cf. already CGRN [2018] for this possibility). The female seer could have made her proclamation literally "from the lots" which she had drawn; in other words, the lots, used in divination, will thus have formed the authoritative basis for her declaration to the Apolloniatai. Another line of interpretation is now suggested by Minon (2020), who thinks of lots of land rather than those used for cleromancy; in this view, the seer will have proclaimed that Asclepius receive one lot of land, with Machaon (completely restored) and Podaleirios (also completely restored) also receiving lesser shares: "la prophétesse a proclamé que, parmi les lots, Asklèpios reçoive une (part) entière, une part et demi et un tiers de part pour lui-même, Machaon et Podalire". Building on this possibility, Carbon (in Lhôte) suggests that, if that sense of κλῆρος is correct, the reference might instead be to agricultural produce derived from the lots already belonging to Asclepius. Overall, the interpretation remains difficult and problematic. See below, line A6, on the interpretation of ἡμιολία.</p>
+
+<p>Line A5: It remains somewhat uncertain whether the medio-passive δέκησθαι is to be interpreted in a middle or in a passive sense (δέκησθαι, i.e. Doric δέκεσθαι, but apparently with some hesitation for Attic δέχεσθαι; on the problematic use of the letter Η in this inscription, see above on the Date). In the former interpretation, which is likelier, the female seer will have proclaimed that Asclepius was to receive certain offerings or objects as part of his cult at Apollonia. At the end of line 5, it would thus be difficult to imagine that the apparent list which follows begins with καί (CGRN [2018]). Animals prescribed to the god might conceivably have included e.g. a boar, whether wild or domesticated, κά[προν] (for this animal, cf. <ref target="CGRN_63">CGRN 63</ref> (Lindos), line 3, <ref target="CGRN_199">CGRN 199</ref>, Delos, line 3, and <ref target="CGRN_222">CGRN 222</ref>, Andania, lines 34 and 69); or a cock, κα[λαΐδα], a sacrificial animal is attested in the cult of Apollo and Asclepius in Epidauros (cf. <ref target="CGRN_34">CGRN 34</ref>, Epidauros, lines 5 and 24; regarding the sacrifice of cocks to Asclepius, see further Edelstein - Edelstein), though rather long for the available space in the lacuna. Yet any attempt at a restoration here must remain highly tentative and the problem of what exactly Asclepius may have been intended to receive is compounded by the occurrence of an unusual ἡμιολία in the next line (see below line A6). Alternatively, if δέκησθαι were treated as passive, as Chaniotis suggests, the proclamation of the female seer will have prescribed the acceptance and the reception of the god himself. While this would well correspond to the other lead tablet bearing the hymn to Asclepius, it is less easy to reconcile with the apparent list which follows; we would have to think of the paraphernalia or accoutrements of the god during his (inaugural? ceremonial?) introduction in the city.</p>
+						
+<p>Line A6: As suggested by Cabanes, virtually the only conceivable interpretation of the traces is the word ἡμιολία. An expected form would perhaps have been h[εμι]ολίαν, but insufficient space is available in the gap for this restoration (on the inconsistent use of the letter Η in this inscription, see above on the Date). This word, literally designating a female form of a measure of "one and a half" (ἡμιόλιος), is rather puzzling. Could it designate the measure of something that Asclepius needed to receive as an offering? This is unsatisfactory since a measure of what is not specified: h[εμι]ολίαν is merely followed by another καί. Yet unless it can be a measure of lots (of land), as in Minon's view (cf. on line A4 above and see Lhôte), we would nevertheless expect the ἡμιολία mentioned here to be one of the things which needed to be received by or alongside Asclepius. This might lead us to consider the possibility that the ἡμιολία was a ship (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. ἡμιόλιος III), a light rowing vessel which the god might receive or perhaps on which the god (his statue) needed to be carried during his procession into Apollonia (compare e.g. the Panathenaic ship-on-wheels, see here <ref target="CGRN_45">CGRN 45</ref>, commentary at Face B, fr. 9, cols. 1-2; the Katagogia for Dionysus, cf. here <ref target="CGRN_176">CGRN 176</ref>, Priene, lines 21-22; and for the introduction of Asklepios into Athens on a cart, ἐφ’ ἅ̣|[ρματος] (lines 14-15), cf. <bibl type="abbr" n="SEG">SEG</bibl> 47, 232).</p>
+						
+<p>Line A7: It seems difficult to restore this passage with any certainty, which compounds the problems of interpretation of this face of the tablet; for the restoration of Minon (2020), see the app.cr. and above on line A4.</p>
+						
+<p>Line B1: Though CGRN (2018) hesitatingly proposed that the first words of this face might represent a heading (perhaps, in the genitive plural, [στα]λ̣ᾶν or [βο]λ̣ᾶν or [γνο]μ̣ᾶν ἀρχαία[ν], thus a copy excerpted "from" earlier, "ancient" documents?), it seems more probable to think that these words represent a continuation of the preceding face of the tablet. Even though Face B thereafter abandons the paratactic style of Face A, these first words might therefore be the last item (in the accusative like ἡ[μι]ολίαν) in the list of the things that Asclepius is to receive (or with which he is to be received). One may think e.g. of an "ancient" cup (compare the ancient pouring vessel, χοῦς ὁ παλαιός, which is used in each festival of the Molpoi at Miletus, <ref target="CGRN_201">CGRN 201</ref>, lines 21-22); for a discussion of the terms ἀρχαῖος and παλαιός, see Casevitz.</p>
+						
+<p>Line B2: The offerings listed for Diona do not include any sacrifices but are presumably to be used to clothe and adorn a statue of the goddess during the ritual; for similar rites, cf. here <ref target="CGRN_24">CGRN 24</ref> (Athens), line 11. This would seem to imply that the offerings (and those which follow) were to be made at Dodona, where such a statue was located; if in Apollonia itself, then we must presume that a cult of Diona had been inaugurated there. In the slip ΠΟΡΝΑ, the cutter appears to have anticipated the final nu and replaced the expected pi with it; some confusion with περόνη, Doric περόνα, another word for a pin or brooch, is also possible (cf. CGRN [2018]).</p>
+						
+<p>Line B3: The reading οἶας "sheep" is to be preferred to Cabanes’ οἵας, "from which..."; sheep are also found as a sacrificial offering in line B5. The combination of an ox with the sacrifice of three sheep, as restored here, represents a highly significant offering and probably the most substantial sacrifice in this list. For the combination, compare the sacrifice to Athena Hellotis in Hekatombaion in the Marathonian Tetrapolis, <ref target="CGRN_56">CGRN 56</ref>, col. II, lines 35-36 (also including a piglet); and to Zeus Machaneus during the Karneia on Kos, <ref target="CGRN_86">CGRN 86</ref> D, lines 14-15.</p>
+						
+<p>Line B4: As Cabanes suggests (though originally thinking of an ethnic), [Τυ]ρρανίοι̣ is a possible restoration, likely denoting an epithet of Zeus (or perhaps with Zeus remaining implicit, following the mention of Zeus Naios in line B3). Lhôte draws a connection between the Corinthians and the region of Tyrrhenia on the basis of Str. 8.6.20, but this does not really elucidate how a Zeus Tyrrhenios—even if his cult was instituted in Corinthian colonies, which remains unknown—might belong in a list of deities prescribed by the seer or the oracle of Dodona; cf. also perhaps Zeus Tyrannos, albeit very uncertainly read in a much later inscription from Dorylaion (<bibl type="abbr" n="MAMA V">MAMA V</bibl> 11). At any rate, the epithet is unattested and the trace of an omicron in the previous line appears incompatible with the suggested restorations of Cabanes and Lhôte.</p>
+												
+<p>Lines B5-6: At the beginning of line B5, we have a small lacuna for the offering to Themis, who is mentioned in line B4. Given the available space of ca. 3 letters, this is likely to have been an ox (or cow) or a sheep (or ewe): [βο̑ν] or [οἶν]. There is some space (ca. 4-5 letters) available at the beginning of line B6 and we would expect to find there a number to quantify the male, non-castrated sheep (i.e. rams) offered to Enyalios. One could perhaps restore any number, but the number "three" is compelling here (as in line B3): a triple sacrifice, called τρίκτειρα, was apparently a common form of sacrifice for Enyalios and this appropriately is said to consist of three non-castrated animals (cf. Hsch s.v. τρίκτειρα· θυσία Ἐνυαλίῳ, θύεται δὲ πάντα τρία καὶ ἔνορχα; for some discussion of this type sacrifice, in the context of the sacrifice of a boar, a dog, and a kid to Enyalios at Lindos, cf. Gonzales, p. 133-134). For the Epic/poetic spelling of the heroes found here, cf. <ref target="CGRN_13">CGRN 13</ref> (Selinous), line A10: hόσπερ τοῖς hερόεσ(σ)ι. For ξένια and other analogous rites of hospitality (ξένισμος, <foreign>theoxenia</foreign>) offered to heroes, see again the tablet from Selinous, <ref target="CGRN_13">CGRN 13</ref>, face A, as well as the following: <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 13-24; <ref target="CGRN_96">CGRN 96</ref> (Kos), lines 61-62 and 110; and <ref target="CGRN_102">CGRN 102</ref> (Athens), line 15.</p>
+						
+<p>Line B7: As an alternative, the restoration αἶ̣γα̣[ς] is not impossible, but the space in the lacuna is limited and one would have expected the number of goats to have been precisely quantified (see line B3). Accordingly, it seems preferable to think of a singular goat. Since approximately 7 or 8 letters are missing in the gap to the left, we could plausibly think of either [Ἀρτέμιτι] or [Διονύσοι], both of which would fit the lacuna well. These are two deities who are especially frequently the recipients of goats; for Artemis, see e.g. <ref target="CGRN_8">CGRN 8</ref> (Eleusis), line 4; for Dionysus, cf. here <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 33-35; <ref target="CGRN_146">CGRN 146</ref> (Phyxa), lines 4-6.</p>
+						
+					</div>
+			</body>
+    	</text>
+	</TEI>

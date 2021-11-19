@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_38" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>CGRN 38</idno>: Two <rs type="textType" key="decree">decrees</rs> concerning the priesthood of Ilithyia at Chios</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+                    
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    
+                                    <p><rs type="objectType">Block</rs> of grey marble. Broken on the upper left and lower right side of the inscribed face.</p>
+                                    
+                                    <p><dimensions>
+                                        <height unit="cm">58</height>
+                                        <width unit="cm">48.5</width>
+                                        <depth unit="cm">25</depth>
+                                    </dimensions></p>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><p>Letters are rather difficult to read due to advanced attrition. Stoichedon.</p>
+                                    
+                                    <p>Letters: <height unit="cm">1.3</height>, space between lines: <height unit="cm">0.3</height></p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            
+                            <p><origDate notBefore="-0425" notAfter="-0375">ca. 400 BC</origDate></p>
+                            
+                            <p>
+                                <desc>Justification: spelling, use of formulas (Koumanoudis - Matthaiou 1985) </desc></p>
+                        </origin>
+                        <provenance><p><placeName type="ancientFindspot" key="Chios" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/550497" type="external">Chios</ref></placeName>. Found at Myloi Kastellou. Now in the Chios Archaeological Museum (inv. no. 3569).</p>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            
+            <p>Encoded for EpiDoc schema 8.17 on 01-07-2014 by S. Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="x">
+            <desc/>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="bibliography">
+                <head>Bibliography</head>
+                
+                
+                <p> Edition here based on Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 20, with <bibl type="author_date" n="Carbon 2005">Carbon 2005</bibl> and <bibl type="author_date" n="Carbon 2016a">Carbon 2016a</bibl>: 40-41 for the beginning of line A8; <bibl type="author_date" n="Carbon 2016a">Carbon 2016a</bibl>: 40-41 for line A12. A new edition by Malouchou and Matthaiou is in preparation.</p>
+                
+                
+                <p> Other edition: <bibl type="author_date" n="Koumanoudis - Matthaiou 1985">Koumanoudis - Matthaiou 1985</bibl>.</p>
+                
+                
+                <p> Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 35, 923.</p>
+                
+                <p>Further bibliography: <bibl type="author_date" n="Casabona 1966">Casabona 1966</bibl>: 11-12; 
+                    <bibl type="author_date" n="Osborne 1993">Osborne 1993</bibl>: 402; 
+                    <bibl type="author_date" n="Van Straten 1995">Van Straten 1995</bibl>; 
+                    <bibl type="author_date" n="Ekroth 2008a">Ekroth 2008a</bibl>; 
+                    <bibl type="author_date" n="Pirenne-Delforge - Pironti 2013">Pironti - Pirenne-Delforge 2013</bibl>. </p>
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab subtype="text" n="A">Decree A 
+                    
+<lb xml:id="line_A1" n="A1"/><gap reason="lost" quantity="9" unit="character"/> <w lemma="γνώμη"><supplied reason="lost">γν</supplied><unclear>ώ</unclear>μη</w>· <name type="personnel"><w lemma="ἱέρεια"><unclear>ἱ</unclear><supplied reason="lost">ε</supplied>ρέ<supplied reason="lost">αι</supplied></w></name> <name type="deity" key="Ilithyia"><w lemma="Εἰλείθυια"><supplied reason="lost">Ἐλει</supplied>
+                        
+<lb xml:id="line_A2" n="A2" break="no"/> <supplied reason="lost">θίη</supplied>ς</w></name>· <w lemma="ἐπάν">ἐ<supplied reason="lost">π</supplied><unclear>ὴν</unclear></w> <unclear>ἡ</unclear> <name type="group"><w lemma="πόλις">πόλις</w></name> <w lemma="ποιέω">ποιῇ</w>, <w lemma="γίγνομαι"><unclear>γί</unclear><supplied reason="lost">ν</supplied><unclear>ε</unclear>σθ 
+                            
+ <lb xml:id="line_A3" n="A3" break="no"/><supplied reason="lost">αι</supplied></w> <w lemma="παρά">παρὰ</w> το̑ <name type="personnel"><w lemma="ἀγωγός"><unclear>ἀ</unclear>γωγ<supplied reason="lost">ο̑</supplied></w></name> <name type="vegetal"><w lemma="ἄλφιτον">ἀλφίτων</w></name> <w lemma="ἡμιέκτεων">ἡμυσ 
+                                
+<lb xml:id="line_A4" n="A4" break="no"/><unclear>υ</unclear>κτέως</w>, <name type="vegetal"><w lemma="σῖτος"><supplied reason="lost">σ</supplied>ί<supplied reason="lost">τ</supplied>ο</w></name> <w lemma="ἡμίεκτον">ἡμίε<unclear>κ</unclear>τον</w>· <w lemma="ἐάν">ἢν</w> δὲ <name type="person"><w lemma="ἰδιώτης">ἰδ 
+                                    
+<lb xml:id="line_A5" n="A5" break="no"/> ιώτης</w></name> <w lemma="ποιέω">ποι<supplied reason="lost">ῇ</supplied></w>, <name type="portion"><w lemma="δίδωμι">δίδοσθαι</w></name> <w lemma="ἀπό">ἀπὸ</w> το̑ <name type="sacrifice"><w lemma="ἱερός">ἱ<unclear>ε</unclear>
+                                        
+<lb xml:id="line_A6" n="A6" break="no"/><unclear>ρ</unclear><supplied reason="lost">ο̑</supplied></w></name>, <w lemma="ὥστε">ὥστε</w> <w lemma="εἰς">ἐ<unclear>ς</unclear></w> <supplied reason="lost">τὸ</supplied> <name type="object"><w lemma="λίκνον"><unclear>λ</unclear><supplied reason="lost">ί</supplied>κνον</w></name> <name type="genericOffering"><w lemma="ἐντίθημι">ἐνθεῖ<supplied reason="lost">ν</supplied>αι</w></name>, 
+                    
+<lb xml:id="line_A7" n="A7"/> <name type="portion"><w lemma="μοῖρα"><supplied reason="lost">μ</supplied><unclear>ο</unclear>ῖραν</w></name> καὶ <name type="portion"><w lemma="γέρας">γέρας</w></name> καὶ <name type="portion"><w lemma="γλῶσσα">γλῶσσαν</w></name>· 
+
+<lb xml:id="line_A8" n="A8"/> <w lemma="οὗτος"><unclear>ταῦτα</unclear></w> δὲ <name type="meal"><w lemma="ἀναλίσκω">ἀνα<unclear>λ</unclear><supplied reason="lost">ί</supplied>σκεσθαι</w></name> <w lemma="αὐτοῦ">αὐτο̑</w> <w lemma="μετά">μ 
+    
+    <lb xml:id="line_A9" n="A9" break="no"/> <supplied reason="lost">ε</supplied>τὰ</w> τῶν <name type="person"><w lemma="γυνή">γυναικῶν</w></name> τῶν <name type="sacrifice"><w lemma="ποιέω">π<supplied reason="lost">ο</supplied>ι<supplied reason="lost">η</supplied>σασ 
+        
+        <lb xml:id="line_A10" n="A10" break="no"/> έ̣<supplied reason="lost">ων</supplied></w></name> τὰ <name type="sacrifice"><w lemma="ἱερός">ἱ<unclear>ρ</unclear>ά</w></name>· <w lemma="εἰμί">εἶν<unclear>αι</unclear></w> <supplied reason="lost">δὲ</supplied> <w lemma="αὐτός">ταὐτὰ</w> <w lemma="οὗτος">τ<unclear>α</unclear>ῦτ 
+            
+            <lb xml:id="line_A11" n="A11" break="no"/> <unclear>α</unclear></w> <unclear>κα</unclear>ὶ <w lemma="ὅταν">ὅταν</w> <name type="structure"><w lemma="ἱερός">ἱρὸν</w></name> <name type="purification"><w lemma="καθαίρω">καθαιρέωσιν</w></name> κ 
+
+<lb xml:id="line_A12" n="A12" break="no"/> <unclear>αὶ</unclear> <name type="sacrifice"><name type="liquid"><w lemma="σπονδή"><unclear>σ</unclear>π<unclear>ον</unclear>δ<unclear>ὰς</unclear></w></name></name> <w lemma="ποιέω">π<unclear>ο</unclear><supplied reason="lost" cert="low">ιέωνται</supplied></w>. <space quantity="6" unit="character"/> </ab>
+                <ab subtype="text" n="B">Decree B 
+
+<lb xml:id="line_B1" n="B1"/> <w lemma="ἐπί">ἐπὶ</w> Π<supplied reason="lost">ερ</supplied>ικλέος· <name type="month"><w lemma="Λευκαθεών">Λε<supplied reason="lost">υ</supplied>κ<unclear>αθ</unclear>εῶνος</w></name> <w lemma="ὄγδοος"><unclear>ὀ</unclear> 
+    
+    <lb xml:id="line_B2" n="B2" break="no"/> γδ<unclear>ό</unclear><supplied reason="lost">ηι</supplied></w>· <supplied reason="lost">ἡ</supplied> <name type="group"><w lemma="βουλή">βουλὴ̣</w></name> <w lemma="γιγνώσκω"><unclear>ἔ</unclear>γν<supplied reason="lost">ω</supplied></w> <name type="personnel"><w type="βασιλεύς"><unclear>βα</unclear>σιλέων</w></name> <w lemma="ψῆφος">ψ 
+        
+        <lb xml:id="line_B3" n="B3" break="no"/> ῆφον</w> <w lemma="τίθημι"><unclear>θε</unclear><supplied reason="lost">μ</supplied><unclear>έ</unclear>ν<supplied reason="lost">ω</supplied>ν</w>· <supplied reason="lost">τ</supplied><unclear>ῆι</unclear> <name type="personnel"><w lemma="ἱέρεια"><unclear>ἱερ</unclear>έ<unclear>α</unclear>ι</w></name> τῆς <name type="deity" key="Ilithyia"><w lemma="Εἰλείθυια"><unclear>Ἐ</unclear> 
+            
+            <lb xml:id="line_B4" n="B4" break="no"/> <unclear>λ</unclear>ειθί<unclear>ης</unclear></w></name>, <w lemma="ὅταν"><supplied reason="lost">ὅ</supplied>τ<unclear>αν</unclear></w> <unclear>ἡ</unclear> <name type="group"><w lemma="πόλις">πόλις</w></name> <name type="sacrifice"><w lemma="ποιέω">π<supplied reason="lost">ο</supplied><unclear>ῆ</unclear>ι</w></name>, <w lemma="γίγνομαι">γ<supplied reason="lost">ίν</supplied> 
+                
+                <lb xml:id="line_B5" n="B5" break="no"/> εσθαι</w> <name type="authority">τ<unclear>ὰ</unclear> <w lemma="ἐν"><unclear>ἐν</unclear></w> <supplied reason="lost">τ</supplied>ῆι <objectType key="stele"><w lemma="στήλη">στήληι</w></objectType> <w lemma="γράφω"><supplied reason="lost">γ</supplied><unclear>ε</unclear><supplied reason="lost">γ</supplied>ρα<supplied reason="lost">μ</supplied> 
+
+<lb xml:id="line_B6" n="B6" break="no"/> <unclear>μ</unclear>έ<unclear>να</unclear></w></name> κα<supplied reason="lost">ὶ</supplied> <w lemma="ἀπό">ἀπ<unclear>ὸ</unclear></w> <supplied reason="lost">τ</supplied>οῦ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱε<unclear>ρέ</unclear><supplied reason="lost">ο</supplied><unclear>υ</unclear></w></name> <name type="portion"><w lemma="ἀποδίδωμι"><supplied reason="lost">ἀ</supplied><unclear>πο</unclear>δ<supplied reason="lost">ό</supplied> 
+    
+    <lb xml:id="line_B7" n="B7" break="no"/> σ<supplied reason="lost">θ</supplied>αι</w></name> <name type="portion"><w lemma="κεφαλή"><supplied reason="lost">κ</supplied><unclear>ε</unclear>φ<unclear>α</unclear>λήν·</w></name> <w lemma="ἐάν"><unclear>ἢ</unclear><supplied reason="lost">ν</supplied></w> <unclear>δὲ</unclear> <name type="person"><w lemma="ἰδιώτης">ἰ<supplied reason="lost">δ</supplied><unclear>ιώ</unclear><supplied reason="lost">τ</supplied><unclear>ης</unclear></w></name> <w lemma="ποιέω"><unclear>π</unclear><supplied reason="lost">ο</supplied> 
+        
+        <lb xml:id="line_B8" n="B8" break="no"/> <unclear>ιῆ</unclear>ι</w>, <w lemma="γίγνομαι">γί<unclear>νε</unclear>σ<unclear>θ</unclear>αι</w> <w lemma="αὐτός">αὐτ<unclear>ῆι</unclear></w> <name type="authority">τὰ <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τ</supplied><unclear>ῆ</unclear>ι <objectType key="stele"><w lemma="στήλη"><unclear>σ</unclear> 
+            
+            <lb xml:id="line_B9" n="B9" break="no"/> τήλη<unclear>ι</unclear></w></objectType> <w lemma="γράφω"> <unclear>γ</unclear>εγ<unclear>ρ</unclear>αμμ<unclear>έ</unclear>ν<unclear>α</unclear></w></name>· <w lemma="ἐάν"><unclear>ἢ</unclear><supplied reason="lost">ν</supplied></w> <supplied reason="lost">δέ</supplied> <w lemma="τις"><supplied reason="lost">τ</supplied>ι</w> <w lemma="ἄλλος"> <unclear>ἄ</unclear><supplied reason="lost">λλ</supplied> 
+                
+                <lb xml:id="line_B10" n="B10" break="no"/> ο</w> <w lemma="λαμβάνω">λ<unclear>ά</unclear>β<unclear>η</unclear>ι</w>, <name type="punishment"><w lemma="ζημιόω"><supplied reason="lost">ζ</supplied><unclear>ημ</unclear>ι<unclear>ο</unclear>ῦσ<unclear>θ</unclear><supplied reason="lost">α</supplied>ι</w></name>, <w lemma="ὡς"><supplied reason="lost">ὡ</supplied><unclear>ς</unclear></w> <unclear>ο</unclear><supplied reason="lost">ἱ</supplied> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost" cert="low">θύον</supplied> 
+
+<lb xml:id="line_B11" n="B11" break="no"/> τες</w></name> τὰ <name type="animal" key="generic"><w lemma="ἱερεῖον"><supplied reason="lost">ἱε</supplied><unclear>ρ</unclear><supplied reason="lost">ε</supplied>ῖ<supplied reason="lost">α</supplied></w></name>· <w lemma="οὗτος"><unclear>ταῦτ</unclear>α</w> <supplied reason="lost">δὲ</supplied> <w lemma="προσγράφω"><supplied reason="lost">προσ</supplied>γ<supplied reason="lost">ρ</supplied> 
+    
+    <lb xml:id="line_B12" n="B12" break="no"/> ά<unclear>ψ</unclear>αι</w> <w lemma="πρός">πρὸς</w> τὴ<supplied reason="lost">ν</supplied> <objectType key="stele"><w lemma="στήλη">στ<unclear>ή</unclear>λη<unclear>ν</unclear></w></objectType> <w lemma="παρά"><supplied reason="lost">παρὰ</supplied></w> <supplied reason="lost">τῶι</supplied> 
+
+<lb xml:id="line_B13" n="B13"/> <name type="deity" key="Hera"><name type="structure"><w lemma="Ἡραῖος"><supplied reason="lost">Ἡ</supplied><unclear>ρα</unclear>ίωι</w></name></name>· <w lemma="ἐπιμελέομαι">ἐπιμεληθῆναι</w> <supplied reason="lost">δὲ το</supplied><unclear>ὺ</unclear><supplied reason="lost">ς</supplied> 
+
+<lb xml:id="line_B14" n="B14"/> <name type="personnel"><w lemma="ἱεροποιός"><supplied reason="lost">ἱε</supplied><unclear>ρ</unclear>οποιοὺς</w></name> <orig>ΑΝΤΙ</orig><gap reason="lost" quantity="1" unit="character"/><orig>Ν</orig><gap reason="lost" quantity="8" unit="character"/> 
+
+<lb xml:id="line_B15" n="B15"/> <space extent="unknown" unit="line"/> </ab> 
+            </div> 
+            <div type="translation" xml:lang="eng"> 
+                <head>Translation</head> 
+                
+                <p>Decree A</p> 
+                <p>Decree of [...] (concerning?) the priestess of Ilithyia. Whenever the city performs (a sacrifice), she shall receive from the leader a <foreign>hemiekteus</foreign> of [grain] of (= for) a <foreign>hemisykteus</foreign> of barley groats. If a private (5) person performs (a sacrifice), a portion, a honorific portion, and the tongue shall be given from the sacrificial animal, so as to be placed in the sacred basket. These shall be consumed on the spot in the company of the women who performed the rites. (10) The same rules shall be also in effect when one will purify the sanctuary and perform libations.</p>
+                
+                <p>Decree B</p>
+                <p>Under Pericles; on the 8th of Leukatheon; the council decreed; the <foreign>basileis</foreign> put the matter to the vote: Whenever the city performs (a sacrifice), the priestess of Ilithyia shall receive whatever is (5) inscribed on the (present) stele, and the head of the sacrificial animal shall also be given to her. If a private person performs (a sacrifice), she shall receive whatever is inscribed on the stele. If she (10) takes something else, she shall be fined, [as those sacrificing the animals (?)]. This shall be written in addition on the (same) stele [at the] Heraion. The <foreign>hieropoioi</foreign> shall take care [...]</p>
+                <p>(translation slightly adapted from Lupu <bibl type="abbr" n="NGSL">NGSL</bibl> 20).</p>
+            </div> 
+            <div type="translation" xml:lang="fre"> 
+                <head>Traduction </head> 
+                
+                <p>Décret A</p> 
+                <p>Décret [...] (à propos ?) de la prêtresse d'Ilithyie. Quand la cité accomplit (un sacrifice), elle doit recevoir de celui qui le conduit un demi-setier de grains pour (?) un demi-setier de farine d'orge. Si un (5) particulier accomplit (un sacrifice), une portion et une part d'honneur ainsi que la langue prélevées sur l'animal sacrificiel doivent être données, de sorte qu'elles soient déposées dans le panier sacré. La consommation doit avoir lieu sur place avec les femmes qui ont accompli les rites. (10) Ce sera également le cas quand on purifiera le sanctuaire et que l'on accomplira des libations.</p>
+                
+                <p>Décret B</p>
+                <p>Sous Périclès, le 8 Leukatheon. Le conseil a décrété, les <foreign>basileis</foreign> ayant mis au vote. Quand la cité accomplit (un sacrifice), la prêtresse d'Ilithyie doit recevoir ce qui est (5) écrit sur cette stèle et la tête de l'animal sacrificiel doit également lui être donnée. Si un particulier accomplit (un sacrifice), elle doit recevoir ce qui est inscrit sur cette stèle. Si elle (10) prend autre chose, elle doit être mise à l'amende [comme ceux qui sacrifient les animaux (?)]. Que cela soit ajouté à la stèle [au] sanctuaire d'Héra. Les hiéropes doivent s'occuper de [...] </p>
+                
+            </div> <div type="commentary"> 
+                <head>Commentary</head> 
+                <p>These two decrees concern the prerogatives of the priestess of Ilithyia on Chios in the case of public and private sacrifice. This appears to be the only Greek ritual norm about the cult of Ilithyia, although her cult was fairly widely attested (Lupu, p. 306). The second decree (B), judging from its letters, is somewhat but not much later (Koumanoudis - Matthaiou, p. 109). According to decree B, the priestess' prerogatives will be those "written on the stele" (evidently the first decree, A) plus, in the case of public sacrifice, the head of the animal. Moreover, the decree adds that the priestess will be punished if she takes more than her due. Apparently decree A (in which the priestess just receives some grains from public sacrifices) was not to the satisfaction of everyone, and this first set of rules may have caused some problems. We can presume that decree B was added to answer these concerns.</p>
+                
+                <p>Line A2: On the use of ποιέω for making sacrifice, cf. Casabona, p. 11-12.</p>
+                
+                <p>Line A3: The ἀγωγός is not attested elsewhere. As Koumanoudis and Matthaiou suggest, the name of this functionary suggests this person probably led the animal to the altar as part of his duties. Why he should be the one that hands over the priestess' prerogative is not clear, nor are his other duties. </p>
+                
+                <p>Line A6: As Lupu (p. 308) well explains, the λίκνον was an oval wickerwork basket that functioned in marriage rites and was sometimes used as a cradle for babies. Its connection to marriage and childbirth makes its appearance in the cult of Ilithyia understandable and it could have served here as an apt replacement to a τράπεζα in the deposition of sacrificial portions. Cf. below on lines B12-13.</p>
+                
+                <p>Line A7: The γέρας (a common term for the prerogative of the priest) could be money or a part of the animal. Here the phrase ἀπὸ̣ [τ]οῦ ἱερ̣έ̣[ο]υ̣ strongly suggests that it was a part of the animal. We infer that the Chians would know what the priestess' γέρας consisted of, without spelling this out. Likely candidates are common priestly dues like a thigh, a leg and/or the skin. On the γέρας in Chios, cf. <ref target="CGRN_88">CGRN 88</ref>. The μοῖρα, listed separately, probably refers to one portion in the division of the meat for all worshippers made after the honorary parts for the priestess were deducted. Note that the procedure (with the priestess receiving both a γέρας and a μοῖρα) is equalising and differentiating or non-equalizing at the same time (on this cf. Ekroth).</p>
+                
+                <p>Lines A8-10: For the phrase ταῦτα δὲ ἀναλίσκεσθαι αὐτο̑, cp. <ref target="CGRN_130">CGRN 130</ref> (Kamiros), lines 13-14. Prohibitions against carrying away sacrificial meat and injunctions to eat it on the spot occur with some regularity (cf. Van Straten, p. 145), but this is a rare case that concerns such instant consumption of priestly prerogatives. The rule that one should do so μετὰ τῶν γυναικῶν τῶν π[ο]ι[η]σασέ̣ων τὰ ἱρά has been interpreted as stipulating the exceptional shared consumption of the perquisites by priestess and attending female worshippers alike (Osborne, p. 402), which would at the same time imply that women did share in the sacrificial meat. Indeed, Lupu (ad loc.) showed that ποιεῖν τὰ ἱερά is used in Chian inscriptions of worshippers sacrificing (e.g. <ref target="CGRN_36">CGRN 36</ref>, lines 7-11). But it is difficult to understand such a regulation: the idea of the priestess having to share her prerogative with the public seems self-contradictory (cf. Lupu). In Lupu’s view, the γυναῖκες may also be members of the sanctuary’s staff, and he adduces evidence for personnel in this cult of Ilithyia. But the aorist aspect of ποιησασέων seems to preclude the reading of γυναῖκες as female cult personnel. If the decree had referred to those women who, on a regular, iterative basis made the sacrifice, we would have expected a present. Taken at face value, the phrase τῶν γυναικῶν τῶν π[ο]ι[η]σασέ̣ων τὰ ἱρά seems to suggests, interestingly, that the female participants are the ones making the sacrifices (having been led to the sanctuary by the agogos). It seems that the priestess had to eat her perquisites in the company of (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. μετά A(I), "in the midst of") the female worshippers present, but not share it with them. μ|[ε]τὰ τῶν γυναικῶν τῶν π[ο]ι[η]σασ|έ[ων] τὰ ἱρά is a further clarification of τάδε ἀναλ[ί]σκεσθαι αὐτο̑, intended to make sure that consumption "there and then" is understood. For ordinary worshippers, eating ‘on the spot’ entails they eat at the sanctuary, during the ritual events. But the priestess might have stayed ‘on the spot’ even after all the others had gone home. The stipulation "μετα τῶν γυναικῶν" states that the priestess has to eat during the ceremony, not afterwards. This makes sense given what we know about “eating on the spot rules”. The obligatory communal consumption of all the meat seem to have something to do with reinforcing a ritual, strengthening the ties between the human and divine world. If the point of the ‘eating on the spot’ rule in this inscription is to give extra significance to the ritual, too, it makes sense that it explicitly prescribes for the priestess to eat ‘on the spot’ in the company of the other women having their meal, not when everyone else has gone home. For other instances of consumption "on the spot", see e.g. <ref target="CGRN_52">CGRN 52</ref> (Erchia), <foreign>passim</foreign>, and <ref target="CGRN_32">CGRN 32</ref> (Thorikos), with commentary on lines 10-12.</p>
+                
+                <p>Lines A10-12: In the interpretation of καθαιρέωσιν as a form of καθαιρέω ("to take down") with the sense "to slaughter an animal" (adopted by Lupu, cf. also <bibl type="abbr" n="LSJ">LSJ</bibl> II: dramatic usage of this verb) the implied contrast with the two preceding sacrificing entities (<foreign>polis</foreign> and individual) is not clear. Accordingly, we prefer to interpret this as καθαίρωσιν (from καθαίρω, "to purify"). The sanctuary would be the Heraion (B 13). This interpretation presumes that both in the case of a purification of the sanctuary and in the case of a libation, sacrifices are performed (from which portions and perquisites can be taken).</p>
+                
+                <p>Line B5: Evidently the stele on which these decrees have been found.</p>
+                
+                <p>Line B7: The head was a fairly common priestly prerogative. For further discussion, cf. Lupu, p. 312-313.</p>
+                
+                <p>Lines B10-11: The restoration [ὡ]ς̣ ο̣[ἱ θύον]|τες τὰ [ἱε]ρ̣[ε]ῖ[α] is uncertain and it is difficult to see its sense. The priestess is fined, "just as those who make the sacrifice". If correct, this might mean two different things. First, οἱ θύοντες with present aspect would refer to those performing the sacrifice: butchers? (but contrast τῶν γυναικῶν τῶν π[ο]ι[η]σασέ̣ων τὰ ἱρά, lines A8-10, where it seems that the women sacrifice). According to Koumanoudis - Matthaiou, p. 109-110, the decree would point to another law (which we do not have in our possession) punishing butchers who took a part of the animal not assigned to them. In an alternative interpretation, the text means to say that if the priestess takes more than her due, the butchers (who should keep an eye out) will be punished along with her. But it is possible that we have to reconsider the restorations altogether.</p>
+                
+                <p>Lines B12-13: Ilithyia was a daughter of Zeus and Hera. On the cultic connections cf. Lupu, p. 315, and Pironti - Pirenne-Delforge. </p>
+            </div>       </body>   </text>
+</TEI>

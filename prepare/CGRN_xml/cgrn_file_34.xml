@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_34" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 34</idno>: Two <rs type="textType" key="sacrificial regulation">sacrificial regulations</rs> for Apollo and Asclepius in Epidauros</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> <rs type="objectType" key="stele">Stele</rs> of white marble, broken above and below. </p>
+		
+	<p><dimensions>
+		<height unit="cm">51</height>
+		<width unit="cm">max. 67</width>
+		<depth unit="cm">17</depth>
+	</dimensions></p>
+			
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Stoichedon 19. </p>
+			<p>Letters: <height unit="cm">1.5</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0425" notAfter="-0400">end of 5th century BC</origDate></p>
+							
+							<p><desc>Justification: lettering (Ziehen)</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Epidauros" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570127" type="external">Epidauros</ref></placeName>. Found in the sanctuary of Asclepius, in a new wall of the temple, still <foreign>in situ</foreign>.</p>
+		</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by JM Carbon in 30.01.2019.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG IV².1">IG IV².1</bibl> 40.</p>
+	    			<p> Other edition: Fraenkel <bibl type="abbr" n="IG IV">IG IV</bibl> 914.</p>
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 54; 
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 60; 
+	    				<bibl type="author_date" n="Edelstein - Edelstein 1945">Edelstein - Edelstein 1945</bibl>: nos. 561-562.
+	    			</p>
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Meister 1899">Meister 1899</bibl>: 154;
+	    				<bibl type="author_date" n="Stengel 1910">Stengel 1910</bibl>: 136 n. 3.
+	    			</p>   
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	    	
+<lb xml:id="line_1" n="1"/> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">τἀπόλλονι</supplied></w></name> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύεν</supplied></w></name> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βο̑ν</supplied></w></name> <name type="gender"><w lemma="ἄρσην"><supplied reason="lost">ἔρσ</supplied>
+	    					
+<lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">ενα</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="structure"><name type="epithet" key="Homonaos"><w lemma="ὁμόναος"><supplied reason="lost">hομονάοις</supplied></w></name></name> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βο̑ν</supplied></w></name> <name type="gender"><w lemma="ἄρσην"><supplied reason="lost">ἔ</supplied>
+	    						
+<lb xml:id="line_3" n="3" break="no"/><supplied reason="lost">ρσενα</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <supplied reason="lost">τ</supplied>οῦ <name type="structure"><w lemma="βωμός">β̣<supplied reason="lost">ομοῦ</supplied></w></name> <supplied reason="lost">τοῦ</supplied>
+	    				
+<lb xml:id="line_4" n="4"/> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλο<supplied reason="lost">νο</supplied>ς</w></name> <w lemma="οὗτος">τ̣α<supplied reason="lost">ῦτα</supplied></w> <name type="sacrifice"><w lemma="θύω">θ<supplied reason="lost">ύεν</supplied></w></name> <supplied reason="lost">κ</supplied>
+	    				
+<lb xml:id="line_5" n="5" break="no"/>αὶ <name type="animal" key="bird"><name type="gender"><w lemma="κάλαϊς">καλαΐδα</w></name></name> τᾶι <name type="deity" key="Leto"><w lemma="Λητώ">Λατοῖ</w></name> κα
+	    				
+<lb xml:id="line_6" n="6" break="no"/>ὶ <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">τἀρτάμιτι</w></name> <w lemma="ἄλλος">ἄλλαν</w>, <name type="genericOffering"><name type="portion"><w lemma="φερνή">φερν
+	    					
+<lb xml:id="line_7" n="7" break="no"/>ὰν</w></name></name> <name type="deity" key="Apollo">το̑ι <w lemma="θεός">θιο̑ι</w></name> <name type="vegetal"><w lemma="κριθή">κριθᾶν</w></name> <w lemma="μέδιμνος">μέδι
+	    						
+<lb xml:id="line_8" n="8" break="no"/>μμνον</w>, <name type="vegetal"><w lemma="σπυρός">σπυρο̑ν</w></name> <w lemma="ἡμιμέδιμνον">hεμίδιμμ
+	    							
+<lb xml:id="line_9" n="9" break="no"/>νον</w>, <name type="liquid"><w lemma="οἶνος">οἴνου</w></name>  <w lemma="ἡμίτεια">hεμίτειαν</w> κα
+	    				
+<lb xml:id="line_10" n="10" break="no"/>ὶ τὸ <name type="portion"><w lemma="σκέλος">σκέλος</w></name> τοῦ <name type="animal" key="ox"><w lemma="βοῦς">βοὸς</w></name> το
+	    				
+<lb xml:id="line_11" n="11" break="no"/>ῦ <name type="quality"><w lemma="πρότερος">πράτου</w></name>, τὸ δ’ <w lemma="ἕτερος">ἅτερον</w> <name type="portion"><w lemma="σκέλος">σκέ
+	    					
+<lb xml:id="line_12" n="12" break="no"/>λος</w></name> τοὶ <name type="personnel"><w lemma="ἱερομνήμων">ἱαρομνάμονες</w></name>
+	    				
+<lb xml:id="line_13" n="13"/> <w lemma="φέρω">φερόσθο</w>· τοῦ <name type="quality"><w lemma="δεύτερος">δευτέρου</w></name> <name type="animal" key="ox"><w lemma="βοῦς">β
+	    					
+<lb xml:id="line_14" n="14" break="no"/>οὸς</w></name> τοῖς <name type="title"><w lemma="ἀοιδός">ἀοιδοῖς</w></name> <w lemma="δίδωμι">δόντο</w>
+	    				
+<lb xml:id="line_15" n="15"/> τὸ <name type="portion"><w lemma="σκέλος">σκέλος</w></name>, τὸ δ’ <w lemma="ἕτερος">ἅτερον</w> <name type="portion"><w lemma="σκέλος">σκ
+	    					
+<lb xml:id="line_16" n="16" break="no"/>έλος</w></name> τοῖς <name type="title"><w lemma="φρουρός">φρουροῖς</w></name> <w lemma="δίδωμι">δόν
+	    						
+<lb xml:id="line_17" n="17" break="no"/>το</w> καὶ <name type="portion"><w lemma="ἐνδοσθίδια">τἐνδοσθίδια</w></name>. <space quantity="1" unit="character"/>
+	    				
+<lb xml:id="line_18" n="18"/> <space quantity="1" unit="line"/> 
+	    				
+<lb xml:id="line_19" n="19"/> το̑ι <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσσκλαπιο̑ι</w></name> <name type="sacrifice"><w lemma="θύω">θύεν</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βο̑
+	    					
+<lb xml:id="line_20" n="20" break="no"/> ν</w></name> <name type="gender"><w lemma="ἄρσην">ἔρσενα</w></name> καὶ <name type="epithet" key="Homonaos"><w lemma="ὁμόναος">hομονάοις</w></name>
+	    				
+<lb xml:id="line_21" n="21"/> <name type="animal" key="ox"><w lemma="βοῦς">βο̑ν</w></name> <name type="gender"><w lemma="ἄρσην">ἔρσενα</w></name> καὶ <name type="epithet" key="Homonaos"><w lemma="ὁμόναος">hομονάα
+	    					
+<lb xml:id="line_22" n="22" break="no"/>ις</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βο̑ν</w></name> <name type="gender"><w lemma="θῆλυς">θέλειαν</w></name>. <w lemma="ἐπί">ἐπὶ</w> τοῦ <name type="structure"><w lemma="βωμός">β
+	    						
+<lb xml:id="line_23" n="23" break="no"/>ομοῦ</w></name> τοῦ <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκλαπιοῦ</w></name> <name type="sacrifice"><w lemma="θύω">θύε
+	    							
+<lb xml:id="line_24" n="24" break="no"/>ν</w></name> <w lemma="οὗτος">ταῦτα</w> καὶ <name type="gender"><name type="animal" key="bird"><w lemma="κάλαϊς">καλαΐδα</w></name></name>. <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνθ
+	    								
+<lb xml:id="line_25" n="25" break="no"/>έντο</w></name> το̑ι <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκλαπιο̑ι</w></name> <name type="portion"><w lemma="φερνή">φερ
+	    									
+<lb xml:id="line_26" n="26" break="no"/>νὰν</w></name> <name type="vegetal"><w lemma="κριθή">κριθᾶν</w></name> <w lemma="μέδιμνος">μέδιμμνον</w> <name type="vegetal"><w lemma="σπυρός">σ
+	    										
+<lb xml:id="line_27" n="27" break="no"/>πυρο̑ν</w></name> <w lemma="ἡμιμέδιμνον">hεμίδιμμνον</w> <name type="liquid"><w lemma="οἶνος">οἴν
+	    											
+<lb xml:id="line_28" n="28" break="no"/>ου</w></name> <w lemma="ἡμίτεια">hεμίτειαν</w>· <name type="portion"><w lemma="σκέλος">σκέλος</w></name> το̑
+	    				
+<lb xml:id="line_29" n="29"/> <name type="quality"><w lemma="πρότερος">πράτου</w></name> <name type="animal" key="ox"><w lemma="βοῦς">βοὸς</w></name> <name type="genericOffering"><w lemma="παρατίθημι">παρθέντο</w></name> τ
+	    				
+<lb xml:id="line_30" n="30" break="no"/><supplied reason="lost">ο̑</supplied>ι <name type="deity" key="Asclepius"><w lemma="θεός">θιο̑ι</w></name>, τὸ δ’ <w lemma="ἕτερος">ἅτερον</w> τοὶ <name type="personnel"><w lemma="ἱερομνήμων">ἱ
+	    					
+<lb xml:id="line_31" n="31" break="no"/><supplied reason="lost">αρο</supplied>μνάμονες</w></name> <w lemma="φέρω">φ<supplied reason="lost">ε</supplied>ρόσθο</w>· τ
+	    				
+<lb xml:id="line_32" n="32" break="no"/><supplied reason="lost">οῦ</supplied> <w lemma="δεύτερος"><supplied reason="lost">δε</supplied>υτέρο</w> τοῖς <name type="title"><w lemma="ἀοιδός">ἀοιδοῖ
+	    					
+<lb xml:id="line_33" n="33" break="no"/><supplied reason="lost">ς</supplied></w></name> <w lemma="δίδωμι"><supplied reason="lost">δόντο</supplied></w><supplied reason="lost">,</supplied> <supplied reason="lost">τ</supplied>ὸ δ’<w lemma="ἕτερος">ἅτερον</w> το<supplied reason="lost">ῖ</supplied>ς
+	    				
+<lb xml:id="line_34" n="34"/> <name type="title"><w lemma="φρουρός"><supplied reason="lost">φρουροῖς</supplied></w></name> <w lemma="δίδωμι"><supplied reason="lost">δόντο</supplied></w> <supplied reason="lost">καὶ</supplied> <name type="portion"><w lemma="ἐνδοσθίδια"><supplied reason="lost">τἐν</supplied>
+	
+<lb xml:id="line_35" n="35" break="no"/> <supplied reason="lost">δοσθίδια</supplied></w></name>. <space extent="unknown" unit="character"/>
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>[Sacrifice a male ox to Apollo, and to the gods of the same temple, a male ox. Sacrifice these on the altar of] Apollo (5) and a cock to Leto and another one to Artemis; as a portion (litt. a dowry) for the god, a <foreign>medimnos</foreign> of barley-corns, half a <foreign>medimnos</foreign> of wheat, of wine half a <foreign>hekteus</foreign> (10) and the leg of the first-offered ox, and let the <foreign>hieromnemones</foreign> carry the other leg. Of the second ox, let them give to the singers (15) the leg, and give the other to the guards, as well as the entrails.</p>
+					<p>Sacrifice a male ox to Asclepius (20), and to the male gods of the same temple, a male ox, and to the female gods of the same temple, a cow. Sacrifice these on the altar of Asclepius and a cock. (25) Dedicate to Asclepius as a portion a <foreign>medimnos</foreign> of barley-corns, half a <foreign>medimnos</foreign> of wheat, of wine half a <foreign>hekteus</foreign>. Let them set aside (on the altar/table) the leg of the first ox (30) for the god, and let the <foreign>hieromnemones</foreign> carry the other leg. [Give (the leg)] of the second ox to the singers, and [give] the other [to the guards, as well as the entrails]. </p>
+					
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p> [Que l’on sacrifie à Apollon un boeuf et, aux dieux du même temple, un boeuf. Qu’on les sacrifie sur l’autel] d’Apollon (5) un coq à Léto et un autre à Artémis; comme portion au dieu un médimne d'orge, un demi-médimne de froment, une demi-mesure de vin (10) et la patte du premier boeuf, l’autre patte, que les hiéromnemons l’emportent, qu’on donne aux aèdes (15) la patte du deuxième boeuf, qu’on donne l’autre patte et les viscères aux gardes. </p>
+						<p>À Asclépios, que l'on sacrifie un boeuf (20) et un boeuf aux dieux du même temple et aux déesses du même temple une vache, que l'on sacrifie cela sur l’autel d’Asclépios et un coq; (25) que l’on consacre à Asclépios comme portion un médimne d'orge, un demi-médimne de froment, une demi-mesure de vin; que l’on mette de côté (sur l'autel/la table) une patte du premier boeuf (30) pour le dieu, que les hiéromnemons emportent l’autre, [que l’on donne] (la patte) du deuxième boeuf aux aèdes, [que l’on donne] l’autre (patte) [et les viscères aux gardes].</p>
+					<p>(traduction Y. Lafond)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+
+<p> This inscription from the sanctuary of Asclepius in Epidauros seems to have a very general application (although we cannot be sure about the precise context, because the preamble is missing). It contains two parts: the first deals with sacrifices to Apollo, to various deities 'of the same temple' and to Leto and Artemis, performed at the altar of Apollo (lines 1-17); the second is concerned with Asclepius and related gods and goddesses 'of the same temple', performed at the altar of Asclepius (lines 19-35). Both documents also detail the division of portions to special groups (<foreign>hieromnemones</foreign>, the singers, the guards). The two regulations are presented in a very similar style, though that should not lead us to be completely confident about the restorations in lines 1-3. The regulations contain several unusual and rare words: see below and cf. also ἐνδοσθίδια in lines 17 and 34-35.</p>
+						
+<p> In each part the precise number of sacrifices various but the sacrificial distribution remains hierarchically the same. In the first case, we only have two oxen offered, the principal one being shared between the god and the <foreign>hieromnemones</foreign>, and the second between singers and guards. In the second case, we have three oxen. The first two are distributed in the same fashion, but as far as we can tell the regulation does not mention any portions being distributed from the cow (to the 'goddesses of the same temple'). We do not know whether the front or rear legs of the oxen are being distributed.</p>
+						
+<p> Lines 2, 20 and 21: The word ὁμόναος is rare; cp. the epithet ἐντεμένιος found at Miletos: <ref target="http://cgrn.ulg.ac.be/CGRN_100/">CGRN 100</ref>, line 4. We do not know precisely who these gods of the same temple are. For Asclepius, Hygieia is an obvious candidate. Cf. also the gods associated with Apollo and Asclepius in <ref target="http://cgrn.ulg.ac.be/CGRN_54/">CGRN 54</ref> (Piraeus). </p>
+	
+<p> Line 5 and line 24: The καλαΐς is to be sacrificed to Artemis, Leto and Asclepius. It is not evident whether a cock or a hen is intended in each case, i.e. whether Asclepius requires a male animal, but Leto and Artemis a female animal. It seems likely that the word καλαΐς (a rare word), referring also to a greenish-blue precious stone, refers to the cock and its plumage (which is usually more colourful than the hen; cf. the πτέρυξ of the cock which is called καλάϊνα in an epigram by Meleager, <title>AP</title> 7.428.2). One should note, however, that offerings of male animals to Artemis are attested (Stengel) and that Meister thinks the gender of the καλαΐς was indifferent here. These relatively cheap offerings were the most common sacrifice for Asclepius. On the further significance of sacrifice of cocks to Asclepius, cf. Edelstein - Edelstein, p. 190 n. 23.</p>
+					
+<p> Line 6: The word φερνή refers to the god's portion only here, elsewhere it is the portion brought by the wife in marriage, the dowry. In the use of the word in lines 25-26 for Asclepius, it appears that a distinction of some sort is made between the φερνή which must be consecrated (ἀνθέντο, line 25) and consists of vegetals and wine, and the leg which is being 'reserved' or 'set aside' (παρθέντο, line 29), presumably on the cult table. It is not clear what this distinction entails for what the priest could receive. In the mention of φερνή for Apollo, no distinction is being made between a 'consecration' and 'setting aside'.</p>
+						
+<p> Line 14: Apparently, there were official singers in function at Epidauros. Similarly, in later centuries we know that services were held often, even daily (Edelstein - Edelstein, p. 194).</p> 
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

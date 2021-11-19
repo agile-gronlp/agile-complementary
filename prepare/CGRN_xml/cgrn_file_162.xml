@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_162" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 162</idno>: <rs type="textType" key="dossier of regulations">Dossier</rs> of the sanctuary consecrated by Pythion at Isthmos on Kos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p>  <rs type="objectType">Stele</rs> of white marble.</p>
+			
+			<p> <dimensions>
+				<height unit="cm">43</height>
+				<width unit="cm">33-35</width>
+				<depth unit="cm">12</depth>
+			</dimensions></p>
+			
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p> </p>
+			<p> Letters: <height unit="cm">1</height>; space between lines: <height unit="cm">0,8</height>.</p> 	
+		</layout></layoutDesc>
+		
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0200" notAfter="-0150"> 200-150 BC</origDate></p>
+		<p><desc>Justification: lettering (Hallof - Bosnakis).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599581" type="external">Kos</ref></placeName>. Found in the village of Kefalos (territory of Isthmos). Now in the new storage-room in Kos (inv. no. E 362). </p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2016 by Z. Pitz. </p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    			<p> Edition here based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 349.</p>	
+	    			<p> Other edition:                   
+	    				<bibl type="author_date" n="Fraser 1953">Fraser 1953</bibl>.</p>
+	    			
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 171; <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20349" type="external">IG-online</ref>, with the Greek text and a translation in German.
+	    			</p>
+	    			
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Parker 1983">Parker 1983</bibl>: 352-353;
+	    				<bibl type="author_date" n="Cucuzza 1997">Cucuzza 1997</bibl>;
+	    				<bibl type="author_date" n="Darmezin 1999">Darmezin 1999</bibl>;
+	    				<bibl type="author_date" n="Parker 2008a">Parker 2008a</bibl>; <bibl type="author_date" n="Carbon - Pirenne-Delforge 2013">Carbon - Pirenne-Delforge 2013</bibl>: 75 n. 38; <bibl type="author_date" n="Carbon - Pirenne-Delforge 2017">Carbon - Pirenne-Delforge 2017</bibl>: 154-155.
+
+	    			</p>
+	    		</div>
+
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+	    						 
+	    				
+<lb xml:id="line_1" n="1"/><del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del> τὸ <name type="structure"><w lemma="τέμενος">τέ<supplied reason="lost">μενος</supplied></w></name> <w lemma="ὅδε"><supplied reason="lost">τόδε</supplied></w> <w lemma="εἰμί"><supplied reason="lost">ἔστω</supplied></w> <space extent="unknown" unit="character"/>  
+	    				
+	    				
+<lb xml:id="line_2" n="2"/><name type="genericOffering"><w lemma="ἱερός">ἱερὸν</w></name> <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιτο<supplied reason="lost">ς</supplied></w></name> <gap reason="lost" quantity="8" unit="character"/>ας καὶ <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὸς</w></name> <name type="epithet" key="Hikesios"><w lemma="ἱκέσιος">Ἱκ<supplied reason="lost">ε</supplied>
+	    	
+	    					
+<lb xml:id="line_3" n="3" break="no"/>σίου</w></name> καὶ <name type="deity" key="generic"><w lemma="θεός">Θεῶν</w></name> <name type="epithet" key="Patroioi"><w lemma="πατρῷος">Πατρώιων</w></name>· <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνέθηκε</w></name> δὲ
+	    	
+<lb xml:id="line_4" n="4"/>Πυθίων Σ<unclear>τ</unclear>ασίλα καὶ ἁ <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name> <del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del> <name type="personnel"><w lemma="παιδίον">παιδ
+	    	
+	   				
+<lb xml:id="line_5" n="5" break="no"/>ίον</w></name> <w lemma="ὅς">ὧι</w> <w lemma="ὄνομα">ὄνομα</w> Μακαρῖνος <w lemma="ἐλεύθερος">ἐλεύθερον</w> <name type="genericOffering"><w lemma="ἱερός">ἱε
+	    				
+<lb xml:id="line_6" n="6" break="no"/>ρὸν</w></name> τᾶς <name type="deity" key="Artemis"><w lemma="θεός">θεοῦ</w></name>, <w lemma="ὅπως">ὅπως</w> <name type="personnel"><w lemma="ἐπιμελέομαι">ἐπιμέληται</w></name> τοῦ <name type="structure"><w lemma="ἱερός">ἱερο<supplied reason="lost">ῦ</supplied></w></name>	       
+
+<lb xml:id="line_7" n="7"/>καὶ τῶν <name type="group"><name type="sacrifice"><w lemma="συνθύω">συνθυόντων</w></name></name> <w lemma="πᾶς">πάντων</w>, <w lemma="διακονέω">διακονῶν</w>
+	    	
+<lb xml:id="line_8" n="8"/>καὶ <w lemma="ὑπηρετέω">ὑπηρετῶν</w> <w lemma="ὅσος">ὅσσωγ</w> <w lemma="ἄν">κα</w> <w lemma="δέω">δῆι</w> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name>·
+	    		    				
+<lb xml:id="line_9" n="9"/><name type="personnel"><w lemma="ἐπιμελέομαι">ἐπιμελέσθω</w></name> καὶ Μακαρῖνος καὶ τῶν <w lemma="ἄλλος">ἄλλων</w>
+	    	
+<lb xml:id="line_10" n="10"/><name type="genericOffering"><w lemma="ἱερός">ἱερῶν</w></name> καὶ <w lemma="βέβηλος">βεβάλων</w> <w lemma="καθά">καθάπερ</w> καὶ <w lemma="ἐν">ἐν</w> τᾶι <name type="genericOffering"><w lemma="ἱερός">ἱερᾶι</w></name> <name type="object"><w lemma="δέλτος">δέλ
+	    		    
+<lb xml:id="line_11" n="11" break="no"/>τωι</w></name> <name type="authority"><w lemma="γράφω">γέγραπται</w></name>, καὶ τῶν <w lemma="λοιπός">λοιπῶν</w> <w lemma="ὅς">ὧγ</w> <w lemma="καταλείπω">καταλεί
+	    	
+<lb xml:id="line_12" n="12" break="no"/>πει</w> Πυθίων καὶ ἁ <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name>· τοῖς δὲ <w lemma="ἐπιμελέομαι">ἐπιμελομέ
+	    
+	   
+<lb xml:id="line_13" n="13" break="no"/>νοις</w> καὶ <w lemma="συναυξάνω">συναύξουσι</w> τὸ <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> <w lemma="εὖ">εὖ</w> <w lemma="αὐτός">αὐτοῖς</w>
+	    
+<lb xml:id="line_14" n="14"/><w lemma="εἰμί">εἴη</w> καὶ <name type="person"><w lemma="αὐτός">αὐτοῖς</w></name> καὶ <name type="person"><w lemma="τέκνον">τέκνοις</w></name> <w lemma="εἰς">εἰς</w> τὸν <w lemma="ἀεί">ἀεὶ</w> <w lemma="χρόνος">χρόνον</w>·
+	    	
+<lb xml:id="line_15" n="15"/><name type="purification"><w lemma="ἁγνός">ἁγνὸν</w></name> <w lemma="εἰσπορεύω">εἰσπορεύεσθαι</w>, τὸ δὲ <name type="structure"><w lemma="ἱερός">ἱερὸν</w></name> <w lemma="εἰμί">ἔστω</w>
+	       
+<lb xml:id="line_16" n="16"/>τῶν <name type="person"><w lemma="υἱός">υἱῶν</w></name> <w lemma="πᾶς">πάντων</w> <w lemma="κοινός">κοινόν</w>, <w lemma="ἀπό">ἀπὸ</w> <name type="childbirth"><w lemma="λέχος">λεχοῦς</w></name> καὶ 
+
+<lb xml:id="line_17" n="17"/><w lemma="ἐκ">ἐγ</w> <name type="death"><w lemma="διαφθορά">δια<supplied reason="omitted">φθ</supplied>ορᾶς</w></name> <w lemma="ἡμέρα">ἁμέρας</w> <w lemma="δέκα">δέκα</w>, <w lemma="ἀπό">ἀπὸ</w> <name type="sex"><w lemma="γυνή">γυναικὸς</w></name> <w lemma="τρεῖς">τρεῖ<supplied reason="lost">ς</supplied></w>.
+	    			
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...] this precinct is to be sacred to Artemis [...] and Zeus Hikesios and the Ancestral Gods. Pythion son of Stasilas and the priestess [...] dedicated a young slave, (5) whose name is Makarinos, to be free (and) sacred to the goddess, so that he takes care of the sanctuary and of all those who make sacrifices together, and provides services and also performs any other tasks that are necessary in the sanctuary. Makarinos is also to take care of other matters, (10) whether sacred or secular, as it is written on the sacred tablet, and of the other things that Pythion and the priestess bequeathe. May good things happen to those who take good care of the sanctuary and augment it, both to themselves and to their children for all time. (15) Enter pure—the temple is to be common to all the sons (of Pythion)—from childbirth and after a miscarriage (or an abortion): ten days; from a woman (i.e. sex): three.</p>
+			</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[...] que cette enceinte [soit] consacrée à Artémis [...], à Zeus Hikesios et aux Dieux Ancestraux. Pythion, fils de Stasilas et la prêtresse [...] ont dédié un petit esclave, (5) du nom de Makarinos, l'affranchissant et le consacrant à la déesse, afin qu’il prenne soin du sanctuaire et de tous ceux qui sacrifient en commun, en s’occupant et en étant au service de tout ce qui est nécessaire dans le sanctuaire. Que Makarinos prenne également soin des autres (10) affaires sacrées et profanes comme il a été écrit sur la tablette sacrée, et de tout ce que lèguent Pythion et la prêtresse. Pour ceux qui s’occupent du sanctuaire et l’embellissent, que cela aille bien pour eux-mêmes et leurs enfants pour l’éternité. (15) Entrer pur — que le sanctuaire soit commun à tous les fils (de Pythion) —, après un accouchement et après une fausse-couche (ou un avortement): dix jours, après une relation sexuelle avec une femme: trois.</p>
+					<p> (traduction S. Paul)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+	
+<p> This document represents a type of document usually called a "foundation", here made by a certain Pythion and a priestess (presumably his wife, but her name has remarkably been erased, see Carbon - Pirenne-Delforge 2013). We prefer to call this type of text a composite dossier of regulations concerning a private or familial cult, see here esp. <ref target="CGRN_96">CGRN 96</ref> (Kos), <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos); contrast the public endowment at <ref target="CGRN_106">CGRN 106</ref> (Kalauria). Since the stele containing this inscription was probably set up as a sort of boundary stone indicating the sacral character of the sanctuary, it only seems to contain a short miscellany of regulations concerning the cult. The act of consecrating the sanctuary may have been discussed in other documents associated with Pythion's act: for instance, in his testament and that of the priestess (cf. καταλείπει, line 12), or in the intriguing "sacred tablet" (ἱερὰ δέλτος), which is mentioned in lines 10-11. On the "stratigraphy" of religious norms and the complex process of the codification of these documents, see Carbon - Pirenne-Delforge 2017.  Beyond the first few fragmentary lines, the regulation discusses principally (lines 3-12) the manumission and consecration of a slave, Makarinos, who is to be in charge of the sanctuary, in all of its aspects, whether "sacred or profane". A blessing or invocation on worshippers is also included (lines 12-14). Purity requirements are briefly discussed at the end of the text (lines 15-17), a section of the dossier which also mentions parenthetically that the sanctuary is to be the common property of the sons of Pythion and the priestess (τὸ δὲ ἱερὸν ἔστω τῶν υἱῶν πάντων κοινόν).</p>				
+<p>Indeed, it is not completely clear if Pythion "founded" a completely new cult: the varied groups regulations do appear to stipulate that the sanctuary is to be held as sacred to a group of gods (lines 1-3): Artemis, Zeus Hikesios, and the ancestral gods (Theoi Patroioi). Artemis seems to be the most important goddess of this cult: her name is mentioned first and the slave Makarinos is also dedicated to her. It is likely that an epithet is missing after the name of Artemis in line 2. The first editor of the text, Fraser, drew up a list of the most prominent possibilities: Toxitis, Lochia, Pergaia, Patroia or Ilithyia. A recent article by Cucuzza has argued that she may be Artemis Pergaia, this being the most frequent manifestation of Artemis on Kos. Nevertheless, this epithet occurs with certainty only two times in the epigraphy of the island and one century after the current inscription; furthermore, these other cases concern public and not private cults. The identity of the goddess therefore remains to be clarified. Zeus Hikesios, protector of suppliants, appears in a series of boundary stones found at the Asklepieion and dating between the fourth and the second century BC, as the patron deity of several phratry-like groups. His connection with such groups, and maybe also in this case, is possibly to be explained by the necessity for foreigners to supplicate to be admitted in these groups (Parker 2008: 202, 207). The "ancestral gods" (Patroioi Theoi) of a community were the gods traditionally worshipped by the group in question. They are worshipped most frequently in "those groups above the household and below the city (and the tribe?) which are based on fictive kinship (thus not demes)", both in the context of collective worship, and individually (Parker 2008a: 204-205; cf. this article for more distinctive characteristics of πατρῷοι θεοί). Developing Parker's remarks, we could consider that Pythion son of Stasilas was a well-established member of the local community of Kos and did not necessarily innovate substantially in "founding" this cult (see again Carbon - Pirenne-Delforge 2013): he may simply have provided a testament for the augmentation of a familial cult, which worshipped a traditional series of gods (Zeus Hikesios, Theoi Patroioi,
+and perhaps also Artemis), and which would be inherited by his sons.</p>
+	
+<p> Lines 4-6: The name of the priestess has apparently been erased, for unclear reasons (perhaps a later wish by the family to erase her memory?). The manumission of the slave Makarinos is realized through his consecration to Artemis. On the affranchising of slaves through consecration cf. Darmezin.</p>
+													
+<p> Lines 6-12: The duties of the dedicated slave are described in a vague manner, since the scope of his tasks seems extensive: he needed to maintain the sanctuary, provide worshippers with what they needed in order to sacrifice and take care of a number of other "sacred and profane" matters (for a similar phrasing in a cultic regulation, cp. <ref target="CGRN_99">CGRN 99</ref>, Cyrene, lines 9-10). We may assume that the "sacred tablet" (ἱερὰ δέλτος) mentioned here, no longer extant, would have provided more details concerning the latter. The comparison with many other documents in our Collection may give us an indication of the tasks that needed to be performed to serve the needs of individuals coming to sacrifice and to assure the good maintenance of the sanctuary: for instance, providing fire, burning incense, providing firewood, providing other sacrificial paraphernalia, opening and closing the sanctuary on appointed days, washing and wreathing images, general cleaning, etc. Comparing this document to other cult foundations, it is striking that collective sacrifices are only briefly mentioned (line 8: τῶν συνθυόντων πάντων), rather than discussed in more detail as e.g. in <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos) and <ref target="CGRN_106">CGRN 106</ref> (Kalauria). Again, these will presumably have been detailed in other documents concerned with the cult, such as the ἱερὰ δέλτος. In terms of the officials responsible for the cult, a comparison with <ref target="CGRN_96">CGRN 96</ref>, the consecration of Diomedon on Kos, seems particularly apt. In the first regulation as part of this dossier, Diomedon made provisions only for a sacred slave called Libys and his descendants to take care of the cult (lines 1-9ff.), along with the eldest of his descendants who acted as priest (Pythion's cult may also have included rules for the priestess of the cult, whether in his testament or another document); only at a somewhat later stage, texts II and III in the dossier of Diomedon, was the appointment of officials drawn from the ranks of the family members (<foreign>epimenioi</foreign>) deemed necessary. As in other cases of familial or private cult, the testament of the individual, briefly alluded to here in lines 11-12, formed an essential component of the act of consecrating a sanctuary and maintain its cult; cp. especially the testament of Epikteta on Thera, <ref target="CGRN_152">CGRN 152</ref> (first part). The "other bequeathed things" may have referred to a fund that needed to be managed, land or properties that needed to be maintained or leased out, or  perhaps to objects or other belongings.</p>
+		
+<p> Lines 12-14: A wish for prosperity for those who benefit the sanctuary is added, a variation on more commonly uttered imprecations which invoked utter destruction for those who harmed the sanctuary or broke the prescriptions of the inscription. A comparable positive clause is found in another dossier for a private cult, <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 51-52: τοῖς δὲ ταῦτα διαφυλάσσουσιν καὶ ποιοῦ|σιν ἄμεινον γίνοιτο ὑπὸ θεὸν καὶ ἄνθρωπον.</p>
+	
+<p> Lines 15-17: The requirement that the sanctuary is to be common to all sons is oddly placed here and it seems to have been interjected by the cutter, perhaps from one of the other documents relating to the cult. It is not entirely clear whether we should take this phrase as implying that this is to be a men-only cult (on the interdiction of women in some cults, cf. <ref target="CGRN_33">CGRN 33</ref>, Elateia), though this seems very unlikely given the presence of a priestess of Artemis as the chief cultic official (other than the slave Makarinos). Rather, the clause seems to come out of place or out of order; however, it has the benefit of clarifying that the sanctuary, though administered by Makarinos and perhaps led by a priestess, is to be the common property of the male descendants of Pythion. For a relatively similar clause affirming the common ownership of the sanctuary (in the case of a default by the eldest male descendant), cp. <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), line 28: εἶναι τὰ ὑποκείμενα κοινά ... Apart from this parenthetis, the inscription ends with a series of purity regulations, targeting three important topics: the temporary pollution that arises from being in contact with a woman who has given birth (ἀπὸ λέχους: see Parker 1983), who has had an abortion or miscarriage (ἀπὸ δια<supplied reason="omitted">φθ</supplied>ορᾶς) and after having sex (ἀπὸ γυναικός). The pollution that arises from contact with a dead person or other types of impurity are not discussed. The periods of pollution resulting from sex and childbirth are among the longest in the ritual norms in our Collection. In six other ritual norms that discuss a  period of prohibited entry into the sanctuary after sex, the time when one becomes pure varies from the same day (<ref target="CGRN_181">CGRN 181</ref>, Eresos, line 9) to two days (<ref target="CGRN_144">CGRN 144</ref>, Ptolemais, line 8), or similarly on the third day (<ref target="CGRN_217">CGRN 217</ref>, Delos, line 4). When a distinction is made between sex with one's own spouse and with a courtesan or another person's spouse, an analogous range of days is found (<ref target="CGRN_71">CGRN 71</ref>, Metropolis, lines 3-6: two days in the case of one's own wife, but three days in the case of a <foreign>hetaira</foreign>; <ref target="CGRN_211">CGRN 211</ref>, Maionia, lines 9-15: on the same day with one's wife vs. after three days with another woman; <ref target="CGRN_212">CGRN 212</ref>, Pergamon, lines 4-6: same day vs. on the second day). Rules for the period of impurity after childbirth range between two (<ref target="CGRN_212">CGRN 212</ref>, Pergamon, line 7) and ten days (<ref target="CGRN_181">CGRN 181</ref>, Eresos, lines 7-8, and <ref target="CGRN_189">CGRN 189</ref>, Lykosoura, lines 3-4). By contrast, the "waiting period" of ten days in our inscription after a miscarriage or abortion is comparatively short: the three documents that mention the same source of pollution each require a period of 40 days: <ref target="CGRN_181">CGRN 181</ref> (Eresos), lines 5-6, partly restored, <ref target="CGRN_217">CGRN 217</ref> (Delos), lines 6-7, and <ref target="CGRN_144">CGRN 144</ref> (Ptolemais), line 10.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

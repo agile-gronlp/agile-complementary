@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_98" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 98</idno>: <rs type="textType" key="priestly contract">Contract</rs> of sale for the male and female priesthoods of the Kyrbantes at Erythrai</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Two fragments (A and B) from a tall <rs type="objectType">stele</rs>. Fragment A clearly contains the beginning of the text and must come near the top of the stele. Fragment B may not have exactly joined with fragment A and thus the full extent of the stele is unknown.</p> 
+			<p>Fragment A <dimensions>
+					<height unit="cm">32</height>
+					<width unit="cm">43</width>
+					<depth unit="cm">13.8</depth>
+			</dimensions></p>
+			<p>Fragment B <dimensions>
+					<height unit="cm">48.8</height>
+					<width unit="cm">39.7</width>
+					<depth unit="cm">10</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Careful stoichedon 28.</p> 
+				<p>Letters: <height unit="mm">unknown</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+		<p><origDate notBefore="-0350" notAfter="-0300">ca. 350-300 BC</origDate>.</p>
+			<p><desc>Justification: lettering and stoichedon style (Engelmann - Merkelbach).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Erythrai" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/550535" type="external">Erythrai</ref></placeName>; Fragment A: southern slope of Acropolis; fragment B: exact findspot unknown. Fragment A's current location is unknown; fragment B is now in the Akademisches Kunstmuseum Bonn.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition based on <bibl type="author_date" n="Dignas 2002b">Dignas 2002b</bibl>. A suggestion for the sense is added in line A3. We do not adopt the proposed restorations in lines A13-14 or in B2, and instead maintain the earlier editions listed below. For line B17, we adopt the suggestion of Voutiras reported in <bibl type="abbr" n="SEG">SEG</bibl>.</p>
+					<p>Edition of fr. A: Engelmann - Merkelbach <bibl type="abbr" n="I.Erythrai">I.Erythrai</bibl> 206, with ph. pk. 37.</p>
+					<p>Edition of fr. B: <bibl type="author_date" n="Himmelmann 1997">Himmelmann 1997</bibl>.</p>
+					<p>Cf. also on fr. A only: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 23; <bibl type="abbr" n="SEG">SEG</bibl> 15, 722; Le Guen-Pollet <bibl type="abbr" n="CD"/> 80. </p>
+					<p>Cf. also on fr. B only: <bibl type="abbr" n="SEG">SEG</bibl> 47, 1628.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Wankel 1979">Wankel 1979</bibl>; <bibl type="author_date" n="Graf 1985">Graf 1985</bibl>: 319-334, with a now updated discussion in <bibl type="author_date" n="Graf 2010a">Graf 2010a</bibl>; <bibl type="author_date" n="Herrmann">Herrmann 2002</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="Fragment" n="A">Fragment A
+	   
+<lb xml:id="line_A1" n="A1"/>ὁ <w lemma="πρίαμαι">πριάμενος</w> καὶ ἡ <w lemma="πρίαμαι">πρι<supplied reason="lost">αμένη</supplied></w> <supplied reason="lost">τὴν</supplied> <name type="personnel"><w lemma="ἱερατεία"><supplied reason="lost">ἱερ</supplied>
+	    					
+<lb xml:id="line_A2" n="A2" break="no"/>ητείην</w></name> τῶγ <name type="deity" key="Kyrbantes"><w lemma="Κύρβας">Κυρβάντων</w></name> <w lemma="ἱεράομαι"><supplied reason="lost">ἱερήσεται</supplied></w> <supplied reason="lost">κ</supplied>
+	    					
+<lb xml:id="line_A3" n="A3" break="no"/>αὶ τῶι <name type="festival"><w lemma="ὄργια">ὀργίωι</w></name> τῶι <name type="deity" key="Herse"><w lemma="ἕρση">Ἕρση<unclear>ς</unclear></w></name> <supplied reason="lost">καὶ τῶι</supplied> <name type="deity" key="unclear"><w lemma="unclear"><gap reason="lost" quantity="3" unit="character"/>
+	    					
+<lb xml:id="line_A4" n="A4" break="no"/>όρης</w></name> καὶ <name type="deity" key="Phanis"><w lemma="Φάνις?">Φανίδος</w></name>, <w lemma="ἐάν">ἢμ</w> μὲν <w lemma="δυνατός"><supplied reason="lost">δυνατὸν</supplied></w> <w lemma="εἰμί"><supplied reason="lost">ἦι</supplied></w>
+	    					
+<lb xml:id="line_A5" n="A5"/><w lemma="πᾶς">πᾶσι</w>, <w lemma="">εἰ</w> δὲ <w lemma="μή">μή</w>, οἷς <w lemma="θέλω">θέληι</w> κα<supplied reason="lost">ὶ</supplied> <w lemma="ἕως"><supplied reason="lost">ἕως</supplied></w> <supplied reason="lost">ἂν</supplied> <w lemma="ζῶ"><supplied reason="lost">ζώ</supplied>
+	    				
+<lb xml:id="line_A6" n="A6" break="no"/>ηι</w>, <w lemma="κατά">κατὰ</w> τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισμα</w></name>· οἱ δὲ <name type="personnel"><w lemma="πρίαμαι">π<supplied reason="lost">ριάμενοι</supplied></w></name>
+	    				
+<lb xml:id="line_A7" n="A7"/>τὰς <name type="personnel"><w lemma="ἱερατεία">ἱερητείας</w></name> <w lemma="τελέω">τελεῦσι</w> κ<supplied reason="lost">αὶ</supplied> <name type="liquid"><name type="object"><w lemma="κρατηρίζω"><supplied reason="lost">κρητηρ</supplied>
+	    				
+<lb xml:id="line_A8" n="A8" break="no"/>ιεῦσι</w></name></name> καὶ <name type="liquid"><w lemma="λούω">λούσουσι</w></name> τοὺ<unclear>ς</unclear> <w lemma="βούλομαι"><supplied reason="lost">βουλομέν</supplied>
+	    				
+<lb xml:id="line_A9" n="A9" break="no"/>ους</w>, ὁ μὲν <name type="person"><w lemma="ἀνήρ">ἀνὴρ</w></name> <name type="person"><w lemma="ἀνήρ">ἄνδρας</w></name>, ἡ δ<supplied reason="lost">ὲ</supplied> <name type="person"><w lemma="γυνή"><supplied reason="lost">γυνὴ</supplied></w></name> <name type="person"><w lemma="γυνή"><supplied reason="lost">γυνα</supplied>
+	    				
+<lb xml:id="line_A10" n="A10" break="no"/>ῖκας</w></name>· <name type="portion"><w lemma="γέρας">γέρα</w></name> δὲ <name type="portion"><w lemma="λαμβάνω">λάψεται</w></name> <name type="liquid"><w lemma="λουτρόν">λ<supplied reason="lost">ουτροῦ</supplied></w></name> <w lemma="τρεῖς"><supplied reason="lost">τρεῖ</supplied>
+	    				
+<lb xml:id="line_A11" n="A11" break="no"/>ς</w> <w lemma="ὀβολός">ὀβολούς</w>, <name type="liquid"><w lemma="κρατηρίζω">κρητηρισμ<unclear>ο</unclear><supplied reason="lost">ῦ</supplied></w></name> <w lemma="δύο"><supplied reason="lost">δύο</supplied></w> <w lemma="ὀβολός"><supplied reason="lost">ὀβολοὺ</supplied>
+	    				
+<lb xml:id="line_A12" n="A12" break="no"/>ς</w> καὶ τὸμ <name type="portion"><w lemma="πόκος">πόκογ</w></name> καὶ τὸ <name type="portion"><w lemma="σκέλος"><supplied reason="lost">σκέλος</supplied></w></name><supplied reason="lost">·</supplied> <name type="person"><w lemma="ξένος"><supplied reason="lost">ξένων</supplied></w></name>
+	    				
+<lb xml:id="line_A13" n="A13"/>δὲ <w lemma="τελέω">τελευμένων</w> <w lemma="ἀπό">ἀπ’</w> <w lemma="ἕκαστος">ἑ<unclear>κ</unclear><supplied reason="lost">άστης</supplied></w> <supplied reason="lost">τῶν</supplied> <name type="purification"><w lemma="ἁγνεία"><supplied reason="lost">ἁγν</supplied>
+	    				
+<lb xml:id="line_A14" n="A14" break="no"/>ειῶν</w></name> <w lemma="τρεῖς">τρεῖς</w> <w lemma="δραχμή">δραχμὰς</w> <supplied reason="lost">καὶ τὸμ</supplied> <name type="portion"><w lemma="πόκος"><supplied reason="lost">πόκογ</supplied></w></name>
+	    				
+<lb xml:id="line_A15" n="A15"/>καὶ τὸ <name type="portion"><w lemma="σκέλος">σκέλος</w></name> τὸ <w lemma="παρά">πα<supplied reason="lost">ρὰ</supplied></w> <supplied reason="lost">τὸν</supplied> <name type="structure"><w lemma="βωμός"><supplied reason="lost">βωμὸν</supplied></w></name> <name type="genericOffering"><w lemma="παρατίθημι"><supplied reason="lost">πα</supplied>
+	    					
+<lb xml:id="line_A16" n="A16" break="no"/>ρατιθέμενον</w></name> κα<supplied reason="lost">ὶ</supplied> <gap reason="lost" quantity="14" unit="character"/>
+	
+<lb/><gap reason="lost" extent="unknown" unit="line"/>		
+	    				</ab>
+	    				<ab subtype="Fragment" n="B">Fragment B
+	    				<lb/><gap reason="lost" extent="unknown" unit="line"/>		   
+	    					
+<lb xml:id="line_B1" n="B1"/><gap reason="lost" quantity="16" unit="character"/> <w lemma="ἐν">ἐμ</w> <w lemma="μέρος">μέρε<supplied reason="lost">ι</supplied></w> <gap reason="lost" quantity="5" unit="character"/>
+	    				
+<lb xml:id="line_B2" n="B2"/><gap reason="lost" quantity="13" unit="character"/> <w lemma="ἐάν">ἢμ</w> <w lemma="μή">μὴ</w> <w lemma="τις">τι</w> <name type="group"><w lemma="πόλις">πόλι<supplied reason="lost">ς</supplied></w></name> <w lemma="ἄλλος"><supplied reason="lost">ἄλλο</supplied></w>
+	    					
+<lb xml:id="line_B3" n="B3"/><name type="sacrifice"><w lemma="προθύω"><supplied reason="lost">προθύητ</supplied>αι</w></name>· <name type="portion"><w lemma="γέρας">γέ<supplied reason="lost">ρ</supplied>α</w></name> δὲ <name type="portion"><w lemma="λαμβάνω">λάψονται</w></name> <w lemma="κατά"><supplied reason="lost">κατὰ</supplied></w> <w lemma="ὅδε"><supplied reason="lost">τ</supplied>
+	    				
+<lb xml:id="line_B4" n="B4" break="no"/><supplied reason="lost">άδε</supplied></w><supplied reason="lost">·</supplied> <w lemma="ἑκάτερος"><supplied reason="lost">ἑκ</supplied>ατέρος</w> τῶν <name type="group"><name type="animal" key="generic"><w lemma="δημόσιος">δημοσίων</w></name></name> <name type="portion"><w lemma="γέρας">γ<supplied reason="lost">έρα</supplied></w></name> <name type="portion"><w lemma="λαμβάνω"><supplied reason="lost">λά</supplied>
+	    					
+<lb xml:id="line_B5" n="B5" break="no"/><supplied reason="lost">ψετ</supplied>αι</w></name> τὰ <name type="portion"><w lemma="κῴδιον">κώιδια</w></name> καὶ τὰ <name type="portion"><w lemma="σκέλος">σκέλη</w></name>· <w lemma="ἐάν"><supplied reason="lost">ἢν</supplied></w> <supplied reason="lost">δέ</supplied> <w lemma="τις"><supplied reason="lost">τ</supplied>
+	    				
+<lb xml:id="line_B6" n="B6" break="no"/><supplied reason="lost">ι</supplied>ς</w> <name type="genericOffering"><name type="meal"><w lemma="ξενίζω">ξενίζηι</w></name></name> τοὺς <name type="deity" key="Kyrbantes"><w lemma="θεός">θεοὺς</w></name> ἢ <name type="sacrifice"><w lemma="θύω">θύηι</w></name> <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <supplied reason="lost">τῶ</supplied>
+	    				
+<lb xml:id="line_B7" n="B7" break="no"/>μ <name type="structure"><w lemma="βωμός">βωμῶν</w></name> τῶν <name type="group"><w lemma="δημόσιος">δημοσίων</w></name>, <name type="portion"><w lemma="γέρας">γέρα</w></name> <w lemma="ἀποδίδωμι">ἀπ<supplied reason="lost">οδιδό</supplied>
+	    				
+<lb xml:id="line_B8" n="B8" break="no"/>τω</w> τοῖς <name type="personnel"><w lemma="πρίαμαι">πριαμένοις</w></name> τῶμ <name type="genericOffering"><w lemma="παρατίθημι">παρ<supplied reason="lost">ατεθέν</supplied>
+	    					
+<lb xml:id="line_B9" n="B9" break="no"/>των</w></name> τοῖς <name type="deity" key="Kyrbantes"><w lemma="θεός">θεοῖς</w></name> <name type="meal"><w lemma="βρωτός">βρωτῶν</w></name> <w lemma="ἑκτημόριοι">ἐκ<supplied reason="lost">τημόριον</supplied></w>
+	    					
+<lb xml:id="line_B10" n="B10"/>καὶ τῶγ <name type="portion"><w lemma="κρέας">κρεῶμ</w></name> <name type="portion"><w lemma="μερίς">μερίδα</w></name> κ<supplied reason="lost">αὶ</supplied> <name type="age"><w lemma="τέλειος"><supplied reason="lost">τελέου</supplied></w></name> <name type="animal" key="generic"><w lemma="ἱερεῖον"><supplied reason="lost">ἱε</supplied>
+	    				
+<lb xml:id="line_B11" n="B11" break="no"/>ρείου</w></name> <w lemma="ὀβολός">ὀβολόν</w>, <w lemma="τέσσαρες">τέσσερα<supplied reason="lost">ς</supplied></w> <supplied reason="lost">δὲ</supplied> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοιός</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἐάν"><supplied reason="lost">ἢν</supplied></w>
+	    					
+<lb xml:id="line_B12" n="B12"/>δέ <w lemma="τις">τις</w> <w lemma="ἄλλος">ἄλλος</w> <name type="personnel"><w lemma="ἱερεύς">ἱέρεως</w></name> <w lemma="τελέω">τε<supplied reason="lost">λέσηι</supplied></w> <supplied reason="lost">ἢ</supplied> <w lemma="ἄλλος"><supplied reason="lost">ἄλλη</supplied></w>
+	    				
+<lb xml:id="line_B13" n="B13"/><name type="personnel"><w lemma="ἱέρεια">ἱερῆ</w></name> ἢ <name type="liquid"><w lemma="λούω">λούσηι</w></name> ἢ <name type="object"><name type="liquid"><w lemma="κρατηρίζω">κρητη<supplied reason="lost">ρίσηι</supplied></w></name></name><supplied reason="lost">,</supplied> <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀποδότ</supplied>
+	    				
+<lb xml:id="line_B14" n="B14" break="no"/>ω</w> τοῖς <name type="personnel"><w lemma="πρίαμαι">πριαμένοις</w></name> <w lemma="πᾶς">π<supplied reason="lost">άντων</supplied></w> <supplied reason="lost">ὧν ἂν</supplied> <w lemma="λαμβάνω"><supplied reason="lost">λάβ</supplied>
+	    				
+<lb xml:id="line_B15" n="B15" break="no"/>ηι</w> τὰ <w lemma="ἥμισυς">ἡμίσεα</w> μὴ <w lemma="ἐξαιρέω">ἐξελ<supplied reason="lost">ὼμ</supplied></w> <w lemma="ἄλλος"><supplied reason="lost">ἄλλο</supplied></w> <w lemma="τις"><supplied reason="lost">τι</supplied></w> <supplied reason="lost">ἢ</supplied> <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀπο</supplied>
+	    					
+<lb xml:id="line_B16" n="B16" break="no"/>δοὺς</w> ἥ <w lemma="ἐν">ἐν</w> τῆι <objectType key="stele"><w lemma="στήλη">στήληι</w></objectType> <name type="authority"><w lemma="γράφω"><supplied reason="lost">γέγραπται</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἔξειμι"><supplied reason="lost">ἐξε</supplied>
+	    					
+<lb xml:id="line_B17" n="B17" break="no"/>ῖναι</w> δὲ τοῖς <name type="personnel"><w lemma="πρίαμαι">πριαμ<supplied reason="lost">ένοις</supplied></w></name> <w lemma="ὑπέρ"><supplied reason="lost">ὑπὲρ (?)</supplied></w> <supplied reason="lost">τῆς</supplied> <name type="group"><w lemma="πόλις"><supplied reason="lost">π</supplied>
+	    				
+<lb xml:id="line_B18" n="B18" break="no"/>όλεως</w></name> τοὺς <name type="personnel"><w lemma="ἱερεύς">ἱερεῖς</w></name> κ<supplied reason="lost">αὶ τὰς</supplied> <name type="personnel"><w lemma="ἱέρεια"><supplied reason="lost">ἱερείας</supplied></w></name>
+	    					
+<lb xml:id="line_B19" n="B19"/>καὶ τοὺς <name type="group"><w lemma="τελέω">τελεσθέντα<supplied reason="lost">ς</supplied></w></name> <supplied reason="lost">ἢ</supplied> <name type="group"><name type="liquid"><name type="object"><w lemma="κρατηρίζω"><supplied reason="lost">κρητηρισθ</supplied>
+	    					
+<lb xml:id="line_B20" n="B20" break="no"/>έντας</w></name></name></name> ἢ <name type="group"><name type="liquid"><w lemma="λούω">λουθέντας</w></name></name> <w lemma="ὑπό">ὑπ<supplied reason="lost">ὸ</supplied></w> <w lemma="οὗτος"><supplied reason="lost">τούτων</supplied></w> <supplied reason="lost">καὶ τ</supplied>
+	    				
+<lb xml:id="line_B21" n="B21" break="no"/>ὰς <name type="group"><w lemma="τελέω">τελεσθείσας</w></name> ἢ <name type="group"><name type="object"><name type="liquid"><w lemma="κρατηρίζω">κρητ<supplied reason="lost">ηρισθείσας</supplied></w></name></name></name>
+	    					
+<lb xml:id="line_B22" n="B22"/>ἢ <name type="group"><name type="liquid"><w lemma="λούω">λουθείσας</w></name></name> <name type="invocation"><w lemma="ἀπορκόω">ἀπορκῶσα<supplied reason="lost">ι</supplied></w></name><supplied reason="lost">,</supplied> <supplied reason="lost">ἢ</supplied> <w lemma="ἀποδείκνυμι"><supplied reason="lost">ἀποδεικτ</supplied>
+	    					
+<lb xml:id="line_B23" n="B23" break="no"/>έον</w>, ὅς καὶ <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="πᾶς">πάντων</w> <supplied reason="lost">τὸν</supplied> <name type="invocation"><w lemma="ὅρκος"><supplied reason="lost">ὅρκον</supplied></w></name> <name type="invocation"><w lemma="ἀπόμνυμι"><supplied reason="lost">ἀ</supplied>
+	    				
+<lb xml:id="line_B24" n="B24" break="no"/>πόμνυσι</w></name>· <w lemma="ἐάν">ἢν</w> δὲ <gap reason="lost" quantity="17" unit="character"/>
+	    					
+<lb xml:id="line_B25" n="B25"/><gap reason="lost" quantity="1" unit="character"/><orig>ι</orig> <w lemma="unclear">δικασ</w><gap reason="lost" quantity="21" unit="character"/>
+	    				
+<lb xml:id="line_B26" n="B26"/><gap reason="lost" quantity="1" unit="character"/><orig>κοντ</orig><gap reason="lost" quantity="23" unit="character"/>
+<lb/><gap reason="lost" extent="unknown" unit="line"/>	
+	    					</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						Fragment A</p>
+	    				<p>The man and the woman purchasing the priesthood of the Kyrbantes [will serve as priest/priestess] also for the rite of Herse and for that of [...]ore and of Phanis, if possible for all of them; (5) if not, for those who he or she wishes (to serve) and [for the duration of his or her life], according to the decree. The purchasers of the priesthood will initiate and will perform the krater-ritual and wash those [who wish]; the man [will take care of] men, [the woman] women. (10) He or she will receive as perquisites: three obols per [bath], [two obols] per krater-ritual and the fleece and the [leg]. From [foreigners?] who are initiated: [for each of the purifications?] three drachmae (and the fleece) and (15) the leg reserved [beside the altar] and [...]</p>
+	    				
+	    				<p>Fragment B</p> 
+	    				<p>[...] in part [...] unless the city [makes] any other [preliminary sacrifice?]. They will receive perquisites according to the following: from the animals sacrificed publicly, each will receive (5) the fleeces and the legs. If anyone makes a hosting for the gods or sacrifices on the public altars, he will give as privileges to those who purchased the priesthoods a sixth of the foods set aside for the gods (10) and a portion of the meat, and one obol for each [adult] animal, four obols [for an ox]. If any another priest performs initiations or any other priestess washes or performs the krater-ritual, he or she will give to the purchasers (15) half of everything he or she receives, not taking away anything, or he will pay what is written on the stele. It will be possible for the purchasers to administer an oath (on behalf of?) the city, to the (other) priests and [priestesses], and to the male initiates either ones who underwent the krater-ritual (20) or were washed by them, and to the female initiates either ones who underwent the krater-ritual or were washed, [or to have someone appointed] who will pronounce the oath on behalf of every one. But if [...] 
+						</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+						Fragment A</p>
+					<p>L’acheteur et l'acheteuse de la prêtrise des Korybantes [sera aussi prêtre/prêtresse] lors du rite en l’honneur d’Hersè [et de -]orè et de Phanis, pour tous, si c'est possible, (5) sinon pour ceux qu’il ou elle souhaite et [à vie], conformément au décret; les acheteurs de la prêtrise procéderont aux initiations, accompliront le rituel du cratère et laveront ceux qui [le souhaitent], l’homme [s’occupant] des hommes, [la femme] des femmes; (10) à titre de parts d'honneur, ils recevront pour le [bain trois] oboles, pour le rituel du cratère [deux oboles], ainsi que la toison et la [patte]; si ce sont des [étrangers ?] qui sont initiés, pour [chacune des purifications ?], trois drachmes, [ainsi que la toison] (15) et la patte déposée [à côté de l’autel] et [...]</p>
+					
+					<p>Fragment B</p> 
+					<p>[...] en partie [...] à moins que la cité [ne fasse] une autre [offrande préliminaire ?]. Ils recevront des parts d'honneurs selon ce qui suit : des animaux sacrifiés à titre officiel, chacun obtiendra (5) les toisons ainsi que les pattes. Si quelqu'un offre une réception pour les dieux ou sacrifie sur les autels publics, il donnera comme parts d'honneur à ceux qui ont acheté la prêtrise : un sixième des nourritures réservées pour les dieux (10) et une part de viande, et une obole pour chaque animal [adulte], quatre [pour un bovin]. Si n'importe quel autre prêtre procède aux initiations ou n'importe quelle autre prêtresse lave ou accomplit le rituel du cratère, il ou elle donnera aux acheteurs (15) la moitié de ce qu'il ou elle recevra, ne prélevant rien, ou il ou elle payera ce qui est inscrit sur la stèle. Il sera possible pour les acheteurs d'assermenter au nom de la cité (d'autres) prêtres ou [prêtresses], comme ceux qui ont reçu de leur part l'initation ou le rituel du cratère (20) ou le bain, et celles qui ont reçu l'initiation ou le rituel du cratère ou le bain, [ou de voir désigner une autre personne] qui pourra prononcer le serment pour tous. Mais si [...]
+						</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>The inscription is the contract for the sale of twin offices, a male and a female priesthood, responsible for the cult of the Korybantes at Erythrai (here known as Kyrbantes). Though lacking any sort of preamble, it would appear that fragment A contains the beginning of the inscription: other contracts for the sale of priesthoods similarly begin in such a direct fashion, cf. e.g <ref target="CGRN_36">CGRN 36</ref> (Chios). The inscription is not in and of itself a decree (as Voutiras ap. <bibl type="abbr" n="SEG">SEG</bibl> avers), but rather a contract which quotes such a decree and will have been voted by the assembly: cf. the external ref. in line A6, κατὰ τὸ ψήφισμα; cp. also the fine or penalty which may have been stipulated on the same or another stele, line B16: ἥ ἐν τῆι στήληι [γέγραπται·]. More recently (re)discovered, fragment B has been convincingly demonstrated to belong to the same text: it shows similar lettering, several commonalities of formulation and the same probable stoichedon length. It must have followed fragment A but does not appear to join and does not contain the conclusion of the document: the original length of the inscription remains unknown. The practice of selling priesthood is extremely well-documented in the present Collection and particularly at Erythrai itself, where an inscribed archive records priesthoods sold during certain specific years in the first half of the third century BC, shortly after this specific sale of the Korybantes: this is <bibl type="abbr" n="LSAM">LSAM</bibl> 25 / <bibl type="abbr" n="I.Erythrai">I.Erythrai</bibl> 201. In this later inscription, the sale of the priesthoods of the Korybantes is twice mentioned. In the first case, lines 60-66, a certain man buys the feminine priesthood (τὴν γυναικείαν), while another man buys the priesthood "of the men" (τῶν ἀνδρείων) for himself. The female priesthood is valued at more than three times the price of the male (601 drachmae vs. 180), thereby suggesting that there was a stronger female participation in the cult, and therefore larger benefits of tariffs or meat for the priestess rather than the priest. In this inscription, the Korybantes are referred to with intriguing epithets or other designations (Κορυβάντων Εὐφρονισ̣ίων καὶ Θαλείων ἐπιθαλεώσεως ἕ|νεκεν, a "flourishing" celebration of the gods, apparently; or more simply Κορυβάντων Θαλείων ἀνδρείων in the second case); see also below on lines A3-4. Despite these differences in the appellation, it is probable that these cults of the Korybantes are identical with those sold by the city in the present text. Lifetime tenure is probably stipulated in lines A5-6 here, and the later mentions in <bibl type="abbr" n="LSAM">LSAM</bibl> 25 / <bibl type="abbr" n="I.Erythrai">I.Erythrai</bibl> 201, a record of sales of priesthoods, thus probably represent further necessary sales of the offices about one or two generations afterward. Perhaps another component of this wider dossier is an inscription found on Samos dating to the second century BC which was also recently published: <bibl type="abbr" n="IG XII.6">IG XII.6</bibl> 1197 (<bibl type="abbr" n="SEG">SEG</bibl> 52, 1146); Hermann convincingly argues for a <foreign>pierre errante</foreign>  and assigns the stone to Erythrai. Though rather fragmentary, it appears to be another contract for the sale of the male and female priesthoods of the Korybantes (cf. also line 40: ἀναγραψάτω τὴν διαγραφὴν). Though our understanding of the text remains to be improved, it contains much similar vocabulary yet also markedly different phrasings from the present text. See now Graf 2010a for a useful introduction and concise treatment of the whole epigraphic dossier.</p>
+	
+<p>The inscription provides us with a relative wealth of detail concerning the still poorly understood cult of the Korybantes, gods often associated with Kybele or the Meter and presumed to be of Phrygian origin; they are sometimes juxtaposed with the Samothracian gods, the Kouretes, or other groups. For a wider discussion of the cult and its dissemination throughout the Greek world, including in Athens, see Graf 1985. Here, a few salient features of the specific cult can be introduced. Both a male and a female priesthood are necessary, since they appear to be exclusively responsible for the rituals involving their gender groups (cf. esp. lines A9-10); for this kind of gender-specificity in initiatic cults, cp. also here the mysteries at Andania, <ref target="CGRN_222">CGRN 222</ref>. Three rituals come especially to the fore in the text: first, the initiation into the cult (τελεῦσι, line 7; τελευμένων, line 13, etc); second, the use of kraters for drinking wine (κρητηρισμο̣[ῦ, line 11, etc); third, bathing and washing (λούσουσι, line 8, etc). It is perhaps noteworthy that these three rituals are consistently presented in this order in the text (except perhaps in lines 8ff.): this might simply be the result of a habitual formulation, but it might also reflect something significant about the cult. If the latter, then we might suppose that initiation would be the first stage in the introduction of participants into the cult, followed in turn by the more 'advanced' stages of the krater-ritual and of the bath.</p>
+
+<p>Lines A3-6: The priest and priestess are advised to officiate not only in the cult of the Korybantes more generally, but also in a series of specific ceremonies stipulated here. This duty remains facultative, but is apparently recommended, presumably by the city. Regrettably, the civic decree behind this contract of sale, now lost, might have provided further details about this matter. At least one of the ceremonies is defined as an ὄργιον, an infrequent term but one which can be applied to the celebrations of religious groups (cf. <ref target="CGRN_201">CGRN 201</ref>, line 4: ὄργια of the Molpoi at Miletos), just as much as for mysteric rites such as those of Demeter and Kore or the Kabeiroi. It is probable that the celebrations were plural and at least partly distinct: the plurals πᾶσι and οἷς must refer back either to multiple instances of ὄργιον or to that ceremony and something else (hence our suggestion of the repeated article in the lacuna of line A3). The name Herse is extremely rare (cp. <bibl type="abbr" n="LGPN">LGPN</bibl>, only one instance in IIa s.v. Ἑ<supplied reason="omitted">ρ</supplied>σηὶς) and uniquely applied to the heroine/goddess who is the daughter of Kekrops, mythical king of Athens. The name is restored in <bibl type="abbr" n="I.Erythrai">I.Erythrai</bibl> 69, which records honours for a priestess of Demeter Thesmophoros and [Ἕρ]σης (?). The possible link with Athenian mythology is intriguing but in the absence of further evidence must remain tentative. At any rate, the name Herse suggests a goddess who might be a <foreign>paredros</foreign> of the Korybantes and whose rite might be seen as related to the cult of these gods. Given the lacuna at the end of line A3, it is also unclear whether this same ὄργιον belongs to the two other female names which appear to follow or if they were concerned with another ceremony. In the absence of a convincing parallel, the first name is impossible to restore; the second, Phanis, is much more adequately attested as a personal name, thus perhaps suggesting a different interpretation (a private group?).</p>
+						
+<p>Lines A10-12: Priestly perquisites are given to the priest or priestess when performing two of the rites; initiations appear to be discussed separately below (lines A10-14). In the case of the ritual bath, only a fee of three obols appears to be necessary and no mention is made of a sacrifice. Other than washing, presumably as a form of purification (among perhaps other things), not much is known about what this ritual may have entailed. About the ritual called κρατηρισμός, information is a bit more forthcoming, though much still remains murky. Cf. Wankel for a brief discussion, also of the restoration here in line 7. Wine was apparently mixed in kraters for drinking during a specific ceremony; the fee of two obols per participant will have helped the priest or priestess to provide this material to drink. The verb κρατηρίζω specifically denotes this action of mixing, but also the pouring of libations from kraters, gestures which are manifest in mysteries (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. II, citing Phot. s.v. cp. Dem. 18.259), but which are again found in connection with ὄργια such as those of the Molpoi at Miletos, where no 'mysteric' context is especially obvious, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_201/">CGRN 201</ref>. In an initiatic context, such as in the cult of the Korybantes, it might also be envisaged that the rite involved drinking from the krater directly, thus resulting in a state of drunkenness (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. κρατηρίζω I). At any rate, the κρατηρισμός appears to involve a sacrifice of a sheep or goat by each participant, with the priestly official receiving the fleece and the leg (given the article, perhaps a specific leg of the animal is intended; see immediately below).</p>  
+						
+<p>Lines A12-16: The restorations in these lines concerned with initations remain somewhat uncertain and problematic. The word ξένων has been restored, supposing that these requirements might be lighter in the case of citizens. But it may also be the case that ἀστῶν (same length) were discussed first and ξένων second; this might even be a more natural progression. Further compounding the uncertainty is the lacuna at the end of line A13 (the only certainty is that ἀπ’ ἑκ̣[άστ- must be taken as its own phrase and not with τελευμένων). According to the restoration adopted here, the participants would have to provide these perquisites "for each of the purifications" they undergo as a part of this initiations. Other restorations may be possible. The fee or tariff is identical with that for the bath, and a similar sacrifice to that which accompanies the κρατηρισμός appears to be envisaged. Here, the perquisite of the leg is explicitly defined as the leg which was reserved beside the altar, i.e. probably on a cult-table. Whether this was the left or right leg will have depended on which was offered on the altar itself (σκέλος may also have designed a part of this leg, deboned and from which the thigh-bone was extracted in order to be burned; for such distinctions between legs or thighs and parts thereof, see <ref target="CGRN_103">CGRN 103</ref>, Phrearrhioi).</p>
+							
+<p>Lines B3-5: After some fragmentary passages, the further fragment of the text resumes with a consideration of perquisites, apparently from public sacrifices. To emphasise this perhaps, the priest and priestess are here interestingly defined as [ἑκ]ατέρος τῶν δημοσίων, "each of the two public officials". The perquisites are similar to those found in fragment A, with the perhaps interesting different that κώιδια, sheepskins, replace the earlier mention of πόκοι, fleeces more generally. Goats were apparently not considered as part of the public sacrifices, or simply singled out as some form of special or frequent offering in this case.</p>
+						
+<p>Lines B5-11: Further perquisites are envisaged in the case of a <foreign>theoxenia</foreign> of the Korybantes (ἐναγισμοί and ξενισμοί are also alluded to in <bibl type="abbr" n="IG XII.6">IG XII.6</bibl> 1197, lines 13-14; see above) or a sacrifice by a private individual on the public altars. In these particular cases, the perquisites are substantially different and smaller from the previously mentioned cases; more of the meat and other offerings remain the property of the offerand. Only a single portion of meat is given to the priest or priestess, as well as a sixth of the offerings on the cult-table. Sacrificial tariffs serve to compensate the priest or priestess for other expenditures incurred during the sacrificial ritual, cp. e.g. <ref target="CGRN_64">CGRN 64</ref> (Epidauros), for similar tariffs.</p>
+						
+<p>Lines B11-21: These final lines of the fragment are both fairly unique in their formulation and surprising in a priestly contract. Other priests and priestesses could apparently perform similar rites and functions to the priest and priestess of the Korybantes, but had to share half of the perquisites with them or face a penalty defined "on the stele". Finally, we learn that the purchasers of the priesthoods of the Korybantes could administer oaths (ἀπορκῶσαι, unparalleled but cp. ἀπόμνυμι) on behalf of the city (Voutiras ap. <bibl type="abbr" n="SEG">SEG</bibl> considers both ὑπέρ and παρά, preferring the latter). Alternatively, someone could be designated to pronounce this oath on their behalf (ἀποδεικτέον, ὅς ... ὑπὲρ πάντων ἀπόμνυσι, lines B22-24). Some of the restorations in this passage may remain to be confirmed. In any case, the precise context remains to be satisfactorily explained here: what were the solemn oaths that the city might require of the priests and their celebrants? Voutiras, as reported in <bibl type="abbr" n="SEG">SEG</bibl>, surmises that "the city, through the intermediary of the official priests, tried to control private cult-activities (both priests and initiated)".
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

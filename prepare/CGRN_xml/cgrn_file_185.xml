@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_185" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 185</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulations</rs> for the Asklepieia at Lampsakos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Sylvain Lebreton</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> No description of the stone (neither photo nor facsimile) is available in any of the editions. </p>
+
+	<p><dimensions>
+	<height unit="cm">unknown</height>
+	<width unit="cm">unknown</width>
+	<depth unit="cm">unknown</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p>Cf. Boeckh (text in majuscules with the layout of Kiepert's copy). Much of the text is missing at the beginning and some at the end; no line is complete, but line 25 seems almost complete, perhaps giving an idea of the original extent of the lines.</p>
+			<p>Letters: <height unit="cm">unknown</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0200" notAfter="-0100">2nd or 1st century BC</origDate></p>
+
+		<p><desc>Justification: lettering (Boeckh and Kiepert's copy).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Lampsakos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/501570" type="external">Lampsakos</ref></placeName>. Its exact provenance is uncertain but the stone was later reused in a bridge crossing the Kuru Dere valley, on the road from Lapseki to Abydos. Today presumed lost. Two partial copies by E. Kalinka, preserving 53 lines (out of the 87 of Kiepert's copy), are kept in Vienna (Wiener Kommission für die epigraphische Erforschung Kleinasiens). </p>		
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Frisch <bibl type="abbr" n="I.Lampsakos">I.Lampsakos</bibl> 9. Note that (much like in Sokolowski) we include only lines 16-29 here. For the text adopted at the end of line 19, see Rigsby 2009 and the commentary below ad loc.
+
+	    			</p>
+	    			<p> Other edition:
+	    				Boeckh <bibl type="abbr" n="CIG">CIG</bibl> 3641b, from H. Kiepert's copy.
+	    			</p>
+
+	    			<p> Cf. also:
+
+	    	<bibl type="author_date" n="Robert 1928">Robert 1928</bibl>: 158-162;
+	    	<bibl type="author_date" n="Edelstein - Edelstein 1945">Edelstein - Edelstein 1945</bibl> I: 318, no. 572 (lines 14-21 only, English translation);
+	    	Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 8; Tod <bibl type="abbr" n="SEG">SEG</bibl> 15, 754.</p>
+
+	    			<p> Further bibliography:
+	   <bibl type="author_date" n="Edelstein - Edelstein 1945">Edelstein - Edelstein 1945</bibl> II: 195-213;
+	   <bibl type="author_date" n="Tréheux 1953">Tréheux 1953</bibl>: 435-438;
+	   <bibl type="author_date" n="Riethmüller 2005">Riethmüller 2005</bibl> II: 355, no. 244;
+	   <bibl type="author_date" n="Lozano 2005">Lozano 2005</bibl>: 246-247;
+	    <bibl type="author_date" n="Rigsby 2009">Rigsby 2009</bibl>: 78-79.
+
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    			<ab>
+
+<lb/>(fifteen preceding lines, partly fragmentary)
+
+<lb xml:id="line_16" n="16"/> (part of line omitted).                           <w lemma="ὅταν">ὅ<supplied reason="lost">ταν</supplied></w> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">αἱ</supplied> <name type="festival"><w lemma="ἑορτή"><supplied reason="lost">ἑορταὶ</supplied></w></name>
+
+<lb xml:id="line_17" n="17"/> <w lemma="συντελέω">συντελῶνται</w> <w lemma="ἐν">ἔν</w> τε τῷ <w lemma="μείς">μηνὶ</w> τῷ <name type="month"><w lemma="Ληναιών">Ληναιῶνι</w></name> καὶ <w lemma="ἐν">ἐν</w> τῷ <name type="month"><w lemma="Λευκαθεών">Λευκαθιῶν<supplied reason="lost">ι</supplied></w></name><supplied reason="lost">,</supplied> <w lemma="ἀνίημι"><supplied reason="lost">ἀνίεσθαι</supplied></w>
+
+<lb xml:id="line_18" n="18"/> μὲν τοὺς <w lemma="παῖς">παῖδας</w> <w lemma="ἐκ">ἐκ</w> τῶν <w lemma="μάθημα">μαθημάτων</w>, τοὺς δὲ <w lemma="οἰκέτης">οἰκέτας</w> <w lemma="ἀπό">ἀπὸ</w> τῶν <w lemma="ἔργον"><unclear>ἔ</unclear><supplied reason="lost">ργων</supplied></w><supplied reason="lost">,</supplied> <name type="adornment"><w lemma="στεφανηφορέω"><supplied reason="lost">στε</supplied>
+
+<lb xml:id="line_19" n="19" break="no"/>φανηφορεῖν</w></name> δὲ <name type="ethnic" key="Lampsakos"><w lemma="Λαμψακηνός">Λαμψακηνοὺς</w></name> <w lemma="πᾶς">πάντας</w>· ὁ δὲ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> <name type="vegetal"><name type="sacrifice"><w lemma="θυμιάω">θυμιάτω</w></name></name> <w lemma="βαίνω">βαί<supplied reason="lost">νων</supplied></w> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w>
+
+<lb xml:id="line_20" n="20"/> τοῦ <name type="structure"><w lemma="βωμός">βωμοῦ</w></name> τοῦ <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκληπιοῦ</w></name> καὶ <w lemma="ἐπιμελέομαι">ἐπιμελείσθω</w> <w lemma="ὅπως">ὅπως</w> <name type="vegetal"><w lemma="δάφνη">δάφνη<surplus>ι</surplus></w></name> <w lemma="καινός">καινὴ</w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w>
+
+<lb xml:id="line_21" n="21"/> <supplied reason="lost">τῷ</supplied> <name type="structure"><w lemma="ἱερός">ἱερῷ</w></name> <w lemma="εἰς">εἰς</w> τοὺς <name type="adornment"><w lemma="στέφανος">στεφάνους</w></name>· ὁ δὲ <name type="personnel"><w lemma="ἱεροκῆρυξ">ἱεροκῆρυξ</w></name> <name type="speechAct"><w lemma="προκηρύσσω">προσκηρυσσέτω</w></name> καὶ <w lemma="διά">δ<supplied reason="lost">ιὰ</supplied></w> <supplied reason="lost">τοῦ?</supplied> <name type="structure"><w lemma="πρυτανεῖον"><supplied reason="lost">πρυ</supplied>
+
+<lb xml:id="line_22" n="22" break="no"/><supplied reason="lost">τα</supplied>νείου</w></name>, ὁ δὲ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> τὰς <name type="festival"><w lemma="ἑορτή">ἑορτὰς</w></name> <w lemma="πρόπεμπτος">πρόπεμπτα</w> καὶ <w lemma="πρότριτα">πρότριτα</w> καὶ <w lemma="αὐθήμερος">αὐθημ<supplied reason="omitted">ερ</supplied><supplied reason="lost">όν</supplied></w><supplied reason="lost">·</supplied> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">δὲ</supplied>
+
+<lb xml:id="line_23" n="23"/> ταῖς <w lemma="ἡμέρα">ἡμέραις</w> <w lemma="ἐν">ἐν</w> <w lemma="ὅς">αἷς</w> <w lemma="ἄν">ἂν</w> αἱ <name type="festival"><w lemma="ἑορτή">ἑορταὶ</w></name> <w lemma="συντελέω">συντελῶνται</w>, οἱ <name type="personnel"><w lemma="κῆρυξ">κήρυκες</w></name> <name type="invocation"><w lemma="κελεύω"><supplied reason="omitted">κελευ</supplied><supplied reason="lost">έτω</supplied>
+
+<lb xml:id="line_24" n="24" break="no"/><supplied reason="lost">σ</supplied>αν</w></name> <name type="ethnic" key="Lampsakos"><w lemma="Λαμψακηνός">Λαμψακηνοὺς</w></name> <w lemma="πᾶς">πάντας</w> <name type="adornment"><w lemma="στεφανηφορέω">στεφανηφορεῖν</w></name>· <w lemma="μή">μὴ</w> <w lemma="εἰμί">εἶναι</w> δὲ <w lemma="μηθείς">μηθεν<supplied reason="lost">ὶ</supplied></w> <w lemma="μηθείς"><supplied reason="lost">μηθὲν</supplied></w>
+
+<lb xml:id="line_25" n="25"/><w lemma="ἐνεχυράζω"><supplied reason="lost">ἐ</supplied>νεχυράσαι</w> <w lemma="ἐν"><unclear>ἐ</unclear>ν</w> <supplied reason="lost">τ</supplied>αῖς <w lemma="ἡμέρα">ἡμέραις</w> τῶν <name type="festival"><w lemma="Ἀσκληπιός">Ἀσκληπιείων</w></name>, <w lemma="εἰ">εἰ</w> δὲ <w lemma="μή">μή</w>, <unclear>ὁ</unclear> <w lemma="ἐνεχυράζω">ἐνεχυράσας</w> <name type="punishment"><w lemma="ἔνοχος"><unclear>ἔν</unclear><supplied reason="lost">οχος</supplied></w></name>
+
+<lb xml:id="line_26" n="26"/> <w lemma="εἰμί"><supplied reason="lost">ἔ</supplied>στω</w> τῷ <name type="authority"><w lemma="νόμος">νόμῳ</w></name> τῷ <w lemma="περί">περὶ</w> τῶν <w lemma="παράνομος">παρανόμως</w> <w lemma="ἐνεχυράζω">ἐνεχυρασάντων</w>· <w lemma="μή">μὴ</w> <w lemma="κρίνω">κ<supplied reason="omitted">ρι</supplied>ν<supplied reason="lost">έτωσαν</supplied></w>
+
+
+<lb xml:id="line_27" n="27"/> <supplied reason="lost">δ</supplied>ὲ <w lemma="μηδέ">μηδὲ</w> οἱ <name type="title"><w lemma="ἐπιγνώμων">ἐπιγνώμονες</w></name> <w lemma="ἐν">ἐν</w> ταῖς <w lemma="ἡμέρα">ἡμέραις</w> <w lemma="οὗτος">ταύταις</w>, <w lemma="μηδέ">μηδὲ</w> οἱ <name type="title"><w lemma="εἰσαγωγεύς">εἰσαγωγ<supplied reason="omitted">εῖ</supplied>ς</w></name> <w lemma="συλλέγω">συ<supplied reason="lost">λλε</supplied>
+
+
+<lb xml:id="line_28" n="28" break="no"/><supplied reason="lost">γ</supplied><unclear>έ</unclear>τωσαν</w> <w lemma="δικαστήριον"><supplied reason="lost">δικ</supplied>α<supplied reason="lost">σ</supplied>τ<supplied reason="omitted">ή</supplied>ρι<supplied reason="omitted">ον</supplied></w>· ο<supplied reason="lost">ἱ</supplied> <unclear>δ</unclear><supplied reason="lost">ὲ</supplied> <name type="personnel"><w lemma="ἐπιμήνιος"><supplied reason="lost">ἐπ</supplied>ιμήνιοι</w></name> τῶν <name type="festival"><w lemma="Ἀσκληπιός">Ἀσκληπιείων</w></name> <w lemma="λαμβάνω">λαμβάνοντ<supplied reason="omitted">ε</supplied>ς</w> <supplied reason="lost">τὰ</supplied>
+
+	   <lb xml:id="line_29" n="29"/> <w lemma="διαφορά"><supplied reason="lost">διάφ</supplied>ορα</w> <w lemma="παρά">πα<unclear>ρ</unclear><supplied reason="lost">ὰ</supplied></w> <supplied reason="lost">τῶν</supplied> <name type="person"><w lemma="ἀνήρ">ἀν<supplied reason="lost">δρῶν</supplied></w></name> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θυέτ</supplied><unclear>ω</unclear>σαν</w></name> <w lemma="ἐπί">ἐπὶ</w> τῶν <name type="structure"><w lemma="βωμός">βωμῶν</w></name> τῶν <w lemma="ἐν">ἐν</w> τῷ <name type="structure"><w lemma="τέμενος">τεμένει</w></name>· <orig>μη</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb/>(lines 30-87 are increasingly fragmentary and omitted here)
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[... when the festivals] are celebrated in the months of Lenaion and Leukathion, the children shall be [released] from studying and domestic slaves from [their work], and all the people of Lampsakos shall wear a wreath; the priest shall fumigate [...] (20) the altar of Asclepius, and shall take care that fresh laurel [is provided... in the] sanctuary for the wreaths; the sacred herald shall proclaim also [through ?] the prytaneion, and the priest [shall announce] the festival five days in advance, three days in advance, and on the same say; on the days when the festivals are celebrated, the heralds shall enjoin every Lampsakene to wear a wreath; none shall take [anything] as a loan (25) on the days of the Asklepieia; otherwise, he who has made a pledge shall be [liable] to the law on those who have illegally taken a pledge; the arbiters shall not [judge] during these days, nor shall the <foreign>eisagogeis</foreign> gather in [court]; the <foreign>epimenioi</foreign> of the Asklepieia, obtaining the money from the [men ?], shall sacrifice on the altars of the precinct. Not (?) [...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[... quand les fêtes] sont célébrées aux mois de Lenaion et de Leukathion, les enfants [seront dispensés] d'étude et les esclaves domestiques de leurs [travaux], et tous les habitants de Lampsaque porteront une couronne; que le prêtre fasse des fumigations [...] (20) l’autel d’Asclépios, et qu'il fasse en sorte qu’il [y ait] du laurier frais [... dans le] sanctuaire pour les couronnes; que le héraut sacré fasse la proclamation par [le biais du (?)] prytanée, et que le prêtre [annonce] les fêtes cinq jours à l’avance, trois jours à l’avance, et le jour même; les jours de célébration des fêtes, les hérauts enjoindront tous les habitants de Lampsaque de porter une couronne; il ne sera (permis) à personne de prendre [quoi que ce soit] en gage (25) lors des jours des Asklepieia; dans le cas contraire, que celui qui a pris en gage soit [soumis] à la loi relative à ceux qui ont pris en gage illégalement; que les arbitres ne [jugent] pas ces jours-là, pas plus que les <foreign>eisagogeis</foreign> ne réunisse le [tribunal]; que les <foreign>epimenioi</foreign> des Asklepieia, recevant l’argent [des hommes (?)], sacrifient sur les autels de l'enceinte; ne pas (?) [...]</p>
+
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+<p>This regulation is an excerpt of a much longer inscription containing rules on the use of a certain amount of money which has been consecrated to Asclepius (τὰ καθιερωμένα χρήματα τῶι Ἀσκληπιῷ, line 16) and devoted to the celebration of the festival of the god, the Asklepieia. It is hard to know whether the festival has been established or augmented thanks to this donation (presumably a private one, as in <ref target="CGRN_186">CGRN 186</ref>, Ilion), or whether it was reorganized on the occasion of such a donation (Frisch). The cult of Asclepius is not otherwise known in Lampsakos, but is well attested in Troas (Riethmüller, p. 365-366, no. 238-246; add also <bibl type="abbr" n="I.Ilion">I.Ilion</bibl> 97 and <bibl type="abbr" n="SEG">SEG</bibl> 55, 1318). Hence, it is hard to know if the (re)organization of the Asklepieia at Lampsakos was related to the Pergamene cult of the god, whose influence is perceptible in the Troad, principally in the imperial period however (cf. <bibl type="abbr" n="SEG">SEG</bibl> 55, 1318 and <bibl type="abbr" n="IvP III">IvP III</bibl> 74). Since the context of the document is generally lost, it would be speculative to consider the apparent flourishing of the cult of Asclepius at Lampsakos witnessed by this text as in some way related to the alliance between this city and the Attalid kingdom (cf. Pol. 5.78.6). For acts of "foundation" (or renewal) of the cult of Asclepius in Greek cities, cf. here esp. <ref target="CGRN_40">CGRN 40</ref> (Apollonia) and <ref target="CGRN_76">CGRN 76</ref> (Erythrai), and also <ref target="CGRN_124">CGRN 124</ref> (Pergamon); more widely, see Edelstein - Edelstein.</p>
+
+<p> Here, we present the principal part of the text relating to the organisation and parameters of the festival itself (lines 16-29). The remainder of the text treats the prerogatives of the administrators and the participants of the festival (lines 4-16 and 35-72) and also deals with the administration of the funds (lines 72-87). Lines 1-4 and 30-35 are particularly fragmentary and have been excluded here.</p>
+
+<p>In the specific passages included here, the regulation focuses on the practicalities of the organization of the festival, rather than on the rituals themselves. The Asklepieia are marked by a cessation of important activities of the city (school, work, business—esp. usury, lawcourts; cf. lines 17-19 and 24-28). The festival is to be announced no less than three times during the five days prior to the festival (lines 21-22). The main aim of the regulations therefore seems to be to ensure the success of the rites, and more widely, to forge and build a collective identity for the inhabitants of Lampsakos around this festival, by mobilizing as large a group of participants as possible. Concerning the rituals of these Asklepieia, our information is limited. The citizens are to wear wreaths on two specific occasions (see lines 17-18); the priest is to make fumigations on the altar (cf. lines 19-20); finally, the <foreign>epimenioi</foreign> of the Asklepieia make sacrifices on the altars of the precinct. But little or nothing can be said about the animals that were sacrificed, about processions that were organized, the performance of hymns or even contests: it is possible that these matters were specified in other parts of the inscription (now lost), or simply defined elsewhere. For regulations concerning Hellenistic festivals which similarly tend to be brief on cultic details but which place a strong emphasis on the wide participation of the citizenry and other inhabitants of the city, see esp. here <ref target="CGRN_200">CGRN 200</ref> (Magnesia-on-the-Maiander).</p>
+
+<p>Line 17: On the calendar of Lampsakos, cf. Tréheux, according to whom Lenaion (January/February) and Leukathion (June/July) are respectively the 5th and 10th months of the year. Was the festival celebrated twice a year (Edelstein - Edelstein II, p. 195 and 198), or with a different periodicity, some years in Lenaion, some years in Leukathion? In any case, the rites perhaps took place on the 8th or the 18th of the month, as in other Asklepieia (cf. Edelstein - Edelstein II, p. 195).</p>
+
+<p>Lines 17-18: For a similar clause, cf. esp. <ref target="CGRN_200">CGRN 200</ref> (Magnesia-on-the-Maiander), lines 30-31; for slaves in particular, cf. also <bibl type="abbr" n="LSAM">LSAM</bibl> 15. For the temporary "freedom" of slaves, cf. the discussion by Lozano, who doubts that the temporary suspension of these slaves' activities—note that the text refers only to private slaves (οἰκέται), instead of the δημοσίοι or δοῦλοι—means that they take an active part in the celebration. This is possible, but at Magnesia-on-the-Maiander (ref. above), the slaves are explicitly said to take part in the major civic festivities. Nevertheless, despite their inclusivity, the regulations for the festival may also confirm the distinction and hierarchy between citizens and slaves through the fact that perhaps only citizens (Lampsakenes, in the stricter sense?) are to wear wreaths.</p>
+
+<p>Lines 19-20: Most scholars that assume the text means that the priest should burn something on the altar of Asclepius. Robert's proposal that this would be incense finds the best parallels (cp. esp. here <ref target="CGRN_76">CGRN 76</ref>, rules for Asclepius at Erythrai, line 22), but requires a correction on the stone : <supplied reason="omitted">λι</supplied>βα<unclear>ν</unclear>[ωτὸν ἐπὶ] τοῦ βωμοῦ. Other suggestions include βά[λλων σμύρναν ?] "throwing myrrh" (Boeckh), βά[λσαμον] "balsam" (Tod), or βακ̣[κάριδι ?] "clary" (Frisch). According to Rigsby's ingenious hypothesis, the priest shall not burn incense (or whatever else) on the altar, but θυμιάτω βαί[νων ἀπὸ] τοῦ βωμοῦ, "fumigate, walking from the altar", i.e. use a censer and burn incense during his perambulations. Rigsby suggests that the priest made his fumigation walking from the altar to the cult-statue inside the temple, or around this building and then back to the altar, which could imply a purification purpose.
+As a further parallel, Chaniotis (<title>Kernos</title> 2012 <bibl type="abbr" n="EBGR">EBGR</bibl> no. 138) adduces a regulation from the Asklepieion of Epidauros (<bibl type="abbr" n="LSS">LSS</bibl> 25 A) which prescribes the routes and gestures to be taken by the cult personnel during the daily cult in the sanctuary.</p>
+
+<p>Lines 21-22: For the preliminary announcements of festivals by heralds, see here <ref target="CGRN_6">CGRN 6</ref> (Miletos), lines 12-13, and <ref target="CGRN_94">CGRN 94</ref> (Eleusis), lines A5-9. </p>
+
+<p>Line 28: The <foreign>epimenioi</foreign> (literally "monthly officials") are sacrificers and administrators, appointed each year for the festival, or perhaps for each of the two monthly celebrations of the rites for Asclepius (see above on line 17; so Frisch). For the appointment of <foreign>epimenioi</foreign> for specific ritual occasions, see here e.g. <ref target="CGRN_104">CGRN 104</ref> (Halikarnassos), lines 23-31.</p>
+
+<p>Lines 28-29: Nothing is said about the animals sacrificed by the <foreign>epimenioi</foreign>, nor the divine recipient of the sacrifices, though of course Asclepius will have been at the center stage. Yet since there were clearly several altars within the sanctuary and the precinct, Asclepius will not have been the only god worshipped during the Asklepieia: Hygieia, in all probability, and possibly other deities, might have been involved. For the deities associated with Asclepius, see here <ref target="CGRN_34">CGRN 34</ref> (Epidauros), lines 2, etc., <ref target="CGRN_206">CGRN 206</ref> (Pergamon), lines 8-9, and esp. <ref target="CGRN_54">CGRN 54</ref> (Piraeus).</p>
+
+<p>Line 29: The "men" mentioned here were probably the bankers in charge of the foundation; each year, they would give the interest on the initial capital to the <foreign>epimenioi</foreign>, which would provide the funding for the festival (cf. Frisch).</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_173" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 173</idno>: Small <rs type="textType" key="purity regulation">purity regulation</rs> from Delos </title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p>White marble <rs type="objectType">block</rs>, a rough stone polished only on the side on which we find the inscription. Previously united with another block through an oblique nail, and forming with that stone one of the angles of a structure, of which these stones were the only remains (cf. Roussel). This structure was part of the Sarapieion C of Delos, in the Inopos river valley. Sarapieion C, the major sanctuary of Egyptian gods on Delos, was not far away from Sarapieia A and B, and also bordered with the Sanctuary of the Oriental Gods at its eastern end.
+
+		</p>
+	<p><dimensions>
+		<height unit="cm">25</height>
+		<width unit="cm">45</width>
+		<depth unit="cm">unknown</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p>Letters: <height unit="cm">2</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0200" notAfter="-0001">2nd or 1st century BC</origDate></p>
+
+		<p><desc>Justification: lettering (Roussel).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Delos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599588" type="external">Delos</ref></placeName>. See support above for further discussion.</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+<p>
+	Edition here based on Roussel <bibl type="abbr" n="IG XI">IG XI</bibl>.4 1300.
+	    			</p>
+	    			<p> Other editions:
+	    	<bibl type="author_date" n="Hauvette - Besnault 1882">Hauvette-Besnault 1882</bibl>: 350 no. 79;
+	    	<bibl type="author_date" n="Roussel 1916">Roussel 1916</bibl>: no. 50.
+	    			</p>
+
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 94;
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 90;
+	    				<bibl type="author_date" n="Guarducci 1978">Guarducci 1978</bibl>: 123.
+	    			</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Bruneau 1970">Bruneau 1970</bibl>;
+	    				<bibl type="author_date" n="Parker 1983">Parker 1983</bibl>;
+	    				<bibl type="author_date" n="Siard 2003">Siard 2003</bibl>;
+	    				<bibl type="author_date" n="Harris 2015">Harris 2015</bibl>.
+
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+
+	    				<lb xml:id="line_1" n="1"/> <w lemma="ἀπό">ἀπ'</w> <w lemma="οἶνος">οἴνου</w> <w lemma="μή">μὴ</w> <w lemma="πρόσειμι">προσιέναι</w>
+
+	    				<lb xml:id="line_2" n="2"/> <w lemma="μηδέ">μηδὲ</w> <w lemma="ἐν">ἐν</w> <name type="clothing"><name type="colour2"><w lemma="ἄνθινος">ἀνθινοῖς</w></name></name>.
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+						Do not come after drinking or in bright-coloured clothes.</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Ne pas approcher en état d'ébriété ni en vêtements aux couleurs vives.</p>
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p>This small regulation from Sarapieion C (on which cf. Siard) should belong to the cult of an Egyptian deity on Delos, perhaps that of Isis (Hauvette-Besnault), though other gods are entirely possible; see immediately below.  The history of the sanctuary goes back to the early third century BC, and we know that Isis and Sarapis were worshipped here from this time (cf. Bruneau and Roussel). The stone was connected to another stone with a nail, on which we find a dedication to Zeus and Meter Megale on the command of Osiris. On this category of text as a sort of  ‘warning sign’, see Harris, p. 58-60.</p>
+
+	<p>Line 1: As Plutarch describes (<title>De Is. Os.</title> 6), wine was strictly forbidden in the cult of Isis.</p>
+
+	<p>Line 2: 'Flowery' garments may refer to clothing with flowers embroidered on them, or simply, to brightly-coloured or luxurious clothes. These are also forbidden in the cult of Despoina at Lykosoura: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_126/">CGRN 126</ref>, lines 3-6. Brightly-coloured clothes and other forms of luxury were also forbidden during the festival of Demeter at Dyme: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_127/">CGRN 127</ref>, lines 5-6. Such rules seem aimed at curbing ostentation and promoting simplicity of dress; as Parker (p. 83 n. 36) explains, bright-coloured clothing may mark out a prostitute. Cp. also the schol. on Sophocles' <title>OC</title> 684 (referring again to Demeter).</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

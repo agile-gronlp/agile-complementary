@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_195" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 195</idno>: <rs type="textType" key="decree">Decree</rs> concerning the donation of Hegesarete for the cult of Meter at Minoa on Amorgos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+		<supportDesc><support>
+
+			<p> Three fragments (A, B1-2) of the same dark blue marble, with the same handwriting and, in all likelyhood belonging to the same <rs type="objectType">stele</rs>. The thickness of A (12 cm) is not the same as that of B1/B2 (15 cm), and the length of the lines is not the same. However, Robert (1933), having studied these fragments anew, pointed out that the back surface of A has been reworked and it is for this reason that the stone is less thick (expect in one part where this original thickness of 15 cm has been preserved); and the shorter length of the lines in A is to be explained by the fact that this was most probably a pyramical stele.</p>
+
+			<p> Fragment A: broken on the right and below.
+				<dimensions>
+				<height unit="cm">20</height>
+				<width unit="cm">21</width>
+				<depth unit="cm">12</depth>
+			</dimensions></p>
+
+			<p> Fragment B1: broken on all sides.
+				<dimensions>
+				<height unit="cm">14</height>
+				<width unit="cm">16</width>
+				<depth unit="cm">15</depth>
+			</dimensions></p>
+
+			<p> Fragment B2: broken above and below.
+				<dimensions>
+				<height unit="cm">47</height>
+				<width unit="cm">97</width>
+				<depth unit="cm">15</depth>
+			</dimensions></p>
+
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p> Letters of A, B1 and B2: <height unit="cm">1</height>.</p>
+		</layout></layoutDesc>
+
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0100" notAfter="-0001">1st century BC</origDate></p>
+
+		<p><desc>Justification: lettering (Delamarre).</desc></p>
+						</origin>
+	<provenance>
+		<p><placeName type="ancientFindspot" key="Amorgos" n="Aegean_Islands"/><ref target="http://pleiades.stoa.org/places/599800" type="external">Amorgos</ref>. All fragments were found in Minoa, but wrongly attributed to Arkesine by the first editor, Homolle. (Fragment B1: found a private house situated on the southern slope of the citadel; Fragment B2: found during an excavation on the southern slope of the citadel.) All are now in the Museum of Syra.</p></provenance>
+
+
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition based on Delamarre <bibl type="abbr" n="IG XII.7">IG XII.7</bibl> 245 (fragment A), with the addition and correction of Hiller von Gaertringen in <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl>, p. 144,  and <bibl type="abbr" n="IG XII.7">IG XII.7</bibl> 237 (fragments B1 and B2). Of fragment B2, we only excerpt lines 1-28 here.</p>
+
+	    			<p> Other editions:
+	    				<bibl type="author_date" n="Homolle 1892">Homolle 1892</bibl>;
+	    				<bibl type="author_date" n="Holleaux 1894">Holleaux 1894</bibl>;
+	    				<bibl type="author_date" n="Robert 1929">Robert 1929</bibl>;
+	    				<bibl type="author_date" n="Robert 1933">Robert 1933</bibl>.
+	    			</p>
+
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 98;
+	    				<bibl type="author_date" n="Laum 1914">Laum 1914</bibl>: no. 50;
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 103.
+	    			</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Parker - Obbink 2000">Parker - Obbink 2000</bibl>: 447; <bibl type="author_date" n="Pirenne-Delforge 2005">Pirenne-Delforge 2005</bibl>: 66 n. 47; <bibl type="author_date" n="Carbon - Pirenne-Delforge 2013">Carbon - Pirenne-Delforge 2013</bibl>; <bibl type="author_date" n="Jim 2014">Jim 2014</bibl>: 33-52.
+
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+
+	    	<ab subtype="fragment" n="A"> Fragment A
+
+	    		<lb xml:id="line_A1" n="A1"/> <w lemma="ἐπί"><supplied reason="lost">ἐ</supplied>πὶ</w> <name type="title"><w lemma="δημιουργός">δημιουργο<supplied reason="lost">ῦ</supplied></w></name> Θευδήμου καὶ <name type="personnel"><w lemma="ἱερεύς">ἱερέως</w></name>
+
+<lb xml:id="line_A2" n="A2"/> τῆς <name type="deity" key="Rhodes"><w lemma="Ῥόδος">Ῥόδου</w></name> Θράσ<supplied reason="lost">ώ</supplied>νος <w lemma="μείς">μηνὸς</w> <name type="month"><w lemma="Ληναιών">Ληναιῶνος</w></name>
+
+
+<lb xml:id="line_A3" n="A3"/> <w lemma="προτεραῖος">προτεραίᾳ</w>· οἱ <name type="person"><w lemma="ἀνήρ">ἄν<supplied reason="lost">δ</supplied>ρες</w></name> οἱ <w lemma="αἱρέω">αἱρεθέντες</w> <w lemma="ὑπό">ὑπὸ</w>
+
+	    		<lb xml:id="line_A4" n="A4"/> τοῦ <name type="group"><w lemma="δῆμος">δήμου</w></name> <w lemma="κατά">κατὰ</w> <name type="authority"><w lemma="ψήφισμα"><supplied reason="lost">ψ</supplied>ήφισμα</w></name>, Πάγκριτος Παγ
+
+
+<lb xml:id="line_A5" n="A5" break="no"/>κρίτου, Ἀγήνωρ Ἀμεινοκράτου, Εὐνομίδης
+
+	    		<lb xml:id="line_A6" n="A6"/> Κλέωνος <w lemma="γράφω">γράψα<supplied reason="lost">ι</supplied></w> <name type="authority"><w lemma="νόμος"><supplied reason="lost">ν</supplied>όμον</w></name>, <w lemma="κατά">καθ’</w> ὃν τό τε <w lemma="ἀργύριον">ἀργύ
+
+	 <lb xml:id="line_A7" n="A7" break="no"/>ριον</w>, <w lemma="ἐγδανείζω">ἐγδανεισ<supplied reason="lost">θήσ</supplied>εται</w>, ὃ <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνατέθεικεν</w></name> καὶ <w lemma="ἐπιδίδωμι"><supplied reason="lost">ἐ</supplied>
+
+	 <lb xml:id="line_A8" n="A8" break="no"/>πέδωκεν</w> ἡ <name type="person"><w lemma="γυνή">γ<supplied reason="lost">υνὴ</supplied></w></name> <supplied reason="lost">Ἑρμ</supplied>οκρά<supplied reason="lost">του</supplied> τοῦ Παγκ<supplied reason="lost">ρί</supplied>
+
+<lb xml:id="line_A9" n="A9" break="no"/><supplied reason="lost">του</supplied> <supplied reason="lost">Ἡ</supplied>γησα<supplied reason="lost">ρέτη</supplied> <supplied reason="lost">Αἰνησικράτου</supplied> <w lemma="δραχμή">δραχ<supplied reason="lost">μὰς</supplied></w>
+
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    	</ab>
+
+	    	<ab subtype="fragment" n="B1"> Fragment B1
+
+	    		<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+	    		<lb xml:id="line_B1" n="B1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="lost" quantity="2" unit="character"/><orig>ρο</orig><gap reason="lost" quantity="2" unit="character"/><orig>ν</orig><gap reason="lost" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+
+	    		<lb xml:id="line_B2" n="B2"/> <gap reason="lost" extent="unknown" unit="character"/>ωσιν <w lemma="κατά">καθ’</w> <w lemma="ἕκαστος">ἕκ<supplied reason="lost">αστον</supplied></w> <w lemma="ἐνιαυτός"><supplied reason="lost">ἐνιαυτὸν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    		<lb xml:id="line_B3" n="B3"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="λαμβάνω"><supplied reason="lost">λα</supplied>μβάνοντες</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    		<lb xml:id="line_B4" n="B4"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τοὺς</supplied> <w lemma="τόκος"><supplied reason="lost">τόκο</supplied>υς</w> τοὺς <w lemma="γίγνομαι">γινο<supplied reason="lost">μένους</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    		<lb xml:id="line_B5" n="B5"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἀγοράζω"><supplied reason="lost">ἀγορα</supplied>σάτωσαν</w> <name type="animal" key="ox"><w lemma="βοῦς">βοῦν</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+
+	    		<lb xml:id="line_B6" n="B6"/> <gap reason="lost" extent="unknown" unit="character"/>ραν <w lemma="μή">μὴ</w> <name type="age"><name type="gender"><w lemma="νέος">νεωτέ<supplied reason="lost">ραν</supplied></w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    		<lb xml:id="line_B7" n="B7"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="sacrifice"><w lemma="θύω">θυέτωσαν</w></name> <orig>με</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+	    		<lb xml:id="line_B8" n="B8"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τοῦ</supplied> <w lemma="μείς"><supplied reason="lost">μηνὸς</supplied></w> <supplied reason="lost">τοῦ</supplied> <name type="month"><w lemma="Κρονίων"><supplied reason="lost">Κρο</supplied>νιῶνος</w></name> <w lemma="πρό">πρὸ</w> <w lemma="εἰκάς">εἰ<supplied reason="lost">κάδος</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B9" n="B9"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">οἱ</supplied> <name type="personnel"><w lemma="ἐπιμήνιος"><supplied reason="lost">ἐ</supplied>πιμήνιοι</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B10" n="B10"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΙΟ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    	</ab>
+
+	    		<ab subtype="fragment" n="B2"> Fragment B2
+
+<lb xml:id="line_B11" n="B11"/> <supplied reason="lost">οἱ</supplied> <name type="personnel"><w lemma="ἐπιμήνιος"><supplied reason="lost">ἐ</supplied>πιμ<supplied reason="lost">ήνιοι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B12" n="B12"/> <gap reason="lost" quantity="2" unit="character"/>ωσαν <orig>ει</orig><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ω</supplied>
+
+<lb xml:id="line_B13" n="B13" break="no"/><supplied reason="lost">σ</supplied>αν <w lemma="ἐν">ἐν</w> τῶι <w lemma="ἱερός">ἱερῶ<supplied reason="lost">ι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B14" n="B14"/><supplied reason="lost">κ</supplied>έναι τὸν <w lemma="λόγος">λόγον</w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="παραχρῆμα"><supplied reason="lost">πα</supplied>
+
+<lb xml:id="line_B15" n="B15" break="no"/><supplied reason="lost">ρ</supplied>αχρῆμα</w> <w lemma="ἐκδανείζω">ἐγδανεισ<supplied reason="lost">άτωσαν</supplied></w> <gap reason="lost" quantity="10" unit="character" precision="low"/><supplied reason="lost">·</supplied> <name type="genericOffering"><w lemma="παρατίθημι"><supplied reason="lost">παρατιθέτω</supplied>
+
+<lb xml:id="line_B16" n="B16" break="no"/>σαν</w></name> δὲ καὶ <w lemma="ἐπί"><supplied reason="lost">ἐπ</supplied>ὶ</w> τὴν <name type="structure"><w lemma="τράπεζα">τρά<supplied reason="lost">πεζαν</supplied></w></name> <supplied reason="lost">τοῦ</supplied> <supplied reason="lost">μὲν</supplied> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοὸς</supplied></w></name> <gap reason="lost" quantity="7" unit="character" precision="low"/> <supplied reason="lost">καὶ</supplied>
+
+<lb xml:id="line_B17" n="B17"/> <name type="portion"><w lemma="γλῶσσα">γλῶσσαν</w></name> καὶ <name type="portion"><w lemma="σάρξ">σάρκας</w></name> <w lemma="τρεῖς">τρεῖς</w> <supplied reason="lost">καὶ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_B18" n="B18"/> <w lemma="ὅμοιος">ὁμοίως</w> δὲ καὶ τῶν <w lemma="ἄλλος">ἄλλων</w> <name type="animal" key="generic"><w lemma="ἱερεῖον"><supplied reason="lost">ἱερείων</supplied></w></name><supplied reason="lost">·</supplied> <supplied reason="lost">τῶν</supplied> <supplied reason="lost">δὲ</supplied> <name type="genericOffering"><w lemma="παρατίθημι"><supplied reason="lost">παρατιθεμένων?</supplied></w></name>
+
+<lb xml:id="line_B19" n="B19"/> τῆι <name type="deity" key="Meter"><w lemma="θεός">θεῶι</w></name> <w lemma="ἐπί">ἐπὶ</w> τὴν <name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name> <w lemma="εἰμί">ἔσ<supplied reason="lost">τω</supplied></w> <supplied reason="lost">τὸ</supplied> <supplied reason="lost">μὲν</supplied> <gap reason="lost" quantity="9" unit="character" precision="low"/> <name type="portion"><w lemma="μέρος"><supplied reason="lost">μέ</supplied>
+
+<lb xml:id="line_B20" n="B20" break="no"/>ρος</w></name> τῆς <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> τὰ δὲ <name type="portion"><w lemma="λοιπός">λοιπὰ</w></name> τῶν ἐπα<gap reason="lost" quantity="13" unit="character" precision="low"/>
+
+<lb xml:id="line_B21" n="B21"/> <w lemma="ἐπάν">ἐπὰν</w> δὲ <w lemma="τελετή">τελετὴν</w> <w lemma="ποιέω">ποιῇ</w> ἡ <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name>, ὁ <name type="genericOffering"><w lemma="πελανός">πελαν<supplied reason="lost">ὸς</supplied></w></name> <supplied reason="lost">ὁ</supplied> <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀποδι</supplied>
+
+<lb xml:id="line_B22" n="B22" break="no"/>δόμενος</w> <w lemma="ὑπό">ὑπὸ</w> τῶν <name type="person"><w lemma="τελέω">τε<supplied reason="lost">λ</supplied>ουμένων</w></name> <name type="genericOffering"><w lemma="ἱερός">ἱε<supplied reason="lost">ρὸ</supplied>ς</w></name> <w lemma="εἰμί">ἔσ<supplied reason="lost">τ</supplied>ω</w>· <supplied reason="lost">ἔστω</supplied> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">ὁ</supplied> <name type="genericOffering"><w lemma="πελανός"><supplied reason="lost">πε</supplied>
+
+<lb xml:id="line_B23" n="B23" break="no"/>λανὸς</w></name> <w lemma="ἕκαστος">ἑκάστου</w> <w lemma="δραχμή">δραχμὴ</w> καὶ <w lemma="ἐκδανείζω">ἐγδανεισθήτω</w> <w lemma="παραχρῆμα">π<supplied reason="lost">αραχρῆ</supplied>
+
+<lb xml:id="line_B24" n="B24" break="no"/>μα</w>· <space quantity="1" unit="character"/> τὸν δὲ <w lemma="τόκος">τόκον</w> <w lemma="">λογευέτωσαν</w> καὶ <w lemma="οὗτος">τοῦτον</w> ο<supplied reason="lost">ἱ</supplied> <name type="personnel"><w lemma="ἐπιμήνιος"><supplied reason="lost">ἐπιμή</supplied>
+
+<lb xml:id="line_B25" n="B25" break="no"/>νιοι</w></name> καὶ <name type="meal"><w lemma="καθιστιάω">καθιστιάτωσαν</w></name>, τὰ δὲ <name type="portion"><w lemma="ἄλλος">ἄλλα</w></name> <w lemma="εἰμί">ἔστω</w> τῆς <name type="personnel"><w lemma="ἱέρεια">ἱε<supplied reason="lost">ρείας</supplied></w></name>
+
+<lb xml:id="line_B26" n="B26"/> <w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="ἔθιμος">ἔθιμα</w></name>· <space quantity="1" unit="character"/> ἡ δὲ <w lemma="αἱρέω">αἱρουμέν<supplied reason="lost">η</supplied></w> <w lemma="ἀεί"><supplied reason="lost">ἀ</supplied>εὶ</w> <name type="personnel"><w lemma="ἱέρεια">ἱέρεια</w></name> <w lemma="παρέχω">παρεχέ<supplied reason="lost">τω</supplied></w> <w lemma="αὐτός"><supplied reason="lost">αὐ</supplied>
+
+<lb xml:id="line_B27" n="B27" break="no"/>τὴ</w> τὰ <name type="genericOffering"><w lemma="τέλεστρα">τέλεστρα</w></name> <w lemma="ἴδιος">ἰδίαι</w> καὶ <w lemma="ἱεράζω">ἱεραζέτω</w> <w lemma="ἔτος">ἔτη</w> <w lemma="δέκα">δέκα</w>, <w lemma="ἐάν">ἐὰν</w> <w lemma="βούλομαι">βο<supplied reason="lost">ύλη</supplied>
+
+<lb xml:id="line_B28" n="B28" break="no"/>ται</w>· κτλ.
+	    	</ab>
+
+	    			</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p> Fragment A</p>
+<p>When Theudemos was <foreign>demiourgos</foreign> and Thrason was priest of Rhodes, on the 1st day of the month Lenaion: the men who have been chosen by the people, according to the decree, Pankritos (5) son of Pankritos, Agenor son of Ameinokrates, Eunomides son of Kleon are to write down the law, according to which the money is to be loaned out, (the sum) which the wife of [Hermokrates] the son of Pankritos, Hegesarete [daughter of Ainesikrates] consecrated and donated (as a benefaction) [...] drachmae [...]</p>
+
+<p>Fragment B1</p>
+<p>[...] every [year...] they, taking [...] the acrued [interest... (5) ...] they should buy a cow [...] not younger than [...] they should sacrifice [... in the month] Kronion before the 20th [...] the <foreign>epimenioi</foreign> [... (10) ...]</p>
+
+<p>Fragment B2</p>
+<p>[...] the <foreign>epimenioi</foreign> [...] they should [...] they should [...] in the sanctuary [...] the account [...] (15) they should immediately lend out [...]. And they should also set on the table, [from the ox, ... and] the tongue and three portions of flesh [and...] and in the same way for the other [sacrificial animals. Of those things that have been set aside] on the table for the goddess, let there be [...] portion (20) of the priestess; the rest of the [...]. When the priestess performs the initiation, let the <foreign>pelanos</foreign> [which is] given by the initiands be sacred. The <foreign>pelanos</foreign> for each [should be] one drachma, and it should be lent out at an interest immediately. The <foreign>epimenioi</foreign> should also collect this interest (25) and spend it on a feast, and let the rest be for the priestess, according to what is customary. The priestess appointed at any given time should herself provide the fees for admission to the priesthood from her
+own means and she should exercise the priesthood for ten years, if she wants. </p>
+					<p>(44 further lines follow)</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Fragment A</p>
+					<p>Alors que Theudemos était démiurge et que Thrason était prêtre de Rhodes, le 1er du mois de Lenaios : les hommes qui ont été choisis par le peuple par décret, Pankritos (5) fils de Pankritos, Agenor fils d'Ameinokratès, Eunomidès fils de Kleon, doivent rédiger la loi selon laquelle l'argent sera prêté, celui que la femme d'Hermokratès fils de Pankritos, Hegesaretè [fille d'Ainesikratès] a consacré et donné [...] drachmes.</p>
+
+					<p>Fragment B1</p>
+					<p>[...] chaque [année ...] ils, prenant [... l'intérêt] augmenté, [... (5) ...] qu'ils achètent une vache [...] pas plus jeune que [...] qu'ils sacrifient [... au mois de] Kronion avant le 20 [...] les <foreign>epimenioi</foreign> [... (10) ...]
+						</p>
+
+					<p>Fragment B2</p>
+					<p>[...] les <foreign>epimenioi</foreign> [...] qu'ils [..] qu'ils [...] dans le sanctuaire [...] le compte [...] (15) qu'ils prêtent immédiatement [... qu'ils mettent de côté] aussi sur la table, [provenant du boeuf, ... et] la langue et trois portions de chair [et ...] et de la même manière pour les autres [animaux sacrificiels. De ce qui a été mis de côté] pour la déesse sur la table, qu'il y ait [...] portion (20) de la prêtresse; le reste de [...]. Quand la prêtresse accomplit l'initiation, que le <foreign>pelanos</foreign> [qui est] donné par les initiés soit sacré. [Que] le <foreign>pelanos</foreign> de chacun [soit] d'une drachme, et qu'il soit prêté à intérêt [immédiatement]. Que les <foreign>epimenioi</foreign> collectent cet intérêt (25) et l'affectent à une réception, et que le reste revienne à la prêtresse selon la coutume. Que la prêtresse choisie à l'avenir assume elle-même les frais de sa propre installation et qu'elle exerce la prêtrise pendant dix ans, s'il elle le souhaite.</p>
+					<p>(l'inscription se poursuit sur 44 lignes)
+					</p>
+
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+						<p> This law, belonging to the Samians resident at Minoa on Amorgos (ὁ Σα[μίω]ν ὁ κατοικῶν ἐν Μινώιαι, in lines B38, not reprised here), is concerned with a sum of money (the amount is missing in lines B9-10) that had been donated by a woman called Hegesarete (cf. lines A8-9 and also B38-39) and which was to be used for the organisation of the cult of Meter (cf. the reference to the festival Metroia in B64; cf. τῆι θεῶι in B19). As the preamble indicates (lines A3-8), three men had been appointed by a decree of the community to write a law (γράψα[ι ν]όμον) concerning the lending out of the money (ἐγδανεισ[θήσ]εται) which Hegesarete had both consecrated (i.e. to the goddess Meter) and donated (to the city) for its administration (ἀνατέθεικεν καὶ [ἐ]πέδωκεν). The cult of Meter at Minoa and on Amorgos is not otherwise well attested and the sanctuary has not been located. For the cult of the Mother of the Gods, cf. e.g. here <ref target="CGRN_60">CGRN 60</ref> (Thera) and <ref target="CGRN_175">CGRN 175</ref> (Priene).</p>
+
+	<p>The two other fragments, B1-2, appear to represent a substantial portion of this law, and would have followed somewhere below the preamble in fragment A. Regrettably, fragment B1, which appears to follow A and precede B2 according to the prevailing reconstruction, is the most fragmentary. This seems to have been concerned with the perhaps annual (line B2) purchase and sacrifice of a young cow (B5-7). It also will have said something about the duties of the officials punctually appointed for the purpose of administering the donation and probably organising these sacrifices, the <foreign>epimenioi</foreign> (cf. B9 and 11, which are discussed further below). Where fragment B2 becomes more coherent, we read something further about the duties, presumably of these officials, to render an account (lines B14) and lend out money immediately at an interest (line B15: ἐγδανεισ[άτωσαν). There followed a substantial section about the offerings to be placed on the table for the goddess (lines B15-20). Another section of
+interest here concerns the payment of a fee called <foreign>pelanos</foreign> by those wishing to be initiated in the mysteries of the goddess (lines B21-27). Some of the conditions for holding the priesthood of Meter are also specified or perhaps redefined in this law, including her perquisites (in the section on table-offerings), the duration of her contract and some of her obligations (lines B26-28). The rest of the text, lines B28-71, are not reproduced here: these lines specify procedures for the distribution of crowns, i.e. honours for the <foreign>epimenioi</foreign> who have well performed their task (lines B28-36), the proclamation of honours for the benefactress Hegesarete herself (lines B36-43), the circumstances under which people can pay back the entirety of sums of money borrowed from the donation and other parameters of the administration of the loans and payments (lines B43-63); furthermore, the law stipulated the method of selection of the two annual
+<foreign>epimenioi</foreign> (lines B63-66), as well as the procedure for the yearly payment of interest on loans, which was to be made to these officials (lines B66-7); it is unclear how much of the document may be still missing below this. For the lending of the capital at interest in donations to a god and/or to a city, cp. here <ref target="CGRN_107">CGRN 107</ref> (Kalaureia), as well as <ref target="CGRN_202">CGRN 202</ref> and <ref target="CGRN_204">CGRN 204</ref> (both from Delphi). For the punctual appointment of annual officials called <foreign>epimenioi</foreign> in administering donations and other cultic endowments, see Carbon and Pirenne-Delforge and cf. here esp. <ref target="CGRN_197">CGRN 197</ref> (Kos), lines 46-65, with further refs.</p>
+
+<p> Lines A1-2: The dating on the basis of the <foreign>demiourgos</foreign> is a Samian practice and corresponds to the drawing up of the law by the Samians of Minoa. The reference to the priesthood of Rhodes must be to the divinised personification of the city of Rhodes. For the goddess Rhodes, whose cult is frequently attested in the Aegean islands and elsewhere (Holleaux), cf. also here <ref target="CGRN_193">CGRN 193</ref> (Hyllarima), line 11. The dating formula ἐπὶ δημιουργοῦ τοῦ δεῖνος, ἱερέως δὲ τὴς Ῥόδου τοῦ δεῖνος, is also found at <bibl type="abbr" n="IG XII.5">IG XII.5</bibl> 38 (Naxos). Interactions between Rhodes and the island of Amorgos are known to us from various epigraphical documents, one of which specifies financial obligations of the community of Arkesine to Rhodes (Homolle).</p>
+
+<p> Lines B5-6: Since we do not know how much is missing in the lacunae, it is difficult to be sure that the age specification strictly belongs to the ox mentioned in the previous line, though this is likely and the adjective would thus inform us that the animal was in fact a cow. A minimum age of one year seems the most likely for a young cow: cp. here <ref target="CGRN_109">CGRN 109</ref> (Kamiros), lines 7-8, for this minimum age for a heifer, and also <ref target="CGRN_130">CGRN 130</ref> (Kamiros), lines 3-4, for a bull at least one year old. (The other case in which a minimum age is normally mentioned is for the priests, cf. <ref target="CGRN_164">CGRN 164</ref>, Kos, line 6, commentary at lines 5-6, but this would mean that the priestess should be mentioned somewhere in the immediately preceding text.)</p>
+
+<p> Line B12-16: The requirement to "lend out the money immediately" is repeated at B23, where it follows the mention of a source of income (a fee payable by the initiates). It seems likely that a similar kind of income is mentioned in the fragmentary lines here, concerning which the <foreign>epimenioi</foreign> also probably had to render an account (λόγος, line B4). Given the possible mention of something "in the sanctuary" (ἐν τῶι ἱερῶ[ι]), we may perhaps think of money that had been placed in a money-box as a result of sacrificial tariffs; but no certainty on the matter is possible.</p>
+
+	<p> Lines B16-21: The action of placing parts of the animal on a sacrificial table for the god is often expressed by the verb παρατίθημι, hence the restorations given here, none of which is secure, however. For this action, cp. for example <ref target="CGRN_34">CGRN 34</ref> (Epidauros), line 29, and <ref target="CGRN_76">CGRN 76</ref> (Erythrai), lines 15-23. For a further commentary on such table-offerings, cf. <ref target="CGRN_13">CGRN 13</ref> (Selinous), lines A14-15. Often, such portions placed on the table for the god would end up as perquisites for the priests, as is explicitly stated for example in <ref target="CGRN_76">CGRN 76</ref> (Erythrai), lines 23-25, and <ref target="CGRN_206">CGRN 206</ref> (Pergamon), lines 12-15. A similar statement seems to be intended here: it would seem that a portion (perhaps a third or a quarter) of the portions of meat deposited on the table were attributed to the priestess ([... μέ]ρος τῆς ἱερείας). The remainder were given to another figure, perhaps the city or the goddess herself (to be sold for money), e.g. [τῆς πολέως] or [τῆς θεοῦ]. Rather than as παρατιθέμενα, the remainder of these portions at the end of line B20 seems to be differently qualified; we could suggest to restore ἐπά[ργματων] or ἐπα[ρχομένων] here instead (Carbon). If correct, this might caution the restoration of παρατίθημι in the preceding lines and it would more clearly entail that the table-offerings were here viewed as first-fruits for the goddess; on first-offerings and this terminology, see Jim. Note esp. how the ἀπάργματα are explicitly qualified as having come "from the table" at <ref target="CGRN_13">CGRN 13</ref> (Selinous), lines A19-20. Among the portions to be placed on the table, some of which are now missing, we find the tongue and three portions of beef. For the tongue as a priestly perquisite, notably prevalent on Chios, cf. <ref target="CGRN_41">CGRN 41</ref>, line 9, with further references. The term σάρξ refers generally to "flesh" or "meat" (of humans and animals, note e.g. its use for human flesh in Homer, <title>Il.</title> 8.380 and <title>Od.</title> 9.293). However, in ritual norms this word is recurrently used as a technical term for (equally?) divided portions of beef: cf. here <ref target="CGRN_26">CGRN 26</ref> (Athens), lines B13-14: [ἐὰ]ν δὲ βο̑ς θύεται, σάρ[κας], <ref target="CGRN_84">CGRN 84</ref> (Salaminioi), line 33: βοὸς δὲ ἐννέα σάρκας καὶ τὸ δέρμα, and <ref target="CGRN_76">CGRN 76</ref> (Erythrai), line 16: βοιὸς τρεῖς σάρκας (but τρία κρέα of other animals).</p>
+
+<p>Lines B22-28: Initiations are well attested in the cult of Meter; cf. again here the sale of priesthood from Priene, <ref target="CGRN_175">CGRN 175</ref>, lines 15-19 (exclusively concerning women there, but here the gender is unclear). The word <foreign>pelanos</foreign> etymologically designates an offering of a type of cake or libation, but in our earliest sources it already acquired the meaning of a sacrificial fee, as it clearly seems to have here: initiands are to pay a single drachma to be initated; this money is also to be loaned out but a portion of it may have been attributed to the priestess (line B23-26). For the <foreign>pelanos</foreign> and a discussion of these various senses of the word, cf. here <ref target="CGRN_29">CGRN 29</ref> (Delphi), lines 24-28 (possibly a monetary sense, though this unsure), <ref target="CGRN_58">CGRN 58</ref> (Thera), and <ref target="CGRN_94">CGRN 94</ref> (Eleusis), col. B, line 8. The word τέλεστρα here refers to the ritual supplies surrounding the "initiation" of the priestess into office, an inaugural process for which she had to pay herself, and which is closely tied (in the same sentence) with the duration of her office, namely 10 years (for a different view, relating this to supplies for the initiates, see Pirenne-Delforge). Ritual norms, especially documents that specify the contract and the conditions of a priesthood, sometimes regulate the procedure and financing of the initiation of the priest upon commencing his or her duties. The priest regularly had to finance his own initiation, cf. here <ref target="CGRN_85">CGRN 85</ref> with commentary at line 1, for the case of Kos in which this specification recurs; at <ref target="CGRN_175">CGRN 175</ref> (Priene) again, a clear distinction is made between the provisions for initates (lines 15-19) and for those of the initiation of the priestess herself (line 36:  ἡ <supplied reason="omitted">ἱ</supplied>ερῆ ... τελεσθήσεται τέλεσι τοῖς α<supplied reason="lost">ὑτῆς</supplied>).</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_150" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 150</idno>: <rs type="textType" key="decree">Decree</rs> of Mylasa proposing cultic honours for the dynast Olympichos</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of a marble <rs type="objectType">stele</rs> of marble. The more substantial fragment published by Isager and Karlsson joins with a previously known fragment from Crampa <bibl type="abbr" n="I.Labraunda">I.Labraunda</bibl> 49; the latter covers lines 27-32 (30-32 are only preserved on this fragment). With this joining fragment, the height may be greater than what is reported here.</p>
+			<p><dimensions>
+					<height unit="cm">at least 37</height>
+					<width unit="cm">47</width>
+					<depth unit="cm">13-14.5</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Syllabic division is consistently respected (cf. notably the end of lines 14 and 20). Letters: <height unit="mm">10-13</height>; smaller round letters (no precise measurement given).</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history><origin>
+		<p><origDate notBefore="-0240" notAfter="-0200">ca. 240-200 BC</origDate></p>
+		<p><desc>Justification: context (Olympichos). Despite the frequency of reinscribings at Labraunda and what the editors suggest concerning the letterforms (doubtful inferences, except for the presence of marked serifs), it seems preferable not to presume that we have here a copy from about a century later than what the context suggests.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Labraunda" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599745/" type="external">Labraunda</ref></placeName>, sanctuary of Zeus. Found reused in the southern Roman bath. Now in the Milas Museum (Labraunda C401, inv. no. 2873).</p>        
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Isager - Karlsson 2008">Isager - Karlsson 2008</bibl>, with ph. (to be numbered as I.Labraunda 134). We adopt the readings of the first edition, but with the layout of <bibl type="abbr" n="SEG">SEG</bibl>. Specific restorations in the lacunae to the left are to be treated as hypothetical, here also sometimes indicated with question marks.</p>
+				    <p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 58, 1739.</p>
+					<p>Further bibliography: Crampa <bibl type="abbr" n="I.Labraunda">I.Labraunda</bibl> 1-12, for the dossier pertaining to the period of Olympichos; <bibl type="author_date" n="Strubbe 2004">Strubbe 2004</bibl>; <bibl type="author_date" n="Ameling 2013">Ameling 2013</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    				
+<lb/><gap reason="lost" extent="unknown" unit="line"/>		
+	    	
+<lb xml:id="line_1" n="1"/><gap reason="lost" quantity="6" unit="character" precision="low"/><orig><unclear>ΕΙΝ</unclear></orig><gap reason="lost" quantity="29" unit="character" precision="low"/>
+	    					
+<lb xml:id="line_2" n="2"/><gap reason="lost" quantity="9" unit="character" precision="low"/> <w lemma="ἅπας">ἁπάσα<unclear>ι</unclear><supplied reason="lost">ς</supplied></w> <gap reason="lost" quantity="25" unit="character" precision="low"/>
+	    				
+<lb xml:id="line_3" n="3"/><w lemma="ὑπάρχω"><supplied reason="lost">ὑπάρχειν</supplied></w> <supplied reason="lost">δὲ</supplied> <unclear>τ</unclear>ὰ <w lemma="αὐτός">αὐτὰ</w> καὶ τ<unclear>οῖ</unclear>ς <name type="person"><w lemma="ἔγγονος">ἐ<supplied reason="lost">γγόνοις</supplied></w></name> <w lemma="αὐτός"><supplied reason="lost">αὐτοῦ</supplied></w><supplied reason="lost">·</supplied> <w lemma="ἵστημι"><supplied reason="lost">στῆ</supplied>
+	    					
+<lb xml:id="line_4" n="4" break="no"/><supplied reason="lost">σαι</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="αὐτός"><supplied reason="lost">αὐτο</supplied><unclear>ῦ</unclear></w> καὶ <name type="object"><w lemma="εἰκών">εἰκόνα</w></name> <name type="quality"><w lemma="χαλκός">χαλκῆν</w></name> <w lemma="ἐν">ἐν</w> <unclear>τῆ</unclear><supplied reason="lost">ι</supplied> <gap reason="lost" quantity="8" unit="character" precision="low"/>
+	    					
+<lb xml:id="line_5" n="5"/><w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τῶι</supplied> <w lemma="ἐπιφανής"><supplied reason="lost">ἐπιφανε</supplied><unclear>σ</unclear>τάτωι</w> <w lemma="τόπος">τόπωι</w>· <w lemma="ἵστημι">στῆσαι</w> δὲ καὶ το<unclear>ῦ</unclear> <name type="deity" key="Demos"><w lemma="δῆμος">Δή<unclear>μ</unclear><supplied reason="lost">ου</supplied></w></name>
+	    					
+<lb xml:id="line_6" n="6"/><name type="object"><w lemma="εἰκών"><supplied reason="lost">εἰκόνα</supplied></w></name> <name type="quality"><w lemma="χαλκός"><supplied reason="lost">χαλκῆν</supplied></w></name> <w lemma="πῆχυς"><supplied reason="lost">πήχε</supplied>ων</w> <w lemma="πέντε">πέντε</w> <name type="adornment"><w lemma="στεφανόω">στεφανοῦσαν</w></name> τὴν <name type="deity" key="Olympichos"><w lemma="Ὀλύμπιχος">Ὀλυμ
+	    					
+<lb xml:id="line_7" n="7" break="no"/><supplied reason="lost">πίχου</supplied></w></name> <name type="object"><w lemma="εἰκών"><supplied reason="lost">εἰκόνα</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἐπιγράφω"><supplied reason="lost">ἐπ</supplied>ιγράψαι</w> δὲ <w lemma="ἐπί">ἐπὶ</w> τοῦ <name type="structure"><w lemma="βῆμα">βήματος</w></name> "ὁ <name type="group"><w lemma="δῆμος">δῆμος</w></name>
+	    					
+<lb xml:id="line_8" n="8"/><name type="deity" key="Olympichos"><w lemma="Ὀλύμπιχος"><supplied reason="lost">Ὀλύμπιχον</supplied></w></name> <w lemma="Ὀλύμπιχος"><supplied reason="lost">Ὀλυ</supplied>μπίχου</w> <w lemma="εὐεργέτης">εὐεργέτην</w>"· <w lemma="ἱδρύω">ἱδρύσασθαι</w> δὲ
+	    					
+<lb xml:id="line_9" n="9"/><supplied reason="lost">καὶ</supplied> <w lemma="αὐτός"><supplied reason="lost">αὐτῶι</supplied></w> <w lemma="ἀπέναντι"><supplied reason="lost">ἀπέναν</supplied><unclear>τ</unclear>ι</w> τῆς <name type="object"><w lemma="εἰκών">εἰκόνος</w></name> <name type="structure"><w lemma="βωμός">βωμὸν</w></name> <name type="colour2"><w lemma="λευκός">λευκοῦ</w></name> <name type="quality"><w lemma="λίθος">λίθου</w></name>
+	    					
+<lb xml:id="line_10" n="10"/><w lemma="ὅμοιος"><supplied reason="lost">ὅμοιον (?)</supplied></w> <supplied reason="lost">τῶι τοῦ</supplied> <name type="deity" key="Maussollos"><w lemma="Μαύσσωλλος"><supplied reason="lost">Μαυ</supplied><unclear>σ</unclear>σώλλου</w></name> τῶι <w lemma="ἐν">ἐν</w> τῶ<supplied reason="omitted">ι</supplied> <name type="structure"><w lemma="ἱερός">ἱερῶι</w></name> τοῦ <name type="deity" key="Zeus"><w lemma="Ζεύς">Δι
+	    					
+<lb xml:id="line_11" n="11" break="no"/><supplied reason="lost">ὸς</supplied></w></name> τοῦ <name type="epithet" key="Osogo"><w lemma="Ὀσογω"><supplied reason="lost">Ὀσογω (?)</supplied></w></name> <supplied reason="lost">καὶ</supplied> <w lemma="συντελέω">συντελεῖν</w> <w lemma="αὐτός">αὐτῶι</w> <w lemma="πομπή">πομπὴν</w> καὶ <name type="sacrifice"><w lemma="θυσία">θυσί
+	    					
+<lb xml:id="line_12" n="12" break="no"/><supplied reason="lost">αν</supplied></w></name> <w lemma="ἐπί"><supplied reason="lost">ἐφ’</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἑκάστου</supplied></w> <w lemma="ἔτος"><supplied reason="lost">ἔ</supplied>τους</w> τῆι <w lemma="τεσσαρακαιδέκατος">τεσσαρεσκαιδεκάτηι</w> τοῦ
+	    				
+<lb xml:id="line_13" n="13"/><gap reason="lost" quantity="8" unit="character" precision="low"/> <name type="month"><w lemma="μείς"><supplied reason="lost">μην</supplied>ὸς</w></name> <w lemma="ἐν">ἐν</w> ἧι <w lemma="ἡμέρα">ἡμέραι</w> ὁ <name type="group"><w lemma="δῆμος">δῆμος</w></name> <w lemma="κομίζω">ἐκομίσατο</w> τήν
+	    				
+<lb xml:id="line_14" n="14"/><supplied reason="lost">τε</supplied> <w lemma="ἐλευθερία"><supplied reason="lost">ἐλευθερία</supplied><unclear>ν</unclear></w> καὶ τὴν <w lemma="δημοκρατία">δημοκρατίαν</w>· <name type="sacrifice"><w lemma="θύω">θύειν</w></name> δὲ <w lemma="αὐτός">αὐ- <space quantity="2" unit="character"/>
+	    					
+	<lb xml:id="line_15" n="15"/><supplied reason="lost">τῶι</supplied></w> <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος"><supplied reason="lost">ταύρο</supplied>υς (?)</w></name></name> <w lemma="δύο">δύο</w> καὶ <name type="meal"><w lemma="εὐωχέω">εὐωχεῖσθαι</w></name> <w lemma="ἐν">ἐν</w> τῆι <w lemma="ἡμέρα">ἡμέραι</w>
+	    				
+<lb xml:id="line_16" n="16"/><w lemma="οὗτος"><supplied reason="lost">ταύτηι</supplied></w> <supplied reason="lost">τούς τε</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱε</supplied>ρεῖς</w></name> καὶ τοὺς <name type="person"><w lemma="νικάω">νενικηκότας</w></name> τοὺς
+	    					
+<lb xml:id="line_17" n="17"/><supplied reason="lost">στεφανίτας (?)</supplied> <name type="festival"><w lemma="ἀγών"><supplied reason="lost">ἀγῶ</supplied>νας</w></name> καὶ τὴν <name type="title"><w lemma="συναρχία">συναρχίαν</w></name>· τοὺς δὲ
+	    					
+<lb xml:id="line_18" n="18"/><name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱερεῖς</supplied></w></name> <w lemma="ἐπιμελέομαι"><supplied reason="lost">ἐπιμελεῖσθα</supplied><unclear>ι</unclear></w> τῆς τε <name type="sacrifice"><w lemma="θυσία">θυσίας</w></name> καὶ τῆς <name type="meal"><w lemma="θοίνη">θοίνης</w></name>·
+	    				
+<lb xml:id="line_19" n="19"/><w lemma="δίδωμι"><supplied reason="lost">δοῦναι</supplied></w> <supplied reason="lost">δὲ τοὺς</supplied> <name type="title"><w lemma="ταμίας"><supplied reason="lost">ταμίας</supplied></w></name> <supplied reason="lost">τὸ</supplied> <w lemma="ἀνάλωμα"><supplied reason="lost">ἀν</supplied>άλωμα</w> <w lemma="ἐκ">ἐκ</w> τῶν <name type="group"><w lemma="κοινός">κοινῶν</w></name> <w lemma="πρόσοδος">προσό
+	    					
+<lb xml:id="line_20" n="20" break="no"/><supplied reason="lost">δων</supplied></w><supplied reason="lost">·</supplied> <w lemma="εἰμί"><supplied reason="lost">εἶναι</supplied></w> <supplied reason="lost">δὲ</supplied> <name type="festival"><w lemma="ἐκεχειρία"><supplied reason="lost">ἐκεχει</supplied>ρίας</w></name> <w lemma="πᾶς">πᾶσιν</w> <w lemma="">ἐφ’</w> <w lemma="ἡμέρα">ἡμέρας</w> <w lemma="τρεῖς">τρεῖς</w>· <space quantity="2" unit="character"/>
+	    					
+<lb xml:id="line_21" n="21"/><supplied reason="lost">τοὺς δὲ</supplied> <name type="group"><w lemma="πολίτης"><supplied reason="lost">πολίτας (?)</supplied></w></name> <supplied reason="lost">καὶ</supplied> <unclear>τ</unclear>οὺς <w lemma="ἄλλος">ἄλλους</w> <w lemma="πᾶς">πάντας</w> <name type="group"><w lemma="σύνειμι">συνεῖ
+	    				
+<lb xml:id="line_22" n="22" break="no"/><supplied reason="lost">ναι</supplied></w></name> <name type="adornment"><w lemma="στεφανόω"><supplied reason="lost">(ἐ)στεφανωμένους</supplied></w></name> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τα</supplied>ῖς <w lemma="ἡμέρα">ἡμέραις</w> <w lemma="οὗτος">ταύταις</w>, <name type="invocation"><w lemma="ὑμνέω">ὑμνεῖσθαι</w></name>
+	    					
+	    					<lb xml:id="line_23" n="23"/><supplied reason="lost">δὲ καὶ</supplied> <w lemma=""><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τῆι</supplied> <gap reason="lost" quantity="4" unit="character" precision="low"/><name type="festival"><w lemma="unclear"><supplied reason="lost">ε</supplied>τηρίδι</w></name> τοῖς <name type="festival"><w lemma="ταύρειος">Ταυρείοις</w></name> <w lemma="κατά">κατὰ</w> τὰ <w lemma="αὐτός">αὐ
+	    					
+<lb xml:id="line_24" n="24" break="no"/><supplied reason="lost">τὰ</supplied></w> <supplied reason="lost">καὶ τοῖς τῆς</supplied> <name type="group"><w lemma="πόλις"><supplied reason="lost">πόλεως</supplied></w></name> <name type="deity" key="Ktistai"><w lemma="κτίστης"><supplied reason="lost">κτ</supplied>ίσταις</w></name>· τὴν δὲ <name type="speechAct"><w lemma="ἀναγγελία">ἀναγγελίαν</w></name> <w lemma="ποιέω">ποι
+	    					
+<lb xml:id="line_25" n="25" break="no"/><supplied reason="lost">ήσασθαι</supplied></w> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τῶι</supplied> <w lemma="unclear"><supplied reason="lost">γυμνι</supplied><unclear>κ</unclear>ῶι</w> (?) <name type="festival"><w lemma="ἀγών">ἀγῶνι</w></name> τῶι <w lemma="συντελέω">συντελουμέ
+	    					
+<lb xml:id="line_26" n="26" break="no"/><supplied reason="lost">νωι</supplied></w> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Διῒ</supplied></w></name> <name type="epithet" key="Osogo"><w lemma="Ὀσογω"><supplied reason="lost">Ὀσογωι</supplied></w></name><supplied reason="lost">,</supplied> <w lemma="ὅτι"><supplied reason="lost">ὅτι</supplied></w> <name type="adornment"><w lemma="στεφανόω"><supplied reason="lost">στεφα</supplied><unclear>ν</unclear>οῖ</w></name> ὁ <name type="group"><w lemma="δῆμος">δῆμος</w></name> <name type="deity" key="Olympichos"><w lemma="Ὀλύμπιχος">Ὀλύμπιχον</w></name> <w lemma="Ὀλύμπιχος">Ὀλυμ
+	    					
+<lb xml:id="line_27" n="27" break="no"/><supplied reason="lost">ίχου</supplied></w> <w lemma="εὐεργέτης"><supplied reason="lost">εὐεργέτην</supplied></w> <supplied reason="lost">τῆς</supplied> <name type="group"><w lemma="πόλις"><supplied reason="lost">π</supplied>όλε<unclear>ω</unclear>ς</w></name> <name type="quality"><w lemma="χρυσός">χρυσῶι</w></name> <name type="adornment"><w lemma="στέφανος">στεφάνω<unclear>ι</unclear></w></name> <supplied reason="lost">καὶ</supplied>
+	    					
+<lb xml:id="line_28" n="28"/><name type="object"><w lemma="εἰκών"><supplied reason="lost">εἰκόνι</supplied></w></name> <name type="quality"><w lemma="χαλκός"><supplied reason="lost">χαλκῆι</supplied></w></name> <w lemma="ἀρετή"><supplied reason="lost">ἀρετῆς</supplied></w> <w lemma="ἕνεκα"><supplied reason="lost">ἕν</supplied>εκεν</w> κα<unclear>ὶ</unclear> <w lemma="εὐεργεσία">εὐεργεσίας</w> τῆς <w lemma="εἰς"><supplied reason="lost">εἰς</supplied></w>
+	    					
+<lb xml:id="line_29" n="29"/><w lemma="ἑαυτοῦ"><supplied reason="lost">ἑαυτόν</supplied></w><supplied reason="lost">·</supplied> <w lemma="ὅπως"><supplied reason="lost">ὅπως</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="πᾶς"><supplied reason="lost">πᾶσιν</supplied></w> <w lemma="φανερός">φανερὸν</w> <w lemma="εἰμί">ἦι</w>, <w lemma="διότι">διότι</w> ὁ <name type="group"><w lemma="δῆμος">δῆμος</w></name> <supplied reason="lost">ὁ</supplied> <name type="ethnic" key="Mylasa"><w lemma="Μυλασεύς"><supplied reason="lost">Μυ</supplied>
+	    					
+<lb xml:id="line_30" n="30" break="no"/><supplied reason="lost">λασέων</supplied></w></name> <name type="genericOffering"><w lemma="τιμάω"><supplied reason="lost">τιμᾶι</supplied></w></name> <supplied reason="lost">τοὺς</supplied> <w lemma="εὐεργετέω"><supplied reason="lost">εὐερ</supplied>γετοῦντας</w> <w lemma="αὐτός">αὐτὸν</w> <supplied reason="lost">καὶ</supplied> <w lemma="ἵνα"><supplied reason="lost">ἵνα</supplied></w>
+	    					
+<lb xml:id="line_31" n="31"/><w lemma="ὑπόμνημα"><supplied reason="lost">ὑπόμνημα</supplied></w> <w lemma="ὑπάρχω"><supplied reason="lost">ὑπάρχηι</supplied></w> <w lemma="αὐτός"><supplied reason="lost">αὐτῶι</supplied></w> <w lemma="ἀναγράφω"><supplied reason="lost">ἀναγ</supplied>ράψαι</w> <w lemma="ὅδε">τόδε</w> τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισ<supplied reason="lost">μα</supplied></w></name>
+	    				
+<lb xml:id="line_32" n="32"/><w lemma="εἰς"><supplied reason="lost">εἰς</supplied></w> <objectType key="stele"><w lemma="στήλη"><supplied reason="lost">στήλας</supplied></w></objectType> <name type="quality"><w lemma="λίθινος"><supplied reason="lost">λιθίνας</supplied></w></name> <supplied reason="lost">καὶ</supplied> <w lemma="ἵστημι"><supplied reason="lost">στῆσ</supplied>αι</w> <surplus>αὐτὴν</surplus> τὴμ μ<unclear>ὲ</unclear><supplied reason="lost">ν</supplied> <w lemma="εἷς"><supplied reason="lost">μίαν</supplied></w>
+	    				
+<lb xml:id="line_33" n="33"/><w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τῶι</supplied> <w lemma="ἱερός"><supplied reason="lost">ἱερῶι</supplied></w> <supplied reason="lost">τοῦ</supplied> <name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Διὸς</supplied></w> <name type="epithet"><w lemma="Λάβραυνδος"><supplied reason="lost">Λαβραύνδου</supplied></w></name> <space extent="unknown" unit="line"/>	
+	    				</name>	
+	    					</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>[...] for all (women) [...]. The same (honours) will [also be accorded to his (i.e. Olympichos') descendants]. A bronze statue of him is [to be set up] in the [...] (5) in the most [conspicuous] place. A [bronze statue] of the Demos measuring five [cubits] is also to be set up, which crowns the [statue] of Olympichos. On the base (of the statues) is to be written: the people (crown) Olympichos son of Olympichos, benefactor. [Opposite (?)] the statue is to be erected an altar of white marble for him, (10) [similar (?)] to the altar of Maussollos which is in the sanctuary of Zeus [Osogo (?)], and a procession and a sacrifice are to be put on for Olympichos [each] year on the fourteenth of the month [...], the day when the people recovered its freedom and democracy. (15) Two [bulls (?)] are to be offered to him in sacrifice and a feast is to be held on [that (?)] day, (with the participation of?) the priests and the victors in the games [where the prize is a crown (?)] and the magistracy. The [priests are to take care] of the sacrifice and the feast. The treasurers are to pay for the expense from the public funds. (20) And there is to be a sacred truce during three days. [The citizens (?)] and all the others (inhabitants of the area?) are to gather [wearing crowns] on these days. A hymn is to be sung (for him?) during the -ennial festival of the Taureia in same manner as for the founders [of the city]. The announcement is to be made (25) in the [gymnic (?)] contest which is held [for Zeus Osogo] that the people crowns Olympichos son of Olympichos, [benefactor] of the city, with a gold crown and (honors him with) [a bronze statue for his virtue] and beneficence towards itself (i.e. the people). [So that it] be manifest [to everyone] that the people [of Mylasa (30) honours] its benefactors and [so that a memorial persists for him] (Olympichos), this decree is to be written up [on (two?) stone stelae and one is to be set up in the sanctuary of Zeus Labraundos]; {mention of another stele is missing}.
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[...] pour toutes [...]. Les mêmes (honneurs) seront accordés à ses descendants (i.e. ceux d'Olympichos). Une statue de bronze sera érigée dans la [...] (5) à l'endroit le plus [visible]. Une statue de bronze du Démos, mesurant cinq [coudées] sera également érigée, couronnant la [statue] d'Olympichos. Sur la base (des statues) sera inscrit : le peuple (couronne) Olympichos fils d'Olympichos, évergète. En face (?) de la statue sera érigé pour lui un autel de marbre blanc, (10) [semblable (?)] à l'autel de Mausole qui se trouve dans le sanctuaire de Zeus [Osogo (?)], et une procession et un sacrifice seront effectués pour Olympichos [chaque] année, le 14e jour du mois de [...], jour où le peuple a retrouvé la liberté et la démocratie. (15) Deux [taureaux ?] seront offerts en sacrifice et un festin aura lieu [le même (?)] jour, (impliquant ?) les prêtres, les vainqueurs dans les concours [stéphanites (?)] et la magistrature. Les [prêtres s'occuperont] du sacrifice et du repas. Les trésoriers payeront les dépenses encourues à partir des fonds publics. (20) Et il y aura une trêve sacrée durant trois jours. Les [citoyens (?)] et tous les autres (habitants de la région ?) se rassembleront [en portant des couronnes] durant ces journées. Un hymne (lui ?) sera chanté durant les fêtes [...] des Taureia, comme il est fait pour les fondateurs [de la cité]. L'annonce sera faite (25) lors du concours [gymnique (?)] qui est célébré [pour Zeus Osogo], que le peuple couronne Olympichos fils d'Olympichos, [bienfaiteur] de la cité, d'une couronne dorée, et (l'honore) [d'une statue de bronze pour sa vertu] et sa générosité envers lui-même (c'est-à-dire le peuple). [Afin qu']il soit évident [pour tous] que le peuple [de Mylasa (30) honore] ses évergètes et [que son souvenir perdure] (celui d'Olympichos), le présent décret sera inscrit [sur (deux ?) stèles de pierre, l'une sera érigée dans le sanctuaire de Zeus Labraundos]; {la mention d'une autre stèle manque}.
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>As the first editors of the text, Isager and Karlsson, note, the inscription is likely to be a decree of Mylasa (cf. line 31) rather than issuing from any other authority. Accordingly, many of the points of reference in the inscription probably point to that city, its locations and cults, rather than to Labraunda itself (see also now Ameling for this conclusion, with further discussion). The honourand, Olympichos son of Olympichos, is well known from an extensive dossier of inscriptions at Labraunda, where he acted on behalf of the Seleucids in resolving a dispute between Korris (an ancestral priest of the sanctuary) and the city of Mylasa in ca. 240 BC: cf. Crampa, with extensive discussion. At first, the ancestral privileges of Korris were approved by Seleukos II, but this decision was then revised in favour of Mylasa (probably through Olympichos' intervention), which then obtained much of the control over the sanctuary. Though the chronology remains imprecise, by ca. 220 BC, Olympichos was still active in the area and acted to some degree independently.</p>
+						
+<p>The context for the passing of these honours for Olympichos by Mylasa is not precisely known, though it is apparent that the city had recently recovered a degree of its freedom and autonomy, notably thanks to the dynast Olympichos (cf. Crampa <bibl type="abbr" n="I.Labraunda">I.Labraunda</bibl> 8, lines 13-15; shortly after 240 BC?). The precise date for this event is attested here as the 14th of a month (which cannot be restored, lines 12-13). Honours for Olympichos are already alluded to in Crampa <bibl type="abbr" n="I.Labraunda">I.Labraunda</bibl> 3 (ca. 240 BC), lines 1-3, but here they are explicitly to take place on this date and are thus intricately tied to the commemoration of this event (see also line 31, if correctly restored), which becomes a festival in its own right, lasting three days (line 20). Though some portion of the decree is apparently missing, the honours are elaborate and substantially detailed, involving a statue (lines 2-8), an altar (8-11), sacrifices and feasts (11-18), as well as hymns (22-24). Through all of this, Olympichos is apparently honoured still as a man and a benefactor (lines 8, 28, 30) rather than being overtly divinised or heroised, yet he is to some degree set on the same level as divine figures by becoming the object of cult and sacrifices, and even receiving a hymn in the same fashion as the heroic founders of the city (lines 23-24). For a wider discussion of cultic honours for benefactors in Asia Minor, see Strubbe.</p>
+
+<p>Line 4: The exact location for the statue and the altar are unknown, but may be presumed to be at Mylasa. Isager and Karlsson attractively propose the restoration ἱερᾶι ἀγορᾶι, on the basis of <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 117, line 3—a suitable location—but this cannot be absolutely confirmed.</p> 
+						
+<p>Lines 5-7: A statue of Olympichos is to be erected, which will be depicted as crowned by a large (ca. 2 m) representation of the Demos of Mylasa (the statue of Olympichos was probably slightly smaller). For such statue groups, see Isager and Karlsson and <bibl type="abbr" n="SEG">SEG</bibl> who both collect some refs. and note that this may be among the earliest attestations of such a depiction.</p>
+						
+<p>Line 10: An alternative restoration would be ἴσον or ἴσως, since it appears that the altar to be erected for Olympichos is being compared (perhaps in size rather than shape) with one of Maussollos. In other words, this text remarkably provides evidence for an altar of Maussollos at Mylasa (the genitive must surely be taken as an objective genitive, an altar *for* rather than one erected *by* the Hekatomnid ruler). The likely location for this altar is again the sanctuary of Zeus Osogo in the city of Mylasa itself, rather than the sanctuary of Zeus at Labraunda, as restored by Isager and Karlsson, though no certainty is possible. At the present time, only altars dedicated by Mausollos are known and no altar explicitly of him or to him is attested.</p>
+						
+<p>Line 15: The exact sacrifice offered to Olympichos is plausibly restored as a pair of bulls by Isager and Karlsson, though this is not altogether unproblematic and the restoration may need to be reconsidered. Why were two bulls offered rather than a single one? Was one of them perhaps intended to be sacrificed to the Demos depicted in the statue-group? For a pair of rams offered in ruler cult, though more appropriately to two individuals, see <ref target="CGRN_143">CGRN 143</ref> (Laodikeia-on-the-Lykos), line 28.</p>
+						
+<p>Line 17: The games restored here by Isager and Karlsson again likely took place at Mylasa rather than at Labraunda, though their character remains to be defined (they were not necessarily stephanitic). The same remarks apply to the games mentioned in line 25, which could have been athletic as Isager and Karlsson suggest, but may also have been musical or other contests (cf. <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 101, mentioning both).</p>
+						
+<p>Line 23: Isager and Karlsson, followed by <bibl type="abbr" n="SEG">SEG</bibl>, restore a penteteric festival of the Taureia here, but this is not attested as such. A trieteric or other incarnation of this festival is also possible (as would be the restoration ὑμνεῖσθαι | [δὲ αὐτῶι ...]). A probable alternative name for this celebration was the Taurophonia, cf. <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 201, line 2 (a decree passed during this occasion at Mylasa). This was manifestly one of the major celebrations at Mylasa, involving notably the cult of founders and other honourands as our text attests, and will have featured the sacrifice of bulls (cf. also <bibl type="abbr" n="I.Mylasa">I.Mylasa</bibl> 118, perhaps related; and p. 269-270 App. no. 1).</p>
+						
+<p>Line 33: The restoration <supplied reason="lost">Λαβραύνδου</supplied>, though expected and given by ed. pr. and <bibl type="abbr" n="SEG">SEG</bibl>, is not completely certain (Osogo is again another possibility). It is likely that the decree originally intended that there be two copies inscribed, one probably in the sanctuary of Zeus Osogo and the other—here extant—at Labraunda.
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

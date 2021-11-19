@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_26" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 26</idno>: <rs type="textType" key="dossier of regulations">Dossier of regulations</rs> of an Attic <foreign>trittys</foreign></title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of an opisthographic <rs type="objectType" key="stele">stele</rs>, intact only on the left side; otherwise broken on all sides.</p>
+				<p><dimensions>
+					<height unit="cm">30</height>
+					<width unit="cm">20</width>
+					<depth unit="cm">7.3</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Stoichedon, but of uncertain length. There are <foreign>paragraphoi</foreign> demarcating sections between lines A14-15, 17-18 and 18-19.</p>
+				<p> Letters: <height unit="cm">1</height> on average; round letters smaller <height unit="mm">7</height>; the stoichedon grid is not square but <height unit="mm">13.1</height> × 9.6 mm wide.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0423" notAfter="-0403">ca. 423/2-404/3 BC</origDate></p>
+			<p><desc>Justification: lettering (Tracy).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885/" type="external">Athens</ref></placeName>. The stone was apparently found at Chalcis (in Euboia), but is presumed to be from Athens and perhaps specifically from the Marathonian Tetrapolis (see Commentary below). Now in the Chalcis Museum (inv. no. 264).</p> 
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+		
+<p>Edition here based on Jameson (apud Lewis) <bibl type="abbr" n="IG I³">IG I³</bibl> 255, with slight modifications. For the restoration adopted at line A18, see the commentary ad loc. For the reading in line B4, see Sokolowski's suggestion and Lambert 2000b: 71 n. 2 (where further minor readings are discussed).</p>
+					<p>Cf. also: Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 10; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 11; <ref target="https://www.atticinscriptions.com/inscription/IGI3/255" type="external">AIO</ref>, with another translation and commentary.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Wilhelm 1902">Wilhelm 1902</bibl>; <bibl type="author_date" n="Wilhelm 1904">Wilhelm 1904</bibl>: 103-110; <bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>: 89; <bibl type="author_date" n="Van Straten 1995">Van Straten 1995</bibl>: 109-113; 
+<bibl type="author_date" n="Lambert 2000b">Lambert 2000b</bibl>: 71-75;
+<bibl type="author_date" n="Robertson 2005">Robertson 2005</bibl>: 100-101;
+<bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>: 52-56; 
+<bibl type="author_date" n="Tracy 2016">Tracy 2016</bibl>: 124.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab subtype="Face" n="A">Face A				
+	    					<lb/><gap reason="lost" extent="unknown" unit="line"/>
+
+<lb xml:id="line_A1" n="A1"/><gap reason="lost" quantity="10" unit="character"/><orig>Α</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_A2" n="A2"/><gap reason="lost" quantity="9" unit="character"/><orig><unclear>Λ</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig>Ο</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A3" n="A3"/><gap reason="lost" quantity="8" unit="character"/><orig>ΟΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A4" n="A4"/><gap reason="lost" quantity="8" unit="character"/><orig>τει βο</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_A5" n="A5"/><gap reason="lost" quantity="7" unit="character"/><orig>ον</orig> <name type="deity" key="Eros"><w lemma="ἔρως">Ἔρο<unclear>τ</unclear><supplied reason="lost">ι</supplied></w></name><gap reason="lost" extent="unknown" unit="character"/> <name type="object"><w lemma="κλίνη"><supplied reason="lost">κλίν</supplied>
+	    					
+<lb xml:id="line_A6" n="A6" break="no"/><supplied reason="lost">εν</supplied></w></name> <w lemma="στόρνυμι"><supplied reason="lost">στορ</supplied><unclear>ν</unclear>ύναι</w>, <name type="structure"><w lemma="τράπεζα">τρά<supplied reason="lost">πεζαν</supplied></w> </name><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A7" n="A7"/><gap reason="lost" quantity="2" unit="character"/> <name type="deity" key="Hippolytos"><w lemma="Ἱππόλυτος"><supplied reason="lost">hιππ</supplied>ολύτοι</w></name> <orig>το</orig><gap reason="lost" extent="unknown" unit="character"/>
+	
+<lb xml:id="line_A8" n="A8"/><gap reason="lost" quantity="4" unit="character"/> <w lemma="ἕκαστος">hεκάστο</w> τον <orig><unclear>ε</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A9" n="A9"/><gap reason="lost" quantity="5" unit="character"/>α <name type="group"><w lemma="τριττύς">τριττύι</w></name> <pc>⋮</pc> ἀπ<unclear>ο</unclear><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A10" n="A10"/><gap reason="lost" quantity="4" unit="character"/><orig>οι</orig> <name type="festival"><w lemma="Ποσειδαῖα">Ποσιδέοις</w></name> <orig>τ</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_A11" n="A11"/><name type="deity" key="Zeus"><w lemma="Ζεύς"><supplied reason="lost">Διὶ (?)</supplied></w></name> <name type="epithet" key="Tropaios"><w lemma="τροπαῖος">Τροπαίοι</w></name> <w lemma="ἐν">ἐν</w> <placeName key="Kynosarges"><w lemma="κυνόσουρα">Κυνο<supplied reason="lost">σούραι</supplied></w></placeName> <gap reason="lost" extent="unknown" unit="character"/> <name type="deity" key="Heracles"><w lemma="Ἡρακλέης"><supplied reason="lost">hερ</supplied>
+	    				
+<lb xml:id="line_A12" n="A12" break="no"/><supplied reason="lost">ακ</supplied>λεῖ</w></name> <w lemma="ἐν">ἐν</w> το̑ι <name type="locality"><w lemma="ἔλαιος">Ἐλαιεῖ</w></name> <name type="structure"><w lemma="τράπεζα">τ<unclear>ρ</unclear><supplied reason="lost">άπεζαν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+	    					<lb xml:id="line_A13" n="A13"/><name type="deity" key="Xouthos"><w lemma="ξουθός"><supplied reason="lost">Χσ</supplied>όθοι</w></name> <name type="animal" key="sheep"><name type="age"><name type="gender"><w lemma="ἀμνός">ἀμνός</w></name></name></name> <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A14" n="A14"/><name type="deity" key="Glaukos"><w lemma="γλαυκός"><supplied reason="lost">Γ</supplied>λαύκοι</w></name> <name type="animal" key="sheep"><w lemma="ἀμνός">ἀμνός</w></name><space extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_A15" n="A15"/><name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">Ἀ</supplied>πόλλονι</w></name> <name type="epithet" key="Pythios"><w lemma="Πύθιος">Πυθίοι</w></name> τε<gap reason="lost" extent="unknown" unit="character"/> <name type="object"><w lemma="κλίνη"><supplied reason="lost">κλί</supplied>
+	    					
+<lb xml:id="line_A16" n="A16" break="no"/><unclear>ν</unclear>εν</w></name> <w lemma="στρώννυμι">στορνύναι</w>, <name type="structure"><w lemma="τράπεζα">τρά<unclear>π</unclear><supplied reason="lost">εζαν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_A17" n="A17" break="no"/><orig>ς</orig> μὲν <name type="animal" key="sheep"><name type="age"><w lemma="ἀρήν">ἄρνα</w></name></name> <w lemma="ἀνέχω">ἀνασχεσ</w><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_A18" n="A18"/><name type="deity" key="Poseidon"><w lemma="Ποσειδῶν">Ποσειδο̑νι</w></name> <name type="quality"><name type="animal" key="goat"><w lemma="πτόρθος">πτόρθι<supplied reason="lost">ον</supplied></w></name></name><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_A19" n="A19"/><name type="deity" key="Nymphs"><w lemma="νύμφη"><supplied reason="lost">Νύ</supplied>μφ<unclear>α</unclear>ις</w></name> κ<unclear>α</unclear>ὶ <name type="deity" key="Acheloos"><w lemma="Ἀχελῷος"><supplied reason="lost">Ἀχ</supplied><unclear>ε</unclear><supplied reason="lost">λόοι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	   	    					<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    				<ab subtype="Face" n="B">Face B
+	    				<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    
+<lb xml:id="line_B1" n="B1"/><gap reason="lost" extent="unknown" unit="character"/><orig>δ</orig><gap reason="lost" quantity="5" unit="character"/> 
+	    				
+<lb xml:id="line_B2" n="B2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ο</unclear></orig> <w lemma="ἀπό">ἀπὸ</w> <unclear>τ</unclear>ο̑ν <name type="sacrifice"><w lemma="δαρτός">δαρ<supplied reason="lost">τ</supplied>
+	    					
+<lb xml:id="line_B3" n="B3" break="no"/><supplied reason="lost">ο̑ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἀπό"><supplied reason="lost">ἀφ’</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἑκάστες</supplied></w> <supplied reason="lost">τε̑</supplied>ς <name type="animal" key="ox"><w lemma="βοῦς">βοὸς</w></name> <w lemma="πέντε">πέντε</w> h<orig>ο</orig>
+	    					
+<lb xml:id="line_B4" n="B4" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <name type="structure"><w lemma="δειπνητήριον"><supplied reason="lost">δει</supplied><unclear>π</unclear>νιστερ<unclear>ί</unclear>ο</w></name> <orig>φορ</orig>
+	    				
+<lb xml:id="line_B5" n="B5" break="no"/><gap reason="lost" extent="unknown" unit="character"/><orig>ει</orig> τὰς <name type="portion"><w lemma="μερίς">μερίδας</w></name>
+	    				
+<lb xml:id="line_B6" n="B6"/><gap reason="lost" extent="unknown" unit="character"/> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">hιερε</supplied><unclear>ὺ</unclear>ς</w></name> <name type="portion"><w lemma="λαμβάνω">λαμβανέτο</w></name> <w lemma="κατά">καθ’</w> <w lemma="ἕκαστος">ἕκ
+	    				
+<lb xml:id="line_B7" n="B7" break="no"/><supplied reason="lost">αστον</supplied></w> <name type="animal" key="generic"><w lemma="ἱερός">hιερεῖον</w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w> <supplied reason="lost">το̑ν</supplied> <name type="sacrifice"><w lemma="δαρτός"><supplied reason="lost">δαρ</supplied>το̑ν</w></name> τὰ <name type="portion"><w lemma="δέρμα">δέρματα</w></name>· <w lemma="παρέχω">παρε
+	    					
+<lb xml:id="line_B8" n="B8" break="no"/><supplied reason="lost">χε</supplied></w><gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="γλῶσσα"><supplied reason="lost">γλο̑τ</supplied>ταν</w></name> δὲ το̑ι <name type="deity" key="Archegetes"><w lemma="ἀρχηγέτης">Ἀρχεγέτε
+	    					
+<lb xml:id="line_B9" n="B9" break="no"/><supplied reason="lost">ι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/><w lemma="unclear"><unclear>ασαιας</unclear></w> <w lemma="καθάπερ">καθάπερ</w> τὸ <orig>ε</orig>
+	    						    					
+<lb xml:id="line_B10" n="B10" break="no"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>τ</unclear>αι</orig> <w lemma="εἰς">ἐς</w> <name type="portion"><w lemma="ἀπόμετρον">ἀπόμετρα</w></name> <pc>⋮</pc> <num value="10">Δ</num> <space quantity="1" unit="character"/>
+	
+<lb xml:id="line_B11" n="B11"/><gap reason="lost" extent="unknown" unit="character"/><orig>ας</orig> <name type="personnel"><w lemma="ἱέρεια">hιέρεια</w></name> <name type="portion"><w lemma="λαμβάνω">λαμβα
+	    					
+<lb xml:id="line_B12" n="B12" break="no"/><supplied reason="lost">νέτο</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/><orig>αι</orig>  <pc>⋮</pc> <num value="1">U+10142</num>
+	    					 <pc>⋮</pc> <w lemma="κατά">κατὰ</w> τὸ <name type="animal" key="generic"><w lemma="ἱερός">hιερ<unclear>ὸ</unclear>
+		    					
+<lb xml:id="line_B13" n="B13" break="no"/><supplied reason="lost">ν</supplied></w></name> <w lemma="ἕκαστος">hέκαστον</w>· <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐάν"><supplied reason="lost">ἐὰ</supplied>ν</w> δὲ <name type="animal" key="ox"><w lemma="βοῦς"><unclear>β</unclear>ο̑ς</w></name> <name type="sacrifice"><w lemma="θύω">θύεται</w></name>, <name type="portion"><w lemma="σάρξ">σάρ
+	    				
+<lb xml:id="line_B14" n="B14" break="no"/><supplied reason="lost">κας</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="παρέχω"><supplied reason="lost">παρ</supplied><unclear>έ</unclear>χεν</w> δὲ τὲ<unclear>ν</unclear> <name type="personnel"><w lemma="ἱέρεια">hιέρεια
+	    				
+<lb xml:id="line_B15" n="B15" break="no"/><supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w> <supplied reason="lost">δ</supplied>ὲ το̑ν <name type="person"><w lemma="ἴδιος">ἰδίον</w></name> το̑ν <name type="animal" key="generic"><w lemma="δαρτός">δαρτο̑ν</w></name> <name type="portion"><w lemma="δέρμα">δ
+	    					
+<lb xml:id="line_B16" n="B16" break="no"/><supplied reason="lost">έρμα</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">το̑ν δὲ</supplied> <w lemma="μή"><supplied reason="lost">μὲ</supplied></w> <name type="animal" key="generic"><w lemma="δαρτός"><supplied reason="lost">δα</supplied><unclear>ρ</unclear>το̑ν</w></name> <name type="portion"><w lemma="σκέλος">σκέλος</w></name>· <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέμιδος</w></name> <name type="personnel"><w lemma="ἱέρεια">h
+	    					
+	<lb xml:id="line_B17" n="B17" break="no"/><supplied reason="lost">ιέρεια</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w> <supplied reason="lost">το̑ν</supplied> <name type="group"><w lemma="δημόσιος"><supplied reason="lost">δ</supplied>εμοσίον</w></name> το̑ν <name type="animal" key="generic"><w lemma="δαρτός">δαρτο̑ν</w></name> <name type="portion"><w lemma="δέρμα">δέρμ
+	    					
+<lb xml:id="line_B18" n="B18" break="no"/><supplied reason="lost">α</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="κατά"><supplied reason="lost">κατὰ</supplied></w> τὸ <name type="animal" key="generic"><w lemma="ἱερός"><supplied reason="lost">hι</supplied>ερὸν</w></name> <w lemma="ἕκαστος">hέκαστον</w>· <w lemma="ἀπό">ἀπὸ</w> δὲ το̑ν
+	    					
+<lb xml:id="line_B19" n="B19"/><gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="σκέλος"><supplied reason="lost">σ</supplied>κέλος</w></name>· το̑ν δὲ <w lemma="μή">μὲ</w> <name type="animal" key="generic"><w lemma="δαρτός">δαρτο̑ν</w></name> <orig>τ</orig>
+	    					
+	    					<lb xml:id="line_B20" n="B20" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="λαμβάνω"><supplied reason="lost">λαμβα</supplied>νέτο</w></name> <name type="authority"><w lemma="καθάπερ">καθάπερ</w></name> ἑ τε̑ς <name type="deity" key="Artemis"><w lemma="Ἄρτεμις">Ἀρτέ
+	    				
+<lb xml:id="line_B21" n="B21" break="no"/><supplied reason="lost">μιδος</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <name type="portion"><w lemma="λαμβάνω"><supplied reason="lost">λα</supplied>μβανέτο</w></name> το̑ν <name type="group"><w lemma="δημόσιος">δεμοσίον</w></name> h
+	    				
+<lb xml:id="line_B22" n="B22" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <pc>⋮</pc> <num value="1">U+10142</num>
+	    					 <pc>⋮</pc> <w lemma="κατά">κατὰ</w> τὸ <name type="animal" key="generic"><w lemma="ἱερός">hιερὸν</w></name> <w lemma="ἕκαστος"><unclear>ἕ</unclear>κασ
+	    					
+	    					 	<lb xml:id="line_B23" n="B23" break="no"/><supplied reason="lost">τον</supplied></w><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ΕΛ</unclear></orig><gap reason="lost" quantity="3" unit="character"/><orig><unclear>Τ</unclear></orig><gap reason="lost" quantity="1" unit="character"/> 
+	    					<lb/><gap reason="lost" extent="unknown" unit="line"/> 
+	    				</ab>
+	    				</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+	    				<p>Face A</p> 
+<p>[...] (5) to Eros [...] prepare [a couch?], a table, [...] to Hippolytos [...] from each the [...] to (the) trittys; from [...] (10) at the Posidea [... to Zeus?] Tropaios at Kynosoura [...] to Heracles in the Olive-Grove [a table ...]</p>
+	    				
+<p>to Xouthos, a  lamb;</p>
+	    				
+<p>to Glaukos, a  lamb;</p>
+	    				
+<p>(15) to Apollo Pythios [...], prepare [a couch?], a table, [...] on the one hand, a lamb lift up (?) [...]</p>
+	    				
+<p>to Poseidon, a (goat) with budding horns [...] to the Nymphs and [Acheloos?] [...]</p>
+	    				
+	    				<p>Face B</p> 
+<p>[...] from the flayed (animals) [...] [from each?] cow five [...] from the dining-room [...] (5) the portions [... the priest] shall receive from [each] sacrificial animal [... and from] the flayed (animals) the skins. Provide [...] and tongue (?) to the Archegetes [...] according to [... (10) ...] for emoluments: 10 dr. [...] the priestess shall receive [...] 1 dr.; from each sacrificial animal [...] If an ox is sacrificed, portions of flesh [...] The priestess is to provide (15) [...] from the flayed (animals) sacrificed privately [the skin ...] from the (not?) flayed (animals), a leg. The priestess of Artemis [...] from the publicly financed flayed (animals), the skin [...] from each sacrificial animal; from the [...] a leg; from the not flayed (animals) (20) [...] he/she will receive (the same) according to what the (priestess) of Artemis [...] he/she will receive from the publicly financed (animals) [...] 1 dr.; from each sacrificial animal [...]</p>
+				</div>
+	    		
+				<div type="translation" xml:lang="fre">
+					<head>Traduction </head>
+					
+					<p> Face A</p> 
+<p>[...] (5) à Éros [...] préparer [une couche ?], une table, [...] à Hippolyte [...] de chaque le [...] à (la) trittys; de [...] (10) aux Posidea [... à Zeus ?] Tropaios à Kynosoura [...] à Héraclès dans l'Oliveraie, une [table ...]</p>
+					
+<p>à Xouthos, un agneau;</p>
+					
+<p>à Glaukos, un agneau;</p>
+					
+<p>(15) à Apollon Pythios [...], préparer [une couche ?], une table, [...] d'un côté, soulever (?) un agneau [...]</p>
+					
+<p>à Poséidon, un (caprin) dont les cornes pointent [...] aux Nymphes et à [Acheloos ?] [...]</p>
+					
+					<p>Face B</p> 
+<p>[...] des (animaux) écorchés  [... de chaque ?] vache cinq [...] de la salle à manger [...] (5) les parts [... le prêtre] recevra de [chaque] animal sacrificiel [... et des (animaux)] écorchés, les peaux. Fournir [...] et la langue (?) à l'Archégète [...] selon le [... (10) ...] à titre d'émoluments : 10 dr. [...] la prêtresse recevra [...] 1 dr.; de chaque animal sacrificiel [...] Si un bovin est sacrifié, portions de chair [...] La prêtresse devra fournir (15) [...] des (animaux) écorchés sacrifiés à titre privé, [la peau ...] des (animaux) non écorchés, une patte. La prêtresse d'Artémis [...] des animaux écorchés financés par la cité, la peau [...] de chaque animal sacrificiel; des [...], une patte; des (animaux) non écorchés (20) [...] il/elle recevra (le même) selon ce que la (prêtresse) d'Artémis [...] il/elle recevra des (animaux) financés par la cité [...] 1 dr.; de chaque animal sacrificiel [...]</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>As Wilhelm (1902; 1904) argued, the dossier of regulations fragmentarily preserved on this stele perhaps belongs to a <foreign>trittys</foreign>, a subdivision of a third of an Attic tribe (<foreign>phyle</foreign>); the collective noun for the group is directly mentioned in line A9. It is not excluded that it might belong to another Attic group, however, and perhaps one from the northern reaches of Attica (opposite Chalcis in Euboia, where the stele was discovered). Identification of the precise group remains difficult to establish given the extent of the lacunae. It is interesting nonetheless that it has evident connections both with the cults of the city and with the Marathonian Tetrapolis (cf. the Commentary at lines A11-12 and A13); see now AIO for further discussion of the provenance, likely the Tetrapolis.</p>
+						
+<p>As preserved, face A contains what is perhaps a part of a sacrificial calendar of the group, essentially arranged as a list of deities followed by offerings (cp. esp. <ref target="http://cgrn.ulg.ac.be/CGRN_20/">CGRN 20</ref> and <ref target="http://cgrn.ulg.ac.be/CGRN_21/">CGRN 21</ref> from Athens). Face B is also only partially preserved, but extensively concerns the prerogatives of a variety of priests and priestesses connected to the group, which closely recalls accounts such as that of the deme of Aixone: <ref target="http://cgrn.ulg.ac.be/CGRN_57/">CGRN 57</ref>. Analogous dossiers belonging to subcivic groups are known from Athens: cp. e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_19/">CGRN 19</ref> (deme of Skambonidai).</p>  
+	
+<p>Lines A5-6: The entry is extremely fragmentary, but appears to refer to the combination of a theoxenia (cf. <ref target="http://cgrn.ulg.ac.be/CGRN_13/">CGRN 13</ref> from Selinous, on this subject) and a table for offerings. Cp. lines A15-16.</p>
+						
+<p>Line A7: For the cult of the hero Hippolytus in Athens—famous as the illegitimate son of Theseus, mythical king of the city (Eur. <title>Hipp.</title>)—, cf. <bibl type="abbr" n="IG I³">IG I³</bibl> 369, lines 66 and 86 (statue of Aphrodite in the shrine called Hippolyteion, on the south slope of the Acropolis, located near the shrine of Aphrodite Pandemos).</p>
+	
+<p>Line A10: This is the only preserved reference to a precise occasion, the Posidea or festival of Poseidon, thus suggesting that the fragmentary text was arranged as a calendar. The Posidea is thought to have happened on the 8th of the month Posideon at Athens (cf. Mikalson). It is possible that several of the following entries in the list pertain to this occasion: Poseidon, the Nymphs and Acheloos are appropriately mentioned in lines A18-19, possibly the intervening sacrifices also belong to this occasion.</p>
+						
+<p>Lines A11-12: It remains debated whether this possible mention of the cult of Zeus Tropaios at Kynosoura is meant to refer to a monument on a promontory of that name at Salamis (cf. <bibl type="abbr" n="IG II²">IG II²</bibl> 1028, line 27) or at Marathon: Jameson provides detailed references for both. The cult may be thought to be a rather new addition from the time of the victories of the Persian wars, at the site of a tropaion or victory monument. However, it remains difficult to correlate the date of the Posidea mentioned in the previous line with either the anniversary of the battle of Salamis (16 Mounychion, several months later) or of Marathon (6 Boedromion, several months before). That being said, the cult of Zeus Tropaios at Marathon may perhaps be best paralleled by a fragmentary entry in the sacrificial calendar of the Tetrapolis: <ref target="http://cgrn.ulg.ac.be/CGRN_56/">CGRN 56</ref>, col. I, lines 18-19 (cp. 26). Lambert has hypothesised that the cult in this text and in the calendar of the Marathonian Tetrapolis should instead have been to [Ἀπόλλωνι | Ἀπο]τροπαίοι, thinking of a connection with sailing (this also remains to be demonstrated). For another hypothesis, about Poseidon [Προσ]τροπαίοι, see Robertson. The cult of Heracles at Elaious (lit. "in the Olive-grove") is otherwise fairly well attested in Attica, cf. e.g. <bibl type="abbr" n="IG I³">IG I³</bibl> 351, line 7. Lambert also discusses the possible localisation of this cult, thinking that it designates not a small deme ca. 4 km north of Eleusis, but perhaps a village or region that is to be tied again to the Tetrapolis. For this connection, see also immediately below, line A13, on Xouthos.</p>
+	
+<p>Lines A13-14: Xouthos, together with his wife Creusa and son Ion, is a figure connected to the Ionian kinship of the Athenians (cf. Eur. <title>Ion</title>). His cult is otherwise unknown in Attica, but it is worth noting that Strabo (8.7.1) describes him as one who ᾤκισε τὴν τετράπολιν τῆς Ἀττικῆς. The cult of Glaukos is not known in Attica, but Jameson aptly provides references for his worship in Euboia: Strab. 9.2.13, Paus. 9.22.6, and Athen. 7.296b.</p>
+	
+<p>Line A15: For the cult of Apollo Pythios in Athens, cf. Parker.</p>
+	
+<p> Line A17: On the 'lifting up' of the lamb, the exact meaning here remains enigmatic. The verb often refers to the lifting up of hands and other objects as a form of offering or prayer. On a ritual level the only possible parallel is the lifting of bulls (verb: αἵρεσθαι), on which cf. Van Straten.</p>
+	
+<p>Lines A18-19: Ptorthios is not an epithet of Poseidon here, <foreign>pace</foreign> <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. πτόρθος. The word πτόρθιον designates a specific sacrificial animal, apparently a young goat whose horns have only begun 'budding'—a term only found in Athens, cf. the Commentary at <ref target="http://cgrn.ulg.ac.be/CGRN_21/">CGRN 21</ref>, lines 12-13. For a possible association of Apollo with the Nymphs, cp. <ref target="http://cgrn.ulg.ac.be/CGRN_17/">CGRN 17</ref> (Thasos). For the cult of Acheloos (also sometimes associated with that of Apollo), cf. <ref target="http://cgrn.ulg.ac.be/CGRN_156/">CGRN 156</ref> (Mykonos), lines 29-39. All of the gods, including Poseidon himself, may have been connected to the celebration of the Posidea: cf. line A10.</p>
+		
+<p>Lines B2-3: Cp. also B7, B15-19. All of these instances refer to sacrifices of "flayed" animals offered either by private individuals or by the city (note also the dining-room which appears to be mentioned in line B4). In several of these cases, the priest or priestess receives the skin of the animal which has thus been removed. For similar sacrifices, cf. here <ref target="http://cgrn.ulg.ac.be/CGRN_66/">CGRN 66</ref> (Chios), line 11, and <ref target="http://cgrn.ulg.ac.be/CGRN_156/">CGRN 156</ref> (Mykonos), line 25.</p>
+						
+<p>Line B8: Archegetes ought to designate the eponymous hero of the tribe or subcivic group in question here. For the cults of 'leader' heroes, cp. here <ref target="http://cgrn.ulg.ac.be/CGRN_57/">CGRN 57</ref> (Aixone), lines 31-36. Cf. also the priestess of Artemis discussed at lines B16-19; another priestess with analogous privileges was treated from line B20ff.</p>
+						
+<p>Line B10: The term <foreign>apometra</foreign> designates a form of priestly compensation in Attica, which could be monetary (as here, 10 drachmae) or in kind (a measure of grain): cf. <ref target="http://cgrn.ulg.ac.be/CGRN_25/">CGRN 25</ref> (Paiania), <foreign>passim</foreign>. </p>
+						
+					</div>
+			</body>
+    	</text>
+	</TEI>

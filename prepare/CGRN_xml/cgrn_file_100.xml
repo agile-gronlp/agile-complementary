@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_100" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 100</idno>: <rs type="textType" key="priestly contract">Contract (?)</rs> for the priest of Apollo (Delphinios) at Miletos</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Rectangular marble <rs type="objectType">block</rs>, broken above and below; slightly broken on the left but mostly intact on the right.</p>
+			<p><dimensions>
+					<height unit="cm">25</height>
+					<width unit="cm">112</width>
+					<depth unit="cm">19.5</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="mm">15</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0300" notAfter="-0275">ca. 300-275 BC</origDate></p>
+			<p><desc>Justification: lettering and preservation of Ionic dialect (Ehrhardt).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Miletos" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/599799" type="external">Miletos</ref></placeName>. Found built into the stage building of the theatre (exact contextual date unknown due to many reworkings of this structure). Now in the Louvre (inv. no. Ma 2803).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Ehrhardt <bibl type="abbr" n="Milet VI.3">Milet VI.3</bibl> 1221, with ph. pl. 23 (following an autoptic revision of the stone by P. Herrmann in 1981), with commentary and further refs.</p>
+					<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 15, 678; Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 46.</p>
+					<p>Further bibliography: <bibl type="author_date" n="Puttkammer 1912">Puttkammer 1912</bibl>: 5 and 11; <bibl type="author_date" n="Herda 2006">Herda 2006</bibl>: 213-214; <bibl type="author_date" n="Carbon 2013b">Carbon 2013b</bibl>: 29.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+	    			<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_1" n="1"/><gap reason="lost" quantity="5" unit="character" precision="low"/><orig>ντων</orig>, <name type="portion"><w lemma="λαμβάνω">λαμβάνειν</w></name> δὲ τὰ <name type="portion"><w lemma="δέρμα">δέρματα</w></name> κ<supplied reason="lost">αὶ</supplied> τὰ <w lemma="ἄλλος">ἄλλα</w> <name type="portion"><w lemma="γέρας">γέρεα</w></name>· <w lemma="ἐάν">ἢν</w> <w lemma="εἷς">ἓν</w> <name type="sacrifice"><w lemma="θύω">θ<supplied reason="lost">ύη</supplied>ται</w></name>, <name type="portion"><w lemma="λαμβάνω">λά<supplied reason="lost">ψε</supplied>
+	    				
+<lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">ται</supplied></w></name> <name type="portion"><w lemma="γλῶσσα"><supplied reason="lost">γλῶσ</supplied>σαν</w></name>, <name type="portion"><w lemma="ὀσφῦς">ὀσφὺν</w></name> <name type="quality"><w lemma="δασύς">δασέαν</w></name>, <name type="portion"><w lemma="ὥρα">ὤρην</w></name>· <w lemma="ἐάν">ἢν</w> δὲ <w lemma="πλείων">πλέω</w> <name type="sacrifice"><w lemma="θύω">θύηται</w></name>, <name type="portion"><w lemma="λαμβάνω">λάψεται</w></name> <w lemma="ἀπό">ἀπ’</w> <w lemma="ἕκαστος">ἑκάστου</w> <name type="portion"><w lemma="ὀσφῦς">ὀσφὺ<supplied reason="lost">ν</supplied></w></name>
+	    					
+<lb xml:id="line_3" n="3"/><name type="quality"><w lemma="δασύς"><supplied reason="lost">δασ</supplied>έαν</w></name> καὶ <name type="portion"><w lemma="γλῶσσα">γλῶσσαν</w></name> καὶ <name type="portion"><w lemma="κωλῆ">κωλῆν</w></name> <w lemma="εἷς">μίαν</w> <w lemma="ἀπό">ἀπὸ</w> <w lemma="πᾶς">πάντων</w>· καὶ τῶν <w lemma="ἄλλος">ἄλλων</w> <name type="deity" key="unclear"><w lemma="θεός">θεῶν</w></name> τῶν
+	    					
+<lb xml:id="line_4" n="4"/><name type="epithet" key="Entemenios"><w lemma="ἐντεμένιος"><supplied reason="lost">ἐν</supplied>τεμενίων</w></name> <w lemma="ὅσος">ὅσων</w> <name type="personnel"><w lemma="ἱεράομαι">ἱερᾶται</w></name> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱέρεως</w></name>, <name type="portion"><w lemma="λαμβάνω">λάψεται</w></name> τὰ <name type="portion"><w lemma="γέρας">γέρεα</w></name> τὰ <w lemma="αὐτός">αὐτὰ</w> καὶ <name type="portion"><w lemma="κωλῆ">κωλῆν</w></name> <w lemma="ἀντί">ἀντὶ</w>
+	    					
+<lb xml:id="line_5" n="5"/><supplied reason="lost">τῆ</supplied>ς <name type="portion"><w lemma="ὥρα">ὤρης</w></name>, <w lemma="εἰ">εἰ</w> ἢμ <w lemma="μή">μὴ</w> <name type="title"><w lemma="βασιλεύς">βασιλεὺς</w></name> <name type="portion"><w lemma="λαμβάνω">λαμβάνηι</w></name>· <w lemma="ἐάν">ἢν</w> δὲ <name type="sacrifice"><w lemma="εὐστόν">εὐστὸν</w></name> <name type="sacrifice"><w lemma="θύω">θύηι</w></name> ἡ <name type="group"><w lemma="πόλις">πόλις</w></name>, <name type="portion"><w lemma="λαμβάνω">λάψεται</w></name> <name type="portion"><w lemma="γλῶσσα">γλῶσ
+	    					
+<lb xml:id="line_6" n="6" break="no"/>σαν</w></name>, <name type="portion"><w lemma="ὀσφῦς">ὀσφὺν</w></name> <name type="quality"><w lemma="δασύς">δασέαν</w></name>, <name type="portion"><w lemma="ὥρα">ὤρην</w></name>· <w lemma="ἐάν">ἢν</w> <name type="person"><w lemma="ξένος">ξένος</w></name> <name type="sacrifice"><w lemma="ἱεροποιέω">ἱεροποιῆι</w></name> τῶι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name>, <name type="personnel"><name type="sacrifice"><w lemma="προϊεράομαι">προϊερᾶσθαι</w></name></name> τῶ<supplied reason="lost">ν</supplied>
+	    					
+<lb xml:id="line_7" n="7"/><name type="person"><w lemma="ἀστός">ἀστῶν</w></name> ὃν ἂν <w lemma="θέλω">θέληι</w> ὁ <name type="person"><w lemma="ξένος">ξένος</w></name>, <name type="portion"><w lemma="δίδωμι">διδόναι</w></name> δὲ τῶι <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> τὰ <name type="portion"><w lemma="γέρας">γέρεα</w></name> ἅπερ ἡ <name type="group"><w lemma="πόλις">πόλις</w></name> <name type="portion"><w lemma="δίδωμι">διδοῖ</w></name> <w lemma="πᾶς">π<supplied reason="lost">άν</supplied>
+	    					
+<lb xml:id="line_8" n="8" break="no"/><supplied reason="lost">τα</supplied></w> <w lemma="χωρίς">χωρὶ<supplied reason="lost">ς</supplied></w> <name type="portion"><w lemma="δέρμα">δέρματος</w></name>· <w lemma="ἐάν">ἢν</w> δὲ τοῖς <name type="festival"><w lemma="Ἀπολλώνιος">Ἀπολλωνίοις</w></name> <name type="sacrifice"><w lemma="θύω">θύ<unclear>η</unclear>ι</w></name> <name type="person"><w lemma="ξένος">ξ<unclear>ένος</unclear></w></name>, <name type="personnel"><name type="sacrifice"><w lemma="προϊεράομαι"><unclear>π</unclear><supplied reason="lost">ροϊερᾶσθαι</supplied></w></name></name> <gap reason="lost" quantity="8" unit="character" precision="low"/>
+	    			
+	    					<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[...], and to receive the skins and the other perquisites. If one (animal) is sacrificed, he will receive the tongue, the continuous sacrum, the foreleg (or tail?). If more (animals) are sacrificed, he will get the continuous sacrum and the tongue from each (animal), and one thigh from among all (the animals). When the priest officiates for the other gods sharing the precinct, he will receive the same perquisites and a thigh instead of (5) the foreleg (or tail?), unless the <foreign>basileus</foreign> receives it. If the city sacrifices an animal whose skin has been singed, he will receive the tongue, the continuous sacrum, the foreleg (or tail?). If a foreigner offers a sacrifice to Apollo, whichever citizen the foreigner wishes, is to serve as deputy-priest, and he is to give all the same perquisites to the priest as when the city sacrifices, [except] the skin. If the foreigner sacrifices during the Apollonia, [x is to serve as deputy-priest? ...]</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[...] de recevoir les peaux et les autres parts d'honneur. Si un seul (animal) est sacrifié, il recevra la langue, le long sacrum, le jarret (ou la queue ?). Si on sacrifie plus (d'un animal), qu'il reçoive le long sacrum et la langue, sur chaque (animal), et une seule cuisse sur tous. Quand le prêtre officie pour les autres dieux qui partagent l'enceinte, qu'il reçoive les mêmes parts d'honneur et une cuisse au lieu (5) du jarret (ou la queue ?), sauf si le roi la reçoit. Si la cité sacrifie un animal dont la peau a été roussie, qu'il reçoive la langue, le long sacrum, le jarret (ou la queue ?). Si un étranger offre un sacrifice à Apollon, quel que soit le citoyen que l'étranger choisit pour remplir l'office, qu'on donne au prêtre exactement les parts d'honneur que la cité donnerait, [sauf] la peau. Si c'est lors des Apollonia que sacrifie l'étranger, que [x serve de prêtre suppléant... ?]</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>Though only partially preserved, the regulation is organised much like other contracts for priests. It may be a more general regulation than a contract, but it is worth noting that the practice of sales of priesthood is well-attested at Miletos: cf. <ref target="http://cgrn.ulg.ac.be/CGRN_39">CGRN 39</ref>, etc. Accordingly, this document may well be a further instance of this type. It presents a series of cases and scenarios which modify the list of habitual perquisites for the priest: there are seven of these cases preserved here (the first and the last one partially). Since line 1 mentions the phrase τὰ ἄλλα γέρεα, the standard perquisites were probably defined in an earlier (now missing) section of the document. A good guess, however, is the usual series of three or four portions which listed here: the hide or skin in some cases, along with the tongue, the sacrum, and finally a portion called the ὤρη or, alternatively, the thigh. The attribution of these perquisites depends on how many animals are offered, to which gods, and on who is offering the sacrifice (the city, a foreigner).</p>
+						
+<p>At any rate, it is clear that the regulation refers to the priesthood of Apollo at Miletos and very likely the priest of Apollo Delphinios, the central figure in the city (cf. Ehrhardt, Herda). There are several indications which support this identification. Apollo is obviously mentioned in line 6, as well as in line 8, where a festival called the Apollonia is cited. Though not attested <foreign>verbatim</foreign> at Miletos, this was doubtless a major Apolline festival in the city, perhaps the celebration attested in the stele of Molpoi and taking place in the first month of the calendar (Taureon), cf. <ref target="http://cgrn.ulg.ac.be/CGRN_201">CGRN 201</ref>, lines 23-24, and/or the festival (ἑορτή) of Apollo which is mentioned in the Archaic sacrificial calendar of Miletos, <ref target="http://cgrn.ulg.ac.be/CGRN_6">CGRN 6</ref>, lines 12-13. The stele of the Molpoi also associates the official called the <foreign>basileus</foreign> with the cult of Apollo Delphinios, as we find here in line 5, and the mention of ἐντεμενίοι θεοί in lines 3-4 makes the identification even more plausible, since a group of such gods is only attested at Miletos in the Delphinion (these gods include Hekate and probably others later such as Zeus Kronion, see Herda; Carbon).</p>
+							
+<p>Line 2: For the tongue as a priestly perquisite, see also here e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_36">CGRN 36</ref> (Chios), line 2-3, etc. The ὀσφῦς is a fundamental portion in Greek sacrifice, being often offered on the altar as a burnt offering, and sometimes granted to priests, see e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_42">CGRN 42</ref> (Iasos), line 2. Anatomically, it should refer to the sacrum bone, its marrow, and the meat surrounding it (perhaps other vertebrae, portions of the tail, or adjacent bits of the hip). Here, however, the portion is explicitly qualified by the adjective δασύς, which has caused some problems of interpretation (see still Ehrhardt, who translates "mit viel Fleisch"; <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. I.1 "shaggy", citing this text). The correct interpretation had already been signalled by Puttkammer (p. 11), citing Hsch. s.v. δάσυ· συνέχες. In other words, the qualification here stipulates the sacrum must be an intact or 'continuous' portion (perhaps 'with a lot of meat', but only in the sense of being butchered as a continuous cut of meat). For other portions of sacrificial meat described as 'continuous' or intact, see here <bibl type="abbr" n="LSCG">LSCG</bibl> 45, line 5. For the share called ὤρη, see below on lines 4-5.</p>
+							
+<p>Line 3: Since the thigh—perhaps deboned and the thighbone offered on the altar for the god—would have been a substantial and valuable portion of meat, the priest only receives a single item from the available legs in the multiple sacrifice. The same specification applies to the granting of a valuable skin to the priest, since this appears to be only granted exceptionally in the regulation.</p>
+							 
+<p>Lines 4-5: Τhe portion called ὤρη ought to be the Ionian form of a word like ὥρα or ὤρα (so <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.). However, this remains obscure, unless it is an alternative form for οὐρά, the tail (but the usual Ionian form for this is οὐρή). The solution is perhaps indicated by the fact that the thigh may be exchanged for the ὤρη, unless the <foreign>basileus</foreign> receives this portion in the first place (the <foreign>basileus</foreign> presumably received this share only from some of the sacrifices to other gods in the <foreign>temenos</foreign>). This would suggest that ὤρη should designate something analogous to a leg, also since schol. ad Hom. <bibl>Il.</bibl> 12.89 writes τοὺς γάρ Ἴωνας λέγειν φασὶ τὴν κωλῆν ὥρην {scil. ὤρην} καὶ ὠραίαν (already adduced by Bechtel, cited by Ehrhardt). In other words, more than a tail, it would perhaps be better to think of a foreleg, since ὠραία/ὠραίη ought to mean "first to appear". Another possibility is that raised by Bechtel, who compares Lat. <foreign>sura</foreign>, from which it would follow that the word designates the lower leg or calf. On the sacrifice of an animal whose skin was singed or burned (εὐστόν), cp. esp. <ref target="http://cgrn.ulg.ac.be/CGRN_57">CGRN 57</ref> (Aixone), lines 6 and 12.</p>
+							
+<p>Lines 6-8: The verb προϊεράομαι refers to the appointment and designation of a substitute for the one offering the sacrifice, i.e. a surrogate officiant working with the priest or acting himself as priest. This appears to be particularly necessary in the case of foreigners, who were not themselves entitled to offer a sacrifice, except in name. A citizen is freely chosen as a surrogate and the priest of Apollo presumably still oversees the rites in question. See also here <ref target="http://cgrn.ulg.ac.be/CGRN_41">CGRN 41</ref> (Chios), lines 4-5, <ref target="http://cgrn.ulg.ac.be/CGRN_50">CGRN 50</ref> (Chios), lines 10-12, and <ref target="http://cgrn.ulg.ac.be/CGRN_138">CGRN 138</ref> (Miletos), lines 6-7, other instances from priestly contracts.</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

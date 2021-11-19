@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_2" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 2</idno>: <rs type="textType" key="sacrificial calendar">Sacrificial calendar (?)</rs> from Gortyn</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Four fragments of shallow <rs type="objectType">wall blocks</rs>, perhaps from a revetment or retaining wall. A is a corner piece, broken into 2 segments; B is contiguous with C revealing the left edge of the block; D is also a corner block, appearing to preserve similar lettering. The position of fragment D is unknown; it could occur before A, near the beginning of the extant text in lines 1-2, between A and B, or as further continuation of the fragments; it is presented here as a further fragment of text in lines 1-2.</p>
+				<p>Fragment A <dimensions>
+					<height unit="cm">47</height>
+					<width unit="cm">80</width>
+				</dimensions></p>
+				<p>Fragment B
+				<dimensions>
+					<height unit="cm">61.5</height>
+					<width unit="cm">36</width>
+				</dimensions></p>
+				<p>Fragment C <dimensions>
+					<height unit="cm">120</height>
+					<width unit="cm">35</width>
+				</dimensions></p>
+				<p>Fragment D
+				<dimensions>
+					<height unit="cm">37.5</height>
+					<width unit="cm">101</width>
+				</dimensions></p>
+				<p>The depth of all fragments varies between: <dimensions><depth unit="cm">1.5-2.4</depth></dimensions>.</p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Sinistroverse (left-oriented or 'mirrored') lettering, in the early Gortynian alphabet, with some uneven attempts at boustrophedon: fragment C contains two lines (7 and 10) which are dextroverse, perhaps belonging to another text (another law or decree?) in lines 7-10. The text is not very carefully incised, with erratic lines, but there are vertical strokes | denoting punctuation between words or phrases. </p>
+				<p>The height of the letters varies considerably, <height unit="cm">1-7.5</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0600" notAfter="-0525">ca. 600-525 BC</origDate></p>
+			<p><desc>Justification: Jeffery on the basis of the lettering and layout.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Gortyn" n="Crete"><ref target="http://pleiades.stoa.org/places/589796/" type="external">Gortyn</ref></placeName>. Fragments A and C are extant among the remains of the Pythion, along with IC IV 1-40; B and D are lost.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 02-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+<p>Edition here based on Guarducci <bibl type="abbr" n="IC IV">IC IV</bibl> 3, with the reconstruction of Comparetti, drawings, and further details and references. An integrated order of the fragments, especially B and C—but otherwise with lacunae that are probably impossible to estimate—is adopted here.</p>
+<p>Other edition: Gagarin and Perlman <bibl type="abbr" n="LAC">LAC</bibl> G3.</p>
+<p>Cf. also: von Prott <bibl type="abbr" n="LGS I">LGS I</bibl> 20; Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 146; Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 311-312, 315 no. 2.</p>
+<p>Further bibliography: <bibl type="author_date" n="Trümpy 1997">Trümpy 1997</bibl>: 188-193, with n. 793-794, on the calendar and the month Welkanios.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb xml:id="line_1" n="1" rend="right-to-left"/><gap reason="lost" extent="unknown"/> <name type="sacrifice"><w lemma="ἱερός"><supplied reason="lost">ἰα</supplied>ρὰ</w></name> <pc>|</pc> <name type="sacrifice"><w lemma="τελέω">τετελημέ<supplied reason="lost">να</supplied></w></name> <gap reason="lost" extent="unknown"/><orig>υι</orig> <pc>|</pc> το̑ι <name type="month"><w lemma="Ἐλκάνιος"><supplied reason="lost">Ϝ</supplied>ελκ<unclear>α</unclear>νί<supplied reason="lost">οι</supplied></w></name>  <gap reason="lost" extent="unknown"/><orig>αι</orig> <pc>|</pc> <w lemma="ἐν">ἐν</w> τᾶι <w lemma="πέμπτος">πένπτα<supplied reason="lost">ι</supplied></w>  <gap reason="lost" extent="unknown"/>
+	    					
+<lb xml:id="line_2" n="2" rend="right-to-left"/> <gap reason="lost" extent="unknown"/><orig>ν</orig> <pc>|</pc> <name type="animal" key="generic"><name type="age"><w lemma="τέλειος">τέληον</w></name></name> <pc>|</pc> καὶ <name type="animal" key="goat"><w lemma="αἴξ">αἶγα</w></name> <pc>|</pc> <w lemma="ἐν">ἐ<unclear>ν</unclear></w>  <gap reason="lost" extent="unknown"/> <name type="animal" key="sheep"><w lemma="ὄϊς">ὄι<unclear>ν</unclear></w></name> <name type="gender"><w lemma="θῆλυς">θήλε<supplied reason="lost">ι</supplied><unclear>α</unclear>ν</w></name> <pc>|</pc> το̑ι <name type="deity" key="Apollo"><w lemma="Ἀπέλλων">Ἀπ<supplied reason="lost">έλλονι</supplied></w></name>  <gap reason="lost" extent="unknown"/><orig>εϙ</orig><gap reason="lost" quantity="2" unit="character"/><orig>ς</orig> | <name type="animal" key="ox"><name type="gender"><w lemma="ταῦρος">ταϝῦρος</w></name></name> | <orig>εσ</orig><gap reason="lost" extent="unknown"/>
+	    					
+<lb xml:id="line_3" n="3" rend="right-to-left"/> <gap reason="lost" extent="unknown"/> τᾶι <name type="deity" key="Hera"><w lemma="Ἥρα">Ἤραι</w></name> <pc>|</pc> <name type="animal" key="sheep"><w lemma="ὄϊς">ὄις</w></name> <pc>|</pc> <name type="gender"><w lemma="θῆλυς"><unclear>θ</unclear>ή<supplied reason="lost">λ</supplied>ε<supplied reason="lost">ια</supplied></w></name> <supplied reason="lost"><pc>|</pc> τᾶι</supplied> <name type="deity" key="Demeter"><w lemma="Δημήτηρ"><supplied reason="lost">Δάμ</supplied>ατρι</w></name> <pc>|</pc> <name type="animal" key="sheep"><w lemma="ὄϊς">ὄις</w></name> <pc>|</pc> <name type="quality"><name type="gender"><w lemma="ἐπίτεξ">ἐπίτεκ<supplied reason="lost">ς</supplied></w></name></name> <gap reason="lost" extent="unknown"/>
+	    					
+<lb xml:id="line_4" n="4" rend="right-to-left"/> <gap reason="lost" extent="unknown"/> αἰ μὲν <w lemma="δύο">δύο</w> <pc>|</pc> <name type="gender"><w lemma="θῆλυς">θήλει<supplied reason="lost">αι</supplied></w></name><supplied reason="lost">, οἰ δὲ</supplied> <w lemma="δύο"><supplied reason="lost">δύ</supplied>ο</w> <name type="gender"><w lemma="ἄρσην">ἔρσενες</w></name> <pc>|</pc> καὶ <name type="animal" key="goat"><name type="gender"><w lemma="τράγος">τρ<supplied reason="lost">άγος</supplied></w></name></name> <gap reason="lost" extent="unknown"/>
+	    					
+<lb xml:id="line_5" n="5" rend="right-to-left"/> <gap reason="lost" extent="unknown"/><orig><unclear>λ</unclear></orig><gap reason="lost" quantity="4" unit="character"/><orig>ιο</orig><gap reason="lost" extent="unknown"/><orig>απ<unclear>ρ</unclear>ο<unclear>σ</unclear>υναι</orig> <pc>|</pc> <orig>κ<unclear>α</unclear></orig><gap reason="lost" extent="unknown"/>
+
+<lb xml:id="line_6" n="6" rend="right-to-left"/><gap reason="lost" extent="unknown"/><orig><unclear>α</unclear>ς</orig> <pc>|</pc> ο<unclear>ἰ</unclear> <w lemma="unclear">ὄϝτοι</w> <orig>ο<unclear>ν</unclear></orig><gap reason="lost" extent="unknown"/>
+	
+<lb xml:id="line_7" n="7" rend="left-to-right"/><gap reason="lost" extent="unknown"/><orig>παικαρδ</orig><gap reason="lost" extent="unknown"/>
+<lb xml:id="line_8" n="8" rend="right-to-left"/><gap reason="lost" extent="unknown"/><orig><unclear>ρ</unclear>ρο</orig><gap reason="lost" extent="unknown"/>
+<lb xml:id="line_9" n="9" rend="right-to-left"/><gap reason="lost" extent="unknown"/><orig>ονιο</orig><gap reason="lost" extent="unknown"/>
+<lb xml:id="line_10" n="10" rend="left-to-right"/><gap reason="lost" extent="unknown"/><orig>ε</orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>μ</unclear>α</orig><gap reason="lost" extent="unknown"/>
+	    			</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>[...] sacrifices that have been accomplished [...] in the (month) Welkanios [...] on the fifth (day) [...]</p>
+					<p>[...] an adult (animal) and a goat in [...] a ewe [...] for Apollo [...] a bull [...]</p>
+	    				<p>[...] for Hera a ewe; for Demeter a ewe about to give birth [...]</p>
+	    				<p>[...] two of them female, two of them male, and a [he-goat (?) ... (5)...]</p>
+	    				<p>(several fragmentary lines)</p>	
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[...] sacrifices qui ont été accomplis [...] en Welkanios [...] le cinquième jour [...]</p> 
+					<p>[...] (un animal) adulte et un caprin au [...] une brebis [...] pour Apollon [...] un taureau [...]</p>
+					<p>[...] pour Héra une brebis; pour Déméter une brebis près de mettre bas [...]</p>
+					<p>[...] les deux femelles, les deux mâles, et un [bouc (?) ... (5) ...]</p>
+					<p>(plusieurs lignes très fragmentaires)</p>
+					<p>(traduction G. Pironti)</p>
+						
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This sacrificial regulation belongs to the walls of the Pythion where it was conspicuously displayed. The introductory phrase of the text may have simply been [(e.g. τάδε) ἰα]ρὰ | τετελημέ[να]: "(the following) are the sacrifices that have been performed (on such-and-such an occasion) in the month Welkanios..." At face value, then, the document is a form of record of the sacrifices which have been made on this past occasion, but the perfect aspect also indicates that the completed actions have relevance for the present time. Accordingly, the purpose of recording the sacrifices, so far as we can tell, is not only to commemorate past practices but also to codify and perhaps to prescribe them. Therefore, the text may have been a public calendar of some sort, though in its current state it only mentions one date ἐν τᾶι πένπτα[ι], line 1, in the apparent month Welkanios. It is possible that it was a shorter civic regulation concerning sacrifices on a few specific days, perhaps a springtime festival like the Welkania itself (see below on line 1).
+</p>
+
+<p>Line 1: The existence of a month called Ϝελκάνιος is fairly well attested on Crete, at Knossos (᾽Ελχάνιος, <bibl type="abbr" n="IC I">IC I</bibl> 3, 2) and at Gortyn itself (<bibl type="abbr" n="IC IV">IC IV</bibl> 184, lines 1-3), but also on Cyprus. Ϝελκάνιος might be identified as a spring month in both cases: cf. Trümpy. It is directly derived from the name of Welkanos, a name for Cretan Zeus (cf. Hsch. s.v.).</p>
+
+<p>Line 2: Guarducci (followed by Sokolowski and others) restores ἐν [τᾶι ἕκται] in the middle of this line, which would give us sacrifices on the next day, after the fifth. But it may be surprising that the divine recipient for the female sheep at the end of the line then remains unspecified. Unless it were implicit from what preceded, it is perhaps best to leave the question and the lacuna open. The recipients of the offerings are unclear but we do get a mention of Apollo in the second half of the line. It is possible, but not at all certain given the intervening lacunae, that he received the bull mentioned afterwards.</p>
+
+<p>Line 3: The sacrifice of a female sheep to Hera occurs in at least a few other cases in the corpus, e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_6/">CGRN 6</ref> (Miletos), line 6. Similarly, the sacrifice of a pregnant animal for Demeter is quite common: e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_156/">CGRN 156</ref> (Mykonos), line 11-12, but here the term is highly specific and rare, ἐπίτεξ, denoting an animal in the final stages of pregnancy (cp. the σῦν ἐπίτοκα offered to Demeter in the regulation of the mysteries from Andania, <ref target="http://cgrn.ulg.ac.be/CGRN_222/">CGRN 222</ref>, lines 33, 68). These therefore appear as very typical offerings for these deities, but their combination and series remain elusive within the context of the celebration or festival in question.</p>
+
+<p>Line 4: This line appears to refer to a very important and significant sacrifice of four animals; two of them are to be female, the other pair male. What is more, the offering of a goat, if correctly restored, immediately follows. For sacrifices of more than three animals as part of single sacrifice, see for instance <ref target="http://cgrn.ulg.ac.be/CGRN_56/">CGRN 56</ref> (Marathonian Tetrapolis), col. II, line 44, to Kore.
+</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

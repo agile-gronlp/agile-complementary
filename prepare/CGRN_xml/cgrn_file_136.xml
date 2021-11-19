@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_136" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    	<title><idno type="filename">CGRN 136</idno>: <rs type="textType" key="decree">Decree</rs> concerning the cult of Aphrodite Pandemos at Athens</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+			<p> <rs type="objectType">Stele</rs> of Hymettian marble.</p>
+			<p><dimensions>
+				<height unit="cm">49</height>
+				<width unit="cm">26</width>
+				<depth unit="cm">14</depth>
+			</dimensions></p>	
+</support> </supportDesc>
+		<layoutDesc><layout> <p> Non-stoichedon. </p>
+			<p>Letters: <height unit="cm">0.7</height>.</p>
+		</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0283" notAfter="-0282">ca. 283/2 BC</origDate></p>
+							<p><desc>Justification: chronology of the magistrates in function (Osborne - Byrne).</desc></p></origin>
+						<provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885" type="external">Athens</ref></placeName>. Found on the western slope of the acropolis. Now in the Epigraphical Museum in Athens (inv. no. 7381).</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 15-02-2016 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Osborne - Byrne <bibl type="abbr" n="IG II³">IG II³</bibl> 879, with ph. pl. 20.</p>
+	    			
+	    			<p> Other editions: <bibl type="author_date" n="Foucart 1889">Foucart 1889</bibl>: 162; <bibl type="abbr" n="IG II²">IG II²</bibl> 659.</p>
+	    			<p> Cf. also:
+	    				Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 36; 
+	    				Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 39; 
+	    				Brodersen <bibl type="abbr" n="HGIU">HGIU</bibl> 306;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 46, 2357; <ref target="https://www.atticinscriptions.com/inscription/IGII31/879" type="external">AIO</ref>, with another English translation and commentary.</p>
+	    			
+	    			<p>Further bibliography:
+	    				<bibl type="author_date" n="Roussel 1934">Roussel 1934</bibl>: 178;
+	    				<bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>: 138-139;
+	    				<bibl type="author_date" n="Pirenne-Delforge 1994">Pirenne-Delforge 1994</bibl>: 26-33;
+	    				<bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>: 390.</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab>
+
+	    				<lb xml:id="line_1" n="1"/> <w lemma="ἐπί">ἐπὶ</w> <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> Ἡγησιπύλης,
+	    				
+	    				<lb xml:id="line_2" n="2"/> <w lemma="ἐπί">ἐπ’</w> Εὐθίου <name type="personnel"><w lemma="ἄρχων">ἄρχοντος</w></name>, <w lemma="ἐπί">ἐπὶ</w> τῆς
+	    				
+	    				<lb xml:id="line_3" n="3"/> Αἰαντίδος <w lemma="δωδέκατος">δωδεκάτης</w> <name type="personnel"><w lemma="πρυτανεία">πρυ
+	    					
+	    				<lb xml:id="line_4" n="4" break="no"/>τανείας</w></name> <w lemma="ὅς">ἧι</w> Ναυσιμένης
+	    				
+	    				<lb xml:id="line_5" n="5"/> Ναυσικύδου <w lemma="χολαργεύς">Χολαργεὺς</w> 
+	    				
+	    				<lb xml:id="line_6" n="6"/> <w lemma="γραμματεύω">ἐγραμμάτευεν</w>· <name type="month"><w lemma="Σκιροφοριών">Σκιροφοριῶ
+	    					
+	    				<lb xml:id="line_7" n="7" break="no"/>νος</w></name> <w lemma="εἷς">ἕνηι</w> καὶ <w lemma="νέος">νέαι</w>· Καλλίας Λ<supplied reason="lost">υ</supplied>
+	    				
+	    				<lb xml:id="line_8" n="8" break="no"/>σιμάχου Ἕρμειος <w lemma="λέγω">εἶπεν</w>· <w lemma="ὅπως">ὅπ<supplied reason="lost">ω</supplied>
+	    					
+	    				<lb xml:id="line_9" n="9" break="no"/>ς</w> <w lemma="ἄν">ἂν</w> οἱ <name type="personnel"><w lemma="ἀστυνόμος">ἀστυνόμοι</w></name> οἱ <w lemma="ἀεί">ἀεὶ</w> <w lemma="λαγχάνω"><supplied reason="omitted">λα</supplied>νχ<supplied reason="lost">ά</supplied>
+	    						
+	    				<lb xml:id="line_10" n="10" break="no"/>νοντες</w> <w lemma="ἐπιμέλεια">ἐπιμέλειαν</w> <w lemma="ποιέω">ποιῶντα<supplied reason="lost">ι</supplied></w>
+	    				
+	    				<lb xml:id="line_11" n="11"/> τοῦ <name type="structure"><w lemma="ἱερός">ἱεροῦ</w></name> τῆς <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδίτης</w></name> τῆς
+	    				
+	    				<lb xml:id="line_12" n="12"/> <name type="epithet"><w lemma="πάνδημος">Πανδήμου</w></name> <name type="authority"><w lemma="κατά">κατὰ</w> τὰ <w lemma="πάτριος">πάτρια</w></name>, <w lemma="τύχη">τύ
+	    					
+	    				<lb xml:id="line_13" n="13" break="no"/>χηι</w> <w lemma="ἀγαθός">ἀγαθεῖ</w>, <w lemma="δοκέω">δεδόχθαι</w> τῆι <name type="group"><w lemma="βουλή">βου
+	    						
+	    				<lb xml:id="line_14" n="14" break="no"/>λῆι</w></name> τοὺς <name type="personnel"><w lemma="πρόεδρος">προέδρους</w></name> οἳ <w lemma="ἄν">ἂν</w> <w lemma="λαγχάνω">λάχω
+	    							
+	    				<lb xml:id="line_15" n="15" break="no"/>σιν</w> <w lemma="προεδρεύω">προεδρεύειν</w> <w lemma="εἰς">εἰς</w> τὴν <w lemma="ἔπειμι">ἐπιοῦ
+	    								
+	    				<lb xml:id="line_16" n="16" break="no"/>σαν</w> <w lemma="ἐκκλησία">ἐκκλησίαν</w> <w lemma="προσάγω">προσαγαγεῖν</w> τὸν
+	    				
+	    				<lb xml:id="line_17" n="17"/> <w lemma="οἰκεῖος"><supplied reason="lost">ο</supplied>ἰκεῖον</w> τῆς <name type="personnel"><w lemma="ἱέρεια">ἱερείας</w></name> καὶ <w lemma="χρηματίζω">χρηματίσαι</w>
+	    				
+	    				<lb xml:id="line_18" n="18"/> <w lemma="περί">περὶ</w> <w lemma="οὗτος">τούτων</w>, <w lemma="γνώμη">γνώμην</w> δὲ <w lemma="συμβάλλω">ξυνβάλλε
+	    					
+	    				<lb xml:id="line_19" n="19" break="no"/><supplied reason="lost">σ</supplied>θαι</w> τῆς <name type="group"><w lemma="βουλή">βουλῆς</w></name> <w lemma="εἰς">εἰς</w> τὸν <name type="group"><w lemma="δῆμος">δῆμον</w></name> <w lemma="ὅτι">ὅ
+	    						
+	    				<lb xml:id="line_20" n="20" break="no"/><supplied reason="lost">τ</supplied>ι</w> <w lemma="δοκέω">δοκεῖ</w> τῆι <name type="group"><w lemma="βουλή">βουλῆι</w></name>, τοὺς <name type="personnel"><w lemma="ἀστυνόμος">ἀστυνό
+	    							
+	    				<lb xml:id="line_21" n="21" break="no"/>μους</w></name> τοὺς <w lemma="ἀεί">ἀεὶ</w> <w lemma="λαγχάνω">λαχόντας</w>, <w lemma="ὅταν">ὅταν</w> <w lemma="εἰμί">ἦι</w>
+	    				
+	    				<lb xml:id="line_22" n="22"/> ἡ <w lemma="πομπή">πομπὴ</w> τῆι <name type="deity" key="Aphrodite"><w lemma="Ἀφροδίτη">Ἀφροδίτηι</w></name> τεῖ <name type="epithet"><w lemma="πάνδημος">Πανδή
+	    					
+	    				<lb xml:id="line_23" n="23" break="no"/>μωι</w></name> <w lemma="παρασκευάζω">παρασκευάζειν</w> εἰς <name type="purification"><w lemma="κάθαρσις">κάθαρσι<supplied reason="lost">ν</supplied></w></name>
+	    				
+	    				<lb xml:id="line_24" n="24"/> τοῦ <name type="structure"><w lemma="ἱερός">ἱεροῦ</w></name> <name type="animal" key="bird"><w lemma="περιστερά">περιστερὰν</w></name> καὶ <w lemma="περιαλείφω">περιαλε<supplied reason="lost">ῖ</supplied>
+	    					
+	    				<lb xml:id="line_25" n="25" break="no"/><supplied reason="lost">ψα</supplied>ι</w> τοὺς <name type="structure"><w lemma="βωμός">βωμοὺς</w></name> καὶ <w lemma="πισσόω">πιττῶσαι</w> τὰς        
+	    						
+	    		<lb xml:id="line_26" n="26"/><name type="structure"><w lemma="θύρα"><supplied reason="lost">θυρὰς</supplied></w></name> καὶ <name type="purification"><w lemma="λούω">λοῦσαι</w></name> τὰ <name type="object"><w lemma="ἕδος">ἕδη</w></name>· <w lemma="παρασκευάζω">παρα<supplied reason="lost">σκευ</supplied>
+	    							
+	    			<lb xml:id="line_27" n="27" break="no"/><supplied reason="lost">άσαι</supplied></w> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">κα</supplied>ὶ <name type="colour2"><name type="clothing"><w lemma="πορφύρα">πορφύραν</w></name></name> <w lemma="ὁλκή">ὁλκὴν</w> U+10142U+10142<unclear>U+10142U+10142</unclear><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+	    				<lb xml:id="line_28" n="28"/><gap reason="lost" extent="unknown" unit="character"/> τὰ <w lemma="ἐπί">ἐπὶ</w> τ<gap reason="lost" extent="unknown" unit="character"/>
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>During the priesthood of Hegesipyle and the archonship of Euthios, on the twelfth prytany of the tribe Aiantis, on which Nausimenes (5) son of Nausikydos of the deme Cholargos was secretary, the 30th of Skirophorion, Kallias son of Lysimachos Hermas proposed: so that the <foreign>astynomoi</foreign> who are successively appointed (10) by lot to this office take care of the sanctuary of Aphrodite Pandemos according to ancestral customs, with good fortune, may it be decided by the council that the <foreign>proedroi</foreign> who are appointed (15) by lot to preside should introduce to the upcoming assembly a male relative of the priestess and treat all these matters, and that they communicate (20) the decision of the council to the people; namely, that it seems good to the council that the <foreign>astynomoi</foreign> who are regularly assigned by lot, whenever the procession for Aphrodite Pandemos takes place, prepare a dove for the purification of the sanctuary, and that they anoint (25) the
+altars, and put pitch [on the doors] and clean the statues. In addition they must prepare a purple garment weighing 4 drachmae (?) [...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Sous la prêtresse Hegesipylè, sous l’archontat d’Euthias, durant la douzième prytanie de la tribu Aiantis pour laquelle Nausimenès, (5) fils de Nausikydos, de Cholargos exerçait la fonction de secrétaire, le dernier jour de Skirophorion; Kallias, fils de Lysimachos, du dème d’Hermai a fait la proposition suivante : afin que les astynomes qui seront successivement tirés (10) au sort aient soin du sanctuaire d’Aphrodite Pandemos conformément aux usages ancestraux, à la bonne fortune, qu'il plaise au conseil que les proèdres qui sont tirés (15) au sort pour présider fassent venir lors de l'assemblée suivante le parent de la prêtresse et traitent de tout cela et que les proèdres transmettent au peuple (20) l’avis du conseil; à savoir qu'il plaît au conseil que les astynomes successivement tirés au sort, quand aura lieu la procession pour Aphrodite Pandemos, disposent une colombe pour la purification du sanctuaire, et qu’ils oignent les autels tout autour et qu'ils enduisent de poix les [portes] et qu'ils nettoyent les statues. Qu'ils préparent aussi un vêtement pourpre d'un poids de 4 drachmes (?) [...].</p>
+									</div>
+					<div type="commentary">    
+						<head>Commentary</head>   
+						
+	<p> This inscription concerns the Athenian cult for Aphrodite Pandemos in the early third century, and discusses a number of purifications and other preparatory activities that the magistrates called the <foreign>astynomoi</foreign>, appointed annually by lot, should undertake each year before the procession for Aphrodite Pandemos take place. The sanctuary of Aphrodite Pandemos was situated on the southwest slope of the acropolis, between the temple of Themis and the entrance of the citadel (Paus. 1.22.3). Evidence of cultic activity concerning Aphrodite on this location dates back at least to the early fifth century BC, in the form of a metrical dedication (ca. 475 BC). The epithet Pandemos of Aphrodite has strong political connotations: according to Pausanias, Theseus installed the cult for Aphrodite Pandemos (and Peitho) when he united the different Athenian demes into one city. Apollodoros of Athens, in a fragment transmitted in a gloss by Harpocration, located the sanctuary near the Archaic agora of Athens (Apollod. 244 F 113 Jacoby, <bibl type="abbr" n="FGrH">FGrH</bibl> II B, p. 1075). Aphrodite's involvement in political affairs should probably be seen in her application of "the same conciliatory charm that unites lovers" (so Parker). On all these aspects of the cult of Aphrodite Pandemos, cf. Pirenne-Delforge. Cp. the civic cult of Aphrodite Pandemos on Kos, <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 302. For a regulation with a similar preoccupation concerning practical preparations and the preliminary cleaning of statues before an annual festival, see here <ref target="CGRN_106">CGRN 106</ref> (Kalaureia), lines 12-14.</p>
+						
+	<p> Line 9 (and lines 20-21): The <foreign>astynomoi</foreign> were ten magistrates, selected anually by lot, five for Athens and five for the Piraeus (cf. <bibl type="abbr" n="IG II³">IG II³</bibl> 904). They took care of policing the streets of the city and of the maintenance of public buildings. The religious duties conferred on them here seem extraordinary, but they are also closely combined with practical duties (covering with pitch, washing) and should thus perhaps be seen as an extension of their efforts concerning maintenance of public buildings. </p>
+	
+	<p> Line 12: The injunction of managing affairs κατὰ τὰ πάτρια, "according to the ancestral customs", implies that the decree follows or revives a religious tradition. Note that this terminology frequently recurs in the present Collection of ritual norms, cf. e.g. <ref target="CGRN_24">CGRN 24</ref> (Athens), line A8, <ref target="CGRN_78">CGRN 78</ref> (Piraeus), lines 12-13, and <ref target="CGRN_205">CGRN 205</ref> (Antiocheia ad Pyramum), line 29. Yet the reference to an ancestral or "ancient" way of doing things may well have been a rhetorical strategy on the part of the council.</p>
+						
+	<p> Lines 15-18: The priestess, being a woman, could not be introduced into the assembly herself. Apparently not being married yet (or being a widow), she had to be represented by a close male relative.</p>
+						
+	<p> Line 21-23: We do not know when processions for Aphrodite Pandemos took place, but since the 4th day of the month was generally sacred to Aphrodite, perhaps we need to situate the procession during the 4th day of a particular month or of any month (cf. Pirenne-Delforge, p. 31; the 4th of Mounychion was commemorated as the date of a festival of Eros, and perhaps for Aphrodite also, on the north slope of the acropolis: see Mikalson).</p>
+						
+	<p> Line 24: Purifications would normally be made with piglets, but the dove is recurrently associated with Aphrodite. For example, not far from the supposed cult site of the goddess, marble representations of doves (votive gifts to Aphrodite) were found, as well as a statuette representing the goddess holding a dove in her right hand (cf. Pirenne-Delforge, p. 31, also for other examples).</p>
+							
+	<p> Lines 23-26: The anointing of the altar and the maintenance of the woodwork in the sanctuary would have been normal preparations for a festival. Roussel restored θύρας instead of Foucart's ὀρυφὰς based on a new inspection of the available space on the stone, which is more limited that Foucart presumed. This restoration has been followed by all subsequent editors and commentators. The statues in question were those of Peitho and Aphrodite Pandemos (cf. Paus. 1.22.3; Pirenne-Delforge, p. 31).</p>
+						
+	<p> Line 27: Pirenne-Delforge (p. 32) interprets this as a purple colour (i.e. the adjective πορφύρεος), which would serve to dye fabrics, perhaps for the clothing of the officiants, perhaps for the divine statues. We note that πορφύρα is a noun, like πορφυρίς, and can simply mean a purple cloth or a garment adorned with purple dye. Given the amount of drachmae listed as a specific weight, and also the washing of statues, it is more likely that the cloth was used to adorn the statue of the goddess. For this sort of ritual washing and clothing, see here <ref target="CGRN_24">CGRN 24</ref>, lines 10-11 (the duties of the Praxiergidai in Athens).</p>
+											</div>
+			</body>
+    	</text>
+	</TEI>

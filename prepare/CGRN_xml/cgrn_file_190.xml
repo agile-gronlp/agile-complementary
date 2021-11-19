@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_190" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 190</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> for various gods at Cyrene</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Part of a white marble<rs type="objectType">stele</rs>, broken above and below.</p>
+		
+	<p> <dimensions>
+	<height unit="cm"/>
+	<width unit="cm"/>
+	<depth unit="cm"/>
+	</dimensions></p>
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			<p> The text is engraved in two columns, which are separated at the top by a vertical bar that runs until line 7; then, in lines 8, 10, 11, 16, 18 and 19, by means of empty space, and in line 15 by means of two vertically incised strokes or segments; in the other lines, the columns are somewhat confounded together, and are not regularly aligned. Column B is more highly damaged. </p>
+			<p>Letters: <height unit="cm">6</height>.</p> 	
+		</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0150" notAfter="-0100">ca. 150-100 BC</origDate></p>
+							
+		<p><desc>Justification: lettering (Pugliese Carratelli, Dobias-Lalou).</desc></p>
+						</origin>
+						<provenance><p><ref target="http://pleiades.stoa.org/places/981517" type="external"><placeName type="ancientFindspot" key="Cyrene" n="Cyrenaica_and_Egypt">Cyrene</placeName></ref>. Found either at the "Piazzale delle Fonte di Apollo", i.e. in the sanctuary of Apollo, or in the area of the agora near the prytaneum (see the Commentary in IGCyr). Possibly still in the Cyrene Museum, Shahat (inv. no. 437).</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 15-02-2016 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Extensively revised by J.-M. Carbon in 05.2018.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			
+	    <p> Edition here based on Dobias-Lalou <bibl type="abbr" n="IGCyr">IGCyr</bibl> <ref target="https://igcyr.unibo.it/igcyr100200" type="external">100200</ref>. But note the following exceptions read from the ph. in IGCyr: in line A11, we do not present ὗς as part of an erasure; in line B2, we do not print any restoration as π̣[αρέδροις], preferring to treat the two visible traces more cautiously (the second of which indeed does not seem to be an <foreign>alpha</foreign> but perhaps rather has a horizontal base bar); in line B7, we presume that there was a small additional lacuna at the end of the line; at the end of line B8, we do not print ὗ̣[ς ..], since nothing is visible in the ph. of the stone.</p>
+	
+	    			<p> Other edition:  
+	    				<bibl type="author_date" n="Pugliese Carratelli 1960">Pugliese Carratelli 1960</bibl>: 291-297; <bibl type="author_date" n="Pugliese Carratelli 1963">Pugliese Carratelli 1963</bibl>: 308, with ph. fig. 122.</p>
+	    			
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 116; 
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 20, 719.
+	    			</p>
+	    			
+	    			<p> Further bibliography: 
+	    				<bibl type="author_date" n="Dain 1933">Dain 1933</bibl>: 153-154;	    				
+	    				Robert - Robert <title>REG</title> 1963 <bibl type="abbr" n="BE">BE</bibl> no. 307;
+	    				<bibl type="author_date" n="Dobias-Lalou 1985">Dobias-Lalou 1985</bibl>;
+	    				<bibl type="author_date" n="Laronde 1987">Laronde 1987</bibl>: 425-427;
+	    				<bibl type="author_date" n="Dobias-Lalou 1993">Dobias-Lalou 1993</bibl>;
+	    				<bibl type="author_date" n="Dobias-Lalou 2000">Dobias-Lalou 2000</bibl>;
+	    				<bibl type="author_date" n="Robertson 2010">Robertson 2010</bibl>: 280-282.
+	    				
+	    				</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab subtype="Column" n="A"> Column A
+	    		
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+<lb/><gap reason="lost" quantity="1" unit="line"/>
+
+<lb xml:id="line_A1" n="A1"/> <name type="deity" key="Anemos"><w lemma="ἄνεμος"><supplied reason="lost">Ἀ</supplied>νέμοις</w></name> <name type="animal" key="goat"><w lemma="αἴξ"><unclear>α</unclear><supplied reason="lost">ἴξ</supplied></w></name>,
+	    				
+<lb xml:id="line_A2" n="A2"/> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> <name type="epithet" key="Apotropaios"><w lemma="ἀποτρόπαιος">Ἀπ<supplied reason="lost">ο</supplied>
+	    					
+<lb xml:id="line_A3" n="A3" break="no"/><unclear>τ</unclear>ροπαίωι</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἴξ</w></name> <name type="animal" key="swine"><w lemma=""><del rend="erasure">ὗς</del></w></name> 
+	    				
+<lb xml:id="line_A4" n="A4"/> ἀλλὰ <name type="gender"><name type="age"><w lemma="χίμαρος">χίμαρος</w></name></name>·
+	    				
+<lb xml:id="line_A5" n="A5"/> <name type="deity" key="Zeus"><w lemma="Ζεύς">Ζηνὶ</w></name> <name type="epithet" key="Hyperphoreus"> <w lemma="Ὑπερφορεύς">Ὑπερφορεῖ</w></name>
+	    				
+<lb xml:id="line_A6" n="A6"/> <w lemma="οὐδείς">οὐθὲν</w> <name type="quality"><w lemma="ἔμψυχος">ἔμψυχον</w></name>
+	    				
+<lb xml:id="line_A7" n="A7"/> <name type="sacrifice"><w lemma="θύω">θύεται</w></name>, <w lemma="οὐδέ">οὐδὲ</w> <name type="clothing"><w lemma="ὑποδέω">ὑ
+	    					
+<lb xml:id="line_A8" n="A8" break="no"/>ποδεδεμένος</w></name>
+	    				
+<lb xml:id="line_A9" n="A9"/> <w lemma="πρόσειμι">πότει</w> <w lemma="οὐδέ">οὐδὲ</w> <name type="vegetal"><w lemma="μύρτον">μύρτα</w></name>
+	    				
+<lb xml:id="line_A10" n="A10"/> <name type="genericOffering"><w lemma="προσφέρω">ποτοίσες</w></name>· <space quantity="4" unit="character"/>
+	    				
+<lb xml:id="line_A11" n="A11"/> <name type="deity" key="Telessai"><w lemma="Τελέσσα">Τελέσσαις</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἴξ</w></name>, <name type="animal" key="swine"><w lemma="ὗς">ὗς</w></name>·
+	    				
+<lb xml:id="line_A12" n="A12"/> <name type="deity" key="Zeus"><w lemma="Ζεύς">Ζηνὶ</w></name> <name type="epithet" key="Pantheios"><w lemma="πάνθειος">Πανθείωι</w></name> καὶ
+	    				
+<lb xml:id="line_A13" n="A13"/> <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθαναίαι</w></name> <name type="epithet" key="Pantheios"> <w lemma="πάνθειος">Πανθείαι</w></name>,
+	    				
+<lb xml:id="line_A14" n="A14"/> <name type="deity" key="Zeus"><w lemma="Ζεύς">Ζηνὶ</w></name> <name type="epithet" key="Hypellaios"><w lemma="Ὑπελλαίος">Ὑπελλαίωι</w></name>
+	    				
+<lb xml:id="line_A15" n="A15"/> καὶ <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθαναίαι</w></name>
+	    				
+<lb xml:id="line_A16" n="A16"/> <name type="epithet" key="Hypellaia"><w lemma="Ὑπελλαία">Ὑπελλαίαι</w></name> <name type="animal" key="goat"><w lemma="αἴξ">αἴξ</w></name>·
+	    				
+<lb xml:id="line_A17" n="A17"/> <name type="deity" key="Iatros"><w lemma="ἰατρός">Ἰατρῶι</w></name> <space quantity="2" unit="character"/> <name type="animal" key="swine"><w lemma="ὗς">ὗς</w></name>· <space quantity="1" unit="character"/>
+	    				
+<lb xml:id="line_A18" n="A18"/> <name type="deity" key="Zeus"><w lemma="Ζεύς">Ζηνὶ</w></name> <space quantity="1" unit="character"/> <name type="animal" key="goat"><w lemma="αἴξ">αἴξ</w></name>, <space quantity="1" unit="character"/> <name type="animal" key="swine"><w lemma="ὗς">ὗς</w></name>· <space quantity="1" unit="character"/>
+	    				
+<lb xml:id="line_A19" n="A19"/> <name type="deity" key="Ammon"><w lemma="Ἄμμων">Ἄμμωνι</w></name> καὶ τοῖς
+	    				
+<lb xml:id="line_A20" n="A20"/> <name type="deity" key="unclear"> <w lemma="περινάϊος">περινάοις</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">ὄις</w></name>·
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				
+	    			</ab>
+	    				<ab subtype="Column" n="B"> Column B
+	    					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+<lb/><gap reason="lost" quantity="4" unit="line"/>
+	    			
+<lb xml:id="line_B1" n="B1"/>τῶ<supplied reason="lost">ι</supplied> <gap reason="lost" extent="unknown" unit="character"/>                    
+	    				
+<lb xml:id="line_B2" n="B2"/>καὶ τοῖς Ι̣<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>                    
+	    				
+<lb xml:id="line_B3" n="B3"/> <name type="deity"><name type="structure"><w lemma="Ἀθήνη">Ἀθαναίας</w></name></name> <name type="animal" key="goat"><w lemma="αἴξ">α<unclear>ἴξ</unclear></w></name>,
+	    				
+<lb xml:id="line_B5" n="B5"/>τοῖς δὲ <w lemma="ἐν">ἐν</w> τᾶι <name type="locality"><w lemma="ἀγορά">ἀ
+	    					
+<lb xml:id="line_B6" n="B6" break="no"/>γορᾶι</w></name> καὶ τοῖς <w lemma="ἐν">ἐ<supplied reason="lost">ν</supplied></w>
+	    				
+<lb xml:id="line_B7" n="B7"/>τῶι <name type="structure"><w lemma="πρυτανεῖον">πρυτανείω<supplied reason="lost">ι</supplied></w></name> <gap reason="lost" quantity="2" unit="character" precision="low"/>
+	    				
+<lb xml:id="line_B8" n="B8"/> <name type="deity" key="Paian"><name type="epithet" key="Paian"><w lemma="Παιάν">Παιᾶνι</w></name></name> κα<unclear>ὶ</unclear> <supplied reason="lost">τοῖς</supplied>
+	    				
+<lb xml:id="line_B9" n="B9"/> <name type="deity" key="unclear"><w lemma="πάρεδρος">παρέδροι<unclear>ς</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_B10" n="B10"/> <name type="deity" key="Nymphs"><w lemma="νύμφη">Νύμφαι<supplied reason="lost">ς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_B11" n="B11"/> <w lemma="πλήν">πλὰν</w> τ<supplied reason="lost">ᾶν</supplied> <supplied reason="lost"><w lemma="ἐν">ἐν</w></supplied> <supplied reason="lost">τᾶι</supplied>
+	    				
+<lb xml:id="line_B12" n="B12"/><name type="locality"><w lemma="νάπη">νάπ<unclear>α</unclear><supplied reason="lost">ι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_B13" n="B13"/> <name type="deity" key="Apollo"> <w lemma="Ἀπόλλων">Ἀπόλ<supplied reason="lost">λωνι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_B14" n="B14"/><orig>φα</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_B15" n="B15"/><orig>α<unclear>γ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb xml:id="line_B16" n="B16"/><orig><unclear>π</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+	    				
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	
+	    				</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p> Column A</p> 
+					
+<p>[...] to the Winds, a goat. To Apollo Apotropaios, a goat (deleted: a pig), but particularly a winter-old he-goat. To Zeus Hyperphoreus nothing that has a soul in it is sacrificed, and do not approach with shoes on and do not bring myrtle-berries. To the Telessai, a goat, a swine. To Zeus Pantheios and to Athena Pantheia, to Zeus Hypellaios (15) and Athena Hypellaia, a goat. To Iatros, a swine. To Zeus, a goat, a swine. To Ammon and to the other gods (20) around the temple, a sheep.</p>
+
+<p> Column B</p> 
+
+<p> [...] to [...] and to those [...] (in the sanctuary?) of Athena, a goat. (5) But to those in the agora and those in the prytaneion [...]. To Paian and [to] his <foreign>paredroi</foreign> [...]. (10) To the Nymphs [...]  except [those in the] glen  [...] To Apollo [...] (15)  [...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Colonne A</p>
+					
+<p>[...] aux Vents, un caprin. À Apollon Apotropaios, un caprin (effacé: un porcin), mais particulièrement un chevreau âgé d'un hiver. (5) À Zeus Hyperphoreus, rien d'animé n'est sacrifié, et l'on n'est pas chaussé, et (10) l'on n'apportera pas de baies de myrte. Aux Telessai, un caprin, un porc. À Zeus Pantheios et à Athéna Pantheia, à Zeus Hypellaios (15) et à Athéna Hypellaia, un caprin. Au Iatros, un porc. À Zeus, un caprin, un porc. À Ammon et à ceux qui (20) entourent son temple, un mouton.</p>
+					
+<p>Colonne B</p>
+					
+<p>[...] à [...] et à ceux [...] (dans le sanctuaire?) d'Athéna, un caprin. (5) Mais à ceux qui se trouvent sur l'agora et dans le prytanée [...]. À Péan et [à ses] parèdres [...] (10) Aux Nymphes [...] sauf [celles qui sont dans] la vallée [...] À Apollon [...] (15) un caprin [...]</p>
+				</div>
+					<div type="commentary">     
+						<head>Commentary</head>    
+
+<p> This sacrificial regulation, organised into two columns, is an unusual ritual norm. It may form a sacrificial compendium of sorts. It appears to mention prescribed offerings to a lists of deities, but it also seems like in some cases the columns provide a small list of the animals that are allowed or expected to be sacrificed, not necessarily in combination or at a specific occasion: cf. lines A2-4 and A18 with commentary. In other cases, the recommended sacrifice sometimes takes the form of a prohibition, also extending to other restrictions concerning clothing, cf. lines A5-10. In other words, the general character of the regulation is normative in a large sense, and occasionally restrictive, but perhaps not as strongly prescriptive as one might think. It might parallel some of the ritual norms in this collection, which occasionally give a more mildly prescriptive option concerning the animals to be sacrificed, cf. e.g. <ref target="CGRN_67">CGRN 67</ref> (Thasos): βο̑ν ἢ αἶγα, with commentary for further references. No calendrical information is provided, and it
+therefore seems unlikely that the offerings would be organised according to the moment in the year when they had to be made (as Pugliese Carratelli had hypothesised). The logic underlying the ordering of the entries eludes us: the list might have been constructed topographically (see esp. below on lines B1-7), or any logic is perhaps entirely absent (Laronde). There seems to be no good reason to postulate (with Sokolowski) an "Orphic" or Pythagorean connection to this series of deities (cf. Laronde, Robertson). Several of the gods mentioned are perhaps unusual or unique (Zeus Hyperphoreus, Telessai, etc.), but others can be seen to fit particularly well within the known pantheon of Cyrene (Apollo Apotropaios, Iatros, Ammon, etc.); see further below.</p>
+
+						<p> Column A</p>
+<p> Line A1: For other cults of the Winds, cf. especially Robert 1960, as well as the references in Sokolowski. Robertson studies other cults of the Winds at city gates (cf. our Commentary in lines 2-4 below). Laronde points out that there was a continuously strong wind in the region of Cyrene, and that this cult should therefore not surprise us.</p>
+												
+<p> Lines A2-4: The interpretation of line 4 has been much disputed. Pugliese Caratelli 1963, followed by Robert - Robert, thought of μᾶλα "apples, fruits", but this would result in an unusual sequence of offerings: a goat, a pig (which was erased), apples/fruits, a winter-old he-goat. A more likely option (Laronde, p. 425; Sokolowski) was to take this word as the adverb μάλα "particularly": a goat, especially a χίμαρος or winter-old he-goat should be sacrificed. Dobias-Lalou's reading ἄλλα, already proposed in 1985, is the correct one on the stone. The conjunction seems to have here a similar meaning, having not a negative, but an affirmative and emphatic sense: "but especially...". The term χίμαρος, then, is taken by Laronde and Sokolowski as a "petit de chèvre"; etymologically, it properly refers to a winter-old he-goat. For the χίμαρος in this sense in the present Collection, cf. here <ref target="CGRN_32">CGRN 32</ref> (Thorikos), line 20, and <ref target="CGRN_141">CGRN 141</ref>
+(Lindos), line 2, both again sacrificed to Apollo. In the lengthy dossier of norms of purity from the Apollonion at Cyrene (<ref target="CGRN_99">CGRN 99</ref>, lines 6-7), a tawny winter-old he-goat (χίμαρον ἐρυθρόν) is to be sacrificed to Apollo Apotropaios if sickness or famine or death comes against the land or the city, and this is to be performed in front of the city gates. According to Robertson's plausible interpretation (also collecting evidence for this sacrifice to Apollo), this location is likely to be the north gate adjoining Apollo's sanctuary, and that would be the location for the sacrifice prescribed here, too. A priesthood of Apollo Apotropaios is mentioned in <ref target="CGRN_193">CGRN 193</ref> (Hyllarima), lines 7-8, alongside Zeus Katharsios; a paired cult of Zeus Apotropaios and Athena Apotropaia is known at <ref target="CGRN_62">CGRN 62</ref> (Lindos), lines B2-3, and at Erythrai (Sokolowski, <bibl type="abbr" n="LSAM">LSAM</bibl> 25, lines 81-82); Apollo
+Apotropaios receives a goat (αἴξ) on two occasions in the sacrificial calendar of Erchia (<ref target="CGRN_52">CGRN 52</ref>, col. Α, lines 33-34, and col. Γ, lines 34-35. The function of all these cults seems to have been apotropaic, literally to "turn away evil". Very intriguingly, the offering of a pig (perhaps a castrated male pig), has been essentially erased on the stone according to Dobias-Lalou. If correct, this would then appear to reflect a change of mind about the appropriateness of this sacrificial animal to the god, and this change of mind remains in need of further explanation. However, Apollo is occasionally known to have been offered pigs: cf. e.g. Apollo Patroios in the <foreign>genos</foreign> of the Salaminioi, <ref target="CGRN_84">CGRN 84</ref>, line 89, Apollo Pedageitnyos at Kamiros, <ref target="CGRN_114">CGRN 114</ref>, or the boar which Apollo Karneios receives in the festival at Andania, <ref target="CGRN_222">CGRN 222</ref>, lines 34 and 69. It is also possible
+that the reading on the stone is simply very effaced, as the published ph. does not seem to reveal any traces of tools or of a groove indicating a rasura (see also below on line A11).</p>
+					
+<p> Lines 5-10: Possibly this epithet of Zeus should be connected to Zeus Ὑπερφερέτης, "the Supreme One" (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.), or the more common Ὕπατος, "The Highest" (Pugliese Carratelli); a Zeus Περφερέτας (possibly meaning "Superior") is also well attested in Thessaly. Pausanias (1.26.5 and 8.2.3) mentions that nothing ἔμψυχον is to be sacrificed to Zeus Hypatos on the Acropolis of Athens. Shoes were forbidden in a variety of different sanctuaries, cf. <ref target="CGRN_90">CGRN 90</ref> (Ialysos), lines 25-26, <ref target="CGRN_126">CGRN 126</ref> (Lykosoura), lines 6-7, and <ref target="CGRN_181">CGRN 181</ref> (Eresos), line 17. Elsewhere, offerings and purifications were to be made with myrtle: <ref target="CGRN_126">CGRN 126</ref> (Lykosoura), line 14; <ref target="CGRN_144">CGRN 144</ref> (Ptolemais), line 14. Myrtle was perhaps forbidden here due to the connection of this plant with funerals (Robert - Robert; Laronde). At any rate, the verb προσφέρω seems to indicate that ritual use of the myrtle berries (μύρτον) was prohibited, not just the wearing of crowns made from this plant. More widely, it is argued by Laronde that this Zeus may be averse to the idea of death, hence the prohibition against animal sacrifice, shoes (made of the skin of a dead animal) and myrtle (used for the rites of the dead).</p>
+						
+<p> Line A11: The Telessai, goddesses who literally "accomplish their task", are completely unknown. Sokolowski suggests that these might be the Moirai under a different guise, since they were called Teleiai in Delphi (cf. <bibl type="abbr" n="SEG">SEG</bibl> 3, 400 /16, 341, 362/1 BC). The Horai are also called Πολυκάρποι Τελεσφόροι in <bibl type="abbr" n="IG XII.Suppl.">IG XII.Suppl.</bibl> 691 (Mytilene, 1st century AD). Dobias-Lalou in IGCyr prints a rasura for the swine which is allowed or prescribed to be offered to the goddesses, but no trace of an erasure is visible in the published ph.</p>
+						
+<p> Lines A12-16: The epithets Pantheios and Pantheia occur very rarely for Zeus and Athena, and Hypellaios and Hypellaia appear to be unique. If we were to interpret the norm as strictly prescriptive, these four deities would only receive one goat amongst them; more likely, the goat was the recommended sacrifice for all of these gods individually, or for the Zeus-Athena pairings. Zeus Pantheios is interestingly found again in North Africa, at Carthage in the Roman Imperial Period: Dain (p. 153-154 no. 176), in the guise of the syncretic Zeus Helios Megas Pantheos Sarapis; it might therefore be reasoned that the cult of Zeus Pantheios had some prevalence in the region (Aphrodite Pantheos is occasionally found in Roman Asia Minor and the Aegean). The epithet Hypellaios has been analysed by Pugliese Carratelli as a compound of ὑπερ-λαός; Robertson (p. 281 n. 7) tentatively suggests that it might be "an altered form of ἀππελαῖος, referring to a civic body or civic unit called ἀπέλλα". The epithet
+seems to bear some analogies to the "superior" epithet of Zeus seen in lines A5-10 and Dobias-Lalou 2000, p. 230-231 has more plausibly derived an etymology from ὑπερ-λαῖος, meaning "with the left hand raised".</p>
+						
+<p> Line A17: Pausanias (2.26.9) mentions that there is an Asclepius called Iatros, "Healer", in Balagrai (a village belonging to the territory of Cyrene, at 15 km distance of the city), who comes from Epidauros; cf. also a dedication of the third century AD, <bibl type="abbr" n="SEG">SEG</bibl> 26, 1818, in which the two gods may be connected, [Ἀσκληπ]ίωι Βαλαγρείτηι Ἰητρῶι. However, elsewhere these two gods, Asclepius and Iatros, are autonomous (Dobias-Lalou 1993, p. 33). In Roman documents from Cyrene, Iatros is always accompanied by Iaso (Dobias-Lalou 1993, p. 34; 2000, p. 225-226). For the worship of the healing gods Iaso, Akeso and Panakeia cp. here <ref target="CGRN_54">CGRN 54</ref> (Piraeus).</p>
+
+<p> Lines A18-20: Perhaps this section refers to the cult of Zeus Ammon, Hera Ammonia and (Hermes) Parammon, who were at least worshipped as a triad at Olympia (Paus. 5.15.11). On the cult of Ammon in Cyrene, cf. Dobias-Lalou 2000, p. 214-215; Cyrene regularly participated in <foreign>theoriai</foreign> to the desert sanctuary of the god at Siwa. The expression περίναοι (sc. θεοί) is a relatively unique, though we may compare e.g. <bibl type="abbr" n="CIRB">CIRB</bibl> 1045 (Hermonassa, 105 AD): περινάϊους στοὰ[ς]. The term appears to be analogous to the adjectives σύνναος and σύμβωμος "having the same temple/altar", though also different (<bibl type="abbr" n="CIG">CIG</bibl> 2230, Chios, and <bibl type="abbr" n="SIG³">SIG³</bibl> 1126, line 5, Delos). Perhaps the "περίναοι" had one or more smaller sanctuaries or altars around the principal temple of Ammon, but in the same precinct; cp. the recurrent obligation of making sacrifices to gods who are ἐντεμένιοι "in (i.e. sharing) the (same) precinct", <ref target="CGRN_100">CGRN 100</ref> (Miletos), line 4, and <ref target="CGRN_129">CGRN 129</ref> (Patara), line 3. We also find here, in a probably analogous capacity, though more intimately associated with the temple rather than "around it", the groups of gods mentioned in lines B1-4, and the Paredroi of Paian in line B9.</p>
+	
+	<p> Column B</p>
+	
+<p> Lines B1-7: This part of the inscription refers to groups of gods (or perhaps heroes?) apparently defined by their locality: several are missing, but some may belong to a sanctuary of Athena (who is presented in the genitive); others are those located in the agora and in the prytaneion. For a discussion of cults of gods in the agora of Cyrene, cf. Laronde, p. 427. This would seem to provide a concrete topographic reference which matches one of the alternative findspots of the inscription (see above). The agora here might be taken to mean the so-called "Agora of the Gods" near the sanctuary of Apollo (cf. <bibl type="abbr" n="SEG">SEG</bibl> 57, 2025), but this appears to be less plausible, since the prytaneion is also clearly mentioned. Since the first group concludes with a mention of αἴξ as the required sacrifice to the gods or heroes in the sanctuary of Athena, and since the entry beginning with Παιᾶνι in line B8 must be distinct, we must reasonably presume that the lacuna at the end of line 7 is a bit more extensive than that given in previous editions. A space of 2-3 letters would allow the restoration of a recommended sacrificial animal for the gods or heroes located in the agora and in the prytaneion, e.g. [ὗς] at the shortest, or if longer, [αἴξ] or [οἶς].</p>
+	
+<p> Lines B8-9: It is not clear whether Paian, "Healer", here is a cult title or epithet of Apollo or Asclepius; for this figure, cp. here  <ref target="CGRN_76">CGRN 76</ref> (Erythrai), line 36. In any case, he appears worshipped as an independent god, though one closely associated with a series of Paredroi (literally "fellow seated [deities]") in his temple, which would well suit Apollo or Asclepius (for the associated divinities of these gods, cf. here e.g. <ref target="CGRN_139">CGRN 139</ref>, Kos, lines 9 and 15). IGCyr prints ὗ̣[ς . .] as the offering for Paian and his cohort, but no such trace seems to visible in the ph.</p>
+						
+<p> Lines B10-16: These lines appear to single out specific groups of Nymphs who received sacrifice; those said to be located "[in the] glen" (the word νάπη designates a wooded valley, slope or ravine) formed an exception to the rule. For a possible identification of this group of Nymphs as those belonging to the western slope of the Acropolis at Cyrene, see Dobias-Lalou in IGCyr. In the following, highly fragmentary lines, there was apparently a continuation of the list of gods and appropriate sacrifices: a sacrifice to Apollo (perhaps with another epithet) was next mentioned. For the association of Apollo and the Nymphs, cf. esp. a small decidation to these gods at Cyrene published by Laronde (p. 426-427) and cp. here <ref target="CGRN_17">CGRN 17</ref> (Thasos) and <ref target="CGRN_52">CGRN 52</ref> (Erchia), col. Ε, lines 40-47, in both cases sacrifice to the Nymphs and Apollo "Leader of the Nymphs". For further evidence concerning the cult of the Nymphs, cf. here <ref target="CGRN_59">CGRN 59</ref> (Thera).</p> 
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

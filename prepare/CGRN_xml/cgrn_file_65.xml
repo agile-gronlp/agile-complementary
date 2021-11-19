@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_65" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 65</idno>: <rs type="textType" key="purity regulation">Purity regulation</rs>
+                    from Tegea</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><p><objectType>Block</objectType> of marble, conserving the right-hand part of a sacred law. The left-hand was originally engraved on one or two stones to the left. The stone is broken on the lower side.</p>
+                                    <p><dimensions>
+                                        <height unit="cm">45.5</height>
+                                        <width unit="cm">57.5</width>
+                                        <depth unit="cm">12.5</depth>
+                                    </dimensions></p>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <p>The text is non-stoichedon. All lines seem to end in a complete word, but cf. line 4, where the interpretation of the lettertraces is uncertain and word-division might not be respected.</p>
+                                    <p>Letters: <height unit="cm">0.1</height>.</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p><origDate notBefore="-0400" notAfter="-0300">4th century BC</origDate></p>
+                            <p><desc>Justification: lettering (Hiller von Gaertringen).</desc></p>
+                        </origin>
+                        <provenance><p><placeName type="ancientFindspot" key="Tegea" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/595004" type="external">Tegea</ref></placeName>. Now in the Museum in Tegea (inv. no. 1210).</p>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded for EpiDoc schema 8.17 on 30-06-2014 by S. Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="x">
+            <desc/>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="bibliography">
+                <head>Bibliography</head>
+                <p>Edition here based on Hiller von Gaertringen <bibl type="abbr" n="IG V.2">IG V.2</bibl> 4.</p>
+                <p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 31.</p>
+                <p>Further bibliography: <bibl type="author_date" n="Parker 1983">Parker 1983</bibl>; 
+                    <bibl type="author_date" n="Jost 1985">Jost 1985</bibl>; 
+                    <bibl type="author_date" n="Dubois 1986">Dubois 1986</bibl>: 34-37; 
+                    <bibl type="author_date" n="Peels 2016">Peels 2016</bibl>.</p>
+                
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    
+                    
+                    <lb/> <space extent="unknown" unit="line"/> 
+                    
+                    <lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w> <supplied reason="lost">τοῖ</supplied> <name type="structure"><w lemma="ἱερός"><supplied reason="lost">ἱ</supplied>εροῖ</w></name> <w lemma="ἔξειμι">ἐξίεν</w>· τὸ δ’ <name type="structure"><w lemma="ἱερός">ἰερὸγ</w></name> <name type="purification"><w lemma="καθαίρω">καθᾶραι</w></name> 
+                    
+                    <lb xml:id="line_2" n="2"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">·</supplied> <supplied reason="lost">τ</supplied>ᾶ<supplied reason="omitted">ι</supplied> δὲ <w lemma="ὕστερος">ὑστέραι</w> <name type="bakery"><w lemma="ἐμπλατία">ἰμπλατίαι</w></name> <name type="genericOffering"><w lemma="ἱλάσκομαι">ἱλάσκεσθαι</w></name> 
+                    
+                    <lb xml:id="line_3" n="3"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ιαιο</orig><gap reason="lost" quantity="1" unit="character"/><orig>ν<unclear>ι</unclear></orig><gap reason="lost" quantity="3" unit="character"/><orig>ι</orig><gap reason="lost" quantity="1" unit="character"/><orig>ι</orig>· τᾶι δὲ <w lemma="τρίτος">τρίται</w> 
+                    
+                    <lb xml:id="line_4" n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="πλείων"><supplied reason="lost">π</supplied><unclear>λ</unclear>έονο<unclear>ς</unclear></w> <gap reason="lost" quantity="7" unit="character"/> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><unclear>Ἀ</unclear>πόλλω<unclear>ν</unclear>ος</w></name> <orig>αιτη</orig> 
+                    
+                    <lb xml:id="line_5" n="5" break="no"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὅνυ"><supplied reason="lost">τ</supplied>άνυ</w> <orig>ερ</orig><gap reason="lost" quantity="11" unit="character"/><orig>επη</orig><gap reason="lost" quantity="2" unit="character"/> <name type="sacrifice"><name type="liquid"> <w lemma="χοή">χοαί</w></name></name> 
+                    
+                    <lb xml:id="line_6" n="6"/> <gap reason="lost" extent="unknown" unit="character"/>τον <name type="gender"><w lemma="ἄρσην">ἄρσενα</w></name>· <w lemma="εἰ"><supplied reason="lost">εἴ</supplied></w> <w lemma="τις"><supplied reason="lost">τις</supplied></w> <w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w> <w lemma="εἰμί">ἦι</w> <w lemma="πως"><supplied reason="lost">π</supplied>ὸς</w> <name type="gender"><w lemma="θῆλυς">θηλέαι</w></name> 
+                    
+                    <lb xml:id="line_7" n="7"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="personnel"><w lemma="θεωρός"><supplied reason="lost">θε</supplied>αρῶν</w></name> καὶ <name type="personnel"><w lemma="ἱερεύς">ἱερέων</w></name> <unclear>κ</unclear><supplied reason="lost">αὶ</supplied> <name type="personnel"><w lemma="ἱερομνήμων"><supplied reason="lost">ἱε</supplied>ρομναμόνων</w></name> 
+                    
+                    <lb xml:id="line_8" n="8"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="μηδείς"><supplied reason="lost">μ</supplied>ηδὲν</w> <w lemma="ἀπέχω">ἀπέχεν</w> τὸς <name type="personnel"><w lemma="ὀρχηστής">ὀρ<supplied reason="lost">χη</supplied>στὰς</w></name> 
+                    
+                    <lb xml:id="line_9" n="9"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="μηδέ">μηδὲ</w> <w lemma="αὐτός">αὐτὸ<supplied reason="lost">ν</supplied></w> <w lemma="εἰμί"><supplied reason="lost">ἦνα</supplied>ι</w> <name type="purification"><w lemma="καθαρός"><supplied reason="lost">καθα</supplied><unclear>ρ</unclear>ὸν</w></name> 
+                    
+                    <lb xml:id="line_10" n="10"/> <w lemma="μηδέ"><supplied reason="lost">μηδὲ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">·</supplied> <supplied reason="lost"><w lemma="εἰ">εἰ</w></supplied> <supplied reason="lost">δὲ</supplied> <gap reason="lost" extent="unknown" unit="character"/><unclear>έ</unclear>τοι <w lemma="τις">τις</w> τῶν <name type="personnel"><w lemma="ὀρχηστής">ὀρ<supplied reason="lost">χηστᾶ</supplied>ν</w></name> τ<supplied reason="lost">ῶν</supplied> 
+                    
+                    <lb xml:id="line_11" n="11"/> <gap reason="lost" extent="unknown" unit="character"/><unclear>μ</unclear>αι, τὸν δὲ <w lemma="εἶμι">ἰόντα</w> <gap reason="lost" quantity="5" unit="character"/><orig>ινγ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+                    
+                    <lb xml:id="line_12" n="12"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="μέσφα">μέστ’</w> <w lemma="ἄν">ἂν</w> <w lemma="ἥλιος">ἀέλιος</w> ὀν<supplied reason="lost" cert="low">τέλλοι</supplied> 
+                    
+                    <lb xml:id="line_13" n="13"/> <gap reason="lost" extent="unknown" unit="character"/>· <w lemma="εἰ"><supplied reason="lost">εἰ</supplied></w> <supplied reason="lost">δὲ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="καθικνέομαι"><supplied reason="lost">κα</supplied><unclear>θ</unclear>ίξετοι</w> <name type="person"><w lemma="ἄνθρωπος">ἄνθρωπο<unclear>ν</unclear></w></name> <gap reason="lost" quantity="4" unit="character"/> <w lemma="εἴτε">ε<supplied reason="lost">ἴ</supplied>τε</w> <gap reason="lost" extent="unknown" unit="character"/> 
+                    
+                    <lb xml:id="line_14" n="14"/> <gap reason="lost" extent="unknown" unit="character"/>α <name type="purification"><w lemma="καθαρός">καθαρὸν</w></name> <w lemma="εἰμί">ἦναι</w>, <w lemma="εἴτε">εἴτ<supplied reason="lost">ε</supplied></w> <name type="purification"><w lemma="καθαρός"><supplied reason="lost">κα</supplied>θ<unclear>αρ</unclear>ὸ</w></name><gap reason="lost" quantity="1" unit="character"/> 
+                    
+                    <lb xml:id="line_15" n="15"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="death"><w lemma="θνῄσκω">τεθναότος</w></name> <w lemma="unclear">ἐπερο<gap reason="lost" quantity="4" unit="character"/>ν</w>· <w lemma="εἰ">εἰ</w> 
+                    
+                    <lb xml:id="line_16" n="16"/> <gap reason="lost" extent="unknown" unit="character"/><gap reason="lost" quantity="1" unit="character"/> τὸν <name type="person"><w lemma="ἄνθρωπος">ἄνθρωπον</w></name> <orig>διλιλ</orig><gap reason="lost" quantity="3" unit="character"/><orig>ει</orig> <w lemma="ἀπό">ἀπὺ</w> 
+                    
+                    <lb xml:id="line_17" n="17"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="purification"><w lemma="καθαρός">καθαρὸν</w></name> <w lemma="εἰμί">ἦναι</w>· <orig>ιλ</orig><gap reason="lost" quantity="6" unit="character"/><orig>αι</orig>, <w lemma="ὅτι">ὅτι</w> 
+                    
+                    <lb xml:id="line_18" n="18"/> <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>τ</unclear>ε</orig> <w lemma="ἕκαστος">ἰκαστὰ</w> <w lemma="φέρω"><unclear>ο</unclear>ἶ<unclear>σ</unclear>αι</w>· <w lemma="εἰ"><supplied reason="lost">ε</supplied><unclear>ἰ</unclear></w> <supplied reason="lost">δ’</supplied> <w lemma="ἀέκων"><unclear>ἀ</unclear>έκων</w> 
+                    
+                    <lb xml:id="line_19" n="19"/> <gap reason="lost" extent="unknown" unit="character"/>ρος τοῖ <w lemma="χλῆδος">χλ<supplied reason="lost">έ</supplied><unclear>ο</unclear>ι</w>· <w lemma="εἰ">εἰ</w> δ<unclear>ὲ</unclear> ὁ <w lemma="χλῆδος">χλ<unclear>έ</unclear>ος</w> τοῖ 
+                    
+                    <lb xml:id="line_20" n="20"/> <gap reason="lost" extent="unknown" unit="character"/><orig>λ</orig><gap reason="lost" quantity="3" unit="character"/> <w lemma="καθαρός"><supplied reason="lost">καθ</supplied>αρὸν</w> <w lemma="εἰμί">ἦναι</w>· <w lemma="εἰ">εἰ</w> <w lemma="λανθάνω">λέλαθε</w> 
+                    
+                    <lb xml:id="line_21" n="21"/> <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>α</unclear></orig> <w lemma="εἴτε">εἴτε</w> <w lemma="ἐν">ἰν</w> <name type="locality"><w lemma="ἱερός">ἱεροῖ</w></name> <w lemma="εἴτε">εἴτε</w> <w lemma="ἐν">ἰν</w> <name type="locality"><w lemma="ὅσιος">ὁσίοι</w></name> 
+                    
+                    <lb xml:id="line_22" n="22"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="μέσφα"><supplied reason="lost">μέ</supplied>στε</w> <w lemma="ζητητός">ζατὸν</w> <w lemma="εἰμί">ἔοι</w> <w lemma="ἄμοινα">ἄμοινα</w> <orig><unclear>λ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> 
+                    
+                    <lb xml:id="line_23" n="23"/> <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ιγ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>[...] go out of the sanctuary. To purify the sanctuary [...] on the next (day?) appease with a flat cake (?) [...] on the third (day) [...] of more [...] of Apollo [... (5) ...] the following [...] with a libation (?) [...] the male. (If someone in some) way with a female [...] of <foreign>theoroi</foreign> and priests and     <foreign>hieromnemones</foreign> [...] and let nothing hinder the dancers (?) from [...] nor is he himself to be (considered) pure (10) (nor [...] if ) [...] one of the dancers (?) of [...] but the one who goes [...] until the sun (rises?) [... if ...] has come, a man [...] either [...] he be pure, or pure (?) (15) of some dead person [...] If [...] the man [...] from he be pure [...], that [...] bring each of the things. If unvoluntarily [...] with the rubbish. If the rubbish (20) [...] he be pure. If unawares [...] either in a sacred place or in a divinely sanctioned place [...] until [...] is to be sought [...]</p>
+                
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction </head>
+                <p>[...] sortir du sanctuaire. Purifier le sanctuaire [...] suivant, apaiser d'un gâteau plat (?) [...] troisième (jour) [...] de plus [...] d'Apollon, [... (5) ...] ceux-là [...] avec une libation (?) [...] le mâle. (Si quelqu'un ...) avec une femelle [...] de théores et de prêtres et de hiéromnémons [...] que rien n'empêche les danseurs (?) [...] qu'il ne soit pas considéré comme pur (10) [ni... si] l'un des danseurs (?) de [...] mais celui qui va [...] jusqu'au [...] du soleil [... si ...] est venu, un homme [...] qu'il soit pur, ou pur (?) (15) d'un défunt [...] Si [...] l'homme [...] de qu'il soit pur [...], que [...] apporte chaque [...]. Si involontairement [...] avec la saleté. Si la saleté (20) [...] qu'il soit pur. S'il arrive [...] que ce soit dans un sanctuaire ou un (espace) religieusement protégé [...] jusqu'à [...] doit être cherché [...]</p>
+                
+                
+            </div>
+            <div type="commentary">
+                <head>Commentary</head>
+                <p>As the left portion of this law was originally inscribed on a different block or blocks, the interpretation is rather uncertain. The text seems to give various purity regulations, and is seemingly related to a sanctuary and cult of Apollo (line 4). In the first lines, the text seems to give prescriptions of polluting circumstances that necessitate leaving the temple and purifying it (τὸ δ’ ἰερὸγ καθᾶραι). The oblique references to subsequent days (ὑστέραι ... τρίται) seem to prescribe further actions to be taken to restore the sanctuary to a state of pure normality. Among these is the injunction to appease the gods (ἱλάσκεσθαι). The next section of the inscription is difficult to interpret: it includes references to civic cult personnel, such as <foreign>theoroi</foreign>, priests and <foreign>hieromnemones</foreign> and perhaps to dancers. Recurrent from line 9 onwards is the phrase (μὴ) καθαρόν ἦναι (also lines 14, 16, 20), which has close parallels in other purity regulations, such as <ref target="http://cgrn.ulg.ac.be/CGRN_3">CGRN 3</ref> (Kleonai). The text undoubtedly describes various circumstances under which a person is or is not to be considered pure. These regulations apparently relate, among other things to contact with a corpse (line 15) and perhaps to dirt (line 19). The participle ἀέκων (unwillingly, line 18) may be part of a clause about involuntary manslaughter, from which murderers are considered 'pure' elsewhere (e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_166">CGRN 166</ref> from Lato).</p>
+                
+                <p>Line 1: ἐς is Arcadian for ἐκ, and it is governed by the dative. ἐξίεν is the present infinitive ἐξιέναι, καθάραι is the aorist infinitive of καθαίρω (Dubois, p. 35).</p>
+                
+                <p> Line 2: ἱμπλατίαι is a <foreign>hapax legomenon</foreign>. Dubois plausibly argues that the general construction ἱλασκέσθαι + dat. (e.g. in the Hesiodic σπονδῇσι θύεσσι τε ἱλάσκεσθαι, <title>Op.</title> 318) may lead us to interpret ἰμπλατιαι as an instrumental dative, denoting some offering to restore the relationship with the god. The word may have a connection with another obscure word, ἐπίπλατορ, which, according to Hesychius, is a flat cake.</p>
+                
+                <p> Lines 2-3: Dubois speculates that the reference to a ὑστέραι and a τρίτᾳ (sc. ἡμέρᾳ?) may also refer to subsequent days of a festival. The possible reference to dancers further on (lines 8, 10) make this hypothesis not unthinkable, but the prescription of purification rites in various stages seems more likely.</p>
+                
+                <p> Line 4: Pausanias refers to a cult of Apollo at Tegea (cf. Jost, p. 148). Regarding the remaining letters ΑΙΤΗ, one might think of a form of the verb αἰτέω or αἴτημα.</p>
+                
+                <p> Line 5: τάνυ is the neuter pl. of Arcadian ὅδε.</p>
+                
+                <p> Line 6: Τhis appears to be some reference to sexual relations (Sokolowski). Alternatively, if we remove the proposed restorations, then the reference may be to male and female sacrificial animals (ἄρσην vs. θῆλυς).</p>
+                
+                <p> Line 7: for the usage of the lexeme θεωρός as a title for magistrates in Arcadia, <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. II.</p>
+                
+                <p> Line 8: It is not immediately obvious what dancers (ὀρ[χη]στὰς) are doing in this context of a purity regulation. As the word is never fully preserved (cf. also line 10), one might think of other agents such as ὁρκισταί (officials administrating oaths) or yet other possibilities.</p>
+                
+                <p> Line 12: μέστε' ἄν (μέστε is Arcadian of μέσφα until + gen.). Τhe next two letters, ὀν-, may be the Aeol. and Cypriot for ἄν-. Comparing the phrase ἅμ' ἠελίῳ ἀνιόντι 'at sun-rise', one may think the law prescribes a certain ritual or action during the night until sunrise.</p>
+                
+                <p> Line 15: There may be an instance of the rare word ἔπερος 'woolly' here. Alternatively, one might think of some form of the verb ἐπέρομαι (ἐπείρομαι), though it is difficult to see which grammatical form would fit the gap of four letters. Such a suggestion might link this line with the αἰτη of line 4, if those letters are to be interpreted as a form of αἰτέω or αἴτημα.</p>
+                
+                <p> Line 19: Perhaps a reference to dirt (χλέος) that would result in ritual impurity, or possibly this is the dirt resulting from a cleansing. But Rhomaios proposes that this dirt is used sympathetically as a purificatory substance (cf. Harpocr. s.v. χλῆδος), and cf. Parker, p. 231.</p>
+                
+                <p> Line 21: The opposition inherent in the phrase εἴτε ἰν ἱεροῖ εἴτε ἰν ὁσίοι refers to two levels of sacrality, <foreign>hieros</foreign> being what is owned by or has been consecrated to the gods, and <foreign>hosios</foreign> referring to what is sanctioned by them. Here, the phrase most probably refers to a spatial distinction; cp. e.g. Ar. <title>Lys.</title> 742-73 and the lemma in the <title>Suda</title> s.v. ὅσιον. For a more complete discussion of τἀ τε ἱερὰ καὶ τὰ ὅσια, and an argument against interpreting this as a dichotomy of "sacred" vs. "profane", cf. Peels.</p>
+                
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_5" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title>	<idno type="filename">CGRN 5</idno>: Fragmentary <rs type="textType" key="purity regulation">purity regulation</rs> from Olympia</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+						<availability>
+							<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+							<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p><rs type="objectType">Bronze tablet</rs>, quasi-intact. Carefully incised, with an absence of punctuation.</p> 
+				<p><dimensions>
+					<height unit="cm">7.5-8</height>
+					<width unit="cm">51.8</width>
+					<depth unit="mm">2</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The text begins <foreign>in medias res</foreign>, with a small fragment KA in line 1 where 4 nail holes are visible, and then the end of a clause in line 2. At least one more tablet may be presumed to have contained the beginning of the text, afixed above. Below the fifth line of the tablet are 8 nail holes.</p>
+				<p>The letters are <height unit="mm">8-10</height>. <foreign>Theta</foreign>, <foreign>omicron</foreign> and <foreign>phi</foreign> are rounded and the diameter is <height unit="mm">8</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0525" notAfter="-0500">ca. 525-500 BC</origDate></p>
+			<p><desc>Justification: lettering (Minon). The absence of punctuation also supports a date in the late Archaic period.</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Olympia" n="Peloponnese"><ref target="http://pleiades.stoa.org/places/570531/center-of-the-temple-of-zeus-at-olympia" type="external">Olympia</ref>. Found in the east part of the south-east stoa, near the temple of Zeus.</placeName></p>
+			</provenance>
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.-M. Carbon and S. Peels.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+<p>Edition here based on Minon <bibl type="abbr" n="IED">IED</bibl> 4, with full bibliography.</p>
+					
+<p>Other editions: 
+	<bibl type="author_date" n="Kirchhoff 1881">Kirchhoff 1881</bibl>: 81-83 no. 383, with a facsimile from K. Purgold; 
+	Dittenberger and Purgold <bibl type="abbr" n="IvO">IvO</bibl> 7.</p>
+					
+<p>Cf. also: 
+	Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 61; 
+	Jeffery <bibl type="abbr" n="LSAG">LSAG</bibl>, p. 218-220 no. 5 and 408 pl. 42; 
+	van Effenterre - Ruzé <bibl type="abbr" n="Nomima I">Nomima I</bibl> 109.</p>
+					
+<p>Further bibliography: 
+	<bibl type="author_date" n="Gehrke 1993">Gehrke 1993</bibl>; 
+	<bibl type="author_date" n="Taita 2004-2005">Taita 2004-2005</bibl>: 101; 
+	<bibl type="author_date" n="Rutherford 2013">Rutherford 2013</bibl>: 363 A2 (cf. 211-212).</p>
+	
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb xml:id="line_1" n="1"/><orig>ΚΑ</orig> <space quantity="1" unit="line"/>
+	    					
+<lb xml:id="line_2" n="2"/><w lemma="κε">κα</w> <name type="person"><w lemma="θεωρός">θεαρὸς</w></name> <w lemma="εἰμί">εἴε</w>· <w lemma="εἰ">αἰ</w> δὲ <name type="sex"><w lemma="βινέω">βενέοι</w></name> <w lemma="ἐν">ἐν</w> <name type="structure"><w lemma="ἱερόν">τἰαροῖ</w></name>, <name type="animal" key="ox"><w lemma="βοῦς">βοΐ</w></name> <w lemma="κε">κα</w> <name type="sacrifice"><name type="punishment"><w lemma="θωάζω">θοάδοι</w></name></name> καὶ <name type="purification"><w lemma="κάθαρσις">κοθάρσι</w></name> <name type="quality"><w lemma="τέλειος">τελείαι</w></name>, καὶ τὸν <name type="person"><w lemma="θεωρός">θεαρὸν</w></name> <w lemma="ἐν">ἐν</w> <w lemma="αὐτός">τ
+	
+<lb xml:id="line_3" n="3" break="no"/>α<choice><corr>ὐ</corr><sic>χ</sic></choice>ταῖ</w>· <w lemma="εἰ">αἰ</w> δέ <w lemma="τις">τις</w> <w lemma="παρά">παρ</w> τὸ  <name type="authority"><w lemma="γράφος">γράφος</w></name> <w lemma="δικάζω">δικάδοι</w>, <w lemma="ἀτελής">ἀτελές</w> κ’ <w lemma="εἰμί">εἴε</w> <w lemma="ἄδικος">ἀδίκα</w>, ἀ δέ <w lemma="κε">κα</w> <name type="authority"><w lemma="ῥήτρα">ϝράτρα</w></name> ἀ <name type="group"><w lemma="δημόσιος">δαμοσία</w></name> <w lemma="τέλειος">τελεία</w> <w lemma="εἰμί">εἴ
+	
+<lb xml:id="line_4" n="4" break="no"/>ε</w> <w lemma="δικάζω">δικάδδοσα</w>· το̑ν δέ κα <name type="authority"><w lemma="γράφος">γραφέον</w></name> ὄ <w lemma="τις">τι</w> <w lemma="δοκέω">δοκέοι</w> <w lemma="καλός">καλιτέρος</w> <w lemma="ἔχω">ἔχεν</w> <w lemma="πρός">ποτ᾽</w> τὸν <name type="deity" key="Zeus"><name type="authority"><w lemma="θεός">θ<choice><corr>ε</corr><sic>π</sic></choice>όν</w></name></name>, <w lemma="ἐξαγρέω">ἐξαγρέον</w> κα<choice><corr>ὶ</corr><sic>λ</sic></choice> <w lemma="ἐμποιέω">ἐ
+	
+<lb xml:id="line_5" n="5" break="no"/>νποιο̑ν</w> <w lemma="σύν">σὺν</w> <name type="group"><w lemma="βουλή">βολαῖ</w> <w lemma="πεντακόσιοι"><choice><corr>π</corr><sic>ε</sic></choice>εντακατίον</w></name> <w lemma="ἀλανές">ἀϝλανέος</w> καὶ <name type="group"><w lemma="δῆμος">δάμοι</w></name> <w lemma="πληθύω">πλεθύοντι</w> <w lemma="δινάκω">δινάκοι</w>· <w lemma="δινάκω"><supplied reason="omitted">δινά</supplied>κοι</w> δέ κα <w lemma="ἐν"><choice><corr>ἐ</corr><sic>π</sic></choice>ν</w> <w lemma="τρίτος">τρίτ
+	
+<lb xml:id="line_6" n="6" break="no"/>ον</w>, <w lemma="εἰ">αἴ</w> τι <w lemma="ἐμποιέω">ἐνποιοῖ</w> <w lemma="εἴτε">αἴτ’</w> <w lemma="ἐξαγρέω">ἐξαγρέοι</w>. <space extent="unknown" unit="character"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>[... if ...] a <foreign>theoros</foreign> be (e.g. liable?). But if (previously mentioned person) were to have sex in the sanctuary, he would be penalised with (the sacrifice of) an ox and with a perfect purification, and the <foreign>theoros</foreign> (viz. will be liable) to the same. And if anyone judges contrary to the writing, let the judgement be ineffectual. The pronoucement of the people, giving judgement, shall be valid. And of the writings, whatever seems more beautiful in the eyes of the god (i.e. Zeus), let him change it, deleting or inserting  (only) with the complete approval of the council of Five Hundred and of the full assembly of the people. One may make changes three times, either adding or removing something.</p>
+					
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>[... si ...] un théore serait (punissable ?). Si (l'homme mentionné plus haut) avait des relations sexuelles dans le sanctuaire, il serait mis à l'amende d'un (sacrifice d'un) bovin et d'une purification parfaite, et le théore (viz. serait pénalisé) de la même amende. Si l'on jugeait contrairement au texte inscrit, le jugement serait nul. La décision populaire, prononçant un jugement, serait valide. Des dispositions inscrites, on peut changer ce qui semblerait meilleur aux yeux du dieu (Zeus), en supprimant ou ajoutant (seulement) avec l'approbation complète du Conseil des Cinq Cents et de la pleine assemblée du peuple. On peut faire des changements trois fois, que l'on ajoute ou que l'on retranche.</p>
+					<p>(traduction d'après S. Minon <bibl type="abbr" n="IED">IED</bibl>)</p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+					
+<p>Line 1: The <foreign>theoros</foreign> mentioned in the fragmentary beginning of the text is probably one of the two types of people envisaged by this regulation: cp. the pairing of another invididual (unnamed) and the <foreign>theoros</foreign> in the following clause. For the idea that this regulation pertains to <foreign>xenoi</foreign>, in addition to the <foreign>theoros</foreign>, see Taita, working on the basis of analogous texts from Olympia such as <ref target="http://cgrn.ulg.ac.be/CGRN_4/">CGRN 4</ref>. Minon argues that the <foreign>theoros</foreign> acted to supervise and police members of the foreign delegation that he led and would be subject to the same, identical fines. Alternatively, Rutherford suggests that the second type of person may be an athlete, adducing Minon <bibl type="abbr" n="IED">IED</bibl> 5, and discussing the fact that <foreign>theoroi</foreign>, as official delegates from foreign cities, were normally responsible for the athletes which they accompanied. </p>
+
+<p>Lines 2-3: βενέοι is a form of the verb βινέω, which is seldom attested in epigraphy (except in obscene graffiti) and somewhat unexpected in this regulation, since later purity laws usually frame this more allusively as "from a woman" <foreign>vel sim.</foreign>, cf. <ref target="http://cgrn.ulg.ac.be/CGRN_86/">CGRN 86</ref> A (Kos), line 43.  Cf. Minon who collects the various sources discussing this verb and other <foreign>hapax legomena</foreign> in the text. Minon translates θωάζω as a causative verb and equivalent to θωάω, i.e. "to submit someone to a fine". The change of subject implicit in Minon's reading is unexpected, since usually the officials responsible for executing the fine would be specified (cf. <ref target="http://cgrn.ulg.ac.be/CGRN_82/">CGRN 82</ref> (Delphi), D lines 17-25; cp. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. who translate "pay the penalty"). However, this change is probably reflected in the accusative τὸν θεαρόν in the following phrase (to line 3), which should refer to the imposition of an identical fine on the visitor (viz. θεαρὸν ἐν〈έχεσθαι〉 τα⌈ὐ⌉ταῖ ; see also Minon). Therefore, one might readily agree with Minon that θωάζω is morphologically different but semantically equivalent to θωάω. Alternatively, we may expect θωάζω to designate the action of paying a fine (so Dittenberger and Purgold, following Bücheler), though this form is unattested elsewhere. Another option might be to interpret the verb as the well-attested but rather poetic θοάζω, meaning here "to sit as a suppliant"; the instrumental dative might then refer to the expiatory sacrifice and purification that needed to be performed (but the formulation is unparalleled). </p>
+						
+<p> The penalty for the transgression consists of two parts: on the one hand, the sacrifice of an ox, on the other, a 'perfect' or complete purification. The ox was no doubt an expensive and strongly dissuasive penalty, so rightly Minon (p. 32). What is meant by a <foreign>teleia</foreign> purification is not completely clear. Often the object of the purification is the whole sanctuary itself, but we would have expected that to be made explicit (cf. <ref target="http://cgrn.ulg.ac.be/CGRN_90/">CGRN 90</ref>, Ialysos, lines 27-30). Minon thinks of different degrees of purification, but <foreign>a contrario</foreign> would one expect a less than <foreign>teleios</foreign> purification? Perhaps the reference is to a purification, whether of the individual or of the sanctuary, rendered "complete", "perfect" or "valid" because it is made according to local or ancestral standards.</p>
+	
+<p>Lines 3-6: For detailed discussion of the legal terms enacting the inscription as a valid regulation and stipulating the exceptional circumstances under which it might be modified, see Gehrke. Beyond the strictly legal jargon of this part of the regulation, the formulation ὄ τι <w lemma="δοκέω">δοκέοι</w> <w lemma="καλός">καλιτέρο̄ς</w> <w lemma="ἔχω">ἔχε̄ν</w> <w lemma="πρός">ποτ᾽</w> τὸν <name type="deity" key="Zeus"><w lemma="θεός">θ⌈ε⌉όν</w></name> interestingly stresses the idea that a modified version of the regulation needs to be "more pleasing in the eyes of Zeus"; see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. πρός (C.I.7), with some parallels of this formulation. The basis for modifying the law, as practical as it might be, must therefore be religiously suitable and sanctioned by the god.
+	</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

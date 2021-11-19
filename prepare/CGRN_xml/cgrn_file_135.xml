@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_135" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 135</idno>: Small <rs type="textType" key="sacrificial regulation">sacrificial regulation</rs> from Athens</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>Rectangular 
+                            <rs type="objectType">altar</rs> of Pentelic marble, broken above.</p>
+                            <p><dimensions>
+                                <height unit="cm">unknown</height>
+                                <width unit="cm">65</width>
+                                <depth unit="cm">42</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout>No description available.
+                            <height/>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0300" notAfter="-0100">3rd or 2nd century BC</origDate></p>
+                        <p><desc>Justification: lettering (Kirchner). </desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Athens" n="Attica"><ref target="http://pleiades.stoa.org/places/579885" type="external">Athens</ref>. Found on the southern slope of the acropolis</placeName>.</p>
+                    </provenance>
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by S Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                <head>Bibliography</head>
+                
+                <p> Edition here based on Kirchner <bibl type="abbr" n="IG II²">IG II²</bibl> 4988. We only print intelligible letter-traces. For further description of lettertraces, cf. <bibl type="abbr" n="IG II²">IG II²</bibl> 4988. </p>
+                <p> Other editions:
+                    <bibl type="abbr" n="IG II">IG II</bibl> 1667; Curbera <bibl type="abbr" n="IG II³">IG II³</bibl> 4, 1749.</p>
+                <p> Cf. also:
+                    Ziehen <bibl type="abbr" n="LGS II">LGS II</bibl> 23; 
+                    Sokolowski <bibl type="abbr" n="LSCG">LSCG</bibl> 27.
+                </p>
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    <lb/><gap reason="lost" extent="unknown" unit="line"/>
+                    <lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ο</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ο</unclear></orig>
+                    
+                    <lb xml:id="line_2" n="2"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="bakery"><w lemma="ἀρεστήρ"><supplied reason="lost">ἀρεστῆρα</supplied></w></name> καὶ <name type="liquid"><name type="vegetal"><w lemma="κηρίον">κηρίον</w></name></name>.
+                     </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                   [... one appeasing cake] and a honey-comb.
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+                <p>
+                   
+                   [... un gâteau propitiatoire] et un rayon de miel.
+                    
+                </p>
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p>This third- or second-century altar, is part of a group of mostly short inscriptions (cf. e.g. <ref target="CGRN_53">CGRN 53</ref> and <ref target="CGRN_54">CGRN 54</ref>) found in Piraeus and in or near the city Asklepieion of Athens, prescribing the (preliminary) offering of cakes to various divinities. We can make sense of this fragmentary inscription by its resemblance to the other inscriptions in this group. Perhaps the inscription started (line 1) with the name of a divinity in the genitive (as in <ref target="CGRN_77">CGRN 77</ref> or <ref target="CGRN_134">CGRN 134</ref>), expressing that this is the divinity's cult or altar, or in the dative (as in <ref target="CGRN_53">CGRN 53</ref> and <ref target="CGRN_54">CGRN 54</ref> B), indicating the deity as indirect object. The lettertraces on the first preserved line, curved traces showing the lower part of a round letter are probably <foreign>omicrons</foreign> (with one space between them). The appeasing cake ἀρεστήρ seems the most likely restoration (so Ziehen), since it occurs in combination with a κηρίον in <ref target="CGRN_53">CGRN 53</ref> and <ref target="CGRN_95">CGRN 95</ref>. Hence we do not follow Sokolowski, who supplies the word [μ]ο̣[ν]ό̣[μφαλα] (cp. <ref target="CGRN_77">CGRN 77</ref> and <ref target="CGRN_134">CGRN 134</ref>). 
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

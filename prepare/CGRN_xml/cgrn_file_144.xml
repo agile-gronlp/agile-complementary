@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_144" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 144</idno>: <rs type="textType" key="purity regulation">Purity regulation</rs> from Ptolemais</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Small black conical basalt <rs type="objectType">pillar</rs>, which appears to have served as a support for an altar. The drum is broken on the right side. Five concentric circles "faisant le tour de la colonne" are engraved above the inscription.</p>
+
+	<p><dimensions>
+	<height unit="cm">60</height>
+	<width unit="cm">unknown</width>
+	<depth unit="cm">unknown</depth>
+	</dimensions></p>
+
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+
+			<p> The inscribed surface is somewhat worn. </p>
+			<p>Letters: <height unit="cm">unknown</height>.</p>
+
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0100" notAfter="-0001">1st century BC</origDate></p>
+
+		<p><desc>Justification: lettering (Breccia).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Ptolemais" n="Cyrenaica_and_Egypt"><ref target="https://pleiades.stoa.org/places/756635/" type="external">Ptolemais Hermiou</ref></placeName>. The monument was bought in Menshieh from a dyer (cf. Bernand). It is now in the Graeco-Roman Museum in Alexandria.
+	</p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on <bibl type="author_date" n="Bingen 1993">Bingen 1993</bibl>, but leaving out the restorations of the durations of abstentions, and with suggestions in our Commentary.</p>
+
+	    			<p> Other edition:
+	    				<bibl type="author_date" n="Bernand 1992">Bernand 1992</bibl> I, 110-111; II, 116-118 (with extensive bibliography).</p>
+
+	    			<p> Cf. also: 			Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 119;
+	    							<bibl type="abbr" n="SEG">SEG</bibl> 43, 1131.
+	    			</p>
+
+	    			<p> Further bibliography: 	<bibl type="author_date" n="Patterson 1985">Patterson 1985</bibl>;
+	    				<bibl type="author_date" n="Cole 1992">Cole 1992</bibl>;
+	    				   			<bibl type="author_date" n="Cole 2004">Cole 2004</bibl>.
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+	    				<lb xml:id="line_1" n="1"/> τοὺς <name type="person"><w lemma="εἴσειμι">εἰσιόντας</w></name> <w lemma="εἰς">εἰς</w> τ<unclear>ὸ</unclear> <name type="structure"><w lemma="ἱερόν"><supplied reason="lost">ἱερὸν</supplied></w></name>
+
+	    				<lb xml:id="line_2" n="2"/> <name type="purification"><w lemma="ἁγνεύω">ἁγνεύειν</w></name> <w lemma="κατά">κα<supplied reason="omitted">τὰ</supplied></w> τὰ <w lemma="ὑπόκειμαι">ὑποκ<unclear>ε</unclear><supplied reason="lost">ίμενα</supplied></w>·
+
+	    				<lb xml:id="line_3" n="3"/> <w lemma="ἀπό">ἀπὸ</w> <w lemma="πάθος">πάθους</w> <w lemma="ἴδιος">ἰδίου</w> καὶ <w lemma="ἀλλότριος"><supplied reason="lost">ἀλλοτρίου?</supplied></w>
+
+	    				<lb xml:id="line_4" n="4"/> <w lemma="ἡμέρα">ἡμέρας</w> <num value="7">ζʹ</num>, <w lemma="ἀπό">ἀ<unclear>π</unclear>’</w> <name type="death"><w lemma="ἀπαλλαγή">ἀπαλλ<supplied reason="lost">αγῆς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_5" n="5"/> <w lemma="ἀπό"><unclear>ἀπ</unclear></w>' <name type="death"><name type="childbirth"><w lemma="ἐκτρωσμός">ἐκτρωσμοῦ</w></name></name> συν<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">·</supplied> <w lemma="ἀπό"><supplied reason="lost">ἀπὸ</supplied></w>
+
+	    				<lb xml:id="line_6" n="6"/> <name type="childbirth"><name type="person"><w lemma="τίκτω">τετοκυίας</w></name></name> καὶ <name type="childbirth"><name type="person"><w lemma="τρέφω">τρεφούσης</w></name></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_7" n="7"/> καὶ <w lemma="ἐάν">ἐὰν</w> <w lemma="ἐκτίθημι">ἐχθῇ</w> <num value="14">ιδʹ</num>· τοὺς δὲ <name type="person"><w lemma="ἀνήρ">ἄ<supplied reason="lost">νδρας</supplied></w></name>
+
+	    				<lb xml:id="line_8" n="8"/> <w lemma="ἀπό"><supplied reason="lost">ἀ</supplied>πὸ</w> <name type="sex"><w lemma="γυνή">γυναικὸς</w></name> <num value="2">βʹ</num>, τὰς δὲ <name type="person"><w lemma="γυνή"><unclear>γ</unclear><supplied reason="lost">υναῖκας</supplied></w></name>
+
+	    				<lb xml:id="line_9" n="9"/> <w lemma="ἀκόλουθος">ἀκολούθως</w> τοῖς <name type="person"><w lemma="ἀνήρ">ἀνδρά<supplied reason="lost">σιν</supplied></w></name><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_10" n="10"/> <w lemma="ἀπό"><unclear>ἀπ</unclear></w>' <name type="childbirth"><name type="death"><w lemma="ἐκτρωσμός">ἐκτρωσμοῦ</w></name></name> <num value="40">μʹ</num> <space extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_11" n="11"/> τὴν δὲ <name type="childbirth"><name type="person"><w lemma="τίκτω">τεκοῦσαν</w></name></name> καὶ <name type="person"><w lemma="τρέφω">τρ<unclear>έ</unclear><supplied reason="lost">φουσαν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_12" n="12"/> <w lemma="ἐάν"><supplied reason="lost">ἐ</supplied>ὰν</w> δὲ <w lemma="ἐκτίθημι">ἐχθῇ</w> τὸ <w lemma="βρέφος">βρέφος</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_13" n="13"/> <w lemma="ἀπό">ἀπὸ</w> <name type="menstruation"><w lemma="καταμήνιος">καταμηνίων</w></name> <num value="7">ζʹ</num>· <space extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_14" n="14"/> <w lemma="ἀπό"><supplied reason="lost">ἀπ'</supplied></w> <name type="sex"><w lemma="ἀνήρ">ἀνδρὸς</w></name> <num value="2">βʹ</num>, <name type="vegetal"><w lemma="μυρσίνη">μυρσίνην</w></name> δὲ <w lemma="φέρω"><supplied reason="lost">οἴσει (?)</supplied></w>.
+
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Those who enter into the [sanctuary] should be pure according to the following (guidelines): from a sickness of one's own or [that of another person?], after seven days; from a death, after [...] days; (5) from an abortion (or: miscarriage) [...], after [...] days; from a woman who gave birth and is breastfeeding, after [...] days; and if she exposes (the child), after fourteen days; for [men] after sexual relations with a woman, after two days. The [women] follow the men in keeping to the same rules, (10) (but for an impurity deriving) from an abortion (or: miscarriage), after forty days; she who has given birth and is breastfeeding, after [...] days; but if she exposes the child, after [...] days; from menstruations, after seven days; (after sexual relations) with a man, after two days and she (will carry?) myrtle. </p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Ceux qui entrent dans le [sanctuaire] doivent être purs selon les prescriptions ci-dessous : (pour l'impureté provenant) de sa propre maladie ou de [celle d'une autre personne (?)], après sept jours; d'un décès, après [...] jours; (5) d'un avortement (ou d'une fausse couche) [...], après [...] jours; d'une accouchée qui allaite, après [...] jours; si elle a exposé (l'enfant), après quatorze jours; les [hommes] après des relations avec une femme, après deux jours. Les [femmes] suivent les mêmes prescriptions que les hommes, (10) (cependant, pour l'impureté provenant) d'un avortement (ou d'une fausse couche), après quarante jours; celle qui a accouché et qui allaite, après [...] jours; mais, si elle a exposé l'enfant, après [...] jours; pour les menstrues, après sept jours; (après des relations) avec un homme, après deux jours et elle (apportera ?) du myrte. </p>
+
+				</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+						<p> This purity regulation, in the new edition by Bingen, describes the number of days of abstention from various sources of impurity, exceptionally distinguishing between the rules for men (lines 1-8) and then those for women (lines 9-14). The text lists some of the typical causes of <foreign>miasma</foreign> in Greek ritual norms: death, miscarriage, childbirth and sex. Thus, it is perhaps a testimony to the degree of 'Hellenism' evident in this Greek city founded by Ptolemy I Soter (so Bingen). The regulation is also concerned with menstruation as well as, intriguingly, with 'injuries' or 'illnesses' (πάθη), relating to oneself or to someone else. The rules may have belonged to the sanctuary of Asclepius and Hygieia, as is proposed by Bernand, but Bingen more cautiously leaves the question open.</p>
+
+<p>Line 3: Bernand took πάθος as referring to 'death' in this inscription, but Bingen is right in rejecting this implausible semantic extension, and he instead follows Plaumann's interpretation: 'illnesses'. This text does seem to be unique in seeing diseases, whether personal or otherwise, as a source of impurity. Good health is indeed a requirement for being pure and eligible to enter a temple in Lindos (cf. <bibl type="abbr" n="LSCG">LSCG</bibl> 139). The restored contrast between ἴδιος and ἀλλότριος, a disease befalling oneself or another person is plausible; cp. the cases mentioned in our commentary on <ref target="http://cgrn.ulg.ac.be/CGRN_71/">CGRN 71</ref>, lines 1-3 and lines 3-6.</p>
+
+<p>Lines 4-5: For ἀπαλλαγή and ἐκτρωσμός, Bingen rightly rejects the opposition supposed by Sokolowski between a "perte non provoquée du foetus" and an "expulsion provoquée du foetus", which seems too fine and moral a distinction for a rule of this type. Therefore, it is better to take ἀπαλλαγή as referring to "death" (in general), even though this is way of referring to the deceased does not occur in other purity regulations. Cf. our commentary on <ref target="http://cgrn.ulg.ac.be/CGRN_71/">CGRN 71</ref>, lines 1-3 for a collection of cultic regulations in which contact with death causes one to become impure.</p>
+
+<p>Lines 6-7: The reference to a woman who is breast-feeding most probably does not mean that she is polluted during the entire period of weaning, but it establishes the contrast with a woman who is separated from her child (mentioned in the next line), and who does not have any milk anymore. For the widespread practice of exposing unwanted infants in ancient Greece, cf. Patterson.</p>
+
+<p>Line 8: For a discussion of ritual impurity after sex, cf. our commentary on <ref target="http://cgrn.ulg.ac.be/CGRN_71/">CGRN 71</ref>, lines 3-6.</p>
+
+<p>Lines 10 and 13: As Bingen points out, the text ends in a blank space before the break. Therefore, we should assume that the entire text of these lines has been preserved.</p>
+
+<p> Line 13: The concern with menstruation (ἀπὸ καταμηνίων) occurs irregularly, late, and mostly in foreign cults (Cole 1992: 111, 2004: 108); see here <ref target="http://cgrn.ulg.ac.be/CGRN_217/">CGRN 217</ref>, lines 5-7.</p>
+
+<p> Line 14: The explicit distinction between the impurity for men after sex with a woman and for women after sex with a man occurs only twice in our evidence, here and in <ref target="http://cgrn.ulg.ac.be/CGRN_212/">CGRN 212</ref>, lines 3-9 (cf. Cole 2004: 108). In addition to a period of two days of exclusion, women apparently needed to perform a purificatory rite with myrtle: wearing it, or offering (burning it), or perhaps even using it to perform ablutions; cp. <ref target="http://cgrn.ulg.ac.be/CGRN_35/">CGRN 35</ref>, line 16, for a branch of hyssop used in this way.</p>
+
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

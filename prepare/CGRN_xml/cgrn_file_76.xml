@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_76" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 76</idno>: <rs type="textType" key="dossier of regulations">Dossier of regulations</rs> concerning the cult of Asclepius and Apollo at Erythrai</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>An opisthographic marble <rs type="objectType">stele</rs>, only preserved on the left and bottom. The bottom of the first side (A) and the whole of the reverse side (B) preserves a lengthy paean for Apollo (principally) and Asclepius (lines 36-74). This is not included here, as well as an additional prescription (lines 75-77, in letters from ca. 281 BC) to perform similar hymns for the "son of Apollo" King Seleukos I.</p>
+				<p><dimensions>
+					<height unit="cm">48.8</height>
+					<width unit="cm">39.7</width>
+					<depth unit="cm">10</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Variable stoichedon of 28-30 letters, with syllabic division. </p>
+				<p>Letters: <height unit="mm">unknown</height>.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0400" notAfter="-0350">ca. 380-360 BC</origDate></p>
+			<p><desc>Justification: dialect, lettering and stoichedon style (Engelmann - Merkelbach).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Erythrai" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/550535" type="external">Erythrai</ref></placeName>. Found to the southwest of the Acropolis of the city. Currently in the Staatliche Museen in Berlin (inv. no. unknown).</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-03-2016 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Engelmann - Merkelbach <bibl type="abbr" n="I.Erythrai">I.Erythrai</bibl> 205, with ph. pls. 35-36. Note that the excerpt given here only contains lines 1-36, from the front side A (see above on Support).</p>
+					<p>Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 24.</p>
+		<p>Further bibliography: <bibl type="author_date" n="Aleshire 1991">Aleshire 1991</bibl>; <bibl type="author_date" n="Parker 1996">Parker 1996</bibl>: 175-185; <bibl type="author_date" n="Dimitrova 2008">Dimitrova 2008</bibl>.</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	   
+<lb xml:id="line_1" n="1"/><orig>μο</orig><gap reason="lost" quantity="28" unit="character" precision="low"/>
+	    					
+<lb xml:id="line_2" n="2"/><orig>προ</orig><gap reason="lost" quantity="27" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3"/><orig>τωι</orig><gap reason="lost" quantity="27" unit="character"/>
+	    				
+<lb xml:id="line_4" n="4"/><name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκλη<supplied reason="lost">πιῶι</supplied></w></name> <gap reason="lost" quantity="21" unit="character"/>
+	    				
+<lb xml:id="line_5" n="5" break="no"/>τηι <w lemma="ἑκάτερος">ἑκα<supplied reason="lost">τερ</supplied></w><gap reason="lost" quantity="21" unit="character"/>
+	    				
+<lb xml:id="line_6" n="6"/>καὶ <w lemma="ἐάν">ἢν</w> <name type="sacrifice"><w lemma="θύω">θύ<supplied reason="lost">ηι</supplied></w></name> <gap reason="lost" quantity="21" unit="character"/>
+	    				
+<lb xml:id="line_7" n="7"/><name type="sacrifice"><w lemma="θύω">θυέτω</w></name> καὶ <supplied reason="lost">τῶι</supplied> <gap reason="lost" quantity="18" unit="character"/>
+	    				
+<lb xml:id="line_8" n="8"/><name type="genericOffering"><w lemma="τίθημι">τιθέναι</w></name> κα<supplied reason="lost">ὶ τῶι</supplied> <gap reason="lost" quantity="17" unit="character"/>
+	    				
+<lb xml:id="line_9" n="9"/><orig>δε</orig> <name type="animal" key="goat"><w lemma="αἴγειος">αἰγείωι</w></name> <orig><unclear>μ</unclear></orig><gap reason="lost" quantity="20" unit="character"/>
+	    					
+<lb xml:id="line_10" n="10"/><name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκληπιῶι</w></name>· τῶ<supplied reason="lost">ι δὲ</supplied> <gap reason="lost" quantity="16" unit="character"/>
+	    				
+<lb xml:id="line_11" n="11"/><name type="sacrifice"><w lemma="θύω">θυέτω</w></name> <w lemma="ὁποῖος">ὁκοῖα</w> <w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w> <w lemma="θέλω"><supplied reason="lost">θέληι</supplied></w> <gap reason="lost" quantity="13" unit="character"/>
+	    				
+<lb xml:id="line_12" n="12"/>τῶι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Απόλλωνι</w></name> κ<unclear>α</unclear><supplied reason="lost">ὶ τῶι</supplied> <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός"><supplied reason="lost">Ἀσκληπιῶι</supplied></w></name> <name type="bakery"><w lemma="ἑρμητής"><supplied reason="lost">ἑρμη</supplied>
+	    				
+	<lb xml:id="line_13" n="13" break="no"/>τὴν</w></name> <name type="sacrifice"><w lemma="συνθύω">συνθύειν</w></name> <name type="genericOffering"><w lemma="ἱερός">ἱρ<supplied reason="lost">όν</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἐάν"><supplied reason="lost">ἢν</supplied></w> <supplied reason="lost">δὲ</supplied> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοῦν</supplied></w></name> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύῃ</supplied></w></name> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Apollo"><w lemma="Ἀπόλλων"><supplied reason="lost">Ἀ</supplied>
+	    				
+<lb xml:id="line_14" n="14" break="no"/>πόλλωνι</w></name> ἢ τῶι <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκλ<supplied reason="lost">ηπιῶι</supplied></w></name> <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <supplied reason="lost">τὴν</supplied> <name type="structure"><w lemma="τράπεζα"><supplied reason="lost">τρά</supplied>
+	    				
+<lb xml:id="line_15" n="15" break="no"/>πεζαν</w></name> <name type="sacrifice"><w lemma="παρατίθημι">παρατιθέτω</w></name> τ<supplied reason="lost">ῶι</supplied> <name type="deity" key="Apollo"><name type="deity" key="Asclepius"><w lemma="θεός"><supplied reason="lost">θεῶι</supplied></w></name></name> <w lemma="ἑκάτερος"><supplied reason="lost">ἑκατέρωι</supplied></w>	    
+	    					
+<lb xml:id="line_16" n="16"/><name type="animal" key="ox"><w lemma="βοίον">βοιὸς</w></name> <w lemma="τρεῖς">τρεῖς</w> <name type="portion"><w lemma="σάρξ">σάρκας</w></name> <unclear>κ</unclear><supplied reason="lost">αὶ</supplied> <name type="portion"><w lemma="σπλάγχνον"><supplied reason="lost">σπλάγχνα</supplied></w></name> <supplied reason="lost">καὶ</supplied>
+	    					    					
+<lb xml:id="line_17" n="17"/>τῶι <name type="personnel"><w lemma="ἱερεύς">ἱρεῖ</w></name> <w lemma="δύο">δυ’</w> <w lemma="ὀβολός">ὀβολούς</w>· <w lemma="ἐάν">ἢν</w> <supplied reason="lost">δὲ τῶι</supplied> <w lemma="ἕτερος"><supplied reason="lost">ἑτέρωι</supplied></w> <name type="animal" key="generic"><w lemma="ἱερεῖον"><supplied reason="lost">ἱ</supplied>
+	    				
+<lb xml:id="line_18" n="18" break="no"/>ρέον</w></name> <name type="sacrifice"><w lemma="θύω">θύῃ</w></name> <name type="age"><w lemma="τέλειος">τέλεον</w>, <name type="sacrifice"><w lemma="παρατίθημι">παρατιθ<supplied reason="lost">έτω</supplied></w></name> <w lemma="ἑκάτερος"><supplied reason="lost">ἑκατέρωι</supplied></w>
+	    					
+<lb xml:id="line_19" n="19"/><w lemma="ἐπί">ἐπὶ</w> τὴν <name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name> <w lemma="τρεῖς">τρία</w> <name type="portion"><w lemma="κρέας">κρέ<supplied reason="lost">α</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="portion"><w lemma="σπλάγχνον"><supplied reason="lost">σπλάγ</supplied>
+	    					
+	<lb xml:id="line_20" n="20" break="no"/>χνα</w></name> καὶ τῶι <name type="personnel"><w lemma="ἱερεύς">ἱρεῖ</w></name> <w lemma="ὀβολός">ὀβολόν</w>· <w lemma="ἐάν">ἢν</w> δ<supplied reason="lost">ὲ</supplied> <name type="age"><w lemma="γαλαθηνός"><supplied reason="lost">γαλαθη</supplied>
+	    					
+	<lb xml:id="line_21" n="21" break="no"/>νὸν</w></name> <name type="sacrifice"><w lemma="θύω">θύηι</w></name>, <w lemma="τρεῖς">τρία</w> <name type="portion"><w lemma="κρέας">κρέα</w></name> καὶ <name type="portion"><w lemma="σπλάγχνον">σπλάν<supplied reason="lost">χνα</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἐάν"><supplied reason="lost">ἢν</supplied></w> <supplied reason="lost">δὲ</supplied>
+	    				
+<lb xml:id="line_22" n="22"/><name type="quality"><w lemma="θυστός">θυστὰ</w></name> <name type="sacrifice"><w lemma="θύω">θύηι</w></name>, <name type="bakery"><w lemma="φθόϊς">φθοῖγ</w></name> καὶ <name type="bakery"><w lemma="ἑρμητής">ἑρμητὴν</w></name> <name type="sacrifice"><w lemma="παρατίθημι">π<supplied reason="lost">αρατι</supplied>
+	    				
+<lb xml:id="line_23" n="23" break="no"/>θέτω</w></name> τῶι <name type="deity" key="Apollo"><name type="deity" key="Asclepius"><w lemma="θεός">θεῶι</w></name></name> <w lemma="ἑκάτερος">ἑκατέρωι</w>· <w lemma="ὅσος">ὅσα</w> δὲ <w lemma="ἐπί">ἐπὶ</w> <supplied reason="lost">τὴν</supplied>
+	    					
+<lb xml:id="line_24" n="24"/><name type="structure"><w lemma="τράπεζα">τράπεζαν</w></name> <name type="sacrifice"><w lemma="παρατίθημι">παρατεθῆι</w></name>, <w lemma="οὗτος">ταῦτα</w> <w lemma="εἰμί">εἶναι</w> <name type="portion"><w lemma="γέρας">γέ
+	    					
+<lb xml:id="line_25" n="25" break="no"/>ρα</w></name> τῶι <name type="personnel"><w lemma="ἱερεύς">ἱρεῖ</w></name>· <w lemma="ὅταν">ὅταν</w> δὲ ἡ <name type="group"><w lemma="πόλις">πόλις</w></name> τὴν <name type="sacrifice"><w lemma="θυσία">θυσίην</w></name>
+	    					
+<lb xml:id="line_26" n="26"/>τῶι <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκληπιῶι</w></name> <w lemma="ποιέω">ποιῆι</w>, τὰ τῆς <name type="group"><w lemma="πόλις">πόλεως</w></name>
+	    				
+<lb xml:id="line_27" n="27"/><name type="sacrifice"><w lemma="προθύω">προτεθύσθαι</w></name> <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="πᾶς">πάντων</w>, <name type="person"><w lemma="ἰδιώτης">ἰδιώτης</w></name> δὲ
+	    				
+<lb xml:id="line_28" n="28"/><w lemma="μηδείς">μηδεὶς</w> <name type="sacrifice"><w lemma="προθύω">προθυέτω</w></name> <w lemma="ἐν">ἐν</w> τῆι <name type="festival"><w lemma="ἑορτή">ἑορτῆι</w></name>· <w lemma="ἀνά">ἀνὰ</w> δὲ
+	    					
+<lb xml:id="line_29" n="29"/>τὸν <w lemma="ἄλλος">ἄλλογ</w> <w lemma="χρόνος">χρόνον</w> <name type="sacrifice"><w lemma="προθύω">προθυέτω</w></name> <w lemma="κατά">κατὰ</w> τὰ
+	    				
+<lb xml:id="line_30" n="30"/><name type="authority"><w lemma="προγράφω">προγεγραμμένα</w></name>· <w lemma="ὅσος">ὅσοι</w> δὲ <name type="person"><w lemma="ἐγκοιμάομαι">ἐγκατακοιμη
+	    				
+<lb xml:id="line_31" n="31" break="no"/>θέντες</w></name> <name type="sacrifice"><w lemma="θυσία">θυσίην</w></name> <w lemma="ἀποδίδωμι">ἀποδιδῶσιν</w> τῶι <name type="deity" key="Asclepius"><w lemma="Ἀσκληπιός">Ἀσκλη
+	    					
+<lb xml:id="line_32" n="32" break="no"/>πιῶι</w></name> καὶ τῶι <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνι</w></name> ἢ <name type="invocation"><w lemma="εὔχομαι">εὀξάμενοι</w></name> <name type="sacrifice"><w lemma="θυσία">θυ
+	    				
+<lb xml:id="line_33" n="33" break="no"/>σίην</w></name> <w lemma="ἀποδίδωμι">ἀποδιδῶσιν</w>, <w lemma="ὅταν">ὅταν</w> τὴν <w lemma="ἱερός">ἱρὴν</w> <name type="portion"><w lemma="μοῖρα">μοῖ
+	    				
+<lb xml:id="line_34" n="34" break="no"/>ραν</w></name> <name type="sacrifice"><w lemma="ἐπιτίθημι">ἐπιθῆι</w></name>, <name type="invocation"><w lemma="παιωνίζω">παιωνίζειν</w></name> <w lemma="πρότερος">πρῶτον</w> <w lemma="περί">περὶ</w>
+	    				
+<lb xml:id="line_35" n="35"/>τὸμ <name type="structure"><w lemma="βωμός">βωμὸν</w></name> τοῦ <name type="deity" key="Apollo"><w lemma="Ἀπόλλων">Ἀπόλλωνος</w></name> τόνδε τὸμ
+	    				
+<lb xml:id="line_36" n="36"/><name type="invocation"><w lemma="Παιάν">παιῶνα</w></name> <w lemma="εἰς">ἐς</w> <w lemma="τρίς">τρίς</w>· "ὤ <w lemma="ἰή">Ἰὴ</w> <name type="epithet" key="Paian"><w lemma="Παιάν">Παιών</w></name>" κτλ.
+	    				</name></ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+[...] to Asclepius [...] (5) each of the two [...] and if he sacrifices [...] let him sacrifice also [to ...] to place and to [...] for goat-meat [...] (10) to Asclepius. To [...] let him sacrifice whichever [he wishes ...] to Apollo and [to Asclepius] sacrifice jointly a sacred [Hermes-cake. But if he sacrifices an ox] to Apollo or Asclepius, [on the] table, (15) let him provide [for each of the two gods] three portions of beef [and entrails and] for the priest two obols. [But if to one or the other] he sacrifices an adult animal, let him provide [to each of the two] on the table, three portions of meat [and] entrails (20) and one obol for the priest. If he sacrifices [a suckling animal], three portions of meat and entrails. [And if] he sacrifices burned offerings, [let him set aside] a flat cake (or pastille) and a Hermes-cake for each of the two gods. Whatever is placed upon [the] table will be perquisites (25) for the priest. When the city makes a sacrifice to Asclepius, the offerings of the city are to be sacrificed first and for the sake of everyone; no private individual is to make a preliminary sacrifice during the festival. At any other time, preliminary sacrifices can be made according to what (30) was written before (above?). Those who, having incubated, offer a sacrifice to Asclepius and Apollo, or who having prayed (i.e. made a vow) offer such a sacrifice, when the sacred portion is placed (i.e. on the altar), are to first sing a paean around (35) the altar of Apollo, namely the following paean three times: o, ie Paian, etc.
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[...] à Asclépios [...] (5) chacun des deux [...] et s'il sacrifie [...] qu'il sacrifie également [à ...] déposer et [...] pour de la viande de chèvre [...] (10) à Asclépios. À [...]  qu'il sacrifie tout ce [qu'il veut ...] à Apollon et [à Asclépios] sacrifier conjointement un ['gâteau-Hermès'] sacré. [S'il sacrifie un bovin] à Apollon ou à Asclépios, [sur la] table, (15) qu'il place [pour chacun des deux dieux] trois portions de chair de boeuf, [des viscères et], pour le prêtre, deux oboles. S'il sacrifie [à l'un des deux] un animal sacrificiel adulte, qu'il place sur la table [de chacun des deux] trois portions de viande [et] des viscères (20), et une obole pour le prêtre. S'il sacrifie un [animal de lait], trois portions de viande et de viscères. [S']il sacrifie des substances à consumer, qu'il place un gâteau plat et un 'gâteau-Hermès' pour chacun des deux dieux. Tout ce qui a été déposé sur [la] table reviendra (25) au prêtre en parts d'honneur. Quand la cité procède au sacrifice pour Asclépios, les offrandes de la cité doivent être sacrifiées d'abord au bénéfice de tous; qu'aucun particulier ne procède à un sacrifice préliminaire pendant la fête. En tout autre temps, que l'on procède au sacrifice préliminaire selon ce qui (30) a été écrit (ci-dessus ?). Ceux qui, après avoir procédé à l'incubation, offrent un sacrifice à Asclépios et à Apollon ou ceux qui, ayant fait un voeu, offrent un sacrifice, quand la part sacrée est déposée (sur l'autel), entonneront le péan d'abord autour (35) de l'autel d'Apollon, à trois reprises le péan que voici : ô iè Péan, etc.
+				
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+	<p>The regulations are fragmentary and their beginning is not preserved, but as mentioned above (see Support), they clearly appear as part of a larger dossier of documents concerning the cult of Asclepius (and that of Apollo) at Erythrai. One mention in the regulations concerning preliminary sacrifices (προθυσίς, lines 28-30), refers to "what was inscribed earlier" or "above", probably indicating that a section of the regulations on this matter would have been written above the major portion of the extant text. As we have them, the regulations seem fairly comprehensive concerning sacrificial practice, though also rather miscellaneous: after several fragmentary lines, a major section concerns the portions to be offered on the table for both gods when private individual performed different types of sacrifices (lines 13-25); this is followed by a section concerning the priority of civic sacrifices during the festival of the gods (lines 25-30); finally comes a requirement for certain participants in a sacrifice to perform a specific hymn (lines 30-36). Indeed, appended to these rules, but not reprised here, is a lengthy hymn, a paean in honour of Apollo (lines 36ff.), which is explicitly to be performed at the key moment of the sacrificial ritual (see lines 33-36). Similar hymns have been found in Athens and at Ptolemais in Egypt, and were apparently widely disseminated; cf. also here <ref target="CGRN_40">CGRN 40</ref> (Apollonia in Illyria). The addition of a paean in honour of Seleukos I, lines 74-76, testifies to the vitality of the cult one century later; for King Seleukos' intimate connection with the cult of Apollo, notably in Asia Minor, cf. here <ref target="CGRN_137">CGRN 137</ref> (Aigai). </p>
+
+<p>About the context for inscribing these comprehensive regulations of the cult we are regrettably poorly informed, though analogies from outside of Erythrai may be instructive. At Athens, the cult of Asclepius was introduced in 420/419 BC (see Aleshire, Parker). Preserved now is also a substantial dossier from fifth century Apollonia in Illyria, probably testifying to the introduction of the god in the community, with a similar hymn in his honour: cf. <ref target="CGRN_40">CGRN 40</ref>. It may be that the dossier from Erythrai is of a similar inaugural character in the early fourth century BC (alternatively, it presents a copy of the rules for the cult, inscribed at a somewhat later date than the introduction of the cult in the city). As Sokolowski remarks, the rules at Erythrai are perhaps distinctive in carefully outlining a close association of Asclepius with the figure of Apollo (this might also tend to indicate the relatively "new" status of this first god). Indeed, the rules consistently state that the table-offerings are to be made to both gods jointly (ἑκάτερωι, lines 5, 15, 18 and 23) and one line even mentions a joint sacrifice in a fragmentary context (συνθύειν, line 23). The paean (here presumably sung partly in honour of Asclepius) also clearly recalls the inauguration of the cult of Apollo at Crisa by the Cretan pirates (<title>h.Ap.</title> 500-519). But we need perhaps not follow Sokolowski too closely in thinking that this joint cult testifies to origins so different from other cults of Asclepius (the hymn itself, side B, line 19, points to origins in Thessaly, as in other attested cults). For the ritual pairing of Apollo and Asclepius, see particularly here <ref target="CGRN_34">CGRN 34</ref> and <ref target="CGRN_64">CGRN 64</ref> (both from Epidauros).</p>
+
+<p>Lines 8-9: Engelmann and Merkelbach, following Wilamowitz, invoke the possibility that the rules here forbade the consumption of goat-meat (thus restoring [μη]|δὲ αἰγείωι <unclear>μ</unclear>[ηδὲ ...). To support this, they attractively compare the rules for entry in the Asklepieion of Pergamon, <bibl type="abbr" n="IvP III">IvP III</bibl> 161A, line 13: καὶ ἀφροδισίων καὶ αἰγείου κρέως καὶ τυροῦ ... (cf. also several other intriguing examples cited by Engelmann and Merkelbach). If this plausible inference is correct, then this section of the rules would presumably have dealt with purity requirements for the sanctuary or rules for incubation (see also below, lines 27-30). For other purity requirements that specify types of food from which one should be "pure", cp. <ref target="CGRN_217">CGRN 217</ref> (Delos), lines 1-4, with commentary and further references.</p>
+						
+<p>Lines 14-17: For table-offerings, see generally <ref target="CGRN_13">CGRN 13</ref> (Selinous), lines A9-10. It is clear from lines 23-25, probably a general clause of the regulation, that all the portions set aside on the table for the gods were eventually taken by the priest. For portions of beef, known by the technical term σάρξ, see <ref target="CGRN_61">CGRN 61</ref> (Athens), line 4. The triple portions on the table are intriguing: triple portions recur in a few ritual norms, at least one of which is inscribed on an altar or table: cf. <ref target="CGRN_180">CGRN 180</ref> (Ialysos; there, three portions of meat from the shoulder are to be offered). For priestly remuneration with a (typically small) sum of cash, see more generally <ref target="CGRN_57">CGRN 57</ref> (Aixone).</p>
+						
+<p>Lines 20-21: For suckling animals, see again <ref target="CGRN_64">CGRN 64</ref> (Epidauros), lines 7-9. It is unclear if the entrails mentioned in these lines and probably in line 16 represent the totality of the entrails from each given sacrificial animals, or perhaps more likely (given the absence of a definitive article), a portion of these entrails. For entrails offered on the cult-table, see here <ref target="CGRN_182">CGRN 182</ref> (Mytilene); for entrails placed on the hands or knees of divine statues in Chios, see <ref target="CGRN_41">CGRN 41</ref>, lines 12-13.
+</p>
+											
+<p>Lines 22: As Engelmann and Merkelbach rightly note (following Wilamowitz), the θυσθά mentioned here as a last category of sacrifice probably represent the offering of aromatics or incense (cp. the term θυμίαμα), perhaps also other forms of burned offerings. Indeed, no portions of meat are to be offered on the table in this scenario. Instead, two different types of cakes are mentioned. The first, φθόϊς, designates a specific type of glutinous cake and can also mean a pastille made from liquid aromatics or incense used for fumigation (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. 1 and 2); the other is a Hermes-cake (probably shaped like a herald's staff, κηρύκειον), see here <ref target="CGRN_49">CGRN 49</ref> (Chios, but here perhaps offered in a cult of the god Hermes himself).</p>
+						
+<p>Lines 27-30: For the sacrifice of the city "on behalf of everyone", Engelmann and Merkelbach aptly compare the more detailed passage in the festival regulation from Magnesia-on-the-Maiander, <ref target="CGRN_194">CGRN 194</ref>, lines 21-32. On preliminary sacrifices, particularly in connection with cults of Asclepius and incubation rituals, see here <ref target="CGRN_46">CGRN 46</ref> and <ref target="CGRN_54">CGRN 54</ref> (both from Piraeus).</p>
+
+<p>Lines 30-36: For the sacred portion, a technical term for the portion of the god offered and consumed on the altar during the sacrificial ritual, cp. here <ref target="CGRN_39">CGRN 39</ref> (Miletos), lines 6-7, where it perhaps meant a portion from the shoulders of the animal (rather than the ὀσφύς, though that also remains a possibility; see Dimitrova for discussion; cf. the Commentary there for further references, and cp. the term θεομοιρία, which on Kos could designate such a portion (e.g. <ref target="CGRN_86">CGRN 86</ref> D, line 20).</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

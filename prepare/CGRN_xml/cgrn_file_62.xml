@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_62" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 62</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial
+					regulation</rs> (A), and a later excerpt from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> (B) at Lindos</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability>
+					<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+					<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>n/a</repository>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support><p><rs type="objectType">Stele</rs> of marble, broken only on the top left corner.</p>
+									<p><dimensions>
+										<height unit="cm">39.5</height>
+										<width unit="cm">29</width>
+										<depth unit="cm">9</depth>
+									</dimensions></p>
+								</support>
+							</supportDesc>
+							<layoutDesc>
+								<layout><p>Letters, A: <height unit="mm">15</height>; B: <height unit="mm">10</height>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p>A: <origDate notBefore="-0425" notAfter="-0375">ca. 400 BC</origDate></p>
+							<p>B: <origDate notBefore="-0200" notAfter="-0100">2nd century BC</origDate></p>
+							<p><desc>Justification: lettering (Pugliese Carratelli).</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Lindos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589913" type="external">Lindos</ref></placeName>. Found at the house of "papas Constantinos". Current location unknown, probably lost.</p>
+						</provenance>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x">
+			<desc/>
+		</graphic>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+				<p>Edition here based on Pugliese Carratelli <bibl type="abbr" n="NSER">NSER</bibl> 20 a-b (p. 169-170).</p>
+				
+				<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 88.</p>
+				
+				<p>Further bibliography: <bibl type="author_date" n="Segre 1951">Segre 1951</bibl>; 
+					<bibl type="author_date" n="Badoud 2015">Badoud 2015</bibl>: 11-35; 
+					<bibl type="author_date" n="Peels 2016">Peels 2016</bibl>;
+					<bibl type="author_date" n="Iversen 2017">Iversen 2017</bibl>: 192-197; 
+					<bibl type="author_date" n="Carbon forthc.">Carbon forthc.</bibl></p>
+			</div>
+			<div type="edition">
+				<head>Text</head>
+				<ab subtype="Text" n="A">Text A <lb/>
+					<space extent="unknown" unit="line"/>
+					
+					
+<lb xml:id="line_A1" n="A1"/><name type="deity" key="Athena"><w lemma="Ἀθήνη"><supplied reason="lost">Ἀθάνα</supplied>ι</w></name> <name type="epithet" key="Apotropaia"><w lemma="ἀποτρόπαιος">Ἀποτροπαία<supplied reason="lost">ι</supplied></w></name> 
+					
+<lb xml:id="line_A2" n="A2"/><name type="animal" key="sheep"><w lemma="ὄϊς"><unclear>ὄ</unclear>ις</w></name>· <name type="sacrifice"><w lemma="θύω">θυέτω</w></name> <name type="personnel"><w lemma="ἀρχιεροθυτέω">ἀρχιερο 
+						
+<lb xml:id="line_A3" n="A3" break="no"/>θύτας</w></name>· τὰ <name type="sacrifice"><w lemma="θύω">θυθέντ<unclear>α</unclear></w></name> 
+					
+<lb xml:id="line_A4" n="A4"/><w lemma="αὐτός">αὐτεῖ</w> <name type="meal"><w lemma="καταχράομαι">καταχρῆσθαι</w></name>· 
+					
+<lb xml:id="line_A5" n="A5"/><name type="person"><w lemma="γυνή">γυνα<unclear>ι</unclear>ξὶ</w></name> <w lemma="οὐ">οὐχ</w> <name type="authority"><w lemma="ὁσία">ὁσία</w></name>. <space extent="unknown" unit="character"/> </ab> <ab subtype="Text" n="B">Text B 
+						
+<lb/> <space extent="unknown" unit="line"/> 
+						
+<lb xml:id="line_B1" n="B1"/><name type="month"><w lemma="Σμινθεύς">Σμινθίου</w></name> <w lemma="τρίτος">τρίται</w> <w lemma="ἐπί">ἐπὶ</w> <w lemma="δέκα">δέκα</w>· 
+						
+<lb xml:id="line_B2" n="B2"/><name type="deity" key="Zeus"><w lemma="Ζεύς">Ζηνὶ</w></name> <name type="epithet" key="Apotropaios"><w lemma="ἀποτρόπαιος">Ἀποτροπαίω<unclear>ι</unclear></w></name> <name type="animal" key="sheep"><name type="gender"><w lemma="κριός">κριός</w></name></name>, 
+						
+<lb xml:id="line_B3" n="B3"/><name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθάναι</w></name> <name type="epithet" key="Apotropaia"><w lemma="ἀποτρόπαιος">Ἀποτροπαίαι</w></name> <name type="animal" key="sheep"><w lemma="ὄϊς">ὄις</w></name>· 
+						
+<lb xml:id="line_B4" n="B4"/><name type="sacrifice"><w lemma="θύω">θύει</w></name> <name type="personnel"><w lemma="ἀρχιεροθυτέω">ἀρχιεροθύτας</w></name>· τὰ <name type="sacrifice"><w lemma="θύω">θυ 
+							
+<lb xml:id="line_B5" n="B5" break="no"/>θέντα</w></name> <w lemma="αὐτός">αὐτεῖ</w> <name type="meal"><w lemma="καταχράομαι">καταχρεῖσθα<supplied reason="lost">ι</supplied></w></name>· 
+						
+<lb xml:id="line_B6" n="B6"/><name type="person"><w lemma="γυνή">γυναιξὶν</w></name> <w lemma="οὐ">οὐκ</w> <name type="authority"><w lemma="ὁσία">ὀσία</w></name>. <space extent="unknown" unit="character"/> 
+						
+<lb/><space quantity="5" unit="line"/>
+					</ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<head>Translation</head>
+<p>Text A</p>
+<p>To Athena Apotropaia, a sheep. Let the <foreign>archierothytes</foreign> sacrifice it. What has been sacrificed is consumed on the spot. (5) Not permitted to women. </p>
+				
+<p>Text B</p>
+<p>On the 13th of Sminthios: to Zeus Apotropaios, a ram; to Athena Apotropaia, a sheep. The <foreign>archierothytes</foreign> sacrifices it. What has been (5) sacrificed is consumed on the spot. Not permitted to women.</p>
+			</div>
+			
+		<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				
+<p> Texte A</p>
+<p>À Athéna Apotropaia, un mouton. Que l'archiérothyte sacrifie. Les parts sacrificielles sont consommées sur place. (5) Non autorisé pour les femmes. </p>
+				
+<p>Texte B</p>
+<p>Le 13 Sminthios : à Zeus Apotropaios, un bélier; à Athéna Apotropaia, un mouton. L'archiérothyte sacrifie. Les parts (5) sacrificielles sont consommées sur place. Non autorisé pour les femmes.</p>
+			</div>
+
+			<div type="commentary">
+				<head>Commentary</head>
+				
+<p>This document is bipartite: the first, earlier regulation (A) is not preceded by a date and codifies the performance of sacrifices to Athena Apotropaia, presumably in her sanctuary; the second, later text (B) closely parallels or retranscribes the first, notably adding the date of the sacrifice to Athena and an offering to Zeus Apotropaios preceding it. In its form, the second text closely resembles excerpts from the sacrificial calendar of Rhodes or Lindos already around ca. 400 BC (see <ref target="CGRN_63">CGRN 63</ref>), as well as in the Hellenistic period across the wider territory of Lindos and at Kamiros (cf. e.g. <ref target="CGRN_109">CGRN 109</ref>). As with these other documents, it consists of a single dated sacrifice (there are sometimes more), which was inscribed presumably as a punctual reminder and at the relevant cult-site; for these texts, see Segre and Carbon forthc. for further discussion. Here, however, the recopying and supplementing of text A as text B poses several interesting questions about the context of the regulations: was the first inscription (text A) anterior to a recodification of the sacrificial calendar of Rhodes or of Lindos itself after the synoikism in ca. 408 BC, and the resulting dissemination of small excerpts from one of these calendars throughout the island? Possibly: the date of the sacrifice to Athena may have been well known and was therefore not mentioned in the first copy of the text. But why was Zeus Apotropaios then added to the dated sacrifice on the 13th of Sminthios? Was this because it reflected more exhaustively what was found in the sacrificial calendar or is it because Zeus Apotropaios had in the interim found a place in the cult of Athena? These are several contextual enigmas which remain to be elucidated.</p>
+				
+<p>In the reconstruction of the Rhodian calendar refined by Badoud and generally adopted here (for a different view, see Iversen) Sminthios was the 8th month (ca. March/April). The cult of Zeus Apotropaios and Athena Apotropaia, whose function was presumably to "turn evil away", is not otherwise known on Rhodes and the findspot within Lindos itself remains to be more adequately defined; presumably the stele was set up in the sanctuary of Athena Apotropaia, or both gods if they shared a sanctuary in the later period. The two gods are also paired in the list of sales of priesthoods from Erythrai, <bibl type="abbr" n="LSAM">LSAM</bibl> 25; Zeus Apotropaios is found in the company of Zeus Meilichios, Artemis Prothyraia and Ge in the context of the preliminary sacrifices offered at the Asklepieion of Pergamon (<bibl type="abbr" n="IvP III">IvP III</bibl> 161 A-B, 2nd century AD).</p>
+				
+<p>Lines A3-4 and B4-5: For sacrifices where the meat consumed "on the spot", cf. other excerpts from the sacrificial calendar of Rhodes, particularly <ref target="CGRN_117">CGRN 117</ref>, lines 6-7 from Lindos. The wording is the positive expression of "no take-away" elsewhere: see e.g. <ref target="CGRN_52">CGRN 52</ref> (Erchia), <foreign>passim</foreign>, and <ref target="CGRN_32">CGRN 32</ref> (Thorikos), with commentary to lines 10-12.</p>
+				
+<p>Lines A5 and B6: On the interdiction of women in cults, cf. esp. here <ref target="CGRN_33">CGRN 33</ref> (Elateia) for further discussion; cp. also the Lindian <ref target="CGRN_63">CGRN 63</ref>. On the semantics and usage of ἡ ὁσία cf. Peels.</p>
+				
+			</div>
+		</body>
+	</text>
+</TEI>

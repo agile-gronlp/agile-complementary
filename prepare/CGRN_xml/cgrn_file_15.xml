@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_15" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 15</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> with a list of provisions from Gortyn</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>A large <rs type="objectType">wall block</rs> inscribed on one face, but having been reworked with anathyrosis on the left and for a few letters in the middle as well as near the right margin, probably as part of the reuse in its findspot (the Roman theatre or Odeon).</p>
+				<p><dimensions>
+					<height unit="cm">42</height>
+					<width unit="cm">95</width>
+					<depth unit="cm">unknown</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The text is inscribed boustrophedon and in quasi-stoichedon, with good regularity. Since there is an empty space of a bit more than 1 line before line 1, we seem to have the beginning of the inscription, though an uncertain amount of space is perhaps missing to the left and right beyond the available letterspaces on the wall block itself. The last line may be preserved or the text may have continued on another block below, now missing.</p>
+				<p>Letters: <height unit="cm">2-2.5</height></p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0500" notAfter="-0475">ca. 500-475 BC</origDate></p>
+			<p><desc>Justification: Despite the boustrophedon and stoichedon style of the inscription, Ionic dialectical features (e.g. ἰηρῖα, line 4) have been mixed in with the usual Cretan Doric dialect, and thus probably preclude an earlier date (cf. already Comparetti).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Gortyn" n="Crete"><ref target="http://pleiades.stoa.org/places/589796/" type="external">Gortyn</ref></placeName>. For the findspot "near the foundations of one of the minor gates of the theatre" (Roman Odeon), see Halbherr, with a brief description.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+<p>Edition here based on Guarducci, <bibl type="abbr" n="IC IV">IC IV</bibl> 145, who prints a cautious text; cf. the ph. and dr. included in that edition.</p>
+					
+<p>Other editions: 
+	<bibl type="author_date" n="Comparetti 1916-1920 (b)">Comparetti 1916-1920 (b)</bibl>: 196-202 no. 2; 
+	<bibl type="author_date" n="Manganaro 1974">Manganaro 1974</bibl>: 56-58.</p>
+					
+<p>Further bibliography: 
+	<bibl type="author_date" n="Halbherr 1899">Halbherr 1899</bibl>: 532-533; 
+	<bibl type="author_date" n="Maddoli 1968">Maddoli 1968</bibl>: 645-648; 
+	<bibl type="author_date" n="Parker 1983">Parker 1983</bibl>: 231 with n. 141.
+			</p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+<lb xml:id="line_1" n="1" rend="left-to-right"/><w lemma="παρέχω"><supplied reason="lost">παρ</supplied><unclear>έ</unclear>χεν</w> δὲ τῶι <orig>τ<gap reason="lost" quantity="3" unit="character"/>λιωιαρει</orig><gap reason="lost" quantity="6" unit="character"/>
+	    					
+	    				<lb xml:id="line_2" n="2" rend="right-to-left"/><gap reason="lost" quantity="6" unit="character"/><orig>λαν</orig> καὶ <name type="vegetal"><w lemma="πανσπερμία">πα<supplied reason="lost">νσπ</supplied>ερμείαν</w></name> <orig>εξεττ</orig><gap reason="lost" quantity="3" unit="character"/>
+	    					
+<lb xml:id="line_3" n="3" rend="left-to-right"/><gap reason="lost" quantity="2" unit="character"/><orig><unclear>ν</unclear>αν</orig> καὶ <name type="object"><w lemma="σιδηρίσκος">σιδαρί<supplied reason="lost">σ</supplied>κον</w></name> καὶ <orig>δει</orig><gap reason="lost" quantity="6" unit="character"/>
+	    					
+<lb xml:id="line_4" n="4" rend="right-to-left"/><gap reason="lost" quantity="6" unit="character"/> <name type="quality"><w lemma="ὁλοσφαίρειος"><supplied reason="lost">ὁ</supplied>λοσφαίρα<unclear>ι</unclear><supplied reason="lost">α</supplied></w></name> <unclear>κ</unclear>᾽ <name type="animal" key="generic"><w lemma="ἱερεῖον">ἰηρῖα</w></name> <name type="purification"><name type="quality"><w lemma="καθαρός">καθαρ<unclear>ὰ</unclear></w></name></name> <gap reason="lost" quantity="2" unit="character"/>
+	    					
+<lb xml:id="line_5" n="5" rend="left-to-right"/><gap reason="lost" quantity="3" unit="character"/><orig>πινα</orig> καὶ <name type="liquid"><w lemma="φοινίκιον">φοιν<supplied reason="lost">ίκ</supplied>ιον</w></name> καὶ <orig>ϝο</orig><gap reason="lost" quantity="6" unit="character"/>
+	    					
+<lb xml:id="line_6" n="6" rend="right-to-left"/><gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">κ</supplied>αὶ <name type="object"><w lemma="καναστραῖα">καναστ<supplied reason="lost">ραῖ</supplied>ον</w></name> <name type="quality"><w lemma="δριωτός">δριωτὸν</w></name> κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied> <gap reason="lost" quantity="1" unit="character"/>
+	    					
+<lb xml:id="line_7" n="7" rend="left-to-right"/><gap reason="lost" quantity="3" unit="character"/><orig>ον</orig> κ’ <name type="genericOffering"><w lemma="ἱέρωμα">ἰαρώματ<supplied reason="lost">α</supplied></w></name> <gap reason="lost" quantity="1" unit="character"/><orig>εϝοι</orig> <w lemma="δύο">δύο</w> <orig>σαλ<unclear>ι</unclear></orig><gap reason="lost" quantity="5" unit="character"/>
+	    					
+<lb xml:id="line_8" n="8" rend="right-to-left"/><gap reason="lost" quantity="6" unit="character"/> κ’ <name type="vegetal"><w lemma="ἄλφιτον">αὐφίτων</w></name> <unclear>κ</unclear><supplied reason="lost">α</supplied><unclear>ὶ</unclear> <name type="object"><w lemma="φιάλη">φιαλίσκαν</w></name> κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied> <gap reason="lost" quantity="1" unit="character"/>
+	    					
+<lb xml:id="line_9" n="9" rend="left-to-right"/><gap reason="lost" quantity="4" unit="character"/> καὶ <name type="genericOffering"><w lemma="θῦμα">θύματα</w></name> <supplied reason="lost">καὶ</supplied> <name type="animal" key="generic"> <name type="age"><w lemma="πρεῖγυς">πρείγονα</w></name></name> <gap reason="lost" quantity="6" unit="character"/>
+	    					
+<lb xml:id="line_10" n="10" rend="right-to-left"/><gap reason="lost" quantity="7" unit="character"/><orig>εν</orig> ἄμ’ <w lemma="ἀμφότερος">ἀμφ<supplied reason="lost">ότ</supplied><unclear>ε</unclear>ρα</w> <orig>κηδενπανι</orig><gap reason="lost" quantity="2" unit="character"/>
+	    					
+<lb xml:id="line_11" n="11" rend="left-to-right"/><name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἰα</supplied><unclear>ρ</unclear>έα</w></name> καὶ <name type="personnel"><w lemma="κοσυβάτας">κοσυβ<supplied reason="lost">άτ</supplied>αν</w></name> <w lemma="παρέχω">παρέχε<supplied reason="lost">ν</supplied></w> <gap reason="lost" quantity="6" unit="character"/>
+	    					
+<lb xml:id="line_12" n="12" rend="right-to-left"/><gap reason="lost" quantity="5" unit="character"/> <name type="genericOffering"><w lemma="ἱέρωμα"><supplied reason="lost">ἰα</supplied>ρώματα</w></name> <w lemma="ἐπί"><unclear>ἐ</unclear><supplied reason="lost">πί</supplied></w> <supplied reason="lost">τ</supplied>ῶν <name type="object"><w lemma="χόννος">χόννων</w></name> <orig>αλη</orig><gap reason="lost" quantity="2" unit="character"/>
+	    					
+<lb/><gap extent="unknown" unit="line" reason="lost"/>
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>And provide to/for [... (something)] and a mixture of all seeds [... and (something)] and a small iron thing (e.g. a knife) and [... and] wholly spherical things and pure sacrificial animals (5) [and ...] and palm-wine and [wine? ...] and a wooden basket and [...] and offerings [...] two [(head-baskets? e.g. filled with...)] and barley and a small libation vessel and [...] and sacrificial offerings (and) an older [viz. animal ... (10) ...] together with on both sides [...] the priest and the sacrificer are to provide [...] offerings from the bronze jars [...].  </p>
+			
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction </head>
+<p>Et l'on doit fournir à/pour [... (quelque chose)] et une variété de semences [... et (quelque chose)] et un petit objet de fer (e.g. un couteau) et [... et] des choses complètement sphériques et des animaux sacrificiels purs (5) [et ...] et du vin de palme et [du vin ? ...] et un panier de bois et [...] et des offrandes [...] deux [(paniers portés sur la tête ?, e.g. remplis de...)] et de grains d'orge et une petite phiale et [...] et des offrandes sacrificielles [et] un plus vieil [animal ? ... (10) ...] avec des deux côtés [...] le prêtre et le sacrificateur doivent fournir [...] des offrandes des vases en bronze [...]. </p>
+					
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This is an intriguing list of quite varied sacrificial and perhaps other provisions, but we have no idea as to its context, especially given the fragmentary indirect object of παρέχεν in line 1 which is difficult to interpret. There appear to be two majors sections of the text, first a long list in lines 1-10, then perhaps an additional list of offerings signalled by a further instance of παρέχεν in line 11 (note also ἰαρώματα in line 12, repeated from line 7), though this latter section is probably incompletely preserved. The order in which offerings and objects are presented in the syndetic list of lines 1-10 is puzzling: it moves back and forth between concrete objects, sacrificial animals and other substances such as perhaps wine. We note that there are two recurrent features in the list. First, the use of substantivised adjectives to designate some of the offerings: φοιν[ίκ]ιον in line 5, and possibly [ὁ]λοσφαίραι̣[α] in line 4. Second, the presence of diminutives: σιδαρί[σ]κον in line 3, and φιαλίσκαν in line 8. Despite this relative consistency, several of the traces and even some of the objects invoked in the list remain enigmatic.</p>
+							
+<p>Line 1: It is difficult or impossible to be sure about the recipient of the offerings; one might expect a deity or perhaps even an official. Comparetti indeed thought of a man, restoring Τ[ραλ]λίωι Ἀρεί[ωνι]. Guarducci plausibly thinks of an epithet of Ares, preceding the theonym: Τ[. . .]λίωι Ἄρει. Manganaro restores a well-attested Cretan god, but the remaining traces cause some problems: Τ[αλλ]αίω(ι) ἱαρεί[αν | κα]λάν; thus, a beautiful female sacrificial animal (?) for (Zeus) Tallaios. Though the god makes sense, the reading is problematic on several counts: it requires substituting an <foreign>alpha</foreign> for a clear <foreign>lambda</foreign>, the use of the epithet on its own is not exceptional but also unexpected, and the prescription of a beautiful sacrifice is unusual, especially given that we have a prescription of pure sacrificial animals in line 4.</p>
+		
+<p>Line 2: Despite the scepticism of Guarducci, the restoration <name type="vegetal"><w lemma="πανσπερμία">πα[νσπ]ερμείαν</w></name> must be correct (cf. also Manganaro, who adopts it). Only two letters are missing in the stoichedon, but the form πα[σπ]ερμείαν is dialectically correct, so the cutter may have squeezed two letters together in the stoichos (as he did later in the same word for the letters ΕΡ; cf. also the cutting of δύο in line 7). This word, somewhat surprising out of a philosophical context (and with perhaps two mistakes in its cutting!), ought to mean simply a mixture of all (or at least many) seeds. For the final traces, Manganaro reads ἐξ ἑττ[ὰ κα|ρπ(ε)]ιᾶν, which strikes us as an oxymoron following a πανσπερμεία. See Parker for the (rather obscure) ritual use of this type "bran mash" or "corpse food", as he calls it.</p>
+		
+<p>Line 3: <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. σιδηρίσκος gives this as a medical instrument, only on the basis of this inscription, but this is contextually implausible. Manganaro thinks of a small knife, which gives a somewhat better sense. This object is obscure, like some of the others which follow.</p>
+		
+<p>Line 4: Both Guarducci and Manganaro think of a new compound word παλοσφαίρα, meaning "clay balls", which they give in the dative plural constructed with δεῖ[να] in the preceding line. Another option, as we give it here, would be equally conjectural and involve a (substantivised) compound adjective: [ὁ]λοσφαίραι̣[α], referring to perfectly spherical objects. For sphere(s) as a ritual object in the State Calendar of Athens, in a list of objects following the <foreign>kanoun</foreign> probably during the Pythais, see <ref target="http://cgrn.ulg.ac.be/CGRN_45/">CGRN 45</ref> face A, fr. 1, col. 3, line 30.</p>
+
+<p>Line 5: For the traces at the beginning of the line, Manganaro thinks of [αἰρό]πινα, which yields a good sense for an inclusion in this list: <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. describes this is a type of sieve for wheat, but it is seldom attested. Comparetti's restoration φοιν[ίκ]ιον, adopted by Manganaro but doubted by Guarducci, seems difficult to challenge. If Comparetti's other plausible restoration ϝο[ῖνον] is adopted, then φοινίκιον would almost certainly refer to palm-wine, here distinguished from grape-wine. Maddoli draws attention a potential equivalent in Linear B, <foreign>PO-NI-KI-JO</foreign>, but interprets this as an aromatic substance.</p>
+
+<p>Line 6: The object mentioned here appears derived from κάναστρον, usually meaning a wicker basket (καναστραῖα, just like κάναστρον, cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. II; it can also designate earthenware vases). Here, the unattested qualifying adjective δριωτόν ought to make it clear that we are dealing with a wooden basket of some sort. It almost certainly derives from δρίος, meaning wood (cp. also <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. δροιόν, a particularly Cretan word).</p>
+
+<p>Line 7: The word ἰαρώμα is rather obscure, though it ought to designate consecrated objects or offerings of some sort. Some scholars (e.g. Manganaro and Maddoli) prefer to interpret this as aromatic substances, ἀρώματα, but the normal ellision of καὶ as κ᾽ (rather than the malformed κι᾽) appears to preclude this. The traces in the middle of the line are extremely difficult to interpret, and it is not clear whether δύο belongs with these traces or instead with what follows. At the end of the line, the traces ΣΑΛΙ̣ could be interpreted as a variety of objects. Comparetti proposes the word σαλία (= Att. τηλία), which is a sieve or baker's board, and Guarducci adopts this, thinking also of a diminutive: σαλί̣[σκας ἀ|λεύρων] κ᾽ αὐφίτων, i.e. small sieves for flour and barley-grains. Manganaro points to the word σάλαξ, which also means sieve. We note as an attractive alternative to the sieve that the word σαλία has another sense, which Hsch. s.v. gives as πλέγμα καλάθῳ ὅμοιον, ὃ ἐπὶ τῆς κεφαλῆς φοροῦσιν αἱ Λάκαιναι, οἱ δὲ θολία. The σαλία might then be another sort of basket, perhaps filled with two types of grains.</p>
+		
+<p>Line 9: This part of the list includes further sacrificial offerings of some sort: one might expect these to be animals, just like the striking ἰηρῖα καθαρά̣ in line 4, though they could be other offerings (e.g. aromatics) to be burned (so Maddoli). Here, these offerings appear to be followed by the specification that the next offering is an "older" one of some sort, probably a vague minimum age requirement for a sacrificial animal.</p>
+		
+<p>Line 10: This line is virtually unintelligible.</p>
+		
+<p>Line 11: This line probably introduces a new section of the lists of provisions. The priest and another official (rather than city, above?) must provide other offerings. The κοσυβάτας is a sacrificial agent of some sort, probably acting in an ancillary capacity to the priest. He is only attested here and in Hsch. s.v. κόσβατοι· οἱ ἐπὶ θυσιῶν τεταγμένοι.</p>
+
+<p>Line 12: χόννος is a rather well-attested Cretan word for a copper cup, see <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. Maddoli proposes to find it earlier in the Linear B <foreign>KO-NO</foreign>. Comparetti first suggested ἐ̣[πὶ τ]ῶν <w lemma="χόννος">χόννων</w>, and Guarducci adopted this, hypothesising that the plural might refer to a festival occasion (like the Choes). This seems to us a bold conjecture: the offerings ἰαρώματα are perhaps more plausibly designated as being situated "on" or "upon the copper cups" (having been originally stored in these receptacles?).
+						</p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

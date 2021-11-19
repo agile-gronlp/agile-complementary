@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_44" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 44</idno>: <rs type="textType" key="decree">Decree</rs> concerning the cult of Bendis at Athens</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home" for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Three fragments of a  
+			<rs type="objectType">stele</rs> of Pentelic marble. </p>
+		
+	<p> Fragment A
+		<dimensions>
+			<height unit="cm">39</height>
+			<width unit="cm">23</width>
+			<depth unit="cm">11</depth>
+	</dimensions></p>
+		
+	<p> Fragment B
+			<dimensions>
+				<height unit="cm">40</height>
+				<width unit="cm">37</width>
+				<depth unit="cm">11</depth>
+		</dimensions></p>
+	
+	<p> Fragment C
+			<dimensions>
+				<height unit="cm">26</height>
+				<width unit="cm">19</width>
+				<depth unit="cm">7</depth>
+			</dimensions></p>
+		
+	</support>
+			</supportDesc>
+		<layoutDesc><layout>
+			
+			<p>Non-stoichedon. Approximately 65 letters per line.</p>
+			<p>Letters (fragment B): <height unit="cm">1.0-1.1</height>, with <foreign>omicron</foreign> <height unit="cm">0.7</height>.</p>
+			
+	</layout></layoutDesc>
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+							<p><origDate notBefore="-0413" notAfter="-0412">413/2 BC</origDate></p>
+							<p><desc>The precise date depends on the name of the archon restored in line 3. Cf. Lewis for the possibilities. Both Lewis and Wijma find the date of 413/2 with restoration Κλεόκριτος the most plausible.</desc></p>
+						</origin>
+						<provenance><p><placeName type="ancientFindspot" key="Piraeus" n="Attica"><ref target="http://pleiades.stoa.org/places/580062" type="external">Piraeus</ref></placeName>. Found on the southwestern slope of the hill Munichia. Two fragments, a and c are lost; b (the largest fragment) is now in Piraeus Museum (inv. no. 1595).</p>
+		
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    			<p> Edition here based on Lewis, <bibl type="abbr" n="IG I³">IG I³</bibl> 136, except for our suggested restorations at the end of line 29 and the start of line 33 (cf. already Ferguson for the latter).</p>
+	    			<p> Other editions: <bibl type="author_date" n="Kyparissis - Peek 1941">Kyparissis - Peek 1941</bibl>: 207-217; 
+	    				<bibl type="author_date" n="Ferguson 1949">Ferguson 1949</bibl>. </p>
+	    			<p> Cf. also:
+	    				Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 6; <ref target="https://www.atticinscriptions.com/inscription/IGI3/136" type="external">AIO</ref>, with another English translation and commentary. 
+	    			</p> 
+	    			<p>Further bibliography: <bibl type="author_date" n="Studemund 1886">Studemund 1886</bibl>: 265 (82) and 266 (81); <bibl type="author_date" n="Mikalson 1975">Mikalson 1975</bibl>: 158-159; <bibl type="author_date" n="Wijma 2014">Wijma 2014</bibl>: 126-155, esp. 140-143; <bibl type="author_date" n="Jim 2014">Jim 2014</bibl>: 51-52.	
+	    			</p>
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    			<ab subtype="fragment" n="A+C">
+	    				Fragments A + C	
+<lb xml:id="line_1" n="1"/> <supplied reason="lost">Π</supplied>ασιφο̑ν <name type="ethnic" key="Phrearrhioi">Φρεάρ<supplied reason="lost">ριος</supplied></name> <w lemma="γραμματεύω"><supplied reason="lost">ἐγραμμάτευε</supplied></w>·
+	    				
+<lb xml:id="line_2" n="2"/> <name type="authority"><w lemma="δοκέω">ἔδοχσεν</w></name> τε̑ι <name type="group"><w lemma="βουλή">βολε̑ι</w></name> καὶ <supplied reason="lost">το̑ι</supplied> <name type="group"><w lemma="δῆμος"><supplied reason="lost">δέμοι</supplied></w><supplied reason="lost">·</supplied></name> <gap reason="lost" quantity="8" unit="character"/> <name type="title"><w lemma="πρυτανεύω"><supplied reason="lost">ἐπρυτάνευε</supplied></w></name><supplied reason="lost">,</supplied> <supplied reason="lost">Πασιφο̑ν</supplied> <name type="title"><w lemma="γραμματεύω"><supplied reason="lost">ἐγρα</supplied>μμάτευε</w></name>, <gap reason="lost" quantity="3" unit="character"/>
+	    				
+<lb xml:id="line_3" n="3" break="no"/> κλε̑ς <name type="title"><w lemma="ἐφίστημι">ἐπεστάτε</w></name>, Κλε<supplied reason="lost">όκριτος</supplied> <name type="title"><w lemma="ἄρχω"><supplied reason="lost">ἐ̑ρχε</supplied></w></name><supplied reason="lost">,</supplied> <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost"> <w lemma="λέγω">εἶπε</w>·</supplied> <gap reason="lost" quantity="15" unit="character"/>σασθαι <w lemma="unclear">διαπομ
+	    					
+<lb xml:id="line_4" n="4" break="no"/> παιον</w> <w lemma="ἀπό">ἀπὸ</w> τε̑ς <name type="group"><w lemma="πόλις">πόλε<supplied reason="lost">ος</supplied></w></name> <gap reason="lost" quantity="35" unit="character"/> <supplied reason="lost">σ</supplied>τρατος. <w lemma="μετά">μετὰ</w> δὲ
+	    				
+<lb xml:id="line_5" n="5"/> <w lemma="οὗτος">ταῦτα</w>, <name type="invocation"><w lemma="εὔχομαι">εὔχσασ<supplied reason="lost">θαι</supplied></w></name> <gap reason="lost" quantity="37" unit="character"/> τε̑ς <name type="group"><w lemma="φυλή">φυλε̑ς</w></name> <w lemma="ἕκαστος">ἑκάστε
+	    					
+<lb xml:id="line_6" n="6" break="no"/> ς</w> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θ</supplied>ύσεν</w></name>, <w lemma="ἐάν">ἐὰν</w> <gap reason="lost" quantity="40" unit="character"/><orig><unclear>τ</unclear>αι</orig> το̑ν <w lemma="πολέμιος">πολεμίον</w> κα
+	    				
+<lb xml:id="line_7" n="7" break="no"/> <gap reason="lost" quantity="3" unit="character"/><orig><unclear>αυ</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ρ</unclear></orig><gap reason="lost" quantity="40" unit="character"/> <supplied reason="lost">κα</supplied>ὶ <w lemma="ἄλλος">τἄλλα</w> <w lemma="ὅς">ἃ</w> <name type="authority"><w lemma="παραινέω">παραινεῖ</w></name>
+	    				
+<lb xml:id="line_8" n="8"/> <gap reason="lost" quantity="43" unit="character"/> <supplied reason="lost">τε̑ι</supplied> <name type="deity" key="Bendis"><w lemma="Βενδῖς"><supplied reason="lost">Βενδ</supplied><unclear>ῖ</unclear>δι</w></name> καὶ τὸ <name type="object"><w lemma="ἄγαλμα">ἄγαλμα</w></name> <orig>ε</orig>
+	    				
+<lb xml:id="line_9" n="9" break="no"/> <gap reason="lost" quantity="52" unit="character"/><orig>ον</orig> καὶ τὲν <objectType key="stele"><w lemma="στήλη">στέλε
+	    					
+<lb xml:id="line_10" n="10" break="no"/> <supplied reason="lost">ν</supplied></w></objectType> <gap reason="lost" quantity="51" unit="character"/> <w lemma="ἐπιμελέομαι"><supplied reason="lost">ἐπι</supplied>μελεθέσονται</w>
+	    				
+<lb xml:id="line_11" n="11"/> <gap reason="lost" quantity="53" unit="character"/><unclear>σ</unclear>θαι τὸν <name type="group"><w lemma="δῆμος">δε̑μον</w></name>
+	    				
+<lb xml:id="line_12" n="12"/> <gap reason="lost" quantity="53" unit="character"/> <w lemma="πρός">πρὸς</w> δὲ <w lemma="οὗτος">τοῦτο</w> <unclear>τ</unclear>
+	    				
+<lb xml:id="line_13" n="13" break="no"/> <gap reason="lost" quantity="52" unit="character"/><orig><unclear>ι</unclear></orig> τε̑ι <name type="deity" key="Bendis"><w lemma="Βενδῖς">Βενδῖδι</w></name> <gap reason="lost" quantity="2" unit="character"/>
+	    				
+<lb xml:id="line_14" n="14"/> <gap reason="lost" quantity="53" unit="character"/> <w lemma="ἀεί">αἰεὶ</w> ἑκατε<unclear>ρ</unclear><gap reason="lost" quantity="2" unit="character"/>
+	    				
+<lb xml:id="line_15" n="15"/> <gap reason="lost" quantity="55" unit="character"/> <name type="ethnic" key="Thrace"><w lemma="θρᾷσσα">Θραιττα</w><gap reason="lost" quantity="3" unit="character"/></name>
+	    				
+<lb xml:id="line_16" n="16"/> <gap reason="lost" quantity="55" unit="character"/>σθαι <orig>δ</orig><gap reason="lost" quantity="5" unit="character"/>
+	    				
+<lb xml:id="line_17" n="17"/> <gap reason="lost" quantity="54" unit="character"/><orig><unclear>δ</unclear>εοι</orig><gap reason="lost" quantity="7" unit="character"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    			</ab>
+	    				
+	    				<ab subtype="fragment" n="B">Fragment B
+<lb xml:id="line_18" n="18"/> <gap reason="lost" quantity="31" unit="character"/><orig>ερ<unclear>α</unclear></orig><gap reason="lost" quantity="31" unit="character"/>
+	    				
+<lb xml:id="line_19" n="19"/> <gap reason="lost" quantity="29" unit="character"/><orig>ι</orig> <w lemma="ἐννέα">ἐννέα</w>  <gap reason="lost" quantity="29" unit="character"/>
+	    				
+<lb xml:id="line_20" n="20"/> <gap reason="lost" quantity="28" unit="character"/><orig>ος</orig> καὶ <name type="genericOffering"><w lemma="ἀπαρχή">ἐπα<supplied reason="lost">ρχε</supplied></w> </name><gap reason="lost" quantity="26" unit="character"/>
+	    				
+<lb xml:id="line_21" n="21"/> <gap reason="lost" quantity="26" unit="character"/> <supplied reason="lost">τ</supplied>ὲγ <w lemma="γίγνομαι">γενομέ<supplied reason="lost">νεν</supplied></w> <gap reason="lost" quantity="27" unit="character"/>
+	    				
+<lb xml:id="line_22" n="22"/> <gap reason="lost" quantity="24" unit="character"/> <supplied reason="lost">τε̑</supplied>ς <name type="genericOffering"><w lemma="ἀπαρχή">ἐπαρχε̑ς</w></name> <w lemma="εἰς">ἐ<unclear>ς</unclear></w> <gap reason="lost" quantity="29" unit="character"/>
+	    				
+<lb xml:id="line_23" n="23"/> <gap reason="lost" quantity="26" unit="character"/><orig>αν</orig> <w lemma="ὅσος">ὅσο</w> δ’ <w lemma="ἄν">ἂν</w> <w lemma="πέρνημι">πρ<supplied reason="lost">αθε̑ι</supplied></w> <gap reason="lost" quantity="25" unit="character"/>
+	    				
+<lb xml:id="line_24" n="24"/> <gap reason="lost" quantity="21" unit="character"/> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">οἱ</supplied> <name type="deity" key="unclear"><name type="title"><w lemma="πάρεδρος"><supplied reason="lost">πάρ</supplied>εδροι</w></name></name>· τὸς δὲ <orig>α</orig><gap reason="lost" quantity="29" unit="character"/>
+	    				
+<lb xml:id="line_25" n="25"/> <gap reason="lost" quantity="21" unit="character"/> <w lemma="ὡς"><supplied reason="lost">ὁς</supplied></w> <w lemma="καλός"><supplied reason="lost">κ</supplied>άλλιστα</w>. <name type="sacrifice"><w lemma="θύω">θύεν</w></name> δὲ <orig>ε</orig><gap reason="lost" quantity="29" unit="character"/>
+	    				
+<lb xml:id="line_26" n="26"/> <gap reason="lost" quantity="16" unit="character"/> <supplied reason="lost">ἑ</supplied> <name type="group"><w lemma="βουλή"><supplied reason="lost">βο</supplied>λὲ</w></name> καὶ <w lemma="ἄλλος">ἄλλος</w> <w lemma="ὅστις">ὅστις</w> <w lemma="ἄν"><unclear>ἂ</unclear>ν</w> <gap reason="lost" quantity="29" unit="character"/>
+	    				
+<lb xml:id="line_27" n="27"/> <gap reason="lost" quantity="16" unit="character"/> <supplied reason="lost">τ</supplied>ὲν <name type="festival"><w lemma="παννυχίς">παννυχίδα</w></name> <w lemma="ποιέω">ποε̑ν</w> <w lemma="ὡς">ὁς</w> <w lemma="καλός"><supplied reason="lost">κάλλιστα</supplied></w> <gap reason="lost" quantity="23" unit="character"/>
+	    				
+<lb xml:id="line_28" n="28"/> <gap reason="lost" quantity="16" unit="character"/><orig>ς</orig> <name type="month"><w lemma="μείς">μενὸς</w></name> τε̑ι <w lemma="ἑνδέκατος">ἑνδεκάτει</w> <gap reason="lost" quantity="31" unit="character"/>
+	    				
+<lb xml:id="line_29" n="29"/> <gap reason="lost" quantity="13" unit="character"/> <w lemma="εἴτε">εἴτε</w> <w lemma="χρή">χρὲ</w> <name type="person"><w lemma="γυνή">γυναῖκα</w></name> <name type="personnel"><w lemma="ἱερεύς">hιερεο̑σ</w><supplied reason="lost">θαι</supplied></name> <gap reason="lost" quantity="27" unit="character"/>
+	    				
+<lb xml:id="line_30" n="30"/> <gap reason="lost" quantity="8" unit="character"/> <name type="ethnic" key="Athens"><w lemma="Ἀθηναῖος"><supplied reason="lost"> Ἀθενα</supplied>ίον</w></name> <w lemma="ἅπας">ἁπάντον</w> <w lemma="πέμπω">πεμφσάντον̣</w> <gap reason="lost" quantity="32" unit="character"/>
+	    				
+<lb xml:id="line_31" n="31"/> <gap reason="lost" quantity="13" unit="character"/> <w lemma="ὡς">ὁς</w> <w lemma="ταχύς">τάχιστα</w>· <w lemma="ὅτι">ὅτι</w> δ’ <w lemma="ἄν">ἂν</w> <w lemma="ἀναιρέω">ἀνέλε<supplied reason="lost">ι</supplied></w> <gap reason="lost" quantity="13" unit="character"/>
+	    				
+<lb xml:id="line_32" n="32"/> <gap reason="lost" quantity="11" unit="character"/> <w lemma="λαμβάνω">λαμβάνεν</w> το̑ν <name type="group"><w lemma="δημόσιος">δεμοσίαι</w></name> <name type="sacrifice"><w lemma="θύω">θυο<supplied reason="lost">μένον</supplied></w></name> <gap reason="lost" quantity="27" unit="character"/>
+	    				
+<lb xml:id="line_33" n="33"/> <name type="portion"><w lemma="δέρμα"><supplied reason="lost">δέρματα</supplied></w></name> <w lemma="ἀπό"><supplied reason="lost">ἀπ</supplied>ὸ</w> <w lemma="δέκα">δέκα</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">hιερείον</w></name>· τὰ δὲ <w lemma="ἄλλος">ἄλλα</w> <name type="portion"><w lemma="δέρμα">δέρμα<unclear>τ</unclear><supplied reason="lost">α</supplied></w></name> <gap reason="lost" quantity="28" unit="character"/>
+	    				
+<lb xml:id="line_34" n="34"/> <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">τὸ</supplied> <w lemma="λοιπός"><supplied reason="lost">λο</supplied>ιπὸν</w> <name type="portion"><w lemma="κλῆρος">κλερο̑ν</w></name> <w lemma="περί">περὶ</w> <w lemma="οὗτος">τούτον</w> τὸς <name type="personnel"><w lemma="ἱεροποιός">hιερο<supplied reason="lost">ποιός</supplied></w></name> <gap reason="lost" quantity="23" unit="character"/>
+	    				
+<lb xml:id="line_35" n="35"/> <gap reason="lost" quantity="9" unit="character"/> <w lemma="ἑκάστοτε"><supplied reason="lost">ἑ</supplied>κάστοτε</w> τε̑ι <name type="deity" key="Bendis"><w lemma="Βενδῖς">Βενδῖδι</w></name> <w lemma="ἀπό">ἀπὸ</w> <w lemma="πεντήκοντα">πεντέκο<supplied reason="lost">ντα</supplied></w> <gap reason="lost" quantity="25" unit="character"/> 
+	    				
+<lb xml:id="line_36" n="36"/> <gap reason="lost" quantity="8" unit="character"/> <name type="title"><w lemma="πρυτανεία"><supplied reason="lost">πρ</supplied>υτανείας</w></name>· οἱ δὲ <name type="title"><w lemma="κωλακρέτης">κολακρέται</w></name> <w lemma="δίδωμι">διδόν<supplied reason="lost">τον</supplied></w> <supplied reason="lost">τὸ</supplied> <w lemma="ἀργύριον"><supplied reason="lost">ἀργύριον</supplied></w> <gap reason="lost" quantity="15" unit="character"/>
+	    				
+<lb xml:id="line_37" n="37"/> <gap reason="lost" quantity="10" unit="character"/><orig>α</orig> τὲν <name type="group"><w lemma="βουλή">βολὲν</w></name> <w lemma="αὐτοκράτωρ">αὐτοκράτορα</w> <w lemma="εἰμί">ἐ̑να<unclear>ι</unclear></w> <gap reason="lost" quantity="22" unit="character"/> <supplied reason="lost">τὸ</supplied> <supplied reason="lost">δὲ</supplied> <name type="authority"><w lemma="ψήφισμα"><supplied reason="lost">φσέφι</supplied>
+	    					
+<lb xml:id="line_38" n="38" break="no"/> <supplied reason="lost">σμα</supplied></w></name> <w lemma="ὅδε"><supplied reason="lost">τόδε</supplied></w> <w lemma="ἀναγράφω"><supplied reason="lost">ἀνα</supplied>γράφσας</w> ὁ <name type="title"><w lemma="γραμματεύς">γραμματεὺς</w></name> ὁ τ<supplied reason="lost">ε̑ς</supplied> <name type="group"><w lemma="βουλή"><supplied reason="lost">βολε̑ς</supplied></w></name> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <objectType key="stele"><w lemma="στήλη"><supplied reason="lost">στέλει</supplied></w></objectType> <w lemma="λίθινος"><supplied reason="lost">λιθίνει</supplied></w> <w lemma="κατατίθημι"><supplied reason="lost">καταθέτο</supplied></w> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">το̑ι</supplied>
+	    				
+<lb xml:id="line_39" n="39"/> <name type="structure"><w lemma="Βενδίδειον"><supplied reason="lost">Βενδιδέοι</supplied></w></name><supplied reason="lost">·</supplied> <supplied reason="lost">ο</supplied>ἱ δὲ <name type="title"><w lemma="πωλητής">πολεταὶ</w></name> <w lemma="ἀπομισθόω">ἀπομισθ̣οσ<supplied reason="lost">άντον</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost">οἱ</supplied> <supplied reason="lost">δὲ</supplied> <name type="title"><w lemma="κωλακρέτης"><supplied reason="lost">κολακρέται</supplied></w></name> <w lemma="δίδωμι"><supplied reason="lost">δόντον</supplied></w> <supplied reason="lost">τὸ</supplied> <w lemma="ἀργύριον"><supplied reason="lost">ἀργύριον</supplied></w>.
+	    				
+<lb xml:id="line_40" n="40"/><space quantity="1" unit="line"/>
+	    				
+<lb xml:id="line_41" n="41"/> <gap reason="lost" quantity="8" unit="character"/> <w lemma="λέγω"><supplied reason="lost">εἶπ</supplied><unclear>ε</unclear></w>· <unclear>τὰ</unclear> <supplied reason="lost">μὲν</supplied> <w lemma="ἄλλος"><supplied reason="lost">ἄλλα</supplied></w> <w lemma="καθάπερ"><supplied reason="lost">καθάπερ</supplied></w> <gap reason="lost" quantity="37" unit="character"/> 
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Fragments A + C</p>
+					<p>Pasiphôn of the deme of Phrearrhioi [was secretary]. The council [and the people] have decided: [... held the prytany, Pasiphôn] was secretary [...]kles was president, Kle[okritos was archon ... made the proposition ...] one conducting a procession from the Acropolis is to [...]; after this, (5) to pray [...] of each tribe to sacrifice, if [...] ... the enemy [...] and the other things which (person) advises [...] to Bendis, and the statue [...] and the stele [...] (10) will take care of [...] the people [...] in reference to this [...] to Bendis [...] always each of two [...] (15) a Thracian female [...] </p>
+						
+					<p>Fragment B</p>
+					<p>[...] nine [... (20) ...] and begin? ... which has taken place [...] of the first offering [...] however much it is bought for [...] and the assessors [... (25) ...] as beautiful as possible. And to sacrifice to [...] the council and whoever else [...] to perform the all-night festival [in the most beautiful way possible ...] on the eleventh day of the month [...] or it is necessary for a woman to act as priest [... (30) ...] all Athen[ians] having sent [...] as quickly as possible. Whatever [...] takes up (ordains?) [...] take from the public sacrificial animals [...] hides from ten animals. The other hides [...] for the rest, the <foreign>hieropoioi</foreign> are to draw lots concerning these things [... (35) ...] on each occasion to Bendis from 50 [...] of the prytany. The <foreign>kolakretai</foreign> are to give the money [...] the council is to be plenipotentiar [...]. The secretary [of the council, having inscribed the present decree on a stone stele is to set it up in the sanctuary of Bendis.] The <foreign>poletai</foreign> are to contract it out. [The <foreign>kolakretai</foreign> have to give them the money... (40) ...] made the proposition [...]</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Fragments A + C</p>
+						<p>Pasiphon du dème de Phrearrhioi [était secrétaire]; il a plu au conseil et [au peuple... exerçait la prytanie, Pasiphon] était secrétaire, [...]klès était épistate, Kle[okritos était archonte [...] a fait la proposition, ...] un conducteur de la procession (?) depuis l’Acropole [...]; après cela, (5) que des prières soient adressées [...] que chaque tribu fasse un sacrifice, si [...] l’ennemi [...] et les autres choses conseillées [...] à Bendis et la statue [...] et la stèle [...]  (10) s’occuperont de [...] le peuple [...] à Bendis [...] toujours chacun [...] (15) une Thrace [...] </p>
+					
+						<p>Fragment B</p>
+							<p>[...] (chiffre avec neuf) [... (20) ...] et commence (?) [...] prenant place [...] les prémices [...] et les parèdres; [... (25) ...] le mieux possible. Que l’on sacrifie [...] le conseil et tout ce que [...] que l’on célèbre la pannychis [le mieux possible ...] le 19 du mois [...] qu’une femme assume la prêtrise [... (30) ...] de tous les [Athé]niens ayant envoyé [...] le plus rapidement possible; [...] recevoir des animaux sacrificiels publics [...] les peaux de dix animaux; les autres peaux [...]  que les hiéropes [...] le reste des parts autour de cela (?) [... (35) ...] à chaque fois à Bendis de [(chiffre, avec 50)...] de la prytanie; les kolakrètes donnent [l’argent ...] que le conseil soit souverain [...] le secrétaire [du conseil ayant fait graver ce décret sur une stèle de marbre la place dans le sanctuaire de Bendis]; les polètes mettront en adjudication; [les kolakrètes donneront l’argent... (40) ...]. A fait la proposition [...] </p>
+					<p> (traduction d’après D. Ackermann)</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>   
+						
+<p>The Thracian huntress-goddess Bendis was introduced by Thracian immigrants in Athens. Bendis’ cult in Piraeus was an important Athenian polis cult in the classical period. This decree in three fragments (and the start of another decree, perhaps part of the dossier) deals with Bendis’ cult and festival. From references to ‘the cult statue’ (τὸ ἄγαλμα, 8) and ‘the stele’ (τὲν στέλεν, 9) we may infer that the text does not record the installation of a new cult, but is some elaboration of existing practices (Wijma). Apparently there was already a shrine of Bendis, with its statue, a stele (recording cult regulations) and perhaps an altar.</p>
+						
+<p> This decree appears to institutionalise the festival of Bendis in Athens. The very fragmentary text mentions an important sacrifice (lines 6, 25, 32), perhaps a procession (διαπομπαιον, lines 3-4 and perhaps line 30) and all-night celebration (παννυχίδα, line 27), cult officials, and the distribution of animal portions after sacrifice (32-35). We know that the Bendideia were celebrated on the 19th-20th of Thargelion (Mikalson) and included a procession sent by the Thracians, public sacrifice, a procession organised by the Athenians (a torch-race on horseback) and a night-festival (Wijma, from Pl. <title>Rep.</title> 327a-328a).</p>
+	
+<p>Lines 3-4: The reference in the enigmatic expression ΔΙΑΠΟΜΠΑΙΟΝ is almost certainly to a procession (πομπή) led ἀπὸ τε̑ς πόλεος, “from the Acropolis” (line 4, cf. Ferguson 1949:141, Wijma), though the noun διαπομπαιον is itself unattested. One may perhaps think this might have been a member or the cult personnel (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v. διαπομπεύω (I), “carry the procession to an end”). Another option, though less likely since the connection with Bendis is far from clear, is that this would be a reference to Zeus Pompaios (but it is rarely attested, see Studemund; see also <bibl type="abbr" n="IGASMG">IGASMG V</bibl> 39, Velia, 5th century BC, though whether the reference there is to Zeus or Hermes is unclear).</p> 
+		
+<p>Line 5: Perhaps the phrase τε̑ς φυλε̑ς ἑκάστες refers to the <foreign>hieropoioi</foreign> who should sacrifice (line 6) and who were regularly appointed, one from each phyle (Ferguson, p. 240).</p>
+						
+<p>Line 20: The term ἐπαρχή is rare, perhaps it is a variant of ἀπαρχή (the collection of first-fruits) here. Wijma and Ferguson (p. 142-144) think it is some sort of tax levied to pay for cult expenses, such as sacrifice during the festival and maintenance of the sanctuary. For further discussion of the vocabulary of ἐπαρχή and ἐπάρχεσθαι, cf. Jim.</p>
+						
+<p> Line 25: [κ]άλλιστα might be a qualification of the animals to be sacrificed, or an injunction to perform the ceremony ὡς κάλλιστα “in the most beautiful (elegant) way possible”.</p>
+						
+<p> Line 29: This event on the 11th of a month may be preliminary to the Bendideia which took place on the 19th-20th of Thargelion.</p>
+						
+<p> Line 29-30: The text in the phrase εἴτε χρὲ γυναῖκα hιερέο[σθαι] ...| Ἀθεναίον ἁπαντον. is uncertain, but this section clearly appears to concerns the selection of candidates for the office of priesthood at Bendis. Perhaps an embassy was to be sent as quickly as possible (πεμφσάνον ... ὁς τάχιστα, lines 30-31) for the consultation of an oracle, the questions asked to which often started with εἴτε χρὴ ... The precise nature of the oracular inquiry remains opaque, but perhaps the question was whether the priestess and priest should be chosen from all Thracians or from Ἀθεναίον ἁπάντον. Alternatively, the question concerned some other characteristic of the priesthood, and the embassy was to be chosen from all Athenians (cf. Wijma for further discussion and references). Perhaps ἀνέλε[ι] refers to the oracular response (<bibl type="abbr" n="LSJ">LSJ</bibl>, s.v. A III), cp. perhaps <bibl type="abbr" n="LSCG">LSCG</bibl> 32, line 50.</p>
+	
+						<p> Line 33: The skins from ten animals perhaps go to the priest or priestess: skins were frequently priests’ prerogatives: see e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_26/">CGRN 26</ref> (Athens), commentary on lines B2-3. The remaining skins were perhaps sold.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

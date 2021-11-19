@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_179" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 179</idno>: Excerpts from the <rs type="textType" key="sacrificial calendar">sacrificial calendar</rs> at Lindos (concerning sacrifices to Demeter?)</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Fragment of a marble <rs type="objectType">stele</rs>, partly intact above and to the right, otherwise broken. The front surface was prepared for the inscription; the back of the stone was coarsely chiselled.</p>
+			<p><dimensions>
+					<height unit="cm">17.2</height>
+					<width unit="cm">25.8</width>
+					<depth unit="cm">8.5</depth>
+			</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>Letters: <height unit="cm">1.5-1.6</height>, with smaller round letters.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+		<p><origDate notBefore="-0200" notAfter="-0175">ca. 200-175 BC</origDate></p>
+			<p><desc>Justification: lettering (Blinkenberg).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Lindos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/589913" type="external">Lindos</ref></placeName>. Found on the acropolis (precise spot unknown; a similar text was also found on the Acropolis in trench VI.5; see Commentary below and Blinkenberg). Current location unknown.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-04-2016 by J.M. Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on Blinkenberg <bibl type="abbr" n="Lindos II">Lindos II</bibl> 680, with ph. For the restoration proposed in lines 5-6 and adopted here (Carbon), see also <bibl type="author_date" n="Carbon forthc.">Carbon forthc.</bibl>, with a new edition.</p>
+			<p>Cf. also: Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 87A; for another text (B) included by Sokolowski, see our Commentary below.</p>
+		<p>Further bibliography: <bibl type="author_date" n="Segre 1951">Segre 1951</bibl>; </p>
+				</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>	
+	    					
+<lb xml:id="line_1" n="1"/><name type="month"><w lemma="Σμινθεύς"><supplied reason="lost">Σμ</supplied>ινθίου</w></name> <w lemma="ἕβδομος">ἑβδό<supplied reason="lost">μαι</supplied></w>
+	    					
+<lb xml:id="line_2" n="2"/><w lemma="ἵστημι"><supplied reason="lost">ἱσ</supplied><unclear>τ</unclear>αμένου</w> <name type="deity" key="Demeter"><w lemma="Δημήτηρ">Δ<supplied reason="lost">άματρι</supplied></w></name> (?)
+	    					
+<lb xml:id="line_3" n="3"/><name type="animal" key="sheep"><w lemma="ὄϊς"><supplied reason="lost">ὄϊς</supplied></w></name> <supplied reason="lost">κ</supplied>αὶ <name type="animal" key="swine"><w lemma="ὗς">ὗς</w></name> <name type="gender"><name type="quality"><w lemma="κύω">κύου<supplied reason="lost">σαι</supplied></w></name></name>
+	    					
+<lb xml:id="line_4" n="4"/><name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύει</supplied></w></name> <name type="personnel"><w lemma="ἱεροθύτης"><supplied reason="lost">ἰ</supplied>εροθύτα<supplied reason="lost">ς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_5" n="5"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τ</supplied>ὰ <name type="portion"><w lemma="θύω">θυθ<supplied reason="lost">έντα</supplied></w></name> 
+
+<lb xml:id="line_6" n="6"/><w lemma="αὐτεῖ"><supplied reason="lost">αὐτεῖ</supplied></w> <name type="meal"><w lemma="καταχράομαι"><supplied reason="lost">καταχρῆσθαι</supplied></w></name>.
+   					
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    					
+	    				
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+<p>On the 7th of [Smi]nthios, the <foreign>hierothytas</foreign> [sacrifices an ewe (?)] and a sow [both] pregnant to [Demeter (?)]. The sacrificial portions [are to be consumed on the spot].</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+<p>Le 7 [Smi]nthios, le hiérothyte [sacrifie à Déméter (?) une brebis (?)] et une truie pleine[s]. Les parts sacrificielles [sont consommées sur place].</p>
+				</div>
+					<div type="commentary">    
+						
+						<head>Commentary</head>    
+						
+<p>The inscription is one of a large number of extracts from sacrificial calendars inscribed or recodified in the early Hellenistic period on Rhodes and disseminated at various local sanctuaries on the island, presumably as punctual reminders and short regulations in and of themselves. The excerpts perhaps come from the general sacrificial calendar of the unified city of Rhodes, though they may also have come from the individual calendars of consistuent parts of the Rhodian state. Most of the known examples come from Kamiros and Lindos, cf. here e.g. <ref target="CGRN_110">CGRN 110</ref> and <ref target="CGRN_115">CGRN 115</ref>, respectively. For a general discussion of these excerpts, see Segre and Carbon forthc.</p>
+							
+<p>Despite the text presented in Blinkenberg and generally adopted here, much of the content and context of the calendrical regulation remains unclear. One good parallel for the present regulation is probably <bibl type="abbr" n="Lindos II">Lindos II</bibl> 182 / <bibl type="abbr" n="LSS">LSS</bibl> 87B, a contemporaneous fragment of a marble plaque, which preserves a partially similar excerpt, albeit a more fragmentary one: <supplied reason="lost">Σμινθίου (?)</supplied> <supplied reason="lost">δ</supplied>ωδε<unclear>κ</unclear><supplied reason="lost">άται</supplied> | <supplied reason="lost">Δάματρι (?)</supplied> <supplied reason="lost">ὗς</supplied> κυεῦ<supplied reason="lost">σα</supplied> | <supplied reason="lost">θύει</supplied> <supplied reason="lost">ἰε</supplied>ροθύτα<supplied reason="lost">ς</supplied>. That being said, the restorations proposed by Blinkenberg in this case are relatively uncertain. To begin with, the date of the sacrifice is unclear: the month could either
+have been Sminthios (in the spring, ca. March/April; cf. the reconstruction of this as the 8th month of the Rhodian calendar by Badoud; for a different view, see Iversen) or Hyakinthios (in the summer; 11th month, ca. June/July); the precise date is also different in both excerpts. Moreover, the identity of the recipient(s) of the sacrifice(s) is not beyond question, nevertheless, the inclusion of one or more pregnant animals strongly suggests the cult of Demeter or similar goddesses. For a pregnant sow, cf. here e.g. <ref target="CGRN_25">CGRN 25</ref> (Paiania), lines A29-32 (Demeter and perhaps Kore); <ref target="CGRN_32">CGRN 32</ref> (Thorikos), lines 36-39 (to Demeter); <ref target="CGRN_156">CGRN 156</ref> (Mykonos), line 12 (to Demeter), and <ref target="CGRN_222">CGRN 222</ref> (Andania), lines 33 and 68 (to Demeter). Note additionally that the traces ΑΙ in line 3, instead of being interpreted as [κ]αὶ and following another offering, might instead suggest a dative feminine ending, and thus introduce a separate entry of an offering to a differently named goddess (e.g. [Κόρ]αι?), though the evidence shows that a pregnant sow is usually the offering for Demeter. The cult of Demeter and Kore is otherwise attested on the Lindian Acropolis, notably under the noteworthy appellation of Damateres: cf. <bibl type="abbr" n="Lindos II">Lindos II</bibl> 183 (alongside a Zeus Damatrios also). For the Damateres at Kamiros, see <ref target="CGRN_149">CGRN 149</ref> (also in Sminthios, thus making this month much more likely here at Lindos too); for the cult of the potentially parallel goddesses called Materes at Eleutherna, see <ref target="CGRN_210">CGRN 210</ref>, lines B3-4.</p>
+
+<p>Line 4: Instead of Blinkenberg's singular official, Segre presumed that the whole board of <foreign>hiarothytai</foreign> performed the sacrifice as part of their civic duty (this inference is followed by Sokolowski); that may be correct, but it is also impossible to demonstrate on the basis of current evidence. At any rate, it may be correct to infer that this sacrifice, if properly assigned to Demeter, was important for the community of Lindos, also given its situation on the Acropolis. A priestess of Demeter is attested in <bibl type="abbr" n="Lindos II">Lindos II</bibl> 261, but she appears to have had no explicit role here. Instead, the sacrifice is performed by one or more of the civic <foreign>hiarothytai</foreign>; for the role of the ἀρχιεροθύτας in ritual performance near the acropolis at Lindos, see <ref target="CGRN_62">CGRN 62</ref>, lines 2-3; for a specific ἰαροθύτας belonging to a civic subdivision, see <ref target="CGRN_63">CGRN 63</ref>, line 4. </p>
+
+<p>Lines 5-6: Though Blinkenberg and Sokolowski present "indéchiffrables" letters here, one may easily recognise (Carbon) traces of a common expression in the excerpts of the sacrificial calendar at Lindos, namely τὰ θυθέντα αὐτεῖ καταχρῆσθαι. This clause entails that the portions of meat deriving from the sacrificial animals were consumed on the spot and thus were not to be taken away; cf. here <ref target="CGRN_32">CGRN 32</ref> with commentary on lines 10-12, <ref target="CGRN_62">CGRN 62</ref>, lines A3-4 and B4-5, and <ref target="CGRN_141">CGRN 141</ref>, lines 5-6.</p>
+						
+					</div>
+			</body>
+    	</text>
+	</TEI>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_79" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno type="filename">CGRN 79</idno>: <rs type="textType" key="sacrificial regulation">Regulation</rs> concerning sacrificial provisions for the Thesmophoria in the deme of Cholargos</title>
+                <author>Jan-Mathieu Carbon</author>
+                <author>Saskia Peels</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+                <availability>
+                    <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+                    <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+                <physDesc>
+                    <objectDesc>
+                        <supportDesc><support><p>Lower portion of a marble 
+                            <rs type="objectType">stele</rs>. The stone is broken above.</p>
+                            <p><dimensions>
+                                <height unit="cm">50</height>
+                                <width unit="cm">25.5</width>
+                                <depth unit="cm">4-6</depth>
+                            </dimensions></p>
+                        </support>
+                        </supportDesc>
+                        <layoutDesc><layout><p>The letters are irregular and according to Schwenk are "poorly cut". The lines registers are slanted and the text is non-stoichedon. A dittography has been corrected through erasure at the end of line 18.</p>
+                            <height/>
+                        </layout></layoutDesc>
+                    </objectDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <p><origDate notBefore="-0334" notAfter="-0333">334/3 BC</origDate></p>
+                        <p><desc>Justification: eponymous archon (Ktesikles, lines 23-24; cf. also Schwenk)</desc></p>
+                    </origin>
+                    <provenance><p><placeName type="ancientFindspot" key="Cholargos" n="Attica"><ref target="http://pleiades.stoa.org/places/579885" type="external">Cholargos</ref></placeName>, in Attica. The exact findspot is unknown. Now in the Louvre Museum (inv. no. MND 957).</p>
+                    </provenance> 
+                </history>
+            </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p>Encoded for EpiDoc schema 8.17 on 30-06-2014 by S Peels.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="lat">Latin</language>
+                <language ident="fre">French</language>
+                <language ident="ger">German</language>
+                <language ident="gre">Modern Greek</language>
+                <language ident="ita">Italian</language>
+            </langUsage>
+            <textClass/>
+        </profileDesc>
+        <revisionDesc>
+            <change>Revised by XX in 20XX.</change>     
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><graphic url="x"><desc/></graphic></facsimile> 
+    <text>
+        <body>	
+            <div type="bibliography">
+                
+                <head>Bibliography</head>
+                <p>Edition here based on <bibl type="abbr" n="IG II²">IG II²</bibl> 1184.
+                </p>
+                <p>Other edition:
+                    <bibl type="author_date" n="Michon 1913">Michon 1913</bibl>.
+                </p>
+                <p> Cf. also:
+                    Sokolowski <bibl type="abbr" n="LSS">LSS</bibl> 124; <bibl type="abbr" n="Schwenk">Schwenk</bibl> 26.
+                </p>
+                <p>Further bibliography:	     
+                    <bibl type="author_date" n="Broneer 1942">Broneer 1942</bibl>: 271-272;
+                    <bibl type="author_date" n="Detienne 1979">Detienne 1979</bibl>: 199-200;
+                    <bibl type="author_date" n="Parker 2005a">Parker 2005a</bibl>: 270-283, 484;
+                    <bibl type="author_date" n="Connelly 2007">Connelly 2007</bibl>: 200.
+                    
+                </p>
+            </div>
+            <div type="edition">
+                <head>Text</head>
+                <ab>
+                    <lb/><gap reason="lost" extent="unknown" unit="character"/> 
+                    
+<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/> τοὺς <name type="personnel"><w lemma="ἱερομνήμων">ἱε<supplied reason="lost">ρ</supplied>
+                        
+<lb xml:id="line_2" n="2" break="no"/><supplied reason="lost">ο</supplied>μνήμονας</w></name>· <space extent="unknown" unit="character"/>
+                    
+<lb xml:id="line_3" n="3"/> τὰς δὲ <name type="personnel"><w lemma="ἄρχων">ἀρχούσας</w></name> <w lemma="κοινός">κοινεῖ</w> <w lemma="ἀμφότερος">ἀμφοτ
+                        
+<lb xml:id="line_4" n="4" break="no"/>έρας</w> <w lemma="δίδωμι">διδόναι</w> τῆ<choice><corr>ι</corr><sic>σ</sic></choice> <name type="personnel"><w lemma="ἱέρεια">ἱερεία<choice><corr>ι</corr><sic>σ</sic></choice></w></name> <w lemma="εἰς">εἰς</w>
+                    
+<lb xml:id="line_5" n="5"/> τὴν <name type="festival"><w lemma="ἑορτή">ἑορτὴν</w></name> καὶ τὴν <w lemma="ἐπιμέλεια">ἐπιμέλεια
+                        
+ <lb xml:id="line_6" n="6" break="no"/>ν</w> τῶν <name type="festival"><w lemma="θεσμοφόρια">Θεσμοφορίων</w></name> <w lemma="ἡμιέκτεων">ἡμιεκτεῖον</w>
+                    
+<lb xml:id="line_7" n="7"/> <name type="vegetal"><w lemma="κριθή">κριθῶν</w></name>, <w lemma="ἡμιέκτεων">ἡμιεκτεῖον</w> <name type="vegetal"><w lemma="πυρός">πυρῶν</w></name>, <w lemma="ἡμιέκτεων">ἡμι
+                        
+<lb xml:id="line_8" n="8" break="no"/>εκτέον</w> <name type="vegetal"><w lemma="ἄλφιτον">ἀλφίτων</w></name>, <w lemma="ἡμιέκτεων">ἡμιεκτέον</w> <name type="vegetal"><w lemma="ἄλευρον">ἀλ
+                            
+<lb xml:id="line_9" n="9" break="no"/><supplied reason="lost">ε</supplied>ύρων</w></name>, <name type="vegetal"><w lemma="ἰσχάς">ἰσχάδων</w></name> <w lemma="ἡμιέκτεων">ἡμιεκτέον</w>, <w lemma="χοῦς">χο<unclear>ᾶ</unclear></w>
+                    
+                    <lb xml:id="line_10" n="10"/>  <name type="liquid"><w lemma="οἶνος">οἴνου</w></name>, <w lemma="ἡμίχοον">ἡμίχουν</w> <name type="liquid"><w lemma="ἔλαιος">ἐλαίου</w></name>, <w lemma="δύο">δύο</w> <w lemma="κοτύλη">κοτ
+                        
+ <lb xml:id="line_11" n="11" break="no"/>ύλας</w> <name type="liquid"><w lemma="μέλι">μέλιτος</w></name>, <name type="vegetal"><w lemma="σήσαμον">σησάμων</w></name> <name type="colour2"><w lemma="λευκός">λευκῶν</w></name> <w lemma="χοῖνιξ">χοί
+                            
+<lb xml:id="line_12" n="12" break="no"/>νικα</w>, <name type="colour2"><w lemma="μέλας">μελάνων</w></name> <w lemma="χοῖνιξ">χοίνικα</w>, <name type="vegetal"><w lemma="μήκων"><supplied reason="lost">μ</supplied>ήκωνος</w></name>
+                    
+<lb xml:id="line_13" n="13"/> <w lemma="χοῖνιξ">χοίνικα</w>, <name type="dairy"><w lemma="τυρός">τυροῦ</w></name> <w lemma="δύο">δύο</w> <name type="dairy"><w lemma="τροφαλίς">τροφαλίδας</w></name> <w lemma="μή">μὴ</w>
+                                
+<lb xml:id="line_14" n="14"/> <w lemma="ἐλάσσων">ἔλαττον</w> <w lemma="ἤ">ἢ</w> <w lemma="στατηριαῖος">στατηρια<supplied reason="lost">ί</supplied>αν</w> <w lemma="ἑκάτερος">ἑκατέραν</w>
+                    
+<lb xml:id="line_15" n="15"/> καὶ <name type="vegetal"><w lemma="σκόροδον">σκόρδων</w></name> <w lemma="δύο">δύο</w> <w lemma="στατήρ">στατῆρας</w> καὶ <name type="object"><w lemma="δαΐς">δᾶιδ
+                                
+<lb xml:id="line_16" n="16" break="no"/><supplied reason="lost">α</supplied></w></name> <w lemma="μή">μὴ</w> <w lemma="ἐλάσσων">ἐλάττονος</w> <w lemma="ἤ">ἢ</w> <w lemma="δύο">δυεῖν</w> <w lemma="ὀβολός">ὀβολοῖν</w> καὶ
+                                    
+                    <lb xml:id="line_17" n="17"/> <w lemma="ἀργύριον">ἀργυρίου</w> <num value="4">U+10142U+10142U+10142U+10142</num> <w lemma="δραχμή">δραχμάς</w>· <w lemma="οὗτος">ταῦτα</w> δὲ <w lemma="δίδωμι">δι
+                        
+ <lb xml:id="line_18" n="18" break="no"/>δόναι</w> τὰς <name type="personnel"><w lemma="ἄρχων">ἀρχούσας</w></name>· <w lemma="ὅπως">ὅπως</w> δ’ <w lemma="ἄν">ἂν</w> <w lemma="γίγνομαι">γί<del rend="erasure">γ<unclear>ι</unclear></del>
+                            
+<lb xml:id="line_19" n="19" break="no"/>γνηται</w>  <w lemma="ὑπέρ">ὑπὲρ</w> τοῦ <name type="group"><w lemma="δῆμος">δήμου</w></name> τοῦ <name type="ethnic" key="Cholargos"><w lemma="χολαργεύς">Χολαργέω
+                                
+<lb xml:id="line_20" n="20" break="no"/> ν</w></name> <w lemma="κατά">κατὰ</w> τὰ <name type="authority"><w lemma="γράμμα">γράμματα</w></name>  <w lemma="εἰς">εἰς</w> τὸν <w lemma="ἅπας">ἅπα
+                                    
+<lb xml:id="line_21" n="21" break="no"/> ντα</w> <w lemma="χρόνος">χρόνον</w>, <w lemma="ἵστημι">στῆσαι</w> <objectType key="stele"><w lemma="στήλη">στήλην</w></objectType> καὶ <w lemma="ἀναγράφω">ἀν<supplied reason="lost">α</supplied>            
+    
+<lb xml:id="line_22" n="22" break="no"/> γράψαι</w> <w lemma="ὅδε">τόδε</w> τὸ <name type="authority"><w lemma="ψήφισμα">ψήφισμα</w></name> <w lemma="ἐν">ἐν</w> <objectType key="stele"><w lemma="στήλη">στήλε<supplied reason="lost">ι</supplied></w></objectType>
+                    
+<lb xml:id="line_23" n="23"/> <w lemma="λίθινος">λιθίνει</w> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><name type="epithet" key="Pythios"><w lemma="Πύθιος">Πυθίωι</w></name></name> τοὺς <w lemma="ἐπί">ἐπὶ</w> Κτησι
+                    
+<lb xml:id="line_24" n="24" break="no"/> <supplied reason="lost">κ</supplied>λέ<supplied reason="lost">ο</supplied>υς <name type="personnel"><w lemma="ἄρχων">ἄρχοντος</w></name>· <w lemma="ὅς">ὅ</w> <w lemma="τις">τι</w> δ’ <w lemma="ἄν">ἂν</w> <w lemma="ἀναλίσκω">ἀναλώσ
+                                
+<lb xml:id="line_25" n="25" break="no"/> ωσι</w> <w lemma="λογίζομαι">λ<supplied reason="lost">ογ</supplied>ίσασθαι</w> <name type="ethnic" key="Cholargos"><w lemma="χολαργεύς">Χολαργεῦσιν</w></name>.
+
+ <lb/><space quantity="16" unit="line"/>
+              
+                </ab>	
+                
+            </div>
+            <div type="translation" xml:lang="eng">
+                <head>Translation</head>
+                <p>
+                    [...] the <foreign>hieromnemones</foreign>. </p>
+                    <p>Both <foreign>archousai</foreign>, together, are to give the priestess for (5) the festival and the organisation of the Thesmophoria (the following): a half-<foreign>hekteus</foreign> of barley, a half-<foreign>hekteus</foreign> of wheat, a half-<foreign>hekteus</foreign> of barley-groats, a half-<foreign>hekteus</foreign> of wheat-meal, a half-<foreign>hekteus</foreign> of figs, a <foreign>chous</foreign> (10) of wine, a half-<foreign>chous</foreign> of olive-oil, two <foreign>kotylai</foreign> of honey, a <foreign>choinix</foreign> of white sesame seeds, a <foreign>choinix</foreign> of black sesame seeds, a <foreign>choinix</foreign> of poppy, two fresh cheeses (weighing) not less than a stater each (15) and two staters (weight) of garlic, a torch (worth) no less than two obols and 4 drachmae of silver. The <foreign>archousai</foreign> give these things. And to ensure that this will happen (20) for the sake of the deme of Cholargos, according to the writings for all time, a stele is to be put up and inscribed with this decree in the Pythion by those in office during the archonship of Ktesikles. They will charge what they spend (25) to the inhabitants of Cholargos. 
+                </p>
+            </div>
+            <div type="translation" xml:lang="fre">
+                <head>Traduction</head>
+            <p>
+                [...] les hiéromnémons.</p>
+                    <p>(Voici) ce que les <foreign>archousai</foreign> donnent toutes deux en commun à la prêtresse pour (5) la fête et l’organisation des Thesmophories : un demi-setier d’orge, un demi-setier de blé, un demi-setier de farine d’orge, un demi-setier de farine de blé, un demi-setier de figues, un <foreign>chous</foreign> (10) de vin, un demi-<foreign>chous</foreign> d'huile, deux kotyles de miel, un chénice de sésame blanc, un chénice de (sésame) noir, un chénice de pavot, deux fromages frais (ne pesant) pas moins d’un statère chacun, (15) de l’ail pour deux statères, des flambeaux (ne valant) pas moins de deux oboles, et 4 drachmes d’argent. C’est ce que donnent les <foreign>archousai</foreign>. Afin que cela soit à jamais dans l'intérêt du dème de Cholargos, (20) selon ce qui est écrit, qu'une stèle soit dressée dans le Pythion et que le présent décret soit transcrit sur une stèle de pierre par ceux qui sont en fonction sous l’archontat de Ktesiklès. Qu'ils reportent la dépense (25) sur les habitants de Cholargos.</p>
+                    
+  
+            </div>
+            <div type="commentary">    
+                <head>Commentary</head>    
+                <p>This decree (cf. line 22), emanating from the Attic deme of Cholargos, is only fragmentarily preserved, but has stimulated a long-standing commentary on the role of women in ancient rituals: cf. notably Detienne. An earlier section of the regulation perhaps dealt with the responsibilities of other officials in the deme, the <foreign>hieromnemones</foreign> (see below, lines 1-2). Much of the remainder, the bulk of the extant text (lines 3-18), is a section concerned with the organisation of the festival of the Thesmophoria, very probably the festival occasion that was held at the level of the deme itself. This section records the duties of the two female officials called <foreign>archousai</foreign>, listing the various provisions which they must give to the priestess, for the rituals with which she is charged. As Isaeus informs us, two "female chiefs" were chosen by the wives of demesmen for the Thesmophoria (Is. 8.19-20; the deme in question here may be Phlya). It was probably expected that the women's husbands would pay for these provisions; Is. 3.80 describes how it is the demesmen who pay to "let the women feast" (ἑστιᾶν τὰς γυναῖκας). Though this is not explicitly specified, the provisions in the inscription might be connected to the third day of the festival, on which the Kalligeneia (Beautiful Birth) was celebrated with a meal (after a day of fasting, the Nesteia), though they could also have been used on the preceding days (cf. e.g. the torch in lines 15-16, suggesting a nightime celebration). As such, the inscription does not provide us with any other information concerning the practicalities of the office of the <foreign>archousai</foreign>. They probably helped the priestess in her duties of supervising the women and performing the rites, but Isaeus (8.19-20) also speaks of ποιεῖν τὰ νομιζόμενα. The twofold number of the <foreign>archousai</foreign>, apparently common in at least two demes, also remains intriguing in this light, though we can only speculate: were the women divided into two groups? Or were the two <foreign>archousai</foreign> somehow connected with the pairing of Demeter and Kore, despite only a single priestess being mentioned in the text?</p>
+                <p>Of the context of the decree, not much else is known. The inscription concludes with fairly standard decree formulae (lines 18-25), which incidentally provides us with a date for the text. The decree was to be set up in the Pythion, very likely the local sanctuary of Apollo Pythios in the deme. This was perhaps a location where official publications of the deme were displayed, or it may have been close to the site of the deme's Thesmophorion. The officials responsible for the inscribing have been omitted in line 23 (perhaps due to the poor copying of the cutter; cf. also lines 4 and 18, and the general appearance of the text). Cholargos is one of the many demes in which local Thesmophoria were organised; for the Thesmophoria in Athens, see Parker (for a different view, see Broneer, who thinks that a local committee appointed in the deme provided the contributions for the city Thesmophoria on 11-13 Pyanopsion). For local, deme celebrations of festivals of Demeter, see here <ref target="http://cgrn.ulg.ac.be/CGRN_25">CGRN 25</ref> (Paiania), <ref target="http://cgrn.ulg.ac.be/CGRN_32">CGRN 32</ref> (Thorikos), lines 14, 38, 43-44. For rites involving female authority, torches and νομιζόμενα, perhaps analogous to the Thesmophoria, see <ref target="http://cgrn.ulg.ac.be/CGRN_97">CGRN 97</ref> (Mylasa), line 5; for provisions for the Thesmophoria on Delos, see <bibl type="abbr" n="IG XI">IG XI</bibl>.2 287.</p>
+                
+<p>Lines 1-2: <foreign>Hieromnemones</foreign>, literally "sacred rememberers" or "remembers of sacred matters", are attested in wide-ranging capacities (such as the organisation of festivals, the care of temple finances and temple property). The word concludes a preceding section of the decree; most of line 2 has been left empty to mark the end of this section.</p>
+                    
+<p>Line 4: Michon plausibly corrected τῆς ἱερείας to τῆι ἱερείαι. Sokolowski took this as a genitive of quality (i.e. reading "the <foreign>archousai</foreign>, as priestesses"), but it is not wholly clear that the <foreign>archousai</foreign> acted as priestesses (cf. the introduction to the Commentary, above). The correction to τῆι ἱερείαι, with the priestess as the indirect object and recipient of these provisions (so that she can organise the festival) perhaps yields a better sense. This priestess is most probably the priestess of Demeter (and Kore?) in the deme of Cholargos.</p> 
+                    
+<p>Lines 6-15: The items in this elaborate list seem to include both offerings and libations, as well as perhaps provisions for a meal. It is tempting to read a specific application for the items listed, such as for instance the making of sesame and honey cakes, which are known to have been frequently used in rituals in honour of Demeter and Kore (see esp. <bibl type="abbr" n="LSCG">LSCG</bibl> 63 from Melita in Lakonia); see also Michon for further discussion of the uses of these provisions. Beyond such general inferences, the practical use of the provisions cannot be precisely determined. Moreover, the inventory closely resembles other analogous lists of offerings and provisions, for example the worship of Dionysus in the civic sacrificial calendar of Miletos (barley, wheat, honey, cheese, garlic and a torch, <ref target="http://cgrn.ulg.ac.be/CGRN_6">CGRN 6</ref>, lines 4-5), and it finds parallels in other such lists, for instance the inclusion of figs or sesame (among others) in the provisions for the Posideia and the Eilethyaia respectively on Delos, <ref target="http://cgrn.ulg.ac.be/CGRN_199">CGRN 199</ref>; see these commentaries for further discussion. Though the term τροφαλίς occurs in literary sources (cf. <bibl type="abbr" n="LSJ">LSJ</bibl> s.v.), we have here the only epigraphical occurrence of this type of "fresh cheese". This cheese, and also garlic, are measured in terms of the unit called στατήρ, almost certainly denoting weight rather than price (cf. Kirchner).</p>
+                    
+<p>Lines 15-16: Cf. Ar. <title>Thesm.</title> 280 and 655, which mention the use of lamps and torches in connection with the nocturnal celebration of the Thesmophoria. The minimum requirement of two obols will not have resulted in a very substantial torch, perhaps simply one for the use of the priestess herself.</p>
+                    
+<p>Line 17: This sum of money is most likely to be interpreted as a payment or perquisite for the priestess. Cp. priestly ἱερώσυνα in Athens, which could involve portions of meat, other supplies and sums of money (e.g. <ref target="http://cgrn.ulg.ac.be/CGRN_57">CGRN 57</ref>, Aixone, <foreign>passim</foreign>, and  <ref target="http://cgrn.ulg.ac.be/CGRN_103">CGRN 103</ref>, Phrearrhioi, line 5).</p>
+                    
+ <p>Line 20-22: The reference to "writings" (τὰ γράμματα, only here instead of the more usual τὰ γεγραμμένα) emphasizes the "writ" of the regulation.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_187" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 187</idno>: <rs type="textType" key="priestly contract">Law and contract of sale for the priesthood</rs> of Sarapis at Magnesia-on-the-Maeander</title>
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Sylvain Lebreton</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+
+		<p> Marble quadrangular <rs type="objectType">block</rs>, broken on the right-hand side; the block seems to have been part of a pillar.</p>
+			<p> <dimensions>
+				<height unit="cm">76</height>
+				<width unit="cm">90</width>
+				<depth unit="cm">77</depth>
+			</dimensions></p>
+
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p>The text is readable only until 58 cm from the left-hand border. The letters have been strongly erased on the right-hand side.</p>
+			<p> Letters: <height unit="cm">unknown</height></p>
+		</layout></layoutDesc>
+
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+		<p><origDate notBefore="-0200" notAfter="-0175">beginning of the 2nd century BC</origDate></p>
+
+		<p><desc>Justification: lettering (Kern).</desc></p>
+						</origin>
+						<provenance><p><ref target="http://pleiades.stoa.org/places/599778" type="external"><placeName type="ancientFindspot" key="Magnesia-on-the-Maeander" n="Asia_Minor_and_Anatolia">Magnesia-on-the-Maeander</placeName></ref>. Found in a vineyard, east of the stadium, in 1893. Today at the site of Magnesia-on-the-Maeander (?). </p>
+						</provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-03-2016 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+
+	    			<p> Edition here based on Kern <bibl type="abbr" n="I.Magnesia">I.Magnesia</bibl> 99, with restorations of Dittenberger (<bibl type="abbr" n="SIG³">SIG³</bibl> 554) and <bibl type="abbr" n="SEG">SEG</bibl> 59, 1330, for lines 9-13.</p>
+
+	    			<p> Cf. also: Dittenberger <bibl type="abbr" n="SIG²">SIG²</bibl> 554; Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 34;
+	    				Bricault <bibl type="abbr" n="RICIS">RICIS</bibl> 304/0701;
+	    				<bibl type="abbr" n="SEG">SEG</bibl> 59, 1330.
+	    			</p>
+
+	    			<p> Further bibliography:
+	    				<bibl type="author_date" n="Sokolowski 1974">Sokolowski 1974</bibl>: 445-448;
+	    				<bibl type="author_date" n="Schuler 1998">Schuler 1998</bibl>: 119 n. 102;
+	    				<bibl type="author_date" n="Lupu 2003b">Lupu 2003b</bibl>: 331;
+<bibl type="author_date" n="Rigsby 2009">Rigsby 2009</bibl>: 77-78.
+
+	    			</p>
+
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+
+	    			<ab>
+
+	    				<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+
+
+<lb xml:id="line_1" n="1"/> <gap reason="lost" extent="unknown" unit="character"/> <name type="authority"><w lemma="καθότι"><supplied reason="lost">κ</supplied>αθότι</w></name> καὶ <orig>το</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_2" n="2" break="no"/><orig>ται</orig> <w lemma="ἐν">ἐν</w> τῶι <w lemma="ἐνιαυτός">ἐνιαυτῶι</w> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὅσος"><supplied reason="lost">ὅσα</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="δεῖ"><supplied reason="lost">δεῖ</supplied></w> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θύειν</supplied></w></name>
+
+<lb xml:id="line_3" n="3"/> <supplied reason="lost">τ</supplied>ῶι <name type="deity" key="Sarapis"><w lemma="θεός">θεῶι</w></name> <w lemma="παρίστημι">παραστήσου<supplied reason="lost">σιν</supplied></w> <supplied reason="lost">τοῦ</supplied> <supplied reason="lost">μὲν</supplied> <w lemma="πάρειμι"><supplied reason="lost">παρόντος</supplied></w> <w lemma="ἐνιαυτός"><supplied reason="lost">ἐνιαυ</supplied>
+
+<lb xml:id="line_4" n="4" break="no"/>τοῦ</w> οἱ <name type="title"><w lemma="οἰκονόμος">οἰκονόμοι</w></name> Φαρσαλ<supplied reason="lost">ίωι</supplied><supplied reason="lost">,</supplied> <supplied reason="lost">οἱ</supplied> <supplied reason="lost">τὰ</supplied> <name type="animal" key="generic"><name type="sacrifice"><w lemma="θῦμα"><supplied reason="lost">θύματα</supplied></w></name></name> <supplied reason="lost">τῶν</supplied> <w lemma="ἄλλος"><supplied reason="lost">ἄλ</supplied>
+
+<lb xml:id="line_5" n="5" break="no"/><supplied reason="lost">λ</supplied>ων</w> <name type="festival"><w lemma="ἑορτή">ἑορτῶν</w></name> <w lemma="παρίστημι">παριστάντες</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_6" n="6"/> <gap reason="lost" quantity="2" unit="character"/><orig>ν</orig>, τὰ δὲ <name type="sacrifice"><w lemma="θύω">θυθέντα</w></name> <name type="meal"><w lemma="καταναλίσκω">καταναλισκέ<supplied reason="lost">τ</supplied>ω<supplied reason="lost">σαν</supplied></w></name> <w lemma="αὐτοῦ"><supplied reason="lost">αὐτοῦ</supplied></w><supplied reason="lost">·</supplied> <supplied reason="lost">εἰς</supplied>
+
+<lb xml:id="line_7" n="7"/> <supplied reason="lost">δ</supplied>ὲ τὸν <w lemma="ἄλλος">ἄλλον</w> <w lemma="χρόνος">χρόνον</w> <w lemma="προσμισθόω">προσμισθούσθωσαν</w> οἱ <name type="title"><w lemma="οἰκονόμος"><supplied reason="lost">οἰκονόμοι</supplied></w></name>
+
+<lb xml:id="line_8" n="8"/> <supplied reason="lost">τ</supplied>ὰ <name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name> <w lemma="καθότι">καθότι</w> <name type="authority"><w lemma="γράφω">γέγραπται</w></name>· <w lemma="καθίστημι">καταστήσει</w> <unclear>δ</unclear>ὲ κ<supplied reason="lost">αὶ</supplied> <name type="structure"><w lemma="βωμός"><supplied reason="lost">βωμὸν</supplied></w></name> <w lemma="ἐν"><supplied reason="lost">ἐν</supplied></w> <supplied reason="lost">τῶι</supplied>
+
+<lb xml:id="line_9" n="9"/> <name type="structure"><w lemma="τέμενος"><supplied reason="lost">τ</supplied>εμένει</w></name> τῶι <name type="genericOffering"><w lemma="ἀνατίθημι">ἀνατεθέντι</w></name> τῶι <name type="deity" key="Sarapis"><w lemma="θεός">θεῶι</w></name>· <w lemma="λαμβάνω">λήψεται</w> δ<supplied reason="lost">ὲ</supplied> <supplied reason="lost">τῶν</supplied> <name type="sacrifice"><w lemma="θύω"><supplied reason="lost">θυομένων</supplied></w></name>
+
+<lb xml:id="line_10" n="10"/> <w lemma="ἐν"><supplied reason="lost">ἐ</supplied>ν</w> τῶι <name type="structure"><w lemma="τέμενος">τεμένει</w></name> <w lemma="ἀπό">ἀφ᾽</w> <w lemma="ἕκαστος">ἑκάστου</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερείου</w></name> <name type="portion"><w lemma="σκέλος">σκέλος</w></name> καὶ <supplied reason="lost">τῶν</supplied> <name type="genericOffering"><w lemma="τίθημι"><supplied reason="lost">τιθεμένων</supplied></w></name>
+
+<lb xml:id="line_11" n="11"/> <supplied reason="lost">τ</supplied>ῶι <name type="deity" key="Sarapis"><w lemma="θεός">θεῶι</w></name> τὰ <w lemma="τρίτος">τρίτα</w> <name type="portion"><w lemma="μέρος">μέρη</w></name>· <w lemma="ἐν">ἐν</w> <w lemma="ἄλλος">ἄλλωι</w> δὲ <name type="locality"><w lemma="τόπος">τόπωι</w></name> <w lemma="μή">μὴ</w> <w lemma="καθίστημι"><supplied reason="lost">καθιστάτω</supplied></w> <name type="structure"><w lemma="βωμός"><supplied reason="lost">βω</supplied>
+
+<lb xml:id="line_12" n="12" break="no"/><supplied reason="lost">μ</supplied>ὸν</w></name> <name type="deity" key="Sarapis"><w lemma="Σάραπις">Σαράπιδος</w></name>· <w lemma="εἰ">εἰ</w> δὲ <w lemma="μή">μή</w>, <name type="punishment"><w lemma="ὀφείλω">ὀφειλέτω</w></name> τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name> <w lemma="δραχμή">δ<supplied reason="lost">ραχμὰς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_13" n="13"/> <supplied reason="lost">κ</supplied>αὶ ὁ <name type="locality"><w lemma="τόπος">τόπος</w></name> <w lemma="εἰμί">ἔστω</w> τῆς <name type="group"><w lemma="πόλις">πόλ<supplied reason="lost">εω</supplied>ς</w></name>· <w lemma="φαίνω">φαινέτω</w> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">ὁ</supplied> <w lemma="βούλομαι"><supplied reason="lost">βουλόμενος</supplied></w> <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <supplied reason="lost">τῶι</supplied>
+
+<lb xml:id="line_14" n="14"/> <w lemma="ἥμισυς"><supplied reason="lost">ἡ</supplied>μίσει</w> <w lemma="πρός">πρὸς</w> τοὺς <name type="title"><w lemma="εὔθυνος">εὐθύνο<supplied reason="lost">υ</supplied>ς</w></name>, οἱ δὲ <name type="title"><w lemma="εὔθυνος">εὔθυνοι</w></name> <surplus><unclear>καὶ</unclear></surplus> <surplus><unclear>οἱ</unclear></surplus> <w lemma="εὔθυνος"><surplus><unclear>ε</unclear>ὔθυν<supplied reason="lost">οι</supplied></surplus></w> <w lemma="εἰσάγω"><supplied reason="lost">εἰσαγόν</supplied>
+
+<lb xml:id="line_15" n="15" break="no"/><supplied reason="lost">των</supplied></w> <w lemma="εἰς">εἰς</w> τὸ <w lemma="κατά">καθ᾽</w> <w lemma="ἑξάμηνος">ἑξάμηνον</w> <w lemma="παραγίγνομαι">παραγινόμενον</w> <w lemma="δικαστήριον">δ<supplied reason="lost">ικαστήριον</supplied></w><supplied reason="lost">·</supplied> <w lemma="λαμβάνω"><supplied reason="lost">λαμβα</supplied>
+
+<lb xml:id="line_16" n="16" break="no"/><supplied reason="lost">νέτω</supplied>σαν</w> δὲ οἱ <name type="title"><w lemma="οἰκονόμος">οἰκονόμοι</w></name> <w lemma="ἐκ">ἐκ</w> τῶν <name type="vegetal"><w lemma="ξύλινος">ξυλίνων</w></name> <w lemma="ὦνος">ὠ<supplied reason="lost">νῶν</supplied></w> <w lemma="δραχμή"><supplied reason="lost">δραχ</supplied>
+
+	<lb xml:id="line_17" n="17" break="no"/><supplied reason="lost">μ</supplied>ὰς</w> <w lemma="τρεῖς">τρεῖς</w> <supplied reason="lost">κ</supplied>αὶ <w lemma="ἐκ">ἐκ</w> τῶν <name type="vegetal"><w lemma="σιτηρός">σιτηρῶν</w></name> <w lemma="ὦνος"><supplied reason="lost">ὠ</supplied>νῶν</w> <w lemma="δραχμή"><unclear>δ</unclear><supplied reason="lost">ραχ</supplied><unclear>μὴ</unclear>ν</w> <w lemma="εἷς">μ<supplied reason="lost">ίαν</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀ</supplied>
+
+<lb xml:id="line_18" n="18" break="no"/><supplied reason="lost">πο</supplied>δότωσαν</w> τῶι <name type="personnel">ἱερεῖ</name>· <w lemma="ἐξουσία">ἐξουσία</w> δὲ <w lemma="εἰμί">ἔστω</w> τῶ<supplied reason="lost">ι</supplied> <name type="group"><w lemma="δῆμος">δή<supplied reason="lost">μωι</supplied></w></name> <w lemma="ἀείρω"><supplied reason="lost">ἆραί</supplied></w> <supplied reason="lost">τι</supplied> <supplied reason="lost">τοῦ</supplied>
+
+<lb xml:id="line_19" n="19"/><gap reason="lost" quantity="4" unit="character"/> <name type="authority"><w lemma="νόμος"><supplied reason="lost">νόμο</supplied>υ</w></name> ἢ <w lemma="ὑποφράφω"><supplied reason="lost">ὑπ</supplied>ογράψαι</w> <w lemma="ἕτερος">ἕτερον</w> <w lemma="ἕως">ἕως</w> τῆς <w lemma="ἀναφορά">ἀναφορᾶς</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_20" n="20"/><w lemma="ἐπί">ἐπί</w> Στρατοκλείους· <space extent="unknown" unit="character"/>
+
+<lb xml:id="line_21" n="21"/> <supplied reason="lost">τῶι</supplied> <w lemma="πρίαμαι">πριαμένωι</w> τὴν <name type="personnel"><w lemma="ἱερωσύνη">ἱερεωσύνην</w></name> τοῦ <name type="deity" key="Sarapis"><w lemma="Σάραπις"><supplied reason="lost">Σαράπιδος</supplied></w></name>
+
+<lb xml:id="line_22" n="22"/> <gap reason="lost" quantity="4" unit="character"/>θηι <w lemma="ὅταν">ὅταν</w> <w lemma="παραλαμβάνω">παραλάβηι</w> τὴν <name type="personnel"><w lemma="ἱερωσύνη">ἱερεω<supplied reason="lost">σύνην</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_23" n="23"/> <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">τὴ</supplied>ν <name type="authority"><w lemma="διαγραφή">διαγραφὴν</w></name> <w lemma="κατά">καθ᾿</w> <w lemma="ὅς">ἣν</w> <w lemma="πρίαμαι">ἐπρίατο</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+	    				<lb xml:id="line_24" n="24"/> <gap reason="lost" quantity="6" unit="character"/><orig>δε</orig> <w lemma="παράστημα">παρά<supplied reason="lost">ρ</supplied>τημα</w>· ὁ <w lemma="πρίαμαι">πριάμ<supplied reason="lost">ενος</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_25" n="25"/> <gap reason="lost" quantity="3" unit="character"/> <w lemma="φέρω">φερόμενον</w> <w lemma="ὑπό">ὑπὸ</w> τῶν <name type="person"><w lemma="ἰδιώτης"><supplied reason="lost">ἰ</supplied>διωτῶ<supplied reason="lost">ν</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_26" n="26"/> <gap reason="lost" quantity="6" unit="character"/> <w lemma="κρατήρ">κρατῆρα</w> <name type="liquid"><w lemma="κιρνάω">κιρνᾶι</w></name> <w lemma="ἐν">ἐν</w> τῶ<supplied reason="lost">ι</supplied> <name type="structure"><w lemma="τέμενος"><supplied reason="lost">τεμένει</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_27" n="27"/> <gap reason="lost" quantity="6" unit="character"/><orig>ον</orig><gap reason="lost" quantity="2" unit="character"/> <w lemma="χοῦς">χοῦν</w> <w lemma="οὐ">οὐ</w> <w lemma="πλείων">πλεῖον</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_28" n="28"/><gap reason="lost" quantity="6" unit="character"/>ενος καὶ τῆς <w lemma="ἡμέρα"><supplied reason="lost">ἡ</supplied>μέρας</w> τὸ <orig>δ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_29" n="29"/> <gap reason="lost" quantity="8" unit="character"/><orig>ων</orig> <w lemma="σύνειμι">συνόντων</w> <w lemma="ἐν">ἐν</w> τῶι <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb xml:id="line_30" n="30"/> <gap reason="lost" quantity="11" unit="character"/><orig>ΑΝΩΝ</orig> <orig>ΠΑ</orig><gap reason="lost" extent="unknown" unit="character"/>
+
+<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+
+	    	</ab>
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>[...] as also [...], during the year, the <foreign>oikonomoi</foreign> [of the current year] shall supply to Pharsalios [... as many (animals) as need to be sacrificed] to the god,  [those (<foreign>oikonomoi</foreign>)] who furnish [the animals for the other] (5) festivals [...], what has been sacrificed is to be consumed [on the spot; in] the future, the [<foreign>oikonomoi</foreign>] shall also contract out the sacred things, as it is written. (Pharsalios) will also set up [an altar in the] precinct dedicated to the god; he will receive [from the (animals) sacrificed] (10) in the precinct, from each animal, a leg and [from what is deposited] for the god, the third parts; in no other place [shall] he [establish an altar] of Sarapis; otherwise, let him owe the people [... drachmae] and let the place be civic property. [He who wishes] shall denounce (him), [for the] half (of the fine), before the <foreign>euthynoi</foreign>; the <foreign>euthynoi</foreign> [shall lead (him)] (15) before the [court] in function during the semester. The <foreign>oikonomoi</foreign> [shall receive] from the sale of wood 3 [drachmae] and from the sale of wheat, 1 drachma, [and] they shall pay them back to the priest; the people shall have the power to cancel part of this law or add below something else, until the instalment [...]</p>
+
+<p> (20) In the year of (the <foreign>stephanephoros</foreign>) Stratokles. [To the] purchaser of the priesthood of [Sarapis ...], when he receives the priesthood [...] the act according to which he has bought  [...] amendment. The purchaser shall [... (25) ...] brought by private people [...] mix the crater in the [precinct ...] a <foreign>chous</foreign>, not more [...] and the day of [...] of those who gather in the [... (30) ...]
+					</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>[...] comme aussi [...] dans l'année, les économes fourniront à Pharsalios [... autant (de bêtes) qu'il faut en sacrifier] au dieu, [ceux] qui fournissent [les offrandes sacrificielles des autres] (5) fêtes [...], que ce qui a été sacrifié soit consommé [sur place; à] l'avenir, que les [économes] procèdent en outre à l'adjudication des choses sacrées, comme il est écrit. (Pharsalios) installera aussi [un autel dans] l'enceinte dédiée au dieu; il recevra [des bêtes sacrifiées] (10) dans l'enceinte, pour chaque animal sacrifié, une patte et [sur ce qui est déposé (?)] pour le dieu, les tierces parts; qu'en nul autre endroit il n'[installe (?) l'autel] de Sarapis; sinon, qu'il soit redevable au peuple de [... drachmes] et que le lieu revienne à la cité. Que [celui qui le souhaite] (le) dénonce, [pour la] moitié (de l'amende), devant les <foreign>euthynoi</foreign>; que les <foreign>euthynoi</foreign> [(l')assignent] (15) devant le [tribunal] en fonction ce semestre. Que les économes [perçoivent] sur la vente du bois 3 [drachmes] et sur la vente du blé 1 drachme [et] qu'ils les reversent au prêtre; que le peuple ait le pouvoir [...] ou d'ajouter ci-dessous autre chose, jusqu'au versement [...] </p>
+
+					<p> (20) Sous (le stéphanéphore) Stratoklès. [À l']acquéreur de la prêtrise de [Sarapis ...], quand il reçoit la prêtrise [...] l'acte selon lequel il a acheté [...] avenant. Que l'acquéreur [... (25) ...] apporté par les particuliers [...] mélange le cratère dans l'[enceinte ...] un <foreign>chous</foreign>, pas plus [...] et le jour du [...] de ceux qui sont rassemblés dans le [... (30) ...]</p>
+
+						</div>
+					<div type="commentary">
+						<head>Commentary</head>
+
+<p>This incomplete inscription transcribes two decisions, perhaps decrees, of the city of Magnesia concerning the cult of Sarapis. Both were seemingly inscribed in the same hand. This is the only inscription pertaining to the cult Sarapis' cult (or to the Egyptian gods overall) from Magnesia-on-the-Maeander. There is local numismatic evidence for the cult of Isis and Sarapis, but this dates to the seconnd and third centuries AD. For an almost contemporary text from the same region recording regulations for the cult of Sarapis and Isis, cf. <ref target="CGRN_157">CGRN 157</ref> (Priene).</p>
+
+<p> The general concensus about the first part of the text (lines 1-20) is that it somehow records the decision of the city to turn the cult of Sarapis, previously under the control of a private individual—Pharsalios (and perhaps others)—into a public one. Pharsalios is to remain the appointed priest of the cult. Part of this process of civic control may have been the setting up of an altar by Pharsalios (if the intuition of Kern and the restorations of Rigsby are correct; cf. the commentary below) at a predefined space that was consecrated to the god by the city. Apparently, the <foreign>polis</foreign> also opted for a strong control over the cult, since it makes public magistrates responsible for various aspects of the cult: the <foreign>oikonomoi</foreign> are to be in charge of providing sacrificial animals and of the remuneration of the priest; the <foreign>euthynoi</foreign>, of dealing with infractions. The right to amend the decisions is also envisaged (cf. lines 19-20). Finally, but unsurprisingly, the sacrificial parts granted to the priest and his other advantages are also regulated (cf. lines 10-12).</p>
+
+<p> The second part of the text (21-31) seems to record amendments to the previous section, and specifically seems to concern the continuity of the priesthood after Pharsalios' tenure. The priesthood was henceforth to be transmitted by sale. Another amendment may regard the priest's duties in the case of sacrifices made by private individuals (ὑπὸ τῶν ἰδιωτῶν), probably as opposed to the civic sacrifices mentioned in the first section. These duties seem to include a ritual of mixing wine (some limitation on the amount of wine used is seemingly specified). Perhaps the priest's privileges in this case were also given in one of the lacunae. Distinctions between public and private sacrifice and the priest's obligations and perquisites in each case were fairly common, cp. for example <ref target="CGRN_38">CGRN 38</ref> (Chios).</p>
+
+<p> Lines 1-7: The first preserved part of the inscription starts out by detailing the supplies (most likely sacrificial animals) which the <foreign>polis</foreign> is to provide to Pharsalios, for an unspecified ritual occasion, during which the meat has to be consumed on the spot. The prescription against carrying away meat occurs regularly; cf. <ref target="CGRN_32">CGRN 32</ref> (Thorikos), for a more elaborate commentary (on lines 10-12). The role of the <foreign>oikonomoi</foreign>—here in charge of providing sacrificial animals and other financial transactions relatred to the priesthood—is similar to that of the civic <foreign>neopoioi</foreign> at Priene in <ref target="CGRN_157">CGRN 157</ref>, lines 4, 18, 30; cf. also on lines 8 and 17 below.</p>
+
+<p> Lines 7-9: The identification of the ἱερά which are to be "hired out" here is uncertain. The verb μισθόω may refer to the "leasing of sacred property or to contracting services essential for the performance of cult" (cf. Lupu). For example, these may have been shops (<ref target="CGRN_124">CGRN 124</ref>, Pergamon, line 7) or sacred gardens (<ref target="CGRN_131">CGRN 131</ref>, Kos, lines 11-12). The term may also have referred to sacrificial animals, even though the term ἱερεῖον is used further on in the text (line 11). If the provision of animals for sacrifices was contracted out, the <foreign>polis</foreign> may have drawn up contracts with individuals to rear animals to the proper age and size, to be able to provide Pharsalios with the appropiate sacrificial animals for the civic sacrifice; cp. here <ref target="CGRN_132">CGRN 132</ref> (Methymna), lines 15-18. The possibility that the priesthood itself was "leased out" (Kern) seems less likely.</p>
+
+<p> Lines 9-13: Cf. Rigsby for the restorations and their justification. The <foreign>polis</foreign> has dedicated land to serve as a public precinct at which something or someone should be "established" or "ordained". Even though the verb καθίστημι supports the interpretation that an individual was appointed, such as a <foreign>neokoros</foreign> (Dittenberger), or an (auxiliary) priest (Sokolowski 1974, Bricault), we follow Rigsby (and Kern) in considering it more likely that an altar was to be set up.</p>
+
+<p> Lines 10-12: The perquisites of the priest are specified as the leg (a very common share, cp. for example in Asia Minor <ref target="CGRN_98">CGRN 98</ref>, Erythrai, lines A12 and A15, and <ref target="CGRN_138">CGRN 138</ref>, Miletos, line 17), and the third parts of anything (?) that is offered or dedicated to the god. This third part is likely to have referred to donations of cash (so Rigsby), but also probably included other types of dedications.</p>
+
+<p> Lines 12-16: The strong measures envisaged against setting up an altar (probably) at an other place than the officially designated precinct imply that there was some kind of danger in this respect. Perhaps in previous times there were multiple altars for Sarapis; or possibly the altar was previously situated in Pharsalios' house (Bricault). Concerning the role of the <foreign>euthynoi</foreign> at Magnesia-on-the-Maeander, cp. here <ref target="CGRN_194">CGRN 194</ref>, line 58. </p>
+
+<p> Lines 16-18: Part of the priest's perquisites consists of ἐκ τῶν ξυλίνων ὠ[νῶν], money derived from the purchase of plants, presumably those found in the precinct. This phrase probably refers the sale of wood (Kern, Bricault) though the adjective ξυλίνος may also refer to the fruits of a tree (cf. Schuler who translates ξύλιναι as "Baum-früchten").</p>
+
+<p> Lines 19-20: The people have the power to amend (i.e. to change, add and to remove clauses from) the decree "until the ἀναφορά", a phrase which remains enigmatic; ἀναφορά may have designated an official time for a legal recourse or the payment of a sum of money (an "instalment"). Indeed, it appears that such an amendment was made more or less contemporaneously, as is clear from the second part of the text recording the decision passed under Stratokles.</p>
+
+<p> Lines 27-30: Perhaps the festival envisaged here was held partly during the day and partly during the night. For nightime celebrations and the use of wine in the cult of Sarapis (and Isis), cf. here <ref target="CGRN_157">CGRN 157</ref>, lines 13-15 and 26 respectively.</p>
+
+					</div>
+			</body>
+    	</text>
+	</TEI>

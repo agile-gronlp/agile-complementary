@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_186" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><idno type="filename">CGRN 186</idno>: <rs type="textType" key="decree">Decree</rs> concerning the money donated by Hermias to finance the public cult at Ilion</title>
+				<author>Jan-Mathieu Carbon</author>
+				<author>Saskia Peels</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+				<availability> <p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p> <p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc> <msIdentifier> 	<repository>n/a</repository> </msIdentifier> <physDesc> 	<objectDesc> 		<supportDesc> 	<support> 		<p><rs type="objectType">Stele</rs> crowned by a moulding, now broken in two pieces (left and right). There are 8 cm between the top and the start of the inscription. The inscription is broken on the upper left side, where 1-3 letters are missing until line 9. The right side is intact, but due to wear of the surface the final letters of each line are difficult to read. At the break between the two parts of the stone, i.e. in the middle of the inscription, some letters are missing in each line. Otherwise, the inscription is relatively complete but the last few lines are unclear. </p>
+					<p><dimensions>
+						<height unit="cm">77</height>
+						<width unit="cm">66</width>
+						<depth unit="cm">4</depth>
+					</dimensions></p> 			</support> 		</supportDesc> 		<layoutDesc> 			<layout> <p>Letters: <height unit="cm">1-1.3</height>. Space between lines: <height unit="cm">0.5-0.7</height>.</p> 			</layout> 		</layoutDesc> 	</objectDesc> </physDesc> <history> 	<origin> 		<p><origDate notBefore="-0200" notAfter="-0100">2nd century BC</origDate></p> 		<p><desc>Justification: lettering (Frisch). </desc></p> 	</origin> 	<provenance><p>The two pieces of the stele were found in the cemeteries of <placeName type="ancientFindspot" key="Ilion" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/550595" type="external">Halileli and Çiplak</ref></placeName>. Now in the Museum of the Louvre (inv. no. unknown).</p> 	</provenance> </history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="lat">Latin</language>
+				<language ident="fre">French</language>
+				<language ident="ger">German</language>
+				<language ident="gre">Modern Greek</language>
+				<language ident="ita">Italian</language>
+			</langUsage>
+			<textClass/>
+		</profileDesc>
+		<revisionDesc>
+			<change>Last revised by XX in 20XX.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="x"/>
+	</facsimile>
+	<text>
+		<body>
+			<div type="bibliography">
+				<head>Bibliography</head>
+
+				<p> Edition here based on Frisch <bibl type="abbr" n="I.Ilion">I.Ilion</bibl> 52.</p>
+
+				<p> Other edition: <bibl type="author_date" n="Vanseveren 1936">Vanseveren 1936</bibl>: 252-254. </p>
+
+				<p> Cf. also: Sokolowski <bibl type="abbr" n="LSAM">LSAM</bibl> 9;
+							<bibl type="abbr" n="SEG">SEG</bibl> 51, 1689. </p>
+
+				<p> Further bibliography:
+					<bibl type="author_date" n="Robert 1928">Robert 1928</bibl>: 158 n. 3;
+					<bibl type="author_date" n="Sosin 2001">Sosin 2001</bibl>;
+					<bibl type="author_date" n="Peels 2016">Peels 2016</bibl>: 68-106. </p>
+
+			</div>
+			<div type="edition">
+				<head>Text</head>
+
+				<ab>
+
+					<lb xml:id="line_1" n="1"/> <w lemma="ἐπειδή"><supplied reason="lost">ἐ</supplied>πειδὴ</w> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεὺς</w></name> τῶν <w lemma="πᾶς">πάντων</w> <name type="deity" key="generic"><w lemma="θεός">θεῶν</w></name> Ἑρμίας Σκαμαν<supplied reason="lost">δρίο</supplied>υ <w lemma="ἀκόλουθος">ἀκόλουθον</w> <w lemma="ἑαυτοῦ">ἑαυ
+
+						<lb xml:id="line_2" n="2" break="no"/> <supplied reason="lost">τ</supplied>ὸν</w> <w lemma="παρασκευάζω">παρασκευάζων</w> τ<supplied reason="lost">ῆ</supplied>ι τε τῶν <w lemma="πρόγονος">προγόνων</w> <w lemma="εἰς">εἰς</w> τὸν <name type="group"><w lemma="δῆμος">δ<supplied reason="lost">ῆμον</supplied></w></name> <w lemma="φιλοτιμία">φιλοτιμίαι</w> καὶ τῆ<supplied reason="lost">ι</supplied>
+
+					<lb xml:id="line_3" n="3"/> <w lemma="ἑαυτοῦ"><supplied reason="lost">ἑ</supplied><unclear>αυτ</unclear>οῦ</w> <w lemma="φιλοδοξία"><unclear>φ</unclear>ιλ<unclear>ο</unclear>δο<unclear>ξ</unclear>ίαι</w> <w lemma="πρός">πρ<supplied reason="lost">ό</supplied>ς</w> τε τοὺς <name type="deity" key="generic"><w lemma="θεός">θεοὺς</w></name> <w lemma="ὅσιος">ὁσίως</w> καὶ <w lemma="εὐσεβής">εὐ<unclear>σ</unclear>εβῶς</w> <w lemma="προσφέρω">προσφέρεται</w> κα<unclear>ὶ</unclear>
+
+					<lb xml:id="line_4" n="4"/> <supplied reason="lost">τὰ</supplied> <w lemma="πρός">πρὸς</w> τὸν <name type="group"><w lemma="δῆμος">δῆμον</w></name> <w lemma="φιλάγαθος">φιλαγάθως</w> καὶ <w lemma="μεγαλομερής">μεγαλομερῶς</w>, <w lemma="προαιρέω">προ<supplied reason="lost">αιρο</supplied>ύμενός</w> τε καὶ <w lemma="ἀνά">ἀν<supplied reason="lost">ὰ</supplied></w>
+
+					<lb xml:id="line_5" n="5"/> <w lemma="πᾶς"><supplied reason="lost">πᾶν</supplied></w> <w lemma="ἔτος">ἔτος</w> τοὺς <name type="deity" key="generic"><w lemma="θεός">θεοὺς</w></name> <w lemma="τιμάω">τιμᾶσ<unclear>θ</unclear>αι</w> καὶ τὸν <name type="group"><w lemma="δῆμος">δῆμον</w></name> <w lemma="φιλανθροπέω">φ<unclear>ι</unclear>λανθ<supplied reason="omitted">ρ</supplied>ωπεῖσθαι</w> <w lemma="ἐπιδίδωμι">ἐπιδέδωκεν</w>
+
+					<lb xml:id="line_6" n="6"/> <supplied reason="lost">καὶ</supplied> <name type="genericOffering"><w lemma="ἀφιερόω">ἀφιεροῖ</w></name> <w lemma="ἀργύριον">ἀργυρίου</w> <w lemma="δραχμή"><unclear>δ</unclear>ραχ<supplied reason="lost">μ</supplied><unclear>ὰ</unclear>ς</w> Ἀλεξανδρείας <w lemma="μυρίος">μυ<supplied reason="lost">ρία</supplied>ς</w> καὶ <w lemma="πεντακισχίλιοι">πεντακισχιλίας</w>
+
+					<lb xml:id="line_7" n="7"/> <w lemma="καθήκω"><supplied reason="lost">καθ</supplied>ήκει</w> δὲ τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name> <w lemma="ἀποδέχομαι">ἀποδεξαμένωι</w> <w lemma="αὐτός">αὐτοῦ</w> τὴν <w lemma="φιλαγαθία">φιλ<unclear>α</unclear><supplied reason="lost">γ</supplied><unclear>α</unclear>θίαν</w> τε καὶ <w lemma="σπουδή">σπουδὴ<unclear>ν</unclear></w>
+
+					<lb xml:id="line_8" n="8"/> <w lemma="διατάσσω"><supplied reason="lost">δια</supplied><unclear>τ</unclear>άξαι</w> <w lemma="περί">περὶ</w> τῶν <w lemma="ἐπιδίδωμι">ἐπιδεδομένων</w> <w lemma="χρῆμα">χρημάτων</w> <w lemma="ὡς">ὡς</w> <w lemma="καθήκω">κ<unclear>α</unclear><supplied reason="lost">θ</supplied><unclear>ῆ</unclear>κόν</w> <w lemma="εἰμί">ἐστιν</w> <w lemma="ἵνα">ἵνα</w> αἵ τε
+
+					<lb xml:id="line_9" n="9"/> <supplied reason="lost">τῶν</supplied> <name type="deity" key="generic"><w lemma="θεός"><unclear>θ</unclear>εῶν</w></name> <w lemma="τιμή">τιμαὶ</w> <w lemma="ἀπό">ἀπὸ</w> τῶν <w lemma="χρῆμα">χρημάτων</w> καὶ αἱ <w lemma="εἰς">εἰς</w> τοὺς <name type="group"><w lemma="πολίτης">πολίτας</w></name> <w lemma="φιλανθρωπία">φιλανθ<supplied reason="omitted">ρ</supplied>ωπίαι</w> <name type="portion"><w lemma="διαμένω">δι<unclear>α</unclear>
+
+						<lb xml:id="line_10" n="10" break="no"/> <supplied reason="lost">μένωσ</supplied>ιν</w></name> <w lemma="εἰς">εἰς</w> τὸν <w lemma="ἅπας">ἅπαντα</w> <w lemma="χρόνος">χρόνον</w>· <w lemma="ἀγαθός">ἀγαθῆι</w> <w lemma="τύχη">τύχηι</w>, <w lemma="ἐπί">ἐπὶ</w> <w lemma="ὑγίεια">ὑγιείαι</w> καὶ <w lemma="σωτηρία">σωτηρίαι</w> καὶ τοῖ<supplied reason="lost">ς</supplied>
+
+					<lb xml:id="line_11" n="11"/> <w lemma="ἄλλος"><supplied reason="lost">ἄλλοις</supplied></w> <w lemma="ἀγαθός">ἀγαθοῖς</w> <w lemma="πᾶς">πᾶσι</w>, <w lemma="δοκέω">δεδόχθαι</w> τῆι <name type="group"><w lemma="βουλή">βουλῆι</w></name> καὶ τῶι <name type="group"><w lemma="δῆμος">δήμωι</w></name>· τὰ μὲν <w lemma="χρῆμα">χρήματα</w> <w lemma="εἰμί">εἶνα<supplied reason="lost">ι</supplied></w>
+
+					<lb xml:id="line_12" n="12"/> <supplied reason="lost">τὰ</supplied> <w lemma="ἐπιδίδωμι"><supplied reason="lost">ἐπιδεδομέ</supplied>να</w> <w lemma="ὑπό">ὑπὸ</w> Ἑρμίου <name type="genericOffering"><w lemma="ἱερός">ἱερὰ</w></name> τῆς <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶς</w></name>· τοὺς δὲ <w lemma="τραπεζίτης">τραπε<supplied reason="lost">ζ</supplied>ίτας</w>, <w lemma="ἐπεί">ἐπεὶ</w> <w lemma="διαγράφω">διαγεγραμμέ
+
+						<lb xml:id="line_13" n="13" break="no"/> <supplied reason="lost">να</supplied></w> <w lemma="εἰμί"><supplied reason="lost">ἐστὶ</supplied></w> <supplied reason="lost">τὰ</supplied> <w lemma="διαφορά"><supplied reason="lost">δι</supplied>άφορα</w>, <w lemma="ἔχω">ἔχειν</w> <w lemma="ἔνθεμα">ἔνθεμα</w>, καὶ <w lemma="φέρω">φέρ<supplied reason="lost">ειν</supplied></w> <w lemma="τόκος">τόκον</w> <w lemma="αὐτός">αὐτῶν</w> <w lemma="δέκατος">δέκατον</w>, καὶ <w lemma="παραδίδωμι">παραδοῦναι</w> <w lemma="τότε">τ<supplied reason="lost">ό</supplied>
+
+							<lb xml:id="line_14" n="14"/> <supplied reason="lost">τε</supplied></w> <w lemma="κεφάλαιος"><supplied reason="lost">κεφάλαιον</supplied></w> τοῖς <w lemma="μετά">μεθ’</w> <w lemma="ἑαυτοῦ">ἑαυτοὺς</w> <w lemma="τραπίζετης">τραπεζίταις</w> καὶ <w lemma="τόκος">τόκον</w> <w lemma="δίμηνος">διμήνου</w> <w lemma="δέκατος">δέκατον</w>· τοὺς δὲ
+
+					<lb xml:id="line_15" n="15"/> <w lemma="παραλαμβάνω"><supplied reason="lost">παραλαβόντας</supplied></w> <w lemma="ἔχω"><supplied reason="lost">ἔ</supplied>χειν</w> <w lemma="ἔνθεμα">ἔνθεμα</w> τὰς <w lemma="μυρίος">μυρίας</w> καὶ <w lemma="πεντακισχίλιοι">πεντακισχιλίας</w> Ἀλεξανδρείας καὶ
+
+					<lb xml:id="line_16" n="16"/> <supplied reason="lost">τὸν</supplied> <w lemma="δίμηνος"><supplied reason="lost">διμήνου</supplied></w> <w lemma="τόκος"><supplied reason="lost">τό</supplied>κον</w>· <w lemma="ἀπό">ἀπὸ</w> δὲ τῆς <w lemma="πρόσοδος">προσόδου</w> <w lemma="γίγνομαι">γίνεσθαι</w> <w lemma="ἀνά">ἀν<supplied reason="lost">ὰ</supplied></w> <w lemma="πᾶς">πᾶν</w> <w lemma="ἔτος">ἔτος</w> <w lemma="ἐν">ἐν</w> τῶι <name type="month"><w lemma="Παναθήναιος">Παναθη
+
+						<lb xml:id="line_17" n="17" break="no"/> <supplied reason="lost">ναίωι</supplied></w></name> <w lemma="μείς"><supplied reason="lost">μηνὶ</supplied></w> <supplied reason="lost">τῆι</supplied> <w lemma="πρότερος"><supplied reason="lost">πρώ</supplied>τηι</w> τῶν <name type="festival"><w lemma="Ἰλιακός">Ἰλιακῶν</w></name> <w lemma="πομπή">πομπὴν</w> καὶ <name type="sacrifice"><w lemma="θυσία">θυσίαν</w></name> τῆι <name type="deity" key="Athena"><w lemma="Ἀθήνη">Ἀθηνᾶι</w></name>· τοὺς δὲ <w lemma="τραπεζίτης">τραπε
+
+							<lb xml:id="line_18" n="18" break="no"/> <supplied reason="lost">ζίτας</supplied></w> <w lemma="δίδωμι"><supplied reason="lost">διδόναι</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἑκάσ</supplied>του</w> <w lemma="ἔτος">ἔτους</w> <w lemma="ἀπό">ἀπὸ</w> τῆς <w lemma="πρόσοδος">προσόδου</w> τῆι <w lemma="ἑνδέκατος">ἐνδεκάτηι</w> <w lemma="ἐν">ἐν</w> τῶι <name type="month"><w lemma="Παναθήναιος">Παναθηναίωι</w></name>
+
+					<lb xml:id="line_19" n="19"/> <w lemma="μείς"><supplied reason="lost">μηνὶ</supplied></w> <supplied reason="lost">τοῖς</supplied> <w lemma="ἀπό"><supplied reason="lost">ἀφ’</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἑκάστ</supplied>ης</w> <name type="group"><w lemma="φυλή">φυλῆς</w></name> <w lemma="αἱρέω">αἱρεθησομένοις</w> <name type="title"><w lemma="φυλάρχης">φυλάρχαις</w></name> <w lemma="κατά">κατὰ</w> <name type="group"><w lemma="φυλή">φυλὴν</w></name> <w lemma="δραχμή">δραχμὰς</w> <w lemma="ἑκατόν">ἑκα
+
+						<lb xml:id="line_20" n="20" break="no"/> <supplied reason="lost">τὸν</supplied></w> <w lemma="εἴκοσι"><supplied reason="lost">εἴκοσι</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="ἑπτά"><supplied reason="lost">ἑ</supplied><unclear>π</unclear>τὰ</w> <w lemma="τριώβολον">τριώβολον</w> <w lemma="ἀτριακοστολόγητος">ἀτριακοστολογ<unclear>ή</unclear>το<unclear>υ</unclear><supplied reason="lost">ς</supplied></w> καὶ τὸ <w lemma="ἥμισυς">ἥμισυ</w> <w lemma="ἀργύριον">ἀργύριον</w> <gap reason="lost" extent="unknown" unit="character"/>
+
+					<lb xml:id="line_21" n="21"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="πομπεύω"><supplied reason="lost">πομπ</supplied>εῦσαι</w> <name type="animal" key="ox"><w lemma="βοῦς">βοῒ</w></name> <name type="gender"><w lemma="θῆλυς">θηλείαι</w></name> καὶ <name type="animal" key="sheep"><w lemma="πρόβατον">προβάτωι</w></name> <name type="gender"><w lemma="ἄρσην">ἄρρενι</w></name> καὶ τὰ <name type="bakery"><w lemma="πέμμα">πέμματα</w></name> <w lemma="προφέρω">προφέρεσθαι</w> <orig>ΕΙ</orig>
+
+					<lb xml:id="line_22" n="22"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὰ δὲ</supplied> <w lemma="ἄλλος"><supplied reason="lost">ἄλλα</supplied></w> <supplied reason="lost">τὰ</supplied> <w lemma="περί">περὶ</w> τὴν <w lemma="πομπή">πομπὴν</w> <w lemma="ἐπιτελέω">ἐπιτελέσαι</w> <w lemma="καθότι">καθότ<supplied reason="lost">ι</supplied></w> <name type="authority"><w lemma="πάτριος">πάτριόν</w></name> <w lemma="εἰμί">ἐστιν</w>· <w lemma="ἀκολουθέω">ἀκολουθεῖν</w> δὲ
+
+					<lb xml:id="line_23" n="23"/> <supplied reason="lost">ἐν</supplied> <supplied reason="lost">τῆι</supplied> <w lemma="πομπή"><supplied reason="lost">πομπῆι</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἑ</supplied>κάστους</w> τῶν <name type="title"><w lemma="φύλαρχος">φυλαρχῶν</w></name> τῆι <w lemma="ὑπό">ὑφ’</w> <w lemma="ἑαυτοῦ">ἑαυτῶ<supplied reason="lost">ν</supplied></w> <w lemma="ἄγω">ἀγμένηι</w> <name type="animal" key="ox"><w lemma="βοῦς">βοῒ</w></name> <w lemma="ἐπιγράφω">ἐπιγράψαντας</w>
+
+					<lb xml:id="line_24" n="24"/> <supplied reason="lost">τὸ</supplied> <w lemma="ὄνομα"><supplied reason="lost">ὄνομα</supplied></w> <supplied reason="lost">τῆς</supplied> <name type="group"><w lemma="φυλή"><supplied reason="lost">φυλῆς</supplied></w></name> καὶ <name type="sacrifice"><w lemma="προθύω">προθύεσθαι</w></name> τῶι <name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> τῶι <name type="epithet" key="Polieus"><w lemma="Πολιεύς">Πολιεῖ</w></name> τὰ <name type="animal" key="sheep"><w lemma="πρόβατον">πρ<supplied reason="lost">ό</supplied>βατα</w></name>· <w lemma="ἐπιτελέω">ἐπιτελέσαι</w> δὲ καὶ <name type="meal"><w lemma="δεῖπνον">δεῖ
+
+						<lb xml:id="line_25" n="25" break="no"/><supplied reason="lost">πνον</supplied></w></name> <supplied reason="lost">τοὺς</supplied> <name type="title"><w lemma="φύλαρχος"><supplied reason="lost">φυλάρχας</supplied></w></name> <supplied reason="lost">κ</supplied>αὶ <w lemma="λόγος">λόγον</w> <w lemma="τίθημι">θέσθαι</w> τῆς <w lemma="δαπάνη">δαπάνης</w>· τῆς δὲ <w lemma="πομπή">πομπῆς</w> <w lemma="ἐπιμελητής">ἐπιμελητὰς</w>
+
+					<lb xml:id="line_26" n="26"/> <w lemma="εἰμί"><supplied reason="lost">εἶναι</supplied></w> <supplied reason="lost">τὸν</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱερέα</supplied></w></name> τῶν <w lemma="πᾶς">πάντων</w> <name type="deity" key="generic"><w lemma="θεός">θεῶν</w></name> καὶ τὸν <name type="title"><w lemma="ἀγωνοθέτης">ἀγω<supplied reason="lost">νο</supplied><unclear>θ</unclear>έτην</w></name> καὶ τὸν <name type="title"><w lemma="ἐκλογιστής">ἐγλογιστήν</w></name>·
+
+					<lb xml:id="line_27" n="27"/> <w lemma="ἐπιμελέομαι"><supplied reason="lost">ἐπιμελεῖσθαι</supplied></w> <supplied reason="lost">δ’</supplied> <w lemma="ὅπως"><supplied reason="lost">ὅπ</supplied>ως</w> <w lemma="κατά">κατὰ</w> <w lemma="κάλλος"><supplied reason="lost">κ</supplied>άλλος</w> <w lemma="πομπεύω">πομπεύωσιν</w> ο<gap reason="lost" quantity="5" unit="character"/>αξιαι <w lemma="πομπή">πομπῆς</w>· <w lemma="καθίστημι">καθιστάναι</w>
+
+					<lb xml:id="line_28" n="28"/> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">καὶ</supplied> <w lemma="ἀνήρ"><supplied reason="lost">ἄνδρας</supplied></w> <w lemma="δύο"><supplied reason="lost">δύο</supplied></w> <supplied reason="lost">τ</supplied>οὺς τῆς <w lemma="εὐταξία">εὐταξίας</w> <w lemma="ἐπιμελέομαι">ἐπιμελησομέ<supplied reason="lost">νους</supplied></w> καὶ τοὺς <w lemma="καθίστημι">κατασταθέντας</w> <w lemma="ἔχω">ἔχει<supplied reason="lost">ν</supplied></w>
+
+					<lb xml:id="line_29" n="29"/> <w lemma="ἔξειμι"><supplied reason="lost">ἐξουσίαν</supplied></w> <supplied reason="lost">τοὺς</supplied> <w lemma="ἀκοσμέω"><supplied reason="lost">ἀκοσμ</supplied>οῦντας</w> τῆι <w lemma="ῥάβδος">ῥάβδωι</w> <w lemma="κολάζω">κολάζειν</w>· <w lemma="ἄγω">ἄγε<supplied reason="lost">σθαι</supplied></w> δὲ τὴν <w lemma="πομπή">πομπὴν</w> <w lemma="ἐκ">ἐκ</w> τῶν <name type="structure"><w lemma="βασίλειον">βασ<unclear>ιλ</unclear><supplied reason="lost">εί</supplied>
+
+						<lb xml:id="line_30" n="30" break="no"/> <supplied reason="lost">ων</supplied></w></name> <w lemma="καθότι"><supplied reason="lost">καθότι</supplied></w> <w lemma="ἄν"><supplied reason="lost">ἂν</supplied></w> <w lemma="διατάσσω">διατάξω<unclear>σ</unclear>ιν</w> <w lemma="ὅς">οἷς</w> <w lemma="ἐπιτάσσω">ἐπιτέτακται</w> τὴ<supplied reason="lost">ν</supplied> <w lemma="ἐπιμέλεια"><supplied reason="lost">ἐ</supplied>πιμέλειαν</w> <w lemma="ποιέω">π<unclear>ο</unclear>ιεῖσθαι</w>· <w lemma="ἐάν">ἐὰν</w> δέ <w lemma="τις">τιν<supplied reason="lost">ες</supplied></w>
+
+					<lb xml:id="line_31" n="31"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἀπειθέω"><supplied reason="lost">ἀπειθῶ</supplied>σιν</w> <name type="punishment"><w lemma="ζημιόω">ζημιοῦσθαι</w></name> αὐτοὺς <w lemma="ὑπό">ῦπὸ</w> τῶν <w lemma="προγράφω"><unclear>π</unclear><supplied reason="lost">ρογεγ</supplied>ραμ<supplied reason="lost">μ</supplied>ένων</w> <w lemma="δραχμή"><supplied reason="lost">δ</supplied>ραχμαῖς</w> <w lemma="πεντήκοντα">πεντ<supplied reason="lost">ή</supplied>
+
+						<lb xml:id="line_32" n="32" break="no"/> <supplied reason="lost">κοντα</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">π</supplied>ρ<unclear>α</unclear>χθῆν<supplied reason="lost">αι</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+					<lb/><gap reason="lost" extent="unknown" unit="line"/>
+				</ab>
+			</div>
+			<div type="translation" xml:lang="eng">
+
+				<head>Translation</head>
+				<p>Since the priest of all the gods, Hermias, son of Skamandrios, making himself a follower of the ambition of his ancestors towards the people and of his own love of glory, conducts himself piously towards the gods and gives them their due, and behaves towards the people with a love of what is good and in a magnificent way, and wanting (5) the gods to be honoured [every] year and the people to receive kind gifts, he has donated [and] now consecrates 15 000 Alexandrian drachmae; and since it seems fitting to the people, having favourably received his benevolence and his zeal, to make arrangements with respect to the donated money as it is fitting, so that the honours of the gods and the benefactions towards the citizens (derived) from these funds be maintained (10) for all time:</p>
+
+				<p>With good fortune, for the health and safety and all [other] good things for all, may it be decided by the council and the people that [the money donated] by Hermias be sacred to Athena. The bankers, once the fund [has been] registered, are to have it as a deposit, and they shall pay a tenth as interest, and they shall hand over [the entire sum (i.e. the capital)] to the bankers after them and the interest for two months. These, (15) [when they have received] the money, are to keep on deposit the 15 000 Alexandrian drachmae and the interest [for two months]. From the income, every year in the month of Panathenaios, [on the first (?)] of the Iliakai days (i.e. of the festival Ilieia), a procession and a sacrifice to Athena shall take place. The bankers shall [give] from the income, each year on the 11th of the month Panathenaios to the elected phylarchs [from ea]ch tribe, tribe by tribe, (20) 1[2]7 drachmae and 3 obols, free from the tax of 3.33 percent. And the half of the money (shall be used to) [conduct a process]ion with a female cow and a male sheep, and the cakes should be presented [...] and they should also complete all other tasks concerning the procession, according to ancestral custom. Each of the phylarchs should accompany the cow that he brings [in the procession] having written upon it [the name of the tribe] and (25) they should sacrifice the sheep as preliminary offerings to Zeus Polieus. [The phylarchs] should also put on a me[al] (after the sacrifice), and they should keep account of the expenditure. [The priest] of all gods, the agonothetes and the accountant are to be in charge of the procession. [They are to see to it th]at people walk the procession according to the beauty (of the animals ?) [...] worthy (?) of the procession. And [two men should be appointed] who will keep an eye on the general good order, and those appointed will [have the authority to] punish those who display unorderly behaviour with a rod. They should lead the procession from the Basileia (palaces?), (30) [as] directed by those who have been given the task to take care of this order. If any people [disobe]y, they should be punished by those mentioned before with (a fine of) 5[0 (?)] drachmae [...] </p>
+			</div>
+
+			<div type="translation" xml:lang="fre">
+				<head>Traduction</head>
+				<p>Attendu qu’Hermias, fils de Scamandrias, prêtre de tous les dieux, dans une disposition conforme au zèle de ses ancêtres envers le peuple et à sa propre réputation, se montre pieux envers les dieux ainsi que dévoué et généreux envers le peuple et que, se proposant d’aider (5) le peuple à honorer les dieux [tous] les ans, il a donné [et] consacré 15 000 drachmes d’argent d’Alexandre, il convient que le peuple qui a accueilli son aide et son dévouement dispose de l’argent qu’il a donné comme il sied, afin que les honneurs (rendus) aux dieux avec cet argent et l’aide (accordée) aux citoyens demeurent (10) à jamais. </p>
+
+				<p>À la bonne fortune. Pour la santé, le salut et toutes les [autres] bonnes choses, qu'il plaise au conseil et au peuple que l’argent donné par Hermias soit consacré à Athéna; lorsque le versement [aura] été enregistré, que les banquiers gèrent la fondation, prélèvent un intérêt du dixième, transmettent le [capital] et l’intérêt du dixième de deux mois aux banquiers qui leur succèdent; que ceux qui (15) [reçoivent] cela gèrent les 15 000 drachmes d’Alexandre et l’intérêt [des deux mois]; sur ce revenu, que soient célébrées, tous les ans, au [mois de] Panathenaios, le [premier (?)] (jour) des Iliaka, une procession et un sacrifice pour Athéna; sur ce revenu, que les banquiers [versent], chaque année, le 11 du mois de Panathenaios, aux phylarques élus dans chaque tribu 1[2]7 drachmes (20) et 3 oboles par tribu, et que les percepteurs du trentième (versent) la moitié en argent [...] mener en procession une vache, un mouton mâle et présenter des gâteaux; [... pour le reste de ce qui] concerne la procession, agir selon la coutume ancestrale; que chacun des phylarques suive [dans la procession] la vache qu’il a apportée, après (y) avoir inscrit [le nom de la tribu], et offre en sacrifice préliminaire les moutons à Zeus Polieus; que (25) [les phylarques] organisent le banquet et fassent le compte de la dépense; que le prêtre de tous les dieux, l’agonothète et le comptable soient les épimélètes de la procession; [qu’ils veillent] à ce que l’on processionne selon la beauté (des animaux ?) [...] digne (?) de la procession; que l’on nomme [aussi deux (?) hommes] qui s’occuperont de l’ordre et que ces (hommes ainsi) nommés aient [le pouvoir] de châtier les fauteurs de trouble à coups de bâton; que l’on mène la procession depuis les Basileia (palais ?), (30) [comme] l’ordonnent ceux auxquels on a confié ce soin. Si quelqu’un [désobéit], ceux que l'on vient de mentionner leur infligeront l’amende prévue de 5[0 (?)] drachmes [...]</p>
+			</div>
+			<div type="commentary">
+				<head>Commentary</head>
+				<p>The inscription records a public decision by the city of Ilion concerning the use of a large sum of money (15 000 drachmae), dedicated to Athena by Hermias, priest of all the gods, in order to finance and augment the public cult. The resolution is preceded by two different considerations. First of all, there is the mention of the merits of the priest Hermias, which consist in his ancestral piety and overall generosity on the one hand (lines 1-5), and the specific donation of the money on the other (lines 6-10). The positive attitude of the people with respect to this donation is made explicit, in the typically hyperbolic language of Hellenistic decrees. The resolution itself consists of two parts, detailing, first of all the management of the capital, which is to be kept in deposit by the bankers (these financial details are specified in lines 11-16); then, the use of interest and profit from the fund, for the organization of an annual procession and major sacrifices to Athena, along with preliminary sacrifices to Zeus Polieus, and a meal afterwards (lines 16-25). Appended to the regulations are also rules for the management of this new procession and specific penalties against transgressions to the regulations (lines 25-32). It is likely that the priest himself, Hermias, had indicated the desirable use of the money, which was then ratified or adapted by the city. For other donations of money made in favour of public cults, see here esp. <ref target="CGRN_106">CGRN 106</ref> and <ref target="CGRN_107">CGRN 107</ref> (both from Kalaureia). For other decrees testifying to the augmentation of public cults in the late Hellenistic period (though not from private bequests), see here <ref target="CGRN_194">CGRN 194</ref>, <ref target="CGRN_200">CGRN 200</ref> (both from Magnesia-on-the-Maiander), and <bibl type="abbr" n="SEG">SEG</bibl> 45, 1508A-B; 50, 1100-1101 (Bargylia).</p>
+
+				<p>The additional procession and sacrifice now implemented due to Hermias' donation seem to have taken place during an already existing festival. They are to be organized "during the month Panathenaios, on the (1st?) day of the Iliakai". There is no other evidence for a festival called Ἰλιακά; instead the reference should be construed as Ἰλιακαί (sc. ἡμέραι), i.e. the days of the festival of the Ἰλίεια, which is attested in many sources as a local festival of Ilion (e.g. <bibl type="abbr" n="I.Ilion">I.Ilion</bibl> 51 line 8; <bibl type="abbr" n="IG II²">IG II²</bibl> 3138, line 5), distinct from the panhellenic festival of the Panathenaia (cf. the detailed discussion by Vanseveren). Since the bankers need to give money on the 11th of Panathenaios for conducting a procession (cf. line 18), it is reasonable to suppose that the festival took place shortly after the eleventh.</p>
+
+				<p>Line 1: Hermias is the priest of all the gods, a specific priesthood of Pantes Theoi at Ilion: cp. <bibl type="abbr" n="I.Ilion">I.Ilion</bibl> 35 line 5; <bibl type="abbr" n="I.Ilion">I.Ilion</bibl> 59 l 1; for this cult, see also the commentary of <ref target="CGRN_193">CGRN 193</ref> (Hyllarima): on the same stele, we find a list of the priest of the Theoi Pantes, and the principal sale of priesthood concerns essentially all the gods of the Hyllarimeis.</p>
+
+				<p> Line 3: The priest is commended for having behaved ὁσίως καὶ εὐσεβῶς: in this conjunction, the attributed values ὁσιότης and εὐσέβεια are very nearly synonymous, expressing Hermias' praiseworthy attitude towards the gods and his fellow humans alike. On the semantics of ὅσιος as compared to εὐσεβής, cf. Peels.</p>
+
+				<p> Lines 12-16 and 17-20: It is likely that Hermias had dedicated the sum of 15 000 drachmae two months before the end of the financial year, which is why the interest of two months is added to the capital and the financial administration of the donation begins at this point. There have been interpretative difficulties with the sum of 127 drachmae and 3 obols distributed to each phylarch to fund the sacrifices, for a detailed discussion of these financial arrangements, cf. the article by Sosin.</p>
+
+				<p> Lines 17-20: On the division of funds to the different tribes of a city during festival days, cf. the references cited in Frisch, ad loc.</p>
+
+				<p> Line 21: The cow was the traditional sacrifice at Ilion in honour of Athena (Vanseveren, p. 258); for other sacrifices of cows to Athena (whether called Polias or differently), see here <ref target="CGRN_1">CGRN 1</ref> (Corinth) and <ref target="CGRN_92">CGRN 92</ref> (annual Panathenaia in Athens), lines 23-24. The restoration πομπ[εῦσαι] was proposed by Robert, on the analogy of <bibl type="abbr" n="I.Priene">I.Priene</bibl> 108, lines 281-282: προεπ̣[όμπευσεν δὲ καὶ ἐν τῆι τῶν Πανα]θηναίων ἑορτῆι βοῒ τῆς Ἀθηνᾶ[ς ἀξίαι.</p>
+
+				<p> Lines 21-22: The interpretation of the letters Ε and the vertical bar (start of Ν, or Ι) at the end of line 21 is uncertain. There is space for 4 to 5 letters. We might suppose the preposition ἐν or εἰς + an object of very few letters, but the precise restoration is elusive.</p>
+
+				<p> Lines 23-24: As Vanseveren explains, the name of the owner was often inscribed directly on an animal, to confirm that an animal was suitable for sacrifice, or to indicate the name of the dedicator. In this case, the latter is the most likely; therefore the restitution [τὸ ὄνομα τῆς φυλῆς] seems appropriate. Other cases in which the animal carried the name of the dedicator are found for example in Delos (<bibl type="abbr" n="ID">ID</bibl> 1520, lines 49-52) and in Epidauros (<bibl type="abbr" n="IG IV².1">IG IV².1</bibl> 66, lines 64ff.)</p>
+
+				<p> Line 26: The mention here of "the priest of all gods" refers to the successor of Hermias at any given time.</p>
+
+				<p>Line 27: Here, the reference to the procession being order "according to beauty" (κατὰ [κ]άλλος) is rather vague. It is possible that the animals provided by the tribes which were judged to be most beautiful were processed first, or according to their ranking in a beauty contest; for more elaborate rules concerning this matter, see <ref target="CGRN_92">CGRN 92</ref> (Athens), lines 17-26.</p>
+
+				<p>Lines 30-32: The proposed fine seems to apply to any of the above mentioned rules. By contrast, transgressions made while participating in the procession, such as by behaving in a disorderly fashion, were specifically met with corporal punishment (cf. line 29; on rules for orderly processions, cf. here <ref target="CGRN_97">CGRN 97</ref>, Mylasa, lines 2-4, and <ref target="CGRN_222">CGRN 222</ref>, Andania, lines 28-34 and 39-45). The restitution πεντ[ήκοντα] seems the most likely (5 dr. would be too little and 500 dr. would be excessive in this case); for similar fines concerning improper behaviour in a sanctuary, such as cutting wood, cp. e.g. <bibl type="abbr" n="LSCG">LSCG</bibl> 37 (also 50 dr.).</p>
+
+			</div>
+		</body>
+	</text>
+</TEI>

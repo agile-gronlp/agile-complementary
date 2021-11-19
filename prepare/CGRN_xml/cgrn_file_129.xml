@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_129" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 129</idno>: <rs type="textType" key="sacrificial regulation">Sacrificial regulation</rs> for Zeus Labraundos at Patara</title>
+	    				<author>Jan-Mathieu Carbon</author>
+	    				<author>Saskia Peels</author>
+	    		</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+	<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+		<objectDesc>
+			<supportDesc><support><p>Stone <rs type="objectType">block</rs> (intact wall block?). Measurements are not available.</p>
+				<p><dimensions>
+					<height unit="cm">unknown</height>
+					<width unit="cm">unknown</width>
+					<depth unit="cm">unknown</depth>
+				</dimensions></p>
+			</support>
+			</supportDesc>
+			<layoutDesc><layout><p>The text is inscribed in the top half of the available space on the block and close to the left margin. Several of the short lines (e.g. line 1) have a large uninscribed space to the right. Letters: <height unit="mm">unknown</height>. Description: <foreign>alpha</foreign> with straight crossbar, open but large <foreign>omega</foreign> (<foreign>omicron</foreign> also large); slightly open rather than rectangular <foreign>sigma</foreign>. Serifs are not pronounced.</p>
+			</layout></layoutDesc>
+		</objectDesc>
+	</physDesc>
+	<history>
+		<origin>
+			<p><origDate notBefore="-0300" notAfter="-0200">ca. 300-200 BC</origDate></p>
+			<p><desc>Justification: early to mid-Hellenistic lettering and orthography (Engelmann).</desc></p>
+		</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Patara" n="Asia_Minor_and_Anatolia"><ref target="http://pleiades.stoa.org/places/639042" type="external">Patara</ref></placeName>. The stone is built into the Byzantine city-wall.</p>
+		</provenance> 
+	</history>
+	</msDesc>
+	</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 01-01-2014 by JM Carbon.</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"><desc/></graphic></facsimile> 
+	    <text>
+	    	<body>	
+				<div type="bibliography">
+					<head>Bibliography</head>
+					<p>Edition here based on <bibl type="author_date" n="Engelmann 2007">Engelmann 2007</bibl>: 134-135, with ph. pl. 40, fig. 15. We adopt the excellent suggestion of Chaniotis in line 5, but see Commentary ad loc. for discussion.</p>
+					<p>Cf. also: <bibl type="abbr" n="SEG">SEG</bibl> 57, 1674; Chaniotis <title>Kernos</title> 2010 <bibl type="abbr" n="EBGR">EBGR</bibl> no. 45; <bibl type="author_date" n="Zimmermann 2017">Zimmermann 2017</bibl>; Rousset <title>REG</title> 2018 <bibl type="abbr" n="BE">BE</bibl> no. 421.</p>
+					<p>Further bibliography: Crampa <bibl type="abbr" n="I.Labraunda">I.Labraunda</bibl>, for general discussion and comparanda; ; <bibl type="author_date" n="Lupu 2003a">Lupu 2003a</bibl>; <bibl type="author_date" n="Jim 2011">Jim 2011</bibl>.</p>
+						</div>
+	    			<div type="edition">
+	    				<head>Text</head>
+	    				<ab>
+				
+<lb xml:id="line_1" n="1"/>τοὺς <name type="sacrifice"><w lemma="θύω">θύοντας</w></name>
+	    					
+<lb xml:id="line_2" n="2"/><name type="deity" key="Zeus"><w lemma="Ζεύς">Διὶ</w></name> <name type="epithet" key="Labraundos"><name type="ethnic" key="Labraunda"><w lemma="Λάβραυνδος">Λαβραύνδωι</w></name></name>
+	    					
+<lb xml:id="line_3" n="3"/>ἢ τῶν <name type="epithet" key="Entemenios"><w lemma="ἐντεμένιος">ἐντεμενίων</w></name> <name type="deity" key="unclear"><w lemma="θεός">θεῶν</w></name> <w lemma="τις">τινι</w>
+	    					
+	    					<lb xml:id="line_4" n="4"/><w lemma="δίδωμι">διδόναι</w> τῶι <name type="personnel"><w lemma="ἱερεύς">ἱερεῖ</w></name> <name type="portion"><name type="genericOffering"><w lemma="ἀπαρχή">ἀπαρχὴν</w></name></name>
+	    					
+<lb xml:id="line_5" n="5"/><w lemma="ἀπό">ἀφ᾽</w> <w lemma="ἕκαστος">ἑκάστου</w> <name type="animal" key="generic"><w lemma="ἱερεῖον">ἱερέου</w></name> <name type="portion"><w lemma="πλάτη">πλάτα<supplied reason="omitted">ι</supplied></w></name> <name type="quality"><w lemma="ἴσος">ἴσον</w></name>·
+	    						
+<lb xml:id="line_6" n="6"/><w lemma="ἄλλος">ἄλλωι</w> δὲ <w lemma="μηθείς">μηθενὶ</w> <w lemma="ἔξειμι">ἐξέστω</w> <name type="group"><w lemma="συναγωγή">συναγωγὴν</w></name> 
+	    						
+<lb xml:id="line_7" n="7"/><w lemma="ποιέω">ποιεῖσθαι</w> <w lemma="μηδέ">μηδὲ</w> <w lemma="καταλύω">καταλύειν</w>
+	    						
+<lb xml:id="line_8" n="8"/><w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="τέμενος">τεμένει</w></name> <w lemma="πλήν">πλὴν</w> τῶν <name type="person"><name type="sacrifice"><w lemma="θύω">θυόντων</w></name></name>.
+	    					
+	    				</ab>
+	    			</div>
+	    			<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>
+					Those offering a sacrifice to Zeus Labraundos or to any of the gods in the precinct are to give as an offering to the priest a (piece) equal to the shoulderblade (5) from each sacrificial animal. It is not permitted to anyone else except those offering a sacrifice to hold a group-meeting or to camp in the precinct.
+					</p>
+				</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>
+					Ceux qui offrent un sacrifice à Zeus Labraundos ou à n'importe lequel des dieux dans l'enceinte doivent donner au prêtre comme prémice (5) de chaque animal sacrificiel un (morceau) égal à l'omoplate. Il n'est permis à personne d'autre que ceux qui offrent un sacrifice de se rassembler ou de camper dans le sanctuaire. 
+					</p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+<p>This is a short sacrificial regulation, probably from a local sanctuary of Zeus Labraundos at Patara if the intact block preserves the full extent of the text. The regulation combines two different elements: first a sacrificial prescription concerning the priestly prerogative; second a restriction concerning behaviour in the sanctuary. Due to reuse, the exact context is not known, but the regulation clearly belongs to the phenomenon of the wider dissemination of the cult of Zeus Labraundos. The cult of this Karian god from Labraunda (see here <ref target="CGRN_150">CGRN 150</ref>) is known to have been exported, probably starting in the Hekatomnid period, to such places as Tegea in Arkadia (<bibl type="abbr" n="IG V.2">IG V.2</bibl> 89), Athens (<bibl type="abbr" n="IG II²">IG II²</bibl> 1271, 298/7 BC), not to mention to Miletos (<bibl type="abbr" n="SEG">SEG</bibl> 4, 425) and various other locations. Though its precise origin at Patara is unclear, the cult had some importance
+there, involving a <foreign>temenos</foreign> or sacred precinct which apparently also included a number of other gods. See also now the discussion of Zimmermann, p. 299-301.</p>
+						
+<p>Line 3: The identity of the gods associated with Zeus Labraundos at Patara is rather enigmatic since these are not well-attested at Labraunda itself either. Other incarnations of Zeus are possible, as well as the Karian god Sinuri (Crampa no. 8C, line 30), or perhaps better the pair Apollo and Artemis (cf. Crampa no. 69). For a similar phraseology cp. the ἐντεμενίοι θεοί of Apollo Delphinios at Miletos, <ref target="http://cgrn.ulg.ac.be/CGRN_100/">CGRN 100</ref>, lines 3-4. Cf. also now the wideranging discussion of Zimmermann, p. 302-303.</p>
+						
+<p>Lines 4-5: As Chaniotis has attractively suggested, supplying an <foreign>iota</foreign>, omitted presumably by haplography, gives the reading πλάται, which more suitably follows ἴσον (an <foreign>iota</foreign> also appears to be omitted in the previous word, whose  spelling as ἱερέου is, however, unproblematic, see <ref target="http://cgrn.ulg.ac.be/CGRN_96/">CGRN 96</ref> (Kos), line 40 and cf. <title>REG</title> 2008 <bibl type="abbr" n="BE">BE</bibl> no. 500). This yields good sense, since the ἀπαρχή could then be reckoned as one "like" or "equal to the shoulderblade" (for an analogous formulation, referring to oars, see e.g. Arist. <title>PA</title> 684a3, οἷον πλάταις). However, the oddity of a Doric form πλάτα, though not impossible in Lycia, still remains to be satisfactorily explained. It is also not exactly clear what ἴσον might denote: a portion equal in size, or shape, to the shoulderblade? These have led Rousset to ingeniously propose that the lemma of Hsch. s.v.
+✝πλαταῖς✝· τὸ (...) ὠμοθετῆσαι, may provide the solution. However, the lemma of Hesychius is recognised corrupt and we would need to presume that it preserves some substantive such as ΠΛΑΤΑΙΣΟΝ. Regardless, even if we follow Rousset in supposing a rare word for a sacrificial portion, it is clear that this part will have had to do with the shoulder and the shoulderblade (the root πλατ-), probably in the context of the portions extracted from or involving the shoulder (ὠμοθετῆσαι) and usually placed on the altar as divine offerings (on this subject, cf. Lupu). 
+The portion in question was qualified as an ἀπαρχή. Jim discusses the wider sense of ἀπαρχή, noting this case, but here that term appears to have *both* the sense of a first-fruit offering and also a portion which can be taken by the priest as his perquisite. That the shoulderblade could be offered as divine portion is apparent in such phrases as ἡ πλάτη σπένδεται, "the shoulderblade is 'libated' " (or consumed on the altar), in the sacrificial calendar of Mykonos, <ref target="http://cgrn.ulg.ac.be/CGRN_156/">CGRN 156</ref>, lines 7-8; cf. also the expression θεομοιρία, a divine portion extracted from the shoulder on Kos, <ref target="http://cgrn.ulg.ac.be/CGRN_86/">CGRN 86</ref> D, lines 19-20. At Patara, at any rate, the term ἀπαρχή is somewhat surprising in this context. Yet it is far from inappropriate for a portion which might resemble the divine offering (the shoulderblade?), derive from the shoulder or involve this area of the animal in some way, but which would clearly be received by the priest (i.e. as a γέρας).</p>
+						
+<p>Lines 6-8: Meetings or gatherings, as well as camping overnight (or simply for a meal) are prohibited except to those offering sacrifices. For καταλύειν in this sense (<bibl type="abbr" n="LSJ">LSJ</bibl> s.v. II.2), and cf. e.g. the boundary regulation from Xanthos, <bibl type="abbr" n="SEG">SEG</bibl> 36, 1221, lines 11-14: μηδ᾽ ἐν ταῖς | στοιαῖς καταλύειν | μηθένα ἀλλ᾽ ἢ τοὺς | θύοντας. </p>
+					</div>
+			</body>
+    	</text>
+	</TEI>

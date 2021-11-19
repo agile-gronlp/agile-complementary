@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CGRN_218" xml:lang="en">
+	    <teiHeader>
+			<fileDesc>
+	    		<titleStmt>
+	    			<title><idno type="filename">CGRN 218</idno>: <rs type="textType" key="priestly contract">Contract</rs> of sale for the priesthood (of Asclepius?) on Kos</title> 
+	    			<author>Jan-Mathieu Carbon</author>
+	    			<author>Saskia Peels</author>
+				</titleStmt>
+				<publicationStmt>
+					<authority>Collection of Greek Ritual Norms, F.R.S.-FNRS Project no. 2.4561.12, University of Liège.</authority>
+					<availability>
+						<p>Creative Commons Attribution-NonCommercial-ShareAlike International License <ref target="http://creativecommons.org/" type="external">4.0</ref>.</p>	
+						<p>All citation, reuse or distribution of this work must contain somewhere a link back to the URL <ref target="http://cgrn.ulg.ac.be/">http://cgrn.ulg.ac.be/</ref> and the filename, as well as the year of consultation (see “Home” for details of how to cite).</p>
+					</availability>
+				</publicationStmt>
+				<sourceDesc><msDesc><msIdentifier><repository>n/a</repository></msIdentifier>
+	<physDesc>
+	<objectDesc>
+	<supportDesc><support>
+		<p> Four fragments of a white marble <rs type="objectType">stele</rs>.</p>
+		<p> Dimensions below given from the <foreign>editio princeps</foreign> (Parker - Obbink); note that Hallof - Bosnakis give slightly different dimensions. Another, smaller fragment with a very similar text and inscribed by a different hand (<bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 295) has been connected to this document. It may have been the sale of a priesthood that took place one generation earlier (Parker - Obbink); since the texts are not identical, they seem less likely to be two copies of the same text (so Hallof - Bosnakis). In any case, <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 295 is helpful in the restoration of our text.</p>
+		<p> A: Broken at the top, left and bottom; intact on the right. </p>		
+		<p> <dimensions>
+				<height unit="cm">unknown</height>
+				<width unit="cm">unknown</width>
+				<depth unit="cm">unknown</depth>
+			</dimensions></p>
+		
+		<p> B: Two joining fragments, broken at the top and on the right; intact on the left and bottom.</p>
+		<p>	<dimensions>
+			<height unit="cm">64</height>
+			<width unit="cm">40</width>
+			<depth unit="cm">14-14.5</depth>
+		</dimensions></p>
+		
+		<p> C: Broken on all sides. </p>
+		<p> <dimensions>
+			<height unit="cm">13.3</height>
+			<width unit="cm">7</width>
+			<depth unit="cm">14-14.5</depth>
+		</dimensions></p>
+		
+		</support>
+		</supportDesc>
+		<layoutDesc><layout>
+			<p> The interlinear space varies considerably throughout the inscription. By comparing these measurements for fragments A, B and C, Crowther has shown that the most likely placement of the nine lines of fragment C is at the right-hand side of B.21-29 or B.22-30, though another placement still remains possible.</p>
+	
+<p> Letters (fragments A-C): <height unit="cm">0.7</height>; space between lines: <height unit="cm">0.35-0.5</height> (cf. <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 294 for slightly different measurements). </p> 	
+		</layout></layoutDesc>
+		
+
+</objectDesc>
+		</physDesc>
+					<history>
+						<origin>
+
+		<p><origDate notBefore="-0125" notAfter="-0075">ca. 125-75 BC</origDate></p>							
+		<p><desc>Justification: lettering (Herzog). Hallof - Bosnakis assign the inscription to the beginning of the first century BC.</desc></p>
+						</origin>
+		<provenance><p><placeName type="ancientFindspot" key="Kos" n="Aegean_Islands"><ref target="http://pleiades.stoa.org/places/599528" type="external">Asklepieion of Kos</ref></placeName>. Found built into a door-frame. Current locations: Fragment A unknown; B is now mounted on the wall of the courtyard of the epigraphical storeroom of the Asklepieion; C is in the epigraphical storeroom.</p>
+						</provenance> 
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+	    	<encodingDesc><p>Encoded for EpiDoc schema 8.17 on 06-06-2015 by S. Peels</p>
+	    	</encodingDesc>
+	    	<profileDesc>
+	    		<langUsage>
+	    			<language ident="eng">English</language>
+	    			<language ident="grc">Ancient Greek</language>
+	    			<language ident="lat">Latin</language>
+	    			<language ident="fre">French</language>
+	    			<language ident="ger">German</language>
+	    			<language ident="gre">Modern Greek</language>
+	    			<language ident="ita">Italian</language>
+	    		</langUsage>
+	    		<textClass/>
+	    	</profileDesc>
+	    	<revisionDesc>
+	    		<change>Last revised by XX in 20XX.</change>     
+	    	</revisionDesc>
+	    </teiHeader>
+	<facsimile><graphic url="x"/></facsimile>
+	    <text>
+	    	<body>
+	    		<div type="bibliography">
+	    			<head>Bibliography</head>
+	    	
+	    	<p> Edition based on Hallof - Bosnakis <bibl type="abbr" n="IG XII.4">IG XII.4</bibl> 294.</p>
+	    	<p> Other edition: <bibl type="author_date" n="Parker - Obbink 2001">Parker - Obbink 2001</bibl>: 237-245.</p>
+
+	    			<p>Cf. also: <ref target="http://telota.bbaw.de/ig/IG%20XII%204,%201,%20294" type="external">IG-online</ref>, with the Greek text and a translation in German.</p>
+	    	<p> Further bibliography:
+	    		<bibl type="author_date" n="Kaminski 1991">Kaminski 1991</bibl>;
+	    		<bibl type="author_date" n="Lupu 2003b">Lupu 2003b</bibl>: 335-339;
+	    		<bibl type="author_date" n="Paul 2013a">Paul 2013a</bibl>.
+	    	</p>
+	    		
+</div>
+	    			<div type="edition">
+					<head>Text</head>
+	    				
+	    				<ab subtype="fragment" n="C">Fragment C 
+	    					
+<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_1" n="1"/> <gap reason="lost" quantity="1" unit="line"/>	    					
+	    					
+<lb xml:id="line_2" n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ρεσια</orig><gap reason="lost" extent="unknown" unit="character"/>	    	
+	    					
+<lb xml:id="line_3" n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>δων</orig> <orig>κα</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_4" n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τ</supplied>οῦ <name type="group"><w lemma="δῆμος">δάμο<supplied reason="lost">υ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_5" n="5"/> <gap reason="lost" extent="unknown" unit="character"/> τοῖς <name type="deity" key="generic"><w lemma="θεός">θεο<supplied reason="lost">ῖς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_6" n="6"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ς</orig> δὲ <w lemma="ἄλλος">ἄλλο</w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_7" n="7"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="προαιρέω"><supplied reason="lost">π</supplied>ροαιρη</w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_8" n="8"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">το</supplied>ῦ <name type="deity" key="Asclepius"><w lemma="θεός">θεοῦ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_9" n="9"/> <gap reason="lost" extent="unknown" unit="character"/><orig>Α</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>
+	    				<ab subtype="fragment" n="AB">Fragments AB
+	    					
+<lb/> <gap reason="lost" extent="unknown" unit="line"/>
+	    					
+<lb xml:id="line_10" n="10"/><gap reason="lost" extent="unknown" unit="character"/><orig>δια</orig><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_11" n="11"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὅπως"><supplied reason="lost">ὅπως</supplied></w> <name type="authority"><w lemma="συγγράφω"><supplied reason="lost">συγγ</supplied>ράφηται</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_12" n="12"/> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="τελέω"><supplied reason="lost">τε</supplied>λεύντωι</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_13" n="13"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"><unclear>ε</unclear>λε</supplied><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τ</supplied>οὶ <name type="title"><w lemma="ταμίας">ταμίαι</w></name>· ὁ δ<supplied reason="lost">ὲ</supplied><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_14" n="14"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὰν</supplied> <name type="authority"><w lemma="διαγραφή"><supplied reason="lost">διαγραφὰν</supplied></w> </name><gap reason="lost" extent="unknown" unit="character"/>ιου· ὁ δὲ <name type="authority"><w lemma="προγράφω">προ<unclear>γ</unclear><supplied reason="lost">εγραμμένος</supplied></w></name>
+	    						    				
+<lb xml:id="line_15" n="15"/> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">·</supplied> <w lemma="δίδωμι"><supplied reason="lost">διδόντωι</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="πᾶς"><supplied reason="lost">πάντες</supplied></w> <supplied reason="lost">τοὶ</supplied> <name type="sacrifice"><name type="person"><w lemma="θύω"><supplied reason="lost">θ</supplied>ύοντες</w></name></name> <name type="portion"><w lemma="γέρας">γέρη<supplied reason="lost">ι</supplied></w></name> <supplied reason="lost">τῶι</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱερεῖ</supplied></w></name> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοὸς</supplied></w></name>
+	    					
+<lb xml:id="line_16" n="16"/> <supplied reason="lost">μὲν</supplied> <supplied reason="lost">ἢ</supplied> <name type="animal" key="sheep"><w lemma="ὄϊς"><supplied reason="lost">οἰὸς</supplied></w></name> <name type="portion"><w lemma="δέρμα"><supplied reason="lost">δέρμα</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="portion"><w lemma="σκέλος"><supplied reason="lost">σκέλος</supplied></w></name>, τῶιν δὲ <w lemma="ἄλλος"><supplied reason="lost">ἄλλωιν</supplied></w> <name type="portion"><w lemma="σκέλος"><supplied reason="lost">σκέ</supplied>λος</w></name>· <name type="genericOffering"><w lemma="ἐμβάλλω">ἐμβαλλόν<supplied reason="lost">τωι</supplied></w></name> <supplied reason="lost">δὲ</supplied> <w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w> <supplied reason="lost">τὸν</supplied> 
+	    		
+<lb xml:id="line_17" n="17"/> <name type="structure"><w lemma="θησαυρός"><supplied reason="lost">θησαυρὸν</supplied></w></name> <supplied reason="lost">τῶι</supplied> <name type="deity" key="Asclepius"><w lemma="θεός"><supplied reason="lost">θεῶι</supplied></w></name> <name type="animal" key="ox"><w lemma="βοῦς"><supplied reason="lost">βοὸς</supplied></w></name> <supplied reason="lost">μὲν</supplied> 
+<supplied reason="lost"><num value="2">U+10175β′</num></supplied> 
+<supplied reason="lost">,</supplied> <supplied reason="lost">τῶιν</supplied> <supplied reason="lost">μὲν</supplied> <name type="age"><w lemma="τέλειος"><supplied reason="lost">τε</supplied>λείωιν</w></name> 
+<num value="1">U+10175 α′</num>, 
+τῶιν δ<supplied reason="lost">ὲ</supplied> <name type="age"><w lemma="ἀτέλειος"><supplied reason="lost">ἀτελείωιν</supplied></w></name>
+	    					
+<lb xml:id="line_18" n="18"/> <w lemma="ὀβολός"><supplied reason="lost">ὀβολὸς</supplied></w> <w lemma="τρεῖς"><supplied reason="lost">τρεῖς</supplied></w><supplied reason="lost">,</supplied> <w lemma="ἐπί"><supplied reason="lost">ἐπί</supplied></w> <supplied reason="lost">δὲ</supplied> <name type="animal" key="bird"><w lemma="ὄρνις"><supplied reason="lost">ὄρνιθι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἷς">ἕν</w>· τοῦ δὲ <w lemma="εἰς">ἐς</w> τὸν <name type="structure"><w lemma="θησαυρός">θησαυρὸ<supplied reason="lost">ν</supplied></w></name>
+	    					
+<lb xml:id="line_19" n="19"/> <name type="genericOffering"><w lemma="ἐμβάλλω"><supplied reason="lost">ἐμβαλλομένου</supplied></w></name> <w lemma="εἰμί"><supplied reason="lost">ἔστωι</supplied></w> <supplied reason="lost">τὰ</supplied> <supplied reason="lost">μὲν</supplied> <w lemma="δύο"><supplied reason="lost">δύο</supplied></w> <name type="portion"><w lemma="μέρος"><supplied reason="lost">μέρηι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὅς">ἅ</w> <w lemma="κα">κα</w> <w lemma="δοκέω">δόξηι</w> τῶι <name type="authority"><name type="group"><w lemma="δῆμος">δάμωι</w></name></name>, τὸ <supplied reason="lost">δὲ</supplied> 
+	    					
+<lb xml:id="line_20" n="20"/> <w lemma="τρίτος"><supplied reason="lost">τρίτον</supplied></w> <name type="portion"><w lemma="μέρος"><supplied reason="lost">μ</supplied>έρος</w></name> <supplied reason="lost">τοῦ</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱερέωις</supplied></w></name><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τᾶν</supplied> <supplied reason="lost">δὲ</supplied> <name type="object"><w lemma="κλᾴξ"><supplied reason="lost">κ</supplied><unclear>λ</unclear><supplied reason="lost">ακ</supplied>ῶιν</w></name> <w lemma="εἷς">μίαν</w> μὲν <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_21" n="21"/> <w lemma="ἔχω"><supplied reason="lost">ἐχέτ</supplied><unclear>ω</unclear>ι</w> ὁ <name type="personnel"><w lemma="ἱερεύς">ἱερεύ<supplied reason="lost">ς</supplied></w></name><supplied reason="lost">,</supplied> <supplied reason="lost">τὰν</supplied> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">τοὶ</supplied> <name type="title"><w lemma="προστάτης"><supplied reason="lost">προστάται</supplied></w></name><supplied reason="lost">,</supplied> <supplied reason="lost">τὰν</supplied> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">τοὶ</supplied> <name type="personnel"><w lemma="τραπεζίτης"><supplied reason="lost">τρα</supplied><unclear>π</unclear><supplied reason="lost">εζ</supplied><unclear>εῖ</unclear>ται</w></name> τᾶς τοῦ <name type="deity" key="Asclepius"><w lemma="θεός">θε<supplied reason="lost">οῦ</supplied></w></name>	    					
+	    					
+<lb xml:id="line_22" n="22"/> <name type="structure"><w lemma="τράπεζα"><supplied reason="lost">τραπ</supplied>έζας</w></name>· <w lemma="ἀνοίγνυμι">ἀν<unclear>ο</unclear><supplied reason="lost">ιγόντωι</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="ἐν"><supplied reason="lost">ἐμ</supplied></w> <name type="month"><w lemma="μείς"><supplied reason="lost">μηνὶ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="κατά"><supplied reason="lost">καθ᾿</supplied></w> <w lemma="ἕκαστος"><supplied reason="lost">ἕκ</supplied>αστον</w> <w lemma="ἐνιαυτός">ἐνιαυτὸν</w> <supplied reason="lost">καὶ</supplied>
+	    					
+<lb xml:id="line_23" n="23"/> <w lemma="ἐξαιρέω"><supplied reason="lost">ἐξ</supplied>αιρεύντωι</w> τ<supplied reason="lost">ὸ</supplied> <w lemma="εὑρίσκω"><supplied reason="lost">εὑρεθὲν</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="εἷς"><supplied reason="lost">ἓν</supplied></w> <name type="portion"><w lemma="μέρος"><supplied reason="lost">μέρος</supplied></w></name> <w lemma="ἀποδίδωμι"><supplied reason="lost">ἀποδιδόντωι</supplied></w> <supplied reason="lost">τῶι</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱερ</supplied>εῖ</w></name>, τὰ δὲ <w lemma="δύο">δύο</w> <name type="portion"><w lemma="μέρος">μέρηι</w></name> <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_24" n="24"/> <w lemma="φέρω"><supplied reason="lost">φ</supplied>ερόντωι</w> <w lemma="ἐπί">ἐπὶ</w> τὰ<supplied reason="lost">ν</supplied> <name type="structure"><w lemma="τράπεζα"><supplied reason="lost">τράπεζαν</supplied></w></name> <w lemma="ὅπως"><supplied reason="lost">ὅπως</supplied></w> <w lemma="δίδωμι"><supplied reason="lost">δοθῇ</supplied></w> <name type="genericOffering"><w lemma="ἀνάθεμα"><supplied reason="lost">ἀνάθεμα</supplied></w></name> <w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w> <supplied reason="lost">τὸ</supplied> <name type="structure"><w lemma="ἱερός"><supplied reason="lost">ἱερ</supplied>ὸν</w></name> <w lemma="ἀπό">ἀπὸ</w> τᾶν <name type="genericOffering"><w lemma="ἀπαρχή">ἀπαρχᾶν</w></name> 
+	    					
+<lb xml:id="line_25" n="25"/> <w lemma="ὅς">ἅ</w> <w lemma="κα">κα</w> <w lemma="δοκέω">δόξῃ</w> τῶι <name type="authority"><name type="group"><w lemma="δῆμος">δ<supplied reason="lost">άμωι</supplied></w></name></name><supplied reason="lost">·</supplied> <supplied reason="lost">ὁ</supplied> <supplied reason="lost">δὲ</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱερεὺς</supplied></w></name> <w lemma="ἐπιμελέομαι"><supplied reason="lost">ἐπιμελείσθω</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="ὅπως"><supplied reason="lost">ὅπωις</supplied></w> <w lemma="εἰμί"><supplied reason="lost">ᾖ</supplied></w> <w lemma="φῶς">φῶς</w> <w lemma="ἐπί">ἐπὶ</w> τῶιν <name type="structure"><w lemma="βωμός">βωμῶιν</w></name>
+	    					
+<lb xml:id="line_26" n="26"/> καὶ <name type="genericOffering"><w lemma="ἐπιθυμιάω">ἐπιθυμιῆ<unclear>τ</unclear><supplied reason="lost">αι</supplied></w></name> <name type="vegetal"><w lemma="λιβανωτός"><supplied reason="lost">λιβανωτὸς</supplied></w></name> <supplied reason="lost">καὶ</supplied> <w lemma="ἀνοίγνυμι"><supplied reason="lost">ἀνοιγνύηται</supplied></w> <supplied reason="lost">ὁ</supplied> <name type="structure"><w lemma="ναός"><supplied reason="lost">ναὸς</supplied></w></name> <w lemma="κατά"><supplied reason="lost">καθ᾿</supplied></w> <w lemma="ἡμέρα"><supplied reason="lost">ἁμέραν</supplied></w> <w lemma="κύριος">κύριος</w> <w lemma="εἰμί">ἐὼιν</w> <space extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_27" n="27"/> <name type="punishment"><w lemma="ζημιόω">ζαμιοῦν</w></name> τὸν <name type="person"><w lemma="ἀτακτέω">ἀτ<unclear>α</unclear><supplied reason="lost">κτεῦντα</supplied></w></name> <w lemma="μέχρι"><supplied reason="lost">μέχρι</supplied></w>
+ <supplied reason="lost">U+10175</supplied>
+<gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">·</supplied>
+ <w lemma="εἰ"><supplied reason="lost">αἰ</supplied></w> <supplied reason="lost">δέ</supplied> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <w lemma="μείζων"><supplied reason="lost">μείζονος</supplied></w> <name type="punishment"><w lemma="ζημία"><supplied reason="lost">ζαμίας</supplied></w></name> <w lemma="φαίνω"><supplied reason="lost">φαίνηται</supplied></w>
+	    						    				
+<lb xml:id="line_28" n="28"/> <w lemma="ἄξιος">ἄξιος</w> <w lemma="εἰμί">ἦμεν</w>, <w lemma="εἰσαγγέλλω">ἐσαγ̣<supplied reason="lost">γελλέσθωι</supplied></w> <w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w> <supplied reason="lost">τὸς</supplied> <name type="personnel"><w lemma="ἱεροφύλαξ"><supplied reason="lost">ἱεροφύλακας</supplied></w></name><supplied reason="lost">·</supplied> <w lemma="ἐπιμελέομαι"><supplied reason="lost">ἐπιμελείσθωι</supplied></w> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">ὁ</supplied> <name type="personnel"><w lemma="ἱερεύς"><supplied reason="lost">ἱερεὺς</supplied></w></name>
+	    						    					
+<lb xml:id="line_29" n="29"/> καὶ <w lemma="ὅπως">ὅπωις</w> τὸ <name type="structure"><w lemma="τέμενος">τέμε<supplied reason="lost">νος</supplied></w></name> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <w lemma="βόσκω"><supplied reason="lost">βόσκηται</supplied></w><supplied reason="lost">·</supplied> <w lemma="εἰ"><supplied reason="lost">αἰ</supplied></w> <supplied reason="lost">δέ</supplied> <w lemma="τις"><supplied reason="lost">τί</supplied></w> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <w lemma="εὑρίσκω"><supplied reason="lost">εὑρεθῇ</supplied></w> <w lemma="νέμω"><supplied reason="lost">νεμόμενον</supplied></w><supplied reason="lost">,</supplied> <w lemma="ἔξεστι"><supplied reason="lost">ἐξέστωι</supplied></w>
+	    						    					
+<lb xml:id="line_30" n="30"/> <name type="sacrifice"><w lemma="καταθύω">καταθύεν</w></name> τοῖς <name type="deity" key="generic"><w lemma="θεός">θ<unclear>ε</unclear><supplied reason="lost">οῖς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"><orig>ποικατα</orig></supplied> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">,</supplied> <supplied reason="lost">ὁ</supplied>
+	    						    					
+<lb xml:id="line_31" n="31"/> <w lemma="εὑρίσκω">εὑρών</w> <w lemma="τις">τι</w> <w lemma="νέμω">νεμόμε<supplied reason="lost">νον</supplied></w> <w lemma="φαίνω"><supplied reason="lost">φαινέτωι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τὸ</supplied> <supplied reason="lost">δὲ</supplied> <w lemma="λοιπός"><supplied reason="lost">λοιπόν</supplied></w>
+	    					
+<lb xml:id="line_32" n="32"/> <w lemma="εἰμί">ἔστωι</w> τῶιν <name type="deity" key="generic"><w lemma="θεός">θεῶιν</w></name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">αἰ</supplied> <supplied reason="lost">δέ</supplied> <w lemma="κα"><supplied reason="lost">κα</supplied></w>
+	    					
+<lb xml:id="line_33" n="33"/> <w lemma="μή">μὴ</w> <w lemma="ἐμφαίνω">ἐμφανίσηι</w> ἢ <w lemma="μή">μὴ</w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_34" n="34"/> <w lemma="ἐν">ἐν</w> τῶι <name type="structure"><w lemma="τέμενος">τεμένει</w></name> δε<gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_35" n="35"/> <name type="person"><w lemma="ἀπειθέω">ἀπειθεῦντα</w></name> κατα<gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_36" n="36"/> <w lemma="κατά">κατ᾿</w> <w lemma="αὐτός">αὐτὰ</w> <w lemma="πράσσω">πρασσον</w><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_37" n="37"/> τοὶ <w lemma="αἱρέω">αἱρεύμενοι</w> <name type="personnel"><w lemma="ἱεροφύλαξ">ἱεροφ<supplied reason="lost">ύλακες</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+	    					
+<lb xml:id="line_38" n="38"/> καὶ τοὶ <name type="personnel"><w lemma="ὑπηρέτης">ὑπηρέται</w></name> ἑκ<unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_39" n="39"/> <name type="deity" key="Asclepius"><w lemma="θεός">θεοῦ</w></name> <w lemma="ποιέω">ποιείσθωι</w> καὶ αὐ<unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_40" n="40"/> τῶι <name type="deity" key="Asclepius"><w lemma="θεός">θεῶι</w></name> <w lemma="ὑπό">ὑπὸ</w> τοῦ <name type="group"><w lemma="δῆμος">δάμου</w></name> <gap reason="lost" extent="unknown" unit="character"/> <w lemma="μή"><supplied reason="lost">μὴ</supplied></w> <w lemma="ἔξεστι"><supplied reason="lost">ἐξέστωι</supplied></w> <supplied reason="lost">δὲ</supplied> <w lemma="μήτε"><supplied reason="lost">μήτε</supplied></w>
+	    					
+<lb xml:id="line_41" n="41"/> <name type="title"><w lemma="ἄρχων">ἄρχοντι</w></name> <w lemma="μήτε">μήτε</w> <name type="person"><w lemma="ἰδιώτης">ἰδιώιτᾳ</w></name> <w lemma="μηδείς">μ<supplied reason="lost">ηδενὶ</supplied></w> <w lemma="εἰς"><supplied reason="lost">ἐς</supplied></w> <w lemma="ἄλλος"><supplied reason="lost">ἄλλο</supplied></w> <w lemma="καταχράομαι"><supplied reason="lost">καταχρήσασθαι</supplied></w> <supplied reason="lost">τὰ</supplied> <supplied reason="lost">τοῦ</supplied> <name type="deity" key="Asclepius"><w lemma="θεός"><supplied reason="lost">θεοῦ</supplied></w></name> <w lemma="χρῆμα"><supplied reason="lost">χρήματα</supplied></w>
+	    					
+<lb xml:id="line_42" n="42"/> <w lemma="ἤ">ἢ</w> <w lemma="μετάγω">μετάγεν</w> τὰς <w lemma="ἀπό">ἀπ᾿</w> <w lemma="αὐτός">αὐτῶ<supplied reason="lost">ιν</supplied></w> <w lemma="πρόσοδος"><supplied reason="lost">ποθόδους</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_43" n="43"/> <w lemma="αὐτός">αὐτῶι</w> <w lemma="εἰμί">ἔστωι</w> <w lemma="περί">περὶ</w> <w lemma="πᾶς">πᾶν</w> <w lemma="ὅς">ὅ</w> <w lemma="τις">τι</w> <w lemma="κα"><supplied reason="lost">κα</supplied></w> <name type="authority"><w lemma="γράφω"><supplied reason="lost">γράψῃ</supplied></w></name> <supplied reason="lost">ἢ</supplied> <name type="authority"><w lemma="ἐπιψηφίζω"><supplied reason="lost">ἐπιψαφίξῃ</supplied></w></name> <supplied reason="lost">καὶ</supplied> <name type="punishment"><w lemma="ἀποτίνω"><supplied reason="lost">ἀποτινέτωι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>		
+	    					
+<lb xml:id="line_44" n="44"/> καὶ ἁ <w lemma="γνώμη">γνώιμαι</w> <name type="authority"><w lemma="ἄκυρος">ἄκυρος</w></name> <w lemma="εἰμί">ᾖ</w>· <space quantity="1" unit="character"/> <unclear>τ</unclear><supplied reason="lost">οῖς</supplied> <supplied reason="lost">δὲ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	    					
+<lb xml:id="line_45" n="45"/> <name type="group"><w lemma="γένος">γένει</w></name> καὶ <w lemma="χρῆμα">χρήμασιν</w> <w lemma="εἰς">ἐς</w> <supplied reason="lost">τὸν</supplied> <w lemma="ἅπας"><supplied reason="lost">ἅπαντα</supplied></w> <w lemma="χρόνος"><supplied reason="lost">χρόνον</supplied></w><supplied reason="lost">·</supplied> <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> <supplied reason="lost">δὲ</supplied> <supplied reason="lost">τᾶι</supplied> <w lemma="πρᾶσις"><supplied reason="lost">πράσει</supplied></w> <supplied reason="lost">τᾶς</supplied> <name type="personnel"><w lemma="ἱερωσύνη"><supplied reason="lost">ἱερωισύνας</supplied></w></name>
+	    					
+<lb xml:id="line_46" n="46"/> <name type="sacrifice"><w lemma="θύω">θυσάντωι</w></name> τοὶ <name type="title"><w lemma="προστάτης">προστάται</w></name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τῶιν</supplied> <supplied reason="lost">τοῦ</supplied>
+	    					
+<lb xml:id="line_47" n="47"/> <name type="deity" key="Asclepius"><w lemma="θεός">θεοῦ</w></name> <w lemma="χρῆμα">χρημάτωιν</w> <w lemma="ἀπό">ἀπὸ</w> <w lemma="δραχμή">δρα<supplied reason="lost">χμᾶν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+
+<lb/><gap reason="lost" extent="unknown" unit="line"/>
+	    				</ab>		
+				</div>
+				<div type="translation" xml:lang="eng">
+					<head>Translation</head>
+					<p>Fragment C</p>
+					<p>(Given the fragmentary character of this part of the text, no translation is attempted; see Commentary.)</p>
+<p>Fragment AB</p>
+<p> [... (10) ... so that] it is written down [...] should pay [...] the treasurers [... the contract ...] the previously written (15) [... All those] sacrificing [should give] as perquisites [to the priest: the skin and the leg in the case of an ox or sheep, and the] leg [in the case of other animals.] They should deposit [in the money box for the god 2 drachmae in the case of an ox], and 1 drachma for mature animals, [3 obols for young ones, and for a bird ...] 1. Of the proceeds deposited in the cash box, [two thirds should be ...] as determined by the people; [and the third] (20) part [goes to the priest. ...] the priest should have one [of the keys, the <foreign>prostatai</foreign> also, and] the officers of the bank of the god. They should open [it in the month of ...] each year and remove [the contents and give one third to the priest] and deposit the other two thirds in [the bank so that there may be given a dedication into the sanctuary] from the first offerings (25), whatever (offering) the [people] decide. [The priest should see to it] also that there is fire on the altars and that [incense] is burned and [that the temple is opened every day,] having the authority to penalise [anyone behaving in a disorderly way up to ... drachmae. If he appears] to be deserving [of greater penalty,] let him denounce him [to the <foreign>hierophylakes</foreign>. The priest should see to it] that the precinct [is not used as a pasture. If any (animal) is found feeding in it, let it be permitted] (30) to sacrifice it to the gods [...]. Anyone finding any (animal) grazing [should denounce it... The remainder] shall be for the gods. [...] But if he does not report it or if he doesn't [...] in the precinct [...] (35) the one disobeying the rules [...] act according to the same [...] the chosen <foreign>hierophylakes</foreign> and [...] and the servants [...] of the god should be made also [...] (40) to the god by the people [... It shall not be permitted neither] for a magistrate nor for any private person [whosoever to spend the sacred funds for any other purpose] not to divert [the revenues] from them [...] let him have [...] concerning everything, whatever [he proposes or puts to the vote and he should pay a penalty ...] and his proposal should be invalid. For the [...] (45) for his family and property for [all time. Upon the sale of the priesthood] the <foreign>prostatai</foreign> should sacrifice [...] out of the funds of the god to the value of [...] drachmae [...]</p>
+					<p>(translation adapted from <bibl type="author_date" n="Parker - Obbink 2001">Parker - Obbink 2001</bibl>)</p>
+					</div>
+				<div type="translation" xml:lang="fre">
+					<head>Traduction</head>
+					<p>Fragment C</p>
+					<p>(En raison du caractère très fragmentaire de cette partie du texte, aucune tentative de traduction n'est proposée; voir ci-dessous, Commentary.)</p>
+					<p>Fragment AB</p>
+<p>[... (10) ... afin que] cela soit consigné [...] qu'il paie [...] les trésoriers [... le contrat ...], celui qui a été rédigé auparavant (15) [...] Que [tous] ceux qui sacrifient [donnent] comme parts d'honneur [au prêtre : la peau et une patte dans le cas d'un bovin ou d'un mouton] et une patte [des autres animaux]. Qu'ils déposent [dans le tronc à offrandes, pour le dieu, 2 drachmes dans le cas d'un bovin] et 1 drachme pour des animaux adultes, [trois oboles pour de jeunes animaux, et pour un oiseau ...] 1. [De ce qui a été déposé] dans le tronc à offrandes, [que les deux tiers soient ...] selon ce qui convient au peuple. (20) [Que la troisième] part (revienne) [au prêtre ... Que] le prêtre reçoive une [des clés; les prostates aussi et les trésoriers de la banque du dieu]. Qu'il l'ouvrent [au mois de ...] chaque année et qu'ils prélèvent [le contenu et donnent un tiers au prêtre]; qu'ils déposent les deux tiers restants à [la banque afin que soit faite une dédicace dans le sanctuaire] prélevée sur les prémices, (25) selon ce qui convient au peuple. [Que le prêtre veille aussi à ce que] le feu brûle sur les autels, que s'y consume [l'encens, et que le temple soit ouvert chaque jour], détenant l'autorité pour pénaliser [l'indiscipline jusqu'à ... drachmes. S'il paraît] mériter [une pénalité plus importante], qu'il soit dénoncé [aux hiérophylaques. Que le prêtre veille] aussi à ce que l'enceinte [ne serve pas de pâture. Si un animal est découvert en train de brouter, qu'il soit permis] (30) de le sacrifier aux dieux [...]. Celui qui trouve un animal en train de brouter [devra dénoncer ... Que le reste] soit pour les dieux [...]. S'il ne dénonce ni ne [...] dans l'enceinte [...] (35) celui qui contrevient [...] agit selon [...] les hiérophylaques qui ont été choisis [...] et les serviteurs [...] du dieu, qu'il soit fait aussi [...] (40) au dieu par le peuple [... qu'il ne soit permis ni] à un archonte, ni à un particulier ni [à quiconque d'utiliser les fonds du dieu à d'autres fins] ni d'en prélever [des revenus ...] qu'il ait [...] à propos de tout ce qu'[il propose ou met au vote et qu'il paie une amende ...] et la proposition sera invalide. Pour les [...] (45) pour sa famille et ses biens pour [le reste du temps. Pour la vente de la prêtrise], que les prostates sacrifient [...] sur les fonds du dieu à hauteur de [...] drachmes [...]  </p>
+				</div>
+					<div type="commentary">    
+						<head>Commentary</head>    
+
+<p>The identification of this sale of priesthood with that of Asclepius is highly plausible, though not completely certain (for sales of priesthoods on Kos, cf. e.g. <ref target="CGRN_147">CGRN 147</ref>). The name of the god is not mentioned anywhere in the inscription, but the findspot of the fragments is the Asklepieion. Furthermore, the mention of a money-box and the sacrifice of birds strongly points in the direction of this god. We know that there was a money-box at the Asklepieion; its construction is ordered in an earlier inscription from Kos (cf. <bibl type="abbr" n="LSCG">LSCG</bibl> 155, ca. 170-150 BC, but see below on lines 21-22); money-boxes are of course mentioned in other cults, for example that of Aphrodite Pandamos and Pontia, <ref target="CGRN_220">CGRN 220</ref>, lines 10, 11, 16, 23, or that of cult of Nike, <ref target="CGRN_163">CGRN 163</ref>, line 18. Birds were often sacrificed in the worship of Asclepius, cp. for example <ref target="CGRN_34">CGRN 34</ref> (Epidauros), lines 23-24, and <ref target="CGRN_70">CGRN 70</ref> (Oropos), line 7. Parker and Obbink hypothesized that the cult in question here was perhaps one of Asclepius, Hygieia, and Epione jointly, as in <bibl type="abbr" n="LSCG">LSCG</bibl> 162, and here <ref target="CGRN_139">CGRN 139</ref>, lines 9, 11-12, and <ref target="CGRN_161">CGRN 161</ref>, lines 1-2, 4-5; this is possible but not certain. For a wider discussion of the cult of Asclepius on Kos, cf. Paul, p. 172-185.</p>
+
+<p>The sense of the first extant part of the inscription, lines 1-15, and of lines 32-39, is difficult to discern. The main body of the preserved regulation, as translated here, is concerned with a variety of subjects relating to the priesthood. Lines 15-25 discuss priestly perquisites and sacrificial tariffs to be deposited in the money-box, as well as the use of this money; lines 25-32 discuss variously the caretaking duties of the priest but also his authority to punish or fine transgressors, such as those who pasture animals in the sanctuary; lines 39-44 contain prohibitions against the improper use of the funds of the god, while in conclusion, lines 44-46 contain a brief discussion of the sacrifice that must be made on the occasion of the sale of the priesthood.</p>
+		
+<p> Lines 15-17 : The skin and/or the leg were the most common perquisites for priests on Kos, cf. see <ref target="CGRN_164">CGRN 164</ref>, lines 7-9; an exact parallel for these perquisites is found in <ref target="CGRN_163">CGRN 163</ref>, lines 14-16.</p>
+		
+<p> Lines 16-17: The same amounts to be deposited into the money-box are specified in <ref target="CGRN_220">CGRN 220</ref>, lines 10-12, from Kos. The amount for a bird is also 1 obol in <ref target="CGRN_70">CGRN 70</ref> (Oropos), cf. Lupu  for a more elaborate discussion on sacrificial tariffs; on <foreign>thesauroi</foreign>, cf. also Kaminski.</p>
+		
+<p> Lines 18-20 and lines 22-25: Two other priestly contracts from Kos describe the opening of the <foreign>thesauros</foreign>: these are <ref target="CGRN_163">CGRN 163</ref>, lines 21-23, and <ref target="CGRN_220">CGRN 220</ref>, lines 16-20. In these inscriptions, the priest receives half of the income as his due, while the other half is consecrated to the god. The division restored here—one third for the priest, two thirds for the community—may be inferred from line 23, where the amount of "two parts" is clearly mentioned.</p>
+		
+<p> Lines 21-22: As Parker and Obbink point out, the decree in which the construction of the money-box was ordered (<bibl type="abbr" n="LSCG">LSCG</bibl> 155, ca. 170-150 BC) made mention of four keys (one each for the <foreign>prostatai</foreign> the <foreign>hierophylakes</foreign>, the priest and the <foreign>tamiai</foreign>). Here, intriguingly, only three keys are mentioned, for the <foreign>prostatai</foreign>, the priest, and the "bankers of the god" respectively. The discrepancy is difficult to explain, unless the arrangement had changed over the course of less than a century; another possibility is that we are dealing with a different priesthood and consequently a different money-box in the Asklepieion. On the "bankers of the god", cf. the discussion in Parker - Obbink with further references.</p>
+	
+<p> Lines 25-26: On providing fire on the altars and burning incense as a priestly duty, cf. <ref target="CGRN_188">CGRN 188</ref> (Kos), lines 9-12, with the same requirements. On the requirement of opening the sanctuary every day we may also compare the same text, as well as <ref target="CGRN_163">CGRN 163</ref> (Kos), lines 3-4, in which worshippers who wanted to make a sacrifice could do so "on all days on which this religiously sanctioned". At Oropos (<ref target="CGRN_75">CGRN 75</ref>), by contrast, the priest was obliged to be present in the sanctuary a certain amount of days per month "from when winter has passed until the season of ploughing" (lines 1-6).</p>
+							
+<p> Lines 28-32: On the prohibition against using the sanctuary as a pasture, cp. <ref target="CGRN_181">CGRN 181</ref> (Eresos), lines 21-22, and <ref target="CGRN_90">CGRN 90</ref> (Ialysos), lines 21-31. The stipulation that a animal that has transgressed these rules should be sacrificed does not occur elsewhere (cf. Parker - Obbink).</p>
+	
+<p> Lines 40-45: The prohibition developed here is fragmentary, but the passage seems to be concerned with preventing the illegal use of sacred monies. On penalties for those who spend consecrated money or money prescribed to be used for sacred purposes, or propose to do so by putting this to a vote, cf. the following examples from Kos: <ref target="CGRN_147">CGRN 147</ref>, lines 146-151; <ref target="CGRN_197">CGRN 197</ref>, lines A24-27, and <ref target="CGRN_220">CGRN 220</ref>, lines 22-24.</p>
+		
+<p> Lines 45-47: For the sacrifice made upon the sale of the priesthood on Kos, cf. <ref target="CGRN_208">CGRN 208</ref>, lines 58-59, <ref target="CGRN_220">CGRN 220</ref>, lines 35-37, 49, and <ref target="CGRN_221">CGRN 221</ref>, lines 9-14.</p>
+	
+				</div>
+			</body>
+    	</text>
+	</TEI>
