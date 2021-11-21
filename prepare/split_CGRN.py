@@ -12,7 +12,7 @@ def extract_words_lemmas(path):
     """
     Extracts all words from the CGRN XML files, mapping them to their gold lemma form.
     :param path: str of the file path to the CGRN file
-    :return: list of tuples where tuple[0] is the word and tuple[1] the token
+    :return: list of tuples where tuple[0] is the word and tuple[1] the lemma
     """
 
     # Retrieve relevant XML
@@ -115,7 +115,7 @@ def add_pair(word, lemma, words_lemmas):
     Adds word-lemma pairs to a list.
     :param word: word (str) to be added
     :param lemma: lemma (str) to be added
-    :param words_lemmas: list of tuples where tuple[0] is the word and tuple[1] the token
+    :param words_lemmas: list of tuples where tuple[0] is the word and tuple[1] the lemma
     :return: 2 empty strings to reset the word and lemma vars
     """
 
