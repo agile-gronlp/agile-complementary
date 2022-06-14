@@ -83,4 +83,7 @@ As [`evaluate.py`](https://github.com/agile-gronlp/agile-complementary/blob/mast
 ## Bibliography
 Carbon, J.-M., Peels, S. and V. Pirenne-Delforge. _A Collection of Greek Ritual Norms (CGRN)_, Liège 2016- (http://cgrn.ulg.ac.be, consulted in 2021).
 
-Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of the Old Indo-European Bible Translations'. In Caroline Sporleder and Kiril Ribarov (eds.). _Proceedings of the Second Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008)_ (2008), pp. 27-34.  
+Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of the Old Indo-European Bible Translations'. In Caroline Sporleder and Kiril Ribarov (eds.). _Proceedings of the Second Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008)_ (2008), pp. 27-34.
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
