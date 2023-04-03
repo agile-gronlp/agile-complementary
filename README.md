@@ -78,6 +78,12 @@ python3 run_lemma.py UD_Ancient_Greek-agile --num_epoch 50 --no_pos --save_dir .
 ```
 
 ### 8. Evaluate
+
+```
+cd ../../../../evaluate
+python3 evaluate.py
+```
+
 As [`evaluate.py`](https://github.com/agile-gronlp/agile-complementary/blob/master/evaluate/agile.py) computes, the system gets __85.09%__ of the CGRN test lemmata correct. Please note this includes custom rules and a lexicon look-up as implemented in [`agile.py`](https://github.com/agile-gronlp/agile-complementary/blob/master/evaluate/agile.py). In addition, the score does not include all articles, particles, conjunctions and prepositions. Furthermore, pretokenized texts are given to the lemmatizer. The custom rules (e.g. the digamma removal) have already been applied at step 5 and thus the evaluation does not show these characters, which is independent from the performance.
 
 ## Bibliography
