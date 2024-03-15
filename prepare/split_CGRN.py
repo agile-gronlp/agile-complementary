@@ -27,7 +27,7 @@ def extract_words_lemmas(path):
     xml = re.sub('<surplus.*?>.*?</surplus>', '', xml)  # Remove surplus elements
     xml = re.sub('<sic.*?>.*?</sic>', '', xml)  # Remove sic elements
     xml = re.sub('[()?]', '', xml)  # Remove notes
-    xml = re.sub('\([^)]*\)', '', xml)  # Remove text within brackets (e.g. οὕτω(ς) -> οὕτω)
+    xml = re.sub('[()]*', '', xml)  # Remove only brackets (e.g. οὕτω(ς) -> οὕτως)
     xml = re.sub('[|∣·∙∶:,.⁝⋮⁞⁙“”]', '', xml)  # Remove extra-alphabetical chars
     # Add custom rules (chars have been normalized)
     xml = re.sub('[Ϝϝh]', '', xml)
